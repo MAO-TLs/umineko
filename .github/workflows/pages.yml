@@ -1,7 +1,6 @@
 name: Website
 on:
   push:
-    branches: [main]
   pull_request:
   workflow_dispatch:
 permissions:
@@ -14,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
       - name: Verify publication identity
         env:
           EXPECTED: MAO Translations <MAO-TLs@users.noreply.github.com>

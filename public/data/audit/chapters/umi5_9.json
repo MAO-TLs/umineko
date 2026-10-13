@@ -1,1 +1,933 @@
-{"findings":[{"id":"WH-EP05-CH09-001","kind":"WH","description":"Unfair blame imposed on Natsuhi becomes self-blame.","categories":["linguistic.wrong_subject","character.agency_responsibility","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[11,11],"MG":[11,11],"UP":[11,11]},"japanese":"そなたばかりが責められたのでは、割が合わぬな」","japanesePC":"「......子を成すのは、二人の努力と天の気まぐれ。そなたばかりが責められたのでは、割が合わぬな。」","japanesePS3":"そなたばかりが責められたのでは、割が合わぬな」","WH":"\"......The creation of a child depends on the efforts of two people and the whims of heaven.  It's not fair to place all the blame on yourself.\"","MG":"It's not fair to place all the blame on yourself.\"","UP":"It's not fair to place all the blame on yourself.\"","note":"Parent independently read1–240 all witnesses and PC24879–84. Both11 retain self-blame rather than unfair blame imposed on Natsuhi. UP66 introduced object-case error. HoldMG86 nothing but pain can describe impact of imposed adoption while compassion84–85 remains, not unequivocal denial of all compassion. UP6 herb plausible medication inclusion;26 innocence explicitly infertility consolation not universal narrator verdict;31 unspecified孫 no firm number;43 training and social service pragmatic paraphrase;81result82I see can express understanding. No yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_9-L0010","readerRefs":{"WH":["umi5_9-L0010"],"MG":["umi5_9-L0010"],"UP":["umi5_9-L0010"]}}],"sourceReading":"そなたばかりが責められた objects to Natsuhi alone being blamed for failure to conceive when two people and chance are involved.","alternative":"Natsuhi also blames herself later, and Beatrice consoles her throughout, but WH relocates this initial criticism from other people’s treatment of her to her own self-accusation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH09-002","kind":"WH","description":"Servant venturing too far becomes difficult terrain.","categories":["linguistic.word_choice","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[129,129],"MG":[129,129],"UP":[129,129]},"japanese":"でも、………赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか…？","japanesePC":"でも、.........赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか...？","japanesePS3":"でも、………赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか…？","WH":"However, .........wouldn't that path be fairly hard to travel on when taking a walk with a baby in your arms...?","MG":"However, ......wouldn't that path be fairly hard to travel on when taking a walk with a baby in your arms...?","UP":"However, .........wouldn't that be venturing a little too far for a walk with a baby in your arms...?","note":"Parent independently read1–240 all witnesses and PC25323–31. MG129 difficulty versus too-far detour retained, UP restores. Both205 singular woman replaces explicitly plural ladies, supplementary canonical follows. Hold158 beneficiary consolation while exact responsibility-taking156159–161 restored;199200 trance context allows awareness/nonattention paraphrase;218 scene retrospective burning image tense not firm factual change;220 gaps unobstructed continuous panorama acceptable;179 any small distance away urgency paraphrase, no fixed destination. All supernatural blame-taking and mercy claims remain source-character presentation. No yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_9-L0127","readerRefs":{"WH":["umi5_9-L0127"],"MG":["umi5_9-L0127"],"UP":["umi5_9-L0127"]}}],"sourceReading":"After discussing leaving the woodland path for the grove, Natsuhi wonders whether the servant ventured much too far in while carrying a baby.","alternative":"Rough terrain is plausible, and the following cliff account remains intact, but WH supplies travel difficulty instead of the questionable extent of the detour.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH09-003","kind":"WH","description":"Kinzo’s continuing non-possession becomes anticipated possession.","categories":["linguistic.logical_relation","character.motivation_emotion","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[255,255],"MG":[255,255],"UP":[255,255]},"japanese":"どこまで我が物にならぬというのか！！","japanesePC":"「ふ、......ふっふふふふふふふ、ふっはっはっははははははははははっはっはは！！　読めていたぞ、読めていたぞ、この顛末はな！　どこまで足掻くのか。どこまで我が物にならぬというのか！！　わっはっはははははははははははは！！　空の檻に興味はない！　打ち捨てい！！」","japanesePS3":"どこまで我が物にならぬというのか！！","WH":"\"Heh, ......heheheheheheheh, fwahahahahahahahahahahahhahhahaha!!  I saw this coming, I knew this would happen!  How long will you struggle?  How long will it be before you're mine?!!  Wahahahahaahahahahahaha!!  I have no interest in an empty cage!  Throw it away!!\"","MG":"How long will it be before you're mine?!!","UP":"To what lengths will you go to escape being mine?!!","note":"All three witnesses read with surrounding context and original-PC anchors verified. Hold308 idiomatic worthy opponents versus plentiful opponents because309 celebrates multiple guests; hold346 retirement conditional as teasing exaggeration; hold321–322 orders for promised compliance in the already compulsory caller instructions. No proven PC-only material. Character claims about guilt, recollection and survival remain attributed claims.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_9-L0252","readerRefs":{"WH":["umi5_9-L0252"],"MG":["umi5_9-L0252"],"UP":["umi5_9-L0252"]}}],"sourceReading":"どこまで我が物にならぬというのか angrily asks to what lengths the addressed entity will go in not becoming his, continuing the struggle question and preceding rejection of an empty cage.","alternative":"How long before you are mine can imply frustrated resistance, but WH presumes eventual possession where the source explicitly emphasizes refusal or continuing non-possession. The unspecified addressee is not identified by this finding.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH09-004","kind":"WH","description":"Denial that baby ever existed becomes forgetting its existence.","categories":["linguistic.logical_relation","character.voice_state","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[271,271],"MG":[271,271],"UP":[271,271]},"japanese":"そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた…！！","japanesePC":"そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた...！！","japanesePS3":"そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた…！！","WH":"I forgot everything, even that the baby had existed in the first place...!!","MG":"I forgot everything, even that the baby had existed in the first place...!!","UP":"I forgot everything, even that the baby had existed in the first place...!!","note":"All three witnesses read with surrounding context and original-PC anchors verified. Hold308 idiomatic worthy opponents versus plentiful opponents because309 celebrates multiple guests; hold346 retirement conditional as teasing exaggeration; hold321–322 orders for promised compliance in the already compulsory caller instructions. No proven PC-only material. Character claims about guilt, recollection and survival remain attributed claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_9-L0268","readerRefs":{"WH":["umi5_9-L0268"],"MG":["umi5_9-L0268"],"UP":["umi5_9-L0268"]}}],"sourceReading":"Natsuhi says she forgot everything by treating the baby as never having existed from the start; the preceding rejection of even calling it an accident makes this a deliberate denial formulation.","alternative":"WH preserves forgetting and nightmare language, so repression remains intelligible, but forgetting that it existed is not the stated reconstruction that it never existed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH09-005","kind":"WH","description":"No culpable sin chargeable to Natsuhi becomes no sin occurred.","categories":["linguistic.overinterpretation","character.agency_responsibility","mystery.scope_quantifier_negation","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[296,296],"MG":[296,296],"UP":[296,296]},"japanese":"……１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。","japanesePC":"「落ち着けっ。......１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。","japanesePS3":"……１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。","WH":"\"Calm down.  ......No matter who the man from 19 years ago hates or what he yells, there's no way the sin he's after actually occurred.","MG":"...No matter who the man from 19 years ago hates or what he yells at you, there's no way the sin he's after actually occurred.","UP":"......No matter who the man from 19 years ago hates or what he yells, there's no way the sin he's after actually occurred.","note":"All three witnesses read with surrounding context and original-PC anchors verified. Hold308 idiomatic worthy opponents versus plentiful opponents because309 celebrates multiple guests; hold346 retirement conditional as teasing exaggeration; hold321–322 orders for promised compliance in the already compulsory caller instructions. No proven PC-only material. Character claims about guilt, recollection and survival remain attributed claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_9-L0295","readerRefs":{"WH":["umi5_9-L0295"],"MG":["umi5_9-L0295"],"UP":["umi5_9-L0295"]}}],"sourceReading":"Beatrice says no sin exists for which the nineteen-year man can pursue Natsuhi: she denies culpability attributable to Natsuhi, following accident and no-touch discussion.","alternative":"Surrounding reassurance is categorical, but WH broadens from her culpability to whether the sin the caller alleges ever happened at all. This is ordinary dialogue, not red truth.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH09-006","kind":"WH","description":"Lambda’s rejection of slow Beatrice-style development becomes a claim that she and Beatrice share the same dislike.","categories":["linguistic.logical_relation","character.voice_state","character.relationship_power","world.world_layer"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[441,441],"MG":[441,441],"UP":[441,441]},"japanese":"うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」","japanesePC":"「.........いい、戦人？　いよいよ二日目を始めるわよ？　うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」","japanesePS3":"うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」","WH":"\".........Ready, Battler?  The second day is finally about to start.  Heheheheh!  Just like Beato, I hate slow story progression!\"","MG":"Heheheheh! Just like Beato, I hate slow story progression!\"","UP":"Heheheheh! I hate Beato's kind of slow, plodding storytelling!\"","note":"Full tail read in JP/MG/UP with PC checks. Hold MG366 singular I because collective we immediately resumes367; hold UP422 we two witches as free indirect taunting voice supported423–427; hold458 handshake mockery nuance as contextual provocation. Violence and cruel imagery are present in current Japanese, so no yellow carryover proven. All seven active CH09 canonical WH parents now have separate comparator outcomes.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_9-L0439","readerRefs":{"WH":["umi5_9-L0439"],"MG":["umi5_9-L0439"],"UP":["umi5_9-L0439"]}}],"sourceReading":"私はベアトみたいに、トロい展開は嫌いなんだから rejects dragging development like Beatrice’s while asserting Lambda will begin day two. The comparison qualifies the slow development she dislikes, rather than making Beatrice a fellow hater.","alternative":"The placement of みたいに can invite a surface attachment to the speaker comparison, but the scene emphasizes Lambda’s takeover and harsher game in contrast with Beatrice’s indulgence. Just like Beato supplies the opposite characterization.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH09-007","kind":"WH","description":"WH reduces the ladies in elegant dresses beckoning from the arbor to one woman.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[205,205],"MG":[205,205],"UP":[205,205]},"japanese":"……優雅なドレスを着た貴婦人たちが手招きをしている………。","japanesePC":"そこに東屋があり、......優雅なドレスを着た貴婦人たちが手招きをしている.........。","japanesePS3":"……優雅なドレスを着た貴婦人たちが手招きをしている………。","WH":"There stood an arbor, ......and a woman wearing an elegant dress beckoning her.........","MG":"...and a woman wearing an elegant dress beckoning to her......","UP":"......and a woman wearing an elegant dress beckoning her.........","note":"Original PC and coherent paired context verified under ep05-ch09-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_9-L0201","readerRefs":{"WH":["umi5_9-L0201","umi5_9-L0206"],"MG":["umi5_9-L0201"],"UP":["umi5_9-L0201"]}}],"sourceReading":"貴婦人たち explicitly denotes multiple ladies. No singular focus qualification occurs in the source imagined scene.","alternative":"The scene could focus on one principal lady, but the source depicts the group. This concerns represented number only, not physical certification of supernatural events.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH09-001-120-001","kind":"additional","description":"UP uses nominative I as part of the object of want.","categories":["linguistic.grammar"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[66,66],"MG":[66,66],"UP":[66,66]},"japanese":"「……それはつまり、……私と夫の子として…、育てよと仰るのですか……」","japanesePC":"","japanesePS3":"「……それはつまり、……私と夫の子として…、育てよと仰るのですか……」","WH":"","MG":"\"...In other words, ...you want me to raise this baby...as me and my husband's own child...?\"","UP":"\"......In other words, ......you want my husband and I to raise this baby...as our own child......?\"","note":"","dispositions":{"MG":"no_introduced_defect","UP":"defect"},"readerRef":"umi5_9-L0066","readerRefs":{"WH":[],"MG":["umi5_9-L0066"],"UP":["umi5_9-L0066"]}}],"sourceReading":"You want my husband and I to raise this baby needs objective my husband and me. OriginalPC24883 uses want me to raise and does not have this introduced object-case error.","alternative":"Common informal hypercorrection remains understandable but I is nominative in an object position. MG own-child possessive wording awkward but is a separate inherited construction, not this introduced UP issue.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH09-241-360-001","kind":"additional","description":"MG changes potentially being considered alive into potentially discovering actual survival.","categories":["linguistic.mistranslation","mystery.epistemic_status"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[285,285],"MG":[285,285],"UP":[285,285]},"japanese":"でも、ニンゲンの世界では生きていることになっているのかもしれない。","japanesePC":"","japanesePS3":"でも、ニンゲンの世界では生きていることになっているのかもしれない。","WH":"","MG":"However, you might find out that it's alive in the world of Humans.","UP":"But in the Humanhuman world, it might still be considered alive.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi5_9-L0283","readerRefs":{"WH":[],"MG":["umi5_9-L0283"],"UP":["umi5_9-L0283"]}}],"sourceReading":"生きていることになっている describes being represented or considered alive. OriginalPC JP25665 and WH25666 retain made out to be alive; UP retains considered alive. MG introduces you might find out that it is alive.","alternative":"Might still qualifies the claim, and row286 distinguishes actual survival. That mitigates the inference but does not restore the represented-status proposition in285.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH09-361-491-001","kind":"additional","description":"MG omits the article before proactive and clear answer.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_9","episode":5,"rows":{"JP":[460,460],"MG":[460,460],"UP":[460,460]},"japanese":"その手を弾くという、より積極的な行為で明白な返事をしてやる。","japanesePC":"","japanesePS3":"その手を弾くという、より積極的な行為で明白な返事をしてやる。","WH":"","MG":"I gave her proactive and clear answer by knocking her hand aside.","UP":"I gave her an active and clear answer by knocking her hand aside.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi5_9-L0458","readerRefs":{"WH":[],"MG":["umi5_9-L0458"],"UP":["umi5_9-L0458"]}}],"sourceReading":"MG I gave her proactive and clear answer requires a singular-count article. OriginalPC26211–26212 and UP retain an active and clear answer.","alternative":"Meaning and physical action remain clear; this is a local grammar defect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP05-CH09-001",
+      "kind": "WH",
+      "description": "Unfair blame imposed on Natsuhi becomes self-blame.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              11,
+              11
+            ],
+            "MG": [
+              11,
+              11
+            ],
+            "UP": [
+              11,
+              11
+            ]
+          },
+          "japanese": "そなたばかりが責められたのでは、割が合わぬな」",
+          "japanesePC": "「......子を成すのは、二人の努力と天の気まぐれ。そなたばかりが責められたのでは、割が合わぬな。」",
+          "japanesePS3": "そなたばかりが責められたのでは、割が合わぬな」",
+          "WH": "\"......The creation of a child depends on the efforts of two people and the whims of heaven.  It's not fair to place all the blame on yourself.\"",
+          "MG": "It's not fair to place all the blame on yourself.\"",
+          "UP": "It's not fair to place all the blame on yourself.\"",
+          "note": "Parent independently read1–240 all witnesses and PC24879–84. Both11 retain self-blame rather than unfair blame imposed on Natsuhi. UP66 introduced object-case error. HoldMG86 nothing but pain can describe impact of imposed adoption while compassion84–85 remains, not unequivocal denial of all compassion. UP6 herb plausible medication inclusion;26 innocence explicitly infertility consolation not universal narrator verdict;31 unspecified孫 no firm number;43 training and social service pragmatic paraphrase;81result82I see can express understanding. No yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_9-L0010",
+          "readerRefs": {
+            "WH": [
+              "umi5_9-L0010"
+            ],
+            "MG": [
+              "umi5_9-L0010"
+            ],
+            "UP": [
+              "umi5_9-L0010"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……子を成すのは、二人の努力と天の気まぐれ。そなたばかりが責められたのでは、割が合わぬな」",
+              "translation": "\"...Children are created by the efforts of two people and the whims of heaven. It's not fair to place all the blame on yourself.\" "
+            },
+            "UP": {
+              "japanese": "「……子を成すのは、二人の努力と天の気まぐれ。そなたばかりが責められたのでは、割が合わぬな」",
+              "translation": "\"......The creation of a child depends on the efforts of two people and the whims of heaven. It's not fair to place all the blame on yourself.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_9-L0010"
+            ],
+            "MG": [
+              "umi5_9-L0010"
+            ],
+            "UP": [
+              "umi5_9-L0010"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "そなたばかりが責められた objects to Natsuhi alone being blamed for failure to conceive when two people and chance are involved.",
+      "alternative": "Natsuhi also blames herself later, and Beatrice consoles her throughout, but WH relocates this initial criticism from other people’s treatment of her to her own self-accusation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH09-002",
+      "kind": "WH",
+      "description": "Servant venturing too far becomes difficult terrain.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              129,
+              129
+            ],
+            "MG": [
+              129,
+              129
+            ],
+            "UP": [
+              129,
+              129
+            ]
+          },
+          "japanese": "でも、………赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか…？",
+          "japanesePC": "でも、.........赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか...？",
+          "japanesePS3": "でも、………赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか…？",
+          "WH": "However, .........wouldn't that path be fairly hard to travel on when taking a walk with a baby in your arms...?",
+          "MG": "However, ......wouldn't that path be fairly hard to travel on when taking a walk with a baby in your arms...?",
+          "UP": "However, .........wouldn't that be venturing a little too far for a walk with a baby in your arms...?",
+          "note": "Parent independently read1–240 all witnesses and PC25323–31. MG129 difficulty versus too-far detour retained, UP restores. Both205 singular woman replaces explicitly plural ladies, supplementary canonical follows. Hold158 beneficiary consolation while exact responsibility-taking156159–161 restored;199200 trance context allows awareness/nonattention paraphrase;218 scene retrospective burning image tense not firm factual change;220 gaps unobstructed continuous panorama acceptable;179 any small distance away urgency paraphrase, no fixed destination. All supernatural blame-taking and mercy claims remain source-character presentation. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_9-L0127",
+          "readerRefs": {
+            "WH": [
+              "umi5_9-L0127"
+            ],
+            "MG": [
+              "umi5_9-L0127"
+            ],
+            "UP": [
+              "umi5_9-L0127"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "薔薇庭園から船着場への林道は、確かに心地良く散歩にも向くだろう。……気分で、時には道を出て木立の中を歩くのも気持ちいいに違いない。でも、………赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか…？",
+              "translation": "The woodland path from the rose garden to the harbor is probably well-suited for a comfortable walk. ...It must surely feel good to occasionally leave the path and walk through a grove of trees, depending on your mood. However, ......wouldn't that path be fairly hard to travel on when taking a walk with a baby in your arms...? "
+            },
+            "UP": {
+              "japanese": "薔薇庭園から船着場への林道は、確かに心地良く散歩にも向くだろう。……気分で、時には道を出て木立の中を歩くのも気持ちいいに違いない。でも、………赤ん坊を抱いての散歩にしては、あまりに踏み入り過ぎたのではないだろうか…？",
+              "translation": "The woodland path from the rose garden to the harbor is certainly well suited for a pleasant walk. ......And from time to time, if the mood took you, it would undoubtedly feel good to veer off the path and take a walk through the trees. However, .........wouldn't that be venturing a little too far for a walk with a baby in your arms...?"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_9-L0127"
+            ],
+            "MG": [
+              "umi5_9-L0127"
+            ],
+            "UP": [
+              "umi5_9-L0127"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After discussing leaving the woodland path for the grove, Natsuhi wonders whether the servant ventured much too far in while carrying a baby.",
+      "alternative": "Rough terrain is plausible, and the following cliff account remains intact, but WH supplies travel difficulty instead of the questionable extent of the detour.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH09-003",
+      "kind": "WH",
+      "description": "Kinzo’s continuing non-possession becomes anticipated possession.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              255,
+              255
+            ],
+            "MG": [
+              255,
+              255
+            ],
+            "UP": [
+              255,
+              255
+            ]
+          },
+          "japanese": "どこまで我が物にならぬというのか！！",
+          "japanesePC": "「ふ、......ふっふふふふふふふ、ふっはっはっははははははははははっはっはは！！　読めていたぞ、読めていたぞ、この顛末はな！　どこまで足掻くのか。どこまで我が物にならぬというのか！！　わっはっはははははははははははは！！　空の檻に興味はない！　打ち捨てい！！」",
+          "japanesePS3": "どこまで我が物にならぬというのか！！",
+          "WH": "\"Heh, ......heheheheheheheh, fwahahahahahahahahahahahhahhahaha!!  I saw this coming, I knew this would happen!  How long will you struggle?  How long will it be before you're mine?!!  Wahahahahaahahahahahaha!!  I have no interest in an empty cage!  Throw it away!!\"",
+          "MG": "How long will it be before you're mine?!!",
+          "UP": "To what lengths will you go to escape being mine?!!",
+          "note": "All three witnesses read with surrounding context and original-PC anchors verified. Hold308 idiomatic worthy opponents versus plentiful opponents because309 celebrates multiple guests; hold346 retirement conditional as teasing exaggeration; hold321–322 orders for promised compliance in the already compulsory caller instructions. No proven PC-only material. Character claims about guilt, recollection and survival remain attributed claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_9-L0252",
+          "readerRefs": {
+            "WH": [
+              "umi5_9-L0252"
+            ],
+            "MG": [
+              "umi5_9-L0252"
+            ],
+            "UP": [
+              "umi5_9-L0252"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ふ、……ふっふふふふふふふ、ふっはっはっははははははははははっはっはは！！　読めていたぞ、読めていたぞ、この顛末はな！　どこまで足掻くのか。どこまで我が物にならぬというのか！！　わっはっはははははははははははは！！　空の檻に興味はない！　打ち捨てい！！」",
+              "translation": "\"Heh, ......heheheheheheheh, fwahahahahahahahahahahahhahhahaha!! I saw this coming, I knew this would happen! How long will you struggle? How long will it be before you're mine?!! Wahahahahaahahahahahaha!! I have no interest in an empty cage! Throw it away!!\" "
+            },
+            "UP": {
+              "japanese": "「ふ、……ふっふふふふふふふ、ふっはっはっははははははははははっはっはは！！　読めていたぞ、読めていたぞ、この顛末はな！　どこまで足掻くのか。どこまで我が物にならぬというのか！！　わっはっはははははははははははは！！　空の檻に興味はない！　打ち捨てい！！」",
+              "translation": "\"Heh, ......heh{0eh{0eh{0eh{0eh{0eheh, fwaha{0ha{0ha{0ha{0ha{0ha{0ha{0ha{0ha{0hahha{0hhahaha!! I saw this coming, I knew this would happen! How long must you struggle? To what lengths will you go to escape being mine?!! Waha{0ha{0ha{0haa{0ha{0ha{0ha{0ha{0haha!! I have no interest in an empty cage! Throw it away!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_9-L0252"
+            ],
+            "MG": [
+              "umi5_9-L0252"
+            ],
+            "UP": [
+              "umi5_9-L0252"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "どこまで我が物にならぬというのか angrily asks to what lengths the addressed entity will go in not becoming his, continuing the struggle question and preceding rejection of an empty cage.",
+      "alternative": "How long before you are mine can imply frustrated resistance, but WH presumes eventual possession where the source explicitly emphasizes refusal or continuing non-possession. The unspecified addressee is not identified by this finding.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH09-004",
+      "kind": "WH",
+      "description": "Denial that baby ever existed becomes forgetting its existence.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.voice_state",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              271,
+              271
+            ],
+            "MG": [
+              271,
+              271
+            ],
+            "UP": [
+              271,
+              271
+            ]
+          },
+          "japanese": "そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた…！！",
+          "japanesePC": "そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた...！！",
+          "japanesePS3": "そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた…！！",
+          "WH": "I forgot everything, even that the baby had existed in the first place...!!",
+          "MG": "I forgot everything, even that the baby had existed in the first place...!!",
+          "UP": "I forgot everything, even that the baby had existed in the first place...!!",
+          "note": "All three witnesses read with surrounding context and original-PC anchors verified. Hold308 idiomatic worthy opponents versus plentiful opponents because309 celebrates multiple guests; hold346 retirement conditional as teasing exaggeration; hold321–322 orders for promised compliance in the already compulsory caller instructions. No proven PC-only material. Character claims about guilt, recollection and survival remain attributed claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_9-L0268",
+          "readerRefs": {
+            "WH": [
+              "umi5_9-L0268"
+            ],
+            "MG": [
+              "umi5_9-L0268"
+            ],
+            "UP": [
+              "umi5_9-L0268"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "だから私は忘れたわ！あれは不幸な事故。いえ、事故とかそういうのじゃなくて！そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた…！！だって、三日あったかどうかもわからない、歪んだ悪夢！\nそうよ、あれは全て悪夢なんだもの…！！",
+              "translation": "So I forgot it! It was an unfortunate accident. No, there wasn't an accident at all! I forgot everything, even that the baby had existed in the first place...!! After all, it was a twisted nightmare that lasted not even three days! That's right, it was all a nightmare...!! "
+            },
+            "UP": {
+              "japanese": "だから私は忘れたわ！あれは不幸な事故。いえ、事故とかそういうのじゃなくて！そもそも、あの赤ん坊なんて最初から存在しなかったんだと、全てを忘れた…！！だって、三日あったかどうかもわからない、歪んだ悪夢！\nそうよ、あれは全て悪夢なんだもの…！！",
+              "translation": "So I forgot it! It was an unfortunate accident. No, there wasn't an accident at all! I forgot everything, even that the baby had existed in the first place...!! After all, it was a twisted nightmare which lasted not even three days!\nThat's right, it was all a nightmare...!!"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_9-L0268"
+            ],
+            "MG": [
+              "umi5_9-L0268"
+            ],
+            "UP": [
+              "umi5_9-L0268"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Natsuhi says she forgot everything by treating the baby as never having existed from the start; the preceding rejection of even calling it an accident makes this a deliberate denial formulation.",
+      "alternative": "WH preserves forgetting and nightmare language, so repression remains intelligible, but forgetting that it existed is not the stated reconstruction that it never existed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH09-005",
+      "kind": "WH",
+      "description": "No culpable sin chargeable to Natsuhi becomes no sin occurred.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.agency_responsibility",
+        "mystery.scope_quantifier_negation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              296,
+              296
+            ],
+            "MG": [
+              296,
+              296
+            ],
+            "UP": [
+              296,
+              296
+            ]
+          },
+          "japanese": "……１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。",
+          "japanesePC": "「落ち着けっ。......１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。",
+          "japanesePS3": "……１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。",
+          "WH": "\"Calm down.  ......No matter who the man from 19 years ago hates or what he yells, there's no way the sin he's after actually occurred.",
+          "MG": "...No matter who the man from 19 years ago hates or what he yells at you, there's no way the sin he's after actually occurred.",
+          "UP": "......No matter who the man from 19 years ago hates or what he yells, there's no way the sin he's after actually occurred.",
+          "note": "All three witnesses read with surrounding context and original-PC anchors verified. Hold308 idiomatic worthy opponents versus plentiful opponents because309 celebrates multiple guests; hold346 retirement conditional as teasing exaggeration; hold321–322 orders for promised compliance in the already compulsory caller instructions. No proven PC-only material. Character claims about guilt, recollection and survival remain attributed claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_9-L0295",
+          "readerRefs": {
+            "WH": [
+              "umi5_9-L0295"
+            ],
+            "MG": [
+              "umi5_9-L0295"
+            ],
+            "UP": [
+              "umi5_9-L0295"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「落ち着けっ。……１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。だから落ち着け。１９年前の男は、妾の来客として迎えてやろうぞ。くっくくくくくくく！」",
+              "translation": "\"Calm down. ...No matter who the man from 19 years ago hates or what he yells at you, there's no way the sin he's after actually occurred. So calm down. Why don't I welcome the man from 19 years ago as my guest? *cackle*cackle*cackle*!\" "
+            },
+            "UP": {
+              "japanese": "「落ち着けっ。……１９年前の男が何を恨もうと叫ぼうと、そなたを追求できる罪などあるわけもない。だから落ち着け。１９年前の男は、妾の来客として迎えてやろうぞ。くっくくくくくくく！」",
+              "translation": "\"Calm down. ......No matter who the man from 19 years ago hates or what he yells, there's no way the sin he's after actually occurred. So calm down. Why don't I welcome the man from 19 years ago as my guest? *cackle*cackle*cackle*!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_9-L0295"
+            ],
+            "MG": [
+              "umi5_9-L0295"
+            ],
+            "UP": [
+              "umi5_9-L0295"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice says no sin exists for which the nineteen-year man can pursue Natsuhi: she denies culpability attributable to Natsuhi, following accident and no-touch discussion.",
+      "alternative": "Surrounding reassurance is categorical, but WH broadens from her culpability to whether the sin the caller alleges ever happened at all. This is ordinary dialogue, not red truth.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH09-006",
+      "kind": "WH",
+      "description": "Lambda’s rejection of slow Beatrice-style development becomes a claim that she and Beatrice share the same dislike.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.voice_state",
+        "character.relationship_power",
+        "world.world_layer"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              441,
+              441
+            ],
+            "MG": [
+              441,
+              441
+            ],
+            "UP": [
+              441,
+              441
+            ]
+          },
+          "japanese": "うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」",
+          "japanesePC": "「.........いい、戦人？　いよいよ二日目を始めるわよ？　うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」",
+          "japanesePS3": "うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」",
+          "WH": "\".........Ready, Battler?  The second day is finally about to start.  Heheheheh!  Just like Beato, I hate slow story progression!\"",
+          "MG": "Heheheheh! Just like Beato, I hate slow story progression!\"",
+          "UP": "Heheheheh! I hate Beato's kind of slow, plodding storytelling!\"",
+          "note": "Full tail read in JP/MG/UP with PC checks. Hold MG366 singular I because collective we immediately resumes367; hold UP422 we two witches as free indirect taunting voice supported423–427; hold458 handshake mockery nuance as contextual provocation. Violence and cruel imagery are present in current Japanese, so no yellow carryover proven. All seven active CH09 canonical WH parents now have separate comparator outcomes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_9-L0439",
+          "readerRefs": {
+            "WH": [
+              "umi5_9-L0439"
+            ],
+            "MG": [
+              "umi5_9-L0439"
+            ],
+            "UP": [
+              "umi5_9-L0439"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………いい、戦人？　いよいよ二日目を始めるわよ？　うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」",
+              "translation": "\"......Ready, Battler? The second day is finally about to start. Heheheheh! Just like Beato, I hate slow story progression!\" "
+            },
+            "UP": {
+              "japanese": "「………いい、戦人？　いよいよ二日目を始めるわよ？　うっふっふっふ！　私はベアトみたいに、トロい展開は嫌いなんだから！」",
+              "translation": "\".........Ready, Battler? The second day is about to start. Heheheheh! I hate Beato's kind of slow, plodding storytelling!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_9-L0439"
+            ],
+            "MG": [
+              "umi5_9-L0439"
+            ],
+            "UP": [
+              "umi5_9-L0439"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "私はベアトみたいに、トロい展開は嫌いなんだから rejects dragging development like Beatrice’s while asserting Lambda will begin day two. The comparison qualifies the slow development she dislikes, rather than making Beatrice a fellow hater.",
+      "alternative": "The placement of みたいに can invite a surface attachment to the speaker comparison, but the scene emphasizes Lambda’s takeover and harsher game in contrast with Beatrice’s indulgence. Just like Beato supplies the opposite characterization.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH09-007",
+      "kind": "WH",
+      "description": "WH reduces the ladies in elegant dresses beckoning from the arbor to one woman.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              205,
+              205
+            ],
+            "MG": [
+              205,
+              205
+            ],
+            "UP": [
+              205,
+              205
+            ]
+          },
+          "japanese": "……優雅なドレスを着た貴婦人たちが手招きをしている………。",
+          "japanesePC": "そこに東屋があり、......優雅なドレスを着た貴婦人たちが手招きをしている.........。",
+          "japanesePS3": "……優雅なドレスを着た貴婦人たちが手招きをしている………。",
+          "WH": "There stood an arbor, ......and a woman wearing an elegant dress beckoning her.........",
+          "MG": "...and a woman wearing an elegant dress beckoning to her......",
+          "UP": "......and a woman wearing an elegant dress beckoning her.........",
+          "note": "Original PC and coherent paired context verified under ep05-ch09-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_9-L0201",
+          "readerRefs": {
+            "WH": [
+              "umi5_9-L0201",
+              "umi5_9-L0206"
+            ],
+            "MG": [
+              "umi5_9-L0201"
+            ],
+            "UP": [
+              "umi5_9-L0201"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ここは六軒島のはずなのに、……いつの間にか、見たこともないお屋敷の庭になっている。右代宮家自慢の薔薇庭園にも勝る、見たこともない……、黄金の薔薇の庭園。そこに東屋があり、……優雅なドレスを着た貴婦人たちが手招きをしている………。",
+              "translation": "Though this should have been Rokkenjima, ...at some point, it had become the garden of a mansion she had never seen before. It was a garden she had never set eyes on, even grander than the great rose garden of the Ushiromiya family, ...a garden of gold roses. There stood an arbor, ...and a woman wearing an elegant dress beckoning to her...... "
+            },
+            "UP": {
+              "japanese": "ここは六軒島のはずなのに、……いつの間にか、見たこともないお屋敷の庭になっている。右代宮家自慢の薔薇庭園にも勝る、見たこともない……、黄金の薔薇の庭園。そこに東屋があり、……優雅なドレスを着た貴婦人たちが手招きをしている………。",
+              "translation": "Though this should have been Rokkenjima, ......at some point, it had become the garden of a mansion she had never seen before. It was a garden she had never seen before, even grander than the great rose garden of the Ushiromiya family......a garden of gold roses. There stood an arbor, ......and a woman wearing an elegant dress beckoning her........."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_9-L0201",
+              "umi5_9-L0206"
+            ],
+            "MG": [
+              "umi5_9-L0201"
+            ],
+            "UP": [
+              "umi5_9-L0201"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "貴婦人たち explicitly denotes multiple ladies. No singular focus qualification occurs in the source imagined scene.",
+      "alternative": "The scene could focus on one principal lady, but the source depicts the group. This concerns represented number only, not physical certification of supernatural events.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH09-001-120-001",
+      "kind": "additional",
+      "description": "UP uses nominative I as part of the object of want.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              66,
+              66
+            ],
+            "MG": [
+              66,
+              66
+            ],
+            "UP": [
+              66,
+              66
+            ]
+          },
+          "japanese": "「……それはつまり、……私と夫の子として…、育てよと仰るのですか……」",
+          "japanesePC": "",
+          "japanesePS3": "「……それはつまり、……私と夫の子として…、育てよと仰るのですか……」",
+          "WH": "",
+          "MG": "\"...In other words, ...you want me to raise this baby...as me and my husband's own child...?\"",
+          "UP": "\"......In other words, ......you want my husband and I to raise this baby...as our own child......?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "no_introduced_defect",
+            "UP": "defect"
+          },
+          "readerRef": "umi5_9-L0066",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_9-L0066"
+            ],
+            "UP": [
+              "umi5_9-L0066"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……それはつまり、……私と夫の子として…、育てよと仰るのですか……」",
+              "translation": "\"...In other words, ...you want me to raise this baby...as me and my husband's own child...?\" "
+            },
+            "UP": {
+              "japanese": "「……それはつまり、……私と夫の子として…、育てよと仰るのですか……」",
+              "translation": "\"......In other words, ......you want my husband and I to raise this baby...as our own child......?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_9-L0066"
+            ],
+            "UP": [
+              "umi5_9-L0066"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "You want my husband and I to raise this baby needs objective my husband and me. OriginalPC24883 uses want me to raise and does not have this introduced object-case error.",
+      "alternative": "Common informal hypercorrection remains understandable but I is nominative in an object position. MG own-child possessive wording awkward but is a separate inherited construction, not this introduced UP issue.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH09-241-360-001",
+      "kind": "additional",
+      "description": "MG changes potentially being considered alive into potentially discovering actual survival.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              285,
+              285
+            ],
+            "MG": [
+              285,
+              285
+            ],
+            "UP": [
+              285,
+              285
+            ]
+          },
+          "japanese": "でも、ニンゲンの世界では生きていることになっているのかもしれない。",
+          "japanesePC": "",
+          "japanesePS3": "でも、ニンゲンの世界では生きていることになっているのかもしれない。",
+          "WH": "",
+          "MG": "However, you might find out that it's alive in the world of Humans.",
+          "UP": "But in the Humanhuman world, it might still be considered alive.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi5_9-L0283",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_9-L0283"
+            ],
+            "UP": [
+              "umi5_9-L0283"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………そうね。ベアトは確かに殺したわ。でも、ニンゲンの世界では生きていることになっているのかもしれない。……本当に生きているのかどうかは、ともかくね？」",
+              "translation": "\"......That's right. Beato definitely killed that baby. However, you might find out that it's alive in the world of Humans. ...Whether it's really alive or not, right?\" "
+            },
+            "UP": {
+              "japanese": "「…………そうね。ベアトは確かに殺したわ。でも、ニンゲンの世界では生きていることになっているのかもしれない。……本当に生きているのかどうかは、ともかくね？」",
+              "translation": "\"............That's right. Beato, you definitely killed that baby. But in the Humanhuman world, it might still be considered alive. ......Whether it's really alive or not, catch my drift?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_9-L0283"
+            ],
+            "UP": [
+              "umi5_9-L0283"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "生きていることになっている describes being represented or considered alive. OriginalPC JP25665 and WH25666 retain made out to be alive; UP retains considered alive. MG introduces you might find out that it is alive.",
+      "alternative": "Might still qualifies the claim, and row286 distinguishes actual survival. That mitigates the inference but does not restore the represented-status proposition in285.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH09-361-491-001",
+      "kind": "additional",
+      "description": "MG omits the article before proactive and clear answer.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_9",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              460,
+              460
+            ],
+            "MG": [
+              460,
+              460
+            ],
+            "UP": [
+              460,
+              460
+            ]
+          },
+          "japanese": "その手を弾くという、より積極的な行為で明白な返事をしてやる。",
+          "japanesePC": "",
+          "japanesePS3": "その手を弾くという、より積極的な行為で明白な返事をしてやる。",
+          "WH": "",
+          "MG": "I gave her proactive and clear answer by knocking her hand aside.",
+          "UP": "I gave her an active and clear answer by knocking her hand aside.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi5_9-L0458",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_9-L0458"
+            ],
+            "UP": [
+              "umi5_9-L0458"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ヱリカは、握手を求めるような真似事をする。…俺は、無視などという消極的な真似でなく、その手を弾くという、より積極的な行為で明白な返事をしてやる。",
+              "translation": "Erika offered me her hand to shake. ...Instead of just passively ignoring this, I gave her proactive and clear answer by knocking her hand aside. "
+            },
+            "UP": {
+              "japanese": "ヱリカは、握手を求めるような真似事をする。…俺は、無視などという消極的な真似でなく、その手を弾くという、より積極的な行為で明白な返事をしてやる。",
+              "translation": "Erika brazenly put her hand out for me to shake. ...Instead of just passively ignoring this, I gave her an active and clear answer by knocking her hand aside."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_9-L0458"
+            ],
+            "UP": [
+              "umi5_9-L0458"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG I gave her proactive and clear answer requires a singular-count article. OriginalPC26211–26212 and UP retain an active and clear answer.",
+      "alternative": "Meaning and physical action remain clear; this is a local grammar defect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP05-CH09-001": {
+      "umi5_9-L0010": {
+        "WH": [
+          "place all the blame on yourself"
+        ],
+        "MG": [
+          "place all the blame on yourself"
+        ],
+        "UP": [
+          "place all the blame on yourself"
+        ]
+      }
+    },
+    "WH-EP05-CH09-002": {
+      "umi5_9-L0127": {
+        "WH": [
+          "wouldn't that path be fairly hard to travel on"
+        ],
+        "MG": [
+          "wouldn't that path be fairly hard to travel on"
+        ]
+      }
+    },
+    "WH-EP05-CH09-003": {
+      "umi5_9-L0252": {
+        "WH": [
+          "How long will it be before you're mine?"
+        ],
+        "MG": [
+          "How long will it be before you're mine?"
+        ]
+      }
+    },
+    "WH-EP05-CH09-004": {
+      "umi5_9-L0268": {
+        "WH": [
+          "I forgot everything, even that the baby had existed in the first place"
+        ],
+        "MG": [
+          "I forgot everything, even that the baby had existed in the first place"
+        ],
+        "UP": [
+          "I forgot everything, even that the baby had existed in the first place"
+        ]
+      }
+    },
+    "WH-EP05-CH09-005": {
+      "umi5_9-L0295": {
+        "WH": [
+          "there's no way the sin he's after actually occurred"
+        ],
+        "MG": [
+          "there's no way the sin he's after actually occurred"
+        ],
+        "UP": [
+          "there's no way the sin he's after actually occurred"
+        ]
+      }
+    },
+    "WH-EP05-CH09-006": {
+      "umi5_9-L0439": {
+        "WH": [
+          "Just like Beato, I hate slow story progression"
+        ],
+        "MG": [
+          "Just like Beato, I hate slow story progression"
+        ]
+      }
+    },
+    "WH-EP05-CH09-007": {
+      "umi5_9-L0201": {
+        "WH": [
+          "a woman wearing an elegant dress"
+        ],
+        "MG": [
+          "a woman wearing an elegant dress"
+        ],
+        "UP": [
+          "a woman wearing an elegant dress"
+        ]
+      },
+      "umi5_9-L0206": {
+        "WH": [
+          "a woman wearing an elegant dress"
+        ]
+      }
+    },
+    "PAIR-EP05-CH09-001-120-001": {
+      "umi5_9-L0066": {
+        "UP": [
+          "you want my husband and I"
+        ]
+      }
+    },
+    "PAIR-EP05-CH09-241-360-001": {
+      "umi5_9-L0283": {
+        "MG": [
+          "you might find out that it's alive"
+        ]
+      }
+    },
+    "PAIR-EP05-CH09-361-491-001": {
+      "umi5_9-L0458": {
+        "MG": [
+          "I gave her proactive and clear answer"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

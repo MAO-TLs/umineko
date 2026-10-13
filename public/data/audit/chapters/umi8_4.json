@@ -1,1 +1,1540 @@
-{"findings":[{"id":"WH-EP08-CH04-001","kind":"WH","description":"Often lacking a poker hand when betting big becomes always when acting tough","categories":["linguistic.overinterpretation","linguistic.word_choice","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[10,10],"MG":[10,10],"UP":[10,10]},"japanese":"「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ…！」","japanesePC":"「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ...！」","japanesePS3":"「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ…！」","WH":"\"And I thought Battler always had crap in his hands every time he acted tough...!\"","MG":"\"And I thought Battler always had crap in his hands every time he acted tough...!\"","UP":"\"And I thought Battler always had crap in his hands every time he acted tough...!\"","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0010","readerRefs":{"WH":["umi8_4-L0010"],"MG":["umi8_4-L0010"],"UP":["umi8_4-L0010"]}}],"sourceReading":"Jessica thought Battler often had no scoring hand when he bet big. 多い is frequent, and デカく張る identifies the stake.","alternative":"Crap in his hands conveys a poor hand and acting tough can suggest a bluff. Nevertheless always/every time makes the observed tendency exceptionless and acting tough substitutes demeanor for betting size. His strategic-loss joke remains intelligible.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-002","kind":"WH","description":"A correction to polite speech becomes a correction from starving to hungry","categories":["linguistic.register_voice","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[70,70],"MG":[70,70],"UP":[70,70]},"japanese":"「縁寿。","japanesePC":"「縁寿。空きました、でしょう？」","japanesePS3":"「縁寿。","WH":"\"Ange.  That's 'I'm hungry', right?\"","MG":"\"Ange.","UP":"\"Ange.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_4-L0070","readerRefs":{"WH":["umi8_4-L0070"],"MG":["umi8_4-L0070"],"UP":["umi8_4-L0070"]}}],"sourceReading":"Kyrie corrects Ange’s casual 空いた to polite 空きました when addressing her aunt. She teaches manner of address, not degree of hunger.","alternative":"English needs a way to represent a politeness distinction absent from the same verb form. But changing starving to hungry gives a semantic moderation correction with no courtesy marker, redirecting the parental lesson. Eva’s permission to be informal is consequently less evident.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-003","kind":"WH","description":"Being born healthy becomes growing up happily","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[91,91],"MG":[91,91],"UP":[91,91]},"japanese":"「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。","japanesePC":"「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。真里亞は大切な大切な、神様からの授かり物なんだから。」","japanesePS3":"「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。","WH":"\"If your kid grows up happily, it doesn't matter if they're a boy or a girl.  Maria is my precious, precious gift from God.\"","MG":"\"If your kid grows up happily, it doesn't matter if they're a boy or a girl.","UP":"\"If your kid grows up happily, it doesn't matter if they're a boy or a girl.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0091","readerRefs":{"WH":["umi8_4-L0091"],"MG":["umi8_4-L0091"],"UP":["umi8_4-L0091"]}}],"sourceReading":"Rosa says sex does not matter provided the child is born healthy, then calls Maria a precious gift from God. 元気に生まれてきて is health at birth.","alternative":"Both are affectionate wishes for a child’s wellbeing and sustain Rosa’s reassurance. However happy upbringing is a different condition from healthy birth and changes the explicit criterion she gives in response to her preference for a son.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-004","kind":"WH","description":"Beato lacking storage becomes Kinzo lacking storage","categories":["linguistic.wrong_subject","linguistic.logical_relation","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[185,185],"MG":[185,185],"UP":[185,185]},"japanese":"しまう場所もないが、特別に引き取ってやろう」","japanesePC":"「やれやれ。しまう場所もないが、特別に引き取ってやろう。」","japanesePS3":"しまう場所もないが、特別に引き取ってやろう」","WH":"\"Come now.  If you've nowhere to put it, I'll be happy to take it off your hands.\"","MG":"If you've nowhere to put it, I'll be happy to take it off your hands.\"","UP":"I've nowhere to put it, but I suppose I can take it off your hands.\"","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_4-L0184","readerRefs":{"WH":["umi8_4-L0184"],"MG":["umi8_4-L0184"],"UP":["umi8_4-L0184"]}}],"sourceReading":"Beato says she has nowhere to put it, but will make a special exception and accept it. The concessive が connects her own inconvenience with accepting the returned gold.","alternative":"The Japanese omits an explicit subject, and take it off your hands is natural repayment banter. However the same earlier storage claim at174833 explicitly belongs to Beato; the English conditional you assigns the obstacle to Kinzo and reverses the relation of inconvenience to acceptance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-005","kind":"WH","description":"A wry smile becomes a leer directed at the audience","categories":["linguistic.word_choice","linguistic.addition","character.irony_performance"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[196,196],"MG":[196,196],"UP":[196,196]},"japanese":"せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。","japanesePC":"せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。","japanesePS3":"せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。","WH":"Though she'd just managed to make such a dignified speech, as soon as it was over, she stuck her tongue out and leered at us.","MG":"Though she'd managed to make such a dignified speech for once, as soon as it was over, she stuck her tongue out and leered at us.","UP":"Though she'd just managed to make such a dignified speech, as soon as it was over, she stuck her tongue out and leered at us.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0195","readerRefs":{"WH":["umi8_4-L0195"],"MG":["umi8_4-L0195"],"UP":["umi8_4-L0195"]}}],"sourceReading":"After the dignified speech Beato sticks out her tongue and smiles wryly: 苦笑い. No audience-directed leer is specified.","alternative":"The tongue gesture and abrupt return to unseriousness permit a mischievous smile. Leer, however, adds a distinctly suggestive or unpleasant directed expression, and at us supplies a target absent from the line.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-006","kind":"WH","description":"The family debt of gratitude becomes gratitude possessed by Beatrice","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[200,200],"MG":[200,200],"UP":[200,200]},"japanese":"「右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。","japanesePC":"「黄金の魔女ベアトリーチェは、名を受け継ぐことで、千年を永らえる魔女である。よって、彼女の子々孫々に至るまで、その全てがベアトリーチェであり、その全てが当家の顧問錬金術師なのである。右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。.........ベアトリーチェは、未来永劫、右代宮家の恩人であり、尊い絆で結ばれた家族なのである。」","japanesePS3":"「右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。","WH":"\"By passing her name on through the generations, Beatrice, the Golden Witch, may live for thousands of years.  Therefore, even her descendants shall be Beatrice, and all shall be alchemists to this family.  The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations.  ......This family will always be indebted to Beatrice, and she will always be our family, tied by a noble bond.\"","MG":"The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations.","UP":"\"The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0200","readerRefs":{"WH":["umi8_4-L0198","umi8_4-L0200"],"MG":["umi8_4-L0200"],"UP":["umi8_4-L0200"]}}],"sourceReading":"Kinzo tells the Ushiromiya descendants to honor Beatrice’s benefaction and the obligation of gratitude toward her, transmitting this through generations. Beatrice is the benefactor, not the party expressing gratitude.","alternative":"The English sentence ends by correctly stating the family will be indebted to her, restoring the broader relationship. Nevertheless praise Beatrice for her gratitude reverses the ownership of gratitude in the specific instruction; the source does not commend her thankfulness.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-007","kind":"WH","description":"A forced choice remains hard to accept even if correct becomes doubting its correctness","categories":["linguistic.logical_relation","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[382,382],"MG":[382,382],"UP":[382,382]},"japanese":"……強制された選択は、正しくとも生涯受け容れ難い」","japanesePC":"「それは意味なきことかも知れぬな。......強制された選択は、正しくとも生涯受け容れ難い。」","japanesePS3":"……強制された選択は、正しくとも生涯受け容れ難い」","WH":"\"Such an attempt may have been meaningless.  ......As long as life is, it is hard to accept that a decision you were forced into was truly the correct one.\"","MG":"...When you're forced to make a decision, it's hard to accept that it was truly a correct one, no matter how much time passes.\"","UP":"......As long as life is, it is hard to accept that a decision you were forced into was truly the correct one.\"","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0381","readerRefs":{"WH":["umi8_4-L0381"],"MG":["umi8_4-L0381"],"UP":["umi8_4-L0381"]}}],"sourceReading":"A compelled choice is hard to accept throughout one’s life even if it is correct. 正しくとも concedes correctness while explaining the enduring problem of coercion.","alternative":"Accepting that a decision was correct can involve emotional acceptance, so the English retains the general objection to force. But it changes the direct object to the proposition that it was correct, replacing the source concession even if correct with difficulty recognizing correctness.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-008","kind":"WH","description":"Battler intends to bless her choice becomes a joint recommendation to respect it","categories":["linguistic.undertranslation","character.agency_responsibility","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[385,385],"MG":[385,385],"UP":[385,385]},"japanese":"それが、俺たちから見て正しくない選択であったとしても、……俺はそれを祝福しようと思う」","japanesePC":"「そういうことだ。.........縁寿は、自ら考え、自ら選ばなければならない。それが、俺たちから見て正しくない選択であったとしても、......俺はそれを祝福しようと思う。」","japanesePS3":"それが、俺たちから見て正しくない選択であったとしても、……俺はそれを祝福しようと思う」","WH":"\"Exactly.  ......Ange must think and choose by herself.  Even if she doesn't make the decision we view as the correct one, ......I think we should respect it.\"","MG":"Even if she doesn't make the decision we view as the correct one, ...I think we should respect it.\"","UP":"Even if she doesn't make the decision we view as the correct one, ......I think we should respect it.\"","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0383","readerRefs":{"WH":["umi8_4-L0383"],"MG":["umi8_4-L0383"],"UP":["umi8_4-L0383"]}}],"sourceReading":"Even if Ange chooses what they regard as wrong, Battler personally intends to bless that choice. 俺は marks his commitment, and 祝福 is affirmative blessing.","alternative":"Respecting another’s choice expresses acceptance and is a plausible broad paraphrase of blessing. However the English both reduces affirmative blessing to respect and changes his personal resolve into what we should do, redirecting the commitment toward a shared recommendation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-009","kind":"WH","description":"Beato will no longer intervene becomes being unable to argue","categories":["linguistic.mistranslation","character.agency_responsibility","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[388,388],"MG":[388,388],"UP":[388,388]},"japanese":"妾はもはや、何も口を挟まぬ。","japanesePC":"「......ふむ。.........ゲームマスターはそなただ。妾はもはや、何も口を挟まぬ。今宵をただ楽しむだけだ。」","japanesePS3":"妾はもはや、何も口を挟まぬ。","WH":"\"......Hmmm.  ......You are the Game Master.  I cannot argue with you anymore.  I will simply watch on and enjoy this night.\"","MG":"I cannot argue with you anymore.","UP":"It is no longer my place to argue.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi8_4-L0386","readerRefs":{"WH":["umi8_4-L0386"],"MG":["umi8_4-L0386"],"UP":["umi8_4-L0386"]}}],"sourceReading":"Acknowledging Battler as Game Master, Beato says she will no longer interject and will just enjoy the night. This is withdrawal from intervening, not an explicit loss of capacity or right to disagree.","alternative":"I cannot argue can idiomatically express accepting another’s position rather than literal inability. Nevertheless with you anymore narrows the source any interjection to arguing and frames her deference as inability; the Japanese gives her own prospective restraint.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-010","kind":"WH","description":"Luck determines the contest becomes luck revealing something about a man","categories":["linguistic.idiom_calque","character.irony_performance"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[443,443],"MG":[443,443],"UP":[443,443]},"japanese":"「こういう時はクジ運が物を言うんや。","japanesePC":"「こういう時はクジ運が物を言うんや。負けへんでー！」","japanesePS3":"「こういう時はクジ運が物を言うんや。","WH":"\"In times like this, luck can tell you something about a man.  Can't let myself lose now!\"","MG":"\"In times like this, luck can tell you somethin' about a man.","UP":"\"Times like this are when a man's luck shines through.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_4-L0443","readerRefs":{"WH":["umi8_4-L0443"],"MG":["umi8_4-L0443"],"UP":["umi8_4-L0443"]}}],"sourceReading":"Hideyoshi says luck of the draw is what counts in a contest like this. 物を言う means exert decisive influence, not literally communicate information.","alternative":"His competitiveness permits a boast about luck or personal merit. But tell you something about a man invents a diagnostic claim about people, replacing the source statement that luck determines the outcome.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-011","kind":"WH","description":"Ange deliberative groans become repeated assent","categories":["linguistic.mistranslation","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[487,487],"MG":[487,487],"UP":[487,487]},"japanese":"「……うーん！","japanesePC":"「......うーん！　うーん......！！」","japanesePS3":"「……うーん！","WH":"\"......Okay!  Okay......!!\"","MG":"\"...Okay!","UP":"\"......Okay!","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0487","readerRefs":{"WH":["umi8_4-L0487"],"MG":["umi8_4-L0487"],"UP":["umi8_4-L0487"]}}],"sourceReading":"Ange groans or hums in indecision after being urged to pick: うーん repeated. The following narration continues uncertainty.","alternative":"Okay can mark responding to encouragement while still pondering a choice. Nonetheless repeated Okay presents assent rather than the audible effort of indecision supplied by the source.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-012","kind":"WH","description":"Increase tied to the number of observed losers becomes only slight increase","categories":["linguistic.undertranslation","linguistic.addition","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[514,514],"MG":[514,514],"UP":[514,514]},"japanese":"しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。","japanesePC":"しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。","japanesePS3":"しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。","WH":"However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly.","MG":"However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly.","UP":"However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0512","readerRefs":{"WH":["umi8_4-L0512"],"MG":["umi8_4-L0512"],"UP":["umi8_4-L0512"]}}],"sourceReading":"In Ange’s reasoning, checking others and confirming losing slices increases the winning probability according to how many such losers she observes: その数だけ.","alternative":"If only slightly can colloquially mean even a small improvement is worthwhile rather than cap every increase. Even on that reading it supplies a magnitude evaluation absent from the source and removes the explicit number-dependent relation that drives her timing argument. The nearby English retains the highest-chance conclusion.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-013","kind":"WH","description":"Reluctance to open a treasured box becomes inability to wait","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[544,544],"MG":[544,544],"UP":[544,544]},"japanese":"私は、大切な宝箱を開くのを惜しみながら、","japanesePC":"私は、大切な宝箱を開くのを惜しみながら、みんながケーキを選び終わり、その中身を調べ終えるのを待った。","japanesePS3":"私は、大切な宝箱を開くのを惜しみながら、","WH":"I couldn't wait to open this precious treasure chest, but I waited for everyone else to choose their pieces and check them.","MG":"I couldn't wait to open this precious treasure chest,","UP":"I couldn't wait to open this precious treasure chest,","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0544","readerRefs":{"WH":["umi8_4-L0544"],"MG":["umi8_4-L0544"],"UP":["umi8_4-L0544"]}}],"sourceReading":"Ange waits while being reluctant to open her precious treasure chest: 開くのを惜しむ. The metaphor makes opening something whose anticipation she is loath to spend.","alternative":"Her earlier temptation to inspect it and wish to win establish eagerness as well. Yet this sentence specifically depicts reluctance to open, and couldn’t wait replaces that with impatience, changing the emotional aspect of her delay.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-014","kind":"WH","description":"Duplicated modal verb in Nanjo dialogue","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[563,563],"MG":[563,563],"UP":[563,563]},"japanese":"たまにはこういうのも楽しいですなぁ」","japanesePC":"「今、調べてるところです。たまにはこういうのも楽しいですなぁ。」","japanesePS3":"たまにはこういうのも楽しいですなぁ」","WH":"\"I'm checking it now.  Games like this can truly can be fun, every now and then.\"","MG":"Games like this can truly can be fun, every now and then.\"","UP":"Games like this can truly can be fun, every now and then.\"","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_4-L0562","readerRefs":{"WH":["umi8_4-L0562"],"MG":["umi8_4-L0562"],"UP":["umi8_4-L0562"]}}],"sourceReading":"Nanjo says checking now and that games like this are enjoyable occasionally.","alternative":"The intended sentence is easily recoverable, but can truly can is an accidental repeated auxiliary with no source counterpart.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-015","kind":"WH","description":"The crowd examines Ange almond but English directs the look at Ange","categories":["linguistic.undertranslation","mystery.information_timing_salience"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[598,598],"MG":[598,598],"UP":[598,598]},"japanese":"絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。","japanesePC":"絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。","japanesePS3":"絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。","WH":"The crowd around Eva split, and everyone started at me, surprised.","MG":"The crowd around Eva split, and everyone stared at me, surprised.","UP":"The crowd around Eva split, and everyone stared at me, surprised.","note":"Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.","dispositions":{"MG":"partially_corrected","UP":"partially_corrected"},"readerRef":"umi8_4-L0597","readerRefs":{"WH":["umi8_4-L0597"],"MG":["umi8_4-L0597"],"UP":["umi8_4-L0597"]}}],"sourceReading":"As the crowd around Eva parts, everyone stares at the thing Ange holds, 私のそれ: her almond. Their inspection targets the competing winning object.","alternative":"The preceding raised almond makes the target inferable and the following text confirms Eva’s almond too. Nevertheless at me replaces that object with Ange, while started at is also an apparent typo for stared at. The source explicitly locates the collective inspection on her object.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH04-016","kind":"WH","description":"WH uses the uncountable applause as a singular count noun in a friendly applause.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_4","episode":8,"rows":{"JP":[259,259],"MG":[259,259],"UP":[259,259]},"japanese":"蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。","japanesePC":"蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。","japanesePS3":"蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。","WH":"When Krauss finished his announcement, a friendly applause filled the hall.","MG":"When Krauss finished his announcement, a friendly applause filled the hall.","UP":"When Krauss finished his announcement, a warm round of applause filled the hall.","note":"Exact active originalPC and paired prose directly checked under ep07-ep08-inherited-grammar-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_4-L0259","readerRefs":{"WH":["umi8_4-L0259"],"MG":["umi8_4-L0259"],"UP":["umi8_4-L0259"]}}],"sourceReading":"The active original-PC English contains this grammatical or typographical defect. MG retains it; UP repairs the construction without changing the source action.","alternative":"Meaning remains clear; the finding is limited to standard prose grammar or typography.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP08-CH04-001",
+      "kind": "WH",
+      "description": "Often lacking a poker hand when betting big becomes always when acting tough",
+      "categories": [
+        "linguistic.overinterpretation",
+        "linguistic.word_choice",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              10,
+              10
+            ],
+            "MG": [
+              10,
+              10
+            ],
+            "UP": [
+              10,
+              10
+            ]
+          },
+          "japanese": "「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ…！」",
+          "japanesePC": "「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ...！」",
+          "japanesePS3": "「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ…！」",
+          "WH": "\"And I thought Battler always had crap in his hands every time he acted tough...!\"",
+          "MG": "\"And I thought Battler always had crap in his hands every time he acted tough...!\"",
+          "UP": "\"And I thought Battler always had crap in his hands every time he acted tough...!\"",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0010",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0010"
+            ],
+            "MG": [
+              "umi8_4-L0010"
+            ],
+            "UP": [
+              "umi8_4-L0010"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ…！」",
+              "translation": "\"And I thought Battler always had crap in his hands every time he acted tough...!\" "
+            },
+            "UP": {
+              "japanese": "「戦人がデカく張る時は、役なしのことが多いと思ってたんだがなぁ…！」",
+              "translation": "\"And I thought Battler always had crap in his hands every time he acted tough...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0010"
+            ],
+            "MG": [
+              "umi8_4-L0010"
+            ],
+            "UP": [
+              "umi8_4-L0010"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica thought Battler often had no scoring hand when he bet big. 多い is frequent, and デカく張る identifies the stake.",
+      "alternative": "Crap in his hands conveys a poor hand and acting tough can suggest a bluff. Nevertheless always/every time makes the observed tendency exceptionless and acting tough substitutes demeanor for betting size. His strategic-loss joke remains intelligible.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-002",
+      "kind": "WH",
+      "description": "A correction to polite speech becomes a correction from starving to hungry",
+      "categories": [
+        "linguistic.register_voice",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              70,
+              70
+            ],
+            "MG": [
+              70,
+              70
+            ],
+            "UP": [
+              70,
+              70
+            ]
+          },
+          "japanese": "「縁寿。",
+          "japanesePC": "「縁寿。空きました、でしょう？」",
+          "japanesePS3": "「縁寿。",
+          "WH": "\"Ange.  That's 'I'm hungry', right?\"",
+          "MG": "\"Ange.",
+          "UP": "\"Ange.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_4-L0070",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0070"
+            ],
+            "MG": [
+              "umi8_4-L0070"
+            ],
+            "UP": [
+              "umi8_4-L0070"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「縁寿。空きました、でしょう？」",
+              "translation": "\"Ange. That's \"I'm hungry\", right?\" "
+            },
+            "UP": {
+              "japanese": "「縁寿。空きました、でしょう？」",
+              "translation": "\"Ange. \"Yes, I am\", right?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0070"
+            ],
+            "MG": [
+              "umi8_4-L0070"
+            ],
+            "UP": [
+              "umi8_4-L0070"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kyrie corrects Ange’s casual 空いた to polite 空きました when addressing her aunt. She teaches manner of address, not degree of hunger.",
+      "alternative": "English needs a way to represent a politeness distinction absent from the same verb form. But changing starving to hungry gives a semantic moderation correction with no courtesy marker, redirecting the parental lesson. Eva’s permission to be informal is consequently less evident.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-003",
+      "kind": "WH",
+      "description": "Being born healthy becomes growing up happily",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              91,
+              91
+            ],
+            "MG": [
+              91,
+              91
+            ],
+            "UP": [
+              91,
+              91
+            ]
+          },
+          "japanese": "「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。",
+          "japanesePC": "「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。真里亞は大切な大切な、神様からの授かり物なんだから。」",
+          "japanesePS3": "「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。",
+          "WH": "\"If your kid grows up happily, it doesn't matter if they're a boy or a girl.  Maria is my precious, precious gift from God.\"",
+          "MG": "\"If your kid grows up happily, it doesn't matter if they're a boy or a girl.",
+          "UP": "\"If your kid grows up happily, it doesn't matter if they're a boy or a girl.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0091",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0091"
+            ],
+            "MG": [
+              "umi8_4-L0091"
+            ],
+            "UP": [
+              "umi8_4-L0091"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。真里亞は大切な大切な、神様からの授かり物なんだから」",
+              "translation": "\"If your kid grows up happily, it doesn't matter if they're a boy or a girl. Maria is my precious, precious gift from God.\" "
+            },
+            "UP": {
+              "japanese": "「元気に生まれてきてくれれば、性別なんてどうでもいいのよ。真里亞は大切な大切な、神様からの授かり物なんだから」",
+              "translation": "\"If your kid grows up happily, it doesn't matter if they're a boy or a girl. Maria is my precious, precious gift from God.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0091"
+            ],
+            "MG": [
+              "umi8_4-L0091"
+            ],
+            "UP": [
+              "umi8_4-L0091"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa says sex does not matter provided the child is born healthy, then calls Maria a precious gift from God. 元気に生まれてきて is health at birth.",
+      "alternative": "Both are affectionate wishes for a child’s wellbeing and sustain Rosa’s reassurance. However happy upbringing is a different condition from healthy birth and changes the explicit criterion she gives in response to her preference for a son.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-004",
+      "kind": "WH",
+      "description": "Beato lacking storage becomes Kinzo lacking storage",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.logical_relation",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              185,
+              185
+            ],
+            "MG": [
+              185,
+              185
+            ],
+            "UP": [
+              185,
+              185
+            ]
+          },
+          "japanese": "しまう場所もないが、特別に引き取ってやろう」",
+          "japanesePC": "「やれやれ。しまう場所もないが、特別に引き取ってやろう。」",
+          "japanesePS3": "しまう場所もないが、特別に引き取ってやろう」",
+          "WH": "\"Come now.  If you've nowhere to put it, I'll be happy to take it off your hands.\"",
+          "MG": "If you've nowhere to put it, I'll be happy to take it off your hands.\"",
+          "UP": "I've nowhere to put it, but I suppose I can take it off your hands.\"",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_4-L0184",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0184"
+            ],
+            "MG": [
+              "umi8_4-L0184"
+            ],
+            "UP": [
+              "umi8_4-L0184"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「やれやれ。しまう場所もないが、特別に引き取ってやろう」",
+              "translation": "\"Sheesh. If you've nowhere to put it, I'll be happy to take it off your hands.\" "
+            },
+            "UP": {
+              "japanese": "「やれやれ。しまう場所もないが、特別に引き取ってやろう」",
+              "translation": "\"Dear me. I've nowhere to put it, but I suppose I can take it off your hands.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0184"
+            ],
+            "MG": [
+              "umi8_4-L0184"
+            ],
+            "UP": [
+              "umi8_4-L0184"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beato says she has nowhere to put it, but will make a special exception and accept it. The concessive が connects her own inconvenience with accepting the returned gold.",
+      "alternative": "The Japanese omits an explicit subject, and take it off your hands is natural repayment banter. However the same earlier storage claim at174833 explicitly belongs to Beato; the English conditional you assigns the obstacle to Kinzo and reverses the relation of inconvenience to acceptance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-005",
+      "kind": "WH",
+      "description": "A wry smile becomes a leer directed at the audience",
+      "categories": [
+        "linguistic.word_choice",
+        "linguistic.addition",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              196,
+              196
+            ],
+            "MG": [
+              196,
+              196
+            ],
+            "UP": [
+              196,
+              196
+            ]
+          },
+          "japanese": "せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。",
+          "japanesePC": "せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。",
+          "japanesePS3": "せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。",
+          "WH": "Though she'd just managed to make such a dignified speech, as soon as it was over, she stuck her tongue out and leered at us.",
+          "MG": "Though she'd managed to make such a dignified speech for once, as soon as it was over, she stuck her tongue out and leered at us.",
+          "UP": "Though she'd just managed to make such a dignified speech, as soon as it was over, she stuck her tongue out and leered at us.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0195",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0195"
+            ],
+            "MG": [
+              "umi8_4-L0195"
+            ],
+            "UP": [
+              "umi8_4-L0195"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "拍手がホールを包んだ。せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。ベアトの真面目モードは長続きしないらしい。",
+              "translation": "Applause filled the hall. Though she'd managed to make such a dignified speech for once, as soon as it was over, she stuck her tongue out and leered at us. I guess that's about the limit to how long Beato can stay serious. "
+            },
+            "UP": {
+              "japanese": "拍手がホールを包んだ。せっかく貫禄のあるスピーチが出来たのに、終えた途端にペロリと舌を出して苦笑いを浮かべている。ベアトの真面目モードは長続きしないらしい。",
+              "translation": "Applause filled the hall. Though she'd just managed to make such a dignified speech, as soon as it was over, she stuck her tongue out and leered at us. I guess that's about the limit to how long Beato can stay serious."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0195"
+            ],
+            "MG": [
+              "umi8_4-L0195"
+            ],
+            "UP": [
+              "umi8_4-L0195"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After the dignified speech Beato sticks out her tongue and smiles wryly: 苦笑い. No audience-directed leer is specified.",
+      "alternative": "The tongue gesture and abrupt return to unseriousness permit a mischievous smile. Leer, however, adds a distinctly suggestive or unpleasant directed expression, and at us supplies a target absent from the line.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-006",
+      "kind": "WH",
+      "description": "The family debt of gratitude becomes gratitude possessed by Beatrice",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              200,
+              200
+            ],
+            "MG": [
+              200,
+              200
+            ],
+            "UP": [
+              200,
+              200
+            ]
+          },
+          "japanese": "「右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。",
+          "japanesePC": "「黄金の魔女ベアトリーチェは、名を受け継ぐことで、千年を永らえる魔女である。よって、彼女の子々孫々に至るまで、その全てがベアトリーチェであり、その全てが当家の顧問錬金術師なのである。右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。.........ベアトリーチェは、未来永劫、右代宮家の恩人であり、尊い絆で結ばれた家族なのである。」",
+          "japanesePS3": "「右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。",
+          "WH": "\"By passing her name on through the generations, Beatrice, the Golden Witch, may live for thousands of years.  Therefore, even her descendants shall be Beatrice, and all shall be alchemists to this family.  The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations.  ......This family will always be indebted to Beatrice, and she will always be our family, tied by a noble bond.\"",
+          "MG": "The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations.",
+          "UP": "\"The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0200",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0198",
+              "umi8_4-L0200"
+            ],
+            "MG": [
+              "umi8_4-L0200"
+            ],
+            "UP": [
+              "umi8_4-L0200"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。………ベアトリーチェは、未来永劫、右代宮家の恩人であり、尊い絆で結ばれた家族なのである」",
+              "translation": "The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations. ...This family will always be indebted to Beatrice, and she will always be our family, tied by a noble bond.\" "
+            },
+            "UP": {
+              "japanese": "「右代宮家子孫一同は、ベアトリーチェの恩義を永遠に讃え、子々孫々に永遠にそれを伝えるのだ。………ベアトリーチェは、未来永劫、右代宮家の恩人であり、尊い絆で結ばれた家族なのである」",
+              "translation": "\"The descendants of the Ushiromiya family will praise Beatrice for her gratitude forevermore, and this will be passed on through the generations. .........This family will always be indebted to Beatrice, and she will always be our family, tied by a noble bond.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0198",
+              "umi8_4-L0200"
+            ],
+            "MG": [
+              "umi8_4-L0200"
+            ],
+            "UP": [
+              "umi8_4-L0200"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo tells the Ushiromiya descendants to honor Beatrice’s benefaction and the obligation of gratitude toward her, transmitting this through generations. Beatrice is the benefactor, not the party expressing gratitude.",
+      "alternative": "The English sentence ends by correctly stating the family will be indebted to her, restoring the broader relationship. Nevertheless praise Beatrice for her gratitude reverses the ownership of gratitude in the specific instruction; the source does not commend her thankfulness.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-007",
+      "kind": "WH",
+      "description": "A forced choice remains hard to accept even if correct becomes doubting its correctness",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              382,
+              382
+            ],
+            "MG": [
+              382,
+              382
+            ],
+            "UP": [
+              382,
+              382
+            ]
+          },
+          "japanese": "……強制された選択は、正しくとも生涯受け容れ難い」",
+          "japanesePC": "「それは意味なきことかも知れぬな。......強制された選択は、正しくとも生涯受け容れ難い。」",
+          "japanesePS3": "……強制された選択は、正しくとも生涯受け容れ難い」",
+          "WH": "\"Such an attempt may have been meaningless.  ......As long as life is, it is hard to accept that a decision you were forced into was truly the correct one.\"",
+          "MG": "...When you're forced to make a decision, it's hard to accept that it was truly a correct one, no matter how much time passes.\"",
+          "UP": "......As long as life is, it is hard to accept that a decision you were forced into was truly the correct one.\"",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0381",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0381"
+            ],
+            "MG": [
+              "umi8_4-L0381"
+            ],
+            "UP": [
+              "umi8_4-L0381"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「それは意味なきことかも知れぬな。……強制された選択は、正しくとも生涯受け容れ難い」",
+              "translation": "\"Such an attempt would probably have been meaningless. ...When you're forced to make a decision, it's hard to accept that it was truly a correct one, no matter how much time passes.\" "
+            },
+            "UP": {
+              "japanese": "「それは意味なきことかも知れぬな。……強制された選択は、正しくとも生涯受け容れ難い」",
+              "translation": "\"Such an attempt may have been meaningless. ......As long as life is, it is hard to accept that a decision you were forced into was truly the correct one.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0381"
+            ],
+            "MG": [
+              "umi8_4-L0381"
+            ],
+            "UP": [
+              "umi8_4-L0381"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "A compelled choice is hard to accept throughout one’s life even if it is correct. 正しくとも concedes correctness while explaining the enduring problem of coercion.",
+      "alternative": "Accepting that a decision was correct can involve emotional acceptance, so the English retains the general objection to force. But it changes the direct object to the proposition that it was correct, replacing the source concession even if correct with difficulty recognizing correctness.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-008",
+      "kind": "WH",
+      "description": "Battler intends to bless her choice becomes a joint recommendation to respect it",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.agency_responsibility",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              385,
+              385
+            ],
+            "MG": [
+              385,
+              385
+            ],
+            "UP": [
+              385,
+              385
+            ]
+          },
+          "japanese": "それが、俺たちから見て正しくない選択であったとしても、……俺はそれを祝福しようと思う」",
+          "japanesePC": "「そういうことだ。.........縁寿は、自ら考え、自ら選ばなければならない。それが、俺たちから見て正しくない選択であったとしても、......俺はそれを祝福しようと思う。」",
+          "japanesePS3": "それが、俺たちから見て正しくない選択であったとしても、……俺はそれを祝福しようと思う」",
+          "WH": "\"Exactly.  ......Ange must think and choose by herself.  Even if she doesn't make the decision we view as the correct one, ......I think we should respect it.\"",
+          "MG": "Even if she doesn't make the decision we view as the correct one, ...I think we should respect it.\"",
+          "UP": "Even if she doesn't make the decision we view as the correct one, ......I think we should respect it.\"",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0383",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0383"
+            ],
+            "MG": [
+              "umi8_4-L0383"
+            ],
+            "UP": [
+              "umi8_4-L0383"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そういうことだ。………縁寿は、自ら考え、自ら選ばなければならない。それが、俺たちから見て正しくない選択であったとしても、……俺はそれを祝福しようと思う」",
+              "translation": "\"Exactly. ...Ange has to think and choose for herself. Even if she doesn't make the decision we view as the correct one, ...I think we should respect it.\" "
+            },
+            "UP": {
+              "japanese": "「そういうことだ。………縁寿は、自ら考え、自ら選ばなければならない。それが、俺たちから見て正しくない選択であったとしても、……俺はそれを祝福しようと思う」",
+              "translation": "\"Exactly. .........Ange must think and choose by herself. Even if she doesn't make the decision we view as the correct one, ......I think we should respect it.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0383"
+            ],
+            "MG": [
+              "umi8_4-L0383"
+            ],
+            "UP": [
+              "umi8_4-L0383"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Even if Ange chooses what they regard as wrong, Battler personally intends to bless that choice. 俺は marks his commitment, and 祝福 is affirmative blessing.",
+      "alternative": "Respecting another’s choice expresses acceptance and is a plausible broad paraphrase of blessing. However the English both reduces affirmative blessing to respect and changes his personal resolve into what we should do, redirecting the commitment toward a shared recommendation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-009",
+      "kind": "WH",
+      "description": "Beato will no longer intervene becomes being unable to argue",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              388,
+              388
+            ],
+            "MG": [
+              388,
+              388
+            ],
+            "UP": [
+              388,
+              388
+            ]
+          },
+          "japanese": "妾はもはや、何も口を挟まぬ。",
+          "japanesePC": "「......ふむ。.........ゲームマスターはそなただ。妾はもはや、何も口を挟まぬ。今宵をただ楽しむだけだ。」",
+          "japanesePS3": "妾はもはや、何も口を挟まぬ。",
+          "WH": "\"......Hmmm.  ......You are the Game Master.  I cannot argue with you anymore.  I will simply watch on and enjoy this night.\"",
+          "MG": "I cannot argue with you anymore.",
+          "UP": "It is no longer my place to argue.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi8_4-L0386",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0386"
+            ],
+            "MG": [
+              "umi8_4-L0386"
+            ],
+            "UP": [
+              "umi8_4-L0386"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……ふむ。………ゲームマスターはそなただ。妾はもはや、何も口を挟まぬ。今宵をただ楽しむだけだ」",
+              "translation": "\"...Hmmm. ...You are the Game Master. I cannot argue with you anymore. I will simply watch on and enjoy this night.\" "
+            },
+            "UP": {
+              "japanese": "「……ふむ。………ゲームマスターはそなただ。妾はもはや、何も口を挟まぬ。今宵をただ楽しむだけだ」",
+              "translation": "\"......Hmmm. .........You are the Game Master. It is no longer my place to argue. I will simply watch on and enjoy this night.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0386"
+            ],
+            "MG": [
+              "umi8_4-L0386"
+            ],
+            "UP": [
+              "umi8_4-L0386"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Acknowledging Battler as Game Master, Beato says she will no longer interject and will just enjoy the night. This is withdrawal from intervening, not an explicit loss of capacity or right to disagree.",
+      "alternative": "I cannot argue can idiomatically express accepting another’s position rather than literal inability. Nevertheless with you anymore narrows the source any interjection to arguing and frames her deference as inability; the Japanese gives her own prospective restraint.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-010",
+      "kind": "WH",
+      "description": "Luck determines the contest becomes luck revealing something about a man",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              443,
+              443
+            ],
+            "MG": [
+              443,
+              443
+            ],
+            "UP": [
+              443,
+              443
+            ]
+          },
+          "japanese": "「こういう時はクジ運が物を言うんや。",
+          "japanesePC": "「こういう時はクジ運が物を言うんや。負けへんでー！」",
+          "japanesePS3": "「こういう時はクジ運が物を言うんや。",
+          "WH": "\"In times like this, luck can tell you something about a man.  Can't let myself lose now!\"",
+          "MG": "\"In times like this, luck can tell you somethin' about a man.",
+          "UP": "\"Times like this are when a man's luck shines through.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_4-L0443",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0443"
+            ],
+            "MG": [
+              "umi8_4-L0443"
+            ],
+            "UP": [
+              "umi8_4-L0443"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「こういう時はクジ運が物を言うんや。負けへんでー！」",
+              "translation": "\"In times like this, luck can tell you somethin' about a man. Can't let myself lose now!\" "
+            },
+            "UP": {
+              "japanese": "「こういう時はクジ運が物を言うんや。負けへんでー！」",
+              "translation": "\"Times like this are when a man's luck shines through. Can't let myself lose now!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0443"
+            ],
+            "MG": [
+              "umi8_4-L0443"
+            ],
+            "UP": [
+              "umi8_4-L0443"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Hideyoshi says luck of the draw is what counts in a contest like this. 物を言う means exert decisive influence, not literally communicate information.",
+      "alternative": "His competitiveness permits a boast about luck or personal merit. But tell you something about a man invents a diagnostic claim about people, replacing the source statement that luck determines the outcome.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-011",
+      "kind": "WH",
+      "description": "Ange deliberative groans become repeated assent",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              487,
+              487
+            ],
+            "MG": [
+              487,
+              487
+            ],
+            "UP": [
+              487,
+              487
+            ]
+          },
+          "japanese": "「……うーん！",
+          "japanesePC": "「......うーん！　うーん......！！」",
+          "japanesePS3": "「……うーん！",
+          "WH": "\"......Okay!  Okay......!!\"",
+          "MG": "\"...Okay!",
+          "UP": "\"......Okay!",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0487",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0487"
+            ],
+            "MG": [
+              "umi8_4-L0487"
+            ],
+            "UP": [
+              "umi8_4-L0487"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……うーん！　うーん……！！」",
+              "translation": "\"...Okay! Okay...!!\" "
+            },
+            "UP": {
+              "japanese": "「……うーん！　うーん……！！」",
+              "translation": "\"......Okay! Okay......!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0487"
+            ],
+            "MG": [
+              "umi8_4-L0487"
+            ],
+            "UP": [
+              "umi8_4-L0487"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange groans or hums in indecision after being urged to pick: うーん repeated. The following narration continues uncertainty.",
+      "alternative": "Okay can mark responding to encouragement while still pondering a choice. Nonetheless repeated Okay presents assent rather than the audible effort of indecision supplied by the source.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-012",
+      "kind": "WH",
+      "description": "Increase tied to the number of observed losers becomes only slight increase",
+      "categories": [
+        "linguistic.undertranslation",
+        "linguistic.addition",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              514,
+              514
+            ],
+            "MG": [
+              514,
+              514
+            ],
+            "UP": [
+              514,
+              514
+            ]
+          },
+          "japanese": "しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。",
+          "japanesePC": "しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。",
+          "japanesePS3": "しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。",
+          "WH": "However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly.",
+          "MG": "However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly.",
+          "UP": "However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0512",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0512"
+            ],
+            "MG": [
+              "umi8_4-L0512"
+            ],
+            "UP": [
+              "umi8_4-L0512"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかし、私はそれを思い留まる。最初にケーキを調べたら、当たる確率は１５分の１だ。しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。つまり、今すぐアーモンドを探すより、少し待って、外れる人が現れてから探した方が、当たりの確率はアップするのだ。",
+              "translation": "However, I stopped myself. If I check my piece first, my chance of winning is one in 15. However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly. In other words, instead of searching for the almond right away, my chances will go up if I wait for some other people to lose. "
+            },
+            "UP": {
+              "japanese": "しかし、私はそれを思い留まる。最初にケーキを調べたら、当たる確率は１５分の１だ。しかし、他の人がケーキを開くのを待ち、外れる人を確認していけば、その数だけ当たる確率が増える。つまり、今すぐアーモンドを探すより、少し待って、外れる人が現れてから探した方が、当たりの確率はアップするのだ。",
+              "translation": "However, I stopped myself. If I check my piece first, my chance of winning is 1 in 15. However, if I wait for some other people to check their slices, then when I see that they've lost, my chances will go up, if only slightly. In other words, instead of searching for the almond right away, my chances will go up if I wait for some other people to lose."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0512"
+            ],
+            "MG": [
+              "umi8_4-L0512"
+            ],
+            "UP": [
+              "umi8_4-L0512"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "In Ange’s reasoning, checking others and confirming losing slices increases the winning probability according to how many such losers she observes: その数だけ.",
+      "alternative": "If only slightly can colloquially mean even a small improvement is worthwhile rather than cap every increase. Even on that reading it supplies a magnitude evaluation absent from the source and removes the explicit number-dependent relation that drives her timing argument. The nearby English retains the highest-chance conclusion.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-013",
+      "kind": "WH",
+      "description": "Reluctance to open a treasured box becomes inability to wait",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              544,
+              544
+            ],
+            "MG": [
+              544,
+              544
+            ],
+            "UP": [
+              544,
+              544
+            ]
+          },
+          "japanese": "私は、大切な宝箱を開くのを惜しみながら、",
+          "japanesePC": "私は、大切な宝箱を開くのを惜しみながら、みんながケーキを選び終わり、その中身を調べ終えるのを待った。",
+          "japanesePS3": "私は、大切な宝箱を開くのを惜しみながら、",
+          "WH": "I couldn't wait to open this precious treasure chest, but I waited for everyone else to choose their pieces and check them.",
+          "MG": "I couldn't wait to open this precious treasure chest,",
+          "UP": "I couldn't wait to open this precious treasure chest,",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0544",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0544"
+            ],
+            "MG": [
+              "umi8_4-L0544"
+            ],
+            "UP": [
+              "umi8_4-L0544"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "私は、大切な宝箱を開くのを惜しみながら、みんながケーキを選び終わり、その中身を調べ終えるのを待った。",
+              "translation": "I couldn't wait to open this precious treasure chest, but I waited for everyone else to choose their pieces and check them. "
+            },
+            "UP": {
+              "japanese": "私は、大切な宝箱を開くのを惜しみながら、みんながケーキを選び終わり、その中身を調べ終えるのを待った。",
+              "translation": "I couldn't wait to open this precious treasure chest, but I waited for everyone else to choose their pieces and check them."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0544"
+            ],
+            "MG": [
+              "umi8_4-L0544"
+            ],
+            "UP": [
+              "umi8_4-L0544"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange waits while being reluctant to open her precious treasure chest: 開くのを惜しむ. The metaphor makes opening something whose anticipation she is loath to spend.",
+      "alternative": "Her earlier temptation to inspect it and wish to win establish eagerness as well. Yet this sentence specifically depicts reluctance to open, and couldn’t wait replaces that with impatience, changing the emotional aspect of her delay.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-014",
+      "kind": "WH",
+      "description": "Duplicated modal verb in Nanjo dialogue",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              563,
+              563
+            ],
+            "MG": [
+              563,
+              563
+            ],
+            "UP": [
+              563,
+              563
+            ]
+          },
+          "japanese": "たまにはこういうのも楽しいですなぁ」",
+          "japanesePC": "「今、調べてるところです。たまにはこういうのも楽しいですなぁ。」",
+          "japanesePS3": "たまにはこういうのも楽しいですなぁ」",
+          "WH": "\"I'm checking it now.  Games like this can truly can be fun, every now and then.\"",
+          "MG": "Games like this can truly can be fun, every now and then.\"",
+          "UP": "Games like this can truly can be fun, every now and then.\"",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_4-L0562",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0562"
+            ],
+            "MG": [
+              "umi8_4-L0562"
+            ],
+            "UP": [
+              "umi8_4-L0562"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「今、調べてるところです。たまにはこういうのも楽しいですなぁ」",
+              "translation": "\"I'm checking it now. Games like this can truly can be fun, every now and then.\" "
+            },
+            "UP": {
+              "japanese": "「今、調べてるところです。たまにはこういうのも楽しいですなぁ」",
+              "translation": "\"I'm checking it now. Games like this can truly can be fun, every now and then.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0562"
+            ],
+            "MG": [
+              "umi8_4-L0562"
+            ],
+            "UP": [
+              "umi8_4-L0562"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Nanjo says checking now and that games like this are enjoyable occasionally.",
+      "alternative": "The intended sentence is easily recoverable, but can truly can is an accidental repeated auxiliary with no source counterpart.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-015",
+      "kind": "WH",
+      "description": "The crowd examines Ange almond but English directs the look at Ange",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              598,
+              598
+            ],
+            "MG": [
+              598,
+              598
+            ],
+            "UP": [
+              598,
+              598
+            ]
+          },
+          "japanese": "絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。",
+          "japanesePC": "絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。",
+          "japanesePS3": "絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。",
+          "WH": "The crowd around Eva split, and everyone started at me, surprised.",
+          "MG": "The crowd around Eva split, and everyone stared at me, surprised.",
+          "UP": "The crowd around Eva split, and everyone stared at me, surprised.",
+          "note": "Complete independent source-first three-witness reading. MG/UP outcomes distinct;009 UP no-longer-my-place restores time boundary but frames lack of interference as normative authority, partial;010 UP luck shines through restores chance manifestation.015 both fix started/stared but still target Ange instead of almond, partial. UP227 negative reassurance held after predicate context, not forced polarity reversal. MG259 inherited applause grammar preserved for supplement adjudication. MG461 allocation count held with tray arrangement context. Both243 weaved retained metaphor held as less usual inflection. MG257–258 promises/unity held as softened solidarity. Both357 standing outside adequately compresses leaving circle. Both641 think/let us hear held with642 chosen wish.634 first-speaker interpretation naturally Eva; no wrong-subject finding. No new firm introduced defects or proven yellow material.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi8_4-L0597",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0597"
+            ],
+            "MG": [
+              "umi8_4-L0597"
+            ],
+            "UP": [
+              "umi8_4-L0597"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "私はアーモンドを摘んで掲げて、大声で叫ぶ。\n絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。",
+              "translation": "I held the almond high and shouted across the room. The crowd around Eva split, and everyone stared at me, surprised. "
+            },
+            "UP": {
+              "japanese": "私はアーモンドを摘んで掲げて、大声で叫ぶ。\n絵羽を囲む人垣が割れ、みんなが私のそれを凝視して驚く。",
+              "translation": "I held the almond high and shouted across the room.\nThe crowd around Eva split, and everyone stared at me, surprised."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0597"
+            ],
+            "MG": [
+              "umi8_4-L0597"
+            ],
+            "UP": [
+              "umi8_4-L0597"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "As the crowd around Eva parts, everyone stares at the thing Ange holds, 私のそれ: her almond. Their inspection targets the competing winning object.",
+      "alternative": "The preceding raised almond makes the target inferable and the following text confirms Eva’s almond too. Nevertheless at me replaces that object with Ange, while started at is also an apparent typo for stared at. The source explicitly locates the collective inspection on her object.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH04-016",
+      "kind": "WH",
+      "description": "WH uses the uncountable applause as a singular count noun in a friendly applause.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_4",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              259,
+              259
+            ],
+            "MG": [
+              259,
+              259
+            ],
+            "UP": [
+              259,
+              259
+            ]
+          },
+          "japanese": "蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。",
+          "japanesePC": "蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。",
+          "japanesePS3": "蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。",
+          "WH": "When Krauss finished his announcement, a friendly applause filled the hall.",
+          "MG": "When Krauss finished his announcement, a friendly applause filled the hall.",
+          "UP": "When Krauss finished his announcement, a warm round of applause filled the hall.",
+          "note": "Exact active originalPC and paired prose directly checked under ep07-ep08-inherited-grammar-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_4-L0259",
+          "readerRefs": {
+            "WH": [
+              "umi8_4-L0259"
+            ],
+            "MG": [
+              "umi8_4-L0259"
+            ],
+            "UP": [
+              "umi8_4-L0259"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。いとこたちも、使用人たちも、……いつまでもいつまでも、拍手を惜しまなかった。",
+              "translation": "When Krauss finished his announcement, a friendly applause filled the hall. The cousins... and the servants too... ...joined in on the applause that continued on and on. "
+            },
+            "UP": {
+              "japanese": "蔵臼が宣言を終えると、ホールは温かな拍手で溢れた。いとこたちも、使用人たちも、……いつまでもいつまでも、拍手を惜しまなかった。",
+              "translation": "When Krauss finished his announcement, a warm round of applause filled the hall. The cousins... and the servants too... ...joined in on the applause that continued on and on."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_4-L0259"
+            ],
+            "MG": [
+              "umi8_4-L0259"
+            ],
+            "UP": [
+              "umi8_4-L0259"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The active original-PC English contains this grammatical or typographical defect. MG retains it; UP repairs the construction without changing the source action.",
+      "alternative": "Meaning remains clear; the finding is limited to standard prose grammar or typography.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP08-CH04-001": {
+      "umi8_4-L0010": {
+        "WH": [
+          "always had crap in his hands every time he acted tough"
+        ],
+        "UP": [
+          "always had crap in his hands every time he acted tough"
+        ],
+        "MG": [
+          "always had crap in his hands every time he acted tough"
+        ]
+      }
+    },
+    "WH-EP08-CH04-002": {
+      "umi8_4-L0070": {
+        "WH": [
+          "That's 'I'm hungry'"
+        ],
+        "MG": [
+          "That's \"I'm hungry\""
+        ]
+      }
+    },
+    "WH-EP08-CH04-003": {
+      "umi8_4-L0091": {
+        "WH": [
+          "grows up happily"
+        ],
+        "MG": [
+          "grows up happily"
+        ],
+        "UP": [
+          "grows up happily"
+        ]
+      }
+    },
+    "WH-EP08-CH04-004": {
+      "umi8_4-L0184": {
+        "WH": [
+          "If you've nowhere to put it"
+        ],
+        "MG": [
+          "If you've nowhere to put it"
+        ]
+      }
+    },
+    "WH-EP08-CH04-005": {
+      "umi8_4-L0195": {
+        "WH": [
+          "leered at us"
+        ],
+        "UP": [
+          "leered at us"
+        ],
+        "MG": [
+          "leered at us"
+        ]
+      }
+    },
+    "WH-EP08-CH04-006": {
+      "umi8_4-L0198": {
+        "WH": [
+          "praise Beatrice for her gratitude"
+        ]
+      },
+      "umi8_4-L0200": {
+        "WH": [
+          "praise Beatrice for her gratitude"
+        ],
+        "MG": [
+          "praise Beatrice for her gratitude"
+        ],
+        "UP": [
+          "praise Beatrice for her gratitude"
+        ]
+      }
+    },
+    "WH-EP08-CH04-007": {
+      "umi8_4-L0381": {
+        "WH": [
+          "it is hard to accept that a decision you were forced into was truly the correct one"
+        ],
+        "MG": [
+          "it's hard to accept that it was truly a correct one"
+        ],
+        "UP": [
+          "it is hard to accept that a decision you were forced into was truly the correct one"
+        ]
+      }
+    },
+    "WH-EP08-CH04-008": {
+      "umi8_4-L0383": {
+        "WH": [
+          "I think we should respect it"
+        ],
+        "MG": [
+          "I think we should respect it"
+        ],
+        "UP": [
+          "I think we should respect it"
+        ]
+      }
+    },
+    "WH-EP08-CH04-009": {
+      "umi8_4-L0386": {
+        "WH": [
+          "I cannot argue with you anymore"
+        ],
+        "MG": [
+          "I cannot argue with you anymore"
+        ],
+        "UP": [
+          "It is no longer my place to argue"
+        ]
+      }
+    },
+    "WH-EP08-CH04-010": {
+      "umi8_4-L0443": {
+        "WH": [
+          "luck can tell you something about a man"
+        ],
+        "MG": [
+          "luck can tell you somethin' about a man"
+        ]
+      }
+    },
+    "WH-EP08-CH04-011": {
+      "umi8_4-L0487": {
+        "WH": [
+          "Okay! Okay"
+        ],
+        "MG": [
+          "Okay! Okay"
+        ],
+        "UP": [
+          "Okay! Okay"
+        ]
+      }
+    },
+    "WH-EP08-CH04-012": {
+      "umi8_4-L0512": {
+        "WH": [
+          "my chances will go up, if only slightly"
+        ],
+        "MG": [
+          "my chances will go up, if only slightly"
+        ],
+        "UP": [
+          "my chances will go up, if only slightly"
+        ]
+      }
+    },
+    "WH-EP08-CH04-013": {
+      "umi8_4-L0544": {
+        "WH": [
+          "I couldn't wait to open this precious treasure chest"
+        ],
+        "UP": [
+          "I couldn't wait to open this precious treasure chest"
+        ],
+        "MG": [
+          "I couldn't wait to open this precious treasure chest"
+        ]
+      }
+    },
+    "WH-EP08-CH04-014": {
+      "umi8_4-L0562": {
+        "WH": [
+          "can truly can"
+        ],
+        "MG": [
+          "can truly can"
+        ],
+        "UP": [
+          "can truly can"
+        ]
+      }
+    },
+    "WH-EP08-CH04-015": {
+      "umi8_4-L0597": {
+        "WH": [
+          "everyone started at me"
+        ],
+        "MG": [
+          "everyone stared at me"
+        ],
+        "UP": [
+          "everyone stared at me"
+        ]
+      }
+    },
+    "WH-EP08-CH04-016": {
+      "umi8_4-L0259": {
+        "WH": [
+          "a friendly applause"
+        ],
+        "MG": [
+          "a friendly applause"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

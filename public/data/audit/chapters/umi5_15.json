@@ -1,1 +1,568 @@
-{"findings":[{"id":"WH-EP05-CH15-001","kind":"WH","description":"WH says the renewed closet concealment lasted from discovery of the incident until corpse removal.","categories":["linguistic.addition","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_15","episode":5,"rows":{"JP":[70,70],"MG":[70,70],"UP":[70,70]},"japanese":"事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。","japanesePC":"事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。","japanesePS3":"事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。","WH":"From the time the others became aware of the incident to the time that they carried Hideyoshi's corpse out, Natsuhi once again concealed herself in the closet.","MG":"Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi's body.","UP":"Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi's body.","note":"Complete documented1–130 review; parent verified4–5/86 and PC57637–57638/57967–57970. Same revised wording independently evaluated in MG/UP without asserting one is downstream of the other. Sexual accusations present current JP, no yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_15-L0059","readerRefs":{"WH":["umi5_15-L0059"],"MG":["umi5_15-L0059"],"UP":["umi5_15-L0059"]}}],"sourceReading":"事件に気付いた関係者が、秀吉の遺体を運び出すまでの間 sets the endpoint by the people who noticed the crime carrying out the corpse; it does not set the concealment’s start to their discovery.","alternative":"Hiding necessarily spans discovery and removal, but WH’s from-the-time wording adds a specific onset where the source describes waiting until removal after the murder.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH15-002","kind":"WH","description":"Natsuhi instruction to relay the following message becomes a request to tell her.","categories":["linguistic.wrong_subject","character.relationship_power","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_15","episode":5,"rows":{"JP":[123,123],"MG":[123,123],"UP":[123,123]},"japanese":"「………なら伝えなさい…！","japanesePC":"「.........なら伝えなさい...！　これで気は晴れましたか？　１９年間、あなたを苛んだ痛みと苦しみは、少しは癒えましたか...？！","japanesePS3":"「………なら伝えなさい…！","WH":"\".........Then tell me...!  Are you happy now?  Has a bit of that pain and suffering you've endured for 19 years gone away...?!","MG":"\"......Then tell me...!","UP":"\".........So tell me...!","note":"Full documented111–250 review; parent checked153–156/212–215. Hold UP155 nurse as broad caring/holding sense in adoption context; no breastfeeding fact asserted. Hold MG214 reasons for presence as implicit undisclosable origins with existence suppressed215. UP236–238 duration relocation spans same nineteen-year rhetorical window. No proven yellow or additional firm finding.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_15-L0121","readerRefs":{"WH":["umi5_15-L0121"],"MG":["umi5_15-L0121"],"UP":["umi5_15-L0121"]}}],"sourceReading":"なら伝えなさい directs the alleged present underling to transmit her ensuing questions to the absent man.","alternative":"The subsequent questions still address the man directly, but tell me reverses communication direction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH15-003","kind":"WH","description":"WH relocates ambiguity from the vividly remembered instant to its remembered feeling.","categories":["linguistic.logical_relation","character.viewpoint_attribution","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_15","episode":5,"rows":{"JP":[189,192],"MG":[189,192],"UP":[189,192]},"japanese":"その瞬間のことは、\n……鮮明に覚えているのに、\n…なのになぜか曖昧で、\n……とても不思議な気持ちだったのを覚えています。","japanesePC":"その瞬間のことは、\n......鮮明に覚えているのに、...なのになぜか曖昧で、\n......とても不思議な気持ちだったのを覚えています。","japanesePS3":"その瞬間のことは、\n……鮮明に覚えているのに、\n…なのになぜか曖昧で、\n……とても不思議な気持ちだったのを覚えています。","WH":"Even though...\n...I remember that moment vividly, ...for some reason I recall a vague...\n...and very strange feeling.","MG":"Even though...\n...I remember that moment vividly,\n...for some reason I recall a vague...\nand very strange feeling.","UP":"Even though...\n...I remember that moment vividly,\n...for some reason I recall a vague...\n...and very strange feeling.","note":"Full documented111–250 review; parent checked153–156/212–215. Hold UP155 nurse as broad caring/holding sense in adoption context; no breastfeeding fact asserted. Hold MG214 reasons for presence as implicit undisclosable origins with existence suppressed215. UP236–238 duration relocation spans same nineteen-year rhetorical window. No proven yellow or additional firm finding.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_15-L0185","readerRefs":{"WH":["umi5_15-L0185"],"MG":["umi5_15-L0185"],"UP":["umi5_15-L0185"]}}],"sourceReading":"鮮明に覚えているのに ... 曖昧で describes paradoxical clarity and ambiguity of the recollection, followed by the strange feeling.","alternative":"The feeling is also strange, so vague feeling is plausible, but it loses the explicit despite/yet relation qualifying memory.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH15-004","kind":"WH","description":"WH says she then decided to let the servant care for the baby rather than made that the account of what she had done.","categories":["linguistic.logical_relation","character.agency_responsibility","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_15","episode":5,"rows":{"JP":[205,206],"MG":[205,206],"UP":[205,206]},"japanese":"そう自らに思い込ませ、足早に薔薇庭園に戻り、\n……赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました…。","japanesePC":"そう自らに思い込ませ、足早に薔薇庭園に戻り、......赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました...。","japanesePS3":"そう自らに思い込ませ、足早に薔薇庭園に戻り、\n……赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました…。","WH":"Trying to make myself believe this, I hurried back to the rose garden.  ......Then I decided to let the servant take care of the baby, choosing to take a rest alone in the garden...","MG":"Trying to make myself believe this, I hurried back to the rose garden.\n...Then, I decided to let the servant take care of the baby, choosing to take a rest alone in the garden...","UP":"Trying to make myself believe this, I hurried back to the rose garden.\n......I decided to say that I'd left the baby with the servant and had been taking a rest alone in the garden...","note":"Full documented111–250 review; parent checked153–156/212–215. Hold UP155 nurse as broad caring/holding sense in adoption context; no breastfeeding fact asserted. Hold MG214 reasons for presence as implicit undisclosable origins with existence suppressed215. UP236–238 duration relocation spans same nineteen-year rhetorical window. No proven yellow or additional firm finding.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_15-L0200","readerRefs":{"WH":["umi5_15-L0200"],"MG":["umi5_15-L0200"],"UP":["umi5_15-L0200"]}}],"sourceReading":"任せ ... 休んでいたことにしました constructs the story that she left the baby with the servant and rested alone, after returning and persuading herself it was a daydream.","alternative":"Decided can introduce a narrative choice, but decided to let the servant take care of the baby reads as a subsequent real action.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH15-001-120-001","kind":"additional","description":"MG and UP change financial subjugation of the birth family into financial ruin.","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi5_15","episode":5,"rows":{"JP":[4,5],"MG":[4,5],"UP":[4,5]},"japanese":"夏妃は、右代宮家がかつて、実家を経済的に屈服させたことへも復讐するため、\n右代宮家の財産の乗っ取りを画策しました。","japanesePC":"","japanesePS3":"夏妃は、右代宮家がかつて、実家を経済的に屈服させたことへも復讐するため、\n右代宮家の財産の乗っ取りを画策しました。","WH":"","MG":"As revenge for financially ruining her birth family,\nNatsuhi also plotted to take over the Ushiromiya family's fortune.","UP":"As revenge for financially ruining her birth family,\nNatsuhi also plotted to take over the Ushiromiya family's fortune.","note":"","dispositions":{"MG":"defect","UP":"defect"},"readerRef":"umi5_15-L0001","readerRefs":{"WH":[],"MG":["umi5_15-L0001"],"UP":["umi5_15-L0001"]}}],"sourceReading":"経済的に屈服させた denotes forced financial submission. PC57637–57638 correctly preserves submission; both re-edits use financially ruining.","alternative":"Ruin can figuratively mean economically crushing a family, without bankruptcy. It nonetheless loses imposed financial submission as the stated revenge motive.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH15-001-120-002","kind":"additional","description":"MG and UP change the acting court chief title to deputy attorney general.","categories":["linguistic.word_choice","world.culture_history"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi5_15","episode":5,"rows":{"JP":[86,86],"MG":[86,86],"UP":[86,86]},"japanese":"大法院長官職務代理者","japanesePC":"","japanesePS3":"大法院長官職務代理者","WH":"","MG":"Great Court Deputy Attorney General","UP":"Great Court Deputy Attorney General","note":"","dispositions":{"MG":"defect","UP":"defect"},"readerRef":"umi5_15-L0082","readerRefs":{"WH":[],"MG":["umi5_15-L0082"],"UP":["umi5_15-L0082"]}}],"sourceReading":"大法院長官職務代理者 denotes acting for the court chief. PC57967–57970 uses Deputy Chief; re-edits independently substitute Attorney General.","alternative":"Fantasy terminology allows localization, but attorney general is a different named office unsupported by either Japanese witness. No exact real-world official English title is asserted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP05-CH15-001",
+      "kind": "WH",
+      "description": "WH says the renewed closet concealment lasted from discovery of the incident until corpse removal.",
+      "categories": [
+        "linguistic.addition",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_15",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              70,
+              70
+            ],
+            "MG": [
+              70,
+              70
+            ],
+            "UP": [
+              70,
+              70
+            ]
+          },
+          "japanese": "事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。",
+          "japanesePC": "事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。",
+          "japanesePS3": "事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。",
+          "WH": "From the time the others became aware of the incident to the time that they carried Hideyoshi's corpse out, Natsuhi once again concealed herself in the closet.",
+          "MG": "Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi's body.",
+          "UP": "Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi's body.",
+          "note": "Complete documented1–130 review; parent verified4–5/86 and PC57637–57638/57967–57970. Same revised wording independently evaluated in MG/UP without asserting one is downstream of the other. Sexual accusations present current JP, no yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_15-L0059",
+          "readerRefs": {
+            "WH": [
+              "umi5_15-L0059"
+            ],
+            "MG": [
+              "umi5_15-L0059"
+            ],
+            "UP": [
+              "umi5_15-L0059"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "戦人を犯人と疑わせる目論見が失敗した夏妃は、計画を、全員殺害に変更しました。\n（※裁判概要書：５８ページより）\n（※補足資料Ｔ：１９ページより）\n（※ベルンカステル文書：１３４８ページより）\n（※大法院内務文書：法総書Ａ０９第９９７４号より）いずれ関係者が、休憩のために個室を欲しがることを予測した夏妃は、客室の一室のクローゼット内に潜伏。午後１時頃、この部屋に訪れた秀吉を殺害しました。\n（※裁判概要書：６１ページより）\n（※補足資料Ｔ：２６ページより）\n（※大法院内務文書：法総書Ａ０９第９９７４号より）事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。\nなお、その証拠として、クローゼット内に、夏妃の着衣のボタンを発見しました。その後、クローゼットを脱出して自室に戻ろうとしました。しかしその途上で、古戸ヱリカに発見されて追及を受け、事件を自白しました。\n（※裁判概要書：６３ページより）\n（※補足資料Ｔ：３２ページより）\n（※証拠品提出：第２６号より）\n（※ベルンカステル文書：１３４８ページより）\n（※ラムダデルタ文書：７行目より）\n（※大法院内務文書：法総書Ａ０９第９９７４号より）\n（※大法院内務文書：法管一Ｕ９９第０１０７号より）\n（※大法院公示文書：第０１７２４４３４号より）",
+              "translation": "Natsuhi, who had failed in her scheme to cast suspicion on Battler, changed her plan to include the murder of all present. \n(*Trial Summary, p.58) \n(*Supplemental Materials T, p.19) \n(*Bernkastel Documents, p.1348) \n(*Great Court Internal Documents: Library of Law A09 #9974) Predicting that one of those present would eventually want to take a rest in a private room, Natsuhi concealed herself inside a closet in one of the guest rooms. When Hideyoshi visited that room at approximately 13:00, she murdered him. \n(*Trial Summary, p.61) \n(*Supplemental Materials T, p.26) \n(*Great Court Internal Documents: Library of Law A09 #9974) Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi's body. \nFurthermore, as proof of this, a button from Natsuhi's clothes was found in the closet. Afterwards, she exited the closet and tried to return to her own room. However, Furudo Erika discovered her on the way, and Natsuhi confessed to her crimes after questioning. \n(*Trial Summary, p.63) \n(*Supplemental Materials T, p.32) \n(*Submitted Evidence #26) \n(*Bernkastel Documents, p.1348) \n(*Lambdadelta Documents, line 7) \n(*Great Court Internal Documents: Library of Law A09 #9974) \n(*Great Court Internal Documents: Legal Mgmt. U99 #0107) \n(*Great Court Official Notice #01724434) "
+            },
+            "UP": {
+              "japanese": "戦人を犯人と疑わせる目論見が失敗した夏妃は、計画を、全員殺害に変更しました。\n（※裁判概要書：５８ページより）\n（※補足資料Ｔ：１９ページより）\n（※ベルンカステル文書：１３４８ページより）\n（※大法院内務文書：法総書Ａ０９第９９７４号より）いずれ関係者が、休憩のために個室を欲しがることを予測した夏妃は、客室の一室のクローゼット内に潜伏。午後１時頃、この部屋に訪れた秀吉を殺害しました。\n（※裁判概要書：６１ページより）\n（※補足資料Ｔ：２６ページより）\n（※大法院内務文書：法総書Ａ０９第９９７４号より）事件に気付いた関係者が、秀吉の遺体を運び出すまでの間、再び夏妃はクローゼット内に潜伏。\nなお、その証拠として、クローゼット内に、夏妃の着衣のボタンを発見しました。その後、クローゼットを脱出して自室に戻ろうとしました。しかしその途上で、古戸ヱリカに発見されて追及を受け、事件を自白しました。\n（※裁判概要書：６３ページより）\n（※補足資料Ｔ：３２ページより）\n（※証拠品提出：第２６号より）\n（※ベルンカステル文書：１３４８ページより）\n（※ラムダデルタ文書：７行目より）\n（※大法院内務文書：法総書Ａ０９第９９７４号より）\n（※大法院内務文書：法管一Ｕ９９第０１０７号より）\n（※大法院公示文書：第０１７２４４３４号より）",
+              "translation": "Natsuhi, who had failed in her scheme to cast suspicion on Battler, changed her plan to include the murder of all present.\n(*Trial Summary, p.58)\n(*Supplemental Materials T, p.19)\n(*Bernkastel Documents, p.1348)\n(*Great Court Internal Documents: Library of Law A09 #9974) Predicting that one of those present would eventually want to take a rest in a private room, Natsuhi concealed herself inside a closet in one of the guest rooms. When Hideyoshi visited that room at approximately 13:00, she murdered him.\n(*Trial Summary, p.61)\n(*Supplemental Materials T, p.26)\n(*Great Court Internal Documents: Library of Law A09 #9974) Natsuhi once again concealed herself in the closet from the time the others became aware of the incident to the time that they carried out Hideyoshi's body.\nFurthermore, as proof of this, a button from Natsuhi's clothes was found in the closet. Afterwards, she exited the closet and tried to return to her own room. However, Furudo Erika discovered her on the way, and Natsuhi confessed to her crimes after questioning.\n(*Trial Summary, p.63)\n(*Supplemental Materials T, p.32)\n(*Submitted Evidence #26)\n(*Bernkastel Documents, p.1348)\n(*Lambdadelta Documents, line 7)\n(*Great Court Internal Documents: Library of Law A09 #9974)\n(*Great Court Internal Documents: Legal Mgmt. U99 #0107)\n(*Great Court Official Notice #01724434)"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_15-L0059"
+            ],
+            "MG": [
+              "umi5_15-L0059"
+            ],
+            "UP": [
+              "umi5_15-L0059"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "事件に気付いた関係者が、秀吉の遺体を運び出すまでの間 sets the endpoint by the people who noticed the crime carrying out the corpse; it does not set the concealment’s start to their discovery.",
+      "alternative": "Hiding necessarily spans discovery and removal, but WH’s from-the-time wording adds a specific onset where the source describes waiting until removal after the murder.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH15-002",
+      "kind": "WH",
+      "description": "Natsuhi instruction to relay the following message becomes a request to tell her.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_15",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              123,
+              123
+            ],
+            "MG": [
+              123,
+              123
+            ],
+            "UP": [
+              123,
+              123
+            ]
+          },
+          "japanese": "「………なら伝えなさい…！",
+          "japanesePC": "「.........なら伝えなさい...！　これで気は晴れましたか？　１９年間、あなたを苛んだ痛みと苦しみは、少しは癒えましたか...？！",
+          "japanesePS3": "「………なら伝えなさい…！",
+          "WH": "\".........Then tell me...!  Are you happy now?  Has a bit of that pain and suffering you've endured for 19 years gone away...?!",
+          "MG": "\"......Then tell me...!",
+          "UP": "\".........So tell me...!",
+          "note": "Full documented111–250 review; parent checked153–156/212–215. Hold UP155 nurse as broad caring/holding sense in adoption context; no breastfeeding fact asserted. Hold MG214 reasons for presence as implicit undisclosable origins with existence suppressed215. UP236–238 duration relocation spans same nineteen-year rhetorical window. No proven yellow or additional firm finding.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_15-L0121",
+          "readerRefs": {
+            "WH": [
+              "umi5_15-L0121"
+            ],
+            "MG": [
+              "umi5_15-L0121"
+            ],
+            "UP": [
+              "umi5_15-L0121"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「きっと、……この中に、あの男の手先が混じっているはずです。……あの男は、あなたたちの誰かを通じて、今のこの私を嘲笑っているでしょう…」「………なら伝えなさい…！　これで気は晴れましたか？　１９年間、あなたを苛んだ痛みと苦しみは、少しは癒えましたか…？！　………ようやく私はわかりました。…私をここまで追い詰めたのは、……それを、……認めさせたかったからですね……？」",
+              "translation": "\"I'm sure...that man's underling is one among us here. ...I'm sure that right now, that man is ridiculing me through one of you...\" \"......Then tell me...! Are you happy now? Has a bit of that pain and suffering you've endured for 19 years gone away...?! ......I finally understand. ...The reason you've cornered me so far...is because...you wanted to make me acknowledge that, right...?\" "
+            },
+            "UP": {
+              "japanese": "「きっと、……この中に、あの男の手先が混じっているはずです。……あの男は、あなたたちの誰かを通じて、今のこの私を嘲笑っているでしょう…」「………なら伝えなさい…！　これで気は晴れましたか？　１９年間、あなたを苛んだ痛みと苦しみは、少しは癒えましたか…？！　………ようやく私はわかりました。…私をここまで追い詰めたのは、……それを、……認めさせたかったからですね……？」",
+              "translation": "\"I'm certain......that a pawn of that man is among us now. ......I'm sure that right now, that man is ridiculing me through one of you...\" \".........So tell me...! Are you happy now? Has a little of that pain and suffering you've endured for 19 years gone away...?! .........I finally understand. ...The reason you brought me down to this point......is because......you wanted to make me admit it, isn't it......?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_15-L0121"
+            ],
+            "MG": [
+              "umi5_15-L0121"
+            ],
+            "UP": [
+              "umi5_15-L0121"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "なら伝えなさい directs the alleged present underling to transmit her ensuing questions to the absent man.",
+      "alternative": "The subsequent questions still address the man directly, but tell me reverses communication direction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH15-003",
+      "kind": "WH",
+      "description": "WH relocates ambiguity from the vividly remembered instant to its remembered feeling.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.viewpoint_attribution",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_15",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              189,
+              192
+            ],
+            "MG": [
+              189,
+              192
+            ],
+            "UP": [
+              189,
+              192
+            ]
+          },
+          "japanese": "その瞬間のことは、\n……鮮明に覚えているのに、\n…なのになぜか曖昧で、\n……とても不思議な気持ちだったのを覚えています。",
+          "japanesePC": "その瞬間のことは、\n......鮮明に覚えているのに、...なのになぜか曖昧で、\n......とても不思議な気持ちだったのを覚えています。",
+          "japanesePS3": "その瞬間のことは、\n……鮮明に覚えているのに、\n…なのになぜか曖昧で、\n……とても不思議な気持ちだったのを覚えています。",
+          "WH": "Even though...\n...I remember that moment vividly, ...for some reason I recall a vague...\n...and very strange feeling.",
+          "MG": "Even though...\n...I remember that moment vividly,\n...for some reason I recall a vague...\nand very strange feeling.",
+          "UP": "Even though...\n...I remember that moment vividly,\n...for some reason I recall a vague...\n...and very strange feeling.",
+          "note": "Full documented111–250 review; parent checked153–156/212–215. Hold UP155 nurse as broad caring/holding sense in adoption context; no breastfeeding fact asserted. Hold MG214 reasons for presence as implicit undisclosable origins with existence suppressed215. UP236–238 duration relocation spans same nineteen-year rhetorical window. No proven yellow or additional firm finding.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_15-L0185",
+          "readerRefs": {
+            "WH": [
+              "umi5_15-L0185"
+            ],
+            "MG": [
+              "umi5_15-L0185"
+            ],
+            "UP": [
+              "umi5_15-L0185"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "粗末な柵は根元から折れ、………使用人と、……その手に抱かれた赤ん坊と一緒に、………眼下の岩浜へ転落していきました……。その瞬間のことは、……鮮明に覚えているのに、…なのになぜか曖昧で、……とても不思議な気持ちだったのを覚えています。転落したというより、……まるで、何もない宙に、二人が音も無く飲み込まれて消えたようにさえ感じたのです。だから私は、二人が岩浜に落下した音さえ聞いていません。いえ、きっと聞いているのです。でも、消えたと思い込みたかったから、………その聞いた音を、きっと記憶から消し去ってしまったのです…。",
+              "translation": "The rough fence snapped from the base, ......and the servant, ...along with the baby held in her arms, ......fell down towards the rocky beach below... Even though... ...I remember that moment vividly, ...for some reason I recall a vague... and very strange feeling. It almost felt as though instead of falling, ...the two of them were silently swallowed up into empty space. So I didn't even hear the sound of them crashing to the rocky beach. No, I'm sure I heard it. But because I wanted to think that they'd disappeared, ...I must have erased that sound from my memory... "
+            },
+            "UP": {
+              "japanese": "粗末な柵は根元から折れ、………使用人と、……その手に抱かれた赤ん坊と一緒に、………眼下の岩浜へ転落していきました……。その瞬間のことは、……鮮明に覚えているのに、…なのになぜか曖昧で、……とても不思議な気持ちだったのを覚えています。転落したというより、……まるで、何もない宙に、二人が音も無く飲み込まれて消えたようにさえ感じたのです。だから私は、二人が岩浜に落下した音さえ聞いていません。いえ、きっと聞いているのです。でも、消えたと思い込みたかったから、………その聞いた音を、きっと記憶から消し去ってしまったのです…。",
+              "translation": "The rough fence snapped from the base, .........and the servant, ......along with the baby held in her arms, .........fell down towards the rocky beach below...... Even though... ...I remember that moment vividly, ...for some reason I recall a vague... ...and very strange feeling. It almost felt as though instead of falling, ......the two of them were silently swallowed up into empty space. So I never even heard the sound of them crashing to the rocky beach. No, I must have heard it. But because I wanted to think that they'd simply disappeared, ......I must have erased that sound from my memory..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_15-L0185"
+            ],
+            "MG": [
+              "umi5_15-L0185"
+            ],
+            "UP": [
+              "umi5_15-L0185"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "鮮明に覚えているのに ... 曖昧で describes paradoxical clarity and ambiguity of the recollection, followed by the strange feeling.",
+      "alternative": "The feeling is also strange, so vague feeling is plausible, but it loses the explicit despite/yet relation qualifying memory.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH15-004",
+      "kind": "WH",
+      "description": "WH says she then decided to let the servant care for the baby rather than made that the account of what she had done.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.agency_responsibility",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_15",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              205,
+              206
+            ],
+            "MG": [
+              205,
+              206
+            ],
+            "UP": [
+              205,
+              206
+            ]
+          },
+          "japanese": "そう自らに思い込ませ、足早に薔薇庭園に戻り、\n……赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました…。",
+          "japanesePC": "そう自らに思い込ませ、足早に薔薇庭園に戻り、......赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました...。",
+          "japanesePS3": "そう自らに思い込ませ、足早に薔薇庭園に戻り、\n……赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました…。",
+          "WH": "Trying to make myself believe this, I hurried back to the rose garden.  ......Then I decided to let the servant take care of the baby, choosing to take a rest alone in the garden...",
+          "MG": "Trying to make myself believe this, I hurried back to the rose garden.\n...Then, I decided to let the servant take care of the baby, choosing to take a rest alone in the garden...",
+          "UP": "Trying to make myself believe this, I hurried back to the rose garden.\n......I decided to say that I'd left the baby with the servant and had been taking a rest alone in the garden...",
+          "note": "Full documented111–250 review; parent checked153–156/212–215. Hold UP155 nurse as broad caring/holding sense in adoption context; no breastfeeding fact asserted. Hold MG214 reasons for presence as implicit undisclosable origins with existence suppressed215. UP236–238 duration relocation spans same nineteen-year rhetorical window. No proven yellow or additional firm finding.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_15-L0200",
+          "readerRefs": {
+            "WH": [
+              "umi5_15-L0200"
+            ],
+            "MG": [
+              "umi5_15-L0200"
+            ],
+            "UP": [
+              "umi5_15-L0200"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私は一瞬、…これが夢だと信じました。……あの高さですから、ちょっと身を乗り出したくらいでは、眼下の二人は見えません。だから、二人が落ちたことさえ、……ほんの数秒前のことさえ、現実のことなのかわからなくて…」きっと私は、ここから赤ん坊が落ちればいいのにと願いすぎて、白昼夢を見てしまったに違いない…。そう自らに思い込ませ、足早に薔薇庭園に戻り、……赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました…。",
+              "translation": "\"For an instant, ...I thought it was a dream. ...It was high enough that I couldn't see the two of them below me just by leaning over. So I didn't know whether their fall...or the few seconds before that...had actually happened or not...\" I must have been wishing so strongly that the child would fall... that I just had a daydream... Trying to make myself believe this, I hurried back to the rose garden. ...Then, I decided to let the servant take care of the baby, choosing to take a rest alone in the garden... "
+            },
+            "UP": {
+              "japanese": "「私は一瞬、…これが夢だと信じました。……あの高さですから、ちょっと身を乗り出したくらいでは、眼下の二人は見えません。だから、二人が落ちたことさえ、……ほんの数秒前のことさえ、現実のことなのかわからなくて…」きっと私は、ここから赤ん坊が落ちればいいのにと願いすぎて、白昼夢を見てしまったに違いない…。そう自らに思い込ませ、足早に薔薇庭園に戻り、……赤ん坊は使用人に任せ、私はひとり、ここで休んでいたことにしました…。",
+              "translation": "\"For an instant, ...I thought it was a dream. ......It was high enough that I couldn't see the two of them below me just by leaning over. So I couldn't tell whether their fall, ......the events of just a few seconds earlier, had actually happened or not...\" I must have been wishing so strongly that the child would fall from there... that I hallucinated the whole thing... Trying to make myself believe this, I hurried back to the rose garden. ......I decided to say that I'd left the baby with the servant and had been taking a rest alone in the garden..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_15-L0200"
+            ],
+            "MG": [
+              "umi5_15-L0200"
+            ],
+            "UP": [
+              "umi5_15-L0200"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "任せ ... 休んでいたことにしました constructs the story that she left the baby with the servant and rested alone, after returning and persuading herself it was a daydream.",
+      "alternative": "Decided can introduce a narrative choice, but decided to let the servant take care of the baby reads as a subsequent real action.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH15-001-120-001",
+      "kind": "additional",
+      "description": "MG and UP change financial subjugation of the birth family into financial ruin.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_15",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              4,
+              5
+            ],
+            "MG": [
+              4,
+              5
+            ],
+            "UP": [
+              4,
+              5
+            ]
+          },
+          "japanese": "夏妃は、右代宮家がかつて、実家を経済的に屈服させたことへも復讐するため、\n右代宮家の財産の乗っ取りを画策しました。",
+          "japanesePC": "",
+          "japanesePS3": "夏妃は、右代宮家がかつて、実家を経済的に屈服させたことへも復讐するため、\n右代宮家の財産の乗っ取りを画策しました。",
+          "WH": "",
+          "MG": "As revenge for financially ruining her birth family,\nNatsuhi also plotted to take over the Ushiromiya family's fortune.",
+          "UP": "As revenge for financially ruining her birth family,\nNatsuhi also plotted to take over the Ushiromiya family's fortune.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "defect"
+          },
+          "readerRef": "umi5_15-L0001",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_15-L0001"
+            ],
+            "UP": [
+              "umi5_15-L0001"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "望まぬ結婚を強いられた夏妃は、右代宮家に対し恨みを抱き、復讐心を膨らませていきました。\n（※裁判概要書：３ページより）夏妃は、右代宮家がかつて、実家を経済的に屈服させたことへも復讐するため、右代宮家の財産の乗っ取りを画策しました。\n（※裁判概要書：４ページより）右代宮家の財産が、金蔵個人によって事実上、掌握されていることを知った夏妃は、金蔵に取り入るため、情交によってこれを篭絡しました。\n（※裁判概要書：７ページより）\n（※ベルンカステル文書：６８２ページより）夏妃は金蔵に取り入るために、金蔵の妄想の魔女である、ベアトリーチェの姿に扮して情交を重ねていました。\n金蔵は、その夏妃に、在りし日の愛人の姿を見て、容易に篭絡されたのでした。\nまた、この姿が偶然、使用人に目撃され、一部の魔女伝説の根拠となりました。\n（※裁判概要書：８ページより）\n（※提出証拠品：第１７号より）\n（※ベルンカステル文書：８０２ページより）",
+              "translation": "After being forced into an unwanted marriage, Natsuhi developed a grudge against the Ushiromiya family and was filled with a desire for revenge. \n(*Trial Summary, p.3) As revenge for financially ruining her birth family, Natsuhi also plotted to take over the Ushiromiya family's fortune. \n(*Trial Summary, p.4) When Natsuhi learned that the wealth of the Ushiromiya family was for all intents and purposes controlled by Kinzo himself, she initiated sexual relations to curry favor with him and managed to ensnare him. \n(*Trial Summary, p.7) \n(*Bernkastel Documents, p.682) To curry favor with Kinzo, Natsuhi repeatedly disguised herself as Beatrice, a witch and figment of Kinzo's imagination, and engaged in sexual acts. \nKinzo saw Natsuhi dressed as the mistress from his past and was easily ensnared. \nAdditionally, a servant happened to witness her in this outfit, forming part of the basis for the legend of the witch. \n(*Trial Summary, p.8) \n(*Submitted Evidence #17) \n(*Bernkastel Documents, p.802) "
+            },
+            "UP": {
+              "japanese": "望まぬ結婚を強いられた夏妃は、右代宮家に対し恨みを抱き、復讐心を膨らませていきました。\n（※裁判概要書：３ページより）夏妃は、右代宮家がかつて、実家を経済的に屈服させたことへも復讐するため、右代宮家の財産の乗っ取りを画策しました。\n（※裁判概要書：４ページより）右代宮家の財産が、金蔵個人によって事実上、掌握されていることを知った夏妃は、金蔵に取り入るため、情交によってこれを篭絡しました。\n（※裁判概要書：７ページより）\n（※ベルンカステル文書：６８２ページより）夏妃は金蔵に取り入るために、金蔵の妄想の魔女である、ベアトリーチェの姿に扮して情交を重ねていました。\n金蔵は、その夏妃に、在りし日の愛人の姿を見て、容易に篭絡されたのでした。\nまた、この姿が偶然、使用人に目撃され、一部の魔女伝説の根拠となりました。\n（※裁判概要書：８ページより）\n（※提出証拠品：第１７号より）\n（※ベルンカステル文書：８０２ページより）",
+              "translation": "After being forced into an unwanted marriage, Natsuhi developed a grudge against the Ushiromiya family and was filled with a desire for revenge.\n(*Trial Summary, p.3) As revenge for financially ruining her birth family, Natsuhi also plotted to take over the Ushiromiya family's fortune.\n(*Trial Summary, p.4) When Natsuhi learned that the wealth of the Ushiromiya family was for all intents and purposes controlled by Kinzo himself, she initiated sexual relations to curry favor with him and managed to ensnare him.\n(*Trial Summary, p.7)\n(*Bernkastel Documents, p.682) To curry favor with Kinzo, Natsuhi repeatedly disguised herself as Beatrice, a witch and figment of Kinzo's imagination, and engaged in sexual acts.\nKinzo saw Natsuhi dressed as the mistress from his past and was easily ensnared.\nAdditionally, a servant happened to witness her in this outfit, forming part of the basis for the legend of the witch.\n(*Trial Summary, p.8)\n(*Submitted Evidence #17)\n(*Bernkastel Documents, p.802)"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_15-L0001"
+            ],
+            "UP": [
+              "umi5_15-L0001"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "経済的に屈服させた denotes forced financial submission. PC57637–57638 correctly preserves submission; both re-edits use financially ruining.",
+      "alternative": "Ruin can figuratively mean economically crushing a family, without bankruptcy. It nonetheless loses imposed financial submission as the stated revenge motive.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH15-001-120-002",
+      "kind": "additional",
+      "description": "MG and UP change the acting court chief title to deputy attorney general.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_15",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              86,
+              86
+            ],
+            "MG": [
+              86,
+              86
+            ],
+            "UP": [
+              86,
+              86
+            ]
+          },
+          "japanese": "大法院長官職務代理者",
+          "japanesePC": "",
+          "japanesePS3": "大法院長官職務代理者",
+          "WH": "",
+          "MG": "Great Court Deputy Attorney General",
+          "UP": "Great Court Deputy Attorney General",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "defect"
+          },
+          "readerRef": "umi5_15-L0082",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_15-L0082"
+            ],
+            "UP": [
+              "umi5_15-L0082"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "大法院公示第０１７２４４３４号\n幻想裁判第０１４７－００７９８２号（１９８６年１０月５日２４時）により、以下が確定したことを公示する。\n右代宮夏妃が、犯行を認めたこと。\n関係書類は本公示行為から１３ヶ月間、大法院法務部文書管理課第一係にて、縦覧に供する。\n　　　　　　　　　　　　　　　　　　　　　大法院長官職務代理者\n　　　　　　　　　　　　　　　　　　　　　主席異端審問官\n　　　　　　　　　　　　　　　　　　　　　　　　ドラノール・Ａ・ノックス",
+              "translation": "Great Court Official Notice #01724434 \nTrial of Illusions #0147‐007982 (1986‐10‐05 24:00) decides as follows: \n\nUshiromiya Natsuhi confessed to the crimes. \n\nFor a period of 13 months following this announcement, related documents may be perused at the Great Court Legal Offices Document Management Center, First Subsection. \n\nGreat Court Deputy Attorney General \nChief Inquisitor \nDlanor A. Knox "
+            },
+            "UP": {
+              "japanese": "大法院公示第０１７２４４３４号\n幻想裁判第０１４７－００７９８２号（１９８６年１０月５日２４時）により、以下が確定したことを公示する。\n右代宮夏妃が、犯行を認めたこと。\n関係書類は本公示行為から１３ヶ月間、大法院法務部文書管理課第一係にて、縦覧に供する。\n　　　　　　　　　　　　　　　　　　　　　大法院長官職務代理者\n　　　　　　　　　　　　　　　　　　　　　主席異端審問官\n　　　　　　　　　　　　　　　　　　　　　　　　ドラノール・Ａ・ノックス",
+              "translation": "Great Court Official Notice #01724434\nTrial of Illusions #0147‐007982 (1986‐10‐05 24:00) decides as follows:\n\nUshiromiya Natsuhi confessed to the crimes.\n\nFor a period of 13 months following this announcement, related documents may be perused at the Great Court Legal Offices Document Management Center, First Subsection.\n\nGreat Court Deputy Attorney General\nChief Inquisitor\nDlanor A. Knox"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_15-L0082"
+            ],
+            "UP": [
+              "umi5_15-L0082"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "大法院長官職務代理者 denotes acting for the court chief. PC57967–57970 uses Deputy Chief; re-edits independently substitute Attorney General.",
+      "alternative": "Fantasy terminology allows localization, but attorney general is a different named office unsupported by either Japanese witness. No exact real-world official English title is asserted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP05-CH15-001": {
+      "umi5_15-L0059": {
+        "WH": [
+          "From the time the others became aware of the incident"
+        ],
+        "MG": [
+          "from the time the others became aware of the incident"
+        ],
+        "UP": [
+          "from the time the others became aware of the incident"
+        ]
+      }
+    },
+    "WH-EP05-CH15-002": {
+      "umi5_15-L0121": {
+        "WH": [
+          "Then tell me"
+        ],
+        "MG": [
+          "Then tell me"
+        ],
+        "UP": [
+          "So tell me"
+        ]
+      }
+    },
+    "WH-EP05-CH15-003": {
+      "umi5_15-L0185": {
+        "WH": [
+          "I recall a vague... ...and very strange feeling"
+        ],
+        "MG": [
+          "I recall a vague... and very strange feeling"
+        ],
+        "UP": [
+          "I recall a vague... ...and very strange feeling"
+        ]
+      }
+    },
+    "WH-EP05-CH15-004": {
+      "umi5_15-L0200": {
+        "WH": [
+          "Then I decided to let the servant take care of the baby, choosing to take a rest alone in the garden"
+        ],
+        "MG": [
+          "Then, I decided to let the servant take care of the baby, choosing to take a rest alone in the garden"
+        ]
+      }
+    },
+    "PAIR-EP05-CH15-001-120-001": {
+      "umi5_15-L0001": {
+        "MG": [
+          "financially ruining her birth family"
+        ],
+        "UP": [
+          "financially ruining her birth family"
+        ]
+      }
+    },
+    "PAIR-EP05-CH15-001-120-002": {
+      "umi5_15-L0082": {
+        "MG": [
+          "Deputy Attorney General"
+        ],
+        "UP": [
+          "Deputy Attorney General"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

@@ -58,6 +58,8 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .reader-page .line-cell .audit-source-text { font-size: 13px; line-height: 1.8; white-space: pre-wrap; margin-top: 5px; }
 .reader-page .audit-finding-link { display: inline-block; margin-top: 12px; color: var(--ice-ink); text-decoration: underline; text-underline-offset: 3px; }
 .reader-page .todokanai-error-note[hidden] { display: none; }
+.reader-page .line-cell-heading .edition-label { overflow-wrap: normal; word-break: normal; }
+.reader-page .line-cell:last-child .todokanai-error-preview { left: auto; right: 0; }
 
 /* A defect in one translation does not mark its neighboring comparator. */
 .reader-page .script-line-error .line-todokanai { background: transparent; }

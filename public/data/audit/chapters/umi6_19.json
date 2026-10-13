@@ -1,1 +1,1197 @@
-{"findings":[{"id":"WH-EP06-TEA-001","kind":"WH","description":"The source has Beatrice present the ring; English completes its placement on his finger before the consent discussion and later exchange.","categories":["linguistic.mistranslation","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[2,2],"MG":[2,2],"UP":[2,2]},"japanese":"……ベアトは戦人の手を取り、………片翼の鷲の紋章の指輪を差し出す。","japanesePC":"......ベアトは戦人の手を取り、.........片翼の鷲の紋章の指輪を差し出す。","japanesePS3":"……ベアトは戦人の手を取り、………片翼の鷲の紋章の指輪を差し出す。","WH":"......Beato took Battler's hand......and put a ring with the seal of the One-winged Eagle on his finger.","MG":"...Beato took Battler's hand...and put a ring with the seal of the One-Winged Eagle on his finger.","UP":"......Beato took Battler's hand.........and put a ring with the seal of the One‐winged Eagle on his finger.","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_19-L0002","readerRefs":{"WH":["umi6_19-L0002"],"MG":["umi6_19-L0002"],"UP":["umi6_19-L0002"]}}],"sourceReading":"Beato takes his hand and offers the crest ring.","alternative":"The ceremony eventually includes exchange, so the ultimate outcome is unchanged; its staging is advanced.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-002","kind":"WH","description":"This is the world and story you created becomes At this rate, introducing a prospective condition where Battler identifies her existing creation as his reason for hesitation.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[7,7],"MG":[7,7],"UP":[7,7]},"japanese":"……これは、お前が生み出した世界、……そして物語」","japanesePC":"「......本当にいいのか。......これは、お前が生み出した世界、......そして物語。」","japanesePS3":"……これは、お前が生み出した世界、……そして物語」","WH":"\"......You really are sure?  ......At this rate, the world you created......the tale...\"","MG":"...At this rate, the world you created, ...and the tale...\"","UP":"......This is the world you created...... Your tale.\"","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi6_19-L0006","readerRefs":{"WH":["umi6_19-L0006"],"MG":["umi6_19-L0006"],"UP":["umi6_19-L0006"]}}],"sourceReading":"Are you really sure? This is the world, and story, you created.","alternative":"The hesitant unfinished English and following answer allow the underlying concern to be inferred, but do not justify At this rate.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-003","kind":"WH","description":"After Battler falls silent, Beatrice asks whether speaking that way throws him off and returns to her old imperious voice. Are you kidding me redirects the question into incredulity. Wife only has to brag also weakens acting bossy or putting on airs into boasting.","categories":["linguistic.mistranslation","character.irony_performance"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[14,14],"MG":[14,14],"UP":[14,14]},"japanese":"「……ってンじゃ勝手が狂うかァ？","japanesePC":"「......ってンじゃ勝手が狂うかァ？　くっくくくく、領主の面倒臭い仕事を押し付けるだけよ。夫人は威張るだけでいいから実に気楽なことだ...！」","japanesePS3":"「……ってンじゃ勝手が狂うかァ？","WH":"\"......Heheh, are you kidding me?  *cackle*cackle*, I'm just pushing the tiresome task of territory lord onto you.  It's much easier being the wife, where you only have to brag...!\"","MG":"\"...Or is doing it like that too awkward for yooou?","UP":"\"......Heh, or am I dragging you out of your comfort zone?!","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi6_19-L0014","readerRefs":{"WH":["umi6_19-L0014"],"MG":["umi6_19-L0014"],"UP":["umi6_19-L0014"]}}],"sourceReading":"Does that throw you off? I am merely dumping the tiresome lord work on you; being the wife is easy, since I only need to act important.","alternative":"The cackle, task dumping and following playful speech preserve the broad voice change, limiting the loss to the joke and its power dynamic.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-004","kind":"WH","description":"Too salty soup becomes too much salty soup, moving the objection from concentration to quantity. George is prone to gaining weight becomes he is getting overweight, replacing a susceptibility with a current change.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[77,78],"MG":[77,78],"UP":[77,78]},"japanese":"あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！\nそれから譲治は少し太りやすいから、砂糖は控えめにッ、」","japanesePC":"「......い、いいこと？！　あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！　それから譲治は少し太りやすいから、砂糖は控えめにッ、」","japanesePS3":"あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！\nそれから譲治は少し太りやすいから、砂糖は控えめにッ、」","WH":"\"......L, listen up, okay?!  I'll never forgive you if you make too much salty miso soup!  And George is getting a little overweight, so go easy on the sugar-\"","MG":"I'll never forgive you if you make too much salty miso soup!\nAnd George is getting a little overweight, so go easy on the sugar-\"","UP":"I won't stand for you making too much salty miso soup, understand?!\nAnd George is getting a little overweight, so go easy on the sugar—\"","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_19-L0076","readerRefs":{"WH":["umi6_19-L0076"],"MG":["umi6_19-L0076"],"UP":["umi6_19-L0076"]}}],"sourceReading":"Do not make the miso soup too salty; George puts on weight easily, so use less sugar.","alternative":"Both versions retain meddling dietary advice and sugar restriction; the specific rationale and salt instruction differ.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-005","kind":"WH","description":"Eva insists George needs a full seven hours of sleep. English imposes being asleep by 7:00, inventing an extreme bedtime and removing the duration.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[84,84],"MG":[84,84],"UP":[84,84]},"japanese":"「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！","japanesePC":"「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！　夜更かしさせたら許さないんだからね！！　背中を流すのも耳の掃除も妻の仕事なのよー！！」","japanesePS3":"「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！","WH":"\"A, anyway, George needs to be asleep by 7:00!  I'll never forgive you if you let him stay up late!!  And don't forget that washing his back and cleaning his ears are also a wife's responsibilities!!\"","MG":"\"G-George needs a solid seven hours of sleep each night","UP":"\"G‐George needs a solid seven hours of sleep each night!","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi6_19-L0084","readerRefs":{"WH":["umi6_19-L0084"],"MG":["umi6_19-L0084"],"UP":["umi6_19-L0084"]}}],"sourceReading":"George must get a full seven hours of sleep; do not let him stay up late.","alternative":"The next late-night prohibition supports maternal fussing, but cannot convert hours slept into a clock time.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-006","kind":"WH","description":"Hachijo proposes paying Ange the offered sum, rather than merely allowing Ange to retain her own money. English weakens the offer into refusing payment.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[195,196],"MG":[195,196],"UP":[195,196]},"japanese":"「……そのお金をあなたに払ったら。\nまた来て、私の新しい原稿を読んで、感想を聞かせてくれますか…？」","japanesePC":"「......そのお金をあなたに払ったら。また来て、私の新しい原稿を読んで、感想を聞かせてくれますか...？」","japanesePS3":"「……そのお金をあなたに払ったら。\nまた来て、私の新しい原稿を読んで、感想を聞かせてくれますか…？」","WH":"\"......If I let you keep that money, will you come again, read my next manuscript, and tell me your opinions...?\"","MG":"\"...If I let you keep that money,\nwill you come again, read my next manuscript, and tell me your opinions...?\"","UP":"\"......If I let you keep that money,\nwill you come again, read my next manuscript, and tell me your opinions...?\"","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_19-L0195","readerRefs":{"WH":["umi6_19-L0195"],"MG":["umi6_19-L0195"],"UP":["umi6_19-L0195"]}}],"sourceReading":"If I paid you that money, would you return and read my new manuscript?","alternative":"Ange immediately calls it paying rolls of money, which restores the intended paid-reader offer.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-007","kind":"WH","description":"Japanese authors weave stories and release those stories into the world to find thoughtful readers. English makes the authors themselves passively thrown into the world, obscuring deliberate circulation of their work.","categories":["linguistic.wrong_subject","world.world_layer"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[200,200],"MG":[200,200],"UP":[200,200]},"japanese":"……あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです」","japanesePC":"「いいえ。あなたは本当によい、よく考える読者だった。......あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです。」","japanesePS3":"……あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです」","WH":"\"No.  You really are a good reader, and a good thinker.  ......We have created these tales and been thrown out into the world in search of a person like you.\"","MG":"...We create these tales and throw them out into the world in search of people like you.\"","UP":"......It is in search of a person like you that we weave these tales and set them loose into the world.\"","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi6_19-L0198","readerRefs":{"WH":["umi6_19-L0198"],"MG":["umi6_19-L0198"],"UP":["umi6_19-L0198"]}}],"sourceReading":"We weave tales and release them into the world to seek people like you.","alternative":"The surrounding manuscript and reader discussion retains the author-reader relationship, but does not license switching the object to passive authors.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-008","kind":"WH","description":"In a conversation about writing a miraculous tale, gotogoshugi refers to contrived convenient developments. Opportunism instead denotes exploiting circumstances for advantage and obscures the literary objection.","categories":["linguistic.word_choice","world.literary_reference"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[208,208],"MG":[208,208],"UP":[208,208]},"japanese":"「ご都合主義？","japanesePC":"「ご都合主義？　......昔は嫌いだったけど、最近は大歓迎よ。ただ、口が肥えてるんで、ビルから飛び降りて無傷なくらいじゃ、もう奇跡には入れてないけど。」","japanesePS3":"「ご都合主義？","WH":"\"Are you talking about opportunism?  ......I used to hate it, but recently I've become a big fan.  Still, I'm picky about what I'll accept, and falling from a skyscraper and ending up unharmed isn't what I'd call a miracle.\"","MG":"\"You mean like a deus ex machina plot development?","UP":"\"You mean story contrivances?","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi6_19-L0208","readerRefs":{"WH":["umi6_19-L0208"],"MG":["umi6_19-L0208"],"UP":["umi6_19-L0208"]}}],"sourceReading":"You mean contrived convenient plotting? I used to dislike it, but welcome it now.","alternative":"The following miraculous survival example permits inference of narrative convenience, partially repairing the unsuitable English term.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-009","kind":"WH","description":"Ange hopes her other selves can reach truths as she has. English attributes a presumed wish to those other selves and drops her own hope for their success.","categories":["linguistic.wrong_subject","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[248,248],"MG":[248,248],"UP":[248,248]},"japanese":"……“私”が、いくつかの真実に辿り着けたように、彼女たちも、……辿り着けることを願ってる。","japanesePC":"......“私”が、いくつかの真実に辿り着けたように、彼女たちも、......辿り着けることを願ってる。","japanesePS3":"……“私”が、いくつかの真実に辿り着けたように、彼女たちも、……辿り着けることを願ってる。","WH":"......Just as 'I' have reached several truths, they must also......want to reach the truth.","MG":"...Just as \"I\" have reached several truths, they must also...want to reach the truth.","UP":"......Just as \"I\" was able to reach several truths, I pray that they too......can reach their destinations.","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi6_19-L0244","readerRefs":{"WH":["umi6_19-L0244"],"MG":["umi6_19-L0244"],"UP":["umi6_19-L0244"]}}],"sourceReading":"I hope they too can reach truths, as I have reached several.","alternative":"Several truths remains in the first clause, and the other selves remain, but they must want is neither her hope nor their capacity to succeed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-010","kind":"WH","description":"Amakusa marvels at arranging such equipment within Japan. English specifically claims Okonogi got it into the country, adding an import route.","categories":["linguistic.mistranslation","world.world_fact"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[272,272],"MG":[272,272],"UP":[272,272]},"japanese":"旦那も、よくこんなもんが国内で手配できるもんだ」","japanesePC":"「もちろん。旦那も、よくこんなもんが国内で手配できるもんだ。」","japanesePS3":"旦那も、よくこんなもんが国内で手配できるもんだ」","WH":"\"Of course.  I'm surprised you managed to get this into the country.\"","MG":"I'm surprised you managed to arrange for it in this country.\"","UP":"I'm surprised you managed to get this into the country.\"","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"corrected_in_context","UP":"retained"},"readerRef":"umi6_19-L0271","readerRefs":{"WH":["umi6_19-L0271"],"MG":["umi6_19-L0271"],"UP":["umi6_19-L0271"]}}],"sourceReading":"You really can arrange something like this domestically.","alternative":"Imported equipment might subsequently be procured domestically, but the source gives no import claim.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-011","kind":"WH","description":"Amakusa thinks she could live long if she were not like this. Might have lived places the unrealized lifespan in the past even while Ange is alive and walking toward him, strengthening apparent retrospective doom.","categories":["linguistic.tense_aspect","character.knowledge_boundary"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[315,315],"MG":[315,315],"UP":[315,315]},"japanese":"……こういうお人じゃなけりゃ、長生きも出来るだろうに。","japanesePC":"......こういうお人じゃなけりゃ、長生きも出来るだろうに。","japanesePS3":"……こういうお人じゃなけりゃ、長生きも出来るだろうに。","WH":"......If only she wasn't like this, she might have lived a long life.","MG":"...If only she wasn't like this, she might've lived a long life.","UP":"......If only she wasn't like this, she might have lived a long life.","note":"Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_19-L0313","readerRefs":{"WH":["umi6_19-L0313"],"MG":["umi6_19-L0313"],"UP":["umi6_19-L0313"]}}],"sourceReading":"If she were not like this, she could probably live a long life.","alternative":"The source itself ominously doubts her prospects, and English may be read as dark anticipation; nevertheless completed past counterfactual exceeds that prospective thought.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-TEA-012","kind":"WH","description":"WH changes the only takeaway into all the harvest needed.","categories":["linguistic.overinterpretation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[322,322],"MG":[322,322],"UP":[322,322]},"japanese":"………収穫はそれだけよ」","japanesePC":"「面白かった。.........収穫はそれだけよ。」","japanesePS3":"………収穫はそれだけよ」","WH":"\"It was interesting.  .........That's all I need to harvest.\"","MG":"......I've harvested all I need.\"","UP":".........That's all I got out of it.\"","note":"収穫はそれだけ limits the gain to finding it interesting, rather than declaring her needs fulfilled. Strongest alternative: The metaphor is playful, but all I need adds satisfaction of a goal absent from the source.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi6_19-L0321","readerRefs":{"WH":["umi6_19-L0321"],"MG":["umi6_19-L0321"],"UP":["umi6_19-L0321"]}}],"sourceReading":"収穫はそれだけ limits the gain to finding it interesting, rather than declaring her needs fulfilled.","alternative":"The metaphor is playful, but all I need adds satisfaction of a goal absent from the source.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH19-001-351-001","kind":"additional","description":"Aquire spelling introduced","categories":["linguistic.typography"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_19","episode":6,"rows":{"JP":[270,270],"MG":[270,270],"UP":[270,270]},"japanese":"……お前好みの玩具は用意できたか？」","japanesePC":"","japanesePS3":"……お前好みの玩具は用意できたか？」","WH":"","MG":"...Were you able to aquire one of your favorite toys?\"","UP":"......Have you received that favorite toy of yours?\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_19-L0265","readerRefs":{"WH":[],"MG":["umi6_19-L0265"],"UP":["umi6_19-L0265"]}}],"sourceReading":"OriginalWH and UP received; MG introduces aquire instead of acquire.","alternative":"Meaning remains clear, but aquire is a spelling error.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-TEA-001",
+      "kind": "WH",
+      "description": "The source has Beatrice present the ring; English completes its placement on his finger before the consent discussion and later exchange.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              2,
+              2
+            ],
+            "MG": [
+              2,
+              2
+            ],
+            "UP": [
+              2,
+              2
+            ]
+          },
+          "japanese": "……ベアトは戦人の手を取り、………片翼の鷲の紋章の指輪を差し出す。",
+          "japanesePC": "......ベアトは戦人の手を取り、.........片翼の鷲の紋章の指輪を差し出す。",
+          "japanesePS3": "……ベアトは戦人の手を取り、………片翼の鷲の紋章の指輪を差し出す。",
+          "WH": "......Beato took Battler's hand......and put a ring with the seal of the One-winged Eagle on his finger.",
+          "MG": "...Beato took Battler's hand...and put a ring with the seal of the One-Winged Eagle on his finger.",
+          "UP": "......Beato took Battler's hand.........and put a ring with the seal of the One‐winged Eagle on his finger.",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_19-L0002",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0002"
+            ],
+            "MG": [
+              "umi6_19-L0002"
+            ],
+            "UP": [
+              "umi6_19-L0002"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……ベアトは戦人の手を取り、………片翼の鷲の紋章の指輪を差し出す。",
+              "translation": "...Beato took Battler's hand...and put a ring with the seal of the One-Winged Eagle on his finger. "
+            },
+            "UP": {
+              "japanese": "……ベアトは戦人の手を取り、………片翼の鷲の紋章の指輪を差し出す。",
+              "translation": "......Beato took Battler's hand.........and put a ring with the seal of the One‐winged Eagle on his finger."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0002"
+            ],
+            "MG": [
+              "umi6_19-L0002"
+            ],
+            "UP": [
+              "umi6_19-L0002"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beato takes his hand and offers the crest ring.",
+      "alternative": "The ceremony eventually includes exchange, so the ultimate outcome is unchanged; its staging is advanced.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-002",
+      "kind": "WH",
+      "description": "This is the world and story you created becomes At this rate, introducing a prospective condition where Battler identifies her existing creation as his reason for hesitation.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              7,
+              7
+            ],
+            "MG": [
+              7,
+              7
+            ],
+            "UP": [
+              7,
+              7
+            ]
+          },
+          "japanese": "……これは、お前が生み出した世界、……そして物語」",
+          "japanesePC": "「......本当にいいのか。......これは、お前が生み出した世界、......そして物語。」",
+          "japanesePS3": "……これは、お前が生み出した世界、……そして物語」",
+          "WH": "\"......You really are sure?  ......At this rate, the world you created......the tale...\"",
+          "MG": "...At this rate, the world you created, ...and the tale...\"",
+          "UP": "......This is the world you created...... Your tale.\"",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi6_19-L0006",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0006"
+            ],
+            "MG": [
+              "umi6_19-L0006"
+            ],
+            "UP": [
+              "umi6_19-L0006"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……本当にいいのか。……これは、お前が生み出した世界、……そして物語」",
+              "translation": "\"...You're really sure? ...At this rate, the world you created, ...and the tale...\" "
+            },
+            "UP": {
+              "japanese": "「……本当にいいのか。……これは、お前が生み出した世界、……そして物語」",
+              "translation": "\"......You're certain? ......This is the world you created...... Your tale.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0006"
+            ],
+            "MG": [
+              "umi6_19-L0006"
+            ],
+            "UP": [
+              "umi6_19-L0006"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Are you really sure? This is the world, and story, you created.",
+      "alternative": "The hesitant unfinished English and following answer allow the underlying concern to be inferred, but do not justify At this rate.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-003",
+      "kind": "WH",
+      "description": "After Battler falls silent, Beatrice asks whether speaking that way throws him off and returns to her old imperious voice. Are you kidding me redirects the question into incredulity. Wife only has to brag also weakens acting bossy or putting on airs into boasting.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              14,
+              14
+            ],
+            "MG": [
+              14,
+              14
+            ],
+            "UP": [
+              14,
+              14
+            ]
+          },
+          "japanese": "「……ってンじゃ勝手が狂うかァ？",
+          "japanesePC": "「......ってンじゃ勝手が狂うかァ？　くっくくくく、領主の面倒臭い仕事を押し付けるだけよ。夫人は威張るだけでいいから実に気楽なことだ...！」",
+          "japanesePS3": "「……ってンじゃ勝手が狂うかァ？",
+          "WH": "\"......Heheh, are you kidding me?  *cackle*cackle*, I'm just pushing the tiresome task of territory lord onto you.  It's much easier being the wife, where you only have to brag...!\"",
+          "MG": "\"...Or is doing it like that too awkward for yooou?",
+          "UP": "\"......Heh, or am I dragging you out of your comfort zone?!",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi6_19-L0014",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0014"
+            ],
+            "MG": [
+              "umi6_19-L0014"
+            ],
+            "UP": [
+              "umi6_19-L0014"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……ってンじゃ勝手が狂うかァ？　くっくくくく、領主の面倒臭い仕事を押し付けるだけよ。夫人は威張るだけでいいから実に気楽なことだ…！」",
+              "translation": "\"...Or is doing it like that too awkward for yooou? *cackle*cackle* I'm just pushing the tiresome task of territory lord onto you anyway. It's much easier being the wife, where you only have to brag...!\" "
+            },
+            "UP": {
+              "japanese": "「……ってンじゃ勝手が狂うかァ？　くっくくくく、領主の面倒臭い仕事を押し付けるだけよ。夫人は威張るだけでいいから実に気楽なことだ…！」",
+              "translation": "\"......Heh, or am I dragging you out of your comfort zone?! *cackle*cackle*, I am merely pushing the tiresome task of territory lord onto you. It's much easier being the wife, where you only have to brag...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0014"
+            ],
+            "MG": [
+              "umi6_19-L0014"
+            ],
+            "UP": [
+              "umi6_19-L0014"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Does that throw you off? I am merely dumping the tiresome lord work on you; being the wife is easy, since I only need to act important.",
+      "alternative": "The cackle, task dumping and following playful speech preserve the broad voice change, limiting the loss to the joke and its power dynamic.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-004",
+      "kind": "WH",
+      "description": "Too salty soup becomes too much salty soup, moving the objection from concentration to quantity. George is prone to gaining weight becomes he is getting overweight, replacing a susceptibility with a current change.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              77,
+              78
+            ],
+            "MG": [
+              77,
+              78
+            ],
+            "UP": [
+              77,
+              78
+            ]
+          },
+          "japanese": "あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！\nそれから譲治は少し太りやすいから、砂糖は控えめにッ、」",
+          "japanesePC": "「......い、いいこと？！　あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！　それから譲治は少し太りやすいから、砂糖は控えめにッ、」",
+          "japanesePS3": "あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！\nそれから譲治は少し太りやすいから、砂糖は控えめにッ、」",
+          "WH": "\"......L, listen up, okay?!  I'll never forgive you if you make too much salty miso soup!  And George is getting a little overweight, so go easy on the sugar-\"",
+          "MG": "I'll never forgive you if you make too much salty miso soup!\nAnd George is getting a little overweight, so go easy on the sugar-\"",
+          "UP": "I won't stand for you making too much salty miso soup, understand?!\nAnd George is getting a little overweight, so go easy on the sugar—\"",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_19-L0076",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0076"
+            ],
+            "MG": [
+              "umi6_19-L0076"
+            ],
+            "UP": [
+              "umi6_19-L0076"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……い、いいこと？！　あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！　それから譲治は少し太りやすいから、砂糖は控えめにッ、」",
+              "translation": "\"...L-Listen up, okay?! I'll never forgive you if you make too much salty miso soup! And George is getting a little overweight, so go easy on the sugar-\" "
+            },
+            "UP": {
+              "japanese": "「……い、いいこと？！　あんまりしょっぱいお味噌汁作ったら、許さないんだからね？！　それから譲治は少し太りやすいから、砂糖は控えめにッ、」",
+              "translation": "\"......N‐now listen here! I won't stand for you making too much salty miso soup, understand?! And George is getting a little overweight, so go easy on the sugar—\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0076"
+            ],
+            "MG": [
+              "umi6_19-L0076"
+            ],
+            "UP": [
+              "umi6_19-L0076"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Do not make the miso soup too salty; George puts on weight easily, so use less sugar.",
+      "alternative": "Both versions retain meddling dietary advice and sugar restriction; the specific rationale and salt instruction differ.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-005",
+      "kind": "WH",
+      "description": "Eva insists George needs a full seven hours of sleep. English imposes being asleep by 7:00, inventing an extreme bedtime and removing the duration.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              84,
+              84
+            ],
+            "MG": [
+              84,
+              84
+            ],
+            "UP": [
+              84,
+              84
+            ]
+          },
+          "japanese": "「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！",
+          "japanesePC": "「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！　夜更かしさせたら許さないんだからね！！　背中を流すのも耳の掃除も妻の仕事なのよー！！」",
+          "japanesePS3": "「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！",
+          "WH": "\"A, anyway, George needs to be asleep by 7:00!  I'll never forgive you if you let him stay up late!!  And don't forget that washing his back and cleaning his ears are also a wife's responsibilities!!\"",
+          "MG": "\"G-George needs a solid seven hours of sleep each night",
+          "UP": "\"G‐George needs a solid seven hours of sleep each night!",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi6_19-L0084",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0084"
+            ],
+            "MG": [
+              "umi6_19-L0084"
+            ],
+            "UP": [
+              "umi6_19-L0084"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！　夜更かしさせたら許さないんだからね！！　背中を流すのも耳の掃除も妻の仕事なのよー！！」",
+              "translation": "\"G-George needs a solid seven hours of sleep each night `! I'll never forgive you if you let him stay up late!! And don't forget that washing his back and cleaning his ears are also a wife's responsibilities!!\" "
+            },
+            "UP": {
+              "japanese": "「じょ、譲治はね、きっちり７時間寝ないと駄目なのよ！　夜更かしさせたら許さないんだからね！！　背中を流すのも耳の掃除も妻の仕事なのよー！！」",
+              "translation": "\"G‐George needs a solid seven hours of sleep each night! I'll never forgive you if you let him stay up late!! And don't forget that washing his back and cleaning his ears are also a wife's responsibilities!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0084"
+            ],
+            "MG": [
+              "umi6_19-L0084"
+            ],
+            "UP": [
+              "umi6_19-L0084"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George must get a full seven hours of sleep; do not let him stay up late.",
+      "alternative": "The next late-night prohibition supports maternal fussing, but cannot convert hours slept into a clock time.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-006",
+      "kind": "WH",
+      "description": "Hachijo proposes paying Ange the offered sum, rather than merely allowing Ange to retain her own money. English weakens the offer into refusing payment.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              195,
+              196
+            ],
+            "MG": [
+              195,
+              196
+            ],
+            "UP": [
+              195,
+              196
+            ]
+          },
+          "japanese": "「……そのお金をあなたに払ったら。\nまた来て、私の新しい原稿を読んで、感想を聞かせてくれますか…？」",
+          "japanesePC": "「......そのお金をあなたに払ったら。また来て、私の新しい原稿を読んで、感想を聞かせてくれますか...？」",
+          "japanesePS3": "「……そのお金をあなたに払ったら。\nまた来て、私の新しい原稿を読んで、感想を聞かせてくれますか…？」",
+          "WH": "\"......If I let you keep that money, will you come again, read my next manuscript, and tell me your opinions...?\"",
+          "MG": "\"...If I let you keep that money,\nwill you come again, read my next manuscript, and tell me your opinions...?\"",
+          "UP": "\"......If I let you keep that money,\nwill you come again, read my next manuscript, and tell me your opinions...?\"",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_19-L0195",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0195"
+            ],
+            "MG": [
+              "umi6_19-L0195"
+            ],
+            "UP": [
+              "umi6_19-L0195"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……そのお金をあなたに払ったら。また来て、私の新しい原稿を読んで、感想を聞かせてくれますか…？」",
+              "translation": "\"...If I let you keep that money, will you come again, read my next manuscript, and tell me your opinions...?\" "
+            },
+            "UP": {
+              "japanese": "「……そのお金をあなたに払ったら。また来て、私の新しい原稿を読んで、感想を聞かせてくれますか…？」",
+              "translation": "\"......If I let you keep that money, will you come again, read my next manuscript, and tell me your opinions...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0195"
+            ],
+            "MG": [
+              "umi6_19-L0195"
+            ],
+            "UP": [
+              "umi6_19-L0195"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "If I paid you that money, would you return and read my new manuscript?",
+      "alternative": "Ange immediately calls it paying rolls of money, which restores the intended paid-reader offer.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-007",
+      "kind": "WH",
+      "description": "Japanese authors weave stories and release those stories into the world to find thoughtful readers. English makes the authors themselves passively thrown into the world, obscuring deliberate circulation of their work.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "world.world_layer"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              200,
+              200
+            ],
+            "MG": [
+              200,
+              200
+            ],
+            "UP": [
+              200,
+              200
+            ]
+          },
+          "japanese": "……あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです」",
+          "japanesePC": "「いいえ。あなたは本当によい、よく考える読者だった。......あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです。」",
+          "japanesePS3": "……あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです」",
+          "WH": "\"No.  You really are a good reader, and a good thinker.  ......We have created these tales and been thrown out into the world in search of a person like you.\"",
+          "MG": "...We create these tales and throw them out into the world in search of people like you.\"",
+          "UP": "......It is in search of a person like you that we weave these tales and set them loose into the world.\"",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi6_19-L0198",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0198"
+            ],
+            "MG": [
+              "umi6_19-L0198"
+            ],
+            "UP": [
+              "umi6_19-L0198"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いいえ。あなたは本当によい、よく考える読者だった。……あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです」",
+              "translation": "\"No. You really were a good, clear-thinking reader. ...We create these tales and throw them out into the world in search of people like you.\" "
+            },
+            "UP": {
+              "japanese": "「いいえ。あなたは本当によい、よく考える読者だった。……あなたのような人を探すために、私たちは、物語を紡ぎ、世に放っているのです」",
+              "translation": "\"On the contrary, you were a good reader and a good thinker. ......It is in search of a person like you that we weave these tales and set them loose into the world.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0198"
+            ],
+            "MG": [
+              "umi6_19-L0198"
+            ],
+            "UP": [
+              "umi6_19-L0198"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "We weave tales and release them into the world to seek people like you.",
+      "alternative": "The surrounding manuscript and reader discussion retains the author-reader relationship, but does not license switching the object to passive authors.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-008",
+      "kind": "WH",
+      "description": "In a conversation about writing a miraculous tale, gotogoshugi refers to contrived convenient developments. Opportunism instead denotes exploiting circumstances for advantage and obscures the literary objection.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.literary_reference"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              208,
+              208
+            ],
+            "MG": [
+              208,
+              208
+            ],
+            "UP": [
+              208,
+              208
+            ]
+          },
+          "japanese": "「ご都合主義？",
+          "japanesePC": "「ご都合主義？　......昔は嫌いだったけど、最近は大歓迎よ。ただ、口が肥えてるんで、ビルから飛び降りて無傷なくらいじゃ、もう奇跡には入れてないけど。」",
+          "japanesePS3": "「ご都合主義？",
+          "WH": "\"Are you talking about opportunism?  ......I used to hate it, but recently I've become a big fan.  Still, I'm picky about what I'll accept, and falling from a skyscraper and ending up unharmed isn't what I'd call a miracle.\"",
+          "MG": "\"You mean like a deus ex machina plot development?",
+          "UP": "\"You mean story contrivances?",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi6_19-L0208",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0208"
+            ],
+            "MG": [
+              "umi6_19-L0208"
+            ],
+            "UP": [
+              "umi6_19-L0208"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ご都合主義？　……昔は嫌いだったけど、最近は大歓迎よ。ただ、口が肥えてるんで、ビルから飛び降りて無傷なくらいじゃ、もう奇跡には入れてないけど」",
+              "translation": "\"You mean like a deus ex machina plot development? ...I used to hate them, but recently I've become a big fan. Still, I've become a bit of a picky eater, and simply falling from a skyscraper and ending up unharmed doesn't quite qualify as a miracle to me anymore.\" "
+            },
+            "UP": {
+              "japanese": "「ご都合主義？　……昔は嫌いだったけど、最近は大歓迎よ。ただ、口が肥えてるんで、ビルから飛び降りて無傷なくらいじゃ、もう奇跡には入れてないけど」",
+              "translation": "\"You mean story contrivances? ......I used to hate them, but recently I've become a big fan. I've been spoiled, though, so you'll have to one‐up jumping off a skyscraper and ending up unharmed, because I don't even count that as a miracle anymore.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0208"
+            ],
+            "MG": [
+              "umi6_19-L0208"
+            ],
+            "UP": [
+              "umi6_19-L0208"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "You mean contrived convenient plotting? I used to dislike it, but welcome it now.",
+      "alternative": "The following miraculous survival example permits inference of narrative convenience, partially repairing the unsuitable English term.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-009",
+      "kind": "WH",
+      "description": "Ange hopes her other selves can reach truths as she has. English attributes a presumed wish to those other selves and drops her own hope for their success.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              248,
+              248
+            ],
+            "MG": [
+              248,
+              248
+            ],
+            "UP": [
+              248,
+              248
+            ]
+          },
+          "japanese": "……“私”が、いくつかの真実に辿り着けたように、彼女たちも、……辿り着けることを願ってる。",
+          "japanesePC": "......“私”が、いくつかの真実に辿り着けたように、彼女たちも、......辿り着けることを願ってる。",
+          "japanesePS3": "……“私”が、いくつかの真実に辿り着けたように、彼女たちも、……辿り着けることを願ってる。",
+          "WH": "......Just as 'I' have reached several truths, they must also......want to reach the truth.",
+          "MG": "...Just as \"I\" have reached several truths, they must also...want to reach the truth.",
+          "UP": "......Just as \"I\" was able to reach several truths, I pray that they too......can reach their destinations.",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi6_19-L0244",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0244"
+            ],
+            "MG": [
+              "umi6_19-L0244"
+            ],
+            "UP": [
+              "umi6_19-L0244"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ミステリアスな彼女は、最後までミステリアスだった。………こうして私は、記憶にない一日を終え、明日は、新島行きの船に乗る。彼女とはもう、二度と会わないだろう。しかしそれは、“私”が会わないという意味で、……他の私たちは、会うこともあるかもしれない。……“私”が、いくつかの真実に辿り着けたように、彼女たちも、……辿り着けることを願ってる。",
+              "translation": "That mysterious woman was mysterious to the last. ......And so, the day of which I had no memories ended, and on the following day, I would take a boat to Niijima. I'll probably never meet her again. However, that just means that \"I\" won't meet her, ...so some other \"me\" might meet her somewhere down the road. ...Just as \"I\" have reached several truths, they must also...want to reach the truth. "
+            },
+            "UP": {
+              "japanese": "ミステリアスな彼女は、最後までミステリアスだった。………こうして私は、記憶にない一日を終え、明日は、新島行きの船に乗る。彼女とはもう、二度と会わないだろう。しかしそれは、“私”が会わないという意味で、……他の私たちは、会うこともあるかもしれない。……“私”が、いくつかの真実に辿り着けたように、彼女たちも、……辿り着けることを願ってる。",
+              "translation": "The mysterious woman remained mysterious to the end. .........And so I made it through a day I had no memory of, and the following day, I took a boat to Niijima. I'll probably never see her again. However, that just means that \"I\" won't see her—the other \"me\"s might, somewhere down the road. ......Just as \"I\" was able to reach several truths, I pray that they too......can reach their destinations."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0244"
+            ],
+            "MG": [
+              "umi6_19-L0244"
+            ],
+            "UP": [
+              "umi6_19-L0244"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "I hope they too can reach truths, as I have reached several.",
+      "alternative": "Several truths remains in the first clause, and the other selves remain, but they must want is neither her hope nor their capacity to succeed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-010",
+      "kind": "WH",
+      "description": "Amakusa marvels at arranging such equipment within Japan. English specifically claims Okonogi got it into the country, adding an import route.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              272,
+              272
+            ],
+            "MG": [
+              272,
+              272
+            ],
+            "UP": [
+              272,
+              272
+            ]
+          },
+          "japanese": "旦那も、よくこんなもんが国内で手配できるもんだ」",
+          "japanesePC": "「もちろん。旦那も、よくこんなもんが国内で手配できるもんだ。」",
+          "japanesePS3": "旦那も、よくこんなもんが国内で手配できるもんだ」",
+          "WH": "\"Of course.  I'm surprised you managed to get this into the country.\"",
+          "MG": "I'm surprised you managed to arrange for it in this country.\"",
+          "UP": "I'm surprised you managed to get this into the country.\"",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_19-L0271",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0271"
+            ],
+            "MG": [
+              "umi6_19-L0271"
+            ],
+            "UP": [
+              "umi6_19-L0271"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「もちろん。旦那も、よくこんなもんが国内で手配できるもんだ」",
+              "translation": "\"Of course. I'm surprised you managed to arrange for it in this country.\" "
+            },
+            "UP": {
+              "japanese": "「もちろん。旦那も、よくこんなもんが国内で手配できるもんだ」",
+              "translation": "\"Of course. I'm surprised you managed to get this into the country.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0271"
+            ],
+            "MG": [
+              "umi6_19-L0271"
+            ],
+            "UP": [
+              "umi6_19-L0271"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "You really can arrange something like this domestically.",
+      "alternative": "Imported equipment might subsequently be procured domestically, but the source gives no import claim.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-011",
+      "kind": "WH",
+      "description": "Amakusa thinks she could live long if she were not like this. Might have lived places the unrealized lifespan in the past even while Ange is alive and walking toward him, strengthening apparent retrospective doom.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              315,
+              315
+            ],
+            "MG": [
+              315,
+              315
+            ],
+            "UP": [
+              315,
+              315
+            ]
+          },
+          "japanese": "……こういうお人じゃなけりゃ、長生きも出来るだろうに。",
+          "japanesePC": "......こういうお人じゃなけりゃ、長生きも出来るだろうに。",
+          "japanesePS3": "……こういうお人じゃなけりゃ、長生きも出来るだろうに。",
+          "WH": "......If only she wasn't like this, she might have lived a long life.",
+          "MG": "...If only she wasn't like this, she might've lived a long life.",
+          "UP": "......If only she wasn't like this, she might have lived a long life.",
+          "note": "Full three-witness source-first prose review with context. Canonical parent outcomes independently checked; PC anchors distinguish inherited wording from introduced changes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_19-L0313",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0313"
+            ],
+            "MG": [
+              "umi6_19-L0313"
+            ],
+            "UP": [
+              "umi6_19-L0313"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "縁寿が通りを歩いてくる。戻るまで待てと言ったのに、一人で戻ってきやがった。……こういうお人じゃなけりゃ、長生きも出来るだろうに。",
+              "translation": "Ange was walking down the street. Why'd she have to do that, when I told her to wait for me to come back? ...If only she wasn't like this, she might've lived a long life. "
+            },
+            "UP": {
+              "japanese": "縁寿が通りを歩いてくる。戻るまで待てと言ったのに、一人で戻ってきやがった。……こういうお人じゃなけりゃ、長生きも出来るだろうに。",
+              "translation": "Ange walked down the street towards me. Why'd she have to do that when I told her to wait for me to come back? ......If only she wasn't like this, she might have lived a long life."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0313"
+            ],
+            "MG": [
+              "umi6_19-L0313"
+            ],
+            "UP": [
+              "umi6_19-L0313"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "If she were not like this, she could probably live a long life.",
+      "alternative": "The source itself ominously doubts her prospects, and English may be read as dark anticipation; nevertheless completed past counterfactual exceeds that prospective thought.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-TEA-012",
+      "kind": "WH",
+      "description": "WH changes the only takeaway into all the harvest needed.",
+      "categories": [
+        "linguistic.overinterpretation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              322,
+              322
+            ],
+            "MG": [
+              322,
+              322
+            ],
+            "UP": [
+              322,
+              322
+            ]
+          },
+          "japanese": "………収穫はそれだけよ」",
+          "japanesePC": "「面白かった。.........収穫はそれだけよ。」",
+          "japanesePS3": "………収穫はそれだけよ」",
+          "WH": "\"It was interesting.  .........That's all I need to harvest.\"",
+          "MG": "......I've harvested all I need.\"",
+          "UP": ".........That's all I got out of it.\"",
+          "note": "収穫はそれだけ limits the gain to finding it interesting, rather than declaring her needs fulfilled. Strongest alternative: The metaphor is playful, but all I need adds satisfaction of a goal absent from the source.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi6_19-L0321",
+          "readerRefs": {
+            "WH": [
+              "umi6_19-L0321"
+            ],
+            "MG": [
+              "umi6_19-L0321"
+            ],
+            "UP": [
+              "umi6_19-L0321"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「面白かった。………収穫はそれだけよ」",
+              "translation": "\"It was interesting. ......I've harvested all I need.\" "
+            },
+            "UP": {
+              "japanese": "「面白かった。………収穫はそれだけよ」",
+              "translation": "\"It was interesting. .........That's all I got out of it.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_19-L0321"
+            ],
+            "MG": [
+              "umi6_19-L0321"
+            ],
+            "UP": [
+              "umi6_19-L0321"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "収穫はそれだけ limits the gain to finding it interesting, rather than declaring her needs fulfilled.",
+      "alternative": "The metaphor is playful, but all I need adds satisfaction of a goal absent from the source.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH19-001-351-001",
+      "kind": "additional",
+      "description": "Aquire spelling introduced",
+      "categories": [
+        "linguistic.typography"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_19",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              270,
+              270
+            ],
+            "MG": [
+              270,
+              270
+            ],
+            "UP": [
+              270,
+              270
+            ]
+          },
+          "japanese": "……お前好みの玩具は用意できたか？」",
+          "japanesePC": "",
+          "japanesePS3": "……お前好みの玩具は用意できたか？」",
+          "WH": "",
+          "MG": "...Were you able to aquire one of your favorite toys?\"",
+          "UP": "......Have you received that favorite toy of yours?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_19-L0265",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_19-L0265"
+            ],
+            "UP": [
+              "umi6_19-L0265"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……………せいぜい５〜６人前後のグループだろう。武装も恐らく拳銃程度。お前の敵じゃない。好きに暴れろ。だが確実に殺せ。……お前好みの玩具は用意できたか？」",
+              "translation": "\"...It'll likely be just five or six people at most. And they'll probably be armed with nothing more than handguns. They're no match for you. Feel free to run wild. But make sure you kill them. ...Were you able to aquire one of your favorite toys?\" "
+            },
+            "UP": {
+              "japanese": "「……………せいぜい５〜６人前後のグループだろう。武装も恐らく拳銃程度。お前の敵じゃない。好きに暴れろ。だが確実に殺せ。……お前好みの玩具は用意できたか？」",
+              "translation": "\"...............It'll likely be just five or six people at most. And they'll probably be armed with nothing more than handguns. They're no match for you. Feel free to run wild. But make sure you kill them. ......Have you received that favorite toy of yours?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_19-L0265"
+            ],
+            "UP": [
+              "umi6_19-L0265"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "OriginalWH and UP received; MG introduces aquire instead of acquire.",
+      "alternative": "Meaning remains clear, but aquire is a spelling error.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-TEA-001": {
+      "umi6_19-L0002": {
+        "WH": [
+          "put a ring with the seal of the One-winged Eagle on his finger"
+        ],
+        "MG": [
+          "put a ring with the seal of the One-Winged Eagle on his finger"
+        ],
+        "UP": [
+          "put a ring with the seal of the One‐winged Eagle on his finger"
+        ]
+      }
+    },
+    "WH-EP06-TEA-002": {
+      "umi6_19-L0006": {
+        "WH": [
+          "At this rate"
+        ],
+        "MG": [
+          "At this rate"
+        ]
+      }
+    },
+    "WH-EP06-TEA-003": {
+      "umi6_19-L0014": {
+        "WH": [
+          "are you kidding me",
+          "you only have to brag"
+        ]
+      }
+    },
+    "WH-EP06-TEA-004": {
+      "umi6_19-L0076": {
+        "WH": [
+          "too much salty miso soup",
+          "George is getting a little overweight"
+        ],
+        "MG": [
+          "too much salty miso soup",
+          "George is getting a little overweight"
+        ],
+        "UP": [
+          "too much salty miso soup",
+          "George is getting a little overweight"
+        ]
+      }
+    },
+    "WH-EP06-TEA-005": {
+      "umi6_19-L0084": {
+        "WH": [
+          "George needs to be asleep by 7:00"
+        ]
+      }
+    },
+    "WH-EP06-TEA-006": {
+      "umi6_19-L0195": {
+        "WH": [
+          "If I let you keep that money"
+        ],
+        "UP": [
+          "If I let you keep that money"
+        ],
+        "MG": [
+          "If I let you keep that money"
+        ]
+      }
+    },
+    "WH-EP06-TEA-007": {
+      "umi6_19-L0198": {
+        "WH": [
+          "We have created these tales and been thrown out into the world"
+        ]
+      }
+    },
+    "WH-EP06-TEA-008": {
+      "umi6_19-L0208": {
+        "WH": [
+          "opportunism"
+        ]
+      }
+    },
+    "WH-EP06-TEA-009": {
+      "umi6_19-L0244": {
+        "WH": [
+          "they must also......want to reach the truth"
+        ],
+        "MG": [
+          "they must also...want to reach the truth"
+        ]
+      }
+    },
+    "WH-EP06-TEA-010": {
+      "umi6_19-L0271": {
+        "WH": [
+          "get this into the country"
+        ],
+        "UP": [
+          "get this into the country"
+        ]
+      }
+    },
+    "WH-EP06-TEA-011": {
+      "umi6_19-L0313": {
+        "WH": [
+          "she might have lived a long life"
+        ],
+        "MG": [
+          "she might've lived a long life"
+        ],
+        "UP": [
+          "she might have lived a long life"
+        ]
+      }
+    },
+    "WH-EP06-TEA-012": {
+      "umi6_19-L0321": {
+        "WH": [
+          "all I need to harvest"
+        ],
+        "MG": [
+          "I've harvested all I need"
+        ]
+      }
+    },
+    "PAIR-EP06-CH19-001-351-001": {
+      "umi6_19-L0265": {
+        "MG": [
+          "aquire"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

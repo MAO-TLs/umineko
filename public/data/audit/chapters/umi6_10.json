@@ -1,1 +1,2595 @@
-{"findings":[{"id":"WH-EP06-CH10-001","kind":"WH","description":"Forehead against glass becomes cheek.","categories":["linguistic.word_choice","world.space_time_continuity"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[13,13],"MG":[13,13],"UP":[13,13]},"japanese":"ひんやりと冷えた窓ガラスに額を押し当てる。","japanesePC":"ひんやりと冷えた窓ガラスに額を押し当てる。","japanesePS3":"ひんやりと冷えた窓ガラスに額を押し当てる。","WH":"She pressed her cheek against the cool window glass.","MG":"She pressed her cheek against the cool window glass.","UP":"She pressed her forehead against the cool window glass.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0013","readerRefs":{"WH":["umi6_10-L0013"],"MG":["umi6_10-L0013"],"UP":["umi6_10-L0013"]}}],"sourceReading":"額 specifies her forehead pressed to the cool glass.","alternative":"Both convey seeking the cool glass, but they describe different bodily positions.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-002","kind":"WH","description":"Simple roulette procedure becomes no exaggeration.","categories":["linguistic.word_choice","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[45,45],"MG":[45,45],"UP":[45,45]},"japanese":"それは別に大仰なことではない。","japanesePC":"それは別に大仰なことではない。","japanesePS3":"それは別に大仰なことではない。","WH":"That is no exaggeration.","MG":"That was no exaggeration.","UP":"That \"roulette\" was nothing very grandiose.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0045","readerRefs":{"WH":["umi6_10-L0045"],"MG":["umi6_10-L0045"],"UP":["umi6_10-L0045"]}}],"sourceReading":"大仰なことではない introduces the unelaborate procedure: wander and choose the first person met.","alternative":"No exaggeration can reassure the reader about a metaphor, but the Japanese denies elaborate grandeur, not exaggeration of the account.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-003","kind":"WH","description":"Lack of childhood understanding becomes lack of memory.","categories":["linguistic.mistranslation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[134,134],"MG":[134,134],"UP":[134,134]},"japanese":"「……私は６歳だったから、当時は何もわからなかったけれど。","japanesePC":"「......私は６歳だったから、当時は何もわからなかったけれど。......遺品の中に、お母さんの手記があったわ。」","japanesePS3":"「……私は６歳だったから、当時は何もわからなかったけれど。","WH":"\"......I was just six, so I don't remember much about the time.  However, I found Mom's notebook among her belongings after she died.\"","MG":"\"...I was just six, so I don't remember much about that time.","UP":"\"......I was just six, so I didn't understand much about it at the time,","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0134","readerRefs":{"WH":["umi6_10-L0134"],"MG":["umi6_10-L0134"],"UP":["umi6_10-L0134"]}}],"sourceReading":"At six Ange understood nothing about it at the time; 当時は何もわからなかった concerns comprehension then.","alternative":"Being six can also limit memory, but she subsequently recounts impressions and says maturation enabled understanding of the notebook.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-004","kind":"WH","description":"Preschool Ange becomes elementary-school Ange.","categories":["linguistic.mistranslation","world.space_time_continuity","character.knowledge_boundary"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[150,150],"MG":[150,150],"UP":[150,150]},"japanese":"「……お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。","japanesePC":"「......お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。","japanesePS3":"「……お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。","WH":"\"......I think Onii-chan talked to me about her when no one was around, but there was no way an elementary schooler like I was could understand.","MG":"\"...I think Onii-chan talked to me about her when no one was around, but it wasn't something a kid who wasn't even in elementary school could understand.","UP":"\"......I think Onii‐chan talked to me about her when no one was around, but there was no way an elementary schooler like I was could understand.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi6_10-L0150","readerRefs":{"WH":["umi6_10-L0150"],"MG":["umi6_10-L0150"],"UP":["umi6_10-L0150"]}}],"sourceReading":"小学校前 means before elementary school; she could not understand Battler's account of Asumu.","alternative":"The scene still calls her six, but English places her in elementary school rather than before it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-005","kind":"WH","description":"Independent values become self-worth.","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[166,166],"MG":[166,166],"UP":[166,166]},"japanese":"……そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた」","japanesePC":"「でも、お父さんも同時に、媚びへつらう女の子たちをきっと、見下してもいたのね。......そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた。」","japanesePS3":"……そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた」","WH":"\"But at the same time, Dad must have looked down on those toadying girls.  ......Mom, who was very aware of her self-worth and extremely intelligent, must have stood out.\"","MG":"...Mom, who was very aware of her self-worth and extremely intelligent, must've stood out.\"","UP":"......Mom, who had her own set of values and was extremely intelligent, must have stood out.\"","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0165","readerRefs":{"WH":["umi6_10-L0165"],"MG":["umi6_10-L0165"],"UP":["umi6_10-L0165"]}}],"sourceReading":"自分の価値観をしっかりと持ち describes firmly possessing her own values; 知性を見せる describes displaying intelligence.","alternative":"Self-worth may accompany independence, but is a different object of awareness, and extremely intelligent intensifies displayed intelligence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-006","kind":"WH","description":"Borderline legality becomes illegality.","categories":["linguistic.overinterpretation","world.world_fact","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[173,173],"MG":[173,173],"UP":[173,173]},"japanese":"詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。","japanesePC":"彼は「やったモン勝ち」「バレなきゃいい」を合言葉に、詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。","japanesePS3":"詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。","WH":"Under the mottos of 'if you do it you've done it' and 'as long as you can get away with it', he would alternate between setting up businesses that were borderline swindles or illegal, then running away.","MG":"he would alternate between setting up businesses that were borderline swindles or illegal, then running away.","UP":"he would set up businesses that were borderline swindles or bending the law, then bail out of them, and repeat that process over and over.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0171","readerRefs":{"WH":["umi6_10-L0171"],"MG":["umi6_10-L0171"],"UP":["umi6_10-L0171"]}}],"sourceReading":"法律すれすれ describes businesses close to the legal boundary, alongside barely short of fraud.","alternative":"Borderline modifies swindles, but or illegal asserts the legal breach rather than preserving borderline legal status.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-007","kind":"WH","description":"Indiscriminate ticket sales become panic selling.","categories":["linguistic.word_choice","character.motivation_emotion","world.world_fact"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[174,174],"MG":[174,174],"UP":[174,174]},"japanese":"大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、","japanesePC":"大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、常に財布に壱万円札を百枚入れていることを自慢する男になっていたという......。","japanesePS3":"大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、","WH":"I've heard that in his college years, he was already making use of that talent, thinking up shameless projects and cleverly making money through the panic selling of party tickets, so much so that he could brag about carrying a wallet full of a hundred 10,000 yen notes all the time......","MG":"I've heard that in his college years, he was already making use of that talent, thinking up shameless projects and cleverly making money through the panic selling of party tickets,","UP":"Apparently, he was already making use of that talent in his college years, cleverly making money by thinking up shameless projects and selling cheap tickets to parties for them,","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0174","readerRefs":{"WH":["umi6_10-L0174"],"MG":["umi6_10-L0174"],"UP":["umi6_10-L0174"]}}],"sourceReading":"乱売 describes indiscriminate or reckless selling of party tickets as a way to make money.","alternative":"Both describe uncontrolled selling, but panic selling supplies fear-driven distressed disposal unsupported by this profit-making context.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-008","kind":"WH","description":"Not asking complicated matters becomes not talking about them.","categories":["linguistic.wrong_subject","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[236,236],"MG":[236,236],"UP":[236,236]},"japanese":"難しい話は一切聞かない。","japanesePC":"難しい話は一切聞かない。","japanesePS3":"難しい話は一切聞かない。","WH":"She would never talk about anything complicated.","MG":"She would never talk about anything complicated.","UP":"She would never talk about anything complicated.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0236","readerRefs":{"WH":["umi6_10-L0236"],"MG":["umi6_10-L0236"],"UP":["umi6_10-L0236"]}}],"sourceReading":"Asumu does not ask him about difficult matters; if he talks, she shakes her head saying she cannot understand.","alternative":"English retains her avoidance and the following reaction, but substitutes what she says for what she asks or hears from him.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-009","kind":"WH","description":"Most recognized child becomes fully acknowledged child.","categories":["linguistic.undertranslation","mystery.scope_quantifier_negation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[288,288],"MG":[288,288],"UP":[288,288]},"japanese":"留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。","japanesePC":"生まれてくる子の優秀さで明日夢さんに勝てて...、留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。.........そう信じたわ。","japanesePS3":"留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。","WH":"If I would make my child excel far more than Asumu-san's...if I could make it fully acknowledged by Rudolf-san...I would be rewarded.  .........That's what I believed.","MG":"...if I could make it fully acknowledged by Rudolf-san, ...I would be rewarded.","UP":"if I could make my child the one that Rudolf‐san most respected, I would be rewarded.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0284","readerRefs":{"WH":["umi6_10-L0284"],"MG":["umi6_10-L0284"],"UP":["umi6_10-L0284"]}}],"sourceReading":"Kyrie hopes her child will excel and become the child Rudolf recognizes most.","alternative":"The rivalry remains in the first clause, but fully acknowledged loses the explicit comparative ranking in Rudolf's recognition.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-010","kind":"WH","description":"Desired divorce scenario becomes possible paternal choice.","categories":["linguistic.undertranslation","character.agency_responsibility","character.motivation_emotion","mystery.epistemic_status"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[308,309],"MG":[308,309],"UP":[308,309]},"japanese":"もしもそうだったなら、明日夢さんと離婚させて、\n自分と再婚するようなシナリオを描きたいと、思ってたみたい」","japanesePC":"もしもそうだったなら、明日夢さんと離婚させて、自分と再婚するようなシナリオを描きたいと、思ってたみたい。」","japanesePS3":"もしもそうだったなら、明日夢さんと離婚させて、\n自分と再婚するようなシナリオを描きたいと、思ってたみたい」","WH":"It seems she thought that, if that had happened, Dad might have divorced Asumu-san and married her instead.\"","MG":"Had that been the case,\nit seems she would've wanted to set up some scenario in which she'd make Dad divorce Asumu-san and marry her instead.\"","UP":"It seems she thought that if that had happened,\nshe might have been able to make things play out in a way that Dad would divorce Asumu‐san and marry her instead.\"","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"corrected","UP":"partially_corrected"},"readerRef":"umi6_10-L0305","readerRefs":{"WH":["umi6_10-L0305"],"MG":["umi6_10-L0305"],"UP":["umi6_10-L0305"]}}],"sourceReading":"Ange reports Kyrie wanted to devise a scenario to make him divorce Asumu and remarry her in that counterfactual.","alternative":"Both retain counterfactual uncertainty, but Dad might have divorced removes her desired intervention and substitutes speculation about his choice.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-011","kind":"WH","description":"Avoiding the bother of harvesting becomes complaining.","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[344,344],"MG":[344,344],"UP":[344,344]},"japanese":"……昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。","japanesePC":"「それは、一見、愛し合う二人きりだけの問題に見えて、そんなことはないのよ。だからいつ収穫しても自由なんていう先延ばしは、盗人に機会を与えるだけ。......苦労して育てた実が、翌朝にもぎ取られてなくなっていたら？　......昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。......辛いわよ、その後悔は。......地獄を這うわよ。」","japanesePS3":"……昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。","WH":"\"At a glance, it may seem to be a matter just for the pair of lovers, but that isn't true.  Putting off the harvest because you assume you can do it at any time...just gives the thieves a chance.  ......What if that fruit you've worked so hard to nurture gets pulled off the branch the next morning?  ......You'll regret that you didn't choose to harvest it the previous day instead of complaining.  ......That regret really hurts.  ......It'll make you crawl through hell.\"","MG":"...You'll regret that you didn't choose to harvest it the previous day instead of complaining.","UP":"......You'll regret that you didn't choose to harvest it the previous day instead of putting it off.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0343","readerRefs":{"WH":["umi6_10-L0341","umi6_10-L0343"],"MG":["umi6_10-L0343"],"UP":["umi6_10-L0343"]}}],"sourceReading":"面倒臭がらず means harvesting without treating it as bothersome and putting it off.","alternative":"Complaining can accompany reluctance, but verbal complaint is not specified and replaces the avoidance motive.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-012","kind":"WH","description":"Refusing to let go becomes keeping him in sight.","categories":["linguistic.overinterpretation","character.relationship_power"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[352,352],"MG":[352,352],"UP":[352,352]},"japanese":"もう逃がさない、手放さない。","japanesePC":"......だからもう、私は自分を、間違えないの。......あの人は私のものよ。もう逃がさない、手放さない。","japanesePS3":"もう逃がさない、手放さない。","WH":"......So, I'll never misjudge myself again.  ......That person is mine.  I won't let him get away.  I won't let him out of my sight.","MG":"I won't let him get away. I won't let him out of my sight.","UP":"I won't let him get away. I won't let him out of my sight.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0348","readerRefs":{"WH":["umi6_10-L0348"],"MG":["umi6_10-L0348"],"UP":["umi6_10-L0348"]}}],"sourceReading":"手放さない means not relinquishing him, continuing the possessive claim and refusal to let him escape.","alternative":"Keeping in sight can metaphorically convey possession, but adds visual vigilance rather than the source promise not to give him up.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-013","kind":"WH","description":"Kyrie's intended advice becomes Jessica's presumed desire.","categories":["linguistic.wrong_subject","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[400,400],"MG":[400,400],"UP":[400,400]},"japanese":"軽いアドバイスのつもりが、怖がらせすぎちゃったかしら…？","japanesePC":"「くす、ごめんなさい。軽いアドバイスのつもりが、怖がらせすぎちゃったかしら...？","japanesePS3":"軽いアドバイスのつもりが、怖がらせすぎちゃったかしら…？","WH":"\"*giggle*, I'm sorry.  You probably wanted a little advice, and I've scared you...","MG":"You probably just wanted a little advice, and I've scared you...","UP":"I only meant to give a little advice, but perhaps I scared you a little too much.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0399","readerRefs":{"WH":["umi6_10-L0399"],"MG":["umi6_10-L0399"],"UP":["umi6_10-L0399"]}}],"sourceReading":"Kyrie intended light advice and wonders whether she frightened Jessica too much.","alternative":"The next sentence retains Kyrie intended light intimidation, but this first sentence changes her intention into an assumption about what Jessica wanted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-014","kind":"WH","description":"Executing the regretting self becomes executing oneself in regret.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[418,418],"MG":[418,418],"UP":[418,418]},"japanese":"……後悔する自分を、自らの手で処刑しない限りね」","japanesePC":"「そうじゃない女は、他の女に食い殺されて、生涯を嫉妬と後悔の地獄で、這い続けるのだから。.........私はその地獄に１８年いた。......私は幸運よ、たった１８年で恩赦になれた。......あの地獄には、今も大勢の女たちがいて、......死ぬまで出られないの。......後悔する自分を、自らの手で処刑しない限りね。」","japanesePS3":"……後悔する自分を、自らの手で処刑しない限りね」","WH":"\"Women who don't do that are chewed to bits by the others and forced to crawl through the hell of envy and regret for the rest of their lives.  .........My hell lasted 18 years.  ......I was lucky to be pardoned after just 18 years.  ......That hell is still filled with women......who will never get out until they die.  ......Unless they execute themselves in their regret.\"","MG":"...Unless they execute themselves in their regret.\"","UP":"......Unless they execute themselves in their regret.\"","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0414","readerRefs":{"WH":["umi6_10-L0414"],"MG":["umi6_10-L0414"],"UP":["umi6_10-L0414"]}}],"sourceReading":"The object is 後悔する自分: the self that regrets, to be executed by one's own hand. In the surrounding account this describes destroying that version of oneself to leave the hell of regret.","alternative":"The violent image is present in Japanese and can retain ambiguity, but English makes regret the circumstance of executing themselves rather than a modifier identifying the self to be rejected.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-015","kind":"WH","description":"Near stabbings become near burnings.","categories":["linguistic.mistranslation","character.knowledge_boundary","world.world_fact","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[456,456],"MG":[456,456],"UP":[456,456]},"japanese":"刺されそうになったことの二度や三度あるんだから。","japanesePC":"「.........言ったでしょ、嫉妬の地獄で生きてきたって。刺されそうになったことの二度や三度あるんだから。","japanesePS3":"刺されそうになったことの二度や三度あるんだから。","WH":"\"......Didn't I tell you that I've lived through the hell of jealousy?  I've been nearly burned a couple times already.","MG":"I've been nearly burned a couple times already.","UP":"I've come close to getting stabbed in the back a couple times before.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0455","readerRefs":{"WH":["umi6_10-L0455"],"MG":["umi6_10-L0455"],"UP":["umi6_10-L0455"]}}],"sourceReading":"Kyrie says she has almost been stabbed two or three times, explaining recognition of the atmosphere before an ambush.","alternative":"The previous love/fire metaphor may suggest figurative burns, but 刺され explicitly supplies prior stabbing attempts, not burns.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-016","kind":"WH","description":"Blast-pressure comparison becomes tornado comparison.","categories":["linguistic.word_choice","linguistic.imagery_rhythm_recurrence","world.space_time_continuity"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[497,497],"MG":[497,497],"UP":[497,497]},"japanese":"朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。","japanesePC":"跳び退いて紙一重にかわしたはずなのに、朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。","japanesePS3":"朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。","WH":"Though she had avoided it by a hair, Jessica's left body blow was followed by a terrible tornado-like gust of wind, which blew Kyrie back.","MG":"Jessica's left body blow was followed by a terrible burst of wind, like an explosion, which blew Kyrie back.","UP":"Jessica's left body blow was followed by a terrible tornado‐like gust of wind, which blew Kyrie back.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi6_10-L0495","readerRefs":{"WH":["umi6_10-L0495"],"MG":["umi6_10-L0495"],"UP":["umi6_10-L0495"]}}],"sourceReading":"The avoided left body blow blows Kyrie away with tremendous air pressure like an explosive blast.","alternative":"Both images convey violent wind, but a tornado supplies rotational storm imagery in place of explosive blast pressure.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-017","kind":"WH","description":"Heat emanating from fists becomes heat enshrouding fists.","categories":["linguistic.logical_relation","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[518,518],"MG":[518,518],"UP":[518,518]},"japanese":"それは彼女の両拳から立ち込めているように見える。","japanesePC":"それは彼女の両拳から立ち込めているように見える。......そして、赤い魔法陣のようなものが、彼女の足元に浮かび上がっているようにも見えた。","japanesePS3":"それは彼女の両拳から立ち込めているように見える。","WH":"It seemed to be enshrouding her fists.  ......And, it seemed as though something like a red magic circle had appeared beneath her feet.","MG":"It seemed to be enshrouding her fists.","UP":"It seemed to be enshrouding her fists.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0517","readerRefs":{"WH":["umi6_10-L0517"],"MG":["umi6_10-L0517"],"UP":["umi6_10-L0517"]}}],"sourceReading":"The visible heat-like distortion seems to rise from or emanate from both fists; the magic-circle appearance remains qualified.","alternative":"Enshrouding still puts the effect near the fists, but loses their apparent role as the source.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-018","kind":"WH","description":"Stake's sound-speed flight becomes unspecified high speed.","categories":["linguistic.undertranslation","world.space_time_continuity","mystery.physical_constraint"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[631,631],"MG":[631,631],"UP":[631,631]},"japanese":"レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。","japanesePC":"レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。","japanesePS3":"レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。","WH":"Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room.","MG":"Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room.","UP":"Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0631","readerRefs":{"WH":["umi6_10-L0631"],"MG":["umi6_10-L0631"],"UP":["umi6_10-L0631"]}}],"sourceReading":"音速 specifies travel at the speed of sound.","alternative":"High speed is compatible but removes the explicit speed which also matters to the subsequent sound-speed punch comparison.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-019","kind":"WH","description":"Definite closed-room concession becomes tentative.","categories":["linguistic.overinterpretation","mystery.epistemic_status","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[644,645],"MG":[644,645],"UP":[644,645]},"japanese":"「確かにこの部屋は密室だわ。\n私たちの退路はない。","japanesePC":"「確かにこの部屋は密室だわ。私たちの退路はない。","japanesePS3":"「確かにこの部屋は密室だわ。\n私たちの退路はない。","WH":"\"This room may be a closed room.  It may leave us with no method of escape.","MG":"\"This room may be a closed room.\nIt may leave us with no method of escape.","UP":"\"This room may be a locked room.\nIt may leave us with no method of escape.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0644","readerRefs":{"WH":["umi6_10-L0644"],"MG":["umi6_10-L0644"],"UP":["umi6_10-L0644"]}}],"sourceReading":"確かに concedes the room certainly is closed and they have no escape route.","alternative":"May can introduce a rhetorical concession in English, but the second It may leave us formulation weakens the source's categorical no-retreat premise.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-020","kind":"WH","description":"Added weight producing force is omitted.","categories":["linguistic.omission","mystery.physical_constraint","world.terminology_recurrence"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[654,654],"MG":[654,654],"UP":[654,654]},"japanese":"必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。","japanesePC":"必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。","japanesePS3":"必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。","WH":"She repeatedly enchanted her fists to give them the destructive power for the killing blow.","MG":"She repeatedly enchanted her fists to give them the destructive power for the killing blow.","UP":"She repeatedly enchanted her fists to give them the destructive power for the killing blow.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0651","readerRefs":{"WH":["umi6_10-L0651"],"MG":["umi6_10-L0651"],"UP":["umi6_10-L0651"]}}],"sourceReading":"Jessica repeatedly enchants weight into her fists to produce the lethal destructive force.","alternative":"English retains repeated enchantment and its purpose, but omits the named mechanism, 重み, following the earlier mass enhancement.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-021","kind":"WH","description":"Current sound-speed result becomes unrestricted speed ceiling.","categories":["linguistic.overinterpretation","mystery.scope_quantifier_negation","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[707,708],"MG":[707,708],"UP":[707,708]},"japanese":"朱志香の音速の拳をもってしても、\n……霧江の世界では、子供の歩くスピード程度にしかならないのだ。","japanesePC":"朱志香の音速の拳をもってしても、......霧江の世界では、子供の歩くスピード程度にしかならないのだ。","japanesePS3":"朱志香の音速の拳をもってしても、\n……霧江の世界では、子供の歩くスピード程度にしかならないのだ。","WH":"Even if she increased the speed of her fist, ......in Kyrie's world, Jessica couldn't make it any faster than a walking child.","MG":"Even if she increased the speed of her fist,\n...in Kyrie's world, Jessica couldn't make it any faster than a walking child.","UP":"Even Jessica's sonic fists...\n...were no faster than a walking child in Kyrie's world.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0707","readerRefs":{"WH":["umi6_10-L0707"],"MG":["umi6_10-L0707"],"UP":["umi6_10-L0707"]}}],"sourceReading":"Even her sound-speed fist amounts only to a child's walking speed in Kyrie's world, following the explicit 500-fold reduction.","alternative":"The scene does show a speed increase defeated, but couldn't make it any faster generalizes beyond the specific sound-speed result and relative reduction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-022","kind":"WH","description":"Blazing Kyrie becomes smoldering death throes.","categories":["linguistic.word_choice","linguistic.imagery_rhythm_recurrence","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[758,758],"MG":[758,758],"UP":[758,758]},"japanese":"扉の向こうから、燃え盛る霧江の断末魔が聞こえる。","japanesePC":"扉の向こうから、燃え盛る霧江の断末魔が聞こえる。","japanesePS3":"扉の向こうから、燃え盛る霧江の断末魔が聞こえる。","WH":"Kyrie's smoldering death throes could be heard from across the door.","MG":"Kyrie's smoldering death throes could be heard from across the door.","UP":"Kyrie's smoldering death throes could be heard from across the door.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0758","readerRefs":{"WH":["umi6_10-L0758"],"MG":["umi6_10-L0758"],"UP":["umi6_10-L0758"]}}],"sourceReading":"燃え盛る describes Kyrie burning fiercely amid the just-described erupting hellfire.","alternative":"Smoldering can figuratively carry pain, but as a fire description indicates slow flameless burning rather than the explicit blaze.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-023","kind":"WH","description":"Dry praise becomes a crisp welcome.","categories":["linguistic.word_choice","character.voice_state","character.relationship_power"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[788,788],"MG":[788,788],"UP":[788,788]},"japanese":"譲治は乾いた拍手で朱志香を讃える。","japanesePC":"譲治は乾いた拍手で朱志香を讃える。","japanesePS3":"譲治は乾いた拍手で朱志香を讃える。","WH":"George welcomed Jessica with a crisp applause.","MG":"George welcomed Jessica with a crisp applause.","UP":"George welcomed Jessica with crisp applause.","note":"Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_10-L0788","readerRefs":{"WH":["umi6_10-L0788"],"MG":["umi6_10-L0788"],"UP":["umi6_10-L0788"]}}],"sourceReading":"George praises Jessica with dry applause, preceding her distress and his stoic detachment explanation.","alternative":"Crisp applause can be restrained, and applause retains approval, but crisp describes sharp execution rather than dryness while welcomed replaces praising her deed with reception.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH10-024","kind":"WH","description":"WH changes Kyrie’s question about whether Leviathan can defeat the opponent into Can I defeat her.","categories":["linguistic.wrong_subject"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[584,584],"MG":[584,584],"UP":[584,584]},"japanese":"「あいつを倒せる…？！」","japanesePC":"「あいつを倒せる...？！」","japanesePS3":"「あいつを倒せる…？！」","WH":"\"Can I defeat her...?!\"","MG":"\"Can I defeat her...?!\"","UP":"\"Can you defeat her...?!\"","note":"Original PC and coherent paired context verified under ep06-ch10-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_10-L0584","readerRefs":{"WH":["umi6_10-L0584"],"MG":["umi6_10-L0584"],"UP":["umi6_10-L0584"]}}],"sourceReading":"Kyrie summons Leviathan and asks about her available assistance; Leviathan answers via her own limits, including 私じゃ無理 in the parallel barrier question. UP restores Can you.","alternative":"Kyrie could seek an assessment of herself, but the summoned assistant’s immediate limitations and parallel requests favor the addressee as the subject.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH10-001-120-001","kind":"additional","description":"MG changes Jessica’s odd pause into physical distance.","categories":["linguistic.word_choice"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[56,56],"MG":[56,56],"UP":[56,56]},"japanese":"朱志香の妙な間に気付き、霧江が振り返る。","japanesePC":"","japanesePS3":"朱志香の妙な間に気付き、霧江が振り返る。","WH":"","MG":"Noticing the strange distance Jessica was standing at, Kyrie turned around.","UP":"Noticing Jessica's strange silence, Kyrie turned around.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_10-L0056","readerRefs":{"WH":[],"MG":["umi6_10-L0056"],"UP":["umi6_10-L0056"]}}],"sourceReading":"JP 妙な間 in the hesitant conversation identifies an odd pause; originalPC85692/85694 and UP retain silence. MG introduces the strange distance she was standing at.","alternative":"間 can denote space, but preceding hesitation and ensuing dialogue establish the temporal pause here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH10-721-840-001","kind":"additional","description":"MG drops the excess condition from the warning about shyness.","categories":["mystery.scope_quantifier_negation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[827,827],"MG":[827,827],"UP":[827,827]},"japanese":"奥手も、過ぎれば恋を殺すぞ」","japanesePC":"","japanesePS3":"奥手も、過ぎれば恋を殺すぞ」","WH":"","MG":"Even shyness can kill love.\"","UP":"Even excess shyness can kill love.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_10-L0826","readerRefs":{"WH":[],"MG":["umi6_10-L0826"],"UP":["umi6_10-L0826"]}}],"sourceReading":"JP 過ぎれば says when shyness goes too far; PC89285/89287 and UP retain excess. MG Even shyness can kill love omits the threshold.","alternative":"Can avoids asserting that all shyness kills love, but possibility is not the stated excessive-degree condition.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-084","kind":"PC","description":"Original PC 寝取られた explicitly describes stealing through sex; MG supplies by sleeping with him. PS3 replaces it with generic 取られた, followed by UP. Original WH English was generic, so this is retained PC Japanese material rather than verbatim WH wording.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[248,248],"MG":[248,248],"UP":[248,248]},"japanese":"取られたの」","japanesePC":"「.................................。......えぇ、そうよ。寝取られたの。」","japanesePS3":"取られたの」","WH":"\".....................Yes, that's right.  She stole him away from me.\"","MG":"She stole him away by sleeping with him.\"","UP":"She stole him away from me.\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi6_10-L0246","readerRefs":{"WH":[],"MG":["umi6_10-L0246"],"UP":["umi6_10-L0246"]}}],"sourceReading":"Original PC 寝取られた explicitly describes stealing through sex; MG supplies by sleeping with him. PS3 replaces it with generic 取られた, followed by UP. Original WH English was generic, so this is retained PC Japanese material rather than verbatim WH wording.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-085","kind":"PC","description":"PC 月経異常 and WH irregular period remain in MG; PS3 changes to general 体調不良, followed by UP out of sorts.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_10","episode":6,"rows":{"JP":[259,259],"MG":[259,259],"UP":[259,259]},"japanese":"「当時のお母さんは、食が細くて体調不良とか当たり前だったみたい。","japanesePC":"「当時のお母さんは、食が細くて月経異常とか当たり前だったみたい。だから、懐妊に気付くのもずいぶん遅れた。」","japanesePS3":"「当時のお母さんは、食が細くて体調不良とか当たり前だったみたい。","WH":"\"Apparently, Mom didn't eat much at the time, so her period was often irregular.  Because of that, it took a really long time before she realized she was pregnant.\"","MG":"\"Apparently, Mom didn't eat much at the time, so her period was often irregular.","UP":"\"Apparently, Mom wasn't eating much at the time and was often out of sorts.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi6_10-L0259","readerRefs":{"WH":[],"MG":["umi6_10-L0259"],"UP":["umi6_10-L0259"]}}],"sourceReading":"PC 月経異常 and WH irregular period remain in MG; PS3 changes to general 体調不良, followed by UP out of sorts.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-CH10-001",
+      "kind": "WH",
+      "description": "Forehead against glass becomes cheek.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              13,
+              13
+            ],
+            "MG": [
+              13,
+              13
+            ],
+            "UP": [
+              13,
+              13
+            ]
+          },
+          "japanese": "ひんやりと冷えた窓ガラスに額を押し当てる。",
+          "japanesePC": "ひんやりと冷えた窓ガラスに額を押し当てる。",
+          "japanesePS3": "ひんやりと冷えた窓ガラスに額を押し当てる。",
+          "WH": "She pressed her cheek against the cool window glass.",
+          "MG": "She pressed her cheek against the cool window glass.",
+          "UP": "She pressed her forehead against the cool window glass.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0013",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0013"
+            ],
+            "MG": [
+              "umi6_10-L0013"
+            ],
+            "UP": [
+              "umi6_10-L0013"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ひんやりと冷えた窓ガラスに額を押し当てる。鋭気を少しでも取り戻して、夫の支えにならなくては。たとえ発言権がなくても。……それが、私の勝ち取った責務なのだから。",
+              "translation": "She pressed her cheek against the cool window glass. I need to regain my spirit and support my husband. Even if I'm not allowed to speak. ...That's the duty I've won. "
+            },
+            "UP": {
+              "japanese": "ひんやりと冷えた窓ガラスに額を押し当てる。鋭気を少しでも取り戻して、夫の支えにならなくては。たとえ発言権がなくても。……それが、私の勝ち取った責務なのだから。",
+              "translation": "She pressed her forehead against the cool window glass. I need to regain my spirit and support my husband. Even if I'm not allowed to speak. ......That's the duty I've won."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0013"
+            ],
+            "MG": [
+              "umi6_10-L0013"
+            ],
+            "UP": [
+              "umi6_10-L0013"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "額 specifies her forehead pressed to the cool glass.",
+      "alternative": "Both convey seeking the cool glass, but they describe different bodily positions.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-002",
+      "kind": "WH",
+      "description": "Simple roulette procedure becomes no exaggeration.",
+      "categories": [
+        "linguistic.word_choice",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              45,
+              45
+            ],
+            "MG": [
+              45,
+              45
+            ],
+            "UP": [
+              45,
+              45
+            ]
+          },
+          "japanese": "それは別に大仰なことではない。",
+          "japanesePC": "それは別に大仰なことではない。",
+          "japanesePS3": "それは別に大仰なことではない。",
+          "WH": "That is no exaggeration.",
+          "MG": "That was no exaggeration.",
+          "UP": "That \"roulette\" was nothing very grandiose.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0045",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0045"
+            ],
+            "MG": [
+              "umi6_10-L0045"
+            ],
+            "UP": [
+              "umi6_10-L0045"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "それは別に大仰なことではない。……彼女が好きに歩き回り、……最初に出会った人物を生贄に選ぼうと、自らにルールを課したのだ。そして、運命のルーレットは、……彼女を霧江に巡り合わせた…。",
+              "translation": "That was no exaggeration. ...She had walked around at random, imposing a rule on herself that the first person she met would be chosen as her sacrifice. And so, ...the roulette of fate had brought her to Kyrie... "
+            },
+            "UP": {
+              "japanese": "それは別に大仰なことではない。……彼女が好きに歩き回り、……最初に出会った人物を生贄に選ぼうと、自らにルールを課したのだ。そして、運命のルーレットは、……彼女を霧江に巡り合わせた…。",
+              "translation": "That \"roulette\" was nothing very grandiose. ......She had simply walked around at random, imposing a rule on herself saying that the first person she met would be chosen as the sacrifice. And so, ......the roulette of fate had brought her to Kyrie..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0045"
+            ],
+            "MG": [
+              "umi6_10-L0045"
+            ],
+            "UP": [
+              "umi6_10-L0045"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "大仰なことではない introduces the unelaborate procedure: wander and choose the first person met.",
+      "alternative": "No exaggeration can reassure the reader about a metaphor, but the Japanese denies elaborate grandeur, not exaggeration of the account.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-003",
+      "kind": "WH",
+      "description": "Lack of childhood understanding becomes lack of memory.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              134,
+              134
+            ],
+            "MG": [
+              134,
+              134
+            ],
+            "UP": [
+              134,
+              134
+            ]
+          },
+          "japanese": "「……私は６歳だったから、当時は何もわからなかったけれど。",
+          "japanesePC": "「......私は６歳だったから、当時は何もわからなかったけれど。......遺品の中に、お母さんの手記があったわ。」",
+          "japanesePS3": "「……私は６歳だったから、当時は何もわからなかったけれど。",
+          "WH": "\"......I was just six, so I don't remember much about the time.  However, I found Mom's notebook among her belongings after she died.\"",
+          "MG": "\"...I was just six, so I don't remember much about that time.",
+          "UP": "\"......I was just six, so I didn't understand much about it at the time,",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0134",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0134"
+            ],
+            "MG": [
+              "umi6_10-L0134"
+            ],
+            "UP": [
+              "umi6_10-L0134"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……私は６歳だったから、当時は何もわからなかったけれど。……遺品の中に、お母さんの手記があったわ」",
+              "translation": "\"...I was just six, so I don't remember much about that time. However, I found Mom's notebook among her belongings after she died.\" "
+            },
+            "UP": {
+              "japanese": "「……私は６歳だったから、当時は何もわからなかったけれど。……遺品の中に、お母さんの手記があったわ」",
+              "translation": "\"......I was just six, so I didn't understand much about it at the time, ......but I found Mom's notebook among her belongings after she died.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0134"
+            ],
+            "MG": [
+              "umi6_10-L0134"
+            ],
+            "UP": [
+              "umi6_10-L0134"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "At six Ange understood nothing about it at the time; 当時は何もわからなかった concerns comprehension then.",
+      "alternative": "Being six can also limit memory, but she subsequently recounts impressions and says maturation enabled understanding of the notebook.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-004",
+      "kind": "WH",
+      "description": "Preschool Ange becomes elementary-school Ange.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              150,
+              150
+            ],
+            "MG": [
+              150,
+              150
+            ],
+            "UP": [
+              150,
+              150
+            ]
+          },
+          "japanese": "「……お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。",
+          "japanesePC": "「......お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。",
+          "japanesePS3": "「……お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。",
+          "WH": "\"......I think Onii-chan talked to me about her when no one was around, but there was no way an elementary schooler like I was could understand.",
+          "MG": "\"...I think Onii-chan talked to me about her when no one was around, but it wasn't something a kid who wasn't even in elementary school could understand.",
+          "UP": "\"......I think Onii‐chan talked to me about her when no one was around, but there was no way an elementary schooler like I was could understand.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0150",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0150"
+            ],
+            "MG": [
+              "umi6_10-L0150"
+            ],
+            "UP": [
+              "umi6_10-L0150"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。……だって、写真すらない相手よ。……お母さんは、明日夢さんの写った写真の全てを、お兄ちゃんに送って、家の中には一切残さなかったそうだから」",
+              "translation": "\"...I think Onii-chan talked to me about her when no one was around, but it wasn't something a kid who wasn't even in elementary school could understand. ...After all, I never even saw a picture of her. ...Mom had sent all of the pictures with Asumu-san in them to Onii-chan, leaving none behind in the house.\" "
+            },
+            "UP": {
+              "japanese": "「……お兄ちゃんが、誰もいない時に話してくれたような気がするけど、小学校前の私に、それが理解できるはずがない。……だって、写真すらない相手よ。……お母さんは、明日夢さんの写った写真の全てを、お兄ちゃんに送って、家の中には一切残さなかったそうだから」",
+              "translation": "\"......I think Onii‐chan talked to me about her when no one was around, but there was no way an elementary schooler like I was could understand. ......After all, I never even saw a picture of her. ......Mom had sent all of the pictures with Asumu‐san in them to Onii‐chan, leaving none behind in the house.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0150"
+            ],
+            "MG": [
+              "umi6_10-L0150"
+            ],
+            "UP": [
+              "umi6_10-L0150"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "小学校前 means before elementary school; she could not understand Battler's account of Asumu.",
+      "alternative": "The scene still calls her six, but English places her in elementary school rather than before it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-005",
+      "kind": "WH",
+      "description": "Independent values become self-worth.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              166,
+              166
+            ],
+            "MG": [
+              166,
+              166
+            ],
+            "UP": [
+              166,
+              166
+            ]
+          },
+          "japanese": "……そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた」",
+          "japanesePC": "「でも、お父さんも同時に、媚びへつらう女の子たちをきっと、見下してもいたのね。......そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた。」",
+          "japanesePS3": "……そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた」",
+          "WH": "\"But at the same time, Dad must have looked down on those toadying girls.  ......Mom, who was very aware of her self-worth and extremely intelligent, must have stood out.\"",
+          "MG": "...Mom, who was very aware of her self-worth and extremely intelligent, must've stood out.\"",
+          "UP": "......Mom, who had her own set of values and was extremely intelligent, must have stood out.\"",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0165",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0165"
+            ],
+            "MG": [
+              "umi6_10-L0165"
+            ],
+            "UP": [
+              "umi6_10-L0165"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「でも、お父さんも同時に、媚びへつらう女の子たちをきっと、見下してもいたのね。……そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた」",
+              "translation": "\"But at the same time, Dad must've looked down on those toadying girls. ...Mom, who was very aware of her self-worth and extremely intelligent, must've stood out.\" "
+            },
+            "UP": {
+              "japanese": "「でも、お父さんも同時に、媚びへつらう女の子たちをきっと、見下してもいたのね。……そんな中に、自分の価値観をしっかりと持ち、知性を見せるお母さんは、目立って見えた」",
+              "translation": "\"But at the same time, Dad must have looked down on those toadying girls. ......Mom, who had her own set of values and was extremely intelligent, must have stood out.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0165"
+            ],
+            "MG": [
+              "umi6_10-L0165"
+            ],
+            "UP": [
+              "umi6_10-L0165"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "自分の価値観をしっかりと持ち describes firmly possessing her own values; 知性を見せる describes displaying intelligence.",
+      "alternative": "Self-worth may accompany independence, but is a different object of awareness, and extremely intelligent intensifies displayed intelligence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-006",
+      "kind": "WH",
+      "description": "Borderline legality becomes illegality.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.world_fact",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              173,
+              173
+            ],
+            "MG": [
+              173,
+              173
+            ],
+            "UP": [
+              173,
+              173
+            ]
+          },
+          "japanese": "詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。",
+          "japanesePC": "彼は「やったモン勝ち」「バレなきゃいい」を合言葉に、詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。",
+          "japanesePS3": "詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。",
+          "WH": "Under the mottos of 'if you do it you've done it' and 'as long as you can get away with it', he would alternate between setting up businesses that were borderline swindles or illegal, then running away.",
+          "MG": "he would alternate between setting up businesses that were borderline swindles or illegal, then running away.",
+          "UP": "he would set up businesses that were borderline swindles or bending the law, then bail out of them, and repeat that process over and over.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0171",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0171"
+            ],
+            "MG": [
+              "umi6_10-L0171"
+            ],
+            "UP": [
+              "umi6_10-L0171"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "留弗夫も他の右代宮兄弟同様、強い野心と上昇志向があった。彼は「やったモン勝ち」「バレなきゃいい」を合言葉に、詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。",
+              "translation": "Like the other Ushiromiya siblings, Rudolf had strong ambitions and lofty goals. Under the mottos of \"if you can pull it off, you're golden\" and \"as long as no one finds out\", he would alternate between setting up businesses that were borderline swindles or illegal, then running away. "
+            },
+            "UP": {
+              "japanese": "留弗夫も他の右代宮兄弟同様、強い野心と上昇志向があった。彼は「やったモン勝ち」「バレなきゃいい」を合言葉に、詐欺ぎりぎりの、あるいは法律すれすれの商売を立ち上げては逃げ、立ち上げては逃げを繰り返した。",
+              "translation": "Like the other Ushiromiya siblings, Rudolf had strong ambitions and lofty goals. Under the mottos of \"who dares wins\" and \"it's not a crime if you don't get caught\", he would set up businesses that were borderline swindles or bending the law, then bail out of them, and repeat that process over and over."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0171"
+            ],
+            "MG": [
+              "umi6_10-L0171"
+            ],
+            "UP": [
+              "umi6_10-L0171"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "法律すれすれ describes businesses close to the legal boundary, alongside barely short of fraud.",
+      "alternative": "Borderline modifies swindles, but or illegal asserts the legal breach rather than preserving borderline legal status.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-007",
+      "kind": "WH",
+      "description": "Indiscriminate ticket sales become panic selling.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              174,
+              174
+            ],
+            "MG": [
+              174,
+              174
+            ],
+            "UP": [
+              174,
+              174
+            ]
+          },
+          "japanese": "大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、",
+          "japanesePC": "大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、常に財布に壱万円札を百枚入れていることを自慢する男になっていたという......。",
+          "japanesePS3": "大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、",
+          "WH": "I've heard that in his college years, he was already making use of that talent, thinking up shameless projects and cleverly making money through the panic selling of party tickets, so much so that he could brag about carrying a wallet full of a hundred 10,000 yen notes all the time......",
+          "MG": "I've heard that in his college years, he was already making use of that talent, thinking up shameless projects and cleverly making money through the panic selling of party tickets,",
+          "UP": "Apparently, he was already making use of that talent in his college years, cleverly making money by thinking up shameless projects and selling cheap tickets to parties for them,",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0174",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0174"
+            ],
+            "MG": [
+              "umi6_10-L0174"
+            ],
+            "UP": [
+              "umi6_10-L0174"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、常に財布に壱万円札を百枚入れていることを自慢する男になっていたという……。",
+              "translation": "I've heard that in his college years, he was already making use of that talent, thinking up shameless projects and cleverly making money through the panic selling of party tickets, so much so that he could brag about carrying a wallet full of a hundred 10,000 yen notes all the time... "
+            },
+            "UP": {
+              "japanese": "大学時代から、すでにその才能は発揮されており、破廉恥な企画や、そのパーティー券の乱売で狡猾に稼ぎ、常に財布に壱万円札を百枚入れていることを自慢する男になっていたという……。",
+              "translation": "Apparently, he was already making use of that talent in his college years, cleverly making money by thinking up shameless projects and selling cheap tickets to parties for them, so much money that he could brag about how his wallet was always stuffed with a hundred 10,000 yen notes......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0174"
+            ],
+            "MG": [
+              "umi6_10-L0174"
+            ],
+            "UP": [
+              "umi6_10-L0174"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "乱売 describes indiscriminate or reckless selling of party tickets as a way to make money.",
+      "alternative": "Both describe uncontrolled selling, but panic selling supplies fear-driven distressed disposal unsupported by this profit-making context.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-008",
+      "kind": "WH",
+      "description": "Not asking complicated matters becomes not talking about them.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              236,
+              236
+            ],
+            "MG": [
+              236,
+              236
+            ],
+            "UP": [
+              236,
+              236
+            ]
+          },
+          "japanese": "難しい話は一切聞かない。",
+          "japanesePC": "難しい話は一切聞かない。",
+          "japanesePS3": "難しい話は一切聞かない。",
+          "WH": "She would never talk about anything complicated.",
+          "MG": "She would never talk about anything complicated.",
+          "UP": "She would never talk about anything complicated.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0236",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0236"
+            ],
+            "MG": [
+              "umi6_10-L0236"
+            ],
+            "UP": [
+              "umi6_10-L0236"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "難しい話は一切聞かない。\n話しても、わからないからと首を振る。でも、誰よりも体を気遣ってくれて、静かに毛布を掛けて朝までじっと側にいてくれた…。",
+              "translation": "She would never talk about anything complicated. Even if he did, she would just shake her head to say she didn't know. However, she would care more for him physically than anyone else, quietly putting a blanket on him and staying by his side until morning... "
+            },
+            "UP": {
+              "japanese": "難しい話は一切聞かない。\n話しても、わからないからと首を振る。でも、誰よりも体を気遣ってくれて、静かに毛布を掛けて朝までじっと側にいてくれた…。",
+              "translation": "She would never talk about anything complicated.\nEven if he did, she would just shake her head to say she didn't know. However, she would care more for him physically than anyone else, quietly putting a blanket on him and staying by his side until morning..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0236"
+            ],
+            "MG": [
+              "umi6_10-L0236"
+            ],
+            "UP": [
+              "umi6_10-L0236"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Asumu does not ask him about difficult matters; if he talks, she shakes her head saying she cannot understand.",
+      "alternative": "English retains her avoidance and the following reaction, but substitutes what she says for what she asks or hears from him.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-009",
+      "kind": "WH",
+      "description": "Most recognized child becomes fully acknowledged child.",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.scope_quantifier_negation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              288,
+              288
+            ],
+            "MG": [
+              288,
+              288
+            ],
+            "UP": [
+              288,
+              288
+            ]
+          },
+          "japanese": "留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。",
+          "japanesePC": "生まれてくる子の優秀さで明日夢さんに勝てて...、留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。.........そう信じたわ。",
+          "japanesePS3": "留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。",
+          "WH": "If I would make my child excel far more than Asumu-san's...if I could make it fully acknowledged by Rudolf-san...I would be rewarded.  .........That's what I believed.",
+          "MG": "...if I could make it fully acknowledged by Rudolf-san, ...I would be rewarded.",
+          "UP": "if I could make my child the one that Rudolf‐san most respected, I would be rewarded.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0284",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0284"
+            ],
+            "MG": [
+              "umi6_10-L0284"
+            ],
+            "UP": [
+              "umi6_10-L0284"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "私は、絶対に自分の子を、留弗夫さんに認められる子に育てようと誓ったわ。明日夢さんと私の戦いは、私の敗北に決まった。\n……でも、まだ負けじゃない。生まれてくる子の優秀さで明日夢さんに勝てて…、留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。………そう信じたわ。",
+              "translation": "I swore to bring up my child well and have Rudolf-san acknowledge it. The fight between Asumu-san and me ended with my loss. ...However, I wasn't down for the count. If I could make my child excel far more than Asumu-san's, ...if I could make it fully acknowledged by Rudolf-san, ...I would be rewarded. ......That's what I believed. "
+            },
+            "UP": {
+              "japanese": "私は、絶対に自分の子を、留弗夫さんに認められる子に育てようと誓ったわ。明日夢さんと私の戦いは、私の敗北に決まった。\n……でも、まだ負けじゃない。生まれてくる子の優秀さで明日夢さんに勝てて…、留弗夫さんに、もっとも認めてもらえる子になれたなら、私は報われる。………そう信じたわ。",
+              "translation": "I swore to bring up my child well, so that Rudolf‐san would be proud to call himself its father. Asumu‐san had won her battle against me.\n......However, I hadn't yet lost the war. If I could make my child excel far more than Asumu‐san's, if I could make my child the one that Rudolf‐san most respected, I would be rewarded. .........That's what I believed."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0284"
+            ],
+            "MG": [
+              "umi6_10-L0284"
+            ],
+            "UP": [
+              "umi6_10-L0284"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kyrie hopes her child will excel and become the child Rudolf recognizes most.",
+      "alternative": "The rivalry remains in the first clause, but fully acknowledged loses the explicit comparative ranking in Rudolf's recognition.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-010",
+      "kind": "WH",
+      "description": "Desired divorce scenario becomes possible paternal choice.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.agency_responsibility",
+        "character.motivation_emotion",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              308,
+              309
+            ],
+            "MG": [
+              308,
+              309
+            ],
+            "UP": [
+              308,
+              309
+            ]
+          },
+          "japanese": "もしもそうだったなら、明日夢さんと離婚させて、\n自分と再婚するようなシナリオを描きたいと、思ってたみたい」",
+          "japanesePC": "もしもそうだったなら、明日夢さんと離婚させて、自分と再婚するようなシナリオを描きたいと、思ってたみたい。」",
+          "japanesePS3": "もしもそうだったなら、明日夢さんと離婚させて、\n自分と再婚するようなシナリオを描きたいと、思ってたみたい」",
+          "WH": "It seems she thought that, if that had happened, Dad might have divorced Asumu-san and married her instead.\"",
+          "MG": "Had that been the case,\nit seems she would've wanted to set up some scenario in which she'd make Dad divorce Asumu-san and marry her instead.\"",
+          "UP": "It seems she thought that if that had happened,\nshe might have been able to make things play out in a way that Dad would divorce Asumu‐san and marry her instead.\"",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi6_10-L0305",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0305"
+            ],
+            "MG": [
+              "umi6_10-L0305"
+            ],
+            "UP": [
+              "umi6_10-L0305"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「でしょうね。……もし、死産が明日夢さんで、お母さんの方がお兄ちゃんを出産していたなら。……何か歴史は変わっていたかもしれない。もしもそうだったなら、明日夢さんと離婚させて、自分と再婚するようなシナリオを描きたいと、思ってたみたい」",
+              "translation": "\"Probably. ...If Asumu-san had had a stillbirth and Mom had given birth to Onii-chan, ...history might have changed in some way. Had that been the case, it seems she would've wanted to set up some scenario in which she'd make Dad divorce Asumu-san and marry her instead.\" "
+            },
+            "UP": {
+              "japanese": "「でしょうね。……もし、死産が明日夢さんで、お母さんの方がお兄ちゃんを出産していたなら。……何か歴史は変わっていたかもしれない。もしもそうだったなら、明日夢さんと離婚させて、自分と再婚するようなシナリオを描きたいと、思ってたみたい」",
+              "translation": "\"I don't doubt it. ......If Asumu‐san's child had been stillborn and Mom had been the one to give birth to Onii‐chan, ......history might have changed in some way. It seems she thought that if that had happened, she might have been able to make things play out in a way that Dad would divorce Asumu‐san and marry her instead.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0305"
+            ],
+            "MG": [
+              "umi6_10-L0305"
+            ],
+            "UP": [
+              "umi6_10-L0305"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange reports Kyrie wanted to devise a scenario to make him divorce Asumu and remarry her in that counterfactual.",
+      "alternative": "Both retain counterfactual uncertainty, but Dad might have divorced removes her desired intervention and substitutes speculation about his choice.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-011",
+      "kind": "WH",
+      "description": "Avoiding the bother of harvesting becomes complaining.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              344,
+              344
+            ],
+            "MG": [
+              344,
+              344
+            ],
+            "UP": [
+              344,
+              344
+            ]
+          },
+          "japanese": "……昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。",
+          "japanesePC": "「それは、一見、愛し合う二人きりだけの問題に見えて、そんなことはないのよ。だからいつ収穫しても自由なんていう先延ばしは、盗人に機会を与えるだけ。......苦労して育てた実が、翌朝にもぎ取られてなくなっていたら？　......昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。......辛いわよ、その後悔は。......地獄を這うわよ。」",
+          "japanesePS3": "……昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。",
+          "WH": "\"At a glance, it may seem to be a matter just for the pair of lovers, but that isn't true.  Putting off the harvest because you assume you can do it at any time...just gives the thieves a chance.  ......What if that fruit you've worked so hard to nurture gets pulled off the branch the next morning?  ......You'll regret that you didn't choose to harvest it the previous day instead of complaining.  ......That regret really hurts.  ......It'll make you crawl through hell.\"",
+          "MG": "...You'll regret that you didn't choose to harvest it the previous day instead of complaining.",
+          "UP": "......You'll regret that you didn't choose to harvest it the previous day instead of putting it off.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0343",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0341",
+              "umi6_10-L0343"
+            ],
+            "MG": [
+              "umi6_10-L0343"
+            ],
+            "UP": [
+              "umi6_10-L0343"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……苦労して育てた実が、翌朝にもぎ取られてなくなっていたら？　……昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。……辛いわよ、その後悔は。……地獄を這うわよ」",
+              "translation": "...What if that fruit you've worked so hard to nurture gets pulled off the branch the next morning? ...You'll regret that you didn't choose to harvest it the previous day instead of complaining. ...That regret really hurts. ...It'll make you crawl through hell.\" "
+            },
+            "UP": {
+              "japanese": "「……苦労して育てた実が、翌朝にもぎ取られてなくなっていたら？　……昨日の内に、面倒臭がらずに収穫しておけば良かったと後悔するはずよ。……辛いわよ、その後悔は。……地獄を這うわよ」",
+              "translation": "\"......What if that fruit you've worked so hard to nurture gets pulled off the branch the next morning? ......You'll regret that you didn't choose to harvest it the previous day instead of putting it off. ......That regret really hurts. ......It'll make you crawl through hell.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0341",
+              "umi6_10-L0343"
+            ],
+            "MG": [
+              "umi6_10-L0343"
+            ],
+            "UP": [
+              "umi6_10-L0343"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "面倒臭がらず means harvesting without treating it as bothersome and putting it off.",
+      "alternative": "Complaining can accompany reluctance, but verbal complaint is not specified and replaces the avoidance motive.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-012",
+      "kind": "WH",
+      "description": "Refusing to let go becomes keeping him in sight.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              352,
+              352
+            ],
+            "MG": [
+              352,
+              352
+            ],
+            "UP": [
+              352,
+              352
+            ]
+          },
+          "japanese": "もう逃がさない、手放さない。",
+          "japanesePC": "......だからもう、私は自分を、間違えないの。......あの人は私のものよ。もう逃がさない、手放さない。",
+          "japanesePS3": "もう逃がさない、手放さない。",
+          "WH": "......So, I'll never misjudge myself again.  ......That person is mine.  I won't let him get away.  I won't let him out of my sight.",
+          "MG": "I won't let him get away. I won't let him out of my sight.",
+          "UP": "I won't let him get away. I won't let him out of my sight.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0348",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0348"
+            ],
+            "MG": [
+              "umi6_10-L0348"
+            ],
+            "UP": [
+              "umi6_10-L0348"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私は幸運よ。その地獄が１８年で終わったから。……だからもう、私は自分を、間違えないの。……あの人は私のものよ。もう逃がさない、手放さない。そして主に感謝する。………その機会を与えてくれて。絶対にあの人を諦めないという“絶対の意思”に、“奇跡”が応えてくれたんだわ」",
+              "translation": "\"I'm lucky. My hell ended after 18 years. ...So, I'll never misjudge myself again. ...That person is mine. I won't let him get away. I won't let him out of my sight. And I'm grateful to my master... for giving me that chance. My \"certain willpower\" in not giving up on that man no matter what...was answered with a \"miracle\".\" "
+            },
+            "UP": {
+              "japanese": "「私は幸運よ。その地獄が１８年で終わったから。……だからもう、私は自分を、間違えないの。……あの人は私のものよ。もう逃がさない、手放さない。そして主に感謝する。………その機会を与えてくれて。絶対にあの人を諦めないという“絶対の意思”に、“奇跡”が応えてくれたんだわ」",
+              "translation": "\"I was lucky. My hell ended after 18 years. ......So, I'll never misjudge myself again. ......That man is mine. I won't let him get away. I won't let him out of my sight. And I'm grateful to my masters......... for giving me that chance. My \"absolute, certain willpower\" in not giving up on that man no matter what was answered with a \"miracle\".\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0348"
+            ],
+            "MG": [
+              "umi6_10-L0348"
+            ],
+            "UP": [
+              "umi6_10-L0348"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "手放さない means not relinquishing him, continuing the possessive claim and refusal to let him escape.",
+      "alternative": "Keeping in sight can metaphorically convey possession, but adds visual vigilance rather than the source promise not to give him up.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-013",
+      "kind": "WH",
+      "description": "Kyrie's intended advice becomes Jessica's presumed desire.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              400,
+              400
+            ],
+            "MG": [
+              400,
+              400
+            ],
+            "UP": [
+              400,
+              400
+            ]
+          },
+          "japanese": "軽いアドバイスのつもりが、怖がらせすぎちゃったかしら…？",
+          "japanesePC": "「くす、ごめんなさい。軽いアドバイスのつもりが、怖がらせすぎちゃったかしら...？",
+          "japanesePS3": "軽いアドバイスのつもりが、怖がらせすぎちゃったかしら…？",
+          "WH": "\"*giggle*, I'm sorry.  You probably wanted a little advice, and I've scared you...",
+          "MG": "You probably just wanted a little advice, and I've scared you...",
+          "UP": "I only meant to give a little advice, but perhaps I scared you a little too much.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0399",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0399"
+            ],
+            "MG": [
+              "umi6_10-L0399"
+            ],
+            "UP": [
+              "umi6_10-L0399"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「くす、ごめんなさい。軽いアドバイスのつもりが、怖がらせすぎちゃったかしら…？　……くすくす。この天気のせいね。軽く凄むだけのつもりだったのに、加減を間違えちゃったわ」",
+              "translation": "\"*giggle* I'm sorry. You probably just wanted a little advice, and I've scared you... ...*giggle*giggle* Blame the weather. I just wanted to pressure you a bit, but I've gone overboard.\" "
+            },
+            "UP": {
+              "japanese": "「くす、ごめんなさい。軽いアドバイスのつもりが、怖がらせすぎちゃったかしら…？　……くすくす。この天気のせいね。軽く凄むだけのつもりだったのに、加減を間違えちゃったわ」",
+              "translation": "\"*giggle*, I'm sorry. I only meant to give a little advice, but perhaps I scared you a little too much. ......*giggle*giggle*. Blame the weather. I just wanted to pressure you a bit, but I've gone overboard.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0399"
+            ],
+            "MG": [
+              "umi6_10-L0399"
+            ],
+            "UP": [
+              "umi6_10-L0399"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kyrie intended light advice and wonders whether she frightened Jessica too much.",
+      "alternative": "The next sentence retains Kyrie intended light intimidation, but this first sentence changes her intention into an assumption about what Jessica wanted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-014",
+      "kind": "WH",
+      "description": "Executing the regretting self becomes executing oneself in regret.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              418,
+              418
+            ],
+            "MG": [
+              418,
+              418
+            ],
+            "UP": [
+              418,
+              418
+            ]
+          },
+          "japanese": "……後悔する自分を、自らの手で処刑しない限りね」",
+          "japanesePC": "「そうじゃない女は、他の女に食い殺されて、生涯を嫉妬と後悔の地獄で、這い続けるのだから。.........私はその地獄に１８年いた。......私は幸運よ、たった１８年で恩赦になれた。......あの地獄には、今も大勢の女たちがいて、......死ぬまで出られないの。......後悔する自分を、自らの手で処刑しない限りね。」",
+          "japanesePS3": "……後悔する自分を、自らの手で処刑しない限りね」",
+          "WH": "\"Women who don't do that are chewed to bits by the others and forced to crawl through the hell of envy and regret for the rest of their lives.  .........My hell lasted 18 years.  ......I was lucky to be pardoned after just 18 years.  ......That hell is still filled with women......who will never get out until they die.  ......Unless they execute themselves in their regret.\"",
+          "MG": "...Unless they execute themselves in their regret.\"",
+          "UP": "......Unless they execute themselves in their regret.\"",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0414",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0414"
+            ],
+            "MG": [
+              "umi6_10-L0414"
+            ],
+            "UP": [
+              "umi6_10-L0414"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうじゃない女は、他の女に食い殺されて、生涯を嫉妬と後悔の地獄で、這い続けるのだから。………私はその地獄に１８年いた。……私は幸運よ、たった１８年で恩赦になれた。……あの地獄には、今も大勢の女たちがいて、……死ぬまで出られないの。……後悔する自分を、自らの手で処刑しない限りね」",
+              "translation": "\"Women who don't do that are chewed to bits by the others and forced to crawl through the hell of envy and regret for the rest of their lives. ......My hell lasted 18 years. ...I was lucky to be pardoned after just 18 years. ...That hell is still filled with women...who will never get out until they die. ...Unless they execute themselves in their regret.\" "
+            },
+            "UP": {
+              "japanese": "「そうじゃない女は、他の女に食い殺されて、生涯を嫉妬と後悔の地獄で、這い続けるのだから。………私はその地獄に１８年いた。……私は幸運よ、たった１８年で恩赦になれた。……あの地獄には、今も大勢の女たちがいて、……死ぬまで出られないの。……後悔する自分を、自らの手で処刑しない限りね」",
+              "translation": "\"Women who don't do that are chewed to bits by the others and forced to crawl through the hell of envy and regret for the rest of their lives. .........My hell lasted 18 years. ......I was lucky to be pardoned after just 18. ......That hell is still filled with women......who will never get out until they die. ......Unless they execute themselves in their regret.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0414"
+            ],
+            "MG": [
+              "umi6_10-L0414"
+            ],
+            "UP": [
+              "umi6_10-L0414"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The object is 後悔する自分: the self that regrets, to be executed by one's own hand. In the surrounding account this describes destroying that version of oneself to leave the hell of regret.",
+      "alternative": "The violent image is present in Japanese and can retain ambiguity, but English makes regret the circumstance of executing themselves rather than a modifier identifying the self to be rejected.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-015",
+      "kind": "WH",
+      "description": "Near stabbings become near burnings.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary",
+        "world.world_fact",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              456,
+              456
+            ],
+            "MG": [
+              456,
+              456
+            ],
+            "UP": [
+              456,
+              456
+            ]
+          },
+          "japanese": "刺されそうになったことの二度や三度あるんだから。",
+          "japanesePC": "「.........言ったでしょ、嫉妬の地獄で生きてきたって。刺されそうになったことの二度や三度あるんだから。",
+          "japanesePS3": "刺されそうになったことの二度や三度あるんだから。",
+          "WH": "\"......Didn't I tell you that I've lived through the hell of jealousy?  I've been nearly burned a couple times already.",
+          "MG": "I've been nearly burned a couple times already.",
+          "UP": "I've come close to getting stabbed in the back a couple times before.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0455",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0455"
+            ],
+            "MG": [
+              "umi6_10-L0455"
+            ],
+            "UP": [
+              "umi6_10-L0455"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………言ったでしょ、嫉妬の地獄で生きてきたって。刺されそうになったことの二度や三度あるんだから。わかるのよ、不意打ちの直前の雰囲気が」",
+              "translation": "\"...Didn't I tell you that I've lived through the hell of jealousy? I've been nearly burned a couple times already. I know how it feels just before a surprise attack.\" "
+            },
+            "UP": {
+              "japanese": "「………言ったでしょ、嫉妬の地獄で生きてきたって。刺されそうになったことの二度や三度あるんだから。わかるのよ、不意打ちの直前の雰囲気が」",
+              "translation": "\".........Didn't I tell you that I've lived through the hell of jealousy? I've come close to getting stabbed in the back a couple times before. I know how it feels just before a surprise attack.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0455"
+            ],
+            "MG": [
+              "umi6_10-L0455"
+            ],
+            "UP": [
+              "umi6_10-L0455"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kyrie says she has almost been stabbed two or three times, explaining recognition of the atmosphere before an ambush.",
+      "alternative": "The previous love/fire metaphor may suggest figurative burns, but 刺され explicitly supplies prior stabbing attempts, not burns.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-016",
+      "kind": "WH",
+      "description": "Blast-pressure comparison becomes tornado comparison.",
+      "categories": [
+        "linguistic.word_choice",
+        "linguistic.imagery_rhythm_recurrence",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              497,
+              497
+            ],
+            "MG": [
+              497,
+              497
+            ],
+            "UP": [
+              497,
+              497
+            ]
+          },
+          "japanese": "朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。",
+          "japanesePC": "跳び退いて紙一重にかわしたはずなのに、朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。",
+          "japanesePS3": "朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。",
+          "WH": "Though she had avoided it by a hair, Jessica's left body blow was followed by a terrible tornado-like gust of wind, which blew Kyrie back.",
+          "MG": "Jessica's left body blow was followed by a terrible burst of wind, like an explosion, which blew Kyrie back.",
+          "UP": "Jessica's left body blow was followed by a terrible tornado‐like gust of wind, which blew Kyrie back.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0495",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0495"
+            ],
+            "MG": [
+              "umi6_10-L0495"
+            ],
+            "UP": [
+              "umi6_10-L0495"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "霧江が床を蹴って後ろに跳ぶのがもう一瞬遅れていたら、腹部が打ち砕かれていたかもしれない。跳び退いて紙一重にかわしたはずなのに、朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。",
+              "translation": "If Kyrie's kick off the ground and backward leap had been an instant slower, her gut would probably have been pulverized. Though she had avoided it by a hair, Jessica's left body blow was followed by a terrible burst of wind, like an explosion, which blew Kyrie back. "
+            },
+            "UP": {
+              "japanese": "霧江が床を蹴って後ろに跳ぶのがもう一瞬遅れていたら、腹部が打ち砕かれていたかもしれない。跳び退いて紙一重にかわしたはずなのに、朱志香の左ボディブローは、爆風にも似た凄まじい風圧で、霧江を吹き飛ばした。",
+              "translation": "If Kyrie's kick off the ground and leap backward had been an instant slower, her gut would probably have been pulverized. Though she had avoided it by a hair, Jessica's left body blow was followed by a terrible tornado‐like gust of wind, which blew Kyrie back."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0495"
+            ],
+            "MG": [
+              "umi6_10-L0495"
+            ],
+            "UP": [
+              "umi6_10-L0495"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The avoided left body blow blows Kyrie away with tremendous air pressure like an explosive blast.",
+      "alternative": "Both images convey violent wind, but a tornado supplies rotational storm imagery in place of explosive blast pressure.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-017",
+      "kind": "WH",
+      "description": "Heat emanating from fists becomes heat enshrouding fists.",
+      "categories": [
+        "linguistic.logical_relation",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              518,
+              518
+            ],
+            "MG": [
+              518,
+              518
+            ],
+            "UP": [
+              518,
+              518
+            ]
+          },
+          "japanese": "それは彼女の両拳から立ち込めているように見える。",
+          "japanesePC": "それは彼女の両拳から立ち込めているように見える。......そして、赤い魔法陣のようなものが、彼女の足元に浮かび上がっているようにも見えた。",
+          "japanesePS3": "それは彼女の両拳から立ち込めているように見える。",
+          "WH": "It seemed to be enshrouding her fists.  ......And, it seemed as though something like a red magic circle had appeared beneath her feet.",
+          "MG": "It seemed to be enshrouding her fists.",
+          "UP": "It seemed to be enshrouding her fists.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0517",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0517"
+            ],
+            "MG": [
+              "umi6_10-L0517"
+            ],
+            "UP": [
+              "umi6_10-L0517"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "朱志香の周囲の景色がゆらりと、高温で歪むかのように見えた。それは彼女の両拳から立ち込めているように見える。……そして、赤い魔法陣のようなものが、彼女の足元に浮かび上がっているようにも見えた。それはまるで、………地獄の灼熱の中に立つ、西洋の悪魔そのもののように見えた。",
+              "translation": "The scene around Jessica seemed to bend like a heat wave. It seemed to be enshrouding her fists. ...And, it seemed as though something like a red magic circle had appeared beneath her feet. It looked just like a Western demon standing amidst the flames of hell. "
+            },
+            "UP": {
+              "japanese": "朱志香の周囲の景色がゆらりと、高温で歪むかのように見えた。それは彼女の両拳から立ち込めているように見える。……そして、赤い魔法陣のようなものが、彼女の足元に浮かび上がっているようにも見えた。それはまるで、………地獄の灼熱の中に立つ、西洋の悪魔そのもののように見えた。",
+              "translation": "The air around Jessica seemed to bend like a heat wave. It seemed to be enshrouding her fists. ......And, it seemed as though something like a red magic circle had appeared beneath her feet. She looked just like a Western demon standing amidst the flames of hell."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0517"
+            ],
+            "MG": [
+              "umi6_10-L0517"
+            ],
+            "UP": [
+              "umi6_10-L0517"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The visible heat-like distortion seems to rise from or emanate from both fists; the magic-circle appearance remains qualified.",
+      "alternative": "Enshrouding still puts the effect near the fists, but loses their apparent role as the source.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-018",
+      "kind": "WH",
+      "description": "Stake's sound-speed flight becomes unspecified high speed.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              631,
+              631
+            ],
+            "MG": [
+              631,
+              631
+            ],
+            "UP": [
+              631,
+              631
+            ]
+          },
+          "japanese": "レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。",
+          "japanesePC": "レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。",
+          "japanesePS3": "レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。",
+          "WH": "Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room.",
+          "MG": "Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room.",
+          "UP": "Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0631",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0631"
+            ],
+            "MG": [
+              "umi6_10-L0631"
+            ],
+            "UP": [
+              "umi6_10-L0631"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。彼女の杭の先端は、杭ではなく、鍵になっていた。開錠と同時に扉が勢いよく開く。霧江たちはその部屋に転げ込み、そして素早く施錠した。",
+              "translation": "Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room. The tip of the stake had become a key. As soon as it was unlocked, the door flew open. Both of them fell into the room and quickly locked it. "
+            },
+            "UP": {
+              "japanese": "レヴィアタンの杭は音速で飛び回り、その部屋の扉の鍵穴に突き刺さる。彼女の杭の先端は、杭ではなく、鍵になっていた。開錠と同時に扉が勢いよく開く。霧江たちはその部屋に転げ込み、そして素早く施錠した。",
+              "translation": "Leviathan's stake flew about at high speeds, ramming itself into the keyhole to that room. The tip of the stake had become a key. As soon as it was unlocked, the door flew open. Both of them fell into the room and quickly locked it."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0631"
+            ],
+            "MG": [
+              "umi6_10-L0631"
+            ],
+            "UP": [
+              "umi6_10-L0631"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "音速 specifies travel at the speed of sound.",
+      "alternative": "High speed is compatible but removes the explicit speed which also matters to the subsequent sound-speed punch comparison.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-019",
+      "kind": "WH",
+      "description": "Definite closed-room concession becomes tentative.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              644,
+              645
+            ],
+            "MG": [
+              644,
+              645
+            ],
+            "UP": [
+              644,
+              645
+            ]
+          },
+          "japanese": "「確かにこの部屋は密室だわ。\n私たちの退路はない。",
+          "japanesePC": "「確かにこの部屋は密室だわ。私たちの退路はない。",
+          "japanesePS3": "「確かにこの部屋は密室だわ。\n私たちの退路はない。",
+          "WH": "\"This room may be a closed room.  It may leave us with no method of escape.",
+          "MG": "\"This room may be a closed room.\nIt may leave us with no method of escape.",
+          "UP": "\"This room may be a locked room.\nIt may leave us with no method of escape.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0644",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0644"
+            ],
+            "MG": [
+              "umi6_10-L0644"
+            ],
+            "UP": [
+              "umi6_10-L0644"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「確かにこの部屋は密室だわ。私たちの退路はない。でもね、あなただってこの部屋には侵入できないのよ。それが密室というもの！」",
+              "translation": "\"This room may be a closed room. It may leave us with no method of escape. However, even you can't break into this room. That's what a closed room is!\" "
+            },
+            "UP": {
+              "japanese": "「確かにこの部屋は密室だわ。私たちの退路はない。でもね、あなただってこの部屋には侵入できないのよ。それが密室というもの！」",
+              "translation": "\"This room may be a locked room. It may leave us with no method of escape. However, even you can't break into this room. That's what a locked room is!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0644"
+            ],
+            "MG": [
+              "umi6_10-L0644"
+            ],
+            "UP": [
+              "umi6_10-L0644"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "確かに concedes the room certainly is closed and they have no escape route.",
+      "alternative": "May can introduce a rhetorical concession in English, but the second It may leave us formulation weakens the source's categorical no-retreat premise.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-020",
+      "kind": "WH",
+      "description": "Added weight producing force is omitted.",
+      "categories": [
+        "linguistic.omission",
+        "mystery.physical_constraint",
+        "world.terminology_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              654,
+              654
+            ],
+            "MG": [
+              654,
+              654
+            ],
+            "UP": [
+              654,
+              654
+            ]
+          },
+          "japanese": "必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。",
+          "japanesePC": "必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。",
+          "japanesePS3": "必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。",
+          "WH": "She repeatedly enchanted her fists to give them the destructive power for the killing blow.",
+          "MG": "She repeatedly enchanted her fists to give them the destructive power for the killing blow.",
+          "UP": "She repeatedly enchanted her fists to give them the destructive power for the killing blow.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0651",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0651"
+            ],
+            "MG": [
+              "umi6_10-L0651"
+            ],
+            "UP": [
+              "umi6_10-L0651"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "朱志香は物憂げに、理解できないという表情で自分の灼熱の拳と扉を見比べる。そしてゆっくりと、……脈動する赤い光を拳に宿らせる……。必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。",
+              "translation": "Jessica wearily looked between her own burning fists and the door with a confused expression on her face. Then, slowly, ...she sent that pulsating, red light to her fists... She repeatedly enchanted her fists to give them the destructive power for the killing blow. "
+            },
+            "UP": {
+              "japanese": "朱志香は物憂げに、理解できないという表情で自分の灼熱の拳と扉を見比べる。そしてゆっくりと、……脈動する赤い光を拳に宿らせる……。必殺の破壊力を生み出す重みを、自らの拳に何度も繰り返しエンチャントする。",
+              "translation": "With a confused expression on her face, Jessica looked wearily between her own burning fists and the door. Then, slowly, ......she sent that pulsating, red light to her fists...... She repeatedly enchanted her fists to give them the destructive power for the killing blow."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0651"
+            ],
+            "MG": [
+              "umi6_10-L0651"
+            ],
+            "UP": [
+              "umi6_10-L0651"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica repeatedly enchants weight into her fists to produce the lethal destructive force.",
+      "alternative": "English retains repeated enchantment and its purpose, but omits the named mechanism, 重み, following the earlier mass enhancement.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-021",
+      "kind": "WH",
+      "description": "Current sound-speed result becomes unrestricted speed ceiling.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.scope_quantifier_negation",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              707,
+              708
+            ],
+            "MG": [
+              707,
+              708
+            ],
+            "UP": [
+              707,
+              708
+            ]
+          },
+          "japanese": "朱志香の音速の拳をもってしても、\n……霧江の世界では、子供の歩くスピード程度にしかならないのだ。",
+          "japanesePC": "朱志香の音速の拳をもってしても、......霧江の世界では、子供の歩くスピード程度にしかならないのだ。",
+          "japanesePS3": "朱志香の音速の拳をもってしても、\n……霧江の世界では、子供の歩くスピード程度にしかならないのだ。",
+          "WH": "Even if she increased the speed of her fist, ......in Kyrie's world, Jessica couldn't make it any faster than a walking child.",
+          "MG": "Even if she increased the speed of her fist,\n...in Kyrie's world, Jessica couldn't make it any faster than a walking child.",
+          "UP": "Even Jessica's sonic fists...\n...were no faster than a walking child in Kyrie's world.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0707",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0707"
+            ],
+            "MG": [
+              "umi6_10-L0707"
+            ],
+            "UP": [
+              "umi6_10-L0707"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "朱志香の音速の拳をもってしても、……霧江の世界では、子供の歩くスピード程度にしかならないのだ。朱志香は拳を扉に押し当てたまま、ぎりぎりと歯軋りする。それを扉の両端から見たなら、まるで霧江が、指一本で扉ごと押さえているように見えた…。",
+              "translation": "Even if she increased the speed of her fist, ...in Kyrie's world, Jessica couldn't make it any faster than a walking child. Jessica ground her teeth, her fist still pressed against the door. If someone could have seen this from both sides of the door, it would have looked as though Kyrie was holding it shut with a single finger... "
+            },
+            "UP": {
+              "japanese": "朱志香の音速の拳をもってしても、……霧江の世界では、子供の歩くスピード程度にしかならないのだ。朱志香は拳を扉に押し当てたまま、ぎりぎりと歯軋りする。それを扉の両端から見たなら、まるで霧江が、指一本で扉ごと押さえているように見えた…。",
+              "translation": "Even Jessica's sonic fists... ...were no faster than a walking child in Kyrie's world. Jessica ground her teeth, her fist still pressed against the door. If someone could have seen this from both sides of the door, it would have looked as though Kyrie was holding it shut with a single finger..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0707"
+            ],
+            "MG": [
+              "umi6_10-L0707"
+            ],
+            "UP": [
+              "umi6_10-L0707"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Even her sound-speed fist amounts only to a child's walking speed in Kyrie's world, following the explicit 500-fold reduction.",
+      "alternative": "The scene does show a speed increase defeated, but couldn't make it any faster generalizes beyond the specific sound-speed result and relative reduction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-022",
+      "kind": "WH",
+      "description": "Blazing Kyrie becomes smoldering death throes.",
+      "categories": [
+        "linguistic.word_choice",
+        "linguistic.imagery_rhythm_recurrence",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              758,
+              758
+            ],
+            "MG": [
+              758,
+              758
+            ],
+            "UP": [
+              758,
+              758
+            ]
+          },
+          "japanese": "扉の向こうから、燃え盛る霧江の断末魔が聞こえる。",
+          "japanesePC": "扉の向こうから、燃え盛る霧江の断末魔が聞こえる。",
+          "japanesePS3": "扉の向こうから、燃え盛る霧江の断末魔が聞こえる。",
+          "WH": "Kyrie's smoldering death throes could be heard from across the door.",
+          "MG": "Kyrie's smoldering death throes could be heard from across the door.",
+          "UP": "Kyrie's smoldering death throes could be heard from across the door.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0758",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0758"
+            ],
+            "MG": [
+              "umi6_10-L0758"
+            ],
+            "UP": [
+              "umi6_10-L0758"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "扉の向こうから、燃え盛る霧江の断末魔が聞こえる。灼熱の業火の中で死のダンスを踊り、……膝をつき、……倒れる音までを、朱志香はしっかり、聞き終える。",
+              "translation": "Kyrie's smoldering death throes could be heard from across the door. Jessica clearly heard as Kyrie danced a dance of death amidst the hellfire, ...fell to her knees, ...and slumped over to the floor. "
+            },
+            "UP": {
+              "japanese": "扉の向こうから、燃え盛る霧江の断末魔が聞こえる。灼熱の業火の中で死のダンスを踊り、……膝をつき、……倒れる音までを、朱志香はしっかり、聞き終える。",
+              "translation": "Kyrie's smoldering death throes could be heard from across the door. Jessica clearly heard as Kyrie danced a dance of death amidst the hellfire, ......fell to her knees, ......and slumped over to the floor."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0758"
+            ],
+            "MG": [
+              "umi6_10-L0758"
+            ],
+            "UP": [
+              "umi6_10-L0758"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "燃え盛る describes Kyrie burning fiercely amid the just-described erupting hellfire.",
+      "alternative": "Smoldering can figuratively carry pain, but as a fire description indicates slow flameless burning rather than the explicit blaze.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-023",
+      "kind": "WH",
+      "description": "Dry praise becomes a crisp welcome.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              788,
+              788
+            ],
+            "MG": [
+              788,
+              788
+            ],
+            "UP": [
+              788,
+              788
+            ]
+          },
+          "japanese": "譲治は乾いた拍手で朱志香を讃える。",
+          "japanesePC": "譲治は乾いた拍手で朱志香を讃える。",
+          "japanesePS3": "譲治は乾いた拍手で朱志香を讃える。",
+          "WH": "George welcomed Jessica with a crisp applause.",
+          "MG": "George welcomed Jessica with a crisp applause.",
+          "UP": "George welcomed Jessica with crisp applause.",
+          "note": "Full continuous source-first reading in durable reports; parent verified introduced flags and exact PC edition changes. Yellow material excluded from defects. Conservative alternatives held, including UP in the back figurative betrayal and plural rebuke789. Canonical023 grammar improvement does not resolve dry-praise versus crisp-welcome meaning. Inherited584/659 candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_10-L0788",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0788"
+            ],
+            "MG": [
+              "umi6_10-L0788"
+            ],
+            "UP": [
+              "umi6_10-L0788"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "譲治は乾いた拍手で朱志香を讃える。……ベアトもおずおずとそれに従ったが、すぐに朱志香に一喝されて止める。",
+              "translation": "George welcomed Jessica with a crisp applause. ...Beato timidly tried to join him, but Jessica yelled at her and she stopped. "
+            },
+            "UP": {
+              "japanese": "譲治は乾いた拍手で朱志香を讃える。……ベアトもおずおずとそれに従ったが、すぐに朱志香に一喝されて止める。",
+              "translation": "George welcomed Jessica with crisp applause. ......Beato timidly tried to join him, but Jessica yelled at them and she stopped."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0788"
+            ],
+            "MG": [
+              "umi6_10-L0788"
+            ],
+            "UP": [
+              "umi6_10-L0788"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George praises Jessica with dry applause, preceding her distress and his stoic detachment explanation.",
+      "alternative": "Crisp applause can be restrained, and applause retains approval, but crisp describes sharp execution rather than dryness while welcomed replaces praising her deed with reception.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH10-024",
+      "kind": "WH",
+      "description": "WH changes Kyrie’s question about whether Leviathan can defeat the opponent into Can I defeat her.",
+      "categories": [
+        "linguistic.wrong_subject"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              584,
+              584
+            ],
+            "MG": [
+              584,
+              584
+            ],
+            "UP": [
+              584,
+              584
+            ]
+          },
+          "japanese": "「あいつを倒せる…？！」",
+          "japanesePC": "「あいつを倒せる...？！」",
+          "japanesePS3": "「あいつを倒せる…？！」",
+          "WH": "\"Can I defeat her...?!\"",
+          "MG": "\"Can I defeat her...?!\"",
+          "UP": "\"Can you defeat her...?!\"",
+          "note": "Original PC and coherent paired context verified under ep06-ch10-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_10-L0584",
+          "readerRefs": {
+            "WH": [
+              "umi6_10-L0584"
+            ],
+            "MG": [
+              "umi6_10-L0584"
+            ],
+            "UP": [
+              "umi6_10-L0584"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あいつを倒せる…？！」",
+              "translation": "\"Can I defeat her...?!\" "
+            },
+            "UP": {
+              "japanese": "「あいつを倒せる…？！」",
+              "translation": "\"Can you defeat her...?!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_10-L0584"
+            ],
+            "MG": [
+              "umi6_10-L0584"
+            ],
+            "UP": [
+              "umi6_10-L0584"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kyrie summons Leviathan and asks about her available assistance; Leviathan answers via her own limits, including 私じゃ無理 in the parallel barrier question. UP restores Can you.",
+      "alternative": "Kyrie could seek an assessment of herself, but the summoned assistant’s immediate limitations and parallel requests favor the addressee as the subject.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH10-001-120-001",
+      "kind": "additional",
+      "description": "MG changes Jessica’s odd pause into physical distance.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              56,
+              56
+            ],
+            "MG": [
+              56,
+              56
+            ],
+            "UP": [
+              56,
+              56
+            ]
+          },
+          "japanese": "朱志香の妙な間に気付き、霧江が振り返る。",
+          "japanesePC": "",
+          "japanesePS3": "朱志香の妙な間に気付き、霧江が振り返る。",
+          "WH": "",
+          "MG": "Noticing the strange distance Jessica was standing at, Kyrie turned around.",
+          "UP": "Noticing Jessica's strange silence, Kyrie turned around.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_10-L0056",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0056"
+            ],
+            "UP": [
+              "umi6_10-L0056"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "朱志香の妙な間に気付き、霧江が振り返る。\n……無防備な背中はもうない。朱志香は自らの躊躇が、最初のチャンスを失わせてしまったことを知る…。",
+              "translation": "Noticing the strange distance Jessica was standing at, Kyrie turned around. ...That unprotected back was already gone. Jessica realized that her hesitation had made her lose her own first chance... "
+            },
+            "UP": {
+              "japanese": "朱志香の妙な間に気付き、霧江が振り返る。\n……無防備な背中はもうない。朱志香は自らの躊躇が、最初のチャンスを失わせてしまったことを知る…。",
+              "translation": "Noticing Jessica's strange silence, Kyrie turned around.\n......That unprotected back was already gone. Jessica realized that her hesitation had cost her her own first chance..."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0056"
+            ],
+            "UP": [
+              "umi6_10-L0056"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP 妙な間 in the hesitant conversation identifies an odd pause; originalPC85692/85694 and UP retain silence. MG introduces the strange distance she was standing at.",
+      "alternative": "間 can denote space, but preceding hesitation and ensuing dialogue establish the temporal pause here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH10-721-840-001",
+      "kind": "additional",
+      "description": "MG drops the excess condition from the warning about shyness.",
+      "categories": [
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              827,
+              827
+            ],
+            "MG": [
+              827,
+              827
+            ],
+            "UP": [
+              827,
+              827
+            ]
+          },
+          "japanese": "奥手も、過ぎれば恋を殺すぞ」",
+          "japanesePC": "",
+          "japanesePS3": "奥手も、過ぎれば恋を殺すぞ」",
+          "WH": "",
+          "MG": "Even shyness can kill love.\"",
+          "UP": "Even excess shyness can kill love.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_10-L0826",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0826"
+            ],
+            "UP": [
+              "umi6_10-L0826"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「魔女がゲーム盤の殺人に臆してどうするというのか。奥手も、過ぎれば恋を殺すぞ」",
+              "translation": "\"What witch would hesitate at committing murder on the game board? Even shyness can kill love.\" "
+            },
+            "UP": {
+              "japanese": "「魔女がゲーム盤の殺人に臆してどうするというのか。奥手も、過ぎれば恋を殺すぞ」",
+              "translation": "\"What witch would hesitate at committing murder on the game board? Even excess shyness can kill love.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0826"
+            ],
+            "UP": [
+              "umi6_10-L0826"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP 過ぎれば says when shyness goes too far; PC89285/89287 and UP retain excess. MG Even shyness can kill love omits the threshold.",
+      "alternative": "Can avoids asserting that all shyness kills love, but possibility is not the stated excessive-degree condition.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-084",
+      "kind": "PC",
+      "description": "Original PC 寝取られた explicitly describes stealing through sex; MG supplies by sleeping with him. PS3 replaces it with generic 取られた, followed by UP. Original WH English was generic, so this is retained PC Japanese material rather than verbatim WH wording.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              248,
+              248
+            ],
+            "MG": [
+              248,
+              248
+            ],
+            "UP": [
+              248,
+              248
+            ]
+          },
+          "japanese": "取られたの」",
+          "japanesePC": "「.................................。......えぇ、そうよ。寝取られたの。」",
+          "japanesePS3": "取られたの」",
+          "WH": "\".....................Yes, that's right.  She stole him away from me.\"",
+          "MG": "She stole him away by sleeping with him.\"",
+          "UP": "She stole him away from me.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi6_10-L0246",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0246"
+            ],
+            "UP": [
+              "umi6_10-L0246"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……………………………。……えぇ、そうよ。取られたの」",
+              "translation": "\"......... ...Yes, that's right. She stole him away by sleeping with him.\" "
+            },
+            "UP": {
+              "japanese": "「……………………………。……えぇ、そうよ。取られたの」",
+              "translation": "\"................................. ...Yes, that's right. She stole him away from me.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0246"
+            ],
+            "UP": [
+              "umi6_10-L0246"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Original PC 寝取られた explicitly describes stealing through sex; MG supplies by sleeping with him. PS3 replaces it with generic 取られた, followed by UP. Original WH English was generic, so this is retained PC Japanese material rather than verbatim WH wording.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-085",
+      "kind": "PC",
+      "description": "PC 月経異常 and WH irregular period remain in MG; PS3 changes to general 体調不良, followed by UP out of sorts.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_10",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              259,
+              259
+            ],
+            "MG": [
+              259,
+              259
+            ],
+            "UP": [
+              259,
+              259
+            ]
+          },
+          "japanese": "「当時のお母さんは、食が細くて体調不良とか当たり前だったみたい。",
+          "japanesePC": "「当時のお母さんは、食が細くて月経異常とか当たり前だったみたい。だから、懐妊に気付くのもずいぶん遅れた。」",
+          "japanesePS3": "「当時のお母さんは、食が細くて体調不良とか当たり前だったみたい。",
+          "WH": "\"Apparently, Mom didn't eat much at the time, so her period was often irregular.  Because of that, it took a really long time before she realized she was pregnant.\"",
+          "MG": "\"Apparently, Mom didn't eat much at the time, so her period was often irregular.",
+          "UP": "\"Apparently, Mom wasn't eating much at the time and was often out of sorts.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi6_10-L0259",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0259"
+            ],
+            "UP": [
+              "umi6_10-L0259"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「当時のお母さんは、食が細くて体調不良とか当たり前だったみたい。だから、懐妊に気付くのもずいぶん遅れた」",
+              "translation": "\"Apparently, Mom didn't eat much at the time, so her period was often irregular. Because of that, it took a really long time before she realized she was pregnant.\" "
+            },
+            "UP": {
+              "japanese": "「当時のお母さんは、食が細くて体調不良とか当たり前だったみたい。だから、懐妊に気付くのもずいぶん遅れた」",
+              "translation": "\"Apparently, Mom wasn't eating much at the time and was often out of sorts. Because of that, it took a really long time before she realized she was pregnant.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_10-L0259"
+            ],
+            "UP": [
+              "umi6_10-L0259"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC 月経異常 and WH irregular period remain in MG; PS3 changes to general 体調不良, followed by UP out of sorts.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-CH10-001": {
+      "umi6_10-L0013": {
+        "WH": [
+          "her cheek"
+        ],
+        "MG": [
+          "her cheek"
+        ]
+      }
+    },
+    "WH-EP06-CH10-002": {
+      "umi6_10-L0045": {
+        "WH": [
+          "That is no exaggeration"
+        ],
+        "MG": [
+          "That was no exaggeration"
+        ]
+      }
+    },
+    "WH-EP06-CH10-003": {
+      "umi6_10-L0134": {
+        "WH": [
+          "I don't remember much about the time"
+        ],
+        "MG": [
+          "I don't remember much about that time"
+        ]
+      }
+    },
+    "WH-EP06-CH10-004": {
+      "umi6_10-L0150": {
+        "WH": [
+          "an elementary schooler like I was"
+        ],
+        "UP": [
+          "an elementary schooler like I was"
+        ]
+      }
+    },
+    "WH-EP06-CH10-005": {
+      "umi6_10-L0165": {
+        "WH": [
+          "very aware of her self-worth"
+        ],
+        "MG": [
+          "very aware of her self-worth"
+        ]
+      }
+    },
+    "WH-EP06-CH10-006": {
+      "umi6_10-L0171": {
+        "WH": [
+          "illegal"
+        ],
+        "MG": [
+          "illegal"
+        ]
+      }
+    },
+    "WH-EP06-CH10-007": {
+      "umi6_10-L0174": {
+        "WH": [
+          "panic selling"
+        ],
+        "MG": [
+          "panic selling"
+        ]
+      }
+    },
+    "WH-EP06-CH10-008": {
+      "umi6_10-L0236": {
+        "WH": [
+          "She would never talk about anything complicated"
+        ],
+        "MG": [
+          "She would never talk about anything complicated"
+        ],
+        "UP": [
+          "She would never talk about anything complicated"
+        ]
+      }
+    },
+    "WH-EP06-CH10-009": {
+      "umi6_10-L0284": {
+        "WH": [
+          "fully acknowledged by Rudolf-san"
+        ],
+        "MG": [
+          "fully acknowledged by Rudolf-san"
+        ]
+      }
+    },
+    "WH-EP06-CH10-010": {
+      "umi6_10-L0305": {
+        "WH": [
+          "she thought that, if that had happened, Dad might have divorced Asumu-san and married her instead"
+        ],
+        "UP": [
+          "she thought that if that had happened, she might have been able to make things play out in a way that Dad would divorce Asumu‐san and marry her instead"
+        ]
+      }
+    },
+    "WH-EP06-CH10-011": {
+      "umi6_10-L0341": {
+        "WH": [
+          "instead of complaining"
+        ]
+      },
+      "umi6_10-L0343": {
+        "WH": [
+          "instead of complaining"
+        ],
+        "MG": [
+          "instead of complaining"
+        ]
+      }
+    },
+    "WH-EP06-CH10-012": {
+      "umi6_10-L0348": {
+        "WH": [
+          "I won't let him out of my sight"
+        ],
+        "MG": [
+          "I won't let him out of my sight"
+        ],
+        "UP": [
+          "I won't let him out of my sight"
+        ]
+      }
+    },
+    "WH-EP06-CH10-013": {
+      "umi6_10-L0399": {
+        "WH": [
+          "You probably wanted a little advice, and I've scared you"
+        ],
+        "MG": [
+          "You probably just wanted a little advice, and I've scared you"
+        ]
+      }
+    },
+    "WH-EP06-CH10-014": {
+      "umi6_10-L0414": {
+        "WH": [
+          "execute themselves in their regret"
+        ],
+        "MG": [
+          "execute themselves in their regret"
+        ],
+        "UP": [
+          "execute themselves in their regret"
+        ]
+      }
+    },
+    "WH-EP06-CH10-015": {
+      "umi6_10-L0455": {
+        "WH": [
+          "nearly burned"
+        ],
+        "MG": [
+          "nearly burned"
+        ]
+      }
+    },
+    "WH-EP06-CH10-016": {
+      "umi6_10-L0495": {
+        "WH": [
+          "a terrible tornado-like gust of wind"
+        ],
+        "UP": [
+          "a terrible tornado‐like gust of wind"
+        ]
+      }
+    },
+    "WH-EP06-CH10-017": {
+      "umi6_10-L0517": {
+        "WH": [
+          "enshrouding her fists"
+        ],
+        "MG": [
+          "enshrouding her fists"
+        ],
+        "UP": [
+          "enshrouding her fists"
+        ]
+      }
+    },
+    "WH-EP06-CH10-018": {
+      "umi6_10-L0631": {
+        "WH": [
+          "at high speeds"
+        ],
+        "MG": [
+          "at high speeds"
+        ],
+        "UP": [
+          "at high speeds"
+        ]
+      }
+    },
+    "WH-EP06-CH10-019": {
+      "umi6_10-L0644": {
+        "WH": [
+          "This room may be a closed room. It may leave us with no method of escape"
+        ],
+        "MG": [
+          "This room may be a closed room. It may leave us with no method of escape"
+        ],
+        "UP": [
+          "This room may be a locked room. It may leave us with no method of escape"
+        ]
+      }
+    },
+    "WH-EP06-CH10-020": {
+      "umi6_10-L0651": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The weight Jessica repeatedly enchants into her fists to produce the killing force is absent."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "The weight Jessica repeatedly enchants into her fists to produce the killing force is absent."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "The weight Jessica repeatedly enchants into her fists to produce the killing force is absent."
+        }
+      }
+    },
+    "WH-EP06-CH10-021": {
+      "umi6_10-L0707": {
+        "WH": [
+          "Even if she increased the speed of her fist",
+          "Jessica couldn't make it any faster than a walking child"
+        ],
+        "MG": [
+          "Even if she increased the speed of her fist",
+          "Jessica couldn't make it any faster than a walking child"
+        ]
+      }
+    },
+    "WH-EP06-CH10-022": {
+      "umi6_10-L0758": {
+        "WH": [
+          "Kyrie's smoldering death throes"
+        ],
+        "UP": [
+          "Kyrie's smoldering death throes"
+        ],
+        "MG": [
+          "Kyrie's smoldering death throes"
+        ]
+      }
+    },
+    "WH-EP06-CH10-023": {
+      "umi6_10-L0788": {
+        "WH": [
+          "welcomed Jessica with a crisp applause"
+        ],
+        "MG": [
+          "welcomed Jessica with a crisp applause"
+        ],
+        "UP": [
+          "welcomed Jessica with crisp applause"
+        ]
+      }
+    },
+    "WH-EP06-CH10-024": {
+      "umi6_10-L0584": {
+        "WH": [
+          "Can I defeat her"
+        ],
+        "MG": [
+          "Can I defeat her"
+        ]
+      }
+    },
+    "PAIR-EP06-CH10-001-120-001": {
+      "umi6_10-L0056": {
+        "MG": [
+          "the strange distance Jessica was standing at"
+        ]
+      }
+    },
+    "PAIR-EP06-CH10-721-840-001": {
+      "umi6_10-L0826": {
+        "MG": [
+          "Even shyness can kill love"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

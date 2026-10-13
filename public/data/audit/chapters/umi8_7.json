@@ -1,1 +1,2565 @@
-{"findings":[{"id":"WH-EP08-CH06-001","kind":"WH","description":"Incorrect article in Ange’s request for an easy puzzle","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[20,20],"MG":[20,20],"UP":[20,20]},"japanese":"「挑発しないでー。","japanesePC":"「挑発しないでー。簡単なのがいいー！」","japanesePS3":"「挑発しないでー。","WH":"\"Don't provoke him!  I want a easy one!\"","MG":"\"Don't provoke him!","UP":"\"Don't provoke him!","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_7-L0020","readerRefs":{"WH":["umi8_7-L0020"],"MG":["umi8_7-L0020"],"UP":["umi8_7-L0020"]}}],"sourceReading":"Ange asks for an easy question.","alternative":"The child speaks casually, but a easy is an English article error without a corresponding marked grammatical feature in Japanese.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-002","kind":"WH","description":"Odd nonround prize amounts become amounts that differ","categories":["linguistic.word_choice","linguistic.grammar"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[25,25],"MG":[25,25],"UP":[25,25]},"japanese":"「もらえる賞金の枚数が半端で、何か変」","japanesePC":"「もらえる賞金の枚数が半端で、何か変。」","japanesePS3":"「もらえる賞金の枚数が半端で、何か変」","WH":"\"The number of coins are really different, and kind of weird.\"","MG":"\"The number of coins are really different, and kind of weird.\"","UP":"\"The numbers of coins are really different, and kind of weird.\"","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi8_7-L0025","readerRefs":{"WH":["umi8_7-L0025","umi8_7-quiz-10"],"MG":["umi8_7-L0025"],"UP":["umi8_7-L0025"]}}],"sourceReading":"半端 describes the awkward, nonround coin amounts, which Ange finds strange.","alternative":"Really different could suggest unusual amounts, but ordinarily compares the amounts with one another; their being different is expected for different prizes. Number also incorrectly takes are. The unchanged numeric values preserve access to the clue.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-003","kind":"WH","description":"Ange’s limited roman-letter knowledge and lack of English disappear","categories":["linguistic.omission","character.knowledge_boundary"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[121,121],"MG":[121,121],"UP":[121,121]},"japanese":"「うふふふふふ。","japanesePC":"「......縁寿、ローマ字は何となくわかるけど、英語はわかんない。」\n「ローマ字がわかれば充分ですよ。英語はわからなくて大丈夫です。絵羽さまと協力すれば、きっと解けますよ。」","japanesePS3":"「うふふふふふ。","WH":"\"Heheheheheheheh.  Do you get it?\"\n\"Aren't there any more hints?\"","MG":"\"Heheheheheheheh.","UP":"\"Heheheheheheheh.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"source_edition_changed_not_applicable","UP":"source_edition_changed_not_applicable"},"readerRef":"umi8_7-L0121","readerRefs":{"WH":["PC-CANDIDATE-EP08-07-V003","PC-CANDIDATE-EP08-07-V004","umi8_7-L0121","umi8_7-L0123"],"MG":["umi8_7-L0121"],"UP":["umi8_7-L0121"]}}],"sourceReading":"Ange explicitly understands romaji only vaguely and does not understand English. Shannon assures her that romaji suffices, English is unnecessary, and cooperation with Eva will let her solve the puzzle. Both turns have no English counterpart.","alternative":"The adaptation requires English taste words and changes initial letters to second letters, so removing the assurance avoids contradicting the adapted mechanism. That explains the editorial choice but does not preserve the original explicit boundary on the six-year-old’s knowledge. Eva still assists her, limiting the change.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-004","kind":"WH","description":"Eva’s answer confirmation acquires a joke about Rudolf permitting coffee","categories":["linguistic.addition","character.voice_state"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[198,198],"MG":[198,198],"UP":[198,198]},"japanese":"「そういうこと！","japanesePC":"「そういうこと！　酸っぱいをローマ字に直した頭文字は、Ｓ！　レモネードの答えはＳね！」","japanesePS3":"「そういうこと！","WH":"\"Exactly!  And the second letter of bitter is...\nWait, your dad lets you drink coffee?\"","MG":"\"Exactly!","UP":"\"Exactly!","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi8_7-L0198","readerRefs":{"WH":["umi8_7-L0198"],"MG":["umi8_7-L0198"],"UP":["umi8_7-L0198"]}}],"sourceReading":"Eva confirms the sour/romaji-S answer. Under the revised English mechanism this corresponds to explicitly confirming bitter/I.","alternative":"Changing the tested food from lemonade to coffee is part of a working adaptation, but the question about her father allowing coffee is an additional parental-permission joke, not required by the spelling mechanism. Ange’s answer names a taste and need not establish habitual coffee drinking.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-005","kind":"WH","description":"Further minor grammar errors in farewell and medal narration","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[227,227],"MG":[227,227],"UP":[227,227]},"japanese":"「他の方も、相当難しい問題を用意されているようです。","japanesePC":"「他の方も、相当難しい問題を用意されているようです。どうかお気をつけて。」","japanesePS3":"「他の方も、相当難しい問題を用意されているようです。","WH":"\"It seems the other still have some brain-twisters waiting for you.  Please be careful.\"","MG":"\"It seems the others still have some brain-twisters waiting for you.","UP":"\"It seems the others still have some brain‐twisters waiting for you.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"partially_corrected","UP":"partially_corrected"},"readerRef":"umi8_7-L0227","readerRefs":{"WH":["umi8_7-L0227"],"MG":["umi8_7-L0227"],"UP":["umi8_7-L0227"]}},{"chapter":"umi8_7","episode":8,"rows":{"JP":[488,488],"MG":[488,488],"UP":[488,488]},"japanese":"不機嫌な犬のように唸りながら、渋々とメダルを差し出す。","japanesePC":"「他の方も、相当難しい問題を用意されているようです。どうかお気をつけて。」","japanesePS3":"不機嫌な犬のように唸りながら、渋々とメダルを差し出す。","WH":"\"It seems the other still have some brain-twisters waiting for you.  Please be careful.\"","MG":"Whining like a unhappy dog, she reluctantly handed the medal over.","UP":"Whining like a unhappy dog, she reluctantly handed the medal over.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L0488","readerRefs":{"WH":["umi8_7-L0227"],"MG":["umi8_7-L0488"],"UP":["umi8_7-L0488"]}}],"sourceReading":"Kanon warns that the other people have prepared difficult questions.","alternative":"The other still have requires others or a noun. The later a unhappy dog likewise requires an, with no matching marked child grammar in the Japanese.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-006","kind":"WH","description":"Walking back through the corridor becomes having reached the kitchen","categories":["linguistic.tense_aspect","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[237,237],"MG":[237,237],"UP":[237,237]},"japanese":"紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。","japanesePC":"紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。","japanesePS3":"紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。","WH":"Shannon and Kanon had returned to the kitchen with the serving cart.","MG":"Shannon and Kanon returned to the kitchen with the serving cart.","UP":"Shannon and Kanon had returned to the kitchen with the serving cart.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L0237","readerRefs":{"WH":["umi8_7-L0237"],"MG":["umi8_7-L0237"],"UP":["umi8_7-L0237"]}}],"sourceReading":"Shannon and Kanon are returning to the kitchen while pushing a serving cart; the next sentence places them out in the corridor.","alternative":"Had returned could loosely summarize the destination-bound journey, but ordinarily says it is already completed. The continuing corridor setting recovers their actual position.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-007","kind":"WH","description":"Shannon’s overdue obligation becomes an attributed wish shared by both","categories":["linguistic.overinterpretation","character.viewpoint_attribution"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[291,291],"MG":[291,291],"UP":[291,291]},"japanese":"「私たちは、もっと早くに決着をつけるべきだった。","japanesePC":"「私たちは、もっと早くに決着をつけるべきだった。なのに、こうしてゲームが終わる最後の瞬間までこうして、それを先送りにしてる。」","japanesePS3":"「私たちは、もっと早くに決着をつけるべきだった。","WH":"\"We both wished we'd settled this much sooner.  And yet, we've put it off until the last moment, just before the game is going to end.\"","MG":"\"We both wish we'd settled this much sooner.","UP":"\"We both wished we'd settled this much sooner.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L0291","readerRefs":{"WH":["umi8_7-L0291"],"MG":["umi8_7-L0291"],"UP":["umi8_7-L0291"]}}],"sourceReading":"Shannon says they should have settled matters earlier and have postponed the settlement until the game’s last moment.","alternative":"Should have carries regret, making wished a plausible emotional paraphrase, but we both wished explicitly attributes a prior desire to both characters rather than stating Shannon’s judgment about what they ought to have done. Kanon subsequently agrees to settle it, limiting the impact.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-008","kind":"WH","description":"Eva’s insistence that the puzzle is a trick acquires the opposite polarity","categories":["linguistic.logical_relation","character.voice_state"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[454,454],"MG":[454,454],"UP":[454,454]},"japanese":"「これ、トンチとかなぞなぞよね？！","japanesePC":"「これ、トンチとかなぞなぞよね？！　絶対まともに考えて解けないわよね？！」","japanesePS3":"「これ、トンチとかなぞなぞよね？！","WH":"\"This isn't a cheap trick or a riddle, right?  There's no way you can solve this straightforwardly, right?!\"","MG":"\"This isn't a cheap trick or a riddle, right?","UP":"\"This is a cheap trick or a riddle, right?","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_7-L0454","readerRefs":{"WH":["umi8_7-L0454"],"MG":["umi8_7-L0454"],"UP":["umi8_7-L0454"]}}],"sourceReading":"Eva asks for confirmation that this is a trick or riddle and cannot be solved by straightforward reasoning.","alternative":"Negative English questions can seek reassurance, but this isn’t a cheap trick, right? seeks confirmation of the opposite first proposition, conflicting with her next assertion that straightforward solution is impossible.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-009","kind":"WH","description":"Twelve years closing Ange’s ears becomes Ange actively covering them","categories":["linguistic.wrong_subject","character.agency_responsibility","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[530,530],"MG":[530,530],"UP":[530,530]},"japanese":"それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。","japanesePC":"「そうだね。あの子は、幸せのカケラを拾うのが、すごい下手なの。それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。......このゲーム、戦人が思ってるよりも、縁寿には難しいかもしれない。」","japanesePS3":"それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。","WH":"\"That's right.  That kid is really bad at finding Fragments of happiness.  Even though we tried to teach her how, she's been covering her ears for 12 full years.  ......This game might be much harder for Ange than Battler thinks.\"","MG":"Even though we tried to teach her how, she's been covering her ears for 12 full years.","UP":"We can try to teach her how, but twelve years of time have sealed her ears up tight.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_7-L0528","readerRefs":{"WH":["umi8_7-L0528"],"MG":["umi8_7-L0528"],"UP":["umi8_7-L0528"]}}],"sourceReading":"The twelve years of lived days have closed Ange’s ears to attempts to teach her to find happiness.","alternative":"Covering her ears could metaphorically convey being unreceptive, and the broader scene includes her refusal to believe. But English makes her the agent of a sustained twelve-year action where this sentence makes her experiences the cause of her inability to listen.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-010","kind":"WH","description":"Battler’s former similar difficulty becomes Battler’s precedent for believing","categories":["linguistic.mistranslation","character.knowledge_boundary","mystery.mystery_character_link"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[544,544],"MG":[544,544],"UP":[544,544]},"japanese":"かつての戦人も、そうだったではないか」","japanesePC":"「信じよ。かつての戦人も、そうだったではないか。」","japanesePS3":"かつての戦人も、そうだったではないか」","WH":"\"Let us believe.  Just as Battler did once, in the past.\"","MG":"Just as Battler did once, in the past.\"","UP":"Battler used to be much the same.\"","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_7-L0543","readerRefs":{"WH":["umi8_7-L0543"],"MG":["umi8_7-L0543"],"UP":["umi8_7-L0543"]}}],"sourceReading":"After Maria says Ange cannot use magic on herself, Beato urges faith and points out that Battler too was once in that same condition. She then explains that self-directed magic is hardest and later says even Battler came to understand magic.","alternative":"Just as Battler did attaches most naturally to let us believe in English, so it attributes a former act of belief instead of recalling his analogous difficulty. The following account of his eventual understanding partly restores the trajectory.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-011","kind":"WH","description":"Kyrie’s injunction to remember kindness received is reduced to advice","categories":["linguistic.omission","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[698,698],"MG":[698,698],"UP":[698,698]},"japanese":"その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね」","japanesePC":"「いい、縁寿。人生には、これからもたくさんの問題が訪れるわ。......今は絵羽伯母さんが助けてくれるから、頼ってもいい。でもね、人生の問題のほとんどは、あなた一人で解かなくちゃならないの。その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね。」","japanesePS3":"その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね」","WH":"\"Listen up, Ange.  Life will lead you through countless puzzles.  ......Eva oba-san is here to help you now, so it's okay to rely on her.  However, you have to solve most problems in life by yourself.  When that happens, you must remember the advice you've gotten from those who have helped you in the past.\"","MG":"When that happens, you must remember the advice you've gotten from those who have helped you in the past.\"","UP":"When that happens, you must remember the advice you've gotten from those who have helped you in the past.\"","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L0694","readerRefs":{"WH":["umi8_7-L0694"],"MG":["umi8_7-L0694"],"UP":["umi8_7-L0694"]}}],"sourceReading":"Kyrie tells Ange to remember both the advice and the kindness or debt of gratitude, 助言や恩, of those who previously helped her, when she must solve life’s problems alone.","alternative":"Those who have helped you retains the fact of assistance, but remembering advice alone removes the separate obligation to remember their kindness and what she owes them. Her immediately entrusting Ange to Eva makes that relational distinction relevant.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-012","kind":"WH","description":"Asumu’s unexpected perceptiveness becomes lack of generosity","categories":["linguistic.mistranslation","character.voice_state","character.knowledge_boundary","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[770,770],"MG":[770,770],"UP":[770,770]},"japanese":"………あいつはおっとりしてるように見えて、案外鋭かったからな。","japanesePC":"「............だから俺は、お前たち３人に謝らなきゃいけない。......明日夢には、血の繋がらない赤ん坊を押し付けた。.........あいつはおっとりしてるように見えて、案外鋭かったからな。......ひょっとしたら、気付いてたかもしれない。...でも、自分を母と慕う戦人を、最後まで愛情たっぷりに育ててくれたよ。」","japanesePS3":"………あいつはおっとりしてるように見えて、案外鋭かったからな。","WH":"\".........That's why...I should be apologizing to all three of you.  ......I forced Asumu to raise a kid that wasn't hers.  ......That woman wasn't anywhere near as generous and accepting as she looked.  ......There's a chance she figured it out.  ...However, she raised Battler, who loved her as a mother, with all the affection she had.\"","MG":"...That woman wasn't anywhere near as generous and accepting as she looked.","UP":".........That woman may have looked easygoing, but she was surprisingly sharp.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_7-L0768","readerRefs":{"WH":["umi8_7-L0768"],"MG":["umi8_7-L0768"],"UP":["umi8_7-L0768"]}}],"sourceReading":"Rudolf says Asumu seemed easygoing but was unexpectedly sharp or perceptive, so she might have noticed the switched baby; despite that possibility she lovingly raised Battler.","alternative":"Easygoing overlaps with accepting, but 案外鋭かった describes acuity, not a deficit of generosity. English invents that deficit and removes the explicit reason Rudolf thinks she may have noticed. Her possible discovery and loving upbringing remain stated.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-013","kind":"WH","description":"Remembered earlier straightforward-answer tricks become a present possibility","categories":["linguistic.undertranslation","linguistic.tense_aspect"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[883,883],"MG":[883,883],"UP":[883,883]},"japanese":"と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。","japanesePC":"と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。","japanesePS3":"と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。","WH":"Or, that itself might be the trick, and the obvious answer could be the right one.","MG":"Or, that itself might be the trick, and the obvious answer could be the right one.","UP":"Or, that itself might be the trick, and the obvious answer could be the right one.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L0883","readerRefs":{"WH":["umi8_7-L0883"],"MG":["umi8_7-L0883"],"UP":["umi8_7-L0883"]}}],"sourceReading":"Ange recalls that there have already been quite a few tricks where the apparently too-obvious straightforward answer was actually correct.","alternative":"Or that itself might be the trick conveys the possibility she is considering, but loses the explicit grounding in earlier encountered puzzles and their frequency. The following source and English both express uncertainty about this particular puzzle.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-014","kind":"WH","description":"Eva’s explicit praise for refusing gambling becomes an added nod","categories":["linguistic.omission","linguistic.addition","character.relationship_power"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[927,927],"MG":[927,927],"UP":[927,927]},"japanese":"そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった…。","japanesePC":"そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった...。","japanesePS3":"そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった…。","WH":"Eva oba-san nodded and patted my head encouragingly...","MG":"Aunt Eva nodded and patted my head encouragingly...","UP":"Auntie Eva nodded and patted my head encouragingly...","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L0925","readerRefs":{"WH":["umi8_7-L0925"],"MG":["umi8_7-L0925"],"UP":["umi8_7-L0925"]}}],"sourceReading":"Eva pats Ange’s head and praises her as admirable after Ange resolves not to gamble without understanding probability.","alternative":"Encouragingly preserves approval broadly, but the explicit praise is gone and nodded supplies an action not stated in Japanese. The affectionate head pat remains.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-015","kind":"WH","description":"George momentarily changes Jessica’s address from chan to san","categories":["linguistic.name_address","world.terminology_recurrence"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[956,956],"MG":[956,956],"UP":[956,956]},"japanese":"「同じことが、今、朱志香ちゃんによって行なわれたんだよ。","japanesePC":"「同じことが、今、朱志香ちゃんによって行なわれたんだよ。朱志香ちゃんは、君が選ばなかった２箱の中から、ハズレを１つ間引いたんだ。ということは、君が選ばなかった方の当たる確率も、その分、上がったということになるんじゃないかな...？」","japanesePS3":"「同じことが、今、朱志香ちゃんによって行なわれたんだよ。","WH":"\"Just now, Jessica-san did the same thing.  Jessica-chan removed one of the two boxes you didn't choose.  In other words, the odds that the remaining box you didn't choose was the winner went up a bit, right...?\"","MG":"\"Just now, Jessica-san did the same thing.","UP":"\"Just now, Jessica‐chan did the same thing.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_7-L0956","readerRefs":{"WH":["umi8_7-L0956"],"MG":["umi8_7-L0956"],"UP":["umi8_7-L0956"]}}],"sourceReading":"George addresses Jessica consistently as Jessica-chan in both references within the same source turn.","alternative":"San can be respectful casual variation, but nothing in the source marks a change; English immediately returns to chan within that same turn. This is an isolated inconsistency rather than evidence of a changed relationship.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-016","kind":"WH","description":"Information producing unwanted outcomes becomes information producing bad things","categories":["linguistic.word_choice","character.viewpoint_attribution"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1026,1026],"MG":[1026,1026],"UP":[1026,1026]},"japanese":"……でも恐らく、それらのほとんどは、君の望まないものに変化するだろう」","japanesePC":"「これから未来。様々な情報が、君の手の中のケーキに干渉する。.........それらを知ることで、君のケーキの中身は様々なものに変化するかもしれない。それは時に望むもの。......でも恐らく、それらのほとんどは、君の望まないものに変化するだろう。」","japanesePS3":"……でも恐らく、それらのほとんどは、君の望まないものに変化するだろう」","WH":"\"In the future, various bits of information will affect the slice of cake in your hands.  ......By learning about those, the insides of your slice might change.  Sometimes, they'll change into things you want.  ......But, most likely, almost all of the changes will be into bad things.\"","MG":"...But, most likely, almost all of the changes will be bad ones.\"","UP":"......But, most likely, almost all of the changes will be into bad things.\"","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L1022","readerRefs":{"WH":["umi8_7-L1022"],"MG":["umi8_7-L1022"],"UP":["umi8_7-L1022"]}}],"sourceReading":"George says most information-driven changes will probably produce things Ange does not want, 君の望まないもの, contrasting them with things she wants.","alternative":"Bad things could colloquially mean bad from Ange’s perspective. But English replaces the explicitly personal criterion with an unqualified value judgment, weakening the balanced want/do-not-want distinction in this warning about guarding her own truth.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-017","kind":"WH","description":"Permission to remember Kinzo as a despot becomes an instruction","categories":["linguistic.logical_relation","character.relationship_power","character.voice_state"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1094,1094],"MG":[1094,1094],"UP":[1094,1094]},"japanese":"傲慢なる暴君と記憶してくれてもよい。","japanesePC":"「さらばだ、我が孫よ。.........お祖父ちゃんは、１２年ぶりに遊べて、嬉しかったぞ。......私のことを何も覚えていなくてもよい。傲慢なる暴君と記憶してくれてもよい。......だがたまには、目に入れても痛くないほどに可愛がっていたことも、思い出しておくれ。」","japanesePS3":"傲慢なる暴君と記憶してくれてもよい。","WH":"\"So long, my granddaughter.  ......I was so pleased to have this chance to play with you again after 12 years.  ......It matters not if you forget everything about me.  Remember me as an arrogant despot.  ......But, every now and then, try and remember how much I adored you.\"","MG":"Remember me as an arrogant despot.","UP":"Remember me as an arrogant despot.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L1091","readerRefs":{"WH":["umi8_7-L1091"],"MG":["umi8_7-L1091"],"UP":["umi8_7-L1091"]}}],"sourceReading":"Kinzo accepts even being remembered as an arrogant tyrant, 傲慢なる暴君と記憶してくれてもよい, while asking that Ange occasionally recall his affection too.","alternative":"Remember me as can sound concessive beside matters not and but, but it is explicitly imperative and removes the source even-if permission that accommodates her existing negative memory.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-018","kind":"WH","description":"Kyrie addresses her sister-in-law as Ange’s aunt","categories":["linguistic.name_address","character.relationship_power","world.world_fact"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1128,1128],"MG":[1128,1128],"UP":[1128,1128]},"japanese":"「……絵羽姉さん。","japanesePC":"「......絵羽姉さん。うちの娘のことを、よろしくね。......素直じゃない子だし、わがままで短気なところもある。きっと迷惑ばかり掛けるだろうけれど......。」","japanesePS3":"「……絵羽姉さん。","WH":"\"......Eva oba-san.  Take care of our daughter.  ......She's not honest with herself, and she'll often be selfish and short-tempered.  She might be a pain all the time, but......\"","MG":"\"...Eva nee-san,","UP":"\"......Eva nee‐san.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi8_7-L1128","readerRefs":{"WH":["umi8_7-L1128"],"MG":["umi8_7-L1128"],"UP":["umi8_7-L1128"]}}],"sourceReading":"Kyrie addresses Eva as Eva nee-san, the elder-sister-in-law address used in this family, while entrusting her own daughter to Eva.","alternative":"Adults can adopt a child’s family labels when speaking to a child, but this turn is directly addressed to Eva and Japanese explicitly uses nee-san. The English imports Ange’s oba-san label into Kyrie’s own address.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-019","kind":"WH","description":"Jessica’s rejection of searching for externally hidden happiness loses the search distinction","categories":["linguistic.undertranslation","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1157,1157],"MG":[1157,1157],"UP":[1157,1157]},"japanese":"それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。","japanesePC":"「縁寿......。忘れるんじゃないぜ。自分も、幸せも、運命も。作るのは自分なんだ。自分だけが決められる。それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。......それを、忘れるんじゃないぜ。」","japanesePS3":"それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。","WH":"\"Ange......  Don't forget.  Your self, your happiness, your fate.  You're the one who creates all of these things.  Only you can choose.  Those aren't things that someone else can give you, and they aren't things that someone else can hide from you.  ......Remember.\"","MG":"No one else can give you them, and no one else can hide them from you.","UP":"Those aren't things that someone else can give you, and they aren't things that someone else can hide from you.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L1152","readerRefs":{"WH":["umi8_7-L1152"],"MG":["umi8_7-L1152"],"UP":["umi8_7-L1152"]}}],"sourceReading":"Self, happiness and fate are made by oneself; they are neither gifts from others nor things hidden by others that one must search for, 誰かに隠されて探すものでもない.","alternative":"Cannot hide from you preserves opposition to external control, but drops the defining search-for-something-already-hidden conception and instead says others cannot conceal these things. The opening self-creation assertion limits the damage.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-020","kind":"WH","description":"Kanon’s tale already conveying a message becomes future help in understanding","categories":["linguistic.tense_aspect","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1161,1161],"MG":[1161,1161],"UP":[1161,1161]},"japanese":"「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています」","japanesePC":"「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています。」","japanesePS3":"「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています」","WH":"\"I'm certain the tale of the two of us will help Ange-sama understand.\"","MG":"\"I'm certain the tale of the two of us will help Ange-sama understand.\"","UP":"\"I'm certain the tale of the two of us will help Ange‐sama understand.\"","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L1161","readerRefs":{"WH":["umi8_7-L1161"],"MG":["umi8_7-L1161"],"UP":["umi8_7-L1161"]}}],"sourceReading":"Kanon asserts that his and Jessica’s story certainly conveys that message to Ange, 伝えています.","alternative":"Will help understand is a plausible expectation about the story’s eventual reception, but the source predicates present conveyance and does not claim that Ange presently understands; English replaces that distinction with anticipated assistance. The earlier certainty that the message reached her partly preserves confidence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-021","kind":"WH","description":"Enduring grief for Ange’s sake becomes overcoming grief after rejection","categories":["linguistic.undertranslation","linguistic.addition","character.motivation_emotion","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1216,1216],"MG":[1216,1216],"UP":[1216,1216]},"japanese":"そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった」","japanesePC":"「......悲しい運命により、二人が傷つけ合う未来があったことを、俺たちは知ってる。......それは縁寿にとっても悲しいことだし、......絵羽伯母さんにとっても悲しいことだった。.........お前に心を開けと頼むのも酷な話だった。そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった。」","japanesePS3":"そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった」","WH":"\"......We know that a tragic fate will lead to a future where the two of you hurt each other.  ......It's a sad thing for Ange......and just as sad for Eva oba-san.  ......It would've been cruel to ask you to open your heart to her.  Likewise, it would've been cruel to ask Eva oba-san to keep on overcoming her sadness after being rejected.\"","MG":"Likewise, it would've been cruel to ask Aunt Eva to keep on overcoming her sadness after being rejected.\"","UP":"And it wasn't fair on Auntie Eva that she was asked to endure her own sadness for your sake.\"","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_7-L1213","readerRefs":{"WH":["umi8_7-L1213"],"MG":["umi8_7-L1213"],"UP":["umi8_7-L1213"]}}],"sourceReading":"Battler says it was cruel to ask Eva, even so, to endure her own grief for Ange’s sake, それでもなお縁寿のために自分の悲しみに堪えて.","alternative":"After being rejected is compatible with the broader story and that clause’s even-so context. But it substitutes an inferred trigger for the explicit beneficiary Ange and changes endurance into overcoming. Both versions recognize Eva’s grief and the cruelty of the demand.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-022","kind":"WH","description":"Two-medal memory-foam pillow becomes a generic soft cushion","categories":["linguistic.undertranslation","world.world_fact"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1277,1277],"MG":[1277,1277],"UP":[1277,1277]},"japanese":"そして枕元に置かれたのは、金蔵からの贈り物の、片翼の紋章の低反発まくら。","japanesePC":"mov $Free3,\"片翼の紋章の低反発まくら\"","japanesePS3":"そして枕元に置かれたのは、金蔵からの贈り物の、片翼の紋章の低反発まくら。","WH":"a 'soft cushion' with the mark of the One-winged Eagle","MG":"And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest.","UP":"And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi8_7-L1277","readerRefs":{"WH":["umi8_7-L1277","umi8_7-L1293"],"MG":["umi8_7-L1277"],"UP":["umi8_7-L1277"]}}],"sourceReading":"The two-medal gift is a low-rebound or memory-foam pillow bearing the One-winged crest.","alternative":"Cushion may be pillow-like, and soft preserves comfort, but removes the specific low-rebound material and pillow function. The inactive comfy-chair alternative is excluded.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-023","kind":"WH","description":"Kinzo’s portrait photograph becomes a pin-up poster","categories":["linguistic.mistranslation","world.edition_or_medium"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1282,1282],"MG":[1282,1282],"UP":[1282,1282]},"japanese":"そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。","japanesePC":"mov $Free3,\"金蔵のブロマイド写真\"","japanesePS3":"そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。","WH":"a Kinzo pin-up poster","MG":"And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.","UP":"And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi8_7-L1282","readerRefs":{"WH":["umi8_7-L1282","umi8_7-L1293"],"MG":["umi8_7-L1282"],"UP":["umi8_7-L1282"]}}],"sourceReading":"The seven-medal gift is a bromide portrait photograph of Kinzo.","alternative":"The translator comment calls the choice intentional, and the amusing celebrity-portrait framing permits a humorous pin-up reading, but poster changes the physical medium and scale. Intent does not establish source equivalence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-024","kind":"WH","description":"Rain enclosing the emptied parlor becomes servants closing its door","categories":["linguistic.imagery_rhythm_recurrence","linguistic.addition"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1300,1300],"MG":[1300,1300],"UP":[1300,1300]},"japanese":"使用人たちが去った後の客間を、静かな雨の音が閉ざす。","japanesePC":"使用人たちが去った後の客間を、静かな雨の音が閉ざす。","japanesePS3":"使用人たちが去った後の客間を、静かな雨の音が閉ざす。","WH":"The servants left and closed the parlor door.","MG":"The servants left and closed the parlor door.","UP":"The servants left and closed the parlor door.","note":"Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_7-L1300","readerRefs":{"WH":["umi8_7-L1300"],"MG":["umi8_7-L1300"],"UP":["umi8_7-L1300"]}}],"sourceReading":"After the servants leave, the quiet sound of rain closes around the parlor and softly envelops sleeping Ange.","alternative":"Door closing is plausible and subsequently explicitly confirmed by Shannon, so it is not a historical or spatial contradiction. But this line replaces the rain’s enclosing image with that physical action; the next English sentence retains the enveloping sound only around Ange.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH06-025","kind":"WH","description":"WH narrows the tawashi scrubbing-brush prize into a toilet brush.","categories":["linguistic.addition"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1275,1275],"MG":[1275,1275],"UP":[1275,1275]},"japanese":"そして枕元に置かれたのは、金蔵からの贈り物の、タワシ。","japanesePC":"","japanesePS3":"そして枕元に置かれたのは、金蔵からの贈り物の、タワシ。","WH":"a toilet brush","MG":"And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush.","UP":"And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush.","note":"The prose prize is a generic scrubbing/scouring brush; the original WH variable inserts toilet-specific use. Both paired comparators restore scrubbing brush. Strongest alternative: The brush could be used on a toilet, but no source qualifier selects that subtype. This is a prose object-name finding, not a UI or variable-runtime finding.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi8_7-L1275","readerRefs":{"WH":["umi8_7-L1275","umi8_7-L1293"],"MG":["umi8_7-L1275"],"UP":["umi8_7-L1275"]}}],"sourceReading":"The prose prize is a generic scrubbing/scouring brush; the original WH variable inserts toilet-specific use. Both paired comparators restore scrubbing brush.","alternative":"The brush could be used on a toilet, but no source qualifier selects that subtype. This is a prose object-name finding, not a UI or variable-runtime finding.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP08-CH07-1201-1302-001","kind":"additional","description":"Both releases add a signature to Kinzo’s photograph gift","categories":["linguistic.addition"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi8_7","episode":8,"rows":{"JP":[1282,1282],"MG":[1282,1282],"UP":[1282,1282]},"japanese":"そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。","japanesePC":"","japanesePS3":"そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。","WH":"","MG":"And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.","UP":"And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.","note":"","dispositions":{"MG":"defect","UP":"defect"},"readerRef":"umi8_7-L1282","readerRefs":{"WH":[],"MG":["umi8_7-L1282"],"UP":["umi8_7-L1282"]}}],"sourceReading":"ブロマイド写真 is a celebrity photograph; PC188436 specifies no signature, and originalWH188438 adds a poster medium but no signature. Both new witnesses call it signed.","alternative":"Celebrity photographs may be autographed, but a signature is not entailed by the source noun.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP08-CH06-001",
+      "kind": "WH",
+      "description": "Incorrect article in Ange’s request for an easy puzzle",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              20,
+              20
+            ],
+            "MG": [
+              20,
+              20
+            ],
+            "UP": [
+              20,
+              20
+            ]
+          },
+          "japanese": "「挑発しないでー。",
+          "japanesePC": "「挑発しないでー。簡単なのがいいー！」",
+          "japanesePS3": "「挑発しないでー。",
+          "WH": "\"Don't provoke him!  I want a easy one!\"",
+          "MG": "\"Don't provoke him!",
+          "UP": "\"Don't provoke him!",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L0020",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0020"
+            ],
+            "MG": [
+              "umi8_7-L0020"
+            ],
+            "UP": [
+              "umi8_7-L0020"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「挑発しないでー。簡単なのがいいー！」",
+              "translation": "\"Don't provoke him! I want a easy one!\" "
+            },
+            "UP": {
+              "japanese": "「挑発しないでー。簡単なのがいいー！」",
+              "translation": "\"Don't provoke him! I want an easy one!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0020"
+            ],
+            "MG": [
+              "umi8_7-L0020"
+            ],
+            "UP": [
+              "umi8_7-L0020"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange asks for an easy question.",
+      "alternative": "The child speaks casually, but a easy is an English article error without a corresponding marked grammatical feature in Japanese.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-002",
+      "kind": "WH",
+      "description": "Odd nonround prize amounts become amounts that differ",
+      "categories": [
+        "linguistic.word_choice",
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              25,
+              25
+            ],
+            "MG": [
+              25,
+              25
+            ],
+            "UP": [
+              25,
+              25
+            ]
+          },
+          "japanese": "「もらえる賞金の枚数が半端で、何か変」",
+          "japanesePC": "「もらえる賞金の枚数が半端で、何か変。」",
+          "japanesePS3": "「もらえる賞金の枚数が半端で、何か変」",
+          "WH": "\"The number of coins are really different, and kind of weird.\"",
+          "MG": "\"The number of coins are really different, and kind of weird.\"",
+          "UP": "\"The numbers of coins are really different, and kind of weird.\"",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi8_7-L0025",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0025",
+              "umi8_7-quiz-10"
+            ],
+            "MG": [
+              "umi8_7-L0025"
+            ],
+            "UP": [
+              "umi8_7-L0025"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「もらえる賞金の枚数が半端で、何か変」",
+              "translation": "\"The number of coins are really different, and kind of weird.\" "
+            },
+            "UP": {
+              "japanese": "「もらえる賞金の枚数が半端で、何か変」",
+              "translation": "\"The numbers of coins are really different, and kind of weird.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0025",
+              "umi8_7-quiz-10"
+            ],
+            "MG": [
+              "umi8_7-L0025"
+            ],
+            "UP": [
+              "umi8_7-L0025"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "半端 describes the awkward, nonround coin amounts, which Ange finds strange.",
+      "alternative": "Really different could suggest unusual amounts, but ordinarily compares the amounts with one another; their being different is expected for different prizes. Number also incorrectly takes are. The unchanged numeric values preserve access to the clue.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-003",
+      "kind": "WH",
+      "description": "Ange’s limited roman-letter knowledge and lack of English disappear",
+      "categories": [
+        "linguistic.omission",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              121,
+              121
+            ],
+            "MG": [
+              121,
+              121
+            ],
+            "UP": [
+              121,
+              121
+            ]
+          },
+          "japanese": "「うふふふふふ。",
+          "japanesePC": "「......縁寿、ローマ字は何となくわかるけど、英語はわかんない。」\n「ローマ字がわかれば充分ですよ。英語はわからなくて大丈夫です。絵羽さまと協力すれば、きっと解けますよ。」",
+          "japanesePS3": "「うふふふふふ。",
+          "WH": "\"Heheheheheheheh.  Do you get it?\"\n\"Aren't there any more hints?\"",
+          "MG": "\"Heheheheheheheh.",
+          "UP": "\"Heheheheheheheh.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "source_edition_changed_not_applicable",
+            "UP": "source_edition_changed_not_applicable"
+          },
+          "readerRef": "umi8_7-L0121",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP08-07-V003",
+              "PC-CANDIDATE-EP08-07-V004",
+              "umi8_7-L0121",
+              "umi8_7-L0123"
+            ],
+            "MG": [
+              "umi8_7-L0121"
+            ],
+            "UP": [
+              "umi8_7-L0121"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うふふふふふ。わかりますでしょうか」",
+              "translation": "\"Heheheheheheheh. Do you get it?\" "
+            },
+            "UP": {
+              "japanese": "「うふふふふふ。わかりますでしょうか」",
+              "translation": "\"Heheheheheheheh. Do you get it?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP08-07-V003",
+              "PC-CANDIDATE-EP08-07-V004",
+              "umi8_7-L0121",
+              "umi8_7-L0123"
+            ],
+            "MG": [
+              "umi8_7-L0121"
+            ],
+            "UP": [
+              "umi8_7-L0121"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange explicitly understands romaji only vaguely and does not understand English. Shannon assures her that romaji suffices, English is unnecessary, and cooperation with Eva will let her solve the puzzle. Both turns have no English counterpart.",
+      "alternative": "The adaptation requires English taste words and changes initial letters to second letters, so removing the assurance avoids contradicting the adapted mechanism. That explains the editorial choice but does not preserve the original explicit boundary on the six-year-old’s knowledge. Eva still assists her, limiting the change.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-004",
+      "kind": "WH",
+      "description": "Eva’s answer confirmation acquires a joke about Rudolf permitting coffee",
+      "categories": [
+        "linguistic.addition",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              198,
+              198
+            ],
+            "MG": [
+              198,
+              198
+            ],
+            "UP": [
+              198,
+              198
+            ]
+          },
+          "japanese": "「そういうこと！",
+          "japanesePC": "「そういうこと！　酸っぱいをローマ字に直した頭文字は、Ｓ！　レモネードの答えはＳね！」",
+          "japanesePS3": "「そういうこと！",
+          "WH": "\"Exactly!  And the second letter of bitter is...\nWait, your dad lets you drink coffee?\"",
+          "MG": "\"Exactly!",
+          "UP": "\"Exactly!",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L0198",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0198"
+            ],
+            "MG": [
+              "umi8_7-L0198"
+            ],
+            "UP": [
+              "umi8_7-L0198"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そういうこと！　酸っぱいをローマ字に直した頭文字は、Ｓ！　レモネードの答えはＳね！」",
+              "translation": "\"Exactly! And the second letter of \"sour\" is... \"O\"! So the answer for lemonade is \"O\"!\" "
+            },
+            "UP": {
+              "japanese": "「そういうこと！　酸っぱいをローマ字に直した頭文字は、Ｓ！　レモネードの答えはＳね！」",
+              "translation": "\"Exactly! And the second letter of \"sour\" is... \"O\"! So the answer for lemonade is \"O\"!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0198"
+            ],
+            "MG": [
+              "umi8_7-L0198"
+            ],
+            "UP": [
+              "umi8_7-L0198"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva confirms the sour/romaji-S answer. Under the revised English mechanism this corresponds to explicitly confirming bitter/I.",
+      "alternative": "Changing the tested food from lemonade to coffee is part of a working adaptation, but the question about her father allowing coffee is an additional parental-permission joke, not required by the spelling mechanism. Ange’s answer names a taste and need not establish habitual coffee drinking.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-005",
+      "kind": "WH",
+      "description": "Further minor grammar errors in farewell and medal narration",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              227,
+              227
+            ],
+            "MG": [
+              227,
+              227
+            ],
+            "UP": [
+              227,
+              227
+            ]
+          },
+          "japanese": "「他の方も、相当難しい問題を用意されているようです。",
+          "japanesePC": "「他の方も、相当難しい問題を用意されているようです。どうかお気をつけて。」",
+          "japanesePS3": "「他の方も、相当難しい問題を用意されているようです。",
+          "WH": "\"It seems the other still have some brain-twisters waiting for you.  Please be careful.\"",
+          "MG": "\"It seems the others still have some brain-twisters waiting for you.",
+          "UP": "\"It seems the others still have some brain‐twisters waiting for you.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi8_7-L0227",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0227"
+            ],
+            "MG": [
+              "umi8_7-L0227"
+            ],
+            "UP": [
+              "umi8_7-L0227"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「他の方も、相当難しい問題を用意されているようです。どうかお気をつけて」",
+              "translation": "\"It seems the others still have some brain-twisters waiting for you. Please be careful.\" "
+            },
+            "UP": {
+              "japanese": "「他の方も、相当難しい問題を用意されているようです。どうかお気をつけて」",
+              "translation": "\"It seems the others still have some brain‐twisters waiting for you. Please be careful.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0227"
+            ],
+            "MG": [
+              "umi8_7-L0227"
+            ],
+            "UP": [
+              "umi8_7-L0227"
+            ]
+          }
+        },
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              488,
+              488
+            ],
+            "MG": [
+              488,
+              488
+            ],
+            "UP": [
+              488,
+              488
+            ]
+          },
+          "japanese": "不機嫌な犬のように唸りながら、渋々とメダルを差し出す。",
+          "japanesePC": "「他の方も、相当難しい問題を用意されているようです。どうかお気をつけて。」",
+          "japanesePS3": "不機嫌な犬のように唸りながら、渋々とメダルを差し出す。",
+          "WH": "\"It seems the other still have some brain-twisters waiting for you.  Please be careful.\"",
+          "MG": "Whining like a unhappy dog, she reluctantly handed the medal over.",
+          "UP": "Whining like a unhappy dog, she reluctantly handed the medal over.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L0488",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0227"
+            ],
+            "MG": [
+              "umi8_7-L0488"
+            ],
+            "UP": [
+              "umi8_7-L0488"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "不機嫌な犬のように唸りながら、渋々とメダルを差し出す。それを引ったくり、私も犬のように大はしゃぎで喜ぶ。そんな私の後ろで微笑む真里亞お姉ちゃんの顔は、……お姉ちゃんと呼ぶに相応しい、朗らかなものだった。",
+              "translation": "Whining like a unhappy dog, she reluctantly handed the medal over. I grabbed it and started jumping around like a happy dog. As Maria onee-chan smiled at me from behind, ...her face was bright, just like a big sister's. "
+            },
+            "UP": {
+              "japanese": "不機嫌な犬のように唸りながら、渋々とメダルを差し出す。それを引ったくり、私も犬のように大はしゃぎで喜ぶ。そんな私の後ろで微笑む真里亞お姉ちゃんの顔は、……お姉ちゃんと呼ぶに相応しい、朗らかなものだった。",
+              "translation": "Whining like a unhappy dog, she reluctantly handed the medal over. I grabbed it, and started jumping around like a happy dog. As Maria onee‐chan smiled at me from behind, ......her face was bright, just like a big sister's."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0227"
+            ],
+            "MG": [
+              "umi8_7-L0488"
+            ],
+            "UP": [
+              "umi8_7-L0488"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kanon warns that the other people have prepared difficult questions.",
+      "alternative": "The other still have requires others or a noun. The later a unhappy dog likewise requires an, with no matching marked child grammar in the Japanese.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-006",
+      "kind": "WH",
+      "description": "Walking back through the corridor becomes having reached the kitchen",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              237,
+              237
+            ],
+            "MG": [
+              237,
+              237
+            ],
+            "UP": [
+              237,
+              237
+            ]
+          },
+          "japanese": "紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。",
+          "japanesePC": "紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。",
+          "japanesePS3": "紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。",
+          "WH": "Shannon and Kanon had returned to the kitchen with the serving cart.",
+          "MG": "Shannon and Kanon returned to the kitchen with the serving cart.",
+          "UP": "Shannon and Kanon had returned to the kitchen with the serving cart.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L0237",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0237"
+            ],
+            "MG": [
+              "umi8_7-L0237"
+            ],
+            "UP": [
+              "umi8_7-L0237"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。ホールの中は、あれだけ賑やかで楽しい空気に包まれていたが、こうして廊下に出ると、やはり今夜は雨で、風がとても強かったことを思い出させられる。",
+              "translation": "Shannon and Kanon returned to the kitchen with the serving cart. The dining hall was filled with such an exciting and fun atmosphere, but out here in the corridor, one was reminded of the fierce winds and the rain. "
+            },
+            "UP": {
+              "japanese": "紗音と嘉音は、配膳台車を押しながら厨房へ戻っていた。ホールの中は、あれだけ賑やかで楽しい空気に包まれていたが、こうして廊下に出ると、やはり今夜は雨で、風がとても強かったことを思い出させられる。",
+              "translation": "Shannon and Kanon had returned to the kitchen with the serving cart. The dining hall was filled with such an exciting and fun atmosphere, but out here in the corridor, one was reminded of the fierce winds and the rain."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0237"
+            ],
+            "MG": [
+              "umi8_7-L0237"
+            ],
+            "UP": [
+              "umi8_7-L0237"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Shannon and Kanon are returning to the kitchen while pushing a serving cart; the next sentence places them out in the corridor.",
+      "alternative": "Had returned could loosely summarize the destination-bound journey, but ordinarily says it is already completed. The continuing corridor setting recovers their actual position.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-007",
+      "kind": "WH",
+      "description": "Shannon’s overdue obligation becomes an attributed wish shared by both",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              291,
+              291
+            ],
+            "MG": [
+              291,
+              291
+            ],
+            "UP": [
+              291,
+              291
+            ]
+          },
+          "japanese": "「私たちは、もっと早くに決着をつけるべきだった。",
+          "japanesePC": "「私たちは、もっと早くに決着をつけるべきだった。なのに、こうしてゲームが終わる最後の瞬間までこうして、それを先送りにしてる。」",
+          "japanesePS3": "「私たちは、もっと早くに決着をつけるべきだった。",
+          "WH": "\"We both wished we'd settled this much sooner.  And yet, we've put it off until the last moment, just before the game is going to end.\"",
+          "MG": "\"We both wish we'd settled this much sooner.",
+          "UP": "\"We both wished we'd settled this much sooner.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L0291",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0291"
+            ],
+            "MG": [
+              "umi8_7-L0291"
+            ],
+            "UP": [
+              "umi8_7-L0291"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私たちは、もっと早くに決着をつけるべきだった。なのに、こうしてゲームが終わる最後の瞬間まで、それを先送りにしてる」",
+              "translation": "\"We both wish we'd settled this much sooner. And yet, we've put it off until the last moment, just before the game is going to end.\" "
+            },
+            "UP": {
+              "japanese": "「私たちは、もっと早くに決着をつけるべきだった。なのに、こうしてゲームが終わる最後の瞬間まで、それを先送りにしてる」",
+              "translation": "\"We both wished we'd settled this much sooner. And yet, we've put it off until the last moment, just before the game is going to end.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0291"
+            ],
+            "MG": [
+              "umi8_7-L0291"
+            ],
+            "UP": [
+              "umi8_7-L0291"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Shannon says they should have settled matters earlier and have postponed the settlement until the game’s last moment.",
+      "alternative": "Should have carries regret, making wished a plausible emotional paraphrase, but we both wished explicitly attributes a prior desire to both characters rather than stating Shannon’s judgment about what they ought to have done. Kanon subsequently agrees to settle it, limiting the impact.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-008",
+      "kind": "WH",
+      "description": "Eva’s insistence that the puzzle is a trick acquires the opposite polarity",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              454,
+              454
+            ],
+            "MG": [
+              454,
+              454
+            ],
+            "UP": [
+              454,
+              454
+            ]
+          },
+          "japanese": "「これ、トンチとかなぞなぞよね？！",
+          "japanesePC": "「これ、トンチとかなぞなぞよね？！　絶対まともに考えて解けないわよね？！」",
+          "japanesePS3": "「これ、トンチとかなぞなぞよね？！",
+          "WH": "\"This isn't a cheap trick or a riddle, right?  There's no way you can solve this straightforwardly, right?!\"",
+          "MG": "\"This isn't a cheap trick or a riddle, right?",
+          "UP": "\"This is a cheap trick or a riddle, right?",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L0454",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0454"
+            ],
+            "MG": [
+              "umi8_7-L0454"
+            ],
+            "UP": [
+              "umi8_7-L0454"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「これ、トンチとかなぞなぞよね？！　絶対まともに考えて解けないわよね？！」",
+              "translation": "\"This isn't a cheap trick or a riddle, right? There's no way you can solve this straightforwardly, right?!\" "
+            },
+            "UP": {
+              "japanese": "「これ、トンチとかなぞなぞよね？！　絶対まともに考えて解けないわよね？！」",
+              "translation": "\"This is a cheap trick or a riddle, right? There's no way you can solve this straightforwardly!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0454"
+            ],
+            "MG": [
+              "umi8_7-L0454"
+            ],
+            "UP": [
+              "umi8_7-L0454"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva asks for confirmation that this is a trick or riddle and cannot be solved by straightforward reasoning.",
+      "alternative": "Negative English questions can seek reassurance, but this isn’t a cheap trick, right? seeks confirmation of the opposite first proposition, conflicting with her next assertion that straightforward solution is impossible.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-009",
+      "kind": "WH",
+      "description": "Twelve years closing Ange’s ears becomes Ange actively covering them",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              530,
+              530
+            ],
+            "MG": [
+              530,
+              530
+            ],
+            "UP": [
+              530,
+              530
+            ]
+          },
+          "japanese": "それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。",
+          "japanesePC": "「そうだね。あの子は、幸せのカケラを拾うのが、すごい下手なの。それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。......このゲーム、戦人が思ってるよりも、縁寿には難しいかもしれない。」",
+          "japanesePS3": "それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。",
+          "WH": "\"That's right.  That kid is really bad at finding Fragments of happiness.  Even though we tried to teach her how, she's been covering her ears for 12 full years.  ......This game might be much harder for Ange than Battler thinks.\"",
+          "MG": "Even though we tried to teach her how, she's been covering her ears for 12 full years.",
+          "UP": "We can try to teach her how, but twelve years of time have sealed her ears up tight.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L0528",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0528"
+            ],
+            "MG": [
+              "umi8_7-L0528"
+            ],
+            "UP": [
+              "umi8_7-L0528"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうだね。あの子は、幸せのカケラを拾うのが、すごい下手なの。それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。……このゲーム、戦人が思ってるよりも、縁寿には難しいかもしれない」",
+              "translation": "\"That's right. That kid is really bad at finding Fragments of happiness. Even though we tried to teach her how, she's been covering her ears for 12 full years. ...This game might be much harder for Ange than Battler thinks.\" "
+            },
+            "UP": {
+              "japanese": "「そうだね。あの子は、幸せのカケラを拾うのが、すごい下手なの。それを教えようにも、１２年間の日々が、あの子の耳を塞いでしまった。……このゲーム、戦人が思ってるよりも、縁寿には難しいかもしれない」",
+              "translation": "\"That's right. That kid is really bad at finding fragments of happiness. We can try to teach her how, but twelve years of time have sealed her ears up tight. ......This game might be much harder for Ange than Battler thinks.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0528"
+            ],
+            "MG": [
+              "umi8_7-L0528"
+            ],
+            "UP": [
+              "umi8_7-L0528"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The twelve years of lived days have closed Ange’s ears to attempts to teach her to find happiness.",
+      "alternative": "Covering her ears could metaphorically convey being unreceptive, and the broader scene includes her refusal to believe. But English makes her the agent of a sustained twelve-year action where this sentence makes her experiences the cause of her inability to listen.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-010",
+      "kind": "WH",
+      "description": "Battler’s former similar difficulty becomes Battler’s precedent for believing",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary",
+        "mystery.mystery_character_link"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              544,
+              544
+            ],
+            "MG": [
+              544,
+              544
+            ],
+            "UP": [
+              544,
+              544
+            ]
+          },
+          "japanese": "かつての戦人も、そうだったではないか」",
+          "japanesePC": "「信じよ。かつての戦人も、そうだったではないか。」",
+          "japanesePS3": "かつての戦人も、そうだったではないか」",
+          "WH": "\"Let us believe.  Just as Battler did once, in the past.\"",
+          "MG": "Just as Battler did once, in the past.\"",
+          "UP": "Battler used to be much the same.\"",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L0543",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0543"
+            ],
+            "MG": [
+              "umi8_7-L0543"
+            ],
+            "UP": [
+              "umi8_7-L0543"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「信じよ。かつての戦人も、そうだったではないか」",
+              "translation": "\"Let us believe. Just as Battler did once, in the past.\" "
+            },
+            "UP": {
+              "japanese": "「信じよ。かつての戦人も、そうだったではないか」",
+              "translation": "\"Let us believe. Battler used to be much the same.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0543"
+            ],
+            "MG": [
+              "umi8_7-L0543"
+            ],
+            "UP": [
+              "umi8_7-L0543"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After Maria says Ange cannot use magic on herself, Beato urges faith and points out that Battler too was once in that same condition. She then explains that self-directed magic is hardest and later says even Battler came to understand magic.",
+      "alternative": "Just as Battler did attaches most naturally to let us believe in English, so it attributes a former act of belief instead of recalling his analogous difficulty. The following account of his eventual understanding partly restores the trajectory.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-011",
+      "kind": "WH",
+      "description": "Kyrie’s injunction to remember kindness received is reduced to advice",
+      "categories": [
+        "linguistic.omission",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              698,
+              698
+            ],
+            "MG": [
+              698,
+              698
+            ],
+            "UP": [
+              698,
+              698
+            ]
+          },
+          "japanese": "その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね」",
+          "japanesePC": "「いい、縁寿。人生には、これからもたくさんの問題が訪れるわ。......今は絵羽伯母さんが助けてくれるから、頼ってもいい。でもね、人生の問題のほとんどは、あなた一人で解かなくちゃならないの。その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね。」",
+          "japanesePS3": "その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね」",
+          "WH": "\"Listen up, Ange.  Life will lead you through countless puzzles.  ......Eva oba-san is here to help you now, so it's okay to rely on her.  However, you have to solve most problems in life by yourself.  When that happens, you must remember the advice you've gotten from those who have helped you in the past.\"",
+          "MG": "When that happens, you must remember the advice you've gotten from those who have helped you in the past.\"",
+          "UP": "When that happens, you must remember the advice you've gotten from those who have helped you in the past.\"",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L0694",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0694"
+            ],
+            "MG": [
+              "umi8_7-L0694"
+            ],
+            "UP": [
+              "umi8_7-L0694"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いい、縁寿。人生には、これからもたくさんの問題が訪れるわ。……今は絵羽伯母さんが助けてくれるから、頼ってもいい。でもね、人生の問題のほとんどは、あなた一人で解かなくちゃならないの。その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね」",
+              "translation": "\"Listen up, Ange. Life will lead you through countless puzzles. ...Aunt Eva is here to help you now, so it's okay to rely on her. However, you'll have to solve most problems in life by yourself. When that happens, you must remember the advice you've gotten from those who have helped you in the past.\" "
+            },
+            "UP": {
+              "japanese": "「いい、縁寿。人生には、これからもたくさんの問題が訪れるわ。……今は絵羽伯母さんが助けてくれるから、頼ってもいい。でもね、人生の問題のほとんどは、あなた一人で解かなくちゃならないの。その時に、それまで助けてくれた人の助言や恩を、必ず思い出すようにしてね」",
+              "translation": "\"Listen up, Ange. Life will lead you through countless puzzles. ......Auntie Eva is here to help you now, so it's okay to rely on her. However, you have to solve most problems in life by yourself. When that happens, you must remember the advice you've gotten from those who have helped you in the past.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0694"
+            ],
+            "MG": [
+              "umi8_7-L0694"
+            ],
+            "UP": [
+              "umi8_7-L0694"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kyrie tells Ange to remember both the advice and the kindness or debt of gratitude, 助言や恩, of those who previously helped her, when she must solve life’s problems alone.",
+      "alternative": "Those who have helped you retains the fact of assistance, but remembering advice alone removes the separate obligation to remember their kindness and what she owes them. Her immediately entrusting Ange to Eva makes that relational distinction relevant.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-012",
+      "kind": "WH",
+      "description": "Asumu’s unexpected perceptiveness becomes lack of generosity",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "character.knowledge_boundary",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              770,
+              770
+            ],
+            "MG": [
+              770,
+              770
+            ],
+            "UP": [
+              770,
+              770
+            ]
+          },
+          "japanese": "………あいつはおっとりしてるように見えて、案外鋭かったからな。",
+          "japanesePC": "「............だから俺は、お前たち３人に謝らなきゃいけない。......明日夢には、血の繋がらない赤ん坊を押し付けた。.........あいつはおっとりしてるように見えて、案外鋭かったからな。......ひょっとしたら、気付いてたかもしれない。...でも、自分を母と慕う戦人を、最後まで愛情たっぷりに育ててくれたよ。」",
+          "japanesePS3": "………あいつはおっとりしてるように見えて、案外鋭かったからな。",
+          "WH": "\".........That's why...I should be apologizing to all three of you.  ......I forced Asumu to raise a kid that wasn't hers.  ......That woman wasn't anywhere near as generous and accepting as she looked.  ......There's a chance she figured it out.  ...However, she raised Battler, who loved her as a mother, with all the affection she had.\"",
+          "MG": "...That woman wasn't anywhere near as generous and accepting as she looked.",
+          "UP": ".........That woman may have looked easygoing, but she was surprisingly sharp.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L0768",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0768"
+            ],
+            "MG": [
+              "umi8_7-L0768"
+            ],
+            "UP": [
+              "umi8_7-L0768"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………だから俺は、お前たち３人に謝らなきゃいけない。……明日夢には、血の繋がらない赤ん坊を押し付けた。………あいつはおっとりしてるように見えて、案外鋭かったからな。……ひょっとしたら、気付いてたかもしれない。…でも、自分を母と慕う戦人を、最後まで愛情たっぷりに育ててくれたよ」",
+              "translation": "\"......That's why...I should be apologizing to all three of you. ...I forced Asumu to raise a kid that wasn't hers. ...That woman wasn't anywhere near as generous and accepting as she looked. ...There's a chance she figured it out. ...However, she raised Battler, who loved her as a mother, with all the affection she had.\" "
+            },
+            "UP": {
+              "japanese": "「…………だから俺は、お前たち３人に謝らなきゃいけない。……明日夢には、血の繋がらない赤ん坊を押し付けた。………あいつはおっとりしてるように見えて、案外鋭かったからな。……ひょっとしたら、気付いてたかもしれない。…でも、自分を母と慕う戦人を、最後まで愛情たっぷりに育ててくれたよ」",
+              "translation": "\"............That's why...I should be apologizing to all three of you. ......I forced Asumu to raise a kid that wasn't hers. .........That woman may have looked easygoing, but she was surprisingly sharp. ......There's a chance she figured it out. ...However, she raised Battler, who loved her as a mother, with all the affection she had.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0768"
+            ],
+            "MG": [
+              "umi8_7-L0768"
+            ],
+            "UP": [
+              "umi8_7-L0768"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rudolf says Asumu seemed easygoing but was unexpectedly sharp or perceptive, so she might have noticed the switched baby; despite that possibility she lovingly raised Battler.",
+      "alternative": "Easygoing overlaps with accepting, but 案外鋭かった describes acuity, not a deficit of generosity. English invents that deficit and removes the explicit reason Rudolf thinks she may have noticed. Her possible discovery and loving upbringing remain stated.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-013",
+      "kind": "WH",
+      "description": "Remembered earlier straightforward-answer tricks become a present possibility",
+      "categories": [
+        "linguistic.undertranslation",
+        "linguistic.tense_aspect"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              883,
+              883
+            ],
+            "MG": [
+              883,
+              883
+            ],
+            "UP": [
+              883,
+              883
+            ]
+          },
+          "japanese": "と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。",
+          "japanesePC": "と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。",
+          "japanesePS3": "と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。",
+          "WH": "Or, that itself might be the trick, and the obvious answer could be the right one.",
+          "MG": "Or, that itself might be the trick, and the obvious answer could be the right one.",
+          "UP": "Or, that itself might be the trick, and the obvious answer could be the right one.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L0883",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0883"
+            ],
+            "MG": [
+              "umi8_7-L0883"
+            ],
+            "UP": [
+              "umi8_7-L0883"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。考え過ぎたり、疑い過ぎたりすると足元をすくわれるタイプの、典型的な問題かもしれない。",
+              "translation": "Or, that itself might be the trick, and the obvious answer could be the right one. It might be one of those classic puzzles that trips you up by making you think too hard and suspiciously. "
+            },
+            "UP": {
+              "japanese": "と、思わせて実は率直な答えが正解、という引っ掛けもずいぶんあった。考え過ぎたり、疑い過ぎたりすると足元をすくわれるタイプの、典型的な問題かもしれない。",
+              "translation": "Or, that itself might be the trick, and the obvious answer could be the right one. It might be one of those classic puzzles that trips you up by making you think too hard and suspiciously."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0883"
+            ],
+            "MG": [
+              "umi8_7-L0883"
+            ],
+            "UP": [
+              "umi8_7-L0883"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange recalls that there have already been quite a few tricks where the apparently too-obvious straightforward answer was actually correct.",
+      "alternative": "Or that itself might be the trick conveys the possibility she is considering, but loses the explicit grounding in earlier encountered puzzles and their frequency. The following source and English both express uncertainty about this particular puzzle.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-014",
+      "kind": "WH",
+      "description": "Eva’s explicit praise for refusing gambling becomes an added nod",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.addition",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              927,
+              927
+            ],
+            "MG": [
+              927,
+              927
+            ],
+            "UP": [
+              927,
+              927
+            ]
+          },
+          "japanese": "そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった…。",
+          "japanesePC": "そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった...。",
+          "japanesePS3": "そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった…。",
+          "WH": "Eva oba-san nodded and patted my head encouragingly...",
+          "MG": "Aunt Eva nodded and patted my head encouragingly...",
+          "UP": "Auntie Eva nodded and patted my head encouragingly...",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L0925",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0925"
+            ],
+            "MG": [
+              "umi8_7-L0925"
+            ],
+            "UP": [
+              "umi8_7-L0925"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "確率がちゃんとわからない人はギャンブルをしちゃいけないってお兄ちゃんが言ってたっけ。……私、賭け事は生涯、しないようにしよう…。そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった…。",
+              "translation": "Didn't Onii-chan once say that people who don't get probability should never go gambling? ...I guess I'll never gamble for the rest of my life... Aunt Eva nodded and patted my head encouragingly... "
+            },
+            "UP": {
+              "japanese": "確率がちゃんとわからない人はギャンブルをしちゃいけないってお兄ちゃんが言ってたっけ。……私、賭け事は生涯、しないようにしよう…。そんな私に、絵羽伯母さんは偉いと頭を撫でてくれるのだった…。",
+              "translation": "Didn't Onii‐chan once say that people who don't get probability should never go gambling? ......I guess I'll never gamble for the rest of my life... Auntie Eva nodded and patted my head encouragingly..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0925"
+            ],
+            "MG": [
+              "umi8_7-L0925"
+            ],
+            "UP": [
+              "umi8_7-L0925"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva pats Ange’s head and praises her as admirable after Ange resolves not to gamble without understanding probability.",
+      "alternative": "Encouragingly preserves approval broadly, but the explicit praise is gone and nodded supplies an action not stated in Japanese. The affectionate head pat remains.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-015",
+      "kind": "WH",
+      "description": "George momentarily changes Jessica’s address from chan to san",
+      "categories": [
+        "linguistic.name_address",
+        "world.terminology_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              956,
+              956
+            ],
+            "MG": [
+              956,
+              956
+            ],
+            "UP": [
+              956,
+              956
+            ]
+          },
+          "japanese": "「同じことが、今、朱志香ちゃんによって行なわれたんだよ。",
+          "japanesePC": "「同じことが、今、朱志香ちゃんによって行なわれたんだよ。朱志香ちゃんは、君が選ばなかった２箱の中から、ハズレを１つ間引いたんだ。ということは、君が選ばなかった方の当たる確率も、その分、上がったということになるんじゃないかな...？」",
+          "japanesePS3": "「同じことが、今、朱志香ちゃんによって行なわれたんだよ。",
+          "WH": "\"Just now, Jessica-san did the same thing.  Jessica-chan removed one of the two boxes you didn't choose.  In other words, the odds that the remaining box you didn't choose was the winner went up a bit, right...?\"",
+          "MG": "\"Just now, Jessica-san did the same thing.",
+          "UP": "\"Just now, Jessica‐chan did the same thing.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L0956",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L0956"
+            ],
+            "MG": [
+              "umi8_7-L0956"
+            ],
+            "UP": [
+              "umi8_7-L0956"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「同じことが、今、朱志香ちゃんによって行なわれたんだよ。朱志香ちゃんは、君が選ばなかった２箱の中から、ハズレを１つ間引いたんだ。ということは、君が選ばなかった方の当たる確率も、その分、上がったということになるんじゃないかな…？」",
+              "translation": "\"Just now, Jessica-san did the same thing. Jessica-chan removed one of the two boxes you didn't choose. In other words, the odds that the remaining box you didn't choose was the winner went up a bit, right...?\" "
+            },
+            "UP": {
+              "japanese": "「同じことが、今、朱志香ちゃんによって行なわれたんだよ。朱志香ちゃんは、君が選ばなかった２箱の中から、ハズレを１つ間引いたんだ。ということは、君が選ばなかった方の当たる確率も、その分、上がったということになるんじゃないかな…？」",
+              "translation": "\"Just now, Jessica‐chan did the same thing. Jessica‐chan took one losing box away from the pair of boxes you didn't choose. In other words, the odds of the winner being on the side you didn't choose went up a bit, right...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L0956"
+            ],
+            "MG": [
+              "umi8_7-L0956"
+            ],
+            "UP": [
+              "umi8_7-L0956"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George addresses Jessica consistently as Jessica-chan in both references within the same source turn.",
+      "alternative": "San can be respectful casual variation, but nothing in the source marks a change; English immediately returns to chan within that same turn. This is an isolated inconsistency rather than evidence of a changed relationship.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-016",
+      "kind": "WH",
+      "description": "Information producing unwanted outcomes becomes information producing bad things",
+      "categories": [
+        "linguistic.word_choice",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1026,
+              1026
+            ],
+            "MG": [
+              1026,
+              1026
+            ],
+            "UP": [
+              1026,
+              1026
+            ]
+          },
+          "japanese": "……でも恐らく、それらのほとんどは、君の望まないものに変化するだろう」",
+          "japanesePC": "「これから未来。様々な情報が、君の手の中のケーキに干渉する。.........それらを知ることで、君のケーキの中身は様々なものに変化するかもしれない。それは時に望むもの。......でも恐らく、それらのほとんどは、君の望まないものに変化するだろう。」",
+          "japanesePS3": "……でも恐らく、それらのほとんどは、君の望まないものに変化するだろう」",
+          "WH": "\"In the future, various bits of information will affect the slice of cake in your hands.  ......By learning about those, the insides of your slice might change.  Sometimes, they'll change into things you want.  ......But, most likely, almost all of the changes will be into bad things.\"",
+          "MG": "...But, most likely, almost all of the changes will be bad ones.\"",
+          "UP": "......But, most likely, almost all of the changes will be into bad things.\"",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L1022",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1022"
+            ],
+            "MG": [
+              "umi8_7-L1022"
+            ],
+            "UP": [
+              "umi8_7-L1022"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「これから未来。様々な情報が、君の手の中のケーキに干渉する。………それらを知ることで、君のケーキの中身は様々なものに変化するかもしれない。それは時に望むもの。……でも恐らく、それらのほとんどは、君の望まないものに変化するだろう」",
+              "translation": "\"In the future, various bits of information will affect the slice of cake in your hands. ...By learning about those, the insides of your slice might change. Sometimes, they'll change into things you want. ...But, most likely, almost all of the changes will be bad ones.\" "
+            },
+            "UP": {
+              "japanese": "「これから未来。様々な情報が、君の手の中のケーキに干渉する。………それらを知ることで、君のケーキの中身は様々なものに変化するかもしれない。それは時に望むもの。……でも恐らく、それらのほとんどは、君の望まないものに変化するだろう」",
+              "translation": "\"In the future, various bits of information will affect the slice of cake in your hands. ......By learning about those, the insides of your slice might change. Sometimes, they'll change into things you want. ......But, most likely, almost all of the changes will be into bad things.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1022"
+            ],
+            "MG": [
+              "umi8_7-L1022"
+            ],
+            "UP": [
+              "umi8_7-L1022"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George says most information-driven changes will probably produce things Ange does not want, 君の望まないもの, contrasting them with things she wants.",
+      "alternative": "Bad things could colloquially mean bad from Ange’s perspective. But English replaces the explicitly personal criterion with an unqualified value judgment, weakening the balanced want/do-not-want distinction in this warning about guarding her own truth.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-017",
+      "kind": "WH",
+      "description": "Permission to remember Kinzo as a despot becomes an instruction",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.relationship_power",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1094,
+              1094
+            ],
+            "MG": [
+              1094,
+              1094
+            ],
+            "UP": [
+              1094,
+              1094
+            ]
+          },
+          "japanese": "傲慢なる暴君と記憶してくれてもよい。",
+          "japanesePC": "「さらばだ、我が孫よ。.........お祖父ちゃんは、１２年ぶりに遊べて、嬉しかったぞ。......私のことを何も覚えていなくてもよい。傲慢なる暴君と記憶してくれてもよい。......だがたまには、目に入れても痛くないほどに可愛がっていたことも、思い出しておくれ。」",
+          "japanesePS3": "傲慢なる暴君と記憶してくれてもよい。",
+          "WH": "\"So long, my granddaughter.  ......I was so pleased to have this chance to play with you again after 12 years.  ......It matters not if you forget everything about me.  Remember me as an arrogant despot.  ......But, every now and then, try and remember how much I adored you.\"",
+          "MG": "Remember me as an arrogant despot.",
+          "UP": "Remember me as an arrogant despot.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L1091",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1091"
+            ],
+            "MG": [
+              "umi8_7-L1091"
+            ],
+            "UP": [
+              "umi8_7-L1091"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「さらばだ、我が孫よ。………お祖父ちゃんは、１２年ぶりに遊べて、嬉しかったぞ。……私のことを何も覚えていなくてもよい。傲慢なる暴君と記憶してくれてもよい。……だがたまには、目に入れても痛くないほどに可愛がっていたことも、思い出しておくれ」",
+              "translation": "\"So long, my granddaughter. ...I was so pleased to have this chance to play with you again after 12 years. ...It matters not if you forget everything about me. Remember me as an arrogant despot. ...But, every now and then, just try and remember how much I adored you.\" "
+            },
+            "UP": {
+              "japanese": "「さらばだ、我が孫よ。………お祖父ちゃんは、１２年ぶりに遊べて、嬉しかったぞ。……私のことを何も覚えていなくてもよい。傲慢なる暴君と記憶してくれてもよい。……だがたまには、目に入れても痛くないほどに可愛がっていたことも、思い出しておくれ」",
+              "translation": "\"So long, my granddaughter. .........I was so pleased to have this chance to play with you again after twelve years. ......It matters not if you forget everything about me. Remember me as an arrogant despot. ......But, every now and then, try to remember how much I adored you.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1091"
+            ],
+            "MG": [
+              "umi8_7-L1091"
+            ],
+            "UP": [
+              "umi8_7-L1091"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo accepts even being remembered as an arrogant tyrant, 傲慢なる暴君と記憶してくれてもよい, while asking that Ange occasionally recall his affection too.",
+      "alternative": "Remember me as can sound concessive beside matters not and but, but it is explicitly imperative and removes the source even-if permission that accommodates her existing negative memory.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-018",
+      "kind": "WH",
+      "description": "Kyrie addresses her sister-in-law as Ange’s aunt",
+      "categories": [
+        "linguistic.name_address",
+        "character.relationship_power",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1128,
+              1128
+            ],
+            "MG": [
+              1128,
+              1128
+            ],
+            "UP": [
+              1128,
+              1128
+            ]
+          },
+          "japanese": "「……絵羽姉さん。",
+          "japanesePC": "「......絵羽姉さん。うちの娘のことを、よろしくね。......素直じゃない子だし、わがままで短気なところもある。きっと迷惑ばかり掛けるだろうけれど......。」",
+          "japanesePS3": "「……絵羽姉さん。",
+          "WH": "\"......Eva oba-san.  Take care of our daughter.  ......She's not honest with herself, and she'll often be selfish and short-tempered.  She might be a pain all the time, but......\"",
+          "MG": "\"...Eva nee-san,",
+          "UP": "\"......Eva nee‐san.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L1128",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1128"
+            ],
+            "MG": [
+              "umi8_7-L1128"
+            ],
+            "UP": [
+              "umi8_7-L1128"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……絵羽姉さん。うちの娘のことを、よろしくね。……素直じゃない子だし、わがままで短気なところもある。きっと迷惑ばかり掛けるだろうけれど……」",
+              "translation": "\"...Eva nee-san, take care of our daughter. ...She's not honest with herself, and she'll often be selfish and short-tempered. She might be a pain all the time, but...\" "
+            },
+            "UP": {
+              "japanese": "「……絵羽姉さん。うちの娘のことを、よろしくね。……素直じゃない子だし、わがままで短気なところもある。きっと迷惑ばかり掛けるだろうけれど……」",
+              "translation": "\"......Eva nee‐san. Take care of our daughter. ......She's not honest with herself, and she'll often be selfish and short‐tempered. She might be a pain all the time, but......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1128"
+            ],
+            "MG": [
+              "umi8_7-L1128"
+            ],
+            "UP": [
+              "umi8_7-L1128"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kyrie addresses Eva as Eva nee-san, the elder-sister-in-law address used in this family, while entrusting her own daughter to Eva.",
+      "alternative": "Adults can adopt a child’s family labels when speaking to a child, but this turn is directly addressed to Eva and Japanese explicitly uses nee-san. The English imports Ange’s oba-san label into Kyrie’s own address.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-019",
+      "kind": "WH",
+      "description": "Jessica’s rejection of searching for externally hidden happiness loses the search distinction",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1157,
+              1157
+            ],
+            "MG": [
+              1157,
+              1157
+            ],
+            "UP": [
+              1157,
+              1157
+            ]
+          },
+          "japanese": "それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。",
+          "japanesePC": "「縁寿......。忘れるんじゃないぜ。自分も、幸せも、運命も。作るのは自分なんだ。自分だけが決められる。それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。......それを、忘れるんじゃないぜ。」",
+          "japanesePS3": "それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。",
+          "WH": "\"Ange......  Don't forget.  Your self, your happiness, your fate.  You're the one who creates all of these things.  Only you can choose.  Those aren't things that someone else can give you, and they aren't things that someone else can hide from you.  ......Remember.\"",
+          "MG": "No one else can give you them, and no one else can hide them from you.",
+          "UP": "Those aren't things that someone else can give you, and they aren't things that someone else can hide from you.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L1152",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1152"
+            ],
+            "MG": [
+              "umi8_7-L1152"
+            ],
+            "UP": [
+              "umi8_7-L1152"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「縁寿……。忘れるんじゃないぜ。自分も、幸せも、運命も。作るのは自分なんだ。自分だけが決められる。それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。……それを、忘れるんじゃないぜ」",
+              "translation": "\"Ange, ...don't forget. Your self, your happiness, your fate... These are all things you create for yourself. Only you can choose them. No one else can give you them, and no one else can hide them from you. ...Don't forget that.\" "
+            },
+            "UP": {
+              "japanese": "「縁寿……。忘れるんじゃないぜ。自分も、幸せも、運命も。作るのは自分なんだ。自分だけが決められる。それは誰かに与えられるものでも、そして誰かに隠されて探すものでもない。……それを、忘れるんじゃないぜ」",
+              "translation": "\"Ange...... Don't forget. Your self, your happiness, your fate. You're the one who creates all of these things. Only you can choose. Those aren't things that someone else can give you, and they aren't things that someone else can hide from you. ......Remember.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1152"
+            ],
+            "MG": [
+              "umi8_7-L1152"
+            ],
+            "UP": [
+              "umi8_7-L1152"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Self, happiness and fate are made by oneself; they are neither gifts from others nor things hidden by others that one must search for, 誰かに隠されて探すものでもない.",
+      "alternative": "Cannot hide from you preserves opposition to external control, but drops the defining search-for-something-already-hidden conception and instead says others cannot conceal these things. The opening self-creation assertion limits the damage.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-020",
+      "kind": "WH",
+      "description": "Kanon’s tale already conveying a message becomes future help in understanding",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1161,
+              1161
+            ],
+            "MG": [
+              1161,
+              1161
+            ],
+            "UP": [
+              1161,
+              1161
+            ]
+          },
+          "japanese": "「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています」",
+          "japanesePC": "「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています。」",
+          "japanesePS3": "「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています」",
+          "WH": "\"I'm certain the tale of the two of us will help Ange-sama understand.\"",
+          "MG": "\"I'm certain the tale of the two of us will help Ange-sama understand.\"",
+          "UP": "\"I'm certain the tale of the two of us will help Ange‐sama understand.\"",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L1161",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1161"
+            ],
+            "MG": [
+              "umi8_7-L1161"
+            ],
+            "UP": [
+              "umi8_7-L1161"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています」",
+              "translation": "\"I'm certain the tale of the two of us will help Ange-sama understand.\" "
+            },
+            "UP": {
+              "japanese": "「僕とお嬢様の物語は、絶対に縁寿さまにそれを伝えています」",
+              "translation": "\"I'm certain the tale of the two of us will help Ange‐sama understand.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1161"
+            ],
+            "MG": [
+              "umi8_7-L1161"
+            ],
+            "UP": [
+              "umi8_7-L1161"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kanon asserts that his and Jessica’s story certainly conveys that message to Ange, 伝えています.",
+      "alternative": "Will help understand is a plausible expectation about the story’s eventual reception, but the source predicates present conveyance and does not claim that Ange presently understands; English replaces that distinction with anticipated assistance. The earlier certainty that the message reached her partly preserves confidence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-021",
+      "kind": "WH",
+      "description": "Enduring grief for Ange’s sake becomes overcoming grief after rejection",
+      "categories": [
+        "linguistic.undertranslation",
+        "linguistic.addition",
+        "character.motivation_emotion",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1216,
+              1216
+            ],
+            "MG": [
+              1216,
+              1216
+            ],
+            "UP": [
+              1216,
+              1216
+            ]
+          },
+          "japanese": "そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった」",
+          "japanesePC": "「......悲しい運命により、二人が傷つけ合う未来があったことを、俺たちは知ってる。......それは縁寿にとっても悲しいことだし、......絵羽伯母さんにとっても悲しいことだった。.........お前に心を開けと頼むのも酷な話だった。そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった。」",
+          "japanesePS3": "そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった」",
+          "WH": "\"......We know that a tragic fate will lead to a future where the two of you hurt each other.  ......It's a sad thing for Ange......and just as sad for Eva oba-san.  ......It would've been cruel to ask you to open your heart to her.  Likewise, it would've been cruel to ask Eva oba-san to keep on overcoming her sadness after being rejected.\"",
+          "MG": "Likewise, it would've been cruel to ask Aunt Eva to keep on overcoming her sadness after being rejected.\"",
+          "UP": "And it wasn't fair on Auntie Eva that she was asked to endure her own sadness for your sake.\"",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L1213",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1213"
+            ],
+            "MG": [
+              "umi8_7-L1213"
+            ],
+            "UP": [
+              "umi8_7-L1213"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……悲しい運命により、二人が傷つけ合う未来があったことを、俺たちは知ってる。……それは縁寿にとっても悲しいことだし、……絵羽伯母さんにとっても悲しいことだった。………お前に心を開けと頼むのも酷な話だった。そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった」",
+              "translation": "\"...We know that a tragic fate leads to a future where you two hurt each other. ...It's a sad thing for Ange...and just as sad for Aunt Eva. ...It would've been cruel to ask you to open your heart to her. Likewise, it would've been cruel to ask Aunt Eva to keep on overcoming her sadness after being rejected.\" "
+            },
+            "UP": {
+              "japanese": "「……悲しい運命により、二人が傷つけ合う未来があったことを、俺たちは知ってる。……それは縁寿にとっても悲しいことだし、……絵羽伯母さんにとっても悲しいことだった。………お前に心を開けと頼むのも酷な話だった。そして、絵羽伯母さんに、それでもなお縁寿のために自分の悲しみに堪えて欲しいと頼むのも酷な話だった」",
+              "translation": "\"......We know that a tragic fate led to a future where the two of you hurt each other. ......It was a very sad thing for you......and just as sad for Auntie Eva. .........It wasn't fair on you that you were asked to open your heart to her. And it wasn't fair on Auntie Eva that she was asked to endure her own sadness for your sake.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1213"
+            ],
+            "MG": [
+              "umi8_7-L1213"
+            ],
+            "UP": [
+              "umi8_7-L1213"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler says it was cruel to ask Eva, even so, to endure her own grief for Ange’s sake, それでもなお縁寿のために自分の悲しみに堪えて.",
+      "alternative": "After being rejected is compatible with the broader story and that clause’s even-so context. But it substitutes an inferred trigger for the explicit beneficiary Ange and changes endurance into overcoming. Both versions recognize Eva’s grief and the cruelty of the demand.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-022",
+      "kind": "WH",
+      "description": "Two-medal memory-foam pillow becomes a generic soft cushion",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1277,
+              1277
+            ],
+            "MG": [
+              1277,
+              1277
+            ],
+            "UP": [
+              1277,
+              1277
+            ]
+          },
+          "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、片翼の紋章の低反発まくら。",
+          "japanesePC": "mov $Free3,\"片翼の紋章の低反発まくら\"",
+          "japanesePS3": "そして枕元に置かれたのは、金蔵からの贈り物の、片翼の紋章の低反発まくら。",
+          "WH": "a 'soft cushion' with the mark of the One-winged Eagle",
+          "MG": "And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest.",
+          "UP": "And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L1277",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1277",
+              "umi8_7-L1293"
+            ],
+            "MG": [
+              "umi8_7-L1277"
+            ],
+            "UP": [
+              "umi8_7-L1277"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、片翼の紋章の低反発まくら。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest. "
+            },
+            "UP": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、片翼の紋章の低反発まくら。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a memory foam pillow with the One-winged Crest."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1277",
+              "umi8_7-L1293"
+            ],
+            "MG": [
+              "umi8_7-L1277"
+            ],
+            "UP": [
+              "umi8_7-L1277"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The two-medal gift is a low-rebound or memory-foam pillow bearing the One-winged crest.",
+      "alternative": "Cushion may be pillow-like, and soft preserves comfort, but removes the specific low-rebound material and pillow function. The inactive comfy-chair alternative is excluded.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-023",
+      "kind": "WH",
+      "description": "Kinzo’s portrait photograph becomes a pin-up poster",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.edition_or_medium"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1282,
+              1282
+            ],
+            "MG": [
+              1282,
+              1282
+            ],
+            "UP": [
+              1282,
+              1282
+            ]
+          },
+          "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+          "japanesePC": "mov $Free3,\"金蔵のブロマイド写真\"",
+          "japanesePS3": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+          "WH": "a Kinzo pin-up poster",
+          "MG": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.",
+          "UP": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L1282",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1282",
+              "umi8_7-L1293"
+            ],
+            "MG": [
+              "umi8_7-L1282"
+            ],
+            "UP": [
+              "umi8_7-L1282"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself. "
+            },
+            "UP": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1282",
+              "umi8_7-L1293"
+            ],
+            "MG": [
+              "umi8_7-L1282"
+            ],
+            "UP": [
+              "umi8_7-L1282"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The seven-medal gift is a bromide portrait photograph of Kinzo.",
+      "alternative": "The translator comment calls the choice intentional, and the amusing celebrity-portrait framing permits a humorous pin-up reading, but poster changes the physical medium and scale. Intent does not establish source equivalence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-024",
+      "kind": "WH",
+      "description": "Rain enclosing the emptied parlor becomes servants closing its door",
+      "categories": [
+        "linguistic.imagery_rhythm_recurrence",
+        "linguistic.addition"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1300,
+              1300
+            ],
+            "MG": [
+              1300,
+              1300
+            ],
+            "UP": [
+              1300,
+              1300
+            ]
+          },
+          "japanese": "使用人たちが去った後の客間を、静かな雨の音が閉ざす。",
+          "japanesePC": "使用人たちが去った後の客間を、静かな雨の音が閉ざす。",
+          "japanesePS3": "使用人たちが去った後の客間を、静かな雨の音が閉ざす。",
+          "WH": "The servants left and closed the parlor door.",
+          "MG": "The servants left and closed the parlor door.",
+          "UP": "The servants left and closed the parlor door.",
+          "note": "Continuous independent source-first three-witness reading, canonical mapping WH-EP08-CH06 by actual Japanese. Parent verifies1282 signed-photo addition separately from canonical023 corrected medium. Canonical003 missing turns are absent from currentJP too;no comparator omission defect,source_edition_changed_not_applicable.005 farewell corrected at227 but article a unhappy dog488 remains separately linked within same parent family, no duplicate count. Taste puzzle uses functional second-letter English adaptation; sour/salty differences alone not automatic errors. Early120 lemonade/black-coffee inherited mismatch and952 positive almond knowledge,957 losing-box omission remain parent supplement candidates.692 cheek-rubbing held because instrument not explicit in English. No proven PC-only yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_7-L1300",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1300"
+            ],
+            "MG": [
+              "umi8_7-L1300"
+            ],
+            "UP": [
+              "umi8_7-L1300"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "使用人たちが去った後の客間を、静かな雨の音が閉ざす。\nすやすやと眠る縁寿を、静かに包み込む。きっと、楽しかった時間を、もう一度夢で思い返しているに違いなかった……。",
+              "translation": "The servants left and closed the parlor door. As Ange slept, she was wrapped up in the soft sound of the rain. Surely, she was reliving that fun evening once more in her dreams... "
+            },
+            "UP": {
+              "japanese": "使用人たちが去った後の客間を、静かな雨の音が閉ざす。\nすやすやと眠る縁寿を、静かに包み込む。きっと、楽しかった時間を、もう一度夢で思い返しているに違いなかった……。",
+              "translation": "The servants left and closed the parlor door.\nAs Ange slept, she was wrapped up in the soft sound of the rain. Surely, she was reliving that fun evening once more in her dreams......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1300"
+            ],
+            "MG": [
+              "umi8_7-L1300"
+            ],
+            "UP": [
+              "umi8_7-L1300"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After the servants leave, the quiet sound of rain closes around the parlor and softly envelops sleeping Ange.",
+      "alternative": "Door closing is plausible and subsequently explicitly confirmed by Shannon, so it is not a historical or spatial contradiction. But this line replaces the rain’s enclosing image with that physical action; the next English sentence retains the enveloping sound only around Ange.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH06-025",
+      "kind": "WH",
+      "description": "WH narrows the tawashi scrubbing-brush prize into a toilet brush.",
+      "categories": [
+        "linguistic.addition"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1275,
+              1275
+            ],
+            "MG": [
+              1275,
+              1275
+            ],
+            "UP": [
+              1275,
+              1275
+            ]
+          },
+          "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、タワシ。",
+          "japanesePC": "",
+          "japanesePS3": "そして枕元に置かれたのは、金蔵からの贈り物の、タワシ。",
+          "WH": "a toilet brush",
+          "MG": "And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush.",
+          "UP": "And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush.",
+          "note": "The prose prize is a generic scrubbing/scouring brush; the original WH variable inserts toilet-specific use. Both paired comparators restore scrubbing brush. Strongest alternative: The brush could be used on a toilet, but no source qualifier selects that subtype. This is a prose object-name finding, not a UI or variable-runtime finding.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_7-L1275",
+          "readerRefs": {
+            "WH": [
+              "umi8_7-L1275",
+              "umi8_7-L1293"
+            ],
+            "MG": [
+              "umi8_7-L1275"
+            ],
+            "UP": [
+              "umi8_7-L1275"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、タワシ。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush. "
+            },
+            "UP": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、タワシ。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a scrubbing brush."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_7-L1275",
+              "umi8_7-L1293"
+            ],
+            "MG": [
+              "umi8_7-L1275"
+            ],
+            "UP": [
+              "umi8_7-L1275"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The prose prize is a generic scrubbing/scouring brush; the original WH variable inserts toilet-specific use. Both paired comparators restore scrubbing brush.",
+      "alternative": "The brush could be used on a toilet, but no source qualifier selects that subtype. This is a prose object-name finding, not a UI or variable-runtime finding.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP08-CH07-1201-1302-001",
+      "kind": "additional",
+      "description": "Both releases add a signature to Kinzo’s photograph gift",
+      "categories": [
+        "linguistic.addition"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi8_7",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              1282,
+              1282
+            ],
+            "MG": [
+              1282,
+              1282
+            ],
+            "UP": [
+              1282,
+              1282
+            ]
+          },
+          "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+          "japanesePC": "",
+          "japanesePS3": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+          "WH": "",
+          "MG": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.",
+          "UP": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "defect"
+          },
+          "readerRef": "umi8_7-L1282",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_7-L1282"
+            ],
+            "UP": [
+              "umi8_7-L1282"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself. "
+            },
+            "UP": {
+              "japanese": "そして枕元に置かれたのは、金蔵からの贈り物の、金蔵のブロマイド写真。",
+              "translation": "And there, right by her pillow, was the gift from Kinzo, ......a signed celebrity photograph of Kinzo himself."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_7-L1282"
+            ],
+            "UP": [
+              "umi8_7-L1282"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ブロマイド写真 is a celebrity photograph; PC188436 specifies no signature, and originalWH188438 adds a poster medium but no signature. Both new witnesses call it signed.",
+      "alternative": "Celebrity photographs may be autographed, but a signature is not entailed by the source noun.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP08-CH06-001": {
+      "umi8_7-L0020": {
+        "WH": [
+          "a easy one"
+        ],
+        "MG": [
+          "a easy one"
+        ]
+      }
+    },
+    "WH-EP08-CH06-002": {
+      "umi8_7-L0025": {
+        "WH": [
+          "The number of coins are really different"
+        ],
+        "MG": [
+          "The number of coins are really different"
+        ],
+        "UP": [
+          "The numbers of coins are really different"
+        ]
+      },
+      "umi8_7-quiz-10": {
+        "WH": [
+          "The number of coins are really different"
+        ]
+      }
+    },
+    "WH-EP08-CH06-003": {
+      "PC-CANDIDATE-EP08-07-V003": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The two Japanese turns about Ange knowing romaji but not English and Shannon saying romaji suffices have no English counterpart here."
+        }
+      },
+      "PC-CANDIDATE-EP08-07-V004": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The two Japanese turns about Ange knowing romaji but not English and Shannon saying romaji suffices have no English counterpart here."
+        }
+      },
+      "umi8_7-L0123": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The two Japanese turns about Ange knowing romaji but not English and Shannon saying romaji suffices have no English counterpart here."
+        }
+      },
+      "umi8_7-L0121": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The two Japanese turns about Ange knowing romaji but not English and Shannon saying romaji suffices have no English counterpart here."
+        }
+      }
+    },
+    "WH-EP08-CH06-004": {
+      "umi8_7-L0198": {
+        "WH": [
+          "Wait, your dad lets you drink coffee?"
+        ]
+      }
+    },
+    "WH-EP08-CH06-005": {
+      "umi8_7-L0227": {
+        "WH": [
+          "the other still have"
+        ],
+        "MG": {
+          "kind": "anchor-mismatch",
+          "reason": "This witness corrects the singular other to others."
+        },
+        "UP": {
+          "kind": "anchor-mismatch",
+          "reason": "This witness corrects the singular other to others."
+        }
+      },
+      "umi8_7-L0488": {
+        "MG": [
+          "a unhappy dog"
+        ],
+        "UP": [
+          "a unhappy dog"
+        ],
+        "WH": [
+          "a unhappy dog"
+        ]
+      }
+    },
+    "WH-EP08-CH06-006": {
+      "umi8_7-L0237": {
+        "WH": [
+          "had returned to the kitchen"
+        ],
+        "UP": [
+          "had returned to the kitchen"
+        ],
+        "MG": [
+          "returned to the kitchen"
+        ]
+      }
+    },
+    "WH-EP08-CH06-007": {
+      "umi8_7-L0291": {
+        "WH": [
+          "We both wished we'd settled this much sooner"
+        ],
+        "MG": [
+          "We both wish we'd settled this much sooner"
+        ],
+        "UP": [
+          "We both wished we'd settled this much sooner"
+        ]
+      }
+    },
+    "WH-EP08-CH06-008": {
+      "umi8_7-L0454": {
+        "WH": [
+          "This isn't a cheap trick or a riddle"
+        ],
+        "MG": [
+          "This isn't a cheap trick or a riddle"
+        ]
+      }
+    },
+    "WH-EP08-CH06-009": {
+      "umi8_7-L0528": {
+        "WH": [
+          "she's been covering her ears for 12 full years"
+        ],
+        "MG": [
+          "she's been covering her ears for 12 full years"
+        ]
+      }
+    },
+    "WH-EP08-CH06-010": {
+      "umi8_7-L0543": {
+        "WH": [
+          "Just as Battler did once, in the past"
+        ],
+        "MG": [
+          "Just as Battler did once, in the past"
+        ]
+      }
+    },
+    "WH-EP08-CH06-011": {
+      "umi8_7-L0694": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The kindness or debt of gratitude received from past helpers is omitted; only their advice remains."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "The kindness or debt of gratitude received from past helpers is omitted; only their advice remains."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "The kindness or debt of gratitude received from past helpers is omitted; only their advice remains."
+        }
+      }
+    },
+    "WH-EP08-CH06-012": {
+      "umi8_7-L0768": {
+        "WH": [
+          "That woman wasn't anywhere near as generous and accepting as she looked"
+        ],
+        "MG": [
+          "That woman wasn't anywhere near as generous and accepting as she looked"
+        ]
+      }
+    },
+    "WH-EP08-CH06-013": {
+      "umi8_7-L0883": {
+        "WH": [
+          "that itself might be the trick, and the obvious answer could be the right one"
+        ],
+        "UP": [
+          "that itself might be the trick, and the obvious answer could be the right one"
+        ],
+        "MG": [
+          "that itself might be the trick, and the obvious answer could be the right one"
+        ]
+      }
+    },
+    "WH-EP08-CH06-014": {
+      "umi8_7-L0925": {
+        "WH": [
+          "nodded"
+        ],
+        "MG": [
+          "nodded"
+        ],
+        "UP": [
+          "nodded"
+        ]
+      }
+    },
+    "WH-EP08-CH06-015": {
+      "umi8_7-L0956": {
+        "WH": [
+          "Jessica-san"
+        ],
+        "MG": [
+          "Jessica-san"
+        ]
+      }
+    },
+    "WH-EP08-CH06-016": {
+      "umi8_7-L1022": {
+        "WH": [
+          "bad things"
+        ],
+        "MG": [
+          "bad ones"
+        ],
+        "UP": [
+          "bad things"
+        ]
+      }
+    },
+    "WH-EP08-CH06-017": {
+      "umi8_7-L1091": {
+        "WH": [
+          "Remember me as an arrogant despot"
+        ],
+        "MG": [
+          "Remember me as an arrogant despot"
+        ],
+        "UP": [
+          "Remember me as an arrogant despot"
+        ]
+      }
+    },
+    "WH-EP08-CH06-018": {
+      "umi8_7-L1128": {
+        "WH": [
+          "Eva oba-san"
+        ]
+      }
+    },
+    "WH-EP08-CH06-019": {
+      "umi8_7-L1152": {
+        "WH": [
+          "they aren't things that someone else can hide from you"
+        ],
+        "MG": [
+          "no one else can hide them from you"
+        ],
+        "UP": [
+          "they aren't things that someone else can hide from you"
+        ]
+      }
+    },
+    "WH-EP08-CH06-020": {
+      "umi8_7-L1161": {
+        "WH": [
+          "will help Ange-sama understand"
+        ],
+        "MG": [
+          "will help Ange-sama understand"
+        ],
+        "UP": [
+          "will help Ange‐sama understand"
+        ]
+      }
+    },
+    "WH-EP08-CH06-021": {
+      "umi8_7-L1213": {
+        "WH": [
+          "keep on overcoming her sadness after being rejected"
+        ],
+        "MG": [
+          "keep on overcoming her sadness after being rejected"
+        ]
+      }
+    },
+    "WH-EP08-CH06-022": {
+      "umi8_7-L1277": {
+        "WH": [
+          "soft cushion"
+        ]
+      },
+      "umi8_7-L1293": {
+        "WH": {
+          "kind": "anchor-mismatch",
+          "reason": "This subsequent cheek-holding narration does not name or describe the gift; its defective soft-cushion rendering is in unit 0."
+        }
+      }
+    },
+    "WH-EP08-CH06-023": {
+      "umi8_7-L1282": {
+        "WH": [
+          "pin-up poster"
+        ]
+      },
+      "umi8_7-L1293": {
+        "WH": {
+          "kind": "anchor-mismatch",
+          "reason": "This subsequent cheek-holding narration does not name or describe the gift; its defective pin-up-poster rendering is in unit 0."
+        }
+      }
+    },
+    "WH-EP08-CH06-024": {
+      "umi8_7-L1300": {
+        "WH": [
+          "and closed the parlor door"
+        ],
+        "MG": [
+          "and closed the parlor door"
+        ],
+        "UP": [
+          "and closed the parlor door"
+        ]
+      }
+    },
+    "WH-EP08-CH06-025": {
+      "umi8_7-L1275": {
+        "WH": [
+          "toilet brush"
+        ]
+      },
+      "umi8_7-L1293": {
+        "WH": {
+          "kind": "anchor-mismatch",
+          "reason": "This unit only describes Ange holding it; the defective toilet brush designation is in the preceding unit."
+        }
+      }
+    },
+    "PAIR-EP08-CH07-1201-1302-001": {
+      "umi8_7-L1282": {
+        "MG": [
+          "a signed celebrity photograph"
+        ],
+        "UP": [
+          "a signed celebrity photograph"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [
+    {
+      "id": "WH-EP08-CH06-005",
+      "edition": "WH",
+      "ref": "umi8_7-L0488"
+    }
+  ],
+  "phraseNoteCorrections": []
+}

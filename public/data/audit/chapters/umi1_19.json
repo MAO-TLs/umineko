@@ -1,1 +1,618 @@
-{"findings":[{"id":"WH-EP01-HIDDEN-001","kind":"WH","description":"褒めても何も出ぬ becomes what one would call empty praise.","categories":["linguistic.idiom_calque","character.relationship_power"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_19","episode":1,"rows":{"JP":[34,37],"MG":[34,37],"UP":[34,37]},"japanese":"「ご冗談を。\n……そなたから見れば、こんなのは瑣末な力。\n褒めても何も出ぬとはまさにこのこと」\n「……世辞は滞在費代わりに。","japanesePC":"「ご冗談を。……そなたから見れば、こんなのは瑣末な力。褒めても何も出ぬとはまさにこのこと。」","japanesePS3":"「ご冗談を。\n……そなたから見れば、こんなのは瑣末な力。\n褒めても何も出ぬとはまさにこのこと」\n「……世辞は滞在費代わりに。","WH":"\"Such jests.  ......From your point of view, mine is but a trifling power.  This is most certainly what one would call empty praise.\"","MG":"\"You jest.\n...From your point of view, mine is but a trifling power.\nThis is most certainly what one would call empty praise.\"\n\"...Call it flattery to make up for the cost of staying here.","UP":"\"Such jests.\n......From your point of view, mine is but a trifling power.\nThe phrase \"flattery will get you nowhere\" was made for this situation.\"\n\"......Call it payment for my stay here.","note":"MG empty praise loses no benefit for flattery; UP flattery will get you nowhere restores transactional idiom.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_19-L0034","readerRefs":{"WH":["umi1_19-L0034"],"MG":["umi1_19-L0034","umi1_19-L0037"],"UP":["umi1_19-L0034","umi1_19-L0037"]}}],"sourceReading":"Beatrice dismisses the compliment as flattery and says praising her will not get Bern anything. Bern immediately offers flattery in lieu of lodging payment.","alternative":"Empty praise suggests insincerity, which fits the teasing context, but drops the explicit refusal of material reward that grounds the lodging-payment response.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-HIDDEN-002","kind":"WH","description":"全ての目が、貴女の掌を出ない becomes you never let the dice fall from your hand.","categories":["linguistic.idiom_calque","mystery.argument_reconstruction","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_19","episode":1,"rows":{"JP":[52,57],"MG":[52,57],"UP":[52,57]},"japanese":"「……私は賽を振る時、はっきりと出したい目がある。\n貴女とは違う。\nでも貴女にとっては、全ての目が、貴女の掌を出ない」\n「そして、どの目であっても、貴女の期待を裏切らない。\nサイコロが何の目を見せようとも“必ず”貴女は満足する。\n………その意味において、貴女は私を遥かに凌駕する」","japanesePC":"「……私は賽を振る時、はっきりと出したい目がある。貴女とは違う。でも貴女にとっては、全ての目が、貴女の掌を出ない。そして、どの目であっても、貴女の期待を裏切らない。サイコロが何の目を見せようとも“必ず”貴女は満足する。………その意味において、貴女は私を遥かに凌駕する。","japanesePS3":"「……私は賽を振る時、はっきりと出したい目がある。\n貴女とは違う。\nでも貴女にとっては、全ての目が、貴女の掌を出ない」\n「そして、どの目であっても、貴女の期待を裏切らない。\nサイコロが何の目を見せようとも“必ず”貴女は満足する。\n………その意味において、貴女は私を遥かに凌駕する」","WH":"\"......When I roll the dice, I have a roll I clearly want to get.  Unlike you.  You, on the other hand, never let the dice fall from your hand.  So, whatever the roll might have been, you're never disappointed.  Whatever roll the dice show you, you are satisfied 'without fail'.  .........In that sense, you far surpass me.","MG":"\"...When I roll the dice, I have a roll I clearly want to get.\nUnlike you.\nYou, on the other hand, never let the dice fall from your hand.\nSo, whatever the roll might have been, you're never disappointed.\nWhatever roll the dice show you, you are satisfied \"without fail\".\n...In that sense, you far surpass me.\"","UP":"\"......When I roll the dice, I have a roll I clearly want to get.\nUnlike you.\nYou, on the other hand, anticipate all outcomes.\"\n\"And, whatever the roll might be, you're never disappointed.\nWhatever roll the dice show you, you are satisfied \"without fail\".\n.........In that sense, you far surpass me.\"","note":"MG literal dice never leaving hand is retained. UP anticipates all outcomes removes literal holding but substitutes foreknowledge for every outcome staying within her grasp; satisfaction follow-up survives.","dispositions":{"MG":"retained","UP":"partly_corrected"},"readerRef":"umi1_19-L0052","readerRefs":{"WH":["umi1_19-L0052","umi1_19-L0055"],"MG":["umi1_19-L0052","umi1_19-L0055"],"UP":["umi1_19-L0052","umi1_19-L0055"]}}],"sourceReading":"Every possible die outcome remains within Beatrice's grasp; none disappoints her, so she is invariably satisfied, unlike Bern wanting a particular outcome.","alternative":"Literal dice in hand supplies an image of control, but it also says they are never released, obscuring the source distinction between all outcomes and Bern's preferred outcome.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-HIDDEN-003","kind":"WH","description":"貴方が ... エールを送っても届かないのに似てる compares Bern empathy without assistance to the reader's familiar experience cheering at television. English You are much like someone ... turns the reader into the analogous ineffective spectator.","categories":["linguistic.wrong_subject","character.viewpoint_attribution","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_19","episode":1,"rows":{"JP":[100,102],"MG":[100,102],"UP":[100,102]},"japanese":"……勘違いしないでほしいのは、私は貴方の味方のつもりはないということ。\n貴方に感情移入はするけれど、貴方の手助けはしない。\n…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。","japanesePC":"…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。","japanesePS3":"……勘違いしないでほしいのは、私は貴方の味方のつもりはないということ。\n貴方に感情移入はするけれど、貴方の手助けはしない。\n…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。","WH":"...You're much like someone sitting in front of the television, yelling at the people on the other side even though your voice won't reach them.","MG":"...Don't get the wrong idea. I have no intention of becoming your ally.\nI do feel empathy for you, but I won't help you.\n...It's like I'm sitting in front of the television yelling at you on the other side, even though my voice won't reach you.","UP":"......Don't get the wrong idea—I have no intention of becoming your ally.\nI do feel empathy for you, but I won't help you.\n...It's like how someone sitting in front of a television cannot reach the characters on screen no matter how much they yell at them.","note":"MG correctly analogizes Bern herself to TV spectator; UP generic someone cannot reach screen characters preserves empathetic spectator relation without incorrectly assigning reader spectator status.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_19-L0100","readerRefs":{"WH":["umi1_19-L0100"],"MG":["umi1_19-L0100"],"UP":["umi1_19-L0100"]}}],"sourceReading":"Bern empathizes but does not help, like when you cheer for people on television yet cannot reach them; the television-viewer role illustrates Bern's own relation to the addressed person.","alternative":"The reader may also be a spectator outside the story, but the immediate Japanese antecedent is Bern's empathy/no-help relation, not an assertion that the reader's cheering is ineffective in this game.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-UMEBOSHI-TERMINOLOGY-001","kind":"WH","description":"WH consistently renders 梅干 as dried plums without identifying the salt-pickled ume preparation. This loses the distinctive salty/sour food in Bern’s tea preference and recurring food jokes, and readily suggests an ordinary dried fruit instead.","categories":["linguistic.undertranslation","world.culture_history","world.terminology_recurrence"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_19","episode":1,"rows":{"JP":[3,3],"MG":[3,3],"UP":[3,3]},"japanese":"「……梅干紅茶。","japanesePC":"「......紅茶に梅干を沈めてちょうだい。......まずい紅茶を飲みやすくするコツよ。」","japanesePS3":"「……梅干紅茶。","WH":"\"......Please add some dried plums to some black tea.  ......That's the trick to making terrible tea drinkable.\"","MG":"\"...Dried plum black tea.","UP":"\"......Dried plum tea.","note":"Same umeboshi/dried-plums terminology; one canonical family. Exact three-witness recurrence quoted in reconciliation.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_19-L0003","readerRefs":{"WH":[],"MG":["umi1_19-L0003"],"UP":["umi1_19-L0003"]}},{"chapter":"umi1_19","episode":1,"rows":{"JP":[4,4],"MG":[4,4],"UP":[4,4]},"japanese":"……梅干は１パック２００円のヤツよ」","japanesePC":"「......紅茶に梅干を沈めてちょうだい。......まずい紅茶を飲みやすくするコツよ。」","japanesePS3":"……梅干は１パック２００円のヤツよ」","WH":"\"......Please add some dried plums to some black tea.  ......That's the trick to making terrible tea drinkable.\"","MG":"...The kind that goes for 200 yen a pack.\"","UP":"......Those dried plums that go for 200 yen a pack.\"","note":"Same umeboshi/dried-plums terminology; one canonical family. Exact three-witness recurrence quoted in reconciliation.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_19-L0003","readerRefs":{"WH":[],"MG":["umi1_19-L0003"],"UP":["umi1_19-L0003"]}}],"sourceReading":"Umeboshi, or salted/pickled plums. MAFF explains the preparation as salt-pickling ume followed by drying: https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/tsukemono.html .","alternative":"Drying is part of preparation, so dried is not literally fabricated. However, the unqualified English term omits the defining pickling process and characteristic food identity. Count the recurring lexical loss once; the separate plum-pit action defect remains distinct.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-HIDDEN-PLUM-PRICE-001","kind":"additional","description":"Bern specifies plums costing 200 yen per pack as the tea ingredient. MG’s “The kind that goes for 200 yen a pack” attaches the price to the tea rather than explicitly to the plums. UP restores “Those dried plums that go for 200 yen a pack”.","categories":["linguistic.wrong_subject"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_19","episode":1,"rows":{"JP":[3,4],"MG":[3,4],"UP":[3,4]},"japanese":"「……梅干紅茶。\n……梅干は１パック２００円のヤツよ」","japanesePC":"","japanesePS3":"「……梅干紅茶。\n……梅干は１パック２００円のヤツよ」","WH":"","MG":"\"...Dried plum black tea.\n...The kind that goes for 200 yen a pack.\"","UP":"\"......Dried plum tea.\n......Those dried plums that go for 200 yen a pack.\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_19-L0003","readerRefs":{"WH":[],"MG":["umi1_19-L0003"],"UP":["umi1_19-L0003"]}}],"sourceReading":"","alternative":"Use the plums sold for 200 yen a pack.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-HIDDEN-LAMBDA-DETHRONING-001","kind":"additional","description":"Beatrice says Bern single-handedly repelled/defeated Lambdadelta. MG says Lambdadelta was dethroned, adding loss of a throne or governing position absent the source. UP preserves fended off, although its lone-piece wording stylizes the single-handed feat.","categories":["linguistic.overinterpretation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_19","episode":1,"rows":{"JP":[17,20],"MG":[17,20],"UP":[17,20]},"japanese":"「その無力な魔女殿が、何人たりとも寄せ付けぬ力をお持ちなのだから恐れ入る。\nかの大魔女、ラムダデルタ卿を単騎にて退けられたのだから」\n「……根競べに勝っただけよ。\nあの子が飽きただけのこと」","japanesePC":"","japanesePS3":"「その無力な魔女殿が、何人たりとも寄せ付けぬ力をお持ちなのだから恐れ入る。\nかの大魔女、ラムダデルタ卿を単騎にて退けられたのだから」\n「……根競べに勝っただけよ。\nあの子が飽きただけのこと」","WH":"","MG":"\"That a powerless Lady Witch like you possesses a power that none can approach is what is truly terrifying.\nAfter all, that Great Witch, Lady Lambdadelta, was dethroned by you alone.\"\n\"...I only won an endurance contest.\nShe simply got tired.\"","UP":"\"That a \"powerless\" witch like you possesses a power that none can approach is what is truly terrifying.\nAfter all, you fended off that Great Witch, Lady Lambdadelta, as a lone piece.\"\n\"......I only won an endurance contest.\nShe simply got tired.\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_19-L0017","readerRefs":{"WH":[],"MG":["umi1_19-L0017","umi1_19-L0019"],"UP":["umi1_19-L0017","umi1_19-L0019"]}}],"sourceReading":"","alternative":"You single-handedly drove off the great witch Lambdadelta.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-HIDDEN-001",
+      "kind": "WH",
+      "description": "褒めても何も出ぬ becomes what one would call empty praise.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_19",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              34,
+              37
+            ],
+            "MG": [
+              34,
+              37
+            ],
+            "UP": [
+              34,
+              37
+            ]
+          },
+          "japanese": "「ご冗談を。\n……そなたから見れば、こんなのは瑣末な力。\n褒めても何も出ぬとはまさにこのこと」\n「……世辞は滞在費代わりに。",
+          "japanesePC": "「ご冗談を。……そなたから見れば、こんなのは瑣末な力。褒めても何も出ぬとはまさにこのこと。」",
+          "japanesePS3": "「ご冗談を。\n……そなたから見れば、こんなのは瑣末な力。\n褒めても何も出ぬとはまさにこのこと」\n「……世辞は滞在費代わりに。",
+          "WH": "\"Such jests.  ......From your point of view, mine is but a trifling power.  This is most certainly what one would call empty praise.\"",
+          "MG": "\"You jest.\n...From your point of view, mine is but a trifling power.\nThis is most certainly what one would call empty praise.\"\n\"...Call it flattery to make up for the cost of staying here.",
+          "UP": "\"Such jests.\n......From your point of view, mine is but a trifling power.\nThe phrase \"flattery will get you nowhere\" was made for this situation.\"\n\"......Call it payment for my stay here.",
+          "note": "MG empty praise loses no benefit for flattery; UP flattery will get you nowhere restores transactional idiom.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_19-L0034",
+          "readerRefs": {
+            "WH": [
+              "umi1_19-L0034"
+            ],
+            "MG": [
+              "umi1_19-L0034",
+              "umi1_19-L0037"
+            ],
+            "UP": [
+              "umi1_19-L0034",
+              "umi1_19-L0037"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ご冗談を。……そなたから見れば、こんなのは瑣末な力。褒めても何も出ぬとはまさにこのこと」",
+              "translation": "\"You jest. ...From your point of view, mine is but a trifling power. This is most certainly what one would call empty praise.\" "
+            },
+            "UP": {
+              "japanese": "「ご冗談を。……そなたから見れば、こんなのは瑣末な力。褒めても何も出ぬとはまさにこのこと」",
+              "translation": "\"Such jests. ......From your point of view, mine is but a trifling power. The phrase \"flattery will get you nowhere\" was made for this situation.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_19-L0034"
+            ],
+            "MG": [
+              "umi1_19-L0034"
+            ],
+            "UP": [
+              "umi1_19-L0034"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice dismisses the compliment as flattery and says praising her will not get Bern anything. Bern immediately offers flattery in lieu of lodging payment.",
+      "alternative": "Empty praise suggests insincerity, which fits the teasing context, but drops the explicit refusal of material reward that grounds the lodging-payment response.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-HIDDEN-002",
+      "kind": "WH",
+      "description": "全ての目が、貴女の掌を出ない becomes you never let the dice fall from your hand.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "mystery.argument_reconstruction",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_19",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              52,
+              57
+            ],
+            "MG": [
+              52,
+              57
+            ],
+            "UP": [
+              52,
+              57
+            ]
+          },
+          "japanese": "「……私は賽を振る時、はっきりと出したい目がある。\n貴女とは違う。\nでも貴女にとっては、全ての目が、貴女の掌を出ない」\n「そして、どの目であっても、貴女の期待を裏切らない。\nサイコロが何の目を見せようとも“必ず”貴女は満足する。\n………その意味において、貴女は私を遥かに凌駕する」",
+          "japanesePC": "「……私は賽を振る時、はっきりと出したい目がある。貴女とは違う。でも貴女にとっては、全ての目が、貴女の掌を出ない。そして、どの目であっても、貴女の期待を裏切らない。サイコロが何の目を見せようとも“必ず”貴女は満足する。………その意味において、貴女は私を遥かに凌駕する。",
+          "japanesePS3": "「……私は賽を振る時、はっきりと出したい目がある。\n貴女とは違う。\nでも貴女にとっては、全ての目が、貴女の掌を出ない」\n「そして、どの目であっても、貴女の期待を裏切らない。\nサイコロが何の目を見せようとも“必ず”貴女は満足する。\n………その意味において、貴女は私を遥かに凌駕する」",
+          "WH": "\"......When I roll the dice, I have a roll I clearly want to get.  Unlike you.  You, on the other hand, never let the dice fall from your hand.  So, whatever the roll might have been, you're never disappointed.  Whatever roll the dice show you, you are satisfied 'without fail'.  .........In that sense, you far surpass me.",
+          "MG": "\"...When I roll the dice, I have a roll I clearly want to get.\nUnlike you.\nYou, on the other hand, never let the dice fall from your hand.\nSo, whatever the roll might have been, you're never disappointed.\nWhatever roll the dice show you, you are satisfied \"without fail\".\n...In that sense, you far surpass me.\"",
+          "UP": "\"......When I roll the dice, I have a roll I clearly want to get.\nUnlike you.\nYou, on the other hand, anticipate all outcomes.\"\n\"And, whatever the roll might be, you're never disappointed.\nWhatever roll the dice show you, you are satisfied \"without fail\".\n.........In that sense, you far surpass me.\"",
+          "note": "MG literal dice never leaving hand is retained. UP anticipates all outcomes removes literal holding but substitutes foreknowledge for every outcome staying within her grasp; satisfaction follow-up survives.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partly_corrected"
+          },
+          "readerRef": "umi1_19-L0052",
+          "readerRefs": {
+            "WH": [
+              "umi1_19-L0052",
+              "umi1_19-L0055"
+            ],
+            "MG": [
+              "umi1_19-L0052",
+              "umi1_19-L0055"
+            ],
+            "UP": [
+              "umi1_19-L0052",
+              "umi1_19-L0055"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……私は賽を振る時、はっきりと出したい目がある。貴女とは違う。でも貴女にとっては、全ての目が、貴女の掌を出ない」\n「そして、どの目であっても、貴女の期待を裏切らない。サイコロが何の目を見せようとも“必ず”貴女は満足する。………その意味において、貴女は私を遥かに凌駕する」",
+              "translation": "\"...When I roll the dice, I have a roll I clearly want to get. Unlike you. You, on the other hand, never let the dice fall from your hand. \nSo, whatever the roll might have been, you're never disappointed. Whatever roll the dice show you, you are satisfied \"without fail\". ...In that sense, you far surpass me.\" "
+            },
+            "UP": {
+              "japanese": "「……私は賽を振る時、はっきりと出したい目がある。貴女とは違う。でも貴女にとっては、全ての目が、貴女の掌を出ない」\n「そして、どの目であっても、貴女の期待を裏切らない。サイコロが何の目を見せようとも“必ず”貴女は満足する。………その意味において、貴女は私を遥かに凌駕する」",
+              "translation": "\"......When I roll the dice, I have a roll I clearly want to get. Unlike you. You, on the other hand, anticipate all outcomes.\"\n\"And, whatever the roll might be, you're never disappointed. Whatever roll the dice show you, you are satisfied \"without fail\". .........In that sense, you far surpass me.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_19-L0052",
+              "umi1_19-L0055"
+            ],
+            "MG": [
+              "umi1_19-L0052",
+              "umi1_19-L0055"
+            ],
+            "UP": [
+              "umi1_19-L0052",
+              "umi1_19-L0055"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Every possible die outcome remains within Beatrice's grasp; none disappoints her, so she is invariably satisfied, unlike Bern wanting a particular outcome.",
+      "alternative": "Literal dice in hand supplies an image of control, but it also says they are never released, obscuring the source distinction between all outcomes and Bern's preferred outcome.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-HIDDEN-003",
+      "kind": "WH",
+      "description": "貴方が ... エールを送っても届かないのに似てる compares Bern empathy without assistance to the reader's familiar experience cheering at television. English You are much like someone ... turns the reader into the analogous ineffective spectator.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_19",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              100,
+              102
+            ],
+            "MG": [
+              100,
+              102
+            ],
+            "UP": [
+              100,
+              102
+            ]
+          },
+          "japanese": "……勘違いしないでほしいのは、私は貴方の味方のつもりはないということ。\n貴方に感情移入はするけれど、貴方の手助けはしない。\n…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。",
+          "japanesePC": "…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。",
+          "japanesePS3": "……勘違いしないでほしいのは、私は貴方の味方のつもりはないということ。\n貴方に感情移入はするけれど、貴方の手助けはしない。\n…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。",
+          "WH": "...You're much like someone sitting in front of the television, yelling at the people on the other side even though your voice won't reach them.",
+          "MG": "...Don't get the wrong idea. I have no intention of becoming your ally.\nI do feel empathy for you, but I won't help you.\n...It's like I'm sitting in front of the television yelling at you on the other side, even though my voice won't reach you.",
+          "UP": "......Don't get the wrong idea—I have no intention of becoming your ally.\nI do feel empathy for you, but I won't help you.\n...It's like how someone sitting in front of a television cannot reach the characters on screen no matter how much they yell at them.",
+          "note": "MG correctly analogizes Bern herself to TV spectator; UP generic someone cannot reach screen characters preserves empathetic spectator relation without incorrectly assigning reader spectator status.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_19-L0100",
+          "readerRefs": {
+            "WH": [
+              "umi1_19-L0100"
+            ],
+            "MG": [
+              "umi1_19-L0100"
+            ],
+            "UP": [
+              "umi1_19-L0100"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……勘違いしないでほしいのは、私は貴方の味方のつもりはないということ。貴方に感情移入はするけれど、貴方の手助けはしない。…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。",
+              "translation": "...Don't get the wrong idea. I have no intention of becoming your ally. I do feel empathy for you, but I won't help you. ...It's like I'm sitting in front of the television yelling at you on the other side, even though my voice won't reach you. "
+            },
+            "UP": {
+              "japanese": "……勘違いしないでほしいのは、私は貴方の味方のつもりはないということ。貴方に感情移入はするけれど、貴方の手助けはしない。…貴方が、テレビの前でその向こうの人物にいくらエールを送っても届かないのに似てるわ。",
+              "translation": "......Don't get the wrong idea—I have no intention of becoming your ally. I do feel empathy for you, but I won't help you. ...It's like how someone sitting in front of a television cannot reach the characters on screen no matter how much they yell at them."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_19-L0100"
+            ],
+            "MG": [
+              "umi1_19-L0100"
+            ],
+            "UP": [
+              "umi1_19-L0100"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern empathizes but does not help, like when you cheer for people on television yet cannot reach them; the television-viewer role illustrates Bern's own relation to the addressed person.",
+      "alternative": "The reader may also be a spectator outside the story, but the immediate Japanese antecedent is Bern's empathy/no-help relation, not an assertion that the reader's cheering is ineffective in this game.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-UMEBOSHI-TERMINOLOGY-001",
+      "kind": "WH",
+      "description": "WH consistently renders 梅干 as dried plums without identifying the salt-pickled ume preparation. This loses the distinctive salty/sour food in Bern’s tea preference and recurring food jokes, and readily suggests an ordinary dried fruit instead.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.culture_history",
+        "world.terminology_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_19",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              3,
+              3
+            ],
+            "MG": [
+              3,
+              3
+            ],
+            "UP": [
+              3,
+              3
+            ]
+          },
+          "japanese": "「……梅干紅茶。",
+          "japanesePC": "「......紅茶に梅干を沈めてちょうだい。......まずい紅茶を飲みやすくするコツよ。」",
+          "japanesePS3": "「……梅干紅茶。",
+          "WH": "\"......Please add some dried plums to some black tea.  ......That's the trick to making terrible tea drinkable.\"",
+          "MG": "\"...Dried plum black tea.",
+          "UP": "\"......Dried plum tea.",
+          "note": "Same umeboshi/dried-plums terminology; one canonical family. Exact three-witness recurrence quoted in reconciliation.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_19-L0003",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0003"
+            ],
+            "UP": [
+              "umi1_19-L0003"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……梅干紅茶。……梅干は１パック２００円のヤツよ」",
+              "translation": "\"...Dried plum black tea. ...The kind that goes for 200 yen a pack.\" "
+            },
+            "UP": {
+              "japanese": "「……梅干紅茶。……梅干は１パック２００円のヤツよ」",
+              "translation": "\"......Dried plum tea. ......Those dried plums that go for 200 yen a pack.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0003"
+            ],
+            "UP": [
+              "umi1_19-L0003"
+            ]
+          }
+        },
+        {
+          "chapter": "umi1_19",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              4,
+              4
+            ],
+            "MG": [
+              4,
+              4
+            ],
+            "UP": [
+              4,
+              4
+            ]
+          },
+          "japanese": "……梅干は１パック２００円のヤツよ」",
+          "japanesePC": "「......紅茶に梅干を沈めてちょうだい。......まずい紅茶を飲みやすくするコツよ。」",
+          "japanesePS3": "……梅干は１パック２００円のヤツよ」",
+          "WH": "\"......Please add some dried plums to some black tea.  ......That's the trick to making terrible tea drinkable.\"",
+          "MG": "...The kind that goes for 200 yen a pack.\"",
+          "UP": "......Those dried plums that go for 200 yen a pack.\"",
+          "note": "Same umeboshi/dried-plums terminology; one canonical family. Exact three-witness recurrence quoted in reconciliation.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_19-L0003",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0003"
+            ],
+            "UP": [
+              "umi1_19-L0003"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……梅干紅茶。……梅干は１パック２００円のヤツよ」",
+              "translation": "\"...Dried plum black tea. ...The kind that goes for 200 yen a pack.\" "
+            },
+            "UP": {
+              "japanese": "「……梅干紅茶。……梅干は１パック２００円のヤツよ」",
+              "translation": "\"......Dried plum tea. ......Those dried plums that go for 200 yen a pack.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0003"
+            ],
+            "UP": [
+              "umi1_19-L0003"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Umeboshi, or salted/pickled plums. MAFF explains the preparation as salt-pickling ume followed by drying: https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/bunrui/tsukemono.html .",
+      "alternative": "Drying is part of preparation, so dried is not literally fabricated. However, the unqualified English term omits the defining pickling process and characteristic food identity. Count the recurring lexical loss once; the separate plum-pit action defect remains distinct.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-HIDDEN-PLUM-PRICE-001",
+      "kind": "additional",
+      "description": "Bern specifies plums costing 200 yen per pack as the tea ingredient. MG’s “The kind that goes for 200 yen a pack” attaches the price to the tea rather than explicitly to the plums. UP restores “Those dried plums that go for 200 yen a pack”.",
+      "categories": [
+        "linguistic.wrong_subject"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_19",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              3,
+              4
+            ],
+            "MG": [
+              3,
+              4
+            ],
+            "UP": [
+              3,
+              4
+            ]
+          },
+          "japanese": "「……梅干紅茶。\n……梅干は１パック２００円のヤツよ」",
+          "japanesePC": "",
+          "japanesePS3": "「……梅干紅茶。\n……梅干は１パック２００円のヤツよ」",
+          "WH": "",
+          "MG": "\"...Dried plum black tea.\n...The kind that goes for 200 yen a pack.\"",
+          "UP": "\"......Dried plum tea.\n......Those dried plums that go for 200 yen a pack.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_19-L0003",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0003"
+            ],
+            "UP": [
+              "umi1_19-L0003"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……梅干紅茶。……梅干は１パック２００円のヤツよ」",
+              "translation": "\"...Dried plum black tea. ...The kind that goes for 200 yen a pack.\" "
+            },
+            "UP": {
+              "japanese": "「……梅干紅茶。……梅干は１パック２００円のヤツよ」",
+              "translation": "\"......Dried plum tea. ......Those dried plums that go for 200 yen a pack.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0003"
+            ],
+            "UP": [
+              "umi1_19-L0003"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Use the plums sold for 200 yen a pack.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-HIDDEN-LAMBDA-DETHRONING-001",
+      "kind": "additional",
+      "description": "Beatrice says Bern single-handedly repelled/defeated Lambdadelta. MG says Lambdadelta was dethroned, adding loss of a throne or governing position absent the source. UP preserves fended off, although its lone-piece wording stylizes the single-handed feat.",
+      "categories": [
+        "linguistic.overinterpretation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_19",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              17,
+              20
+            ],
+            "MG": [
+              17,
+              20
+            ],
+            "UP": [
+              17,
+              20
+            ]
+          },
+          "japanese": "「その無力な魔女殿が、何人たりとも寄せ付けぬ力をお持ちなのだから恐れ入る。\nかの大魔女、ラムダデルタ卿を単騎にて退けられたのだから」\n「……根競べに勝っただけよ。\nあの子が飽きただけのこと」",
+          "japanesePC": "",
+          "japanesePS3": "「その無力な魔女殿が、何人たりとも寄せ付けぬ力をお持ちなのだから恐れ入る。\nかの大魔女、ラムダデルタ卿を単騎にて退けられたのだから」\n「……根競べに勝っただけよ。\nあの子が飽きただけのこと」",
+          "WH": "",
+          "MG": "\"That a powerless Lady Witch like you possesses a power that none can approach is what is truly terrifying.\nAfter all, that Great Witch, Lady Lambdadelta, was dethroned by you alone.\"\n\"...I only won an endurance contest.\nShe simply got tired.\"",
+          "UP": "\"That a \"powerless\" witch like you possesses a power that none can approach is what is truly terrifying.\nAfter all, you fended off that Great Witch, Lady Lambdadelta, as a lone piece.\"\n\"......I only won an endurance contest.\nShe simply got tired.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_19-L0017",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0017",
+              "umi1_19-L0019"
+            ],
+            "UP": [
+              "umi1_19-L0017",
+              "umi1_19-L0019"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「その無力な魔女殿が、何人たりとも寄せ付けぬ力をお持ちなのだから恐れ入る。かの大魔女、ラムダデルタ卿を単騎にて退けられたのだから」",
+              "translation": "\"That a powerless Lady Witch like you possesses a power that none can approach is what is truly terrifying. After all, that Great Witch, Lady Lambdadelta, was dethroned by you alone.\" "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_19-L0017"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "You single-handedly drove off the great witch Lambdadelta.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-HIDDEN-001": {
+      "umi1_19-L0034": {
+        "WH": [
+          "empty praise"
+        ],
+        "MG": [
+          "empty praise"
+        ]
+      }
+    },
+    "WH-EP01-HIDDEN-002": {
+      "umi1_19-L0052": {
+        "WH": [
+          "never let the dice fall from your hand"
+        ],
+        "MG": [
+          "never let the dice fall from your hand"
+        ],
+        "UP": [
+          "anticipate all outcomes"
+        ]
+      },
+      "umi1_19-L0055": {
+        "WH": [
+          "never let the dice fall from your hand"
+        ],
+        "MG": {
+          "kind": "anchor-mismatch",
+          "reason": "Only subsequent satisfaction explanation is present; defective dice-holding sentence is preceding MG unit1."
+        },
+        "UP": {
+          "kind": "anchor-mismatch",
+          "reason": "Accurate following satisfaction explanation lacks disputed anticipates-all-outcomes clause; UP defect belongs unit3."
+        }
+      }
+    },
+    "WH-EP01-HIDDEN-003": {
+      "umi1_19-L0100": {
+        "WH": [
+          "You're much like someone sitting in front of the television"
+        ]
+      }
+    },
+    "WH-UMEBOSHI-TERMINOLOGY-001": {
+      "umi1_19-L0003": {
+        "MG": [
+          "Dried plum"
+        ],
+        "UP": [
+          "Dried plum",
+          "dried plums"
+        ]
+      }
+    },
+    "PAIR-EP01-HIDDEN-PLUM-PRICE-001": {
+      "umi1_19-L0003": {
+        "MG": [
+          "The kind that goes for 200 yen a pack"
+        ]
+      }
+    },
+    "PAIR-EP01-HIDDEN-LAMBDA-DETHRONING-001": {
+      "umi1_19-L0017": {
+        "MG": [
+          "was dethroned"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

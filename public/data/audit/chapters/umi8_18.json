@@ -1,1 +1,1052 @@
-{"findings":[{"id":"WH-EP08-HIDDEN-TEA-001","kind":"WH","description":"Japanese sign identifies an awards ceremony of one of the leading domestic publishing companies without naming it. English invents Biggs Publishing Company and omits the explicit national prominence.","categories":["linguistic.addition","world.world_fact"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[3,3],"MG":[3,3],"UP":[3,3]},"japanese":"表看板には、国内有数の大手出版社の受賞式典と書かれている。","japanesePC":"表看板には、国内有数の大手出版社の受賞式典と書かれている。","japanesePS3":"表看板には、国内有数の大手出版社の受賞式典と書かれている。","WH":"The sign in front said 'Biggs Publishing Company Awards Ceremony'.","MG":"The sign in front said \"Awards Ceremony from Japan's Greatest Publishers\".","UP":"The sign in front said \"Biggs Publishing Company Awards Ceremony\".","note":"Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.","dispositions":{"MG":"corrected_in_context","UP":"retained"},"readerRef":"umi8_18-L0001","readerRefs":{"WH":["umi8_18-L0001"],"MG":["umi8_18-L0001"],"UP":["umi8_18-L0001"]}}],"sourceReading":"Awards ceremony of one of the leading publishers in the country.","alternative":"Generic fictional name may serve natural sign presentation, but is unsupported specificity.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-HIDDEN-TEA-002","kind":"WH","description":"The introduction explicitly identifies Hachijo as a mystery novelist. English merely calls Hachijo a novelist, dropping the genre linking this approach to the Rokkenjima mystery literature.","categories":["linguistic.omission","world.literary_reference"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[61,61],"MG":[61,61],"UP":[61,61]},"japanese":"……推理小説家の、","japanesePC":"「......実は先生。......その、唐突なお話なのですが、......推理小説家の、","japanesePS3":"……推理小説家の、","WH":"\"......Actually, Miss Kotobuki.  I, uh, apologize for being abrupt, ......but do you happen to know of the novelist called","MG":"...but have you heard of the novelist known as","UP":"......but do you happen to know of...","note":"Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_18-L0059","readerRefs":{"WH":["umi8_18-L0059"],"MG":["umi8_18-L0059"],"UP":["umi8_18-L0059"]}}],"sourceReading":"Do you know the mystery novelist Hachijo Tohya?","alternative":"Following retrospective explicitly discusses Rokkenjima Forgeries, restoring the mystery connection.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-HIDDEN-TEA-003","kind":"WH","description":"酸味 is sourness or acidity. Tohya requests coffee not strongly acidic, while English requests coffee not so bitter, changing the stated taste preference.","categories":["linguistic.mistranslation","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[200,200],"MG":[200,200],"UP":[200,200]},"japanese":"「私には酸味が強くないのを。","japanesePC":"「私には酸味が強くないのを。......寿先生は？」","japanesePS3":"「私には酸味が強くないのを。","WH":"\"I'd prefer something that isn't so bitter.  ......How about you, Miss Kotobuki?\"","MG":"\"I'd prefer something that isn't so bitter.","UP":"\"I'd prefer something that isn't so bitter.","note":"Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_18-L0200","readerRefs":{"WH":["umi8_18-L0200"],"MG":["umi8_18-L0200"],"UP":["umi8_18-L0200"]}}],"sourceReading":"Something that is not strongly acidic for me.","alternative":"Both convey a restrained coffee preference in the polite reunion; no identity deduction depends on the taste.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-HIDDEN-TEA-004","kind":"WH","description":"Japanese contrasts his escape toward submarine base with Eva escape direction. English says he split up with Eva there, asserting an encounter or shared journey the source does not establish.","categories":["linguistic.addition","world.space_time_continuity","mystery.clue_invention"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[276,276],"MG":[276,276],"UP":[276,276]},"japanese":"とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。","japanesePC":"とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。","japanesePS3":"とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。","WH":"At any rate, he went into the underground passage, split up with Eva oba-san there, and escaped to the submarine base.","MG":"At any rate, he went into the underground passage, and unlike Aunt Eva, he escaped to the submarine base.","UP":"At any rate, he went into the underground passage, split up with Aunt Eva there, and escaped to the submarine base.","note":"Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.","dispositions":{"MG":"corrected_in_context","UP":"retained"},"readerRef":"umi8_18-L0275","readerRefs":{"WH":["umi8_18-L0275"],"MG":["umi8_18-L0275"],"UP":["umi8_18-L0275"]}}],"sourceReading":"He entered the tunnel and, unlike Eva, escaped toward the submarine base.","alternative":"A branching tunnel explains different routes but does not establish Eva and Battler were together. Earlier source uses we without identifying companion as Eva.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-HIDDEN-TEA-005","kind":"WH","description":"Ange perceives not even a sign of remorse or shame in his appearance, which provokes louder reproach. English says nothing shy, replacing moral contrition with bashfulness.","categories":["linguistic.mistranslation","character.viewpoint_attribution"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[351,351],"MG":[351,351],"UP":[351,351]},"japanese":"悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。","japanesePC":"悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。","japanesePS3":"悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。","WH":"There was nothing shy about his appearance, and I questioned him again in an even louder voice.","MG":"There was nothing shy about his appearance, and I questioned him again in an even louder voice.","UP":"Unable to sense that he even felt any compunction about his actions, I questioned him again in an even louder voice.","note":"Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_18-L0349","readerRefs":{"WH":["umi8_18-L0349"],"MG":["umi8_18-L0349"],"UP":["umi8_18-L0349"]}}],"sourceReading":"I could not even perceive him looking remorseful.","alternative":"Previous narration contrasts lost-for-words with apologetic, retaining some emotional context.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-HIDDEN-TEA-006","kind":"WH","description":"Source says the institution existed or operated through Kinzo support, then closed when that support ceased. English specifically says it was established thanks to his support, adding an origin claim rather than merely ongoing dependence.","categories":["linguistic.overinterpretation","world.culture_history"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[509,509],"MG":[509,509],"UP":[509,509]},"japanese":"かつて、この施設は右代宮金蔵の援助によって成り立っていた。","japanesePC":"かつて、この施設は右代宮金蔵の援助によって成り立っていた。","japanesePS3":"かつて、この施設は右代宮金蔵の援助によって成り立っていた。","WH":"In the past, this institution had been established thanks to Ushiromiya Kinzo's support.","MG":"In the past, this institution had been established thanks to Ushiromiya Kinzo's support.","UP":"This institution was once dependent on the support it received from Ushiromiya Kinzo.","note":"Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_18-L0507","readerRefs":{"WH":["umi8_18-L0507"],"MG":["umi8_18-L0507"],"UP":["umi8_18-L0507"]}}],"sourceReading":"The institution had depended on Ushiromiya Kinzo support.","alternative":"Established can loosely mean sustained, and following withdrawal/closure preserves funding dependence; literal founding implication is stronger than source.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-HIDDEN-TEA-007","kind":"WH","description":"Japanese presents varied welcoming voices: you took long, polite you took long, finally he came. English replaces this with I am finally here, turning the welcome chorus into the returning guest first-person statement and losing its register variation.","categories":["linguistic.wrong_subject","character.viewpoint_attribution","linguistic.imagery_rhythm_recurrence"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[599,599],"MG":[599,599],"UP":[599,599]},"japanese":"遅かったな、遅かったですね、……ようやく来たよ、やっと来た……。","japanesePC":"遅かったな、遅かったですね、......ようやく来たよ、やっと来た......。","japanesePS3":"遅かったな、遅かったですね、……ようやく来たよ、やっと来た……。","WH":"It's been so long, far too long......  I'm finally here, at last......","MG":"It's been so long, far too long... I'm finally here, at last...","UP":"It's been so long, far too long...... I'm finally here, at last......","note":"Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_18-L0597","readerRefs":{"WH":["umi8_18-L0597"],"MG":["umi8_18-L0597"],"UP":["umi8_18-L0597"]}}],"sourceReading":"You took so long; you took so long, did you not; at last he has come, finally he is here.","alternative":"Unmarked narrative sound can be heard internally, but the polite and casual addresses plus third-person arrival forms and recognized faces support a chorus. Surrounding broad welcome remains.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-HIDDEN-TEA-008","kind":"WH","description":"WH replaces an unfinished impulsive action with the completed event had a fit.","categories":["linguistic.omission"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[414,414],"MG":[414,414],"UP":[414,414]},"japanese":"「…………彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に…………」","japanesePC":"「............彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に............。」","japanesePS3":"「…………彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に…………」","WH":"\".........Then, one day, when he was caught between himself and the other self he couldn't accept, he had a fit............\"","MG":"\"......Then, one day, when he was caught between himself and the other self he couldn't accept, he had a fit......\"","UP":"\"............And one day, out of the anguish of being torn between himself and the other self he couldn't accept, in a fit, he............\"","note":"発作的に modifies a deliberately unstated action. The Japanese leaves what he did unsaid; UP preserves this. Strongest alternative: Had a fit can euphemistically suggest a crisis, but grammatically completes an event instead of suppressing the action. No diagnosis or precise act is asserted.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_18-L0414","readerRefs":{"WH":["umi8_18-L0414"],"MG":["umi8_18-L0414"],"UP":["umi8_18-L0414"]}}],"sourceReading":"発作的に modifies a deliberately unstated action. The Japanese leaves what he did unsaid; UP preserves this.","alternative":"Had a fit can euphemistically suggest a crisis, but grammatically completes an event instead of suppressing the action. No diagnosis or precise act is asserted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-125","kind":"PC","description":"MG retains original-PC early cancer diagnosis; PS3 and UP say a small tumor.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[35,35],"MG":[35,35],"UP":[35,35]},"japanese":"昨年、小さな腫瘍が見つかり、手術を終えた後、めっきりと体力を落としてしまった。","japanesePC":"昨年、初期の癌が見つかり、手術を終えた後、めっきりと体力を落としてしまった。","japanesePS3":"昨年、小さな腫瘍が見つかり、手術を終えた後、めっきりと体力を落としてしまった。","WH":"Last year, she was diagnosed with initial cancer, and after the surgery, her physical strength had dropped sharply.","MG":"Last year, she was diagnosed with the initial stages of cancer, and after the surgery, her physical strength dropped sharply.","UP":"Last year, it was discovered that she had developed a small tumor, and after the surgery, her physical strength had dropped sharply.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi8_18-L0034","readerRefs":{"WH":[],"MG":["umi8_18-L0034"],"UP":["umi8_18-L0034"]}}],"sourceReading":"MG retains original-PC early cancer diagnosis; PS3 and UP say a small tumor.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-126","kind":"PC","description":"MG retains Harry the Potato comparison from originalPC; PS3/UP use a generic record-setting bestseller thisyear. Related PC explanation262645–262648 supports the literary reference.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[52,52],"MG":[52,52],"UP":[52,52]},"japanese":"このまま行けば今年度最高の記録的ベストセラーになるとか！」","japanesePC":"「寿先生、この度は受賞、誠におめでとうございます！　映画の方も大好評と聞いております！　このまま行けば『ハリポタ』を超える記録的大ヒットになるとか！」","japanesePS3":"このまま行けば今年度最高の記録的ベストセラーになるとか！」","WH":"\"Miss Kotobuki, congratulations on your award!  I hear the movie adaptation has been getting splendid reviews as well!  If you keep this up, you might even pass up Hari-Pota's record!\"","MG":"If you keep this up, you might even pass up Harry the Potato's record!\"","UP":"From what I hear, you're set to break records with the best‐selling books of the year!\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi8_18-L0050","readerRefs":{"WH":[],"MG":["umi8_18-L0050"],"UP":["umi8_18-L0050"]}}],"sourceReading":"MG retains Harry the Potato comparison from originalPC; PS3/UP use a generic record-setting bestseller thisyear. Related PC explanation262645–262648 supports the literary reference.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-127","kind":"PC","description":"MG retains explicit brain damage omitted from PS3 memory-disorder wording. This is one connected edition family with379 and393.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[373,373],"MG":[373,373],"UP":[373,373]},"japanese":"……先ほどもお話しました通り、……彼は記憶障害を持っています。","japanesePC":"「......寿先生。......先ほどもお話しました通り、......彼は記憶障害を持っています。いえ、脳障害と言った方が良いでしょう。事故の後遺症です。」","japanesePS3":"……先ほどもお話しました通り、……彼は記憶障害を持っています。","WH":"\"......Miss Kotobuki.  ......As I said before, ......his memory has been damaged.  No, perhaps I should say that his brain has been damaged.  It's an aftereffect of the accident.\"","MG":"...as I said before, ...his memory was damaged. No, perhaps I should say that his brain was damaged.","UP":"......As I said before, ......his memory has been damaged.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi8_18-L0372","readerRefs":{"WH":[],"MG":["umi8_18-L0372"],"UP":["umi8_18-L0372"]}}],"sourceReading":"MG retains explicit brain damage omitted from PS3 memory-disorder wording. This is one connected edition family with379 and393.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-128","kind":"PC","description":"Both retain originalPC medication, while PS3 says broader treatment.","categories":[],"severity":null,"editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi8_18","episode":8,"rows":{"JP":[428,428],"MG":[428,428],"UP":[428,428]},"japanese":"医者の指導と治療。","japanesePC":"医者の指導と投薬。そして幾子の甲斐甲斐しい世話もあって、......ゆっくりと、心の平穏を取り戻していったのだ......。","japanesePS3":"医者の指導と治療。","WH":"Doctor's instructions and medication.  With that and Ikuko's diligent care, ......he slowly began to regain his peace of mind......","MG":"Doctor's instructions and medication.","UP":"Doctor's instructions and medication.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"retained_original_PC_material"},"readerRef":"umi8_18-L0425","readerRefs":{"WH":[],"MG":["umi8_18-L0425"],"UP":["umi8_18-L0425"]}}],"sourceReading":"Both retain originalPC medication, while PS3 says broader treatment.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP08-HIDDEN-TEA-001",
+      "kind": "WH",
+      "description": "Japanese sign identifies an awards ceremony of one of the leading domestic publishing companies without naming it. English invents Biggs Publishing Company and omits the explicit national prominence.",
+      "categories": [
+        "linguistic.addition",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              3,
+              3
+            ],
+            "MG": [
+              3,
+              3
+            ],
+            "UP": [
+              3,
+              3
+            ]
+          },
+          "japanese": "表看板には、国内有数の大手出版社の受賞式典と書かれている。",
+          "japanesePC": "表看板には、国内有数の大手出版社の受賞式典と書かれている。",
+          "japanesePS3": "表看板には、国内有数の大手出版社の受賞式典と書かれている。",
+          "WH": "The sign in front said 'Biggs Publishing Company Awards Ceremony'.",
+          "MG": "The sign in front said \"Awards Ceremony from Japan's Greatest Publishers\".",
+          "UP": "The sign in front said \"Biggs Publishing Company Awards Ceremony\".",
+          "note": "Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_18-L0001",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0001"
+            ],
+            "MG": [
+              "umi8_18-L0001"
+            ],
+            "UP": [
+              "umi8_18-L0001"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そこは大きなホテルの、一番大きなバンケットルーム。大勢の来賓がひしめき、壇上にて受賞盾を受け取る人物を拍手で祝福していた。表看板には、国内有数の大手出版社の受賞式典と書かれている。",
+              "translation": "It was the largest banquet hall in this huge hotel. The many guests that filled the room chattered and applauded the person receiving an award trophy on top of the stage. The sign in front said \"Awards Ceremony from Japan's Greatest Publishers\". "
+            },
+            "UP": {
+              "japanese": "そこは大きなホテルの、一番大きなバンケットルーム。大勢の来賓がひしめき、壇上にて受賞盾を受け取る人物を拍手で祝福していた。表看板には、国内有数の大手出版社の受賞式典と書かれている。",
+              "translation": "It was the largest banquet hall in this huge hotel. The many guests that filled the room chattered and applauded the person receiving an award trophy on top of the stage. The sign in front said \"Biggs Publishing Company Awards Ceremony\"."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0001"
+            ],
+            "MG": [
+              "umi8_18-L0001"
+            ],
+            "UP": [
+              "umi8_18-L0001"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Awards ceremony of one of the leading publishers in the country.",
+      "alternative": "Generic fictional name may serve natural sign presentation, but is unsupported specificity.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-HIDDEN-TEA-002",
+      "kind": "WH",
+      "description": "The introduction explicitly identifies Hachijo as a mystery novelist. English merely calls Hachijo a novelist, dropping the genre linking this approach to the Rokkenjima mystery literature.",
+      "categories": [
+        "linguistic.omission",
+        "world.literary_reference"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              61,
+              61
+            ],
+            "MG": [
+              61,
+              61
+            ],
+            "UP": [
+              61,
+              61
+            ]
+          },
+          "japanese": "……推理小説家の、",
+          "japanesePC": "「......実は先生。......その、唐突なお話なのですが、......推理小説家の、",
+          "japanesePS3": "……推理小説家の、",
+          "WH": "\"......Actually, Miss Kotobuki.  I, uh, apologize for being abrupt, ......but do you happen to know of the novelist called",
+          "MG": "...but have you heard of the novelist known as",
+          "UP": "......but do you happen to know of...",
+          "note": "Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_18-L0059",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0059"
+            ],
+            "MG": [
+              "umi8_18-L0059"
+            ],
+            "UP": [
+              "umi8_18-L0059"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……実は先生。……その、唐突なお話なのですが、……推理小説家の、八城十八先生をご存知でしょうか」",
+              "translation": "\"Actually, Miss Kotobuki... I, uh, apologize for being abrupt, ...but have you heard of the novelist known as Hachijo Tohya?\" "
+            },
+            "UP": {
+              "japanese": "「……実は先生。……その、唐突なお話なのですが、……推理小説家の、八城十八先生をご存知でしょうか」",
+              "translation": "\"......Actually, Miss Kotobuki. ......I, uh, apologize for being abrupt, ......but do you happen to know of... the mystery writer called Hachijo Tohya?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0059"
+            ],
+            "MG": [
+              "umi8_18-L0059"
+            ],
+            "UP": [
+              "umi8_18-L0059"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Do you know the mystery novelist Hachijo Tohya?",
+      "alternative": "Following retrospective explicitly discusses Rokkenjima Forgeries, restoring the mystery connection.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-HIDDEN-TEA-003",
+      "kind": "WH",
+      "description": "酸味 is sourness or acidity. Tohya requests coffee not strongly acidic, while English requests coffee not so bitter, changing the stated taste preference.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              200,
+              200
+            ],
+            "MG": [
+              200,
+              200
+            ],
+            "UP": [
+              200,
+              200
+            ]
+          },
+          "japanese": "「私には酸味が強くないのを。",
+          "japanesePC": "「私には酸味が強くないのを。......寿先生は？」",
+          "japanesePS3": "「私には酸味が強くないのを。",
+          "WH": "\"I'd prefer something that isn't so bitter.  ......How about you, Miss Kotobuki?\"",
+          "MG": "\"I'd prefer something that isn't so bitter.",
+          "UP": "\"I'd prefer something that isn't so bitter.",
+          "note": "Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_18-L0200",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0200"
+            ],
+            "MG": [
+              "umi8_18-L0200"
+            ],
+            "UP": [
+              "umi8_18-L0200"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私には酸味が強くないのを。……寿先生は？」",
+              "translation": "\"I'd prefer something that isn't so bitter. ...How about you, Miss Kotobuki?\" "
+            },
+            "UP": {
+              "japanese": "「私には酸味が強くないのを。……寿先生は？」",
+              "translation": "\"I'd prefer something that isn't so bitter. ......How about you, Miss Kotobuki?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0200"
+            ],
+            "MG": [
+              "umi8_18-L0200"
+            ],
+            "UP": [
+              "umi8_18-L0200"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Something that is not strongly acidic for me.",
+      "alternative": "Both convey a restrained coffee preference in the polite reunion; no identity deduction depends on the taste.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-HIDDEN-TEA-004",
+      "kind": "WH",
+      "description": "Japanese contrasts his escape toward submarine base with Eva escape direction. English says he split up with Eva there, asserting an encounter or shared journey the source does not establish.",
+      "categories": [
+        "linguistic.addition",
+        "world.space_time_continuity",
+        "mystery.clue_invention"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              276,
+              276
+            ],
+            "MG": [
+              276,
+              276
+            ],
+            "UP": [
+              276,
+              276
+            ]
+          },
+          "japanese": "とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。",
+          "japanesePC": "とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。",
+          "japanesePS3": "とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。",
+          "WH": "At any rate, he went into the underground passage, split up with Eva oba-san there, and escaped to the submarine base.",
+          "MG": "At any rate, he went into the underground passage, and unlike Aunt Eva, he escaped to the submarine base.",
+          "UP": "At any rate, he went into the underground passage, split up with Aunt Eva there, and escaped to the submarine base.",
+          "note": "Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_18-L0275",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0275"
+            ],
+            "MG": [
+              "umi8_18-L0275"
+            ],
+            "UP": [
+              "umi8_18-L0275"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "兄があの日、どういう経緯で地下道に入り込んだのかはわからない。とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。そこで爆発を逃れ、生き延びたのだ……。",
+              "translation": "I don't know why my brother entered the underground passage on that day. At any rate, he went into the underground passage, and unlike Aunt Eva, he escaped to the submarine base. There, he escaped the explosion...and survived... "
+            },
+            "UP": {
+              "japanese": "兄があの日、どういう経緯で地下道に入り込んだのかはわからない。とにかく、地下道に入り、そこから絵羽伯母さんとは違い、潜水艦基地の方へ逃れた。そこで爆発を逃れ、生き延びたのだ……。",
+              "translation": "I don't know under what circumstances my brother entered the underground passage on that day. At any rate, he went into the underground passage, split up with Aunt Eva there, and escaped to the submarine base. There, he escaped the explosion...and survived......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0275"
+            ],
+            "MG": [
+              "umi8_18-L0275"
+            ],
+            "UP": [
+              "umi8_18-L0275"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "He entered the tunnel and, unlike Eva, escaped toward the submarine base.",
+      "alternative": "A branching tunnel explains different routes but does not establish Eva and Battler were together. Earlier source uses we without identifying companion as Eva.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-HIDDEN-TEA-005",
+      "kind": "WH",
+      "description": "Ange perceives not even a sign of remorse or shame in his appearance, which provokes louder reproach. English says nothing shy, replacing moral contrition with bashfulness.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              351,
+              351
+            ],
+            "MG": [
+              351,
+              351
+            ],
+            "UP": [
+              351,
+              351
+            ]
+          },
+          "japanese": "悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。",
+          "japanesePC": "悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。",
+          "japanesePS3": "悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。",
+          "WH": "There was nothing shy about his appearance, and I questioned him again in an even louder voice.",
+          "MG": "There was nothing shy about his appearance, and I questioned him again in an even louder voice.",
+          "UP": "Unable to sense that he even felt any compunction about his actions, I questioned him again in an even louder voice.",
+          "note": "Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_18-L0349",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0349"
+            ],
+            "MG": [
+              "umi8_18-L0349"
+            ],
+            "UP": [
+              "umi8_18-L0349"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "兄は俯く。申し訳なさそうに、というよりは、言葉に詰まって、という感じ。悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。",
+              "translation": "My brother hung his head. It seemed more like he was lost for words than apologetic. There was nothing shy about his appearance, and I questioned him again in an even louder voice. "
+            },
+            "UP": {
+              "japanese": "兄は俯く。申し訳なさそうに、というよりは、言葉に詰まって、という感じ。悪びれる様子さえ感じられず、私はさらに声を大きくして兄を詰った。",
+              "translation": "My brother hung his head. It seemed more like he was lost for words than apologetic. Unable to sense that he even felt any compunction about his actions, I questioned him again in an even louder voice."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0349"
+            ],
+            "MG": [
+              "umi8_18-L0349"
+            ],
+            "UP": [
+              "umi8_18-L0349"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "I could not even perceive him looking remorseful.",
+      "alternative": "Previous narration contrasts lost-for-words with apologetic, retaining some emotional context.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-HIDDEN-TEA-006",
+      "kind": "WH",
+      "description": "Source says the institution existed or operated through Kinzo support, then closed when that support ceased. English specifically says it was established thanks to his support, adding an origin claim rather than merely ongoing dependence.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              509,
+              509
+            ],
+            "MG": [
+              509,
+              509
+            ],
+            "UP": [
+              509,
+              509
+            ]
+          },
+          "japanese": "かつて、この施設は右代宮金蔵の援助によって成り立っていた。",
+          "japanesePC": "かつて、この施設は右代宮金蔵の援助によって成り立っていた。",
+          "japanesePS3": "かつて、この施設は右代宮金蔵の援助によって成り立っていた。",
+          "WH": "In the past, this institution had been established thanks to Ushiromiya Kinzo's support.",
+          "MG": "In the past, this institution had been established thanks to Ushiromiya Kinzo's support.",
+          "UP": "This institution was once dependent on the support it received from Ushiromiya Kinzo.",
+          "note": "Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_18-L0507",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0507"
+            ],
+            "MG": [
+              "umi8_18-L0507"
+            ],
+            "UP": [
+              "umi8_18-L0507"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そこは、福音の家。親を失った、恵まれない子供たちのための福祉施設だ。かつて、この施設は右代宮金蔵の援助によって成り立っていた。しかし、その援助が途切れ、福音の家は一度、畳むことになったのだ。それから数十年後。施設は、再び蘇ることになる。寿ゆかりの手によって。",
+              "translation": "This was...the Fukuin House. A welfare institution for unfortunate children who had lost their parents. In the past, this institution had been established thanks to Ushiromiya Kinzo's support. However, that support had been interrupted, and the Fukuin House had been forced to shut down for a time. Decades passed. And now, the institution would be revived. Revived by the hand of Kotobuki Yukari. "
+            },
+            "UP": {
+              "japanese": "そこは、福音の家。親を失った、恵まれない子供たちのための福祉施設だ。かつて、この施設は右代宮金蔵の援助によって成り立っていた。しかし、その援助が途切れ、福音の家は一度、畳むことになったのだ。それから数十年後。施設は、再び蘇ることになる。寿ゆかりの手によって。",
+              "translation": "This was...the Gospel House. A welfare institution for unfortunate children who had lost their parents. This institution was once dependent on the support it received from Ushiromiya Kinzo. However, that support had been interrupted, and the Gospel House had been forced to shut down for a time. Decades had passed. And now, the institution would be revived. Revived by the hand of Kotobuki Yukari."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0507"
+            ],
+            "MG": [
+              "umi8_18-L0507"
+            ],
+            "UP": [
+              "umi8_18-L0507"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The institution had depended on Ushiromiya Kinzo support.",
+      "alternative": "Established can loosely mean sustained, and following withdrawal/closure preserves funding dependence; literal founding implication is stronger than source.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-HIDDEN-TEA-007",
+      "kind": "WH",
+      "description": "Japanese presents varied welcoming voices: you took long, polite you took long, finally he came. English replaces this with I am finally here, turning the welcome chorus into the returning guest first-person statement and losing its register variation.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              599,
+              599
+            ],
+            "MG": [
+              599,
+              599
+            ],
+            "UP": [
+              599,
+              599
+            ]
+          },
+          "japanese": "遅かったな、遅かったですね、……ようやく来たよ、やっと来た……。",
+          "japanesePC": "遅かったな、遅かったですね、......ようやく来たよ、やっと来た......。",
+          "japanesePS3": "遅かったな、遅かったですね、……ようやく来たよ、やっと来た……。",
+          "WH": "It's been so long, far too long......  I'm finally here, at last......",
+          "MG": "It's been so long, far too long... I'm finally here, at last...",
+          "UP": "It's been so long, far too long...... I'm finally here, at last......",
+          "note": "Complete independent source-first three-witness read, actual Japanese maps WH-EP08-HIDDEN-TEA. Parent directly checks current35/52/373/379/393/428 against recorded exactPC anchors. Cancer, literary title, explicit brain-condition family MG-only and medication both proven yellow, excluded from defect counts. Brain-condition related rows379/393 grouped with373 rather than separate findings. MG3 fixes invented publisher, plural publishers held as minor number compression.113/116 availability/free-time rendering held as contextually licensed. MG414/425 had-a-fit inherited candidate preserved; do not assert epilepsy or medical diagnosis from the idiom. Separate originalPC altered-escape276 retained UP/corrected MG; institution509 ongoing-support correctedUP, originassertionretainedMG. No independently introduced findings.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_18-L0597",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0597"
+            ],
+            "MG": [
+              "umi8_18-L0597"
+            ],
+            "UP": [
+              "umi8_18-L0597"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "あぁ、………知ってる。……みんなの顔を、……私は知っている………。遅かったな、遅かったですね、……ようやく来たよ、やっと来た……。",
+              "translation": "Yeah, ......I know. ...I know...all your faces...... It's been so long, far too long... I'm finally here, at last... "
+            },
+            "UP": {
+              "japanese": "あぁ、………知ってる。……みんなの顔を、……私は知っている………。遅かったな、遅かったですね、……ようやく来たよ、やっと来た……。",
+              "translation": "Yeah, .........I know. ......I know......all your faces......... It's been so long, far too long...... I'm finally here, at last......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0597"
+            ],
+            "MG": [
+              "umi8_18-L0597"
+            ],
+            "UP": [
+              "umi8_18-L0597"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "You took so long; you took so long, did you not; at last he has come, finally he is here.",
+      "alternative": "Unmarked narrative sound can be heard internally, but the polite and casual addresses plus third-person arrival forms and recognized faces support a chorus. Surrounding broad welcome remains.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-HIDDEN-TEA-008",
+      "kind": "WH",
+      "description": "WH replaces an unfinished impulsive action with the completed event had a fit.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              414,
+              414
+            ],
+            "MG": [
+              414,
+              414
+            ],
+            "UP": [
+              414,
+              414
+            ]
+          },
+          "japanese": "「…………彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に…………」",
+          "japanesePC": "「............彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に............。」",
+          "japanesePS3": "「…………彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に…………」",
+          "WH": "\".........Then, one day, when he was caught between himself and the other self he couldn't accept, he had a fit............\"",
+          "MG": "\"......Then, one day, when he was caught between himself and the other self he couldn't accept, he had a fit......\"",
+          "UP": "\"............And one day, out of the anguish of being torn between himself and the other self he couldn't accept, in a fit, he............\"",
+          "note": "発作的に modifies a deliberately unstated action. The Japanese leaves what he did unsaid; UP preserves this. Strongest alternative: Had a fit can euphemistically suggest a crisis, but grammatically completes an event instead of suppressing the action. No diagnosis or precise act is asserted.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_18-L0414",
+          "readerRefs": {
+            "WH": [
+              "umi8_18-L0414"
+            ],
+            "MG": [
+              "umi8_18-L0414"
+            ],
+            "UP": [
+              "umi8_18-L0414"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に…………」",
+              "translation": "\"......Then, one day, when he was caught between himself and the other self he couldn't accept, he had a fit......\" "
+            },
+            "UP": {
+              "japanese": "「…………彼はある日、自分と、受け容れられぬもうひとりの自分との板ばさみに、発作的に…………」",
+              "translation": "\"............And one day, out of the anguish of being torn between himself and the other self he couldn't accept, in a fit, he............\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_18-L0414"
+            ],
+            "MG": [
+              "umi8_18-L0414"
+            ],
+            "UP": [
+              "umi8_18-L0414"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "発作的に modifies a deliberately unstated action. The Japanese leaves what he did unsaid; UP preserves this.",
+      "alternative": "Had a fit can euphemistically suggest a crisis, but grammatically completes an event instead of suppressing the action. No diagnosis or precise act is asserted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-125",
+      "kind": "PC",
+      "description": "MG retains original-PC early cancer diagnosis; PS3 and UP say a small tumor.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              35,
+              35
+            ],
+            "MG": [
+              35,
+              35
+            ],
+            "UP": [
+              35,
+              35
+            ]
+          },
+          "japanese": "昨年、小さな腫瘍が見つかり、手術を終えた後、めっきりと体力を落としてしまった。",
+          "japanesePC": "昨年、初期の癌が見つかり、手術を終えた後、めっきりと体力を落としてしまった。",
+          "japanesePS3": "昨年、小さな腫瘍が見つかり、手術を終えた後、めっきりと体力を落としてしまった。",
+          "WH": "Last year, she was diagnosed with initial cancer, and after the surgery, her physical strength had dropped sharply.",
+          "MG": "Last year, she was diagnosed with the initial stages of cancer, and after the surgery, her physical strength dropped sharply.",
+          "UP": "Last year, it was discovered that she had developed a small tumor, and after the surgery, her physical strength had dropped sharply.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi8_18-L0034",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0034"
+            ],
+            "UP": [
+              "umi8_18-L0034"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "彼女は椅子に座りながら、挨拶に訪れる人々に、にこやかに返事をしている。昨年、小さな腫瘍が見つかり、手術を終えた後、めっきりと体力を落としてしまった。その為、立食形式であるこの受賞パーティーでも、彼女は椅子を用意してもらい、座ったまま挨拶をしていた。",
+              "translation": "She sat in a chair, cheerfully chatting with the people who came to greet her. Last year, she was diagnosed with the initial stages of cancer, and after the surgery, her physical strength dropped sharply. Because of this, even in this stand-up awards party, she was given a chair and sat down while greeting people. "
+            },
+            "UP": {
+              "japanese": "彼女は椅子に座りながら、挨拶に訪れる人々に、にこやかに返事をしている。昨年、小さな腫瘍が見つかり、手術を終えた後、めっきりと体力を落としてしまった。その為、立食形式であるこの受賞パーティーでも、彼女は椅子を用意してもらい、座ったまま挨拶をしていた。",
+              "translation": "She sat in a chair, cheerfully chatting with the people who came to greet her. Last year, it was discovered that she had developed a small tumor, and after the surgery, her physical strength had dropped sharply. Because of this, even in this stand‐up awards party, she was given a chair and sat down while greeting people."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0034"
+            ],
+            "UP": [
+              "umi8_18-L0034"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG retains original-PC early cancer diagnosis; PS3 and UP say a small tumor.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-126",
+      "kind": "PC",
+      "description": "MG retains Harry the Potato comparison from originalPC; PS3/UP use a generic record-setting bestseller thisyear. Related PC explanation262645–262648 supports the literary reference.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              52,
+              52
+            ],
+            "MG": [
+              52,
+              52
+            ],
+            "UP": [
+              52,
+              52
+            ]
+          },
+          "japanese": "このまま行けば今年度最高の記録的ベストセラーになるとか！」",
+          "japanesePC": "「寿先生、この度は受賞、誠におめでとうございます！　映画の方も大好評と聞いております！　このまま行けば『ハリポタ』を超える記録的大ヒットになるとか！」",
+          "japanesePS3": "このまま行けば今年度最高の記録的ベストセラーになるとか！」",
+          "WH": "\"Miss Kotobuki, congratulations on your award!  I hear the movie adaptation has been getting splendid reviews as well!  If you keep this up, you might even pass up Hari-Pota's record!\"",
+          "MG": "If you keep this up, you might even pass up Harry the Potato's record!\"",
+          "UP": "From what I hear, you're set to break records with the best‐selling books of the year!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi8_18-L0050",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0050"
+            ],
+            "UP": [
+              "umi8_18-L0050"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「寿先生、この度は受賞、誠におめでとうございます！　映画の方も大好評と聞いております！　このまま行けば今年度最高の記録的ベストセラーになるとか！」",
+              "translation": "\"Miss Kotobuki, congratulations on your award! I hear the movie adaptation has been getting splendid reviews as well! If you keep this up, you might even pass up Harry the Potato's record!\" "
+            },
+            "UP": {
+              "japanese": "「寿先生、この度は受賞、誠におめでとうございます！　映画の方も大好評と聞いております！　このまま行けば今年度最高の記録的ベストセラーになるとか！」",
+              "translation": "\"Miss Kotobuki, congratulations on your award! I hear the movie adaptation has been getting splendid reviews as well! From what I hear, you're set to break records with the best‐selling books of the year!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0050"
+            ],
+            "UP": [
+              "umi8_18-L0050"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG retains Harry the Potato comparison from originalPC; PS3/UP use a generic record-setting bestseller thisyear. Related PC explanation262645–262648 supports the literary reference.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-127",
+      "kind": "PC",
+      "description": "MG retains explicit brain damage omitted from PS3 memory-disorder wording. This is one connected edition family with379 and393.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              373,
+              373
+            ],
+            "MG": [
+              373,
+              373
+            ],
+            "UP": [
+              373,
+              373
+            ]
+          },
+          "japanese": "……先ほどもお話しました通り、……彼は記憶障害を持っています。",
+          "japanesePC": "「......寿先生。......先ほどもお話しました通り、......彼は記憶障害を持っています。いえ、脳障害と言った方が良いでしょう。事故の後遺症です。」",
+          "japanesePS3": "……先ほどもお話しました通り、……彼は記憶障害を持っています。",
+          "WH": "\"......Miss Kotobuki.  ......As I said before, ......his memory has been damaged.  No, perhaps I should say that his brain has been damaged.  It's an aftereffect of the accident.\"",
+          "MG": "...as I said before, ...his memory was damaged. No, perhaps I should say that his brain was damaged.",
+          "UP": "......As I said before, ......his memory has been damaged.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi8_18-L0372",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0372"
+            ],
+            "UP": [
+              "umi8_18-L0372"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……寿先生。……先ほどもお話しました通り、……彼は記憶障害を持っています。事故の後遺症です」",
+              "translation": "\"...Miss Kotobuki, ...as I said before, ...his memory was damaged. No, perhaps I should say that his brain was damaged. It's an aftereffect of the accident.\" "
+            },
+            "UP": {
+              "japanese": "「……寿先生。……先ほどもお話しました通り、……彼は記憶障害を持っています。事故の後遺症です」",
+              "translation": "\"......Miss Kotobuki. ......As I said before, ......his memory has been damaged. It was an aftereffect of the accident.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0372"
+            ],
+            "UP": [
+              "umi8_18-L0372"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG retains explicit brain damage omitted from PS3 memory-disorder wording. This is one connected edition family with379 and393.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-128",
+      "kind": "PC",
+      "description": "Both retain originalPC medication, while PS3 says broader treatment.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi8_18",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              428,
+              428
+            ],
+            "MG": [
+              428,
+              428
+            ],
+            "UP": [
+              428,
+              428
+            ]
+          },
+          "japanese": "医者の指導と治療。",
+          "japanesePC": "医者の指導と投薬。そして幾子の甲斐甲斐しい世話もあって、......ゆっくりと、心の平穏を取り戻していったのだ......。",
+          "japanesePS3": "医者の指導と治療。",
+          "WH": "Doctor's instructions and medication.  With that and Ikuko's diligent care, ......he slowly began to regain his peace of mind......",
+          "MG": "Doctor's instructions and medication.",
+          "UP": "Doctor's instructions and medication.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "retained_original_PC_material"
+          },
+          "readerRef": "umi8_18-L0425",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0425"
+            ],
+            "UP": [
+              "umi8_18-L0425"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして、………彼は発作的に、…………。……そのようなことがあれば、幾子が彼に、もう右代宮戦人のことは思い出さなくてもいいと言うのは、当然のことだ。彼は、「右代宮戦人」であった記憶を、ゆっくりとゆっくりと、忘れるように努めていった。医者の指導と治療。そして幾子の甲斐甲斐しい世話もあって、……ゆっくりと、心の平穏を取り戻していったのだ……。",
+              "translation": "And then......he had a fit...... ...After something like that, it was only natural that Ikuko would tell him that he didn't need to remember Ushiromiya Battler anymore. Bit by bit, he tried to forget that he was once \"Ushiromiya Battler\". Doctor's instructions and medication. With that and Ikuko's diligent care, ...he slowly began to regain his peace of mind... "
+            },
+            "UP": {
+              "japanese": "そして、………彼は発作的に、…………。……そのようなことがあれば、幾子が彼に、もう右代宮戦人のことは思い出さなくてもいいと言うのは、当然のことだ。彼は、「右代宮戦人」であった記憶を、ゆっくりとゆっくりと、忘れるように努めていった。医者の指導と治療。そして幾子の甲斐甲斐しい世話もあって、……ゆっくりと、心の平穏を取り戻していったのだ……。",
+              "translation": "And then, .........in a fit, he............ ......After something like that, it was only natural that Ikuko would tell him that he didn't need to remember Ushiromiya Battler anymore. Bit by bit, he tried to forget that he was once \"Ushiromiya Battler\". Doctor's instructions and medication. With that and Ikuko's diligent care, ......he slowly began to regain his peace of mind......"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_18-L0425"
+            ],
+            "UP": [
+              "umi8_18-L0425"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Both retain originalPC medication, while PS3 says broader treatment.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP08-HIDDEN-TEA-001": {
+      "umi8_18-L0001": {
+        "WH": [
+          "Biggs Publishing Company"
+        ],
+        "UP": [
+          "Biggs Publishing Company"
+        ]
+      }
+    },
+    "WH-EP08-HIDDEN-TEA-002": {
+      "umi8_18-L0059": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Mystery genre identifying Hachijo as a mystery novelist is absent from novelist."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "Mystery genre identifying Hachijo as a mystery novelist is absent from novelist."
+        }
+      }
+    },
+    "WH-EP08-HIDDEN-TEA-003": {
+      "umi8_18-L0200": {
+        "WH": [
+          "isn't so bitter"
+        ],
+        "MG": [
+          "isn't so bitter"
+        ],
+        "UP": [
+          "isn't so bitter"
+        ]
+      }
+    },
+    "WH-EP08-HIDDEN-TEA-004": {
+      "umi8_18-L0275": {
+        "WH": [
+          "split up with Eva oba-san there"
+        ],
+        "UP": [
+          "split up with Aunt Eva there"
+        ]
+      }
+    },
+    "WH-EP08-HIDDEN-TEA-005": {
+      "umi8_18-L0349": {
+        "WH": [
+          "There was nothing shy about his appearance"
+        ],
+        "MG": [
+          "There was nothing shy about his appearance"
+        ]
+      }
+    },
+    "WH-EP08-HIDDEN-TEA-006": {
+      "umi8_18-L0507": {
+        "WH": [
+          "had been established thanks to Ushiromiya Kinzo's support"
+        ],
+        "MG": [
+          "had been established thanks to Ushiromiya Kinzo's support"
+        ]
+      }
+    },
+    "WH-EP08-HIDDEN-TEA-007": {
+      "umi8_18-L0597": {
+        "WH": [
+          "I'm finally here, at last"
+        ],
+        "MG": [
+          "I'm finally here, at last"
+        ],
+        "UP": [
+          "I'm finally here, at last"
+        ]
+      }
+    },
+    "WH-EP08-HIDDEN-TEA-008": {
+      "umi8_18-L0414": {
+        "WH": [
+          "had a fit"
+        ],
+        "MG": [
+          "had a fit"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

@@ -1,1 +1,2197 @@
-{"findings":[{"id":"WH-EP05-CH05-001","kind":"WH","description":"Erika as the source of amazement becomes Erika expected to be surprised.","categories":["linguistic.wrong_subject","character.viewpoint_attribution"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[11,11],"MG":[11,11],"UP":[11,11]},"japanese":"……驚くべきは、またしてもヱリカだった。","japanesePC":"......驚くべきは、またしてもヱリカだった。","japanesePS3":"……驚くべきは、またしてもヱリカだった。","WH":"......Again, if anyone was to be surprised, it should have been Erika.","MG":"...Once again, if anyone was to be surprised, it should have been Erika.","UP":"......Again, if anyone was to be surprised, it should have been Erika.","note":"Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0011","readerRefs":{"WH":["umi5_5-L0011"],"MG":["umi5_5-L0011"],"UP":["umi5_5-L0011"]}}],"sourceReading":"驚くべきは ... ヱリカ identifies Erika as the remarkable or surprising person again. Her composure is what surprises observers.","alternative":"The next English sentence restores her composure, but this sentence reverses the experiencer/object relation and frames her as the person expected to react with surprise.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-002","kind":"WH","description":"Erika’s recognition of Hideyoshi’s mistaken concern is collapsed into causing tension.","categories":["linguistic.undertranslation","character.knowledge_boundary","character.irony_performance"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[52,54],"MG":[52,54],"UP":[52,54]},"japanese":"そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、\nまた逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、\n彼女はわかっていた。","japanesePC":"そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、また逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、彼女はわかっていた。","japanesePS3":"そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、\nまた逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、\n彼女はわかっていた。","WH":"Furthermore, Erika had even noticed that she'd been performing too perfectly and creating a sense of tension...and that this was why Hideyoshi had tried to break the ice.","MG":"Furthermore, Erika had noticed both that she'd been performing too perfectly\nand creating a sense of tension...\nand that Hideyoshi had tried to break the ice because he thought she was nervous.","UP":"Furthermore, Erika had even noticed that she had performed a little too perfectly,\ncreating a sense of tension that led Hideyoshi to think that she was nervous herself,\nand that this was why he had tried to break the ice.","note":"Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.","dispositions":{"MG":"corrected","UP":"partially_corrected"},"readerRef":"umi5_5-L0050","readerRefs":{"WH":["umi5_5-L0050"],"MG":["umi5_5-L0050"],"UP":["umi5_5-L0050"]}}],"sourceReading":"She understands both that her overly perfect behavior has made others tense and, conversely, that Hideyoshi approached because he assumed she herself was tense.","alternative":"Breaking the ice communicates goodwill, and the earlier passage explicitly states Hideyoshi’s assumption, but this explanation removes her recognition of that reverse misunderstanding and substitutes one causal chain.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-003","kind":"WH","description":"Creating a harmonious dinner becomes portraying a guest enjoying one.","categories":["linguistic.mistranslation","character.agency_responsibility","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[55,56],"MG":[55,56],"UP":[55,56]},"japanese":"だからこそ、少し子どもっぽく振舞っておどけて見せて、\n和やかな晩餐を客人の立場から演出して見せたのだ……。","japanesePC":"だからこそ、少し子どもっぽく振舞っておどけて見せて、和やかな晩餐を客人の立場から演出して見せたのだ......。","japanesePS3":"だからこそ、少し子どもっぽく振舞っておどけて見せて、\n和やかな晩餐を客人の立場から演出して見せたのだ……。","WH":"That's why she'd started behaving a little childish and light-hearted, acting out the part of a guest enjoying a harmonious dinner......","MG":"That's why she started acting a little childish and light-hearted,\nacting out the part of a guest enjoying a harmonious dinner...","UP":"That was why she'd started behaving a little childish and light‐hearted,\nacting out the part of a guest enjoying a harmonious dinner......","note":"Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0055","readerRefs":{"WH":["umi5_5-L0055"],"MG":["umi5_5-L0055"],"UP":["umi5_5-L0055"]}}],"sourceReading":"From her position as guest, she stages or brings about a harmonious dinner by deliberately joking and acting childlike.","alternative":"Acting out the part retains deliberate performance, but the English makes the role someone enjoying an already harmonious meal rather than someone producing its harmony.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-004","kind":"WH","description":"Jessica cannot afford to lose becomes assurance she is no worse.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[74,74],"MG":[74,74],"UP":[74,74]},"japanese":"「こりゃ、本家の令嬢として負けられねぇだろ。","japanesePC":"「こりゃ、本家の令嬢として負けられねぇだろ。お前も、日頃、夏妃伯母さんに仕込まれてるテーブルマナーと貫禄で対抗してみろよ。」","japanesePS3":"「こりゃ、本家の令嬢として負けられねぇだろ。","WH":"\"Well, as the daughter of the head family, I doubt you're any worse.  Try using those table manners and dignity Natsuhi oba-san's always training you with, and fight back!\"","MG":"\"Well, if you're a daughter of the Head Family, you'd better not let her beat you.","UP":"\"C'mon, as the daughter of the head family, you can't let this stand.","note":"Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_5-L0074","readerRefs":{"WH":["umi5_5-L0074"],"MG":["umi5_5-L0074"],"UP":["umi5_5-L0074"]}}],"sourceReading":"負けられねぇだろ challenges Jessica: as daughter of the main family she cannot afford to lose to the visitor.","alternative":"The following fight back still prompts competition, but I doubt you are any worse replaces obligation and provocation with reassurance about ability.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-005","kind":"WH","description":"Forecast that tonight will be adjourned becomes meeting already closed.","categories":["linguistic.tense_aspect","world.space_time_continuity","mystery.epistemic_status"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[113,113],"MG":[113,113],"UP":[113,113]},"japanese":"多分、今夜はこれでお開きになるだろう。","japanesePC":"絵羽伯母さんは、すぐにも親族会議を開催しようと息巻いてるようだが、あまり同調者は多くないようだ。多分、今夜はこれでお開きになるだろう。","japanesePS3":"多分、今夜はこれでお開きになるだろう。","WH":"Apparently, Eva oba-san got very worked up trying to convince the rest to start the family conference right away, but it didn't look like many people agreed with her.  The meeting had probably come to a close for the night.","MG":"They would probably call it quits for the night.","UP":"The meeting had probably come to a close for the night.","note":"Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi5_5-L0112","readerRefs":{"WH":["umi5_5-L0112"],"MG":["umi5_5-L0112"],"UP":["umi5_5-L0112"]}}],"sourceReading":"多分、今夜はこれでお開きになるだろう is a prediction that this will probably be the end for tonight, despite Eva wanting to convene immediately.","alternative":"Narrative past tense can mark future-in-the-past, but had come to a close presents completed adjournment rather than the Japanese prospective judgment.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-006","kind":"WH","description":"Relatives wanting certainty becomes Erika asserting factual certainty.","categories":["linguistic.wrong_subject","character.motivation_emotion","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[176,176],"MG":[176,176],"UP":[176,176]},"japanese":"それを、希望的憶測ではなく、……確実なものとしたいのだ。","japanesePC":"それを、希望的憶測ではなく、......確実なものとしたいのだ。","japanesePS3":"それを、希望的憶測ではなく、……確実なものとしたいのだ。","WH":"She wasn't trying to make it sound like wishful thinking......but an outright fact.","MG":"She wasn't trying to make it sound like wishful thinking, ...but an outright fact.","UP":"She wanted to establish this not as wishful thinking......but an outright fact.","note":"Parent independently read121–240.006 MG retains Erika assertion; UP restores wanting certainty but she remains unresolved between nearest Erika172 and Eva169 instead of collective relatives, partial with plausible Eva reading noted.007 both retain son-in-law for adopted son. HoldMG170 inheritance headship recovered175/193/199–200;122 rest advice anticipates126 and health inquiry recovered123. MG223 chance permits uncertainty in rival claims,232–233 explicit unique succession. MG204 until details clear reasonable suspension implication. UP211 trivial boast pragmatically fitsこの程度;165 no doubt supportedに違いありません/172assertion. No new independent firm defect or yellow.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi5_5-L0173","readerRefs":{"WH":["umi5_5-L0173"],"MG":["umi5_5-L0173"],"UP":["umi5_5-L0173"]}}],"sourceReading":"The narrative corrects its own account of the relatives’ question: they do not merely ask how Erika concluded this; they want becoming head after solving the epitaph to be certain rather than wishful speculation, hence press her.","alternative":"She could be Eva, but make it sound like an outright fact still substitutes a rhetorical assertion for wanting the proposition made certain. If she means Erika, it also assigns the motivation to the wrong person.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-007","kind":"WH","description":"Adopted son Hidetsugu becomes son-in-law.","categories":["linguistic.mistranslation","world.culture_history","world.world_fact"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[230,230],"MG":[230,230],"UP":[230,230]},"japanese":"秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、","japanesePC":"秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、これは、秀次より後に生まれた実子、秀頼を真の後継者とするためだったのではないかと囁かれている。","japanesePS3":"秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、","WH":"Even the Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son-in-law Hidetsugu commit seppuku, but it was rumored that he might have done this to make Hideyori, who was his real son and born after Hidetsugu, his true heir.","MG":"The Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son-in-law Hidetsugu commit seppuku,","UP":"Even the Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son‐in‐law Hidetsugu commit seppuku,","note":"Parent independently read121–240.006 MG retains Erika assertion; UP restores wanting certainty but she remains unresolved between nearest Erika172 and Eva169 instead of collective relatives, partial with plausible Eva reading noted.007 both retain son-in-law for adopted son. HoldMG170 inheritance headship recovered175/193/199–200;122 rest advice anticipates126 and health inquiry recovered123. MG223 chance permits uncertainty in rival claims,232–233 explicit unique succession. MG204 until details clear reasonable suspension implication. UP211 trivial boast pragmatically fitsこの程度;165 no doubt supportedに違いありません/172assertion. No new independent firm defect or yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0230","readerRefs":{"WH":["umi5_5-L0230"],"MG":["umi5_5-L0230"],"UP":["umi5_5-L0230"]}}],"sourceReading":"養子の秀次 means adopted son Hidetsugu, contrasted with the later-born biological son Hideyori.","alternative":"A son-in-law is a different family relation and does not render adoption. The source is the baseline; no independent certification of the historical explanation is asserted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-008","kind":"WH","description":"Accusation of strained interpretation becomes generic screwed-up reasoning.","categories":["linguistic.undertranslation","character.voice_state","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[250,250],"MG":[250,250],"UP":[250,250]},"japanese":"デタラメだ！！　こじつけだ！！」","japanesePC":"「な、...何だよそれッ！！　何が推理だ！　デタラメだ！！　こじつけだ！！」","japanesePS3":"デタラメだ！！　こじつけだ！！」","WH":"\"Wh, ...what the hell's that?!!  How do you call that reasoning?!  That's bullshit!!  It's screwed up!!\"","MG":"That's bullshit!! It's screwed up!!\"","UP":"That's bullshit!! You're just making it all up!!\"","note":"Parent independently read241–360.008 MG retains generic screwed up; UP substitutes fabrication for strained interpretation, modified but unresolved under same canonical parent, no duplicate independent count. HoldUP316 past cheating query:308 already solved while305–306 future demonstration; source permits testing prior solution,318 rule guarantee remains.303 would hints framed as personal hopeful expectation, not narrator guarantee.354 seaweed/flotsam literalization plausible in fragment-ocean loss-of-form imagery352–353, no physical transformation fact asserted. UP246 trivial reasonable boast;359 discomfort supported358/struggling. No independent firm defect or yellow.","dispositions":{"MG":"retained","UP":"modified_but_unresolved"},"readerRef":"umi5_5-L0248","readerRefs":{"WH":["umi5_5-L0248"],"MG":["umi5_5-L0248"],"UP":["umi5_5-L0248"]}}],"sourceReading":"こじつけだ specifically accuses Erika of forcing a connection or interpretation, after rejecting the account as nonsense.","alternative":"Bullshit and screwed up retain anger and rejection, but do not preserve the distinct criticism that her inference is contrived.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-009","kind":"WH","description":"WH replaces the weaving operation with grabbing one Fragment.","categories":["linguistic.word_choice","linguistic.imagery_rhythm_recurrence","world.world_layer"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[361,361],"MG":[361,361],"UP":[361,361]},"japanese":"………碑文の謎を解くためのカケラを紡ぐ……」","japanesePC":"「.........では、始めるわ。.........碑文の謎を解くためのカケラを紡ぐ......。」","japanesePS3":"………碑文の謎を解くためのカケラを紡ぐ……」","WH":"\".........Then let's begin.  .........I'll grab a Fragment for solving the riddle of the epitaph......\"","MG":"......I'll weave together some Fragments for solving the riddle of the epitaph...\"","UP":".........I'll weave a fragment for solving the riddle of the epitaph......\"","note":"Parent independently read361–480.009 both restore weave, singular/plural unspecified in Japanese;010 both retain wrong alternative clue logic. Both424 wring out answer omits narrowing possibilities, source explicitly contrasts exhaustive search421–423 with answer pruning; inheritedPC16594/95, supplement follows. Hold426 negating necessary water-river reading appropriate inference;409 excessive hints not firm numerical error. UP427 forever emphatic abandonment of clue, no changed truth;383 orbit decay renders inward spiral384. MG460 books narrowed to certain book462, no firm number defect. No independent new defect or yellow.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_5-L0360","readerRefs":{"WH":["umi5_5-L0360"],"MG":["umi5_5-L0360"],"UP":["umi5_5-L0360"]}}],"sourceReading":"カケラを紡ぐ announces spinning or weaving Fragments for solving the epitaph; the following display connects multiple Fragments with golden lines and gathers several around Bern.","alternative":"Bern does later select a single Fragment as the first one to show, but that later selection does not translate the earlier weaving announcement or its assembly metaphor.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-010","kind":"WH","description":"Alternative hint words become a word associated with sweetfish.","categories":["linguistic.logical_relation","mystery.puzzle_mechanism","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[457,457],"MG":[457,457],"UP":[457,457]},"japanese":"その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる…」","japanesePC":"「.........その一方で絵羽は、鮎である必要はないが、立派なヒントだったとも言っている。.........つまり、鮎は何かを想起させる鍵だということ。その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる...。」","japanesePS3":"その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる…」","WH":"\".........And on the other hand, Eva said that it wasn't important for them to be sweetfish, but that it was still an excellent hint.  .........In other words, the 'sweetfish' is a key to make you think of something else.  If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it 'probably didn't have to be sweetfish' makes sense...\"","MG":"If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it \"probably didn't have to be sweetfish\" makes sense...\"","UP":"If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it \"probably didn't have to be sweetfish\" makes sense...\"","note":"Parent independently read361–480.009 both restore weave, singular/plural unspecified in Japanese;010 both retain wrong alternative clue logic. Both424 wring out answer omits narrowing possibilities, source explicitly contrasts exhaustive search421–423 with answer pruning; inheritedPC16594/95, supplement follows. Hold426 negating necessary water-river reading appropriate inference;409 excessive hints not firm numerical error. UP427 forever emphatic abandonment of clue, no changed truth;383 orbit decay renders inward spiral384. MG460 books narrowed to certain book462, no firm number defect. No independent new defect or yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0455","readerRefs":{"WH":["umi5_5-L0455"],"MG":["umi5_5-L0455"],"UP":["umi5_5-L0455"]}}],"sourceReading":"If that same thing can be evoked by other words too, this explains why the hint need not specifically be sweetfish. 他の単語であっても describes alternative words evoking the referent.","alternative":"The English retains sweetfish as an evocative key, but its if clause instead asks whether the referent is a different word associated with sweetfish. It loses interchangeability of hint words.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-011","kind":"WH","description":"Apparent lack of knowledge becomes known fact used as proof.","categories":["linguistic.overinterpretation","mystery.epistemic_status","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[485,485],"MG":[485,485],"UP":[485,485]},"japanese":"絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし」","japanesePC":"「............そういうことよ。絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし。」","japanesePS3":"絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし」","WH":"\".........Correct.  And we know that because even Eva didn't know what the village meant until she checked the book.\"","MG":"And we know that because even Eva didn't know what the village meant until she checked the book.\"","UP":"And we know that because even Eva didn't know what the village meant until she checked the book.\"","note":"Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0484","readerRefs":{"WH":["umi5_5-L0484"],"MG":["umi5_5-L0484"],"UP":["umi5_5-L0484"]}}],"sourceReading":"Bern affirms the inference and adds that Eva also seems not to have understood the village downriver until checking the book. みたい marks appearance; し supplies supporting context.","alternative":"The observed recalled reaction supports the inference, but we know that because removes the hedge and promotes it to an explicit proof of the preceding conclusion.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-012","kind":"WH","description":"First twilight becoming understandable becomes its meaning changing drastically.","categories":["linguistic.mistranslation","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[517,517],"MG":[517,517],"UP":[517,517]},"japanese":"鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる」","japanesePC":"「.........そういうこと。鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる。」","japanesePS3":"鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる」","WH":"\".........That's it.  If we know that the key's true identity has six characters, the meaning of the first twilight changes drastically.\"","MG":"If we know the key's true identity has six characters, the meaning of the first twilight changes drastically.\"","UP":"If we know that the key's true identity is six characters, the meaning of the first twilight changes drastically.\"","note":"Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0516","readerRefs":{"WH":["umi5_5-L0516"],"MG":["umi5_5-L0516"],"UP":["umi5_5-L0516"]}}],"sourceReading":"Knowing the key is six characters makes the first twilight’s meaning considerably clearer.","alternative":"A new interpretation does change the reader’s understanding, but the English says the meaning changes rather than that its existing meaning becomes intelligible.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-013","kind":"WH","description":"Six or more characters becomes strictly more than six.","categories":["linguistic.logical_relation","mystery.scope_quantifier_negation","mystery.puzzle_mechanism"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[532,532],"MG":[532,532],"UP":[532,532]},"japanese":"「つまり、第一の晩に、６文字以上の文字列から、","japanesePC":"「つまり、第一の晩に、６文字以上の文字列から、鍵である６文字を“殺し”、残った文字でどうにかしろという意味なんだ...！」","japanesePS3":"「つまり、第一の晩に、６文字以上の文字列から、","WH":"\"In other words, on the first twilight, we take a list of characters that's longer than six, 'kill' the six that are the key, and then do something with the characters that remain...!\"","MG":"\"In other words, on the first twilight, we take a list of characters that's longer than six,","UP":"\"In other words, on the first twilight, we take a list of characters that's longer than six,","note":"Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0532","readerRefs":{"WH":["umi5_5-L0532"],"MG":["umi5_5-L0532"],"UP":["umi5_5-L0532"]}},{"chapter":"umi5_5","episode":5,"rows":{"JP":[557,557],"MG":[557,557],"UP":[557,557]},"japanese":"第一の晩を、６文字以上にどう読み解けばいいのかしら…」","japanesePC":"「つまり、第一の晩に、６文字以上の文字列から、鍵である６文字を“殺し”、残った文字でどうにかしろという意味なんだ...！」","japanesePS3":"第一の晩を、６文字以上にどう読み解けばいいのかしら…」","WH":"\"In other words, on the first twilight, we take a list of characters that's longer than six, 'kill' the six that are the key, and then do something with the characters that remain...!\"","MG":"We need to read 第一の晩 in some way that gives it more than six characters...\"","UP":"How could we read it{NOTE:\"it\" means \"the first twilight\": in a way that gives us more than six characters...?\"","note":"Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0555","readerRefs":{"WH":["umi5_5-L0532"],"MG":["umi5_5-L0555"],"UP":["umi5_5-L0555"]}}],"sourceReading":"６文字以上 includes six as the lower bound of the original character string.","alternative":"The subsequent remaining-letter task will require surviving characters, but Battler’s explicit premise here includes equality; WH tightens it earlier.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-014","kind":"WH","description":"Tentative 1st-night reading replaced by English epitaph-length observation.","categories":["linguistic.omission","linguistic.addition","mystery.information_timing_salience","mystery.puzzle_mechanism"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[542,545],"MG":[542,545],"UP":[542,545]},"japanese":"しかし、“第一の晩”じゃ、４文字しかない。\n他の読み方か？\n祖父さま風に英語で読むなら、……第一の晩って何だ…？\n1st-nightか…？","japanesePC":"しかし、“第一の晩”じゃ、４文字しかない。他の読み方か？　祖父さま風に英語で読むなら、......第一の晩って何だ...？　１ｓｔ－ｎｉｇｈｔか...？　..................。」","japanesePS3":"しかし、“第一の晩”じゃ、４文字しかない。\n他の読み方か？\n祖父さま風に英語で読むなら、……第一の晩って何だ…？\n1st-nightか…？","WH":"That might be a set of Japanese characters, but knowing Grandfather's tastes, could it be something in English?  'The first twilight' has more than six characters, even though the Japanese phrase has just four (第一の晩).  ............\"","MG":"That might be a set of Japanese characters,\nbut knowing Grandfather's tastes, could it be something in English?\n\"The first twilight\" has more than six characters,\neven though the Japanese phrase has just four (第一の晩).","UP":"But {ruby:the first twilight:第一の晩 only has four characters.\nAre we meant to read it differently?\nIf we read it in English like Grandfather would, maybe \"the first twilight\"? Or...something else like...{NOTE:For non‐english translations, this line should change to \"If we read it in English like Grandfather would, what would \"the first twilight\" become?\", and the following line should be in ENGLISH, not your translation's language:\nfirst night...?","note":"Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_5-L0541","readerRefs":{"WH":["umi5_5-L0541"],"MG":["umi5_5-L0541"],"UP":["umi5_5-L0541"]}}],"sourceReading":"Battler asks what 第一の晩 would be in English, tentatively trying １ｓｔ－ｎｉｇｈｔ.","alternative":"Adapting a Japanese-dependent puzzle requires acknowledging Japanese characters, which WH does, but the added length statement about The first twilight is a different hypothesis; the source’s tentative candidate is removed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-015","kind":"WH","description":"Narrative possibility gains unsupported doubt about the solution being too easy.","categories":["linguistic.addition","character.viewpoint_attribution","mystery.information_timing_salience"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[616,616],"MG":[616,616],"UP":[616,616]},"japanese":"第一の晩を意味する単語が、１１文字か、１３文字の可能性……。","japanesePC":"第一の晩を意味する単語が、１１文字か、１３文字の可能性......。","japanesePS3":"第一の晩を意味する単語が、１１文字か、１３文字の可能性……。","WH":"There's a chance that the word symbolizing the first twilight has 11 or 13 characters.  .........Wait...it couldn't be that easy, could it?","MG":"There's a chance the word symbolizing the first twilight has 11 or 13 characters. ......Wait, ...it couldn't be that easy, could it?","UP":"There's a chance that the word symbolizing the first twilight has eleven or thirteen characters......","note":"Parent independently read601–720.015016017 MG retained UP corrected. Both643/645 posing riddle becomes creating it; UP679 repeats authorship substitution where MG restores making them solve. InheritedPC17337/38,17344/45,17442/43 verified; new scoped parent follows, no actual author certified from speculative theory. Hold644 two names coordinated:631–632 explicitly recover player reasoning through piece.620 modest casual effort equivalent;630 differing many/first murders insufficient definite numerical-stage error;631 time limit recovered630.660–672 under speculation. No independent new defect or yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_5-L0613","readerRefs":{"WH":["umi5_5-L0613"],"MG":["umi5_5-L0613"],"UP":["umi5_5-L0613"]}}],"sourceReading":"The Japanese closes with the possibility that the first-twilight word has eleven or thirteen characters; it contains no too-easy question.","alternative":"The surrounding theory is explicitly tentative, but skepticism about ease is an additional reaction, not a rendering of the numerical possibility.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-016","kind":"WH","description":"Beatrice entrusting gold to the riddle becomes being entrusted with the riddle.","categories":["linguistic.wrong_subject","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[661,662],"MG":[661,662],"UP":[661,662]},"japanese":"……その黄金を着服することもなく、\n碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ……。","japanesePC":"......その黄金を着服することもなく、碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ......。","japanesePS3":"……その黄金を着服することもなく、\n碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ……。","WH":"......She was entrusted with the epitaph's riddle, and without ever embezzling the gold, she waited for a human fitting to be the successor to appear and solve it......","MG":"......She was entrusted with the epitaph's riddle, and without ever embezzling the gold,\nshe waited for a human fitting to be the Successor to appear and solve it...","UP":"......Without ever embezzling the gold,\nshe entrusted it all to the epitaph's riddle, and waited for a human fitting to be the successor to appear and solve it......","note":"Parent independently read601–720.015016017 MG retained UP corrected. Both643/645 posing riddle becomes creating it; UP679 repeats authorship substitution where MG restores making them solve. InheritedPC17337/38,17344/45,17442/43 verified; new scoped parent follows, no actual author certified from speculative theory. Hold644 two names coordinated:631–632 explicitly recover player reasoning through piece.620 modest casual effort equivalent;630 differing many/first murders insufficient definite numerical-stage error;631 time limit recovered630.660–672 under speculation. No independent new defect or yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_5-L0660","readerRefs":{"WH":["umi5_5-L0660"],"MG":["umi5_5-L0660"],"UP":["umi5_5-L0660"]}}],"sourceReading":"She does not embezzle the gold, but entrusts it to the epitaph’s riddle while waiting for a worthy successor to solve it.","alternative":"The preceding loyal-underling hypothesis may imply delegated responsibility, but WH reverses the expressed act of entrusting gold into her receiving the riddle.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-017","kind":"WH","description":"Almost ten o’clock becomes already ten o’clock.","categories":["linguistic.tense_aspect","world.space_time_continuity"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[697,697],"MG":[697,697],"UP":[697,697]},"japanese":"時計を見れば、もうじき夜の１０時だ。","japanesePC":"時計を見れば、もうじき夜の１０時だ。","japanesePS3":"時計を見れば、もうじき夜の１０時だ。","WH":"Judging by the clock, it was already 10:00 at night.","MG":"According to the clock, it was already 10:00 at night.","UP":"Judging by the clock, it would soon be ten at night.","note":"Parent independently read601–720.015016017 MG retained UP corrected. Both643/645 posing riddle becomes creating it; UP679 repeats authorship substitution where MG restores making them solve. InheritedPC17337/38,17344/45,17442/43 verified; new scoped parent follows, no actual author certified from speculative theory. Hold644 two names coordinated:631–632 explicitly recover player reasoning through piece.620 modest casual effort equivalent;630 differing many/first murders insufficient definite numerical-stage error;631 time limit recovered630.660–672 under speculation. No independent new defect or yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_5-L0697","readerRefs":{"WH":["umi5_5-L0697"],"MG":["umi5_5-L0697"],"UP":["umi5_5-L0697"]}}],"sourceReading":"もうじき夜の１０時 means it is nearly ten at night.","alternative":"The rough bedtime inference survives, but already ten puts the clock on the other side of the stated threshold.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-018","kind":"WH","description":"Inserted の and 郷 reading clue replaced by invented capital clue.","categories":["linguistic.mistranslation","linguistic.addition","mystery.clue_erasure","mystery.clue_invention","mystery.puzzle_mechanism","mystery.recurrence_discrimination"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[742,752],"MG":[742,752],"UP":[742,752]},"japanese":"………黄金郷って単語、何度も出てくるでしょ？」\n「出てきますね」\n「なぜか、……第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。\n黄金の郷へ至るだろうって書かれているの。\n…どうしてここだけ、“黄金の郷”と書かれているのか、気になってね」\n「…………本当だ。\n…確かに。\n他はみんな黄金郷って書かれてるのに……」\nみんな黄金郷なのに、第十の晩だけ、わざわざ“の”が入って、\n“黄金の郷”になっている……。\n何か、特別な意味でもあるんだろうか………。","japanesePC":"「なぜか、......第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。黄金の郷へ至るだろうって書かれているの。...どうしてここだけ、“黄金の郷”と書かれているのか、気になってね。」","japanesePS3":"………黄金郷って単語、何度も出てくるでしょ？」\n「出てきますね」\n「なぜか、……第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。\n黄金の郷へ至るだろうって書かれているの。\n…どうしてここだけ、“黄金の郷”と書かれているのか、気になってね」\n「…………本当だ。\n…確かに。\n他はみんな黄金郷って書かれてるのに……」\nみんな黄金郷なのに、第十の晩だけ、わざわざ“の”が入って、\n“黄金の郷”になっている……。\n何か、特別な意味でもあるんだろうか………。","WH":"\"Why is it......that the word 'capital' only appears in the tenth twilight?  The place that the gold is hidden is called 'the Golden Land' everywhere else, but only this one place calls the Golden Land a capital.\"","MG":"......at the end here, it says you'll receive the Golden Land's four treasures \"once and for the last time\", right?\"\n\"Yeah, it does.\"\n\"Why mention that you're reaching the Golden Land just once, and then say it's for the last time?\nIt's almost as though he's repeating the same thing twice.\nI've just been wondering whether he had some reason for putting it like that.\"\n\".........You're right.\n...Like you said,\nthere's got to be a more straightforward way of saying that.\"\nThat line should've been a key part of the riddle,\nwhere you wouldn't expect the writer to waste words needlessly...\nCould it have been done for some special purpose...?","UP":".........the word \"Golden Land\" ({ruby:ougonkyou:黄金郷) appears several times, right?\"\n\"Yes, it does.\"\n\"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the \"Home of the Gold\" (黄金の郷), read \"ougon no kyou\"—no, sorry, \"ougon no sato\".\nThe \"Home\" kanji ({ruby:kyou/sato:郷) is separated out.\nI can't help but wonder why this is the one place where it's written like that.\"\n\"............You're right.\n...No mistake.\nEverywhere else, it says \"Golden Land\" ({ruby:ougonkyou:黄金郷)...\"\nEven though all the rest are written \"Golden Land\", the tenth twilight is the only one where it's different,\nand \"Home of the Gold\" is written instead...\nI wonder if the word \"Home\" ({ruby:kyou/sato:郷) has some kind of special meaning.........","note":"Parent independently read721–858/end.018 MG replaces original invented capitalization clue with invented once/last time redundancy clue, still unsupported substitution; UP restoresの insertion and郷 reading, corrected across742–752/763. No new duplicate for MG manifestation. HoldMG813–814 library: English library can include book-storage without reading space,815 explicitly preserves storage-versus-reading distinction; UP more precise archive contrast. HoldUP765 few moments:793 current-day reasoning prompted revised opinion, plausible narrowed colloquial time. MG801 generic male heart captures smile quality with Battler implicit.807 presumed sleep licensed rest/goodnight earlier, not fact asserted. No verified PC-only yellow material.","dispositions":{"MG":"modified_but_unresolved","UP":"corrected"},"readerRef":"umi5_5-L0741","readerRefs":{"WH":["umi5_5-L0744"],"MG":["umi5_5-L0741","umi5_5-L0743","umi5_5-L0744","umi5_5-L0747","umi5_5-L0750"],"UP":["umi5_5-L0741","umi5_5-L0743","umi5_5-L0744","umi5_5-L0747","umi5_5-L0750"]}},{"chapter":"umi5_5","episode":5,"rows":{"JP":[763,763],"MG":[763,763],"UP":[763,763]},"japanese":"その“黄金の郷”って発見は、何かの鍵になるかもしれないじゃないっすか」","japanesePC":"「なぜか、......第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。黄金の郷へ至るだろうって書かれているの。...どうしてここだけ、“黄金の郷”と書かれているのか、気になってね。」","japanesePS3":"その“黄金の郷”って発見は、何かの鍵になるかもしれないじゃないっすか」","WH":"\"Why is it......that the word 'capital' only appears in the tenth twilight?  The place that the gold is hidden is called 'the Golden Land' everywhere else, but only this one place calls the Golden Land a capital.\"","MG":"This \"last time\" thing might be really important somewhere down the line.\"","UP":"That \"Home\" discovery might be really important somewhere down the line.\"","note":"Parent independently read721–858/end.018 MG replaces original invented capitalization clue with invented once/last time redundancy clue, still unsupported substitution; UP restoresの insertion and郷 reading, corrected across742–752/763. No new duplicate for MG manifestation. HoldMG813–814 library: English library can include book-storage without reading space,815 explicitly preserves storage-versus-reading distinction; UP more precise archive contrast. HoldUP765 few moments:793 current-day reasoning prompted revised opinion, plausible narrowed colloquial time. MG801 generic male heart captures smile quality with Battler implicit.807 presumed sleep licensed rest/goodnight earlier, not fact asserted. No verified PC-only yellow material.","dispositions":{"MG":"modified_but_unresolved","UP":"corrected"},"readerRef":"umi5_5-L0761","readerRefs":{"WH":["umi5_5-L0744"],"MG":["umi5_5-L0761"],"UP":["umi5_5-L0761"]}}],"sourceReading":"Rosa notices that the tenth twilight uniquely has 黄金の郷 instead of 黄金郷. She corrects her reading from キョウ to サト; narration explicitly calls attention to the inserted の. Her Kyoto theory comes from having mistakenly read the 郷 as キョウ.","alternative":"An English adaptation can explain the Japanese writing, and commented draft lines here demonstrate that option, but active WH instead claims the text calls the location a capital. 郷 is not 京. The added Tokyo/Kyoto 京 explanation changes the clue rather than exposing the source’s spelling distinction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-019","kind":"WH","description":"WH replaces narrowing candidate answers using further hints with wringing out the answer.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[424,424],"MG":[424,424],"UP":[424,424]},"japanese":"だから、さらにヒントを加味して、答えを絞る必要があった」","japanesePC":"「............そうしてもいいけれど、それじゃあ、時間がいくらあっても足りないわ。だから、さらにヒントを加味して、答えを絞る必要があった。」","japanesePS3":"だから、さらにヒントを加味して、答えを絞る必要があった」","WH":"\"............That would work too, but that way, no amount of time would be enough.  So, I needed to take some more hints into consideration to wring out the answer.\"","MG":"So, I needed to take some more hints into consideration to wring out the answer.\"","UP":"So, I needed to take some more hints into consideration to wring out the answer.\"","note":"Original PC and coherent paired context verified under ep05-ch05-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0423","readerRefs":{"WH":["umi5_5-L0423"],"MG":["umi5_5-L0423"],"UP":["umi5_5-L0423"]}}],"sourceReading":"答えを絞る means narrow down the possible answers;421–423 contrast exhaustive consideration of all possible locations with reducing that search space.","alternative":"Wringing out an answer can loosely mean obtaining it through effort, but omits the specifically stated pruning step in the reasoning method.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH05-020","kind":"WH","description":"WH changes posing the epitaph as a challenge into creating the epitaph, introducing authorship into the stated motive inquiry.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[643,645],"MG":[643,645],"UP":[643,645]},"japanese":"……祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。\nヱリカこと、ベルンカステルの推理は、極めて妥当なものだ。\nしかしそれは、祖父さまが出題者なら、だ。","japanesePC":"......祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。","japanesePS3":"……祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。\nヱリカこと、ベルンカステルの推理は、極めて妥当なものだ。\nしかしそれは、祖父さまが出題者なら、だ。","WH":"......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.","MG":"...This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.\nErika and Bernkastel's logic is extremely reasonable.\nBut that's only if we assume Grandfather was the one to create it.","UP":"......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.\nErika and Bernkastel's logic is extremely reasonable.\nBut that's only if we assume Grandfather was the one to create it.","note":"Original PC and coherent paired context verified under ep05-ch05-supplement-b-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_5-L0643","readerRefs":{"WH":["umi5_5-L0643"],"MG":["umi5_5-L0643"],"UP":["umi5_5-L0643"]}},{"chapter":"umi5_5","episode":5,"rows":{"JP":[679,679],"MG":[679,679],"UP":[679,679]},"japanese":"なぜベアトリーチェは、あんな難解な碑文を俺たちに出題するんだ……？","japanesePC":"......祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。","japanesePS3":"なぜベアトリーチェは、あんな難解な碑文を俺たちに出題するんだ……？","WH":"......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.","MG":"Why is she making us solve such a confusing epitaph...?","UP":"Why did she create such a confusing epitaph for us......?","note":"Original PC17442/17443 independently verified: Beatrice posing challenge becomes creating it in original WH/UP; MG restores making us solve. Recurrence under same parent, not duplicate count.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi5_5-L0678","readerRefs":{"WH":["umi5_5-L0643"],"MG":["umi5_5-L0678"],"UP":["umi5_5-L0678"]}}],"sourceReading":"出題 describes presenting or setting a problem for others, not necessarily composing its text. The discussion asks why the presenter makes others solve it.","alternative":"Posing a puzzle may include composing it, but the source does not require that identity of roles; creating narrows the inquiry to authorship.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH05-001-120-001","kind":"additional","description":"MG changes inability to pretend to be anything beyond themselves into inability to continue pretending.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_5","episode":5,"rows":{"JP":[97,98],"MG":[97,98],"UP":[97,98]},"japanese":"ま、俺たちがどう取り繕うと、俺たちは俺たち。\nそれ以上のフリは出来やしなかった。","japanesePC":"","japanesePS3":"ま、俺たちがどう取り繕うと、俺たちは俺たち。\nそれ以上のフリは出来やしなかった。","WH":"","MG":"Well, no matter how much we try to smooth it over, we are who we are.\nWe couldn't pretend any longer.","UP":"In the end, no matter how much we tried to smooth it over, we were who we were.\nWe couldn't act like we were anything else.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi5_5-L0097","readerRefs":{"WH":[],"MG":["umi5_5-L0097"],"UP":["umi5_5-L0097"]}}],"sourceReading":"それ以上のフリ cannot pretend to be more than who they are. MG any longer substitutes duration; originalPC15465/66 and UP preserve anything else.","alternative":"Giving up an act is compatible with the scene, but temporal cessation replaces the source limitation on the identity/persona they can portray.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP05-CH05-001",
+      "kind": "WH",
+      "description": "Erika as the source of amazement becomes Erika expected to be surprised.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              11,
+              11
+            ],
+            "MG": [
+              11,
+              11
+            ],
+            "UP": [
+              11,
+              11
+            ]
+          },
+          "japanese": "……驚くべきは、またしてもヱリカだった。",
+          "japanesePC": "......驚くべきは、またしてもヱリカだった。",
+          "japanesePS3": "……驚くべきは、またしてもヱリカだった。",
+          "WH": "......Again, if anyone was to be surprised, it should have been Erika.",
+          "MG": "...Once again, if anyone was to be surprised, it should have been Erika.",
+          "UP": "......Again, if anyone was to be surprised, it should have been Erika.",
+          "note": "Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0011",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0011"
+            ],
+            "MG": [
+              "umi5_5-L0011"
+            ],
+            "UP": [
+              "umi5_5-L0011"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……驚くべきは、またしてもヱリカだった。彼女はこのような晩餐であっても、何も驚かず、周りに合わせて落ち着きある振る舞いを見せている。……迷い込んだ子犬のような怯えは、微塵も感じられなかった。",
+              "translation": "...Once again, if anyone was to be surprised, it should have been Erika. And yet, she showed no signs of amazement at this dinner and acted with composure, blending in with everyone else. ...There wasn't even a sliver of the fear one might expect from someone who had wandered here like a lost puppy. "
+            },
+            "UP": {
+              "japanese": "……驚くべきは、またしてもヱリカだった。彼女はこのような晩餐であっても、何も驚かず、周りに合わせて落ち着きある振る舞いを見せている。……迷い込んだ子犬のような怯えは、微塵も感じられなかった。",
+              "translation": "......Again, if anyone was to be surprised, it should have been Erika. And yet, she showed no surprise at this dinner, and acted with composure, blending in with everyone else. ......There wasn't even a sliver of the fear one might expect from someone who had wandered here like a lost puppy."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0011"
+            ],
+            "MG": [
+              "umi5_5-L0011"
+            ],
+            "UP": [
+              "umi5_5-L0011"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "驚くべきは ... ヱリカ identifies Erika as the remarkable or surprising person again. Her composure is what surprises observers.",
+      "alternative": "The next English sentence restores her composure, but this sentence reverses the experiencer/object relation and frames her as the person expected to react with surprise.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-002",
+      "kind": "WH",
+      "description": "Erika’s recognition of Hideyoshi’s mistaken concern is collapsed into causing tension.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.knowledge_boundary",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              52,
+              54
+            ],
+            "MG": [
+              52,
+              54
+            ],
+            "UP": [
+              52,
+              54
+            ]
+          },
+          "japanese": "そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、\nまた逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、\n彼女はわかっていた。",
+          "japanesePC": "そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、また逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、彼女はわかっていた。",
+          "japanesePS3": "そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、\nまた逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、\n彼女はわかっていた。",
+          "WH": "Furthermore, Erika had even noticed that she'd been performing too perfectly and creating a sense of tension...and that this was why Hideyoshi had tried to break the ice.",
+          "MG": "Furthermore, Erika had noticed both that she'd been performing too perfectly\nand creating a sense of tension...\nand that Hideyoshi had tried to break the ice because he thought she was nervous.",
+          "UP": "Furthermore, Erika had even noticed that she had performed a little too perfectly,\ncreating a sense of tension that led Hideyoshi to think that she was nervous herself,\nand that this was why he had tried to break the ice.",
+          "note": "Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi5_5-L0050",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0050"
+            ],
+            "MG": [
+              "umi5_5-L0050"
+            ],
+            "UP": [
+              "umi5_5-L0050"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "もちろん、馬鹿な子だと思って笑った者はいない。フルコースで、オードブルの次に来るのはスープだと彼女はもちろん、わかっている。そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、また逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、彼女はわかっていた。",
+              "translation": "Of course, no one was laughing at her. She obviously knew that soup came after hors d'oeuvres in a full course meal. Furthermore, Erika had noticed both that she'd been performing too perfectly and creating a sense of tension... and that Hideyoshi had tried to break the ice because he thought she was nervous. "
+            },
+            "UP": {
+              "japanese": "もちろん、馬鹿な子だと思って笑った者はいない。フルコースで、オードブルの次に来るのはスープだと彼女はもちろん、わかっている。そして、少し完璧に振舞い過ぎ、緊張感を持たれてしまっていることも、また逆に、自分が緊張しているだろうと思って、秀吉が気を利かせて話し掛けてきたことまで、彼女はわかっていた。",
+              "translation": "Of course, no one was laughing at her. She obviously knew that soup came after hors d'oeuvres in a full course meal. Furthermore, Erika had even noticed that she had performed a little too perfectly, creating a sense of tension that led Hideyoshi to think that she was nervous herself, and that this was why he had tried to break the ice."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0050"
+            ],
+            "MG": [
+              "umi5_5-L0050"
+            ],
+            "UP": [
+              "umi5_5-L0050"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She understands both that her overly perfect behavior has made others tense and, conversely, that Hideyoshi approached because he assumed she herself was tense.",
+      "alternative": "Breaking the ice communicates goodwill, and the earlier passage explicitly states Hideyoshi’s assumption, but this explanation removes her recognition of that reverse misunderstanding and substitutes one causal chain.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-003",
+      "kind": "WH",
+      "description": "Creating a harmonious dinner becomes portraying a guest enjoying one.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              55,
+              56
+            ],
+            "MG": [
+              55,
+              56
+            ],
+            "UP": [
+              55,
+              56
+            ]
+          },
+          "japanese": "だからこそ、少し子どもっぽく振舞っておどけて見せて、\n和やかな晩餐を客人の立場から演出して見せたのだ……。",
+          "japanesePC": "だからこそ、少し子どもっぽく振舞っておどけて見せて、和やかな晩餐を客人の立場から演出して見せたのだ......。",
+          "japanesePS3": "だからこそ、少し子どもっぽく振舞っておどけて見せて、\n和やかな晩餐を客人の立場から演出して見せたのだ……。",
+          "WH": "That's why she'd started behaving a little childish and light-hearted, acting out the part of a guest enjoying a harmonious dinner......",
+          "MG": "That's why she started acting a little childish and light-hearted,\nacting out the part of a guest enjoying a harmonious dinner...",
+          "UP": "That was why she'd started behaving a little childish and light‐hearted,\nacting out the part of a guest enjoying a harmonious dinner......",
+          "note": "Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0055",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0055"
+            ],
+            "MG": [
+              "umi5_5-L0055"
+            ],
+            "UP": [
+              "umi5_5-L0055"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "だからこそ、少し子どもっぽく振舞っておどけて見せて、和やかな晩餐を客人の立場から演出して見せたのだ……。霧江だけに限らず、すぐにそれを一同も見抜く。招かれざる客だったとしても、やはり彼女は右代宮家の晩餐に着席するに相応しい人間のようだった。",
+              "translation": "That's why she started acting a little childish and light-hearted, acting out the part of a guest enjoying a harmonious dinner... Pretty soon, not only Kyrie, but everyone else caught on. Though she was an uninvited guest, she was apparently worthy of participating in an Ushiromiya family dinner. "
+            },
+            "UP": {
+              "japanese": "だからこそ、少し子どもっぽく振舞っておどけて見せて、和やかな晩餐を客人の立場から演出して見せたのだ……。霧江だけに限らず、すぐにそれを一同も見抜く。招かれざる客だったとしても、やはり彼女は右代宮家の晩餐に着席するに相応しい人間のようだった。",
+              "translation": "That was why she'd started behaving a little childish and light‐hearted, acting out the part of a guest enjoying a harmonious dinner...... Pretty soon, not only Kyrie, but everyone else also caught on. Even though she was an uninvited guest, she was apparently worthy of participating in an Ushiromiya family dinner."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0055"
+            ],
+            "MG": [
+              "umi5_5-L0055"
+            ],
+            "UP": [
+              "umi5_5-L0055"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "From her position as guest, she stages or brings about a harmonious dinner by deliberately joking and acting childlike.",
+      "alternative": "Acting out the part retains deliberate performance, but the English makes the role someone enjoying an already harmonious meal rather than someone producing its harmony.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-004",
+      "kind": "WH",
+      "description": "Jessica cannot afford to lose becomes assurance she is no worse.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              74,
+              74
+            ],
+            "MG": [
+              74,
+              74
+            ],
+            "UP": [
+              74,
+              74
+            ]
+          },
+          "japanese": "「こりゃ、本家の令嬢として負けられねぇだろ。",
+          "japanesePC": "「こりゃ、本家の令嬢として負けられねぇだろ。お前も、日頃、夏妃伯母さんに仕込まれてるテーブルマナーと貫禄で対抗してみろよ。」",
+          "japanesePS3": "「こりゃ、本家の令嬢として負けられねぇだろ。",
+          "WH": "\"Well, as the daughter of the head family, I doubt you're any worse.  Try using those table manners and dignity Natsuhi oba-san's always training you with, and fight back!\"",
+          "MG": "\"Well, if you're a daughter of the Head Family, you'd better not let her beat you.",
+          "UP": "\"C'mon, as the daughter of the head family, you can't let this stand.",
+          "note": "Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0074",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0074"
+            ],
+            "MG": [
+              "umi5_5-L0074"
+            ],
+            "UP": [
+              "umi5_5-L0074"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「こりゃ、本家の令嬢として負けられねぇだろ。お前も、日頃、夏妃伯母さんに仕込まれてるテーブルマナーと貫禄で対抗してみろよ」",
+              "translation": "\"Well, if you're a daughter of the Head Family, you'd better not let her beat you. Try using those table manners and dignity Aunt Natsuhi's always training you with, and fight back!\" "
+            },
+            "UP": {
+              "japanese": "「こりゃ、本家の令嬢として負けられねぇだろ。お前も、日頃、夏妃伯母さんに仕込まれてるテーブルマナーと貫禄で対抗してみろよ」",
+              "translation": "\"C'mon, as the daughter of the head family, you can't let this stand. Try fighting back with the table manners and dignity Aunt Natsuhi's always teaching you.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0074"
+            ],
+            "MG": [
+              "umi5_5-L0074"
+            ],
+            "UP": [
+              "umi5_5-L0074"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "負けられねぇだろ challenges Jessica: as daughter of the main family she cannot afford to lose to the visitor.",
+      "alternative": "The following fight back still prompts competition, but I doubt you are any worse replaces obligation and provocation with reassurance about ability.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-005",
+      "kind": "WH",
+      "description": "Forecast that tonight will be adjourned becomes meeting already closed.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.space_time_continuity",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              113,
+              113
+            ],
+            "MG": [
+              113,
+              113
+            ],
+            "UP": [
+              113,
+              113
+            ]
+          },
+          "japanese": "多分、今夜はこれでお開きになるだろう。",
+          "japanesePC": "絵羽伯母さんは、すぐにも親族会議を開催しようと息巻いてるようだが、あまり同調者は多くないようだ。多分、今夜はこれでお開きになるだろう。",
+          "japanesePS3": "多分、今夜はこれでお開きになるだろう。",
+          "WH": "Apparently, Eva oba-san got very worked up trying to convince the rest to start the family conference right away, but it didn't look like many people agreed with her.  The meeting had probably come to a close for the night.",
+          "MG": "They would probably call it quits for the night.",
+          "UP": "The meeting had probably come to a close for the night.",
+          "note": "Parent independently read1–120 all witnesses.001003 both retain;002 MG restores independent recognition, UP restores concern but creates causal link instead of contrasting observations, partial under same parent.004 both corrected;005 MG restores future expectation UP retains past adjournment. MG98 independently changes identity comparison to duration, originalPC15465/66 verified. Hold83 poked pole imagery: source突っ込む allows jab into and84–87 rigid posture remains. MG118 guesthouse location recovered114–116. No yellow material.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0112",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0112"
+            ],
+            "MG": [
+              "umi5_5-L0112"
+            ],
+            "UP": [
+              "umi5_5-L0112"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "絵羽伯母さんは、すぐにも親族会議を開催しようと息巻いてるようだが、あまり同調者は多くないようだ。多分、今夜はこれでお開きになるだろう。",
+              "translation": "Apparently, Aunt Eva was getting really worked up, trying to convince the rest to start the family conference right away, but it didn't look like many people agreed with her. They would probably call it quits for the night. "
+            },
+            "UP": {
+              "japanese": "絵羽伯母さんは、すぐにも親族会議を開催しようと息巻いてるようだが、あまり同調者は多くないようだ。多分、今夜はこれでお開きになるだろう。",
+              "translation": " Auntie Eva seemed to get very worked up trying to convince the rest to start the family conference right away, but it didn't look like many people agreed with her. The meeting had probably come to a close for the night."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0112"
+            ],
+            "MG": [
+              "umi5_5-L0112"
+            ],
+            "UP": [
+              "umi5_5-L0112"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "多分、今夜はこれでお開きになるだろう is a prediction that this will probably be the end for tonight, despite Eva wanting to convene immediately.",
+      "alternative": "Narrative past tense can mark future-in-the-past, but had come to a close presents completed adjournment rather than the Japanese prospective judgment.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-006",
+      "kind": "WH",
+      "description": "Relatives wanting certainty becomes Erika asserting factual certainty.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.motivation_emotion",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              176,
+              176
+            ],
+            "MG": [
+              176,
+              176
+            ],
+            "UP": [
+              176,
+              176
+            ]
+          },
+          "japanese": "それを、希望的憶測ではなく、……確実なものとしたいのだ。",
+          "japanesePC": "それを、希望的憶測ではなく、......確実なものとしたいのだ。",
+          "japanesePS3": "それを、希望的憶測ではなく、……確実なものとしたいのだ。",
+          "WH": "She wasn't trying to make it sound like wishful thinking......but an outright fact.",
+          "MG": "She wasn't trying to make it sound like wishful thinking, ...but an outright fact.",
+          "UP": "She wanted to establish this not as wishful thinking......but an outright fact.",
+          "note": "Parent independently read121–240.006 MG retains Erika assertion; UP restores wanting certainty but she remains unresolved between nearest Erika172 and Eva169 instead of collective relatives, partial with plausible Eva reading noted.007 both retain son-in-law for adopted son. HoldMG170 inheritance headship recovered175/193/199–200;122 rest advice anticipates126 and health inquiry recovered123. MG223 chance permits uncertainty in rival claims,232–233 explicit unique succession. MG204 until details clear reasonable suspension implication. UP211 trivial boast pragmatically fitsこの程度;165 no doubt supportedに違いありません/172assertion. No new independent firm defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi5_5-L0173",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0173"
+            ],
+            "MG": [
+              "umi5_5-L0173"
+            ],
+            "UP": [
+              "umi5_5-L0173"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "何をもって、そうだと言い切ったのか。\nいや、………そうではない。\n“碑文を解いたら、次の当主になれる”。それを、希望的憶測ではなく、……確実なものとしたいのだ。だから、ヱリカにどうしてそう言い切れるのかと、詰め寄るのだ。",
+              "translation": "How had she come to it? No, ......that's not the problem. \"If you solve the epitaph, you can become the next Head\". She wasn't trying to make it sound like wishful thinking, ...but an outright fact. So they closed in around Erika, asking why she was so sure. "
+            },
+            "UP": {
+              "japanese": "何をもって、そうだと言い切ったのか。\nいや、………そうではない。\n“碑文を解いたら、次の当主になれる”。それを、希望的憶測ではなく、……確実なものとしたいのだ。だから、ヱリカにどうしてそう言い切れるのかと、詰め寄るのだ。",
+              "translation": "How had she come to it?\nNo, .........that wasn't the problem.\n\"If you solve the epitaph, you can become the next head\". She wanted to establish this not as wishful thinking......but an outright fact. So they closed in around Erika, asking why she was so sure."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0173"
+            ],
+            "MG": [
+              "umi5_5-L0173"
+            ],
+            "UP": [
+              "umi5_5-L0173"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narrative corrects its own account of the relatives’ question: they do not merely ask how Erika concluded this; they want becoming head after solving the epitaph to be certain rather than wishful speculation, hence press her.",
+      "alternative": "She could be Eva, but make it sound like an outright fact still substitutes a rhetorical assertion for wanting the proposition made certain. If she means Erika, it also assigns the motivation to the wrong person.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-007",
+      "kind": "WH",
+      "description": "Adopted son Hidetsugu becomes son-in-law.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.culture_history",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              230,
+              230
+            ],
+            "MG": [
+              230,
+              230
+            ],
+            "UP": [
+              230,
+              230
+            ]
+          },
+          "japanese": "秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、",
+          "japanesePC": "秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、これは、秀次より後に生まれた実子、秀頼を真の後継者とするためだったのではないかと囁かれている。",
+          "japanesePS3": "秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、",
+          "WH": "Even the Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son-in-law Hidetsugu commit seppuku, but it was rumored that he might have done this to make Hideyori, who was his real son and born after Hidetsugu, his true heir.",
+          "MG": "The Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son-in-law Hidetsugu commit seppuku,",
+          "UP": "Even the Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son‐in‐law Hidetsugu commit seppuku,",
+          "note": "Parent independently read121–240.006 MG retains Erika assertion; UP restores wanting certainty but she remains unresolved between nearest Erika172 and Eva169 instead of collective relatives, partial with plausible Eva reading noted.007 both retain son-in-law for adopted son. HoldMG170 inheritance headship recovered175/193/199–200;122 rest advice anticipates126 and health inquiry recovered123. MG223 chance permits uncertainty in rival claims,232–233 explicit unique succession. MG204 until details clear reasonable suspension implication. UP211 trivial boast pragmatically fitsこの程度;165 no doubt supportedに違いありません/172assertion. No new independent firm defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0230",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0230"
+            ],
+            "MG": [
+              "umi5_5-L0230"
+            ],
+            "UP": [
+              "umi5_5-L0230"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、これは、秀次より後に生まれた実子、秀頼を真の後継者とするためだったのではないかと囁かれている。……つまり、後継者指名とは、後継者は誰もが認める唯一無二の一人であると全体に知らしめ、それ以外の人物が対立候補となる要素全てを排除することも意味する。",
+              "translation": "The Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son-in-law Hidetsugu commit seppuku, but it was rumored that he might have done this to make Hideyori, who was his real son and born after Hidetsugu, his true heir. ...In other words, naming a successor was a way to make it generally known that a single, unique person would be acknowledged by everyone, and a way to remove any chance of another person becoming an opposing candidate. "
+            },
+            "UP": {
+              "japanese": "秀吉が憧れる戦国武将、豊臣秀吉も、養子の秀次を切腹させているが、これは、秀次より後に生まれた実子、秀頼を真の後継者とするためだったのではないかと囁かれている。……つまり、後継者指名とは、後継者は誰もが認める唯一無二の一人であると全体に知らしめ、それ以外の人物が対立候補となる要素全てを排除することも意味する。",
+              "translation": "Even the Sengoku commander Hideyoshi admired, Toyotomi Hideyoshi, made his son‐in‐law Hidetsugu commit seppuku, but it was rumored that he might have done this to make Hideyori, who was his real son and born after Hidetsugu, his true heir. ......In other words, naming a successor was a way to make it known to the world that a given single, unique person would be acknowledged by everyone as the successor, and a way to remove any chance of another person becoming an opposing candidate."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0230"
+            ],
+            "MG": [
+              "umi5_5-L0230"
+            ],
+            "UP": [
+              "umi5_5-L0230"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "養子の秀次 means adopted son Hidetsugu, contrasted with the later-born biological son Hideyori.",
+      "alternative": "A son-in-law is a different family relation and does not render adoption. The source is the baseline; no independent certification of the historical explanation is asserted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-008",
+      "kind": "WH",
+      "description": "Accusation of strained interpretation becomes generic screwed-up reasoning.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.voice_state",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              250,
+              250
+            ],
+            "MG": [
+              250,
+              250
+            ],
+            "UP": [
+              250,
+              250
+            ]
+          },
+          "japanese": "デタラメだ！！　こじつけだ！！」",
+          "japanesePC": "「な、...何だよそれッ！！　何が推理だ！　デタラメだ！！　こじつけだ！！」",
+          "japanesePS3": "デタラメだ！！　こじつけだ！！」",
+          "WH": "\"Wh, ...what the hell's that?!!  How do you call that reasoning?!  That's bullshit!!  It's screwed up!!\"",
+          "MG": "That's bullshit!! It's screwed up!!\"",
+          "UP": "That's bullshit!! You're just making it all up!!\"",
+          "note": "Parent independently read241–360.008 MG retains generic screwed up; UP substitutes fabrication for strained interpretation, modified but unresolved under same canonical parent, no duplicate independent count. HoldUP316 past cheating query:308 already solved while305–306 future demonstration; source permits testing prior solution,318 rule guarantee remains.303 would hints framed as personal hopeful expectation, not narrator guarantee.354 seaweed/flotsam literalization plausible in fragment-ocean loss-of-form imagery352–353, no physical transformation fact asserted. UP246 trivial reasonable boast;359 discomfort supported358/struggling. No independent firm defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "modified_but_unresolved"
+          },
+          "readerRef": "umi5_5-L0248",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0248"
+            ],
+            "MG": [
+              "umi5_5-L0248"
+            ],
+            "UP": [
+              "umi5_5-L0248"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「な、…何だよそれッ！！　何が推理だ！　デタラメだ！！　こじつけだ！！」",
+              "translation": "\"Wh-What the hell?!! How do you call that reasoning?! That's bullshit!! It's screwed up!!\" "
+            },
+            "UP": {
+              "japanese": "「な、…何だよそれッ！！　何が推理だ！　デタラメだ！！　こじつけだ！！」",
+              "translation": "\"Wh‐...what the hell is that?!! That's not logic! That's bullshit!! You're just making it all up!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0248"
+            ],
+            "MG": [
+              "umi5_5-L0248"
+            ],
+            "UP": [
+              "umi5_5-L0248"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "こじつけだ specifically accuses Erika of forcing a connection or interpretation, after rejecting the account as nonsense.",
+      "alternative": "Bullshit and screwed up retain anger and rejection, but do not preserve the distinct criticism that her inference is contrived.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-009",
+      "kind": "WH",
+      "description": "WH replaces the weaving operation with grabbing one Fragment.",
+      "categories": [
+        "linguistic.word_choice",
+        "linguistic.imagery_rhythm_recurrence",
+        "world.world_layer"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              361,
+              361
+            ],
+            "MG": [
+              361,
+              361
+            ],
+            "UP": [
+              361,
+              361
+            ]
+          },
+          "japanese": "………碑文の謎を解くためのカケラを紡ぐ……」",
+          "japanesePC": "「.........では、始めるわ。.........碑文の謎を解くためのカケラを紡ぐ......。」",
+          "japanesePS3": "………碑文の謎を解くためのカケラを紡ぐ……」",
+          "WH": "\".........Then let's begin.  .........I'll grab a Fragment for solving the riddle of the epitaph......\"",
+          "MG": "......I'll weave together some Fragments for solving the riddle of the epitaph...\"",
+          "UP": ".........I'll weave a fragment for solving the riddle of the epitaph......\"",
+          "note": "Parent independently read361–480.009 both restore weave, singular/plural unspecified in Japanese;010 both retain wrong alternative clue logic. Both424 wring out answer omits narrowing possibilities, source explicitly contrasts exhaustive search421–423 with answer pruning; inheritedPC16594/95, supplement follows. Hold426 negating necessary water-river reading appropriate inference;409 excessive hints not firm numerical error. UP427 forever emphatic abandonment of clue, no changed truth;383 orbit decay renders inward spiral384. MG460 books narrowed to certain book462, no firm number defect. No independent new defect or yellow.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0360",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0360"
+            ],
+            "MG": [
+              "umi5_5-L0360"
+            ],
+            "UP": [
+              "umi5_5-L0360"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………では、始めるわ。………碑文の謎を解くためのカケラを紡ぐ……」",
+              "translation": "\"......Then let's begin. ......I'll weave together some Fragments for solving the riddle of the epitaph...\" "
+            },
+            "UP": {
+              "japanese": "「………では、始めるわ。………碑文の謎を解くためのカケラを紡ぐ……」",
+              "translation": "\".........Then let's begin. .........I'll weave a fragment for solving the riddle of the epitaph......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0360"
+            ],
+            "MG": [
+              "umi5_5-L0360"
+            ],
+            "UP": [
+              "umi5_5-L0360"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "カケラを紡ぐ announces spinning or weaving Fragments for solving the epitaph; the following display connects multiple Fragments with golden lines and gathers several around Bern.",
+      "alternative": "Bern does later select a single Fragment as the first one to show, but that later selection does not translate the earlier weaving announcement or its assembly metaphor.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-010",
+      "kind": "WH",
+      "description": "Alternative hint words become a word associated with sweetfish.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.puzzle_mechanism",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              457,
+              457
+            ],
+            "MG": [
+              457,
+              457
+            ],
+            "UP": [
+              457,
+              457
+            ]
+          },
+          "japanese": "その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる…」",
+          "japanesePC": "「.........その一方で絵羽は、鮎である必要はないが、立派なヒントだったとも言っている。.........つまり、鮎は何かを想起させる鍵だということ。その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる...。」",
+          "japanesePS3": "その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる…」",
+          "WH": "\".........And on the other hand, Eva said that it wasn't important for them to be sweetfish, but that it was still an excellent hint.  .........In other words, the 'sweetfish' is a key to make you think of something else.  If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it 'probably didn't have to be sweetfish' makes sense...\"",
+          "MG": "If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it \"probably didn't have to be sweetfish\" makes sense...\"",
+          "UP": "If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it \"probably didn't have to be sweetfish\" makes sense...\"",
+          "note": "Parent independently read361–480.009 both restore weave, singular/plural unspecified in Japanese;010 both retain wrong alternative clue logic. Both424 wring out answer omits narrowing possibilities, source explicitly contrasts exhaustive search421–423 with answer pruning; inheritedPC16594/95, supplement follows. Hold426 negating necessary water-river reading appropriate inference;409 excessive hints not firm numerical error. UP427 forever emphatic abandonment of clue, no changed truth;383 orbit decay renders inward spiral384. MG460 books narrowed to certain book462, no firm number defect. No independent new defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0455",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0455"
+            ],
+            "MG": [
+              "umi5_5-L0455"
+            ],
+            "UP": [
+              "umi5_5-L0455"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………その一方で絵羽は、鮎である必要はないが、立派なヒントだったとも言っている。………つまり、鮎は何かを想起させる鍵だということ。その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる…」",
+              "translation": "\"......On the other hand, Eva said it wasn't important for them to be sweetfish, but that it was still an excellent hint. ......In other words, the \"sweetfish\" is a key to make you think of something else. If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it \"probably didn't have to be sweetfish\" makes sense...\" "
+            },
+            "UP": {
+              "japanese": "「………その一方で絵羽は、鮎である必要はないが、立派なヒントだったとも言っている。………つまり、鮎は何かを想起させる鍵だということ。その何かが他の単語であっても想起できるなら、絵羽の言う“鮎である必要はないが”という言葉に繋がってくる…」",
+              "translation": "\".........And on the other hand, Eva said that it wasn't important for them to be sweetfish, but that it was still an excellent hint. .........In other words, the \"sweetfish\" is a key to make you think of something else. If that something is a different word, but a word that sweetfish makes you think of, then Eva's line about how it \"probably didn't have to be sweetfish\" makes sense...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0455"
+            ],
+            "MG": [
+              "umi5_5-L0455"
+            ],
+            "UP": [
+              "umi5_5-L0455"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "If that same thing can be evoked by other words too, this explains why the hint need not specifically be sweetfish. 他の単語であっても describes alternative words evoking the referent.",
+      "alternative": "The English retains sweetfish as an evocative key, but its if clause instead asks whether the referent is a different word associated with sweetfish. It loses interchangeability of hint words.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-011",
+      "kind": "WH",
+      "description": "Apparent lack of knowledge becomes known fact used as proof.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              485,
+              485
+            ],
+            "MG": [
+              485,
+              485
+            ],
+            "UP": [
+              485,
+              485
+            ]
+          },
+          "japanese": "絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし」",
+          "japanesePC": "「............そういうことよ。絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし。」",
+          "japanesePS3": "絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし」",
+          "WH": "\".........Correct.  And we know that because even Eva didn't know what the village meant until she checked the book.\"",
+          "MG": "And we know that because even Eva didn't know what the village meant until she checked the book.\"",
+          "UP": "And we know that because even Eva didn't know what the village meant until she checked the book.\"",
+          "note": "Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0484",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0484"
+            ],
+            "MG": [
+              "umi5_5-L0484"
+            ],
+            "UP": [
+              "umi5_5-L0484"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………そういうことよ。絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし」",
+              "translation": "\"......Correct. And we know that because even Eva didn't know what the village meant until she checked the book.\" "
+            },
+            "UP": {
+              "japanese": "「…………そういうことよ。絵羽も、その書物を読んで確かめるまでは、川を下った里のことはわからなかったみたいだし」",
+              "translation": "\"............Correct. And we know that because even Eva didn't know what the village meant until she checked the book.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0484"
+            ],
+            "MG": [
+              "umi5_5-L0484"
+            ],
+            "UP": [
+              "umi5_5-L0484"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern affirms the inference and adds that Eva also seems not to have understood the village downriver until checking the book. みたい marks appearance; し supplies supporting context.",
+      "alternative": "The observed recalled reaction supports the inference, but we know that because removes the hedge and promotes it to an explicit proof of the preceding conclusion.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-012",
+      "kind": "WH",
+      "description": "First twilight becoming understandable becomes its meaning changing drastically.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              517,
+              517
+            ],
+            "MG": [
+              517,
+              517
+            ],
+            "UP": [
+              517,
+              517
+            ]
+          },
+          "japanese": "鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる」",
+          "japanesePC": "「.........そういうこと。鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる。」",
+          "japanesePS3": "鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる」",
+          "WH": "\".........That's it.  If we know that the key's true identity has six characters, the meaning of the first twilight changes drastically.\"",
+          "MG": "If we know the key's true identity has six characters, the meaning of the first twilight changes drastically.\"",
+          "UP": "If we know that the key's true identity is six characters, the meaning of the first twilight changes drastically.\"",
+          "note": "Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0516",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0516"
+            ],
+            "MG": [
+              "umi5_5-L0516"
+            ],
+            "UP": [
+              "umi5_5-L0516"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………そういうこと。鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる」",
+              "translation": "\"......That's it. If we know the key's true identity has six characters, the meaning of the first twilight changes drastically.\" "
+            },
+            "UP": {
+              "japanese": "「………そういうこと。鍵の正体が６つの文字だとわかれば、第一の晩の意味がだいぶ分かってくる」",
+              "translation": "\".........That's it. If we know that the key's true identity is six characters, the meaning of the first twilight changes drastically.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0516"
+            ],
+            "MG": [
+              "umi5_5-L0516"
+            ],
+            "UP": [
+              "umi5_5-L0516"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Knowing the key is six characters makes the first twilight’s meaning considerably clearer.",
+      "alternative": "A new interpretation does change the reader’s understanding, but the English says the meaning changes rather than that its existing meaning becomes intelligible.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-013",
+      "kind": "WH",
+      "description": "Six or more characters becomes strictly more than six.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.scope_quantifier_negation",
+        "mystery.puzzle_mechanism"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              532,
+              532
+            ],
+            "MG": [
+              532,
+              532
+            ],
+            "UP": [
+              532,
+              532
+            ]
+          },
+          "japanese": "「つまり、第一の晩に、６文字以上の文字列から、",
+          "japanesePC": "「つまり、第一の晩に、６文字以上の文字列から、鍵である６文字を“殺し”、残った文字でどうにかしろという意味なんだ...！」",
+          "japanesePS3": "「つまり、第一の晩に、６文字以上の文字列から、",
+          "WH": "\"In other words, on the first twilight, we take a list of characters that's longer than six, 'kill' the six that are the key, and then do something with the characters that remain...!\"",
+          "MG": "\"In other words, on the first twilight, we take a list of characters that's longer than six,",
+          "UP": "\"In other words, on the first twilight, we take a list of characters that's longer than six,",
+          "note": "Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0532",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0532"
+            ],
+            "MG": [
+              "umi5_5-L0532"
+            ],
+            "UP": [
+              "umi5_5-L0532"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「つまり、第一の晩に、６文字以上の文字列から、鍵である６文字を“殺し”、残った文字でどうにかしろという意味なんだ…！」",
+              "translation": "\"In other words, on the first twilight, we take a list of characters that's longer than six, \"kill\" the six that are the key, and then do something with the characters that remain...!\" "
+            },
+            "UP": {
+              "japanese": "「つまり、第一の晩に、６文字以上の文字列から、鍵である６文字を“殺し”、残った文字でどうにかしろという意味なんだ…！」",
+              "translation": "\"In other words, on the first twilight, we take a list of characters that's longer than six, \"kill\" the six that are the key, and then do something with the characters that remain...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0532"
+            ],
+            "MG": [
+              "umi5_5-L0532"
+            ],
+            "UP": [
+              "umi5_5-L0532"
+            ]
+          }
+        },
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              557,
+              557
+            ],
+            "MG": [
+              557,
+              557
+            ],
+            "UP": [
+              557,
+              557
+            ]
+          },
+          "japanese": "第一の晩を、６文字以上にどう読み解けばいいのかしら…」",
+          "japanesePC": "「つまり、第一の晩に、６文字以上の文字列から、鍵である６文字を“殺し”、残った文字でどうにかしろという意味なんだ...！」",
+          "japanesePS3": "第一の晩を、６文字以上にどう読み解けばいいのかしら…」",
+          "WH": "\"In other words, on the first twilight, we take a list of characters that's longer than six, 'kill' the six that are the key, and then do something with the characters that remain...!\"",
+          "MG": "We need to read 第一の晩 in some way that gives it more than six characters...\"",
+          "UP": "How could we read it{NOTE:\"it\" means \"the first twilight\": in a way that gives us more than six characters...?\"",
+          "note": "Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0555",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0532"
+            ],
+            "MG": [
+              "umi5_5-L0555"
+            ],
+            "UP": [
+              "umi5_5-L0555"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうね。……６文字も抜く以上、それ以上の文字数だわ。第一の晩を、６文字以上にどう読み解けばいいのかしら…」",
+              "translation": "\"That's right. ...Since we're taking six characters out, it must be at least six characters long. We need to read 第一の晩 in some way that gives it more than six characters...\" "
+            },
+            "UP": {
+              "japanese": "「そうね。……６文字も抜く以上、それ以上の文字数だわ。第一の晩を、６文字以上にどう読み解けばいいのかしら…」",
+              "translation": "\"That's right. ......Since we're removing six characters from it, whatever it is must be at least six characters long. How could we read it{NOTE:\"it\" means \"the first twilight\": in a way that gives us more than six characters...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0532"
+            ],
+            "MG": [
+              "umi5_5-L0555"
+            ],
+            "UP": [
+              "umi5_5-L0555"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "６文字以上 includes six as the lower bound of the original character string.",
+      "alternative": "The subsequent remaining-letter task will require surviving characters, but Battler’s explicit premise here includes equality; WH tightens it earlier.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-014",
+      "kind": "WH",
+      "description": "Tentative 1st-night reading replaced by English epitaph-length observation.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.addition",
+        "mystery.information_timing_salience",
+        "mystery.puzzle_mechanism"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              542,
+              545
+            ],
+            "MG": [
+              542,
+              545
+            ],
+            "UP": [
+              542,
+              545
+            ]
+          },
+          "japanese": "しかし、“第一の晩”じゃ、４文字しかない。\n他の読み方か？\n祖父さま風に英語で読むなら、……第一の晩って何だ…？\n1st-nightか…？",
+          "japanesePC": "しかし、“第一の晩”じゃ、４文字しかない。他の読み方か？　祖父さま風に英語で読むなら、......第一の晩って何だ...？　１ｓｔ－ｎｉｇｈｔか...？　..................。」",
+          "japanesePS3": "しかし、“第一の晩”じゃ、４文字しかない。\n他の読み方か？\n祖父さま風に英語で読むなら、……第一の晩って何だ…？\n1st-nightか…？",
+          "WH": "That might be a set of Japanese characters, but knowing Grandfather's tastes, could it be something in English?  'The first twilight' has more than six characters, even though the Japanese phrase has just four (第一の晩).  ............\"",
+          "MG": "That might be a set of Japanese characters,\nbut knowing Grandfather's tastes, could it be something in English?\n\"The first twilight\" has more than six characters,\neven though the Japanese phrase has just four (第一の晩).",
+          "UP": "But {ruby:the first twilight:第一の晩 only has four characters.\nAre we meant to read it differently?\nIf we read it in English like Grandfather would, maybe \"the first twilight\"? Or...something else like...{NOTE:For non‐english translations, this line should change to \"If we read it in English like Grandfather would, what would \"the first twilight\" become?\", and the following line should be in ENGLISH, not your translation's language:\nfirst night...?",
+          "note": "Parent independently read481–600.011012013 both retain;013 recurrence557 linked without duplicate defect.014 UP restores Japanese four-character starting point, alternative reading and tentative first night proposal; spelling out first rather than1st no separate firm defect. MG retains replacement English length observation. HoldMG531 first six: can mean first-stage removal, concrete565–567 eliminates interpretation as first six positions;561 inherited same temporal-stage use.495 idiom lost bitter regret but resignation/mockery retained, no independent consequence.600 stage metonymy recoverable in605. NOTE instructions excluded support text, story clue wording still in scope. No new independent defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0541",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0541"
+            ],
+            "MG": [
+              "umi5_5-L0541"
+            ],
+            "UP": [
+              "umi5_5-L0541"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……つまり、…第一の晩という時点でもう、何かの文字列が存在するということなのか？　しかし、“第一の晩”じゃ、４文字しかない。他の読み方か？　祖父さま風に英語で読むなら、……第一の晩って何だ…？　1st-nightか…？　………………」",
+              "translation": "\"...In other words, ...by the time we reach the first twilight, some string of characters already exists? That might be a set of Japanese characters, but knowing Grandfather's tastes, could it be something in English? \"The first twilight\" has more than six characters, even though the Japanese phrase has just four (第一の晩). .........\" "
+            },
+            "UP": {
+              "japanese": "「……つまり、…第一の晩という時点でもう、何かの文字列が存在するということなのか？　しかし、“第一の晩”じゃ、４文字しかない。他の読み方か？　祖父さま風に英語で読むなら、……第一の晩って何だ…？　1st-nightか…？　………………」",
+              "translation": "\"......In other words, ...by the time we reach the first twilight, some string of characters already exists? But {ruby:the first twilight:第一の晩 only has four characters. Are we meant to read it differently? If we read it in English like Grandfather would, maybe \"the first twilight\"? Or...something else like...{NOTE:For non‐english translations, this line should change to \"If we read it in English like Grandfather would, what would \"the first twilight\" become?\", and the following line should be in ENGLISH, not your translation's language: first night...? ............\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0541"
+            ],
+            "MG": [
+              "umi5_5-L0541"
+            ],
+            "UP": [
+              "umi5_5-L0541"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler asks what 第一の晩 would be in English, tentatively trying １ｓｔ－ｎｉｇｈｔ.",
+      "alternative": "Adapting a Japanese-dependent puzzle requires acknowledging Japanese characters, which WH does, but the added length statement about The first twilight is a different hypothesis; the source’s tentative candidate is removed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-015",
+      "kind": "WH",
+      "description": "Narrative possibility gains unsupported doubt about the solution being too easy.",
+      "categories": [
+        "linguistic.addition",
+        "character.viewpoint_attribution",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              616,
+              616
+            ],
+            "MG": [
+              616,
+              616
+            ],
+            "UP": [
+              616,
+              616
+            ]
+          },
+          "japanese": "第一の晩を意味する単語が、１１文字か、１３文字の可能性……。",
+          "japanesePC": "第一の晩を意味する単語が、１１文字か、１３文字の可能性......。",
+          "japanesePS3": "第一の晩を意味する単語が、１１文字か、１３文字の可能性……。",
+          "WH": "There's a chance that the word symbolizing the first twilight has 11 or 13 characters.  .........Wait...it couldn't be that easy, could it?",
+          "MG": "There's a chance the word symbolizing the first twilight has 11 or 13 characters. ......Wait, ...it couldn't be that easy, could it?",
+          "UP": "There's a chance that the word symbolizing the first twilight has eleven or thirteen characters......",
+          "note": "Parent independently read601–720.015016017 MG retained UP corrected. Both643/645 posing riddle becomes creating it; UP679 repeats authorship substitution where MG restores making them solve. InheritedPC17337/38,17344/45,17442/43 verified; new scoped parent follows, no actual author certified from speculative theory. Hold644 two names coordinated:631–632 explicitly recover player reasoning through piece.620 modest casual effort equivalent;630 differing many/first murders insufficient definite numerical-stage error;631 time limit recovered630.660–672 under speculation. No independent new defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0613",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0613"
+            ],
+            "MG": [
+              "umi5_5-L0613"
+            ],
+            "UP": [
+              "umi5_5-L0613"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "つまり、６＋５で、１１文字。\n第二の晩の寄り添いし２人を引き裂けが、２人を殺せという意味なら、６＋２＋５で、１３文字。\n第一の晩を意味する単語が、１１文字か、１３文字の可能性……。",
+              "translation": "So that makes 6+5, or 11 characters. If tearing apart the two who are close in the second twilight means to kill both of them, that makes 6+2+5, or 13 characters. There's a chance the word symbolizing the first twilight has 11 or 13 characters. ......Wait, ...it couldn't be that easy, could it? "
+            },
+            "UP": {
+              "japanese": "つまり、６＋５で、１１文字。\n第二の晩の寄り添いし２人を引き裂けが、２人を殺せという意味なら、６＋２＋５で、１３文字。\n第一の晩を意味する単語が、１１文字か、１３文字の可能性……。",
+              "translation": "So that makes 6+5=11 characters.\nIf tearing apart the two who are close on the second twilight means to kill both of them, that makes 6+2+5=13 characters.\nThere's a chance that the word symbolizing the first twilight has eleven or thirteen characters......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0613"
+            ],
+            "MG": [
+              "umi5_5-L0613"
+            ],
+            "UP": [
+              "umi5_5-L0613"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The Japanese closes with the possibility that the first-twilight word has eleven or thirteen characters; it contains no too-easy question.",
+      "alternative": "The surrounding theory is explicitly tentative, but skepticism about ease is an additional reaction, not a rendering of the numerical possibility.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-016",
+      "kind": "WH",
+      "description": "Beatrice entrusting gold to the riddle becomes being entrusted with the riddle.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              661,
+              662
+            ],
+            "MG": [
+              661,
+              662
+            ],
+            "UP": [
+              661,
+              662
+            ]
+          },
+          "japanese": "……その黄金を着服することもなく、\n碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ……。",
+          "japanesePC": "......その黄金を着服することもなく、碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ......。",
+          "japanesePS3": "……その黄金を着服することもなく、\n碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ……。",
+          "WH": "......She was entrusted with the epitaph's riddle, and without ever embezzling the gold, she waited for a human fitting to be the successor to appear and solve it......",
+          "MG": "......She was entrusted with the epitaph's riddle, and without ever embezzling the gold,\nshe waited for a human fitting to be the Successor to appear and solve it...",
+          "UP": "......Without ever embezzling the gold,\nshe entrusted it all to the epitaph's riddle, and waited for a human fitting to be the successor to appear and solve it......",
+          "note": "Parent independently read601–720.015016017 MG retained UP corrected. Both643/645 posing riddle becomes creating it; UP679 repeats authorship substitution where MG restores making them solve. InheritedPC17337/38,17344/45,17442/43 verified; new scoped parent follows, no actual author certified from speculative theory. Hold644 two names coordinated:631–632 explicitly recover player reasoning through piece.620 modest casual effort equivalent;630 differing many/first murders insufficient definite numerical-stage error;631 time limit recovered630.660–672 under speculation. No independent new defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0660",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0660"
+            ],
+            "MG": [
+              "umi5_5-L0660"
+            ],
+            "UP": [
+              "umi5_5-L0660"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "祖父さま亡き後、１０ｔの黄金を管理し、錬金術師を名乗るベアトリーチェ。……その黄金を着服することもなく、碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ……。その人間が、定めた時間内に現われないなら、……ゲームオーバー？",
+              "translation": "After Grandfather's death, Beatrice managed the 10 tons of gold and took the title of alchemist. ......She was entrusted with the epitaph's riddle, and without ever embezzling the gold, she waited for a human fitting to be the Successor to appear and solve it... And if that human didn't appear within a set time limit, ...would that be \"game over\"? "
+            },
+            "UP": {
+              "japanese": "祖父さま亡き後、１０ｔの黄金を管理し、錬金術師を名乗るベアトリーチェ。……その黄金を着服することもなく、碑文の謎に託し、後継者に相応しい人間が現われ、解いてくれるのを待つ……。その人間が、定めた時間内に現われないなら、……ゲームオーバー？",
+              "translation": "After Grandfather's death, Beatrice would have managed the ten tons of gold and taken the title of alchemist. ......Without ever embezzling the gold, she entrusted it all to the epitaph's riddle, and waited for a human fitting to be the successor to appear and solve it...... And if that human didn't appear within a set time limit, ......that meant game over?"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0660"
+            ],
+            "MG": [
+              "umi5_5-L0660"
+            ],
+            "UP": [
+              "umi5_5-L0660"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She does not embezzle the gold, but entrusts it to the epitaph’s riddle while waiting for a worthy successor to solve it.",
+      "alternative": "The preceding loyal-underling hypothesis may imply delegated responsibility, but WH reverses the expressed act of entrusting gold into her receiving the riddle.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-017",
+      "kind": "WH",
+      "description": "Almost ten o’clock becomes already ten o’clock.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              697,
+              697
+            ],
+            "MG": [
+              697,
+              697
+            ],
+            "UP": [
+              697,
+              697
+            ]
+          },
+          "japanese": "時計を見れば、もうじき夜の１０時だ。",
+          "japanesePC": "時計を見れば、もうじき夜の１０時だ。",
+          "japanesePS3": "時計を見れば、もうじき夜の１０時だ。",
+          "WH": "Judging by the clock, it was already 10:00 at night.",
+          "MG": "According to the clock, it was already 10:00 at night.",
+          "UP": "Judging by the clock, it would soon be ten at night.",
+          "note": "Parent independently read601–720.015016017 MG retained UP corrected. Both643/645 posing riddle becomes creating it; UP679 repeats authorship substitution where MG restores making them solve. InheritedPC17337/38,17344/45,17442/43 verified; new scoped parent follows, no actual author certified from speculative theory. Hold644 two names coordinated:631–632 explicitly recover player reasoning through piece.620 modest casual effort equivalent;630 differing many/first murders insufficient definite numerical-stage error;631 time limit recovered630.660–672 under speculation. No independent new defect or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0697",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0697"
+            ],
+            "MG": [
+              "umi5_5-L0697"
+            ],
+            "UP": [
+              "umi5_5-L0697"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "時計を見れば、もうじき夜の１０時だ。そろそろ、お風呂に入ったりして、寝支度を始めても良い時間だった。大人たちも、多少の旅疲れはある。続きはまた今度にしようということになり、ばらばらと解散することになった…。",
+              "translation": "According to the clock, it was already 10:00 at night. It was already about the time you'd normally take a bath and get ready for sleep. Even the adults seemed pretty weary from traveling. We decided to continue this later and went our separate ways... "
+            },
+            "UP": {
+              "japanese": "時計を見れば、もうじき夜の１０時だ。そろそろ、お風呂に入ったりして、寝支度を始めても良い時間だった。大人たちも、多少の旅疲れはある。続きはまた今度にしようということになり、ばらばらと解散することになった…。",
+              "translation": "Judging by the clock, it would soon be ten at night. It was already about that time you normally take a bath and get ready for sleep. Even the adults seemed pretty weary from traveling. We decided to continue this later and went our separate ways..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0697"
+            ],
+            "MG": [
+              "umi5_5-L0697"
+            ],
+            "UP": [
+              "umi5_5-L0697"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "もうじき夜の１０時 means it is nearly ten at night.",
+      "alternative": "The rough bedtime inference survives, but already ten puts the clock on the other side of the stated threshold.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-018",
+      "kind": "WH",
+      "description": "Inserted の and 郷 reading clue replaced by invented capital clue.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.addition",
+        "mystery.clue_erasure",
+        "mystery.clue_invention",
+        "mystery.puzzle_mechanism",
+        "mystery.recurrence_discrimination"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              742,
+              752
+            ],
+            "MG": [
+              742,
+              752
+            ],
+            "UP": [
+              742,
+              752
+            ]
+          },
+          "japanese": "………黄金郷って単語、何度も出てくるでしょ？」\n「出てきますね」\n「なぜか、……第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。\n黄金の郷へ至るだろうって書かれているの。\n…どうしてここだけ、“黄金の郷”と書かれているのか、気になってね」\n「…………本当だ。\n…確かに。\n他はみんな黄金郷って書かれてるのに……」\nみんな黄金郷なのに、第十の晩だけ、わざわざ“の”が入って、\n“黄金の郷”になっている……。\n何か、特別な意味でもあるんだろうか………。",
+          "japanesePC": "「なぜか、......第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。黄金の郷へ至るだろうって書かれているの。...どうしてここだけ、“黄金の郷”と書かれているのか、気になってね。」",
+          "japanesePS3": "………黄金郷って単語、何度も出てくるでしょ？」\n「出てきますね」\n「なぜか、……第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。\n黄金の郷へ至るだろうって書かれているの。\n…どうしてここだけ、“黄金の郷”と書かれているのか、気になってね」\n「…………本当だ。\n…確かに。\n他はみんな黄金郷って書かれてるのに……」\nみんな黄金郷なのに、第十の晩だけ、わざわざ“の”が入って、\n“黄金の郷”になっている……。\n何か、特別な意味でもあるんだろうか………。",
+          "WH": "\"Why is it......that the word 'capital' only appears in the tenth twilight?  The place that the gold is hidden is called 'the Golden Land' everywhere else, but only this one place calls the Golden Land a capital.\"",
+          "MG": "......at the end here, it says you'll receive the Golden Land's four treasures \"once and for the last time\", right?\"\n\"Yeah, it does.\"\n\"Why mention that you're reaching the Golden Land just once, and then say it's for the last time?\nIt's almost as though he's repeating the same thing twice.\nI've just been wondering whether he had some reason for putting it like that.\"\n\".........You're right.\n...Like you said,\nthere's got to be a more straightforward way of saying that.\"\nThat line should've been a key part of the riddle,\nwhere you wouldn't expect the writer to waste words needlessly...\nCould it have been done for some special purpose...?",
+          "UP": ".........the word \"Golden Land\" ({ruby:ougonkyou:黄金郷) appears several times, right?\"\n\"Yes, it does.\"\n\"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the \"Home of the Gold\" (黄金の郷), read \"ougon no kyou\"—no, sorry, \"ougon no sato\".\nThe \"Home\" kanji ({ruby:kyou/sato:郷) is separated out.\nI can't help but wonder why this is the one place where it's written like that.\"\n\"............You're right.\n...No mistake.\nEverywhere else, it says \"Golden Land\" ({ruby:ougonkyou:黄金郷)...\"\nEven though all the rest are written \"Golden Land\", the tenth twilight is the only one where it's different,\nand \"Home of the Gold\" is written instead...\nI wonder if the word \"Home\" ({ruby:kyou/sato:郷) has some kind of special meaning.........",
+          "note": "Parent independently read721–858/end.018 MG replaces original invented capitalization clue with invented once/last time redundancy clue, still unsupported substitution; UP restoresの insertion and郷 reading, corrected across742–752/763. No new duplicate for MG manifestation. HoldMG813–814 library: English library can include book-storage without reading space,815 explicitly preserves storage-versus-reading distinction; UP more precise archive contrast. HoldUP765 few moments:793 current-day reasoning prompted revised opinion, plausible narrowed colloquial time. MG801 generic male heart captures smile quality with Battler implicit.807 presumed sleep licensed rest/goodnight earlier, not fact asserted. No verified PC-only yellow material.",
+          "dispositions": {
+            "MG": "modified_but_unresolved",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0741",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0744"
+            ],
+            "MG": [
+              "umi5_5-L0741",
+              "umi5_5-L0743",
+              "umi5_5-L0744",
+              "umi5_5-L0747",
+              "umi5_5-L0750"
+            ],
+            "UP": [
+              "umi5_5-L0741",
+              "umi5_5-L0743",
+              "umi5_5-L0744",
+              "umi5_5-L0747",
+              "umi5_5-L0750"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「なぜか、……第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。黄金の郷へ至るだろうって書かれているの。…どうしてここだけ、“黄金の郷”と書かれているのか、気になってね」",
+              "translation": "\"Why mention that you're reaching the Golden Land just once, and then say it's for the last time? It's almost as though he's repeating the same thing twice. I've just been wondering whether he had some reason for putting it like that.\" "
+            },
+            "UP": {
+              "japanese": "「なぜか、……第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。黄金の郷へ至るだろうって書かれているの。…どうしてここだけ、“黄金の郷”と書かれているのか、気になってね」",
+              "translation": "\"For some reason......on the tenth twilight alone, when the journey ends, it says we reach the \"Home of the Gold\" (黄金の郷), read \"ougon no kyou\"—no, sorry, \"ougon no sato\". The \"Home\" kanji ({ruby:kyou/sato:郷) is separated out. I can't help but wonder why this is the one place where it's written like that.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0744"
+            ],
+            "MG": [
+              "umi5_5-L0744"
+            ],
+            "UP": [
+              "umi5_5-L0744"
+            ]
+          }
+        },
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              763,
+              763
+            ],
+            "MG": [
+              763,
+              763
+            ],
+            "UP": [
+              763,
+              763
+            ]
+          },
+          "japanese": "その“黄金の郷”って発見は、何かの鍵になるかもしれないじゃないっすか」",
+          "japanesePC": "「なぜか、......第十の晩だけ、旅は終わり、黄金のキョウ、いえ、サトね。黄金の郷へ至るだろうって書かれているの。...どうしてここだけ、“黄金の郷”と書かれているのか、気になってね。」",
+          "japanesePS3": "その“黄金の郷”って発見は、何かの鍵になるかもしれないじゃないっすか」",
+          "WH": "\"Why is it......that the word 'capital' only appears in the tenth twilight?  The place that the gold is hidden is called 'the Golden Land' everywhere else, but only this one place calls the Golden Land a capital.\"",
+          "MG": "This \"last time\" thing might be really important somewhere down the line.\"",
+          "UP": "That \"Home\" discovery might be really important somewhere down the line.\"",
+          "note": "Parent independently read721–858/end.018 MG replaces original invented capitalization clue with invented once/last time redundancy clue, still unsupported substitution; UP restoresの insertion and郷 reading, corrected across742–752/763. No new duplicate for MG manifestation. HoldMG813–814 library: English library can include book-storage without reading space,815 explicitly preserves storage-versus-reading distinction; UP more precise archive contrast. HoldUP765 few moments:793 current-day reasoning prompted revised opinion, plausible narrowed colloquial time. MG801 generic male heart captures smile quality with Battler implicit.807 presumed sleep licensed rest/goodnight earlier, not fact asserted. No verified PC-only yellow material.",
+          "dispositions": {
+            "MG": "modified_but_unresolved",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_5-L0761",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0744"
+            ],
+            "MG": [
+              "umi5_5-L0761"
+            ],
+            "UP": [
+              "umi5_5-L0761"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そんなことないっすよ。楼座叔母さんだって頭、充分柔らかいっすよ。その“黄金の郷”って発見は、何かの鍵になるかもしれないじゃないっすか」",
+              "translation": "\"That's not true. You've got a flexible mind yourself, Aunt Rosa. This \"last time\" thing might be really important somewhere down the line.\" "
+            },
+            "UP": {
+              "japanese": "「そんなことないっすよ。楼座叔母さんだって頭、充分柔らかいっすよ。その“黄金の郷”って発見は、何かの鍵になるかもしれないじゃないっすか」",
+              "translation": "\"That's not true. You have a very flexible mind, Auntie Rosa. That \"Home\" discovery might be really important somewhere down the line.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0744"
+            ],
+            "MG": [
+              "umi5_5-L0761"
+            ],
+            "UP": [
+              "umi5_5-L0761"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa notices that the tenth twilight uniquely has 黄金の郷 instead of 黄金郷. She corrects her reading from キョウ to サト; narration explicitly calls attention to the inserted の. Her Kyoto theory comes from having mistakenly read the 郷 as キョウ.",
+      "alternative": "An English adaptation can explain the Japanese writing, and commented draft lines here demonstrate that option, but active WH instead claims the text calls the location a capital. 郷 is not 京. The added Tokyo/Kyoto 京 explanation changes the clue rather than exposing the source’s spelling distinction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-019",
+      "kind": "WH",
+      "description": "WH replaces narrowing candidate answers using further hints with wringing out the answer.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              424,
+              424
+            ],
+            "MG": [
+              424,
+              424
+            ],
+            "UP": [
+              424,
+              424
+            ]
+          },
+          "japanese": "だから、さらにヒントを加味して、答えを絞る必要があった」",
+          "japanesePC": "「............そうしてもいいけれど、それじゃあ、時間がいくらあっても足りないわ。だから、さらにヒントを加味して、答えを絞る必要があった。」",
+          "japanesePS3": "だから、さらにヒントを加味して、答えを絞る必要があった」",
+          "WH": "\"............That would work too, but that way, no amount of time would be enough.  So, I needed to take some more hints into consideration to wring out the answer.\"",
+          "MG": "So, I needed to take some more hints into consideration to wring out the answer.\"",
+          "UP": "So, I needed to take some more hints into consideration to wring out the answer.\"",
+          "note": "Original PC and coherent paired context verified under ep05-ch05-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0423",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0423"
+            ],
+            "MG": [
+              "umi5_5-L0423"
+            ],
+            "UP": [
+              "umi5_5-L0423"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………そうしてもいいけれど、それじゃあ、時間がいくらあっても足りないわ。だから、さらにヒントを加味して、答えを絞る必要があった」",
+              "translation": "\".........That would work too, but that way, no amount of time would be enough. So, I needed to take some more hints into consideration to wring out the answer.\" "
+            },
+            "UP": {
+              "japanese": "「…………そうしてもいいけれど、それじゃあ、時間がいくらあっても足りないわ。だから、さらにヒントを加味して、答えを絞る必要があった」",
+              "translation": "\"............That would work too, but that way, no amount of time would be enough. So, I needed to take some more hints into consideration to wring out the answer.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0423"
+            ],
+            "MG": [
+              "umi5_5-L0423"
+            ],
+            "UP": [
+              "umi5_5-L0423"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "答えを絞る means narrow down the possible answers;421–423 contrast exhaustive consideration of all possible locations with reducing that search space.",
+      "alternative": "Wringing out an answer can loosely mean obtaining it through effort, but omits the specifically stated pruning step in the reasoning method.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH05-020",
+      "kind": "WH",
+      "description": "WH changes posing the epitaph as a challenge into creating the epitaph, introducing authorship into the stated motive inquiry.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              643,
+              645
+            ],
+            "MG": [
+              643,
+              645
+            ],
+            "UP": [
+              643,
+              645
+            ]
+          },
+          "japanese": "……祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。\nヱリカこと、ベルンカステルの推理は、極めて妥当なものだ。\nしかしそれは、祖父さまが出題者なら、だ。",
+          "japanesePC": "......祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。",
+          "japanesePS3": "……祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。\nヱリカこと、ベルンカステルの推理は、極めて妥当なものだ。\nしかしそれは、祖父さまが出題者なら、だ。",
+          "WH": "......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.",
+          "MG": "...This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.\nErika and Bernkastel's logic is extremely reasonable.\nBut that's only if we assume Grandfather was the one to create it.",
+          "UP": "......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.\nErika and Bernkastel's logic is extremely reasonable.\nBut that's only if we assume Grandfather was the one to create it.",
+          "note": "Original PC and coherent paired context verified under ep05-ch05-supplement-b-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0643",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0643"
+            ],
+            "MG": [
+              "umi5_5-L0643"
+            ],
+            "UP": [
+              "umi5_5-L0643"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。ヱリカこと、ベルンカステルの推理は、極めて妥当なものだ。しかしそれは、祖父さまが出題者なら、だ。",
+              "translation": "...This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all. Erika and Bernkastel's logic is extremely reasonable. But that's only if we assume Grandfather was the one to create it. "
+            },
+            "UP": {
+              "japanese": "……祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。ヱリカこと、ベルンカステルの推理は、極めて妥当なものだ。しかしそれは、祖父さまが出題者なら、だ。",
+              "translation": "......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all. Erika and Bernkastel's logic is extremely reasonable. But that's only if we assume Grandfather was the one to create it."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0643"
+            ],
+            "MG": [
+              "umi5_5-L0643"
+            ],
+            "UP": [
+              "umi5_5-L0643"
+            ]
+          }
+        },
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              679,
+              679
+            ],
+            "MG": [
+              679,
+              679
+            ],
+            "UP": [
+              679,
+              679
+            ]
+          },
+          "japanese": "なぜベアトリーチェは、あんな難解な碑文を俺たちに出題するんだ……？",
+          "japanesePC": "......祖父さまが、後継者を選ぶために碑文を出題した、という推理は、確かに悪くはない。",
+          "japanesePS3": "なぜベアトリーチェは、あんな難解な碑文を俺たちに出題するんだ……？",
+          "WH": "......This theory about Grandfather creating the epitaph in order to choose a successor isn't bad at all.",
+          "MG": "Why is she making us solve such a confusing epitaph...?",
+          "UP": "Why did she create such a confusing epitaph for us......?",
+          "note": "Original PC17442/17443 independently verified: Beatrice posing challenge becomes creating it in original WH/UP; MG restores making us solve. Recurrence under same parent, not duplicate count.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_5-L0678",
+          "readerRefs": {
+            "WH": [
+              "umi5_5-L0643"
+            ],
+            "MG": [
+              "umi5_5-L0678"
+            ],
+            "UP": [
+              "umi5_5-L0678"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "なぜベアトリーチェは、俺たちに碑文を解けと出題するんだ……？なぜベアトリーチェは、あんな難解な碑文を俺たちに出題するんだ……？……ベアトリーチェにとって、解けるはずもない碑文に挑戦させ、………万一、誰かがそれを解くという“奇跡”を起こしたなら……、………それが彼女にとって、どんな意味を持つというのだろう………。ベアトにとっての、奇跡の価値が、……わからない。",
+              "translation": "Why is Beatrice telling us to solve the epitaph...? Why is she making us solve such a confusing epitaph...? ...If Beatrice makes us try and solve this epitaph we have no real chance of solving, ......and by some lucky chance, a \"miracle\" occurs and someone is able to solve it, ...what significance would that have to her......? I don't know...what such a miracle would be worth to Beato. "
+            },
+            "UP": {
+              "japanese": "なぜベアトリーチェは、俺たちに碑文を解けと出題するんだ……？なぜベアトリーチェは、あんな難解な碑文を俺たちに出題するんだ……？……ベアトリーチェにとって、解けるはずもない碑文に挑戦させ、………万一、誰かがそれを解くという“奇跡”を起こしたなら……、………それが彼女にとって、どんな意味を持つというのだろう………。ベアトにとっての、奇跡の価値が、……わからない。",
+              "translation": "Why is Beatrice telling us to solve the epitaph......? Why did she create such a confusing epitaph for us......? ......If Beatrice makes us try and solve this epitaph that we have no real chance of solving, .........and by some lucky chance, a \"miracle\" occurs and someone is able to solve it...... ......what significance does that have to her.........? I don't know......what this miracle would be worth to Beato."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_5-L0643"
+            ],
+            "MG": [
+              "umi5_5-L0678"
+            ],
+            "UP": [
+              "umi5_5-L0678"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "出題 describes presenting or setting a problem for others, not necessarily composing its text. The discussion asks why the presenter makes others solve it.",
+      "alternative": "Posing a puzzle may include composing it, but the source does not require that identity of roles; creating narrows the inquiry to authorship.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH05-001-120-001",
+      "kind": "additional",
+      "description": "MG changes inability to pretend to be anything beyond themselves into inability to continue pretending.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_5",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              97,
+              98
+            ],
+            "MG": [
+              97,
+              98
+            ],
+            "UP": [
+              97,
+              98
+            ]
+          },
+          "japanese": "ま、俺たちがどう取り繕うと、俺たちは俺たち。\nそれ以上のフリは出来やしなかった。",
+          "japanesePC": "",
+          "japanesePS3": "ま、俺たちがどう取り繕うと、俺たちは俺たち。\nそれ以上のフリは出来やしなかった。",
+          "WH": "",
+          "MG": "Well, no matter how much we try to smooth it over, we are who we are.\nWe couldn't pretend any longer.",
+          "UP": "In the end, no matter how much we tried to smooth it over, we were who we were.\nWe couldn't act like we were anything else.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi5_5-L0097",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_5-L0097"
+            ],
+            "UP": [
+              "umi5_5-L0097"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ま、俺たちがどう取り繕うと、俺たちは俺たち。\nそれ以上のフリは出来やしなかった。でも、その笑いのお陰で俺たちもリラックスできたのは確かだ。客人が緊張していないか気遣うあまり、一番緊張していたのは自分たちだったのだ。",
+              "translation": "Well, no matter how much we try to smooth it over, we are who we are. We couldn't pretend any longer. Still, that laugh really did help us to relax. We were so concerned about the guest getting nervous, we'd gotten even more nervous ourselves. "
+            },
+            "UP": {
+              "japanese": "ま、俺たちがどう取り繕うと、俺たちは俺たち。\nそれ以上のフリは出来やしなかった。でも、その笑いのお陰で俺たちもリラックスできたのは確かだ。客人が緊張していないか気遣うあまり、一番緊張していたのは自分たちだったのだ。",
+              "translation": "In the end, no matter how much we tried to smooth it over, we were who we were.\nWe couldn't act like we were anything else. Still, that laughter really did help us to relax. We had been so concerned about the guest getting nervous that we had grown even more nervous ourselves."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_5-L0097"
+            ],
+            "UP": [
+              "umi5_5-L0097"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "それ以上のフリ cannot pretend to be more than who they are. MG any longer substitutes duration; originalPC15465/66 and UP preserve anything else.",
+      "alternative": "Giving up an act is compatible with the scene, but temporal cessation replaces the source limitation on the identity/persona they can portray.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP05-CH05-001": {
+      "umi5_5-L0011": {
+        "WH": [
+          "if anyone was to be surprised, it should have been Erika"
+        ],
+        "MG": [
+          "if anyone was to be surprised, it should have been Erika"
+        ],
+        "UP": [
+          "if anyone was to be surprised, it should have been Erika"
+        ]
+      }
+    },
+    "WH-EP05-CH05-002": {
+      "umi5_5-L0050": {
+        "WH": [
+          "and that this was why Hideyoshi had tried to break the ice"
+        ],
+        "UP": [
+          "a sense of tension that led Hideyoshi to think that she was nervous herself"
+        ]
+      }
+    },
+    "WH-EP05-CH05-003": {
+      "umi5_5-L0055": {
+        "WH": [
+          "acting out the part of a guest enjoying a harmonious dinner"
+        ],
+        "MG": [
+          "acting out the part of a guest enjoying a harmonious dinner"
+        ],
+        "UP": [
+          "acting out the part of a guest enjoying a harmonious dinner"
+        ]
+      }
+    },
+    "WH-EP05-CH05-004": {
+      "umi5_5-L0074": {
+        "WH": [
+          "I doubt you're any worse"
+        ]
+      }
+    },
+    "WH-EP05-CH05-005": {
+      "umi5_5-L0112": {
+        "WH": [
+          "The meeting had probably come to a close"
+        ],
+        "UP": [
+          "The meeting had probably come to a close"
+        ]
+      }
+    },
+    "WH-EP05-CH05-006": {
+      "umi5_5-L0173": {
+        "WH": [
+          "She wasn't trying to make it sound like wishful thinking"
+        ],
+        "MG": [
+          "She wasn't trying to make it sound like wishful thinking"
+        ],
+        "UP": [
+          "She wanted to establish this"
+        ]
+      }
+    },
+    "WH-EP05-CH05-007": {
+      "umi5_5-L0230": {
+        "WH": [
+          "son-in-law Hidetsugu"
+        ],
+        "MG": [
+          "son-in-law Hidetsugu"
+        ],
+        "UP": [
+          "son‐in‐law Hidetsugu"
+        ]
+      }
+    },
+    "WH-EP05-CH05-008": {
+      "umi5_5-L0248": {
+        "WH": [
+          "It's screwed up"
+        ],
+        "MG": [
+          "It's screwed up"
+        ],
+        "UP": [
+          "You're just making it all up"
+        ]
+      }
+    },
+    "WH-EP05-CH05-009": {
+      "umi5_5-L0360": {
+        "WH": [
+          "I'll grab a Fragment"
+        ]
+      }
+    },
+    "WH-EP05-CH05-010": {
+      "umi5_5-L0455": {
+        "WH": [
+          "If that something is a different word, but a word that sweetfish makes you think of"
+        ],
+        "MG": [
+          "If that something is a different word, but a word that sweetfish makes you think of"
+        ],
+        "UP": [
+          "If that something is a different word, but a word that sweetfish makes you think of"
+        ]
+      }
+    },
+    "WH-EP05-CH05-011": {
+      "umi5_5-L0484": {
+        "WH": [
+          "we know that because even Eva didn't know"
+        ],
+        "MG": [
+          "we know that because even Eva didn't know"
+        ],
+        "UP": [
+          "we know that because even Eva didn't know"
+        ]
+      }
+    },
+    "WH-EP05-CH05-012": {
+      "umi5_5-L0516": {
+        "WH": [
+          "the meaning of the first twilight changes drastically"
+        ],
+        "MG": [
+          "the meaning of the first twilight changes drastically"
+        ],
+        "UP": [
+          "the meaning of the first twilight changes drastically"
+        ]
+      }
+    },
+    "WH-EP05-CH05-013": {
+      "umi5_5-L0532": {
+        "WH": [
+          "longer than six"
+        ],
+        "MG": [
+          "longer than six"
+        ],
+        "UP": [
+          "longer than six"
+        ]
+      },
+      "umi5_5-L0555": {
+        "MG": [
+          "more than six characters"
+        ],
+        "UP": [
+          "more than six characters"
+        ]
+      }
+    },
+    "WH-EP05-CH05-014": {
+      "umi5_5-L0541": {
+        "WH": [
+          "'The first twilight' has more than six characters"
+        ],
+        "MG": [
+          "\"The first twilight\" has more than six characters"
+        ]
+      }
+    },
+    "WH-EP05-CH05-015": {
+      "umi5_5-L0613": {
+        "WH": [
+          "it couldn't be that easy, could it"
+        ],
+        "MG": [
+          "it couldn't be that easy, could it"
+        ]
+      }
+    },
+    "WH-EP05-CH05-016": {
+      "umi5_5-L0660": {
+        "WH": [
+          "She was entrusted with the epitaph's riddle"
+        ],
+        "MG": [
+          "She was entrusted with the epitaph's riddle"
+        ]
+      }
+    },
+    "WH-EP05-CH05-017": {
+      "umi5_5-L0697": {
+        "WH": [
+          "already 10:00"
+        ],
+        "MG": [
+          "already 10:00"
+        ]
+      }
+    },
+    "WH-EP05-CH05-018": {
+      "umi5_5-L0744": {
+        "WH": [
+          "the word 'capital' only appears in the tenth twilight",
+          "calls the Golden Land a capital"
+        ],
+        "MG": [
+          "reaching the Golden Land just once, and then say it's for the last time",
+          "repeating the same thing twice"
+        ]
+      },
+      "umi5_5-L0761": {
+        "MG": [
+          "This \"last time\" thing"
+        ]
+      }
+    },
+    "WH-EP05-CH05-019": {
+      "umi5_5-L0423": {
+        "WH": [
+          "wring out the answer"
+        ],
+        "MG": [
+          "wring out the answer"
+        ],
+        "UP": [
+          "wring out the answer"
+        ]
+      }
+    },
+    "WH-EP05-CH05-020": {
+      "umi5_5-L0643": {
+        "WH": [
+          "creating the epitaph"
+        ],
+        "UP": [
+          "creating the epitaph"
+        ],
+        "MG": [
+          "creating the epitaph"
+        ]
+      },
+      "umi5_5-L0678": {
+        "UP": [
+          "create such a confusing epitaph"
+        ]
+      }
+    },
+    "PAIR-EP05-CH05-001-120-001": {
+      "umi5_5-L0097": {
+        "MG": [
+          "We couldn't pretend any longer"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

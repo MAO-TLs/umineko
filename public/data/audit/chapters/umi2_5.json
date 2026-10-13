@@ -1,1 +1,2554 @@
-{"findings":[{"id":"WH-EP02-CH05-001","kind":"WH","description":"そんなに可哀想なら面倒を見てあげればいい invites Maria to care for the rose if she feels so sorry for it. “Everything would be fine if they looked over this poor thing” changes the personal invitation to a collective action and an assurance of outcome.","categories":["linguistic.mistranslation","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[3,5],"MG":[3,5],"UP":[3,5]},"japanese":"その中に一輪、枯れ掛けた薔薇があり、真里亞が感傷に囚われ消沈してしまう。\nでも、譲治が機転を利かし、\nそんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。","japanesePC":"でも、譲治が機転を利かし、そんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。","japanesePS3":"その中に一輪、枯れ掛けた薔薇があり、真里亞が感傷に囚われ消沈してしまう。\nでも、譲治が機転を利かし、\nそんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。","WH":"But George used his quick wits, and, saying everything would be fine if they looked over this poor thing, marked it with a candy wrapper, and immediately restored Maria's good mood.","MG":"In the midst of all this, there was a single unhealthy rose, and Maria became overwhelmed with dejection at its condition.\nBut George used his quick wits,\nand, saying that everything would be fine if they took care of this poor thing, marked it with a candy wrapper and immediately restored Maria's good mood.","UP":"There was a single unhealthy rose among them, and Maria became overwhelmed with dejection at its state.\nBut George used his quick wits,\nand saying she should look after it if she felt that sorry for it, he marked it with a candy wrapper, and immediately restored Maria's good mood.","note":"MG retains collective they and assurance everything would be fine; UP restores individual invitation to Maria to care for the rose.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_5-L0003","readerRefs":{"WH":["umi2_5-L0003"],"MG":["umi2_5-L0003"],"UP":["umi2_5-L0003"]}}],"sourceReading":"George suggests that if she feels so sorry for it, she can look after it, then marks it with a candy wrapper and restores her mood.","alternative":"Looked over can loosely convey attention, and wrapper marking survives. The source does not promise everything will be fine or substitute a collective they for her care.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-002","kind":"WH","description":"The English retains the naming of the solar death day as New Year’s Eve/Samhain but drops お祝いした, that they celebrated it.","categories":["linguistic.omission","world.culture_history"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[42,46],"MG":[42,46],"UP":[42,46]},"japanese":"「うん。\nだから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。\nそれで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの」\n「再び日照時間が長くなりだす冬至の日を、太陽の復活の日とする考え方はとても面白いよね。\n古代の人々がいかに太陽を神聖視していたかがわかるエピソードだよ」","japanesePC":"「うん。だから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。それで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの。」","japanesePS3":"「うん。\nだから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。\nそれで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの」\n「再び日照時間が長くなりだす冬至の日を、太陽の復活の日とする考え方はとても面白いよね。\n古代の人々がいかに太陽を神聖視していたかがわかるエピソードだよ」","WH":"\"Yes.  So they thought that at the end of October, the sun died, rested its body in the land of the dead, and then revived again at the winter solstice.  Then, they called the day that the sun ended its one year lifespan and died New Year's Eve, or Samhain.\"","MG":"\"Yes.\nSo, they thought that at the end of October, the sun died, was laid to rest in the land of the dead, and was then revived at the winter solstice.\nAnd the name they gave to the last day of their year, when the sun ended its one year lifespan and died...was Samhain, and they celebrated then.\"\n\"It's an interesting idea, to think that the sun is revived on the day of the winter solstice, when the daylight hours start to grow longer again.\nIt's a case that makes it clear how much the ancients regarded the sun as sacred.\"","UP":"\"Yep.\nSo they thought that at the end of October, the sun died, rested its body in the land of the dead, and then revived again at the winter solstice.\nAnd so, they celebrated the day that the sun ends its one‐year lifespan and dies, calling it New Year's Eve, or Samhain.\"\n\"That way of thinking is very interesting, to say that the sun is \"revived\" on the day of the winter solstice, when the daylight hours start to grow longer again.\nIt's an episode that makes you understand how much ancient people deified the sun.\"","note":"Both now explicitly include celebration of the solar death day.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0042","readerRefs":{"WH":["umi2_5-L0042"],"MG":["umi2_5-L0042","umi2_5-L0045"],"UP":["umi2_5-L0042","umi2_5-L0045"]}}],"sourceReading":"In Maria’s account, the sun dies at October’s end and revives at winter solstice; people name the death day Samhain/New Year’s Eve and celebrate it.","alternative":"The entire discussion is about a festival, making celebration inferable. Its explicit inclusion in this historical explanation is nonetheless omitted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-003","kind":"WH","description":"魔女集会、サバト names the gathering in apposition; English makes Sabbath a day on which the gathering is held.","categories":["linguistic.mistranslation","world.terminology_recurrence"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[83,85],"MG":[83,85],"UP":[83,85]},"japanese":"「うー！\nそしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。\n魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの」","japanesePC":"「うー！　そしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの。」","japanesePS3":"「うー！\nそしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。\n魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの」","WH":"\"Uu-!  And you know, the witches, they hold a witch assembly during that time, on the Sabbath.  The witches thank the spirits that give out blessings of prosperity, and reward them.\"","MG":"\"Uu-!\nAnd also, the witches hold a witch assembly then, called a Sabbath.\nThe witches thank the spirits that give out blessings of prosperity and reward them.\"","UP":"\"Uu!\nAnd you know, the witches, they held a coven during that time, called a Sabbat.\nThe witches would thank the spirits that gave out blessings of prosperity, and reward them.\"","note":"Both identify Sabbath/Sabbat as the gathering’s name, not a separate day on which it is held. UP coven terminology is not independently certified here.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0083","readerRefs":{"WH":["umi2_5-L0083"],"MG":["umi2_5-L0083"],"UP":["umi2_5-L0083"]}}],"sourceReading":"Witches held a witch gathering, a sabbat, during that season.","alternative":"The assembly and season remain. The source does not add a separate day constraint.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-004","kind":"WH","description":"English extends shared “we” to learning spells and circles and rune secrets, making Beatrice a fellow learner rather than the envisaged teacher.","categories":["linguistic.wrong_subject","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[99,101],"MG":[99,101],"UP":[99,101]},"japanese":"「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！\n一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！\nそしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」","japanesePC":"「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！　一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！　そしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」","japanesePS3":"「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！\n一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！\nそしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」","WH":"\"And then, we'll eat marshmallow candies together, and she'll bring Maria to the Golden Land with her!  We'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!  And then, we'll learn the secrets of runes, and Maria will become a great witch really, really quickly!\"","MG":"\"And then, we'll eat marshmallow candies together, and she'll bring me to the Golden Land with her!\nWe'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!\nAnd then, we'll learn the secrets of runes, and I'll become a great witch really, really quickly!\"","UP":"\"And then, we'll eat the marshmallow candies together, and she'll take me to the Golden Land with her!\nWe'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!\nAnd then I'm going to learn the secrets of runes, and become a great witch really, really quickly!\"","note":"MG we learn covers spells, circles and runes. UP still says we learn for spells and circles, but changes rune learning to I; singing together is supported in both.","dispositions":{"MG":"retained","UP":"partly_corrected"},"readerRef":"umi2_5-L0099","readerRefs":{"WH":["umi2_5-L0099"],"MG":["umi2_5-L0099"],"UP":["umi2_5-L0099"]}}],"sourceReading":"Maria imagines singing with Beatrice, learning spells, circles and rune secrets from her, and being made a proper witch.","alternative":"Singing together is source-supported and the resulting witchhood survives; the instruction relationship does not.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-005","kind":"WH","description":"English substitutes mother buying something fun for her, and has malformed “supposed to proof.” This loses the shared activity that made any sweet acceptable earlier.","categories":["linguistic.mistranslation","linguistic.grammar","character.relationship_power","linguistic.imagery_rhythm_recurrence"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[149,153],"MG":[149,153],"UP":[149,153]},"japanese":"真里亞が手に持っているあのお菓子を楼座は突然奪う。\nするとそれを地面に叩き付け、何度も何度も踏みつけた。\n真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。\nそれが他でもない母に踏みにじられる光景。\n…それが真里亞の瞳に、消せない焼きごてを押し当てる…。","japanesePC":"真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。","japanesePS3":"真里亞が手に持っているあのお菓子を楼座は突然奪う。\nするとそれを地面に叩き付け、何度も何度も踏みつけた。\n真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。\nそれが他でもない母に踏みにじられる光景。\n…それが真里亞の瞳に、消せない焼きごてを押し当てる…。","WH":"To Maria, it was supposed to proof of her memory of that brief span of time when her mother had bought something fun for her...","MG":"Rosa suddenly grabbed the candy that Maria had been holding.\nShe threw it on the ground and stepped on it over and over.\nTo Maria, it was supposed to be proof of a memory...of a brief span of time when her mother had bought something fun for her...\nBut now, that same mother was grinding it into the ground right in front of her.\n...It was as though a brand had been pushed into Maria's eyes, leaving a mark that could never be erased...","UP":"Rosa suddenly stole the candy that Maria had been holding in her hand.\nThen she threw it on the ground and stepped on it over and over.\nTo Maria, it was supposed to be proof of her memory of that span of time, however brief, when she had enjoyed going shopping with her mother...\nBut it was being trampled by that very same mother.\n...It was as though a brand was being pushed against Maria's eyes, leaving a mark that couldn't be erased...","note":"MG fixes proof grammar but still substitutes mother buying something fun for the shared enjoyable shopping memory. UP restores shopping together and proof grammar.","dispositions":{"MG":"partly_corrected","UP":"corrected"},"readerRef":"umi2_5-L0149","readerRefs":{"WH":["umi2_5-L0151"],"MG":["umi2_5-L0149","umi2_5-L0151"],"UP":["umi2_5-L0149","umi2_5-L0151"]}}],"sourceReading":"The sweet is proof of the memory of shopping happily with mother, brief though it was.","alternative":"The mother-given gift and brief happy interval survive, limiting the shift. The source locates happiness in the joint shopping, not the object being fun.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-006","kind":"WH","description":"あんたがそんなだから repeats Rosa’s causal blaming formula, “because you are like this.” English substitutes “That’s what you are,” turning the unfinished explanation into a categorical identification.","categories":["linguistic.logical_relation","character.motivation_emotion","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[154,157],"MG":[154,157],"UP":[154,157]},"japanese":"「こんな気持ち悪いお菓子が何よ、\n気持ち悪い気持ち悪い…！！」\n「あんたがそんなんだからッ、あんたがそんなんだからッ！！\n気持ち悪い気持ち悪い気持ち悪い！！！」","japanesePC":"あんたがそんなだからッ、あんたがそんなだからッ！！","japanesePS3":"「こんな気持ち悪いお菓子が何よ、\n気持ち悪い気持ち悪い…！！」\n「あんたがそんなんだからッ、あんたがそんなんだからッ！！\n気持ち悪い気持ち悪い気持ち悪い！！！」","WH":"That's what you are, that's what you are!!","MG":"\"Who cares about this disgusting candy,\ndisgusting, disgusting...!!\nIt's because you're like that, it's all because you're like that!!\nDisgusting disgusting disgusting!!!\"","UP":"\"Who cares about this disgusting candy,\ndisgusting, disgusting...!!\"\n\"This is why, you see?! This is why!!\nDisgusting disgusting disgusting!!!\"","note":"MG restores because you are like that. UP this is why restores causal form but leaves the repeated blame of Maria’s way of being implicit rather than explicit.","dispositions":{"MG":"corrected","UP":"partly_corrected"},"readerRef":"umi2_5-L0154","readerRefs":{"WH":["umi2_5-L0156"],"MG":["umi2_5-L0154","umi2_5-L0156"],"UP":["umi2_5-L0154","umi2_5-L0156"]}}],"sourceReading":"While denouncing the candy, Rosa repeats that it is because Maria is like this, echoing her earlier blaming of Maria for friendlessness and the endless father trip.","alternative":"The surrounding repeated disgusting language makes contempt explicit in both versions. The difference is the recurrent causal blame construction rather than an invented overall hostile attitude.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-007","kind":"WH","description":"その程度の器にはその程度のが入り込む becomes “Maria can handle that much,” erasing the vessel/entrant account following the bad-witch interpretation.","categories":["linguistic.mistranslation","world.world_layer","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[220,223],"MG":[220,223],"UP":[220,223]},"japanese":"「……仕方ないよ。\nその程度の器にはその程度のが入り込む。\n…真里亞は全然平気だよ。\nきひひひひひひひひひ……」","japanesePC":"「……仕方ないよ。その程度の器にはその程度のが入り込む。…真里亞は全然平気だよ。きひひひひひひひひひ……。」","japanesePS3":"「……仕方ないよ。\nその程度の器にはその程度のが入り込む。\n…真里亞は全然平気だよ。\nきひひひひひひひひひ……」","WH":"\"......It can't be helped.  Maria can handle that much.  Maria is just fine.  Kihihihihihihihihihi......\"","MG":"\"...It can't be helped.\nYou can't expect anything better than that to enter a container of that level.\n...I'm just fine.\nKihihihihihihihihihi......\"","UP":"\"......It can't be helped.\nSuch pitiful things enter such pitiful vessels.\n...I am just fine.\nKihihihihihihihihihi......\"","note":"Both restore vessel and entering entity rather than Maria’s personal capacity to withstand abuse.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0220","readerRefs":{"WH":["umi2_5-L0220"],"MG":["umi2_5-L0220"],"UP":["umi2_5-L0220"]}}],"sourceReading":"A vessel of that caliber admits something of that caliber; Maria says she is fine.","alternative":"The vessel and occupant are not explicitly named; the audit does not resolve them. Endurance appears nearby but is not this sentence’s claim.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-008","kind":"WH","description":"今日だって会って一緒に遊ぶよ becomes “Why don’t we meet her today and play?” The next turn likewise turns her planned play and study into “Let’s” invitations.","categories":["linguistic.wrong_subject","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[270,279],"MG":[270,279],"UP":[270,279]},"japanese":"そして、さも事実であるかのように言う。\n「きひひひひ…。\n真里亞はね、ベアトリーチェとお友達なの。\n今日だって会って一緒に遊ぶよ？\nきひひひひひひひひ…」\n「遊び、…ますか」\n「…うん。\n遊ぶよ？\n一緒にね、魔法のお勉強をするの。\nきひひひひひひひ…」","japanesePC":"「きひひひひ…。真里亞はね、ベアトリーチェとお友達なの。今日だって会って一緒に遊ぶよ？　きひひひひひひひひ…。」","japanesePS3":"そして、さも事実であるかのように言う。\n「きひひひひ…。\n真里亞はね、ベアトリーチェとお友達なの。\n今日だって会って一緒に遊ぶよ？\nきひひひひひひひひ…」\n「遊び、…ますか」\n「…うん。\n遊ぶよ？\n一緒にね、魔法のお勉強をするの。\nきひひひひひひひ…」","WH":"\"Kihihihihi...  You know, Maria is friends with Beatrice.  Why don't we meet her today and play?  Kihihihihihihihihi...\"","MG":"And then, she spoke, as though it was a fact.\n\"Kihihihihi...\nYou know, I'm friends with Beatrice.\nI'm even gonna meet her today and play.\nKihihihihihihihihi...\"\n\"You're going to...play?\"\n\"...Yeah.\nOf course we'll play.\nWe're gonna study magic together.\nKihihihihihihihi...\"","UP":"Then, she spoke matter‐of‐factly.\n\"Kihihihihi...\nYou know, I am friends with Beatrice.\nI'm meeting her today too, to play.\nKihihihihihihihihi...\"\n\"Pla‐...play?\"\n\"...Yep.\nPlay.\nWe're going to study magic together.\nKihihihihihihihi...\"","note":"Both restore Maria’s declared plan to meet/play/study rather than invitations for Kanon to join her.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0268","readerRefs":{"WH":["umi2_5-L0271"],"MG":["umi2_5-L0268","umi2_5-L0271","umi2_5-L0275","umi2_5-L0276"],"UP":["umi2_5-L0268","umi2_5-L0271","umi2_5-L0275","umi2_5-L0276"]}}],"sourceReading":"Maria says she is Beatrice’s friend and will meet and play with her today.","alternative":"Japanese omits repeated subject, but the prior Maria-friends assertion and Kanon’s surprised play question support her describing her own meeting, not recruiting him. This does not authenticate the meeting itself.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-009","kind":"WH","description":"お迎え, euphemistic death, becomes “I may not even be able to approach,” assigning the fear to Nanjo.","categories":["linguistic.wrong_subject","character.viewpoint_attribution","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[300,302],"MG":[300,302],"UP":[300,302]},"japanese":"「………並の患者ならそうでしょうがな。\n金蔵さんは並外れた気力をお持ちです。\n…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…」","japanesePC":"「………並の患者ならそうでしょうがな。金蔵さんは並外れた気力をお持ちです。…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…。」","japanesePS3":"「………並の患者ならそうでしょうがな。\n金蔵さんは並外れた気力をお持ちです。\n…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…」","WH":"\".........For a normal patient, that would probably be the case.  But Kinzo-san has extraordinary willpower.  ...I may not even be able to approach, in fear of that willpower...\"","MG":"\"......For a normal patient, that would probably be the case.\nBut Kinzo-san has extraordinary willpower.\n...Perhaps that willpower has frightened even the reaper away...\"","UP":"\".........For a normal patient, that would probably be the case.\nBut Kinzo‐san has extraordinary willpower.\n...The force of his will may have even the Grim Reaper too terrified to approach...\"","note":"Both restore Death/reaper as the one too afraid to approach; no claim of Nanjo avoiding Kinzo.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0300","readerRefs":{"WH":["umi2_5-L0300"],"MG":["umi2_5-L0300"],"UP":["umi2_5-L0300"]}}],"sourceReading":"Nanjo jokes that even death’s arrival may fear Kinzo’s force of spirit and be unable to approach.","alternative":"Both praise formidable willpower; the English invents a doctor-access limitation in a conversation specifically questioning access and condition.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-010","kind":"WH","description":"その姿をぜひ見てもらいたい becomes “how much you want to see him,” losing who observes whom and the sting of conspicuous filial display.","categories":["linguistic.wrong_subject","character.irony_performance"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[321,325],"MG":[321,325],"UP":[321,325]},"japanese":"「その通りだな。\n絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。\n…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。\n……ふ」\n「………何が言いたいのよ」","japanesePC":"「その通りだな。絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。","japanesePS3":"「その通りだな。\n絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。\n…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。\n……ふ」\n「………何が言いたいのよ」","WH":"\"That's right.  Haven't you quickly become respectful of Father now that his remaining life has been announced, Eva?  ...I see, it isn't as though I can't understand how much you want to see him.","MG":"\"Indeed.\nLook how quickly you've grown to respect Father, now that you know how much longer he has to live.\n...Yes, I believe I do understand why you want to see him so much.\n...Hmph.\"\n\"......What are you trying to say?\"","UP":"\"That's right.\nEva, how suddenly you've become respectful to Father since he was told how long he has left.\n...Yes, I can just about understand why you might be desperate to see him.\n......Hmph.\"\n\".........What exactly are you implying?\"","note":"Both still make the phrase Eva wanting to see Father rather than wanting Father to see her conspicuous filial behavior; sarcasm survives but viewing direction does not.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi2_5-L0321","readerRefs":{"WH":["umi2_5-L0321"],"MG":["umi2_5-L0321","umi2_5-L0325"],"UP":["umi2_5-L0321","umi2_5-L0325"]}}],"sourceReading":"Krauss sarcastically says he understands Eva wanting Father to witness her newly filial behavior after the prognosis.","alternative":"The sudden respect after prognosis remains, preserving part of the insinuation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-011","kind":"WH","description":"忌憚ない becomes “modestly,” suggesting restraint instead of candor.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[333,336],"MG":[333,336],"UP":[333,336]},"japanese":"「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」","japanesePC":"……わしらが全員顔を揃えるのは年に一度しかない。貴重な時間を大事にし、忌憚ない話し合いをせんといかん。」","japanesePS3":"「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」","WH":"......We can only gather our faces here once a year.  We must take this precious time seriously and talk together modestly.\"","MG":"\"Yep!\nJust as Rudolf-kun says.\n...This is the only time of year we can all meet in person.\nWe've gotta take this valuable time seriously and be frank with each other.\"","UP":"\"Yep!\nJust as Rudolf‐kun says.\n......We can only gather our faces here once a year.\nWe've gotta value this precious time we've got, and talk together frankly.\"","note":"Both restore candid/frank discussion rather than modest restraint.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0333","readerRefs":{"WH":["umi2_5-L0333"],"MG":["umi2_5-L0333"],"UP":["umi2_5-L0333"]}}],"sourceReading":"Hideyoshi urges making precious annual meeting time count with frank, unreserved discussion.","alternative":"The need to discuss matters survives, but the desired manner is reversed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-012","kind":"WH","description":"挨拶くらいはさせてほしい becomes wishing he would “come to greet us,” adding Father’s movement toward them.","categories":["linguistic.overinterpretation","world.space_time_continuity","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[303,306],"MG":[303,306],"UP":[303,306]},"japanese":"「それほどまでにお元気なら、少なくとも安心ね」\n「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。\n…親族会議ってのは親父の顔を見に来たって意味なんだぜ？\nこれじゃあ、何のために来たのかわからねぇぜ」","japanesePC":"「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。…親族会議ってのは親父の顔を見に来たって意味なんだぜ？　これじゃあ、何のために来たのかわからねぇぜ。」","japanesePS3":"「それほどまでにお元気なら、少なくとも安心ね」\n「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。\n…親族会議ってのは親父の顔を見に来たって意味なんだぜ？\nこれじゃあ、何のために来たのかわからねぇぜ」","WH":"\"...Although if he's that energetic, I wish he'd at least come to greet us.  ...Isn't the point of the family conference to come and see Father's face?  Now I don't know why we came.\"","MG":"\"Well, if he's that energetic, then I guess we have little to worry about for the near future, right?\"\n\"...Though, if he's got that much spunk, I wish he'd at least come to greet us.\n...Isn't the whole point of this family conference to come and see Dad's face?\nI'm not even sure why we came now.\"","UP":"\"If he's that energetic, then we can be at least a little reassured, right?\"\n\"...Although if he's that energetic, I wish he'd at least allow us to greet him.\n...Isn't the point of the family conference to come and see Dad's face?\nNow I don't know why the hell we came.\"","note":"MG still asks Father to come greet them. UP restores allowing them to greet him without requiring his movement.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_5-L0303","readerRefs":{"WH":["umi2_5-L0304"],"MG":["umi2_5-L0303","umi2_5-L0304"],"UP":["umi2_5-L0303","umi2_5-L0304"]}}],"sourceReading":"Rudolf wishes they could at least be allowed to greet Father.","alternative":"The blocked greeting is retained. The source does not require Father to come out rather than allowing the children access.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-013","kind":"WH","description":"WH replaces pretending to be on friendly terms with playing a part in a conspiracy.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[362,365],"MG":[362,365],"UP":[362,365]},"japanese":"楼座は、上辺だけ調子を合わせることができなかったらしい。\n…遺産の奪い合いという血生臭く、かつ泥臭い議論のためにここに訪れているのだ。\n今更馴れ合いのふりなどしたくないのだろう。\n……あるいは、その程度にまだまだ彼女は未熟なのか。","japanesePC":"今更馴れ合いのふりなどしたくないのだろう。","japanesePS3":"楼座は、上辺だけ調子を合わせることができなかったらしい。\n…遺産の奪い合いという血生臭く、かつ泥臭い議論のためにここに訪れているのだ。\n今更馴れ合いのふりなどしたくないのだろう。\n……あるいは、その程度にまだまだ彼女は未熟なのか。","WH":"Maybe by now she didn't want to play a part in a conspiracy.","MG":"Apparently, Rosa hadn't been able to keep up with that \"on the surface\" friendliness.\n...They'd come here to fight bloodily and dirtily, each trying to grab a part of the inheritance for themselves.\nShe probably didn't like suddenly pretending that they were all chummy.\n...Or maybe she was still too immature for that.","UP":"It seemed that Rosa hadn't been able to keep up the charade of amicability.\n...They had come here to fight bloodily and dirtily, each trying to steal the inheritance from the others.\nShe probably didn't want to pretend to be fellow conspirators at this stage.\n......Or maybe she was still much too inexperienced for that.","note":"MG restores pretending to be chummy; UP retains fellow conspirators instead of superficial friendliness.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi2_5-L0362","readerRefs":{"WH":["umi2_5-L0362"],"MG":["umi2_5-L0362","umi2_5-L0365"],"UP":["umi2_5-L0362","umi2_5-L0365"]}}],"sourceReading":"The narrator suggests Rosa cannot bring herself to feign cordiality now that everyone is here for the sordid inheritance struggle.","alternative":"馴れ合い can imply collusion, but 馴れ合いのふり, the surface accommodation immediately before it, and her social immaturity make the performed friendliness central. English instead supplies participation in a plot.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-014","kind":"WH","description":"The specific prediction about Maria becomes a generic claim that children who already have rich hearts grow.","categories":["linguistic.logical_relation","character.irony_performance"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[370,377],"MG":[370,377],"UP":[370,377]},"japanese":"「……………真里亞ちゃん、この一年でずいぶん立派になりましたね」\n「………そう見えます…？\n未だに自分のお洋服を畳むことすらできないんですよ」\n「えぇ。\nこんなにも愛情たっぷりなお母さんと一緒なんですもの。\n心の豊かな子に成長しますよ」\n楼座は沈黙している。\n………霧江がどちらの意味で言っているのか、わかりかねているのかもしれない…。","japanesePC":"「えぇ。こんなにも愛情たっぷりなお母さんと一緒なんですもの。心の豊かな子に成長しますよ。」","japanesePS3":"「……………真里亞ちゃん、この一年でずいぶん立派になりましたね」\n「………そう見えます…？\n未だに自分のお洋服を畳むことすらできないんですよ」\n「えぇ。\nこんなにも愛情たっぷりなお母さんと一緒なんですもの。\n心の豊かな子に成長しますよ」\n楼座は沈黙している。\n………霧江がどちらの意味で言っているのか、わかりかねているのかもしれない…。","WH":"\"Yes.  It's because she has such an affectionate mother.  Kids with a rich heart grow.\"","MG":"\"......Maria-chan really has grown a lot this past year.\"\n\"......Does it look that way...?\nShe still can't even fold her own clothing yet.\"\n\"No, it's true.\nIt's because she has such an affectionate mother.\nShe'll grow into a girl with a rich heart.\"\nRosa fell silent.\n......Maybe she was unsure as to what Kyrie meant by that...","UP":"\"...............Maria‐chan really has grown a lot this past year.\"\n\".........Does it look that way...?\nShe still can't even fold her own clothing yet.\"\n\"Yes.\nIt's because she has such an affectionate mother.\nShe'll grow into a girl who's rich in heart.\"\nRosa was silent.\n.........Maybe she was unsure as to how Kyrie meant that...","note":"Both restore a prediction specifically about Maria growing into a rich-hearted girl, not a generic claim about already rich-hearted children.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0370","readerRefs":{"WH":["umi2_5-L0373"],"MG":["umi2_5-L0370","umi2_5-L0371","umi2_5-L0373","umi2_5-L0376"],"UP":["umi2_5-L0370","umi2_5-L0371","umi2_5-L0373","umi2_5-L0376"]}}],"sourceReading":"Because Maria has such an affectionate mother, Kyrie says she will grow into a child with a rich inner life. Rosa cannot tell how this praise is intended.","alternative":"The preceding sentence retains the affectionate mother and the exchange retains Rosa’s uncertainty. The final clause still changes the proposed outcome into an existing condition and loses the personal reassurance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-015","kind":"WH","description":"WH explicitly names Mama as the victim of the scary witch’s pinching.","categories":["linguistic.wrong_subject","character.agency_responsibility","character.viewpoint_attribution"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[474,484],"MG":[474,484],"UP":[474,484]},"japanese":"「…うー。\nママ、お帰り…。\n……真里亞、ママが帰ってくるの、ずっと待ってた。\n…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…」\n「……真里亞っ…。\n……ママを許して…、ママを許して……」\n「ママは悪くないの…。\nまた悪い魔女に取り憑かれただけなの……。\nだから平気。\nママ大好き。\n愛してる……」","japanesePC":"「…うー。ママ、お帰り…。……真里亞、ママが帰ってくるの、ずっと待ってた。…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…。」","japanesePS3":"「…うー。\nママ、お帰り…。\n……真里亞、ママが帰ってくるの、ずっと待ってた。\n…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…」\n「……真里亞っ…。\n……ママを許して…、ママを許して……」\n「ママは悪くないの…。\nまた悪い魔女に取り憑かれただけなの……。\nだから平気。\nママ大好き。\n愛してる……」","WH":"\"...Uu-.  Mama, welcome back.........Maria waited a long time for Mama to come back.  ...Mama was pinched by the scary witch, but Maria held out, waited for Mama to come back without crying...\"","MG":"\"...Uu-.\nMama, welcome back...\n...I waited a long time for you to come back.\n...The scary witch pinched me, but I stayed strong, waiting for Mama to come back without crying...\"\n\"...Maria...!\n...Forgive your Mama, ...forgive your Mama...\"\n\"You didn't do anything wrong...\nYou were just possessed by a bad witch again...\nSo I'm fine.\nI really like you, Mama.\nI love you...\"","UP":"\"...Uu.\nMama, welcome back...\n......I waited a long time for you to come back, Mama.\n...Got pinched by the scary witch, but held out and waited for Mama to come back, without crying...\"\n\"......Maria...\n......Forgive Mama... Forgive Mama......\"\n\"It's not your fault, Mama...\nYou were just possessed by a bad witch again......\nSo I'm fine.\nLove you, Mama.\nI love you......\"","note":"MG pinched me and UP omitted-subject got pinched remove the unsupported assignment of Mama as the victim. Maria’s waiting and bad-witch account remain.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0474","readerRefs":{"WH":["umi2_5-L0474"],"MG":["umi2_5-L0474","umi2_5-L0478","umi2_5-L0480"],"UP":["umi2_5-L0474","umi2_5-L0478","umi2_5-L0480"]}}],"sourceReading":"Maria says she endured being pinched by the scary witch and waited without crying for Mama to return. Her account separates the abusive witch from the returning mother.","alternative":"The Japanese omits the subject of the passive clause, but Maria’s endurance and waiting bind it to Maria. The following possession explanation makes Mama the possessed agent rather than the pinched child. The English context can help a reader repair the error, but the explicit attribution remains wrong.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-016","kind":"WH","description":"WH says sunshine would evaporate all their cares and make them feel able to start anew.","categories":["linguistic.overinterpretation","character.motivation_emotion","linguistic.tense_aspect"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[491,494],"MG":[491,494],"UP":[491,494]},"japanese":"せめて二人を、燦々とした太陽が照らしていたなら、\n二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。\n…しかし、今の二人を包むのは崩れ行く天気。\n雷鳴の混じる強い風であることが悲しかった。","japanesePC":"せめて二人を、燦々とした太陽が照らしていたなら、二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。","japanesePS3":"せめて二人を、燦々とした太陽が照らしていたなら、\n二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。\n…しかし、今の二人を包むのは崩れ行く天気。\n雷鳴の混じる強い風であることが悲しかった。","WH":"If only the brilliant sun had been shining on the two of them, all of their cares would have evaporated, and they would have felt like they could begin anew.","MG":"If only the brilliant sun had been shining on the two of them,\nall of their cares would have evaporated, and it might've felt like they could begin anew.\n...However, what surrounded the two of them was the worsening weather.\nSadly, there were only fierce winds with occasional thunder.","UP":"If only the brilliant sun had been shining on the two of them,\nall of their cares would have evaporated, and they would have felt like they could begin anew.\n...However, what surrounded the two of them was the worsening weather.\nThe strong winds mixed in with the sound of thunder were saddening.","note":"Both still describe all cares evaporating rather than their mutual emotional tension dissolving. MG might preserves some tentativeness; UP would have felt further strengthens the speculative possibility. Original parent reused.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi2_5-L0491","readerRefs":{"WH":["umi2_5-L0491"],"MG":["umi2_5-L0491","umi2_5-L0493"],"UP":["umi2_5-L0491","umi2_5-L0493"]}}],"sourceReading":"The narrator imagines that sunshine might have made the scene suggest all their estrangement had dissolved and a fresh beginning lay ahead. The actual storm makes the scene sad instead.","alternative":"The English preserves the counterfactual weather contrast. However, 感じさせたかもしれない presents a possible impression, while the English certifies the pair’s resolved cares and feelings within that counterfactual, weakening the distance between hopeful appearance and emotional reality.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-017","kind":"WH","description":"唯一の灯り is translated as “this unique light,” substituting distinctiveness for the absence of any other light.","categories":["linguistic.word_choice","world.literary_reference"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[560,565],"MG":[560,565],"UP":[560,565]},"japanese":"「うむ、ハッピーハロウィン。\nほぅ、これを妾にとな？\n天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ」\n「……人の世とも、人ならざる者との世とも切り離された今のこの島で、\nこれほど相応しい菓子はないかも知れぬな。\nくっくくくく…！」","japanesePC":"「うむ、ハッピーハロウィン。ほぅ、これを妾にとな？　天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ。」","japanesePS3":"「うむ、ハッピーハロウィン。\nほぅ、これを妾にとな？\n天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ」\n「……人の世とも、人ならざる者との世とも切り離された今のこの島で、\nこれほど相応しい菓子はないかも知れぬな。\nくっくくくく…！」","WH":"\"Hmm, Happy Halloween.  Hoh, for me?  How truly lovely that this unique light, of a man lost in the darkness of purgatory, unable to go to heaven or hell, would be made into a candy like this.\"","MG":"\"Indeed, <Happy Halloween>.\nHoh, is this for me?\nHow truly adorable, that a candy would be made out of this, the lonely light of a man lost in the darkness of Purgatory, unable to go to heaven or hell.\"\n\"...Right now, on this island that has been cut off both from the world of humans and the world of nonhumans,\nthere may be no more suitable sweet.\n*cackle*cackle*...!\"","UP":"\"Mm, Happy Halloween.\nHoh, for me, you say?\nEven the single and only light given to a man lost in the darkness of purgatory, unable to go to heaven or hell, looks truly charming when made into a candy like this.\"\n\"......Right now, on this island that has been cut off both from the world of humans and the world of nonhumans,\nthere may be no sweet more suitable.\n*cackle*cackle*...!\"","note":"MG lonely light removes distinctiveness but does not explicitly restore the only-light restriction. UP single and only restores it.","dispositions":{"MG":"partly_corrected","UP":"corrected"},"readerRef":"umi2_5-L0560","readerRefs":{"WH":["umi2_5-L0560"],"MG":["umi2_5-L0560","umi2_5-L0563"],"UP":["umi2_5-L0560","umi2_5-L0563"]}}],"sourceReading":"In Beatrice’s explanation, the lantern is the sole light of the man wandering purgatory, barred from heaven and hell.","alternative":"“Unique” can sometimes mean sole or one of a kind, but in this English construction it normally describes an unusual light. The wandering man and exclusion from heaven and hell survive; this is a narrow loss within the narrated reference, without external verification of its folklore.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-018","kind":"WH","description":"“the witches hand” lacks the singular possessive apostrophe.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[595,599],"MG":[595,599],"UP":[595,599]},"japanese":"宙に放り上げたお菓子が、……金色に弾けて…、いや違う。\nそれは黄金の蝶。\n何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。\nするとそれは、………信じられないことに、………買った時そのままの綺麗な元の姿に戻っていた…。\n楼座と魔女だけがその光景を見ていた。","japanesePC":"何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。","japanesePS3":"宙に放り上げたお菓子が、……金色に弾けて…、いや違う。\nそれは黄金の蝶。\n何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。\nするとそれは、………信じられないことに、………買った時そのままの綺麗な元の姿に戻っていた…。\n楼座と魔女だけがその光景を見ていた。","WH":"It scattered into several golden butterflies, ...and they began to gather at the witches hand, which was held up to the sky.","MG":"The sweet that had been thrown into the air...burst into a gold color...no, that wasn't it.\nThose were golden butterflies.\nIt scattered into several golden butterflies, ...and they began to gather at the witch's hand, which was held up to the sky.\nAnd as she did this, ......unbelievably, ......it returned to its beautiful original form, no different from when it had been bought...\nOnly Rosa and the witch witnessed that scene.","UP":"The sweet which had been thrown into the air......burst into a gold color―no,\nthose were golden butterflies.\nIt scattered into several golden butterflies, ...and they began to assemble in the witch's hand, held up to the sky.\nAnd when they had, .........unbelievably, .........the candy had returned to its beautiful original form, just like the time it had been bought...\nOnly Rosa and the witch had watched that scene.","note":"Both now use witch’s singular possessive apostrophe correctly.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0595","readerRefs":{"WH":["umi2_5-L0595"],"MG":["umi2_5-L0595","umi2_5-L0599"],"UP":["umi2_5-L0595","umi2_5-L0599"]}}],"sourceReading":"The butterflies gather to the one witch’s raised hand.","alternative":"Context makes the singular witch unambiguous. This is a mechanical grammar defect, not evidence that multiple witches witnessed or performed the event.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-019","kind":"WH","description":"左右しかねない becomes “couldn’t help but influence,” strengthening possible influence into unavoidable influence.","categories":["linguistic.logical_relation","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[719,721],"MG":[719,721],"UP":[719,721]},"japanese":"…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、\nそして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。\nだから買い言葉を返さず、源次を従えて二階へ上がって行くその姿を、黙って見送るしかない。","japanesePC":"…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、そして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。","japanesePS3":"…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、\nそして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。\nだから買い言葉を返さず、源次を従えて二階へ上がって行くその姿を、黙って見送るしかない。","WH":"...But if Kyrie's imagination was correct, ......this \"witch\" probably held a huge key to what her own husband was most interested in, and something that couldn't help but influence tonight's family conference...","MG":"...But if Kyrie's guesses were correct, ...this \"witch\" probably held a vital key to what her own husband was most interested in,\nsomething that couldn't help but influence tonight's family conference...\nSo without shooting back a retort, Kyrie silently watched her go up the stairs to the second floor, with Genji following behind.","UP":"...But if Kyrie's imagination was correct, ......this \"witch\" likely held a huge key to what her own husband was most interested in,\nand one that stood a great chance of influencing tonight's family conference...\nSo she did not shoot back a retort, and could only watch in silence as the woman went up the stairs to the second floor, with Genji following behind.","note":"MG retains unavoidable influence. UP removes inevitability but great chance still adds a probability strength not fixed by 左右しかねない, could affect the outcome.","dispositions":{"MG":"retained","UP":"partly_corrected"},"readerRef":"umi2_5-L0719","readerRefs":{"WH":["umi2_5-L0719"],"MG":["umi2_5-L0719","umi2_5-L0721"],"UP":["umi2_5-L0719","umi2_5-L0721"]}}],"sourceReading":"If Kyrie’s guess is right, this witch probably holds a major key concerning Rudolf’s chief interest and capable of affecting tonight’s family conference.","alternative":"The English retains the initial conditional and “probably,” so the woman’s identity and possession of the key remain tentative. Within that tentative hypothesis, however, the key’s potential effect becomes necessary rather than possible.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-CH05-020","kind":"WH","description":"“Even until he literally became a ghost” supplies becoming a ghost as an endpoint, whereas 亡霊となっても permits the research to continue even after that transformation.","categories":["linguistic.logical_relation","mystery.physical_constraint","world.space_time_continuity"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[747,754],"MG":[747,754],"UP":[747,754]},"japanese":"「……この中からどれほど出ぬのか」\n「すでに数年になるかと思います」\n「…………それほどまでに、妾を篭の鳥としたいか。\n…哀れな。\n……それを願うそなたが、今や篭の鳥。\n…書斎の亡霊ではないか。\n……それに気付けぬとは哀れな男よ」\n「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう」","japanesePC":"「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう。」","japanesePS3":"「……この中からどれほど出ぬのか」\n「すでに数年になるかと思います」\n「…………それほどまでに、妾を篭の鳥としたいか。\n…哀れな。\n……それを願うそなたが、今や篭の鳥。\n…書斎の亡霊ではないか。\n……それに気付けぬとは哀れな男よ」\n「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう」","WH":"\"......He would probably continue his research until the day he could meet you again, even until he literally became a ghost.\"","MG":"\"...How long has he been in there since last he left?\"\n\"I believe it has already been several years.\"\n\"......Is he that desperate to turn me into a bird in a cage?\n...How pitiful.\n......By now, you're the bird in a cage.\n...You're the ghost of this study, are you not?\n...How pitiful that he is unable to recognize even that.\"\n\"...Until he meets you again, he will probably continue his research, even after literally becoming a ghost.\"","UP":"\"......When was the last time he left this room?\"\n\"I believe it has already been several years.\"\n\"............He is that intent on making me a bird in a cage?\n...Alas.\n......Now you, who made that wish, are the bird in a cage.\n...The ghost of the study, are you not.\n......What a pitiful man to not recognize that.\"\n\"......He would probably continue his research until the day he could meet you again, even if he literally became a ghost.\"","note":"Both now allow research to continue even after becoming a ghost, until reunion, rather than making becoming a ghost the endpoint.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_5-L0747","readerRefs":{"WH":["umi2_5-L0754"],"MG":["umi2_5-L0747","umi2_5-L0748","umi2_5-L0749","umi2_5-L0754"],"UP":["umi2_5-L0747","umi2_5-L0748","umi2_5-L0749","umi2_5-L0754"]}}],"sourceReading":"Genji predicts that Kinzo would probably keep researching until reunion with Beatrice, even if he literally became a ghost.","alternative":"The English also names reunion as a limit and retains “probably,” so it leaves two competing endpoints rather than simply asserting cessation at death. Nonetheless, its “until” removes the explicit persistence beyond becoming a ghost.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-WITCH-OPPORTUNITY-SUPERLATIVE-001","kind":"additional","description":"大切な機会 calls Halloween an important opportunity for witches to interact with otherworldly visitors. MG the most important chance adds a superlative ranking not stated here. UP precious opportunity preserves importance without ranking.","categories":["linguistic.overinterpretation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[90,92],"MG":[90,92],"UP":[90,92]},"japanese":"「つまり、ハロウィンはこの世とあの世の交流のある時期ってわけなんだな？\nそれでつまり、魔女たちにとってはそういう世界の客人たちと交流できる大切な機会だったと。\nそう言いたいわけか」","japanesePC":"","japanesePS3":"「つまり、ハロウィンはこの世とあの世の交流のある時期ってわけなんだな？\nそれでつまり、魔女たちにとってはそういう世界の客人たちと交流できる大切な機会だったと。\nそう言いたいわけか」","WH":"","MG":"\"So Halloween is a time when those two worlds intermingle?\nIn other words, it's the most important chance for witches to intermingle with guests from that world.\nIs that what you're trying to say?\"","UP":"\"So Halloween is a time when this world and that world intermingle?\nSo, in other words, it's a precious opportunity for witches to interact with visitors from that world.\nIs that what you want to say?\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi2_5-L0090","readerRefs":{"WH":[],"MG":["umi2_5-L0090"],"UP":["umi2_5-L0090"]}}],"sourceReading":"","alternative":"Row 97 separately states that witch/demon powers are most active in October, but that does not make this earlier opportunity explicitly the most important.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-HARVEST-GRATITUDE-MODALITY-001","kind":"additional","description":"感謝の気持ちがあってもいいわけだね allows gratitude for the harvest as a fitting interpretation of giving candy. UP the reason ... must be because ... they should be thanked strengthens this into a necessary causal explanation. MG you might say preserves the tentative allowance.","categories":["linguistic.overinterpretation","linguistic.logical_relation"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[86,89],"MG":[86,89],"UP":[86,89]},"japanese":"「ハロウィンの仮装は、向こうから来る客人たちの模倣。\n……つまり、彼らにお菓子を施すのは、一年の収穫への感謝の気持ちがあってもいいわけだね」\n「うー！\n譲治お兄ちゃんの言う通り！」","japanesePC":"","japanesePS3":"「ハロウィンの仮装は、向こうから来る客人たちの模倣。\n……つまり、彼らにお菓子を施すのは、一年の収穫への感謝の気持ちがあってもいいわけだね」\n「うー！\n譲治お兄ちゃんの言う通り！」","WH":"","MG":"\"Halloween costumes imitate the guests that come from the other side.\n...In other words, you might say giving out candy is a way to show gratitude for the yearly harvest.\"\n\"Uu-!\nJust like George onii-chan says!\"","UP":"\"Halloween costumes are an imitation of the visitors from the other side.\n......So, then, the reason we give candy to them must be because of a feeling that they should be thanked for the yearly harvest.\"\n\"Uu!\nJust like George onii‐chan says!\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_5-L0086","readerRefs":{"WH":[],"MG":["umi2_5-L0086","umi2_5-L0088"],"UP":["umi2_5-L0086","umi2_5-L0088"]}}],"sourceReading":"","alternative":"George is deriving an interpretation from Maria’s account, and her agreement endorses it. The Japanese still uses permissive あってもいい rather than obligatory necessity or a uniquely established origin.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-RITUAL-CREATION-001","kind":"additional","description":"MG changes inventing protective rituals into performing them.","categories":["linguistic.word_choice"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[58,58],"MG":[58,58],"UP":[58,58]},"japanese":"そこで彼らは、これらの害を受けないようなおまじないを生み出していった。","japanesePC":"","japanesePS3":"そこで彼らは、これらの害を受けないようなおまじないを生み出していった。","WH":"","MG":"So, in order to avoid harm, they performed rituals.","UP":"So in order to avoid harm from them, the people invented protective rituals.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi2_5-L0057","readerRefs":{"WH":[],"MG":["umi2_5-L0057"],"UP":["umi2_5-L0057"]}}],"sourceReading":"生み出していった narrates the practices being developed; original WH created enchantments and UP invented protective rituals preserve creation.","alternative":"Performing practices implies they exist, but does not preserve the narrated origin.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-BATTLER-DREAM-SCALE-001","kind":"additional","description":"スケールのでかい話 comments on the large scale of Maria’s account or ambition. MG detailed and impressive replaces scope with elaborateness and favorable appraisal; UP large-scale dream retains the magnitude.","categories":["linguistic.word_choice"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[114,117],"MG":[114,117],"UP":[114,117]},"japanese":"「へー…。\nそいつぁ何だかスケールのでかい話だな。\n……ところでベアトリーチェって誰だっけ？\n……何だっけ、えっとえっと、聞いた名前だな…」","japanesePC":"","japanesePS3":"「へー…。\nそいつぁ何だかスケールのでかい話だな。\n……ところでベアトリーチェって誰だっけ？\n……何だっけ、えっとえっと、聞いた名前だな…」","WH":"","MG":"\"Oh...?\nThat sounds pretty detailed and impressive.\n...By the way, who was Beatrice again?\n...Hmm, I know I've heard that name somewhere before...\"","UP":"\"Wow...\nThat's a pretty large‐scale dream.\n......By the way, who was Beatrice again?\n......What was it, umm, umm, I've heard that before...\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi2_5-L0114","readerRefs":{"WH":[],"MG":["umi2_5-L0114"],"UP":["umi2_5-L0114"]}}],"sourceReading":"","alternative":"Large scale can impress Battler, but detailed is a different property and the source does not explicitly praise the account as impressive.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-MARSHMALLOW-LOOK-LIKE-001","kind":"additional","description":"UP marshmallows that look they have fluorescent paint omits like between look and they. MG look like they have is grammatical.","categories":["linguistic.grammar"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[144,145],"MG":[144,145],"UP":[144,145]},"japanese":"「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。\n遅刻してまであんたに買ってやったのよ。","japanesePC":"","japanesePS3":"「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。\n遅刻してまであんたに買ってやったのよ。","WH":"","MG":"Because of that scene you made in the train, I went to all the trouble of making a stop and buying you those disgusting monster marshmallows that look like they have fluorescent paint on them...\nI went out of my way to buy it, even though it made us late.","UP":"\"Because you made that ruckus in the train, I had to go to all the trouble of getting off and buying you those disgusting monster marshmallows that look they have fluorescent paint on them...\nWe were even late because I bought them for you.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_5-L0144","readerRefs":{"WH":[],"MG":["umi2_5-L0144"],"UP":["umi2_5-L0144"]}}],"sourceReading":"","alternative":"The paint comparison is clear from context; grammar defect only.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-GATHER-FACES-001","kind":"additional","description":"全員顔を揃える means everyone meeting or gathering together. UP gather our faces mechanically translates the idiom into an unnatural physical object for gather; MG meet in person conveys the meeting.","categories":["linguistic.idiom_calque"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[333,336],"MG":[333,336],"UP":[333,336]},"japanese":"「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」","japanesePC":"","japanesePS3":"「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」","WH":"","MG":"\"Yep!\nJust as Rudolf-kun says.\n...This is the only time of year we can all meet in person.\nWe've gotta take this valuable time seriously and be frank with each other.\"","UP":"\"Yep!\nJust as Rudolf‐kun says.\n......We can only gather our faces here once a year.\nWe've gotta value this precious time we've got, and talk together frankly.\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_5-L0333","readerRefs":{"WH":[],"MG":["umi2_5-L0333"],"UP":["umi2_5-L0333"]}}],"sourceReading":"","alternative":"The gathering meaning remains inferable, so this is a local idiom/English expression defect rather than a changed attendee count.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-SHANNON-LEERING-001","kind":"additional","description":"鼻の下を伸ばした describes Hideyoshi and Rudolf’s leering or besotted expression as they watch Shannon leave. MG substitutes a general trait, had a soft spot for women, while UP turned heads supplies a neutral movement. Both weaken the immediate lustful reaction.","categories":["linguistic.idiom_calque","character.voice_state"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[391,395],"MG":[391,395],"UP":[391,395]},"japanese":"「それでは、失礼いたします。\n御用がありましたら、いつでもお呼び付けください」\n紗音が丁寧にお辞儀して退室する。\n鼻の下を伸ばした秀吉と留弗夫がそれを見送ると、\n…場の空気は紗音が訪れる直前のものに逆戻りし始める。","japanesePC":"","japanesePS3":"「それでは、失礼いたします。\n御用がありましたら、いつでもお呼び付けください」\n紗音が丁寧にお辞儀して退室する。\n鼻の下を伸ばした秀吉と留弗夫がそれを見送ると、\n…場の空気は紗音が訪れる直前のものに逆戻りし始める。","WH":"","MG":"\"Then, if you will excuse me.\nIf there is anything you desire, please call for it at any time.\"\nShannon bowed politely and left the room.\nAs Hideyoshi and Rudolf, who had a soft spot for women, watched her go,\n...the atmosphere in the room began to revert back to what it had been right before Shannon's visit.","UP":"\"Then, if you will excuse me.\nIf there is anything you desire, please call for it at any time.\"\nShannon bowed politely and left the room.\nAfter Hideyoshi and Rudolf watched her go with turned heads,\n...the atmosphere in the room began to revert back to what it had been right before Shannon had visited.","note":"","dispositions":{"MG":"defect","UP":"defect"},"readerRef":"umi2_5-L0391","readerRefs":{"WH":[],"MG":["umi2_5-L0391","umi2_5-L0393"],"UP":["umi2_5-L0391","umi2_5-L0393"]}}],"sourceReading":"","alternative":"MG’s fondness for women and UP’s attention to Shannon can suggest attraction, but neither clearly preserves the depicted leering expression at this moment.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH05-MARIA-LEAPS-ONTO-FIGURE-001","kind":"additional","description":"人影に飛びつく describes Maria leaping onto or clinging to the arriving figure. Both translations reduce this to dashing over to the figure, preserving approach but losing the physical contact. The following explanation likewise replaces jumping onto a stranger with dashing over.","categories":["linguistic.undertranslation","world.space_time_continuity"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi2_5","episode":2,"rows":{"JP":[536,539],"MG":[536,539],"UP":[536,539]},"japanese":"「ベアトリーチェー！！」\n真里亞がその人影に飛びつく。\n……普段の楼座なら、見ず知らずの人に娘が飛びつくようなことがあれば叱る。\n…しかし楼座は、それを忘れて、ただただ呆然とするしかできなかった。","japanesePC":"","japanesePS3":"「ベアトリーチェー！！」\n真里亞がその人影に飛びつく。\n……普段の楼座なら、見ず知らずの人に娘が飛びつくようなことがあれば叱る。\n…しかし楼座は、それを忘れて、ただただ呆然とするしかできなかった。","WH":"","MG":"\"Beatrice!!\"\nMaria dashed over to the shadow.\n...Normally, Rosa would scold her daughter if she dashed over to someone whom she hadn't seen before and didn't know.\n...But Rosa forgot to do that, was unable to do anything but stand there, stunned.","UP":"\"Beatrice!!\"\nMaria dashed over to the figure.\n......Normally, Rosa would scold her daughter if she dashed over to a complete stranger.\n...But Rosa forgot about that, unable to do anything but stand there, shocked.","note":"","dispositions":{"MG":"defect","UP":"defect"},"readerRef":"umi2_5-L0536","readerRefs":{"WH":[],"MG":["umi2_5-L0536","umi2_5-L0537"],"UP":["umi2_5-L0536","umi2_5-L0537"]}}],"sourceReading":"","alternative":"Running up may precede an embrace, but the translated lines do not establish the contact that 飛びつく states.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP02-CH05-001",
+      "kind": "WH",
+      "description": "そんなに可哀想なら面倒を見てあげればいい invites Maria to care for the rose if she feels so sorry for it. “Everything would be fine if they looked over this poor thing” changes the personal invitation to a collective action and an assurance of outcome.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              3,
+              5
+            ],
+            "MG": [
+              3,
+              5
+            ],
+            "UP": [
+              3,
+              5
+            ]
+          },
+          "japanese": "その中に一輪、枯れ掛けた薔薇があり、真里亞が感傷に囚われ消沈してしまう。\nでも、譲治が機転を利かし、\nそんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。",
+          "japanesePC": "でも、譲治が機転を利かし、そんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。",
+          "japanesePS3": "その中に一輪、枯れ掛けた薔薇があり、真里亞が感傷に囚われ消沈してしまう。\nでも、譲治が機転を利かし、\nそんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。",
+          "WH": "But George used his quick wits, and, saying everything would be fine if they looked over this poor thing, marked it with a candy wrapper, and immediately restored Maria's good mood.",
+          "MG": "In the midst of all this, there was a single unhealthy rose, and Maria became overwhelmed with dejection at its condition.\nBut George used his quick wits,\nand, saying that everything would be fine if they took care of this poor thing, marked it with a candy wrapper and immediately restored Maria's good mood.",
+          "UP": "There was a single unhealthy rose among them, and Maria became overwhelmed with dejection at its state.\nBut George used his quick wits,\nand saying she should look after it if she felt that sorry for it, he marked it with a candy wrapper, and immediately restored Maria's good mood.",
+          "note": "MG retains collective they and assurance everything would be fine; UP restores individual invitation to Maria to care for the rose.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0003",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0003"
+            ],
+            "MG": [
+              "umi2_5-L0003"
+            ],
+            "UP": [
+              "umi2_5-L0003"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その中に一輪、枯れ掛けた薔薇があり、真里亞が感傷に囚われ消沈してしまう。でも、譲治が機転を利かし、そんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。",
+              "translation": "In the midst of all this, there was a single unhealthy rose, and Maria became overwhelmed with dejection at its condition. But George used his quick wits, and, saying that everything would be fine if they took care of this poor thing, marked it with a candy wrapper and immediately restored Maria's good mood. "
+            },
+            "UP": {
+              "japanese": "その中に一輪、枯れ掛けた薔薇があり、真里亞が感傷に囚われ消沈してしまう。でも、譲治が機転を利かし、そんなに可哀想なら面倒を見てあげればいいと飴玉の包み紙で目印を付けてあげると、すぐに機嫌を直した。",
+              "translation": "There was a single unhealthy rose among them, and Maria became overwhelmed with dejection at its state. But George used his quick wits, and saying she should look after it if she felt that sorry for it, he marked it with a candy wrapper, and immediately restored Maria's good mood."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0003"
+            ],
+            "MG": [
+              "umi2_5-L0003"
+            ],
+            "UP": [
+              "umi2_5-L0003"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George suggests that if she feels so sorry for it, she can look after it, then marks it with a candy wrapper and restores her mood.",
+      "alternative": "Looked over can loosely convey attention, and wrapper marking survives. The source does not promise everything will be fine or substitute a collective they for her care.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-002",
+      "kind": "WH",
+      "description": "The English retains the naming of the solar death day as New Year’s Eve/Samhain but drops お祝いした, that they celebrated it.",
+      "categories": [
+        "linguistic.omission",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              42,
+              46
+            ],
+            "MG": [
+              42,
+              46
+            ],
+            "UP": [
+              42,
+              46
+            ]
+          },
+          "japanese": "「うん。\nだから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。\nそれで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの」\n「再び日照時間が長くなりだす冬至の日を、太陽の復活の日とする考え方はとても面白いよね。\n古代の人々がいかに太陽を神聖視していたかがわかるエピソードだよ」",
+          "japanesePC": "「うん。だから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。それで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの。」",
+          "japanesePS3": "「うん。\nだから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。\nそれで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの」\n「再び日照時間が長くなりだす冬至の日を、太陽の復活の日とする考え方はとても面白いよね。\n古代の人々がいかに太陽を神聖視していたかがわかるエピソードだよ」",
+          "WH": "\"Yes.  So they thought that at the end of October, the sun died, rested its body in the land of the dead, and then revived again at the winter solstice.  Then, they called the day that the sun ended its one year lifespan and died New Year's Eve, or Samhain.\"",
+          "MG": "\"Yes.\nSo, they thought that at the end of October, the sun died, was laid to rest in the land of the dead, and was then revived at the winter solstice.\nAnd the name they gave to the last day of their year, when the sun ended its one year lifespan and died...was Samhain, and they celebrated then.\"\n\"It's an interesting idea, to think that the sun is revived on the day of the winter solstice, when the daylight hours start to grow longer again.\nIt's a case that makes it clear how much the ancients regarded the sun as sacred.\"",
+          "UP": "\"Yep.\nSo they thought that at the end of October, the sun died, rested its body in the land of the dead, and then revived again at the winter solstice.\nAnd so, they celebrated the day that the sun ends its one‐year lifespan and dies, calling it New Year's Eve, or Samhain.\"\n\"That way of thinking is very interesting, to say that the sun is \"revived\" on the day of the winter solstice, when the daylight hours start to grow longer again.\nIt's an episode that makes you understand how much ancient people deified the sun.\"",
+          "note": "Both now explicitly include celebration of the solar death day.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0042",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0042"
+            ],
+            "MG": [
+              "umi2_5-L0042",
+              "umi2_5-L0045"
+            ],
+            "UP": [
+              "umi2_5-L0042",
+              "umi2_5-L0045"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うん。だから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。それで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの」",
+              "translation": "\"Yes. So, they thought that at the end of October, the sun died, was laid to rest in the land of the dead, and was then revived at the winter solstice. And the name they gave to the last day of their year, when the sun ended its one year lifespan and died...was Samhain, and they celebrated then.\" "
+            },
+            "UP": {
+              "japanese": "「うん。だから彼らは、１０月の最後に太陽は死に、死の国で体を休めて、冬至の日に再び蘇ると考えたの。それで、太陽が一年の生涯を終えて死ぬその日を大晦日、サヴィンと呼んで、お祝いしたの」",
+              "translation": "\"Yep. So they thought that at the end of October, the sun died, rested its body in the land of the dead, and then revived again at the winter solstice. And so, they celebrated the day that the sun ends its one‐year lifespan and dies, calling it New Year's Eve, or Samhain.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0042"
+            ],
+            "MG": [
+              "umi2_5-L0042"
+            ],
+            "UP": [
+              "umi2_5-L0042"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "In Maria’s account, the sun dies at October’s end and revives at winter solstice; people name the death day Samhain/New Year’s Eve and celebrate it.",
+      "alternative": "The entire discussion is about a festival, making celebration inferable. Its explicit inclusion in this historical explanation is nonetheless omitted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-003",
+      "kind": "WH",
+      "description": "魔女集会、サバト names the gathering in apposition; English makes Sabbath a day on which the gathering is held.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.terminology_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              83,
+              85
+            ],
+            "MG": [
+              83,
+              85
+            ],
+            "UP": [
+              83,
+              85
+            ]
+          },
+          "japanese": "「うー！\nそしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。\n魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの」",
+          "japanesePC": "「うー！　そしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの。」",
+          "japanesePS3": "「うー！\nそしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。\n魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの」",
+          "WH": "\"Uu-!  And you know, the witches, they hold a witch assembly during that time, on the Sabbath.  The witches thank the spirits that give out blessings of prosperity, and reward them.\"",
+          "MG": "\"Uu-!\nAnd also, the witches hold a witch assembly then, called a Sabbath.\nThe witches thank the spirits that give out blessings of prosperity and reward them.\"",
+          "UP": "\"Uu!\nAnd you know, the witches, they held a coven during that time, called a Sabbat.\nThe witches would thank the spirits that gave out blessings of prosperity, and reward them.\"",
+          "note": "Both identify Sabbath/Sabbat as the gathering’s name, not a separate day on which it is held. UP coven terminology is not independently certified here.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0083",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0083"
+            ],
+            "MG": [
+              "umi2_5-L0083"
+            ],
+            "UP": [
+              "umi2_5-L0083"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うー！　そしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの」",
+              "translation": "\"Uu-! And also, the witches hold a witch assembly then, called a Sabbath. The witches thank the spirits that give out blessings of prosperity and reward them.\" "
+            },
+            "UP": {
+              "japanese": "「うー！　そしてね、魔女たちはね、その時期に魔女集会、サバトを開いたの。魔女たちは豊かな恵みをもたらしてくれた精霊たちに感謝し、労ったの」",
+              "translation": "\"Uu! And you know, the witches, they held a coven during that time, called a Sabbat. The witches would thank the spirits that gave out blessings of prosperity, and reward them.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0083"
+            ],
+            "MG": [
+              "umi2_5-L0083"
+            ],
+            "UP": [
+              "umi2_5-L0083"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Witches held a witch gathering, a sabbat, during that season.",
+      "alternative": "The assembly and season remain. The source does not add a separate day constraint.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-004",
+      "kind": "WH",
+      "description": "English extends shared “we” to learning spells and circles and rune secrets, making Beatrice a fellow learner rather than the envisaged teacher.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              99,
+              101
+            ],
+            "MG": [
+              99,
+              101
+            ],
+            "UP": [
+              99,
+              101
+            ]
+          },
+          "japanese": "「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！\n一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！\nそしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」",
+          "japanesePC": "「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！　一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！　そしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」",
+          "japanesePS3": "「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！\n一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！\nそしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」",
+          "WH": "\"And then, we'll eat marshmallow candies together, and she'll bring Maria to the Golden Land with her!  We'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!  And then, we'll learn the secrets of runes, and Maria will become a great witch really, really quickly!\"",
+          "MG": "\"And then, we'll eat marshmallow candies together, and she'll bring me to the Golden Land with her!\nWe'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!\nAnd then, we'll learn the secrets of runes, and I'll become a great witch really, really quickly!\"",
+          "UP": "\"And then, we'll eat the marshmallow candies together, and she'll take me to the Golden Land with her!\nWe'll sing magical songs together, learn magic spells together, learn how to draw magic circles together!\nAnd then I'm going to learn the secrets of runes, and become a great witch really, really quickly!\"",
+          "note": "MG we learn covers spells, circles and runes. UP still says we learn for spells and circles, but changes rune learning to I; singing together is supported in both.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partly_corrected"
+          },
+          "readerRef": "umi2_5-L0099",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0099"
+            ],
+            "MG": [
+              "umi2_5-L0099"
+            ],
+            "UP": [
+              "umi2_5-L0099"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！　一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！　そしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」",
+              "translation": "\"And then, we'll eat marshmallow candies together, and she'll bring me to the Golden Land with her! We'll sing magical songs together, learn magic spells together, learn how to draw magic circles together! And then, we'll learn the secrets of runes, and I'll become a great witch really, really quickly!\" "
+            },
+            "UP": {
+              "japanese": "「そしてね、一緒にマシュマロお菓子食べて、真里亞も黄金郷に連れてってもらうの！　一緒に魔法のお唄を歌って、魔法の呪文を習って、魔法陣の書き方を習うの！　そしてね、ルーンの秘密を習って、早く早く真里亞を立派な魔女にしてもらうの！」",
+              "translation": "\"And then, we'll eat the marshmallow candies together, and she'll take me to the Golden Land with her! We'll sing magical songs together, learn magic spells together, learn how to draw magic circles together! And then I'm going to learn the secrets of runes, and become a great witch really, really quickly!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0099"
+            ],
+            "MG": [
+              "umi2_5-L0099"
+            ],
+            "UP": [
+              "umi2_5-L0099"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria imagines singing with Beatrice, learning spells, circles and rune secrets from her, and being made a proper witch.",
+      "alternative": "Singing together is source-supported and the resulting witchhood survives; the instruction relationship does not.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-005",
+      "kind": "WH",
+      "description": "English substitutes mother buying something fun for her, and has malformed “supposed to proof.” This loses the shared activity that made any sweet acceptable earlier.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.grammar",
+        "character.relationship_power",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              149,
+              153
+            ],
+            "MG": [
+              149,
+              153
+            ],
+            "UP": [
+              149,
+              153
+            ]
+          },
+          "japanese": "真里亞が手に持っているあのお菓子を楼座は突然奪う。\nするとそれを地面に叩き付け、何度も何度も踏みつけた。\n真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。\nそれが他でもない母に踏みにじられる光景。\n…それが真里亞の瞳に、消せない焼きごてを押し当てる…。",
+          "japanesePC": "真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。",
+          "japanesePS3": "真里亞が手に持っているあのお菓子を楼座は突然奪う。\nするとそれを地面に叩き付け、何度も何度も踏みつけた。\n真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。\nそれが他でもない母に踏みにじられる光景。\n…それが真里亞の瞳に、消せない焼きごてを押し当てる…。",
+          "WH": "To Maria, it was supposed to proof of her memory of that brief span of time when her mother had bought something fun for her...",
+          "MG": "Rosa suddenly grabbed the candy that Maria had been holding.\nShe threw it on the ground and stepped on it over and over.\nTo Maria, it was supposed to be proof of a memory...of a brief span of time when her mother had bought something fun for her...\nBut now, that same mother was grinding it into the ground right in front of her.\n...It was as though a brand had been pushed into Maria's eyes, leaving a mark that could never be erased...",
+          "UP": "Rosa suddenly stole the candy that Maria had been holding in her hand.\nThen she threw it on the ground and stepped on it over and over.\nTo Maria, it was supposed to be proof of her memory of that span of time, however brief, when she had enjoyed going shopping with her mother...\nBut it was being trampled by that very same mother.\n...It was as though a brand was being pushed against Maria's eyes, leaving a mark that couldn't be erased...",
+          "note": "MG fixes proof grammar but still substitutes mother buying something fun for the shared enjoyable shopping memory. UP restores shopping together and proof grammar.",
+          "dispositions": {
+            "MG": "partly_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0149",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0151"
+            ],
+            "MG": [
+              "umi2_5-L0149",
+              "umi2_5-L0151"
+            ],
+            "UP": [
+              "umi2_5-L0149",
+              "umi2_5-L0151"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。それが他でもない母に踏みにじられる光景。\n…それが真里亞の瞳に、消せない焼きごてを押し当てる…。",
+              "translation": "To Maria, it was supposed to be proof of a memory...of a brief span of time when her mother had bought something fun for her... But now, that same mother was grinding it into the ground right in front of her. ...It was as though a brand had been pushed into Maria's eyes, leaving a mark that could never be erased... "
+            },
+            "UP": {
+              "japanese": "真里亞にとってそれは、束の間とはいえ、母と楽しく買い物をした記憶の証であったはず…。それが他でもない母に踏みにじられる光景。\n…それが真里亞の瞳に、消せない焼きごてを押し当てる…。",
+              "translation": "To Maria, it was supposed to be proof of her memory of that span of time, however brief, when she had enjoyed going shopping with her mother... But it was being trampled by that very same mother.\n...It was as though a brand was being pushed against Maria's eyes, leaving a mark that couldn't be erased..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0151"
+            ],
+            "MG": [
+              "umi2_5-L0151"
+            ],
+            "UP": [
+              "umi2_5-L0151"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The sweet is proof of the memory of shopping happily with mother, brief though it was.",
+      "alternative": "The mother-given gift and brief happy interval survive, limiting the shift. The source locates happiness in the joint shopping, not the object being fun.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-006",
+      "kind": "WH",
+      "description": "あんたがそんなだから repeats Rosa’s causal blaming formula, “because you are like this.” English substitutes “That’s what you are,” turning the unfinished explanation into a categorical identification.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              154,
+              157
+            ],
+            "MG": [
+              154,
+              157
+            ],
+            "UP": [
+              154,
+              157
+            ]
+          },
+          "japanese": "「こんな気持ち悪いお菓子が何よ、\n気持ち悪い気持ち悪い…！！」\n「あんたがそんなんだからッ、あんたがそんなんだからッ！！\n気持ち悪い気持ち悪い気持ち悪い！！！」",
+          "japanesePC": "あんたがそんなだからッ、あんたがそんなだからッ！！",
+          "japanesePS3": "「こんな気持ち悪いお菓子が何よ、\n気持ち悪い気持ち悪い…！！」\n「あんたがそんなんだからッ、あんたがそんなんだからッ！！\n気持ち悪い気持ち悪い気持ち悪い！！！」",
+          "WH": "That's what you are, that's what you are!!",
+          "MG": "\"Who cares about this disgusting candy,\ndisgusting, disgusting...!!\nIt's because you're like that, it's all because you're like that!!\nDisgusting disgusting disgusting!!!\"",
+          "UP": "\"Who cares about this disgusting candy,\ndisgusting, disgusting...!!\"\n\"This is why, you see?! This is why!!\nDisgusting disgusting disgusting!!!\"",
+          "note": "MG restores because you are like that. UP this is why restores causal form but leaves the repeated blame of Maria’s way of being implicit rather than explicit.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "partly_corrected"
+          },
+          "readerRef": "umi2_5-L0154",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0156"
+            ],
+            "MG": [
+              "umi2_5-L0154",
+              "umi2_5-L0156"
+            ],
+            "UP": [
+              "umi2_5-L0154",
+              "umi2_5-L0156"
+            ]
+          },
+          "findingEvidence": {
+            "UP": {
+              "japanese": "「あんたがそんなんだからッ、あんたがそんなんだからッ！！　気持ち悪い気持ち悪い気持ち悪い！！！」",
+              "translation": "\"This is why, you see?! This is why!! Disgusting disgusting disgusting!!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0156"
+            ],
+            "MG": [],
+            "UP": [
+              "umi2_5-L0156"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "While denouncing the candy, Rosa repeats that it is because Maria is like this, echoing her earlier blaming of Maria for friendlessness and the endless father trip.",
+      "alternative": "The surrounding repeated disgusting language makes contempt explicit in both versions. The difference is the recurrent causal blame construction rather than an invented overall hostile attitude.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-007",
+      "kind": "WH",
+      "description": "その程度の器にはその程度のが入り込む becomes “Maria can handle that much,” erasing the vessel/entrant account following the bad-witch interpretation.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_layer",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              220,
+              223
+            ],
+            "MG": [
+              220,
+              223
+            ],
+            "UP": [
+              220,
+              223
+            ]
+          },
+          "japanese": "「……仕方ないよ。\nその程度の器にはその程度のが入り込む。\n…真里亞は全然平気だよ。\nきひひひひひひひひひ……」",
+          "japanesePC": "「……仕方ないよ。その程度の器にはその程度のが入り込む。…真里亞は全然平気だよ。きひひひひひひひひひ……。」",
+          "japanesePS3": "「……仕方ないよ。\nその程度の器にはその程度のが入り込む。\n…真里亞は全然平気だよ。\nきひひひひひひひひひ……」",
+          "WH": "\"......It can't be helped.  Maria can handle that much.  Maria is just fine.  Kihihihihihihihihihi......\"",
+          "MG": "\"...It can't be helped.\nYou can't expect anything better than that to enter a container of that level.\n...I'm just fine.\nKihihihihihihihihihi......\"",
+          "UP": "\"......It can't be helped.\nSuch pitiful things enter such pitiful vessels.\n...I am just fine.\nKihihihihihihihihihi......\"",
+          "note": "Both restore vessel and entering entity rather than Maria’s personal capacity to withstand abuse.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0220",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0220"
+            ],
+            "MG": [
+              "umi2_5-L0220"
+            ],
+            "UP": [
+              "umi2_5-L0220"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……仕方ないよ。その程度の器にはその程度のが入り込む。…真里亞は全然平気だよ。きひひひひひひひひひ……」",
+              "translation": "\"...It can't be helped. You can't expect anything better than that to enter a container of that level. ...I'm just fine. Kihihihihihihihihihi......\" "
+            },
+            "UP": {
+              "japanese": "「……仕方ないよ。その程度の器にはその程度のが入り込む。…真里亞は全然平気だよ。きひひひひひひひひひ……」",
+              "translation": "\"......It can't be helped. Such pitiful things enter such pitiful vessels. ...I am just fine. Kihihihihihihihihihi......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0220"
+            ],
+            "MG": [
+              "umi2_5-L0220"
+            ],
+            "UP": [
+              "umi2_5-L0220"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "A vessel of that caliber admits something of that caliber; Maria says she is fine.",
+      "alternative": "The vessel and occupant are not explicitly named; the audit does not resolve them. Endurance appears nearby but is not this sentence’s claim.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-008",
+      "kind": "WH",
+      "description": "今日だって会って一緒に遊ぶよ becomes “Why don’t we meet her today and play?” The next turn likewise turns her planned play and study into “Let’s” invitations.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              270,
+              279
+            ],
+            "MG": [
+              270,
+              279
+            ],
+            "UP": [
+              270,
+              279
+            ]
+          },
+          "japanese": "そして、さも事実であるかのように言う。\n「きひひひひ…。\n真里亞はね、ベアトリーチェとお友達なの。\n今日だって会って一緒に遊ぶよ？\nきひひひひひひひひ…」\n「遊び、…ますか」\n「…うん。\n遊ぶよ？\n一緒にね、魔法のお勉強をするの。\nきひひひひひひひ…」",
+          "japanesePC": "「きひひひひ…。真里亞はね、ベアトリーチェとお友達なの。今日だって会って一緒に遊ぶよ？　きひひひひひひひひ…。」",
+          "japanesePS3": "そして、さも事実であるかのように言う。\n「きひひひひ…。\n真里亞はね、ベアトリーチェとお友達なの。\n今日だって会って一緒に遊ぶよ？\nきひひひひひひひひ…」\n「遊び、…ますか」\n「…うん。\n遊ぶよ？\n一緒にね、魔法のお勉強をするの。\nきひひひひひひひ…」",
+          "WH": "\"Kihihihihi...  You know, Maria is friends with Beatrice.  Why don't we meet her today and play?  Kihihihihihihihihi...\"",
+          "MG": "And then, she spoke, as though it was a fact.\n\"Kihihihihi...\nYou know, I'm friends with Beatrice.\nI'm even gonna meet her today and play.\nKihihihihihihihihi...\"\n\"You're going to...play?\"\n\"...Yeah.\nOf course we'll play.\nWe're gonna study magic together.\nKihihihihihihihi...\"",
+          "UP": "Then, she spoke matter‐of‐factly.\n\"Kihihihihi...\nYou know, I am friends with Beatrice.\nI'm meeting her today too, to play.\nKihihihihihihihihi...\"\n\"Pla‐...play?\"\n\"...Yep.\nPlay.\nWe're going to study magic together.\nKihihihihihihihi...\"",
+          "note": "Both restore Maria’s declared plan to meet/play/study rather than invitations for Kanon to join her.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0268",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0271"
+            ],
+            "MG": [
+              "umi2_5-L0268",
+              "umi2_5-L0271",
+              "umi2_5-L0275",
+              "umi2_5-L0276"
+            ],
+            "UP": [
+              "umi2_5-L0268",
+              "umi2_5-L0271",
+              "umi2_5-L0275",
+              "umi2_5-L0276"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「きひひひひ…。真里亞はね、ベアトリーチェとお友達なの。今日だって会って一緒に遊ぶよ？　きひひひひひひひひ…」",
+              "translation": "\"Kihihihihi... You know, I'm friends with Beatrice. I'm even gonna meet her today and play. Kihihihihihihihihi...\" "
+            },
+            "UP": {
+              "japanese": "「きひひひひ…。真里亞はね、ベアトリーチェとお友達なの。今日だって会って一緒に遊ぶよ？　きひひひひひひひひ…」",
+              "translation": "\"Kihihihihi... You know, I am friends with Beatrice. I'm meeting her today too, to play. Kihihihihihihihihi...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0271"
+            ],
+            "MG": [
+              "umi2_5-L0271"
+            ],
+            "UP": [
+              "umi2_5-L0271"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria says she is Beatrice’s friend and will meet and play with her today.",
+      "alternative": "Japanese omits repeated subject, but the prior Maria-friends assertion and Kanon’s surprised play question support her describing her own meeting, not recruiting him. This does not authenticate the meeting itself.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-009",
+      "kind": "WH",
+      "description": "お迎え, euphemistic death, becomes “I may not even be able to approach,” assigning the fear to Nanjo.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              300,
+              302
+            ],
+            "MG": [
+              300,
+              302
+            ],
+            "UP": [
+              300,
+              302
+            ]
+          },
+          "japanese": "「………並の患者ならそうでしょうがな。\n金蔵さんは並外れた気力をお持ちです。\n…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…」",
+          "japanesePC": "「………並の患者ならそうでしょうがな。金蔵さんは並外れた気力をお持ちです。…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…。」",
+          "japanesePS3": "「………並の患者ならそうでしょうがな。\n金蔵さんは並外れた気力をお持ちです。\n…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…」",
+          "WH": "\".........For a normal patient, that would probably be the case.  But Kinzo-san has extraordinary willpower.  ...I may not even be able to approach, in fear of that willpower...\"",
+          "MG": "\"......For a normal patient, that would probably be the case.\nBut Kinzo-san has extraordinary willpower.\n...Perhaps that willpower has frightened even the reaper away...\"",
+          "UP": "\".........For a normal patient, that would probably be the case.\nBut Kinzo‐san has extraordinary willpower.\n...The force of his will may have even the Grim Reaper too terrified to approach...\"",
+          "note": "Both restore Death/reaper as the one too afraid to approach; no claim of Nanjo avoiding Kinzo.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0300",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0300"
+            ],
+            "MG": [
+              "umi2_5-L0300"
+            ],
+            "UP": [
+              "umi2_5-L0300"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………並の患者ならそうでしょうがな。金蔵さんは並外れた気力をお持ちです。…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…」",
+              "translation": "\"......For a normal patient, that would probably be the case. But Kinzo-san has extraordinary willpower. ...Perhaps that willpower has frightened even the reaper away...\" "
+            },
+            "UP": {
+              "japanese": "「………並の患者ならそうでしょうがな。金蔵さんは並外れた気力をお持ちです。…あの気迫に、お迎えも恐れて近寄れないのかもしれませんな…」",
+              "translation": "\".........For a normal patient, that would probably be the case. But Kinzo‐san has extraordinary willpower. ...The force of his will may have even the Grim Reaper too terrified to approach...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0300"
+            ],
+            "MG": [
+              "umi2_5-L0300"
+            ],
+            "UP": [
+              "umi2_5-L0300"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Nanjo jokes that even death’s arrival may fear Kinzo’s force of spirit and be unable to approach.",
+      "alternative": "Both praise formidable willpower; the English invents a doctor-access limitation in a conversation specifically questioning access and condition.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-010",
+      "kind": "WH",
+      "description": "その姿をぜひ見てもらいたい becomes “how much you want to see him,” losing who observes whom and the sting of conspicuous filial display.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              321,
+              325
+            ],
+            "MG": [
+              321,
+              325
+            ],
+            "UP": [
+              321,
+              325
+            ]
+          },
+          "japanese": "「その通りだな。\n絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。\n…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。\n……ふ」\n「………何が言いたいのよ」",
+          "japanesePC": "「その通りだな。絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。",
+          "japanesePS3": "「その通りだな。\n絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。\n…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。\n……ふ」\n「………何が言いたいのよ」",
+          "WH": "\"That's right.  Haven't you quickly become respectful of Father now that his remaining life has been announced, Eva?  ...I see, it isn't as though I can't understand how much you want to see him.",
+          "MG": "\"Indeed.\nLook how quickly you've grown to respect Father, now that you know how much longer he has to live.\n...Yes, I believe I do understand why you want to see him so much.\n...Hmph.\"\n\"......What are you trying to say?\"",
+          "UP": "\"That's right.\nEva, how suddenly you've become respectful to Father since he was told how long he has left.\n...Yes, I can just about understand why you might be desperate to see him.\n......Hmph.\"\n\".........What exactly are you implying?\"",
+          "note": "Both still make the phrase Eva wanting to see Father rather than wanting Father to see her conspicuous filial behavior; sarcasm survives but viewing direction does not.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_5-L0321",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0321"
+            ],
+            "MG": [
+              "umi2_5-L0321",
+              "umi2_5-L0325"
+            ],
+            "UP": [
+              "umi2_5-L0321",
+              "umi2_5-L0325"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「その通りだな。絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。……ふ」",
+              "translation": "\"Indeed. Look how quickly you've grown to respect Father, now that you know how much longer he has to live. ...Yes, I believe I do understand why you want to see him so much. ...Hmph.\" "
+            },
+            "UP": {
+              "japanese": "「その通りだな。絵羽は親父殿が余命を宣告されてから急に親孝行をするようになったじゃないか。…なるほど、その姿をぜひ見てもらいたいという気持ちも、わからなくない。……ふ」",
+              "translation": "\"That's right. Eva, how suddenly you've become respectful to Father since he was told how long he has left. ...Yes, I can just about understand why you might be desperate to see him. ......Hmph.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0321"
+            ],
+            "MG": [
+              "umi2_5-L0321"
+            ],
+            "UP": [
+              "umi2_5-L0321"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Krauss sarcastically says he understands Eva wanting Father to witness her newly filial behavior after the prognosis.",
+      "alternative": "The sudden respect after prognosis remains, preserving part of the insinuation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-011",
+      "kind": "WH",
+      "description": "忌憚ない becomes “modestly,” suggesting restraint instead of candor.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              333,
+              336
+            ],
+            "MG": [
+              333,
+              336
+            ],
+            "UP": [
+              333,
+              336
+            ]
+          },
+          "japanese": "「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+          "japanesePC": "……わしらが全員顔を揃えるのは年に一度しかない。貴重な時間を大事にし、忌憚ない話し合いをせんといかん。」",
+          "japanesePS3": "「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+          "WH": "......We can only gather our faces here once a year.  We must take this precious time seriously and talk together modestly.\"",
+          "MG": "\"Yep!\nJust as Rudolf-kun says.\n...This is the only time of year we can all meet in person.\nWe've gotta take this valuable time seriously and be frank with each other.\"",
+          "UP": "\"Yep!\nJust as Rudolf‐kun says.\n......We can only gather our faces here once a year.\nWe've gotta value this precious time we've got, and talk together frankly.\"",
+          "note": "Both restore candid/frank discussion rather than modest restraint.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0333",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0333"
+            ],
+            "MG": [
+              "umi2_5-L0333"
+            ],
+            "UP": [
+              "umi2_5-L0333"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうや！　留弗夫くんの言う通りや。……わしらが全員顔を揃えるのは年に一度しかない。貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+              "translation": "\"Yep! Just as Rudolf-kun says. ...This is the only time of year we can all meet in person. We've gotta take this valuable time seriously and be frank with each other.\" "
+            },
+            "UP": {
+              "japanese": "「そうや！　留弗夫くんの言う通りや。……わしらが全員顔を揃えるのは年に一度しかない。貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+              "translation": "\"Yep! Just as Rudolf‐kun says. ......We can only gather our faces here once a year. We've gotta value this precious time we've got, and talk together frankly.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0333"
+            ],
+            "MG": [
+              "umi2_5-L0333"
+            ],
+            "UP": [
+              "umi2_5-L0333"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Hideyoshi urges making precious annual meeting time count with frank, unreserved discussion.",
+      "alternative": "The need to discuss matters survives, but the desired manner is reversed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-012",
+      "kind": "WH",
+      "description": "挨拶くらいはさせてほしい becomes wishing he would “come to greet us,” adding Father’s movement toward them.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.space_time_continuity",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              303,
+              306
+            ],
+            "MG": [
+              303,
+              306
+            ],
+            "UP": [
+              303,
+              306
+            ]
+          },
+          "japanese": "「それほどまでにお元気なら、少なくとも安心ね」\n「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。\n…親族会議ってのは親父の顔を見に来たって意味なんだぜ？\nこれじゃあ、何のために来たのかわからねぇぜ」",
+          "japanesePC": "「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。…親族会議ってのは親父の顔を見に来たって意味なんだぜ？　これじゃあ、何のために来たのかわからねぇぜ。」",
+          "japanesePS3": "「それほどまでにお元気なら、少なくとも安心ね」\n「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。\n…親族会議ってのは親父の顔を見に来たって意味なんだぜ？\nこれじゃあ、何のために来たのかわからねぇぜ」",
+          "WH": "\"...Although if he's that energetic, I wish he'd at least come to greet us.  ...Isn't the point of the family conference to come and see Father's face?  Now I don't know why we came.\"",
+          "MG": "\"Well, if he's that energetic, then I guess we have little to worry about for the near future, right?\"\n\"...Though, if he's got that much spunk, I wish he'd at least come to greet us.\n...Isn't the whole point of this family conference to come and see Dad's face?\nI'm not even sure why we came now.\"",
+          "UP": "\"If he's that energetic, then we can be at least a little reassured, right?\"\n\"...Although if he's that energetic, I wish he'd at least allow us to greet him.\n...Isn't the point of the family conference to come and see Dad's face?\nNow I don't know why the hell we came.\"",
+          "note": "MG still asks Father to come greet them. UP restores allowing them to greet him without requiring his movement.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0303",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0304"
+            ],
+            "MG": [
+              "umi2_5-L0303",
+              "umi2_5-L0304"
+            ],
+            "UP": [
+              "umi2_5-L0303",
+              "umi2_5-L0304"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。…親族会議ってのは親父の顔を見に来たって意味なんだぜ？　これじゃあ、何のために来たのかわからねぇぜ」",
+              "translation": "\"...Though, if he's got that much spunk, I wish he'd at least come to greet us. ...Isn't the whole point of this family conference to come and see Dad's face? I'm not even sure why we came now.\" "
+            },
+            "UP": {
+              "japanese": "「…そこまで元気なら、せめて挨拶くらいはさせてほしいもんなんだがな。…親族会議ってのは親父の顔を見に来たって意味なんだぜ？　これじゃあ、何のために来たのかわからねぇぜ」",
+              "translation": "\"...Although if he's that energetic, I wish he'd at least allow us to greet him. ...Isn't the point of the family conference to come and see Dad's face? Now I don't know why the hell we came.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0304"
+            ],
+            "MG": [
+              "umi2_5-L0304"
+            ],
+            "UP": [
+              "umi2_5-L0304"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rudolf wishes they could at least be allowed to greet Father.",
+      "alternative": "The blocked greeting is retained. The source does not require Father to come out rather than allowing the children access.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-013",
+      "kind": "WH",
+      "description": "WH replaces pretending to be on friendly terms with playing a part in a conspiracy.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              362,
+              365
+            ],
+            "MG": [
+              362,
+              365
+            ],
+            "UP": [
+              362,
+              365
+            ]
+          },
+          "japanese": "楼座は、上辺だけ調子を合わせることができなかったらしい。\n…遺産の奪い合いという血生臭く、かつ泥臭い議論のためにここに訪れているのだ。\n今更馴れ合いのふりなどしたくないのだろう。\n……あるいは、その程度にまだまだ彼女は未熟なのか。",
+          "japanesePC": "今更馴れ合いのふりなどしたくないのだろう。",
+          "japanesePS3": "楼座は、上辺だけ調子を合わせることができなかったらしい。\n…遺産の奪い合いという血生臭く、かつ泥臭い議論のためにここに訪れているのだ。\n今更馴れ合いのふりなどしたくないのだろう。\n……あるいは、その程度にまだまだ彼女は未熟なのか。",
+          "WH": "Maybe by now she didn't want to play a part in a conspiracy.",
+          "MG": "Apparently, Rosa hadn't been able to keep up with that \"on the surface\" friendliness.\n...They'd come here to fight bloodily and dirtily, each trying to grab a part of the inheritance for themselves.\nShe probably didn't like suddenly pretending that they were all chummy.\n...Or maybe she was still too immature for that.",
+          "UP": "It seemed that Rosa hadn't been able to keep up the charade of amicability.\n...They had come here to fight bloodily and dirtily, each trying to steal the inheritance from the others.\nShe probably didn't want to pretend to be fellow conspirators at this stage.\n......Or maybe she was still much too inexperienced for that.",
+          "note": "MG restores pretending to be chummy; UP retains fellow conspirators instead of superficial friendliness.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_5-L0362",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0362"
+            ],
+            "MG": [
+              "umi2_5-L0362",
+              "umi2_5-L0365"
+            ],
+            "UP": [
+              "umi2_5-L0362",
+              "umi2_5-L0365"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "楼座は、上辺だけ調子を合わせることができなかったらしい。…遺産の奪い合いという血生臭く、かつ泥臭い議論のためにここに訪れているのだ。今更馴れ合いのふりなどしたくないのだろう。",
+              "translation": "Apparently, Rosa hadn't been able to keep up with that \"on the surface\" friendliness. ...They'd come here to fight bloodily and dirtily, each trying to grab a part of the inheritance for themselves. She probably didn't like suddenly pretending that they were all chummy. "
+            },
+            "UP": {
+              "japanese": "楼座は、上辺だけ調子を合わせることができなかったらしい。…遺産の奪い合いという血生臭く、かつ泥臭い議論のためにここに訪れているのだ。今更馴れ合いのふりなどしたくないのだろう。",
+              "translation": "It seemed that Rosa hadn't been able to keep up the charade of amicability. ...They had come here to fight bloodily and dirtily, each trying to steal the inheritance from the others. She probably didn't want to pretend to be fellow conspirators at this stage."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0362"
+            ],
+            "MG": [
+              "umi2_5-L0362"
+            ],
+            "UP": [
+              "umi2_5-L0362"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narrator suggests Rosa cannot bring herself to feign cordiality now that everyone is here for the sordid inheritance struggle.",
+      "alternative": "馴れ合い can imply collusion, but 馴れ合いのふり, the surface accommodation immediately before it, and her social immaturity make the performed friendliness central. English instead supplies participation in a plot.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-014",
+      "kind": "WH",
+      "description": "The specific prediction about Maria becomes a generic claim that children who already have rich hearts grow.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              370,
+              377
+            ],
+            "MG": [
+              370,
+              377
+            ],
+            "UP": [
+              370,
+              377
+            ]
+          },
+          "japanese": "「……………真里亞ちゃん、この一年でずいぶん立派になりましたね」\n「………そう見えます…？\n未だに自分のお洋服を畳むことすらできないんですよ」\n「えぇ。\nこんなにも愛情たっぷりなお母さんと一緒なんですもの。\n心の豊かな子に成長しますよ」\n楼座は沈黙している。\n………霧江がどちらの意味で言っているのか、わかりかねているのかもしれない…。",
+          "japanesePC": "「えぇ。こんなにも愛情たっぷりなお母さんと一緒なんですもの。心の豊かな子に成長しますよ。」",
+          "japanesePS3": "「……………真里亞ちゃん、この一年でずいぶん立派になりましたね」\n「………そう見えます…？\n未だに自分のお洋服を畳むことすらできないんですよ」\n「えぇ。\nこんなにも愛情たっぷりなお母さんと一緒なんですもの。\n心の豊かな子に成長しますよ」\n楼座は沈黙している。\n………霧江がどちらの意味で言っているのか、わかりかねているのかもしれない…。",
+          "WH": "\"Yes.  It's because she has such an affectionate mother.  Kids with a rich heart grow.\"",
+          "MG": "\"......Maria-chan really has grown a lot this past year.\"\n\"......Does it look that way...?\nShe still can't even fold her own clothing yet.\"\n\"No, it's true.\nIt's because she has such an affectionate mother.\nShe'll grow into a girl with a rich heart.\"\nRosa fell silent.\n......Maybe she was unsure as to what Kyrie meant by that...",
+          "UP": "\"...............Maria‐chan really has grown a lot this past year.\"\n\".........Does it look that way...?\nShe still can't even fold her own clothing yet.\"\n\"Yes.\nIt's because she has such an affectionate mother.\nShe'll grow into a girl who's rich in heart.\"\nRosa was silent.\n.........Maybe she was unsure as to how Kyrie meant that...",
+          "note": "Both restore a prediction specifically about Maria growing into a rich-hearted girl, not a generic claim about already rich-hearted children.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0370",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0373"
+            ],
+            "MG": [
+              "umi2_5-L0370",
+              "umi2_5-L0371",
+              "umi2_5-L0373",
+              "umi2_5-L0376"
+            ],
+            "UP": [
+              "umi2_5-L0370",
+              "umi2_5-L0371",
+              "umi2_5-L0373",
+              "umi2_5-L0376"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「えぇ。こんなにも愛情たっぷりなお母さんと一緒なんですもの。心の豊かな子に成長しますよ」",
+              "translation": "\"No, it's true. It's because she has such an affectionate mother. She'll grow into a girl with a rich heart.\" "
+            },
+            "UP": {
+              "japanese": "「えぇ。こんなにも愛情たっぷりなお母さんと一緒なんですもの。心の豊かな子に成長しますよ」",
+              "translation": "\"Yes. It's because she has such an affectionate mother. She'll grow into a girl who's rich in heart.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0373"
+            ],
+            "MG": [
+              "umi2_5-L0373"
+            ],
+            "UP": [
+              "umi2_5-L0373"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Because Maria has such an affectionate mother, Kyrie says she will grow into a child with a rich inner life. Rosa cannot tell how this praise is intended.",
+      "alternative": "The preceding sentence retains the affectionate mother and the exchange retains Rosa’s uncertainty. The final clause still changes the proposed outcome into an existing condition and loses the personal reassurance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-015",
+      "kind": "WH",
+      "description": "WH explicitly names Mama as the victim of the scary witch’s pinching.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              474,
+              484
+            ],
+            "MG": [
+              474,
+              484
+            ],
+            "UP": [
+              474,
+              484
+            ]
+          },
+          "japanese": "「…うー。\nママ、お帰り…。\n……真里亞、ママが帰ってくるの、ずっと待ってた。\n…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…」\n「……真里亞っ…。\n……ママを許して…、ママを許して……」\n「ママは悪くないの…。\nまた悪い魔女に取り憑かれただけなの……。\nだから平気。\nママ大好き。\n愛してる……」",
+          "japanesePC": "「…うー。ママ、お帰り…。……真里亞、ママが帰ってくるの、ずっと待ってた。…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…。」",
+          "japanesePS3": "「…うー。\nママ、お帰り…。\n……真里亞、ママが帰ってくるの、ずっと待ってた。\n…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…」\n「……真里亞っ…。\n……ママを許して…、ママを許して……」\n「ママは悪くないの…。\nまた悪い魔女に取り憑かれただけなの……。\nだから平気。\nママ大好き。\n愛してる……」",
+          "WH": "\"...Uu-.  Mama, welcome back.........Maria waited a long time for Mama to come back.  ...Mama was pinched by the scary witch, but Maria held out, waited for Mama to come back without crying...\"",
+          "MG": "\"...Uu-.\nMama, welcome back...\n...I waited a long time for you to come back.\n...The scary witch pinched me, but I stayed strong, waiting for Mama to come back without crying...\"\n\"...Maria...!\n...Forgive your Mama, ...forgive your Mama...\"\n\"You didn't do anything wrong...\nYou were just possessed by a bad witch again...\nSo I'm fine.\nI really like you, Mama.\nI love you...\"",
+          "UP": "\"...Uu.\nMama, welcome back...\n......I waited a long time for you to come back, Mama.\n...Got pinched by the scary witch, but held out and waited for Mama to come back, without crying...\"\n\"......Maria...\n......Forgive Mama... Forgive Mama......\"\n\"It's not your fault, Mama...\nYou were just possessed by a bad witch again......\nSo I'm fine.\nLove you, Mama.\nI love you......\"",
+          "note": "MG pinched me and UP omitted-subject got pinched remove the unsupported assignment of Mama as the victim. Maria’s waiting and bad-witch account remain.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0474",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0474"
+            ],
+            "MG": [
+              "umi2_5-L0474",
+              "umi2_5-L0478",
+              "umi2_5-L0480"
+            ],
+            "UP": [
+              "umi2_5-L0474",
+              "umi2_5-L0478",
+              "umi2_5-L0480"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…うー。ママ、お帰り…。……真里亞、ママが帰ってくるの、ずっと待ってた。…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…」",
+              "translation": "\"...Uu-. Mama, welcome back... ...I waited a long time for you to come back. ...The scary witch pinched me, but I stayed strong, waiting for Mama to come back without crying...\" "
+            },
+            "UP": {
+              "japanese": "「…うー。ママ、お帰り…。……真里亞、ママが帰ってくるの、ずっと待ってた。…怖い魔女につねられたけど、我慢してママが帰ってくるの、泣かずに待ってた…」",
+              "translation": "\"...Uu. Mama, welcome back... ......I waited a long time for you to come back, Mama. ...Got pinched by the scary witch, but held out and waited for Mama to come back, without crying...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0474"
+            ],
+            "MG": [
+              "umi2_5-L0474"
+            ],
+            "UP": [
+              "umi2_5-L0474"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria says she endured being pinched by the scary witch and waited without crying for Mama to return. Her account separates the abusive witch from the returning mother.",
+      "alternative": "The Japanese omits the subject of the passive clause, but Maria’s endurance and waiting bind it to Maria. The following possession explanation makes Mama the possessed agent rather than the pinched child. The English context can help a reader repair the error, but the explicit attribution remains wrong.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-016",
+      "kind": "WH",
+      "description": "WH says sunshine would evaporate all their cares and make them feel able to start anew.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.motivation_emotion",
+        "linguistic.tense_aspect"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              491,
+              494
+            ],
+            "MG": [
+              491,
+              494
+            ],
+            "UP": [
+              491,
+              494
+            ]
+          },
+          "japanese": "せめて二人を、燦々とした太陽が照らしていたなら、\n二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。\n…しかし、今の二人を包むのは崩れ行く天気。\n雷鳴の混じる強い風であることが悲しかった。",
+          "japanesePC": "せめて二人を、燦々とした太陽が照らしていたなら、二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。",
+          "japanesePS3": "せめて二人を、燦々とした太陽が照らしていたなら、\n二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。\n…しかし、今の二人を包むのは崩れ行く天気。\n雷鳴の混じる強い風であることが悲しかった。",
+          "WH": "If only the brilliant sun had been shining on the two of them, all of their cares would have evaporated, and they would have felt like they could begin anew.",
+          "MG": "If only the brilliant sun had been shining on the two of them,\nall of their cares would have evaporated, and it might've felt like they could begin anew.\n...However, what surrounded the two of them was the worsening weather.\nSadly, there were only fierce winds with occasional thunder.",
+          "UP": "If only the brilliant sun had been shining on the two of them,\nall of their cares would have evaporated, and they would have felt like they could begin anew.\n...However, what surrounded the two of them was the worsening weather.\nThe strong winds mixed in with the sound of thunder were saddening.",
+          "note": "Both still describe all cares evaporating rather than their mutual emotional tension dissolving. MG might preserves some tentativeness; UP would have felt further strengthens the speculative possibility. Original parent reused.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_5-L0491",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0491"
+            ],
+            "MG": [
+              "umi2_5-L0491",
+              "umi2_5-L0493"
+            ],
+            "UP": [
+              "umi2_5-L0491",
+              "umi2_5-L0493"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "せめて二人を、燦々とした太陽が照らしていたなら、二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。",
+              "translation": "If only the brilliant sun had been shining on the two of them, all of their cares would have evaporated, and it might've felt like they could begin anew. "
+            },
+            "UP": {
+              "japanese": "せめて二人を、燦々とした太陽が照らしていたなら、二人のわだかまりが全て解け、これからのやり直しを感じさせたかもしれない。",
+              "translation": "If only the brilliant sun had been shining on the two of them, all of their cares would have evaporated, and they would have felt like they could begin anew."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0491"
+            ],
+            "MG": [
+              "umi2_5-L0491"
+            ],
+            "UP": [
+              "umi2_5-L0491"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narrator imagines that sunshine might have made the scene suggest all their estrangement had dissolved and a fresh beginning lay ahead. The actual storm makes the scene sad instead.",
+      "alternative": "The English preserves the counterfactual weather contrast. However, 感じさせたかもしれない presents a possible impression, while the English certifies the pair’s resolved cares and feelings within that counterfactual, weakening the distance between hopeful appearance and emotional reality.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-017",
+      "kind": "WH",
+      "description": "唯一の灯り is translated as “this unique light,” substituting distinctiveness for the absence of any other light.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.literary_reference"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              560,
+              565
+            ],
+            "MG": [
+              560,
+              565
+            ],
+            "UP": [
+              560,
+              565
+            ]
+          },
+          "japanese": "「うむ、ハッピーハロウィン。\nほぅ、これを妾にとな？\n天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ」\n「……人の世とも、人ならざる者との世とも切り離された今のこの島で、\nこれほど相応しい菓子はないかも知れぬな。\nくっくくくく…！」",
+          "japanesePC": "「うむ、ハッピーハロウィン。ほぅ、これを妾にとな？　天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ。」",
+          "japanesePS3": "「うむ、ハッピーハロウィン。\nほぅ、これを妾にとな？\n天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ」\n「……人の世とも、人ならざる者との世とも切り離された今のこの島で、\nこれほど相応しい菓子はないかも知れぬな。\nくっくくくく…！」",
+          "WH": "\"Hmm, Happy Halloween.  Hoh, for me?  How truly lovely that this unique light, of a man lost in the darkness of purgatory, unable to go to heaven or hell, would be made into a candy like this.\"",
+          "MG": "\"Indeed, <Happy Halloween>.\nHoh, is this for me?\nHow truly adorable, that a candy would be made out of this, the lonely light of a man lost in the darkness of Purgatory, unable to go to heaven or hell.\"\n\"...Right now, on this island that has been cut off both from the world of humans and the world of nonhumans,\nthere may be no more suitable sweet.\n*cackle*cackle*...!\"",
+          "UP": "\"Mm, Happy Halloween.\nHoh, for me, you say?\nEven the single and only light given to a man lost in the darkness of purgatory, unable to go to heaven or hell, looks truly charming when made into a candy like this.\"\n\"......Right now, on this island that has been cut off both from the world of humans and the world of nonhumans,\nthere may be no sweet more suitable.\n*cackle*cackle*...!\"",
+          "note": "MG lonely light removes distinctiveness but does not explicitly restore the only-light restriction. UP single and only restores it.",
+          "dispositions": {
+            "MG": "partly_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0560",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0560"
+            ],
+            "MG": [
+              "umi2_5-L0560",
+              "umi2_5-L0563"
+            ],
+            "UP": [
+              "umi2_5-L0560",
+              "umi2_5-L0563"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うむ、ハッピーハロウィン。ほぅ、これを妾にとな？　天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ」",
+              "translation": "\"Indeed, <Happy Halloween>. Hoh, is this for me? How truly adorable, that a candy would be made out of this, the lonely light of a man lost in the darkness of Purgatory, unable to go to heaven or hell.\" "
+            },
+            "UP": {
+              "japanese": "「うむ、ハッピーハロウィン。ほぅ、これを妾にとな？　天国にも地獄にも行けず、煉獄の闇にて彷徨う男の唯一の灯りも、こうして菓子となれば実に可愛らしいことよ」",
+              "translation": "\"Mm, Happy Halloween. Hoh, for me, you say? Even the single and only light given to a man lost in the darkness of purgatory, unable to go to heaven or hell, looks truly charming when made into a candy like this.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0560"
+            ],
+            "MG": [
+              "umi2_5-L0560"
+            ],
+            "UP": [
+              "umi2_5-L0560"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "In Beatrice’s explanation, the lantern is the sole light of the man wandering purgatory, barred from heaven and hell.",
+      "alternative": "“Unique” can sometimes mean sole or one of a kind, but in this English construction it normally describes an unusual light. The wandering man and exclusion from heaven and hell survive; this is a narrow loss within the narrated reference, without external verification of its folklore.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-018",
+      "kind": "WH",
+      "description": "“the witches hand” lacks the singular possessive apostrophe.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              595,
+              599
+            ],
+            "MG": [
+              595,
+              599
+            ],
+            "UP": [
+              595,
+              599
+            ]
+          },
+          "japanese": "宙に放り上げたお菓子が、……金色に弾けて…、いや違う。\nそれは黄金の蝶。\n何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。\nするとそれは、………信じられないことに、………買った時そのままの綺麗な元の姿に戻っていた…。\n楼座と魔女だけがその光景を見ていた。",
+          "japanesePC": "何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。",
+          "japanesePS3": "宙に放り上げたお菓子が、……金色に弾けて…、いや違う。\nそれは黄金の蝶。\n何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。\nするとそれは、………信じられないことに、………買った時そのままの綺麗な元の姿に戻っていた…。\n楼座と魔女だけがその光景を見ていた。",
+          "WH": "It scattered into several golden butterflies, ...and they began to gather at the witches hand, which was held up to the sky.",
+          "MG": "The sweet that had been thrown into the air...burst into a gold color...no, that wasn't it.\nThose were golden butterflies.\nIt scattered into several golden butterflies, ...and they began to gather at the witch's hand, which was held up to the sky.\nAnd as she did this, ......unbelievably, ......it returned to its beautiful original form, no different from when it had been bought...\nOnly Rosa and the witch witnessed that scene.",
+          "UP": "The sweet which had been thrown into the air......burst into a gold color―no,\nthose were golden butterflies.\nIt scattered into several golden butterflies, ...and they began to assemble in the witch's hand, held up to the sky.\nAnd when they had, .........unbelievably, .........the candy had returned to its beautiful original form, just like the time it had been bought...\nOnly Rosa and the witch had watched that scene.",
+          "note": "Both now use witch’s singular possessive apostrophe correctly.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0595",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0595"
+            ],
+            "MG": [
+              "umi2_5-L0595",
+              "umi2_5-L0599"
+            ],
+            "UP": [
+              "umi2_5-L0595",
+              "umi2_5-L0599"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "宙に放り上げたお菓子が、……金色に弾けて…、いや違う。それは黄金の蝶。何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。するとそれは、………信じられないことに、………買った時そのままの綺麗な元の姿に戻っていた…。",
+              "translation": "The sweet that had been thrown into the air...burst into a gold color...no, that wasn't it. Those were golden butterflies. It scattered into several golden butterflies, ...and they began to gather at the witch's hand, which was held up to the sky. And as she did this, ......unbelievably, ......it returned to its beautiful original form, no different from when it had been bought... "
+            },
+            "UP": {
+              "japanese": "宙に放り上げたお菓子が、……金色に弾けて…、いや違う。それは黄金の蝶。何匹もの黄金の蝶に散り、…それは宙に手をかざす魔女の手に集まっていく。するとそれは、………信じられないことに、………買った時そのままの綺麗な元の姿に戻っていた…。",
+              "translation": "The sweet which had been thrown into the air......burst into a gold color―no, those were golden butterflies. It scattered into several golden butterflies, ...and they began to assemble in the witch's hand, held up to the sky. And when they had, .........unbelievably, .........the candy had returned to its beautiful original form, just like the time it had been bought..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0595"
+            ],
+            "MG": [
+              "umi2_5-L0595"
+            ],
+            "UP": [
+              "umi2_5-L0595"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The butterflies gather to the one witch’s raised hand.",
+      "alternative": "Context makes the singular witch unambiguous. This is a mechanical grammar defect, not evidence that multiple witches witnessed or performed the event.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-019",
+      "kind": "WH",
+      "description": "左右しかねない becomes “couldn’t help but influence,” strengthening possible influence into unavoidable influence.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              719,
+              721
+            ],
+            "MG": [
+              719,
+              721
+            ],
+            "UP": [
+              719,
+              721
+            ]
+          },
+          "japanese": "…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、\nそして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。\nだから買い言葉を返さず、源次を従えて二階へ上がって行くその姿を、黙って見送るしかない。",
+          "japanesePC": "…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、そして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。",
+          "japanesePS3": "…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、\nそして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。\nだから買い言葉を返さず、源次を従えて二階へ上がって行くその姿を、黙って見送るしかない。",
+          "WH": "...But if Kyrie's imagination was correct, ......this \"witch\" probably held a huge key to what her own husband was most interested in, and something that couldn't help but influence tonight's family conference...",
+          "MG": "...But if Kyrie's guesses were correct, ...this \"witch\" probably held a vital key to what her own husband was most interested in,\nsomething that couldn't help but influence tonight's family conference...\nSo without shooting back a retort, Kyrie silently watched her go up the stairs to the second floor, with Genji following behind.",
+          "UP": "...But if Kyrie's imagination was correct, ......this \"witch\" likely held a huge key to what her own husband was most interested in,\nand one that stood a great chance of influencing tonight's family conference...\nSo she did not shoot back a retort, and could only watch in silence as the woman went up the stairs to the second floor, with Genji following behind.",
+          "note": "MG retains unavoidable influence. UP removes inevitability but great chance still adds a probability strength not fixed by 左右しかねない, could affect the outcome.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partly_corrected"
+          },
+          "readerRef": "umi2_5-L0719",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0719"
+            ],
+            "MG": [
+              "umi2_5-L0719",
+              "umi2_5-L0721"
+            ],
+            "UP": [
+              "umi2_5-L0719",
+              "umi2_5-L0721"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、そして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。",
+              "translation": "...But if Kyrie's guesses were correct, ...this \"witch\" probably held a vital key to what her own husband was most interested in, something that couldn't help but influence tonight's family conference... "
+            },
+            "UP": {
+              "japanese": "…しかし、もし霧江の想像が当たっているならば、……この「魔女」は恐らく、自分の夫の最大の関心事について、そして今夜の親族会議を左右しかねない、大きな鍵を握っているのだ…。",
+              "translation": "...But if Kyrie's imagination was correct, ......this \"witch\" likely held a huge key to what her own husband was most interested in, and one that stood a great chance of influencing tonight's family conference..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0719"
+            ],
+            "MG": [
+              "umi2_5-L0719"
+            ],
+            "UP": [
+              "umi2_5-L0719"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "If Kyrie’s guess is right, this witch probably holds a major key concerning Rudolf’s chief interest and capable of affecting tonight’s family conference.",
+      "alternative": "The English retains the initial conditional and “probably,” so the woman’s identity and possession of the key remain tentative. Within that tentative hypothesis, however, the key’s potential effect becomes necessary rather than possible.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-CH05-020",
+      "kind": "WH",
+      "description": "“Even until he literally became a ghost” supplies becoming a ghost as an endpoint, whereas 亡霊となっても permits the research to continue even after that transformation.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.physical_constraint",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              747,
+              754
+            ],
+            "MG": [
+              747,
+              754
+            ],
+            "UP": [
+              747,
+              754
+            ]
+          },
+          "japanese": "「……この中からどれほど出ぬのか」\n「すでに数年になるかと思います」\n「…………それほどまでに、妾を篭の鳥としたいか。\n…哀れな。\n……それを願うそなたが、今や篭の鳥。\n…書斎の亡霊ではないか。\n……それに気付けぬとは哀れな男よ」\n「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう」",
+          "japanesePC": "「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう。」",
+          "japanesePS3": "「……この中からどれほど出ぬのか」\n「すでに数年になるかと思います」\n「…………それほどまでに、妾を篭の鳥としたいか。\n…哀れな。\n……それを願うそなたが、今や篭の鳥。\n…書斎の亡霊ではないか。\n……それに気付けぬとは哀れな男よ」\n「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう」",
+          "WH": "\"......He would probably continue his research until the day he could meet you again, even until he literally became a ghost.\"",
+          "MG": "\"...How long has he been in there since last he left?\"\n\"I believe it has already been several years.\"\n\"......Is he that desperate to turn me into a bird in a cage?\n...How pitiful.\n......By now, you're the bird in a cage.\n...You're the ghost of this study, are you not?\n...How pitiful that he is unable to recognize even that.\"\n\"...Until he meets you again, he will probably continue his research, even after literally becoming a ghost.\"",
+          "UP": "\"......When was the last time he left this room?\"\n\"I believe it has already been several years.\"\n\"............He is that intent on making me a bird in a cage?\n...Alas.\n......Now you, who made that wish, are the bird in a cage.\n...The ghost of the study, are you not.\n......What a pitiful man to not recognize that.\"\n\"......He would probably continue his research until the day he could meet you again, even if he literally became a ghost.\"",
+          "note": "Both now allow research to continue even after becoming a ghost, until reunion, rather than making becoming a ghost the endpoint.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_5-L0747",
+          "readerRefs": {
+            "WH": [
+              "umi2_5-L0754"
+            ],
+            "MG": [
+              "umi2_5-L0747",
+              "umi2_5-L0748",
+              "umi2_5-L0749",
+              "umi2_5-L0754"
+            ],
+            "UP": [
+              "umi2_5-L0747",
+              "umi2_5-L0748",
+              "umi2_5-L0749",
+              "umi2_5-L0754"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう」",
+              "translation": "\"...Until he meets you again, he will probably continue his research, even after literally becoming a ghost.\" "
+            },
+            "UP": {
+              "japanese": "「……貴方様と再びお会いする日までは、恐らく、文字通り亡霊となっても研究を続けられるでしょう」",
+              "translation": "\"......He would probably continue his research until the day he could meet you again, even if he literally became a ghost.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_5-L0754"
+            ],
+            "MG": [
+              "umi2_5-L0754"
+            ],
+            "UP": [
+              "umi2_5-L0754"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Genji predicts that Kinzo would probably keep researching until reunion with Beatrice, even if he literally became a ghost.",
+      "alternative": "The English also names reunion as a limit and retains “probably,” so it leaves two competing endpoints rather than simply asserting cessation at death. Nonetheless, its “until” removes the explicit persistence beyond becoming a ghost.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-WITCH-OPPORTUNITY-SUPERLATIVE-001",
+      "kind": "additional",
+      "description": "大切な機会 calls Halloween an important opportunity for witches to interact with otherworldly visitors. MG the most important chance adds a superlative ranking not stated here. UP precious opportunity preserves importance without ranking.",
+      "categories": [
+        "linguistic.overinterpretation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              90,
+              92
+            ],
+            "MG": [
+              90,
+              92
+            ],
+            "UP": [
+              90,
+              92
+            ]
+          },
+          "japanese": "「つまり、ハロウィンはこの世とあの世の交流のある時期ってわけなんだな？\nそれでつまり、魔女たちにとってはそういう世界の客人たちと交流できる大切な機会だったと。\nそう言いたいわけか」",
+          "japanesePC": "",
+          "japanesePS3": "「つまり、ハロウィンはこの世とあの世の交流のある時期ってわけなんだな？\nそれでつまり、魔女たちにとってはそういう世界の客人たちと交流できる大切な機会だったと。\nそう言いたいわけか」",
+          "WH": "",
+          "MG": "\"So Halloween is a time when those two worlds intermingle?\nIn other words, it's the most important chance for witches to intermingle with guests from that world.\nIs that what you're trying to say?\"",
+          "UP": "\"So Halloween is a time when this world and that world intermingle?\nSo, in other words, it's a precious opportunity for witches to interact with visitors from that world.\nIs that what you want to say?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi2_5-L0090",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0090"
+            ],
+            "UP": [
+              "umi2_5-L0090"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「つまり、ハロウィンはこの世とあの世の交流のある時期ってわけなんだな？　それでつまり、魔女たちにとってはそういう世界の客人たちと交流できる大切な機会だったと。そう言いたいわけか」",
+              "translation": "\"So Halloween is a time when those two worlds intermingle? In other words, it's the most important chance for witches to intermingle with guests from that world. Is that what you're trying to say?\" "
+            },
+            "UP": {
+              "japanese": "「つまり、ハロウィンはこの世とあの世の交流のある時期ってわけなんだな？　それでつまり、魔女たちにとってはそういう世界の客人たちと交流できる大切な機会だったと。そう言いたいわけか」",
+              "translation": "\"So Halloween is a time when this world and that world intermingle? So, in other words, it's a precious opportunity for witches to interact with visitors from that world. Is that what you want to say?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0090"
+            ],
+            "UP": [
+              "umi2_5-L0090"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Row 97 separately states that witch/demon powers are most active in October, but that does not make this earlier opportunity explicitly the most important.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-HARVEST-GRATITUDE-MODALITY-001",
+      "kind": "additional",
+      "description": "感謝の気持ちがあってもいいわけだね allows gratitude for the harvest as a fitting interpretation of giving candy. UP the reason ... must be because ... they should be thanked strengthens this into a necessary causal explanation. MG you might say preserves the tentative allowance.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              86,
+              89
+            ],
+            "MG": [
+              86,
+              89
+            ],
+            "UP": [
+              86,
+              89
+            ]
+          },
+          "japanese": "「ハロウィンの仮装は、向こうから来る客人たちの模倣。\n……つまり、彼らにお菓子を施すのは、一年の収穫への感謝の気持ちがあってもいいわけだね」\n「うー！\n譲治お兄ちゃんの言う通り！」",
+          "japanesePC": "",
+          "japanesePS3": "「ハロウィンの仮装は、向こうから来る客人たちの模倣。\n……つまり、彼らにお菓子を施すのは、一年の収穫への感謝の気持ちがあってもいいわけだね」\n「うー！\n譲治お兄ちゃんの言う通り！」",
+          "WH": "",
+          "MG": "\"Halloween costumes imitate the guests that come from the other side.\n...In other words, you might say giving out candy is a way to show gratitude for the yearly harvest.\"\n\"Uu-!\nJust like George onii-chan says!\"",
+          "UP": "\"Halloween costumes are an imitation of the visitors from the other side.\n......So, then, the reason we give candy to them must be because of a feeling that they should be thanked for the yearly harvest.\"\n\"Uu!\nJust like George onii‐chan says!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_5-L0086",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0086",
+              "umi2_5-L0088"
+            ],
+            "UP": [
+              "umi2_5-L0086",
+              "umi2_5-L0088"
+            ]
+          },
+          "findingEvidence": {
+            "UP": {
+              "japanese": "「ハロウィンの仮装は、向こうから来る客人たちの模倣。……つまり、彼らにお菓子を施すのは、一年の収穫への感謝の気持ちがあってもいいわけだね」",
+              "translation": "\"Halloween costumes are an imitation of the visitors from the other side. ......So, then, the reason we give candy to them must be because of a feeling that they should be thanked for the yearly harvest.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [],
+            "UP": [
+              "umi2_5-L0086"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "George is deriving an interpretation from Maria’s account, and her agreement endorses it. The Japanese still uses permissive あってもいい rather than obligatory necessity or a uniquely established origin.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-RITUAL-CREATION-001",
+      "kind": "additional",
+      "description": "MG changes inventing protective rituals into performing them.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              58,
+              58
+            ],
+            "MG": [
+              58,
+              58
+            ],
+            "UP": [
+              58,
+              58
+            ]
+          },
+          "japanese": "そこで彼らは、これらの害を受けないようなおまじないを生み出していった。",
+          "japanesePC": "",
+          "japanesePS3": "そこで彼らは、これらの害を受けないようなおまじないを生み出していった。",
+          "WH": "",
+          "MG": "So, in order to avoid harm, they performed rituals.",
+          "UP": "So in order to avoid harm from them, the people invented protective rituals.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi2_5-L0057",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0057"
+            ],
+            "UP": [
+              "umi2_5-L0057"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "現世に戻ってくる霊魂たちが、人々の家に入ってきたり、あるいは取り憑いて悪さをすると当時の人々は信じていた。そこで彼らは、これらの害を受けないようなおまじないを生み出していった。そのひとつが、不気味な怪物の姿を模して、霊魂たちを逆に怖がらせ、取り憑かれないようにしようというものだったらしい。",
+              "translation": "At the time, people believed that souls returning to the physical world would go into people's houses or possess people and do bad things. So, in order to avoid harm, they performed rituals. One of those was to imitate creepy monsters and scare the souls back, which was apparently a way to avoid being possessed. "
+            },
+            "UP": {
+              "japanese": "現世に戻ってくる霊魂たちが、人々の家に入ってきたり、あるいは取り憑いて悪さをすると当時の人々は信じていた。そこで彼らは、これらの害を受けないようなおまじないを生み出していった。そのひとつが、不気味な怪物の姿を模して、霊魂たちを逆に怖がらせ、取り憑かれないようにしようというものだったらしい。",
+              "translation": "At the time, the people believed that the souls returning to the physical world would go into people's houses or possess people to do bad things. So in order to avoid harm from them, the people invented protective rituals. One of those was to imitate creepy monsters and scare the souls instead, which was apparently a way to avoid being possessed."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0057"
+            ],
+            "UP": [
+              "umi2_5-L0057"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "生み出していった narrates the practices being developed; original WH created enchantments and UP invented protective rituals preserve creation.",
+      "alternative": "Performing practices implies they exist, but does not preserve the narrated origin.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-BATTLER-DREAM-SCALE-001",
+      "kind": "additional",
+      "description": "スケールのでかい話 comments on the large scale of Maria’s account or ambition. MG detailed and impressive replaces scope with elaborateness and favorable appraisal; UP large-scale dream retains the magnitude.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              114,
+              117
+            ],
+            "MG": [
+              114,
+              117
+            ],
+            "UP": [
+              114,
+              117
+            ]
+          },
+          "japanese": "「へー…。\nそいつぁ何だかスケールのでかい話だな。\n……ところでベアトリーチェって誰だっけ？\n……何だっけ、えっとえっと、聞いた名前だな…」",
+          "japanesePC": "",
+          "japanesePS3": "「へー…。\nそいつぁ何だかスケールのでかい話だな。\n……ところでベアトリーチェって誰だっけ？\n……何だっけ、えっとえっと、聞いた名前だな…」",
+          "WH": "",
+          "MG": "\"Oh...?\nThat sounds pretty detailed and impressive.\n...By the way, who was Beatrice again?\n...Hmm, I know I've heard that name somewhere before...\"",
+          "UP": "\"Wow...\nThat's a pretty large‐scale dream.\n......By the way, who was Beatrice again?\n......What was it, umm, umm, I've heard that before...\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi2_5-L0114",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0114"
+            ],
+            "UP": [
+              "umi2_5-L0114"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「へー…。そいつぁ何だかスケールのでかい話だな。……ところでベアトリーチェって誰だっけ？　……何だっけ、えっとえっと、聞いた名前だな…」",
+              "translation": "\"Oh...? That sounds pretty detailed and impressive. ...By the way, who was Beatrice again? ...Hmm, I know I've heard that name somewhere before...\" "
+            },
+            "UP": {
+              "japanese": "「へー…。そいつぁ何だかスケールのでかい話だな。……ところでベアトリーチェって誰だっけ？　……何だっけ、えっとえっと、聞いた名前だな…」",
+              "translation": "\"Wow... That's a pretty large‐scale dream. ......By the way, who was Beatrice again? ......What was it, umm, umm, I've heard that before...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0114"
+            ],
+            "UP": [
+              "umi2_5-L0114"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Large scale can impress Battler, but detailed is a different property and the source does not explicitly praise the account as impressive.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-MARSHMALLOW-LOOK-LIKE-001",
+      "kind": "additional",
+      "description": "UP marshmallows that look they have fluorescent paint omits like between look and they. MG look like they have is grammatical.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              144,
+              145
+            ],
+            "MG": [
+              144,
+              145
+            ],
+            "UP": [
+              144,
+              145
+            ]
+          },
+          "japanese": "「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。\n遅刻してまであんたに買ってやったのよ。",
+          "japanesePC": "",
+          "japanesePS3": "「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。\n遅刻してまであんたに買ってやったのよ。",
+          "WH": "",
+          "MG": "Because of that scene you made in the train, I went to all the trouble of making a stop and buying you those disgusting monster marshmallows that look like they have fluorescent paint on them...\nI went out of my way to buy it, even though it made us late.",
+          "UP": "\"Because you made that ruckus in the train, I had to go to all the trouble of getting off and buying you those disgusting monster marshmallows that look they have fluorescent paint on them...\nWe were even late because I bought them for you.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_5-L0144",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0144"
+            ],
+            "UP": [
+              "umi2_5-L0144"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。遅刻してまであんたに買ってやったのよ。あんたどこまで私の顔を潰せば気が済むのよ……！」",
+              "translation": "Because of that scene you made in the train, I went to all the trouble of making a stop and buying you those disgusting monster marshmallows that look like they have fluorescent paint on them... I went out of my way to buy it, even though it made us late. How much more will you embarrass me before you're satisfied...?!\" "
+            },
+            "UP": {
+              "japanese": "「電車であんなに騒ぐから、わざわざ電車降りてまでその蛍光塗料みたいな気持ち悪いオバケマシュマロを買ってやったのよ…。遅刻してまであんたに買ってやったのよ。あんたどこまで私の顔を潰せば気が済むのよ……！」",
+              "translation": "\"Because you made that ruckus in the train, I had to go to all the trouble of getting off and buying you those disgusting monster marshmallows that look they have fluorescent paint on them... We were even late because I bought them for you. How much more will you have to embarrass me before you're satisfied......?!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0144"
+            ],
+            "UP": [
+              "umi2_5-L0144"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "The paint comparison is clear from context; grammar defect only.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-GATHER-FACES-001",
+      "kind": "additional",
+      "description": "全員顔を揃える means everyone meeting or gathering together. UP gather our faces mechanically translates the idiom into an unnatural physical object for gather; MG meet in person conveys the meeting.",
+      "categories": [
+        "linguistic.idiom_calque"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              333,
+              336
+            ],
+            "MG": [
+              333,
+              336
+            ],
+            "UP": [
+              333,
+              336
+            ]
+          },
+          "japanese": "「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+          "japanesePC": "",
+          "japanesePS3": "「そうや！\n留弗夫くんの言う通りや。\n……わしらが全員顔を揃えるのは年に一度しかない。\n貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+          "WH": "",
+          "MG": "\"Yep!\nJust as Rudolf-kun says.\n...This is the only time of year we can all meet in person.\nWe've gotta take this valuable time seriously and be frank with each other.\"",
+          "UP": "\"Yep!\nJust as Rudolf‐kun says.\n......We can only gather our faces here once a year.\nWe've gotta value this precious time we've got, and talk together frankly.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_5-L0333",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0333"
+            ],
+            "UP": [
+              "umi2_5-L0333"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうや！　留弗夫くんの言う通りや。……わしらが全員顔を揃えるのは年に一度しかない。貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+              "translation": "\"Yep! Just as Rudolf-kun says. ...This is the only time of year we can all meet in person. We've gotta take this valuable time seriously and be frank with each other.\" "
+            },
+            "UP": {
+              "japanese": "「そうや！　留弗夫くんの言う通りや。……わしらが全員顔を揃えるのは年に一度しかない。貴重な時間を大事にし、忌憚ない話し合いをせんといかん」",
+              "translation": "\"Yep! Just as Rudolf‐kun says. ......We can only gather our faces here once a year. We've gotta value this precious time we've got, and talk together frankly.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0333"
+            ],
+            "UP": [
+              "umi2_5-L0333"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "The gathering meaning remains inferable, so this is a local idiom/English expression defect rather than a changed attendee count.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-SHANNON-LEERING-001",
+      "kind": "additional",
+      "description": "鼻の下を伸ばした describes Hideyoshi and Rudolf’s leering or besotted expression as they watch Shannon leave. MG substitutes a general trait, had a soft spot for women, while UP turned heads supplies a neutral movement. Both weaken the immediate lustful reaction.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              391,
+              395
+            ],
+            "MG": [
+              391,
+              395
+            ],
+            "UP": [
+              391,
+              395
+            ]
+          },
+          "japanese": "「それでは、失礼いたします。\n御用がありましたら、いつでもお呼び付けください」\n紗音が丁寧にお辞儀して退室する。\n鼻の下を伸ばした秀吉と留弗夫がそれを見送ると、\n…場の空気は紗音が訪れる直前のものに逆戻りし始める。",
+          "japanesePC": "",
+          "japanesePS3": "「それでは、失礼いたします。\n御用がありましたら、いつでもお呼び付けください」\n紗音が丁寧にお辞儀して退室する。\n鼻の下を伸ばした秀吉と留弗夫がそれを見送ると、\n…場の空気は紗音が訪れる直前のものに逆戻りし始める。",
+          "WH": "",
+          "MG": "\"Then, if you will excuse me.\nIf there is anything you desire, please call for it at any time.\"\nShannon bowed politely and left the room.\nAs Hideyoshi and Rudolf, who had a soft spot for women, watched her go,\n...the atmosphere in the room began to revert back to what it had been right before Shannon's visit.",
+          "UP": "\"Then, if you will excuse me.\nIf there is anything you desire, please call for it at any time.\"\nShannon bowed politely and left the room.\nAfter Hideyoshi and Rudolf watched her go with turned heads,\n...the atmosphere in the room began to revert back to what it had been right before Shannon had visited.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_5-L0391",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0391",
+              "umi2_5-L0393"
+            ],
+            "UP": [
+              "umi2_5-L0391",
+              "umi2_5-L0393"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "紗音が丁寧にお辞儀して退室する。鼻の下を伸ばした秀吉と留弗夫がそれを見送ると、…場の空気は紗音が訪れる直前のものに逆戻りし始める。",
+              "translation": "Shannon bowed politely and left the room. As Hideyoshi and Rudolf, who had a soft spot for women, watched her go, ...the atmosphere in the room began to revert back to what it had been right before Shannon's visit. "
+            },
+            "UP": {
+              "japanese": "紗音が丁寧にお辞儀して退室する。鼻の下を伸ばした秀吉と留弗夫がそれを見送ると、…場の空気は紗音が訪れる直前のものに逆戻りし始める。",
+              "translation": "Shannon bowed politely and left the room. After Hideyoshi and Rudolf watched her go with turned heads, ...the atmosphere in the room began to revert back to what it had been right before Shannon had visited."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0393"
+            ],
+            "UP": [
+              "umi2_5-L0393"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "MG’s fondness for women and UP’s attention to Shannon can suggest attraction, but neither clearly preserves the depicted leering expression at this moment.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH05-MARIA-LEAPS-ONTO-FIGURE-001",
+      "kind": "additional",
+      "description": "人影に飛びつく describes Maria leaping onto or clinging to the arriving figure. Both translations reduce this to dashing over to the figure, preserving approach but losing the physical contact. The following explanation likewise replaces jumping onto a stranger with dashing over.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_5",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              536,
+              539
+            ],
+            "MG": [
+              536,
+              539
+            ],
+            "UP": [
+              536,
+              539
+            ]
+          },
+          "japanese": "「ベアトリーチェー！！」\n真里亞がその人影に飛びつく。\n……普段の楼座なら、見ず知らずの人に娘が飛びつくようなことがあれば叱る。\n…しかし楼座は、それを忘れて、ただただ呆然とするしかできなかった。",
+          "japanesePC": "",
+          "japanesePS3": "「ベアトリーチェー！！」\n真里亞がその人影に飛びつく。\n……普段の楼座なら、見ず知らずの人に娘が飛びつくようなことがあれば叱る。\n…しかし楼座は、それを忘れて、ただただ呆然とするしかできなかった。",
+          "WH": "",
+          "MG": "\"Beatrice!!\"\nMaria dashed over to the shadow.\n...Normally, Rosa would scold her daughter if she dashed over to someone whom she hadn't seen before and didn't know.\n...But Rosa forgot to do that, was unable to do anything but stand there, stunned.",
+          "UP": "\"Beatrice!!\"\nMaria dashed over to the figure.\n......Normally, Rosa would scold her daughter if she dashed over to a complete stranger.\n...But Rosa forgot about that, unable to do anything but stand there, shocked.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_5-L0536",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0536",
+              "umi2_5-L0537"
+            ],
+            "UP": [
+              "umi2_5-L0536",
+              "umi2_5-L0537"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "真里亞がその人影に飛びつく。……普段の楼座なら、見ず知らずの人に娘が飛びつくようなことがあれば叱る。…しかし楼座は、それを忘れて、ただただ呆然とするしかできなかった。",
+              "translation": "Maria dashed over to the shadow. ...Normally, Rosa would scold her daughter if she dashed over to someone whom she hadn't seen before and didn't know. ...But Rosa forgot to do that, was unable to do anything but stand there, stunned. "
+            },
+            "UP": {
+              "japanese": "真里亞がその人影に飛びつく。……普段の楼座なら、見ず知らずの人に娘が飛びつくようなことがあれば叱る。…しかし楼座は、それを忘れて、ただただ呆然とするしかできなかった。",
+              "translation": "Maria dashed over to the figure. ......Normally, Rosa would scold her daughter if she dashed over to a complete stranger. ...But Rosa forgot about that, unable to do anything but stand there, shocked."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_5-L0537"
+            ],
+            "UP": [
+              "umi2_5-L0537"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Running up may precede an embrace, but the translated lines do not establish the contact that 飛びつく states.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP02-CH05-001": {
+      "umi2_5-L0003": {
+        "WH": [
+          "everything would be fine if they looked over this poor thing"
+        ],
+        "MG": [
+          "everything would be fine if they took care of this poor thing"
+        ]
+      }
+    },
+    "WH-EP02-CH05-002": {
+      "umi2_5-L0042": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Celebration of the day is omitted; naming the day is retained correctly."
+        }
+      }
+    },
+    "WH-EP02-CH05-003": {
+      "umi2_5-L0083": {
+        "WH": [
+          "on the Sabbath"
+        ]
+      }
+    },
+    "WH-EP02-CH05-004": {
+      "umi2_5-L0099": {
+        "WH": [
+          "learn magic spells together, learn how to draw magic circles together",
+          "we'll learn the secrets of runes"
+        ],
+        "MG": [
+          "learn magic spells together, learn how to draw magic circles together",
+          "we'll learn the secrets of runes"
+        ],
+        "UP": [
+          "learn magic spells together, learn how to draw magic circles together"
+        ]
+      }
+    },
+    "WH-EP02-CH05-005": {
+      "umi2_5-L0151": {
+        "WH": [
+          "it was supposed to proof",
+          "her mother had bought something fun for her"
+        ],
+        "MG": [
+          "her mother had bought something fun for her"
+        ]
+      }
+    },
+    "WH-EP02-CH05-006": {
+      "umi2_5-L0156": {
+        "WH": [
+          "That's what you are, that's what you are"
+        ],
+        "UP": {
+          "kind": "omission",
+          "reason": "UP restores causality but leaves Maria's way of being as the blame object implicit; no false categorical identification remains."
+        }
+      }
+    },
+    "WH-EP02-CH05-007": {
+      "umi2_5-L0220": {
+        "WH": [
+          "Maria can handle that much"
+        ]
+      }
+    },
+    "WH-EP02-CH05-008": {
+      "umi2_5-L0271": {
+        "WH": [
+          "Why don't we meet her today and play?"
+        ]
+      }
+    },
+    "WH-EP02-CH05-009": {
+      "umi2_5-L0300": {
+        "WH": [
+          "I may not even be able to approach"
+        ]
+      }
+    },
+    "WH-EP02-CH05-010": {
+      "umi2_5-L0321": {
+        "WH": [
+          "how much you want to see him"
+        ],
+        "MG": [
+          "why you want to see him so much"
+        ],
+        "UP": [
+          "why you might be desperate to see him"
+        ]
+      }
+    },
+    "WH-EP02-CH05-011": {
+      "umi2_5-L0333": {
+        "WH": [
+          "talk together modestly"
+        ]
+      }
+    },
+    "WH-EP02-CH05-012": {
+      "umi2_5-L0304": {
+        "WH": [
+          "come to greet us"
+        ],
+        "MG": [
+          "come to greet us"
+        ]
+      }
+    },
+    "WH-EP02-CH05-013": {
+      "umi2_5-L0362": {
+        "WH": [
+          "play a part in a conspiracy"
+        ],
+        "UP": [
+          "pretend to be fellow conspirators"
+        ]
+      }
+    },
+    "WH-EP02-CH05-014": {
+      "umi2_5-L0373": {
+        "WH": [
+          "Kids with a rich heart grow"
+        ]
+      }
+    },
+    "WH-EP02-CH05-015": {
+      "umi2_5-L0474": {
+        "WH": [
+          "Mama was pinched"
+        ]
+      }
+    },
+    "WH-EP02-CH05-016": {
+      "umi2_5-L0491": {
+        "WH": [
+          "all of their cares would have evaporated",
+          "they would have felt"
+        ],
+        "UP": [
+          "all of their cares would have evaporated",
+          "they would have felt"
+        ],
+        "MG": [
+          "all of their cares would have evaporated"
+        ]
+      }
+    },
+    "WH-EP02-CH05-017": {
+      "umi2_5-L0560": {
+        "WH": [
+          "this unique light"
+        ],
+        "MG": {
+          "kind": "omission",
+          "reason": "MG lonely light removes distinctiveness but omits only-light restriction; loneliness is not the defective distinctiveness claim."
+        }
+      }
+    },
+    "WH-EP02-CH05-018": {
+      "umi2_5-L0595": {
+        "WH": [
+          "the witches hand"
+        ]
+      }
+    },
+    "WH-EP02-CH05-019": {
+      "umi2_5-L0719": {
+        "WH": [
+          "couldn't help but influence"
+        ],
+        "MG": [
+          "couldn't help but influence"
+        ],
+        "UP": [
+          "stood a great chance of influencing"
+        ]
+      }
+    },
+    "WH-EP02-CH05-020": {
+      "umi2_5-L0754": {
+        "WH": [
+          "even until he literally became a ghost"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-WITCH-OPPORTUNITY-SUPERLATIVE-001": {
+      "umi2_5-L0090": {
+        "MG": [
+          "the most important chance"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-HARVEST-GRATITUDE-MODALITY-001": {
+      "umi2_5-L0086": {
+        "UP": [
+          "must be because of a feeling that they should be thanked"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-RITUAL-CREATION-001": {
+      "umi2_5-L0057": {
+        "MG": [
+          "they performed rituals"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-BATTLER-DREAM-SCALE-001": {
+      "umi2_5-L0114": {
+        "MG": [
+          "pretty detailed and impressive"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-MARSHMALLOW-LOOK-LIKE-001": {
+      "umi2_5-L0144": {
+        "UP": [
+          "look they have"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-GATHER-FACES-001": {
+      "umi2_5-L0333": {
+        "UP": [
+          "gather our faces"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-SHANNON-LEERING-001": {
+      "umi2_5-L0393": {
+        "MG": [
+          "who had a soft spot for women"
+        ],
+        "UP": [
+          "with turned heads"
+        ]
+      }
+    },
+    "PAIR-EP02-CH05-MARIA-LEAPS-ONTO-FIGURE-001": {
+      "umi2_5-L0537": {
+        "MG": [
+          "Maria dashed over to the shadow",
+          "if she dashed over to someone"
+        ],
+        "UP": [
+          "Maria dashed over to the figure",
+          "if she dashed over to a complete stranger"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

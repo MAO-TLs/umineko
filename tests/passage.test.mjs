@@ -74,3 +74,28 @@ test('PC material uses a yellow annotation with its exact label and no error row
  assert.ok(all(out).some(n=>n.textContent==='Material added from original PC script'));
  assert.ok(!classes.includes('script-line-error'));
 });
+test('two offending phrases get independent accessible triggers without highlighting the intervening prose',()=>{
+ const text='First error, correct middle, second error.';
+ const source={...row,comparisons:{mangagamer:{text,findings:[{id:'TWO',highlights:['First error','second error'],explanation:'Two localized defects'}]}}};
+ const out=renderPassage(document,source,{script:'ps3',compare:'mangagamer'},new Set(['mangagamer']));
+ const triggers=all(out).filter(n=>n.dataset.auditId==='TWO');
+ assert.equal(triggers.length,2);
+ assert.notEqual(triggers[0]['aria-controls'],triggers[1]['aria-controls']);
+ const content=n=>n.className==='todokanai-error-preview'?'':n.tag==='#text'?n.textContent:n.children.map(content).join('');
+ assert.deepEqual(triggers.map(content),['First error','second error']);
+ assert.deepEqual(triggers.map(n=>n['aria-label']),['First error','second error']);
+ const cell=out.children.find(c=>c.dataset.corpus==='mangagamer');
+ assert.equal(content(cell.children.find(n=>n.tag==='p')),text);
+});
+test('overlapping findings cover both entire phrases without duplicating text or hiding either note',()=>{
+ const text='The first shared second phrase ends.';
+ const source={...row,comparisons:{mangagamer:{text,findings:[{id:'FIRST',highlights:['first shared'],explanation:'First defect'},{id:'SECOND',highlights:['shared second'],explanation:'Second defect'}]}}};
+ const out=renderPassage(document,source,{script:'ps3',compare:'mangagamer'},new Set(['mangagamer']));
+ const cell=out.children.find(c=>c.dataset.corpus==='mangagamer');
+ const p=cell.children.find(n=>n.tag==='p');
+ const content=n=>n.className==='todokanai-error-preview'?'':n.tag==='#text'?n.textContent:n.children.map(content).join('');
+ assert.equal(content(p),text);
+ assert.equal(content(all(p).find(n=>n.dataset.auditId==='FIRST')),'first shared second');
+ assert.ok(all(cell).some(n=>n.dataset.auditId==='SECOND'));
+ assert.equal(all(cell).filter(n=>n.tag==='aside').length,2);
+});

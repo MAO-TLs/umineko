@@ -1,1 +1,1944 @@
-{"findings":[{"id":"WH-EP03-CH18-001","kind":"WH","description":"WH uses So for Beato’s promise to become a witch again, where Japanese uses but.","categories":["linguistic.logical_relation","character.motivation_emotion"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[14,20],"MG":[14,20],"UP":[14,20]},"japanese":"「………これでもう、…妾は魔女ではない。\n…………だが、必ず、妾は再び魔女になるぞ…。\n……そして、\n……再び黄金の魔女と呼ばれるに至って、\n……再び、\n……そなたの対戦相手だと認められに、\n………帰ってくるから……」","japanesePC":"「…………これでもう、…妾は魔女ではない。……………だが、必ず、妾は再び魔女になるぞ…。……そして、","japanesePS3":"「………これでもう、…妾は魔女ではない。\n…………だが、必ず、妾は再び魔女になるぞ…。\n……そして、\n……再び黄金の魔女と呼ばれるに至って、\n……再び、\n……そなたの対戦相手だと認められに、\n………帰ってくるから……」","WH":"\"............With this, ...I am no longer a witch.  ...............So, I will definitely...become a witch again.........And then,","MG":"\"......With this, ...I am no longer a witch.\n.........But I will definitely...become a witch again...\n...And then,\n...I will make it so that I can be called the Golden Witch again,\n......and once again,\n......return...\nso that I can be accepted as your opponent......\"","UP":"\".........With this, ...I am no longer a witch.\n............But, I will definitely...become a witch again...\n......And...\n...I will make it so that I can be called the Golden Witch again,\n.........and then,\n......when I am ready to be accepted as your opponent,\n.........I will return once more......\"","note":"Both restore but in the promise to return as a witch.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_18-L0014","readerRefs":{"WH":["umi3_18-L0014"],"MG":["umi3_18-L0014"],"UP":["umi3_18-L0014"]}}],"sourceReading":"だが contrasts no longer being a witch with the determination nevertheless to become one again.","alternative":"Loss of status can motivate restoration, but that causal connection replaces the explicit concession framing her determination.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-002","kind":"WH","description":"WH says You even denied yourself rather than even if you deny it yourself.","categories":["linguistic.logical_relation","character.relationship_power"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[30,35],"MG":[30,35],"UP":[30,35]},"japanese":"「いいや、魔法だったぜ。\n………お前は確かに、黄金の魔女だった。\n………お前自らが否定しようとも。\n………俺が認めてやるよ。\n…………“お前は確かに、\n…黄金の魔女だ”」","japanesePC":"「いいや、魔法だったぜ。………お前は確かに、黄金の魔女だった。………お前自らが否定しようとも。………俺が認めてやるよ。","japanesePS3":"「いいや、魔法だったぜ。\n………お前は確かに、黄金の魔女だった。\n………お前自らが否定しようとも。\n………俺が認めてやるよ。\n…………“お前は確かに、\n…黄金の魔女だ”」","WH":"\"No, it was magic.  .........You were definitely...the Golden Witch.  .........You even denied yourself.  .........I'll accept it.","MG":"\"No, it was magic.\n......You were definitely...the Golden Witch.\n......Even if you deny it yourself,\n......I'll acknowledge it.\n'You are definitely...\nthe Golden Witch'.\"","UP":"\"No, it was magic.\n.........You were definitely...the Golden Witch.\n.........Even if you deny it yourself,\n.........I'll accept it.\n............‘You are definitely...\nthe Golden Witch’.\"","note":"Both restore the conditional even if self-denied.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_18-L0030","readerRefs":{"WH":["umi3_18-L0030"],"MG":["umi3_18-L0030"],"UP":["umi3_18-L0030"]}}],"sourceReading":"お前自らが否定しようとも makes Battler’s recognition hold despite her own denial.","alternative":"She has already denied herself, so English states a true contextual fact, but removes the concession linking her denial to his overriding acknowledgment.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-003","kind":"WH","description":"WH describes the space as made to be like the mansion hall rather than the decoration causing recognition that it is that hall.","categories":["linguistic.mistranslation","world.world_layer","mystery.epistemic_status"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[56,58],"MG":[56,58],"UP":[56,58]},"japanese":"島が隆起し、木々が生えて森を成し、塀が俺たちを囲んで屋根が俺たちを飲み込んだ。\nそれはどんどんと装飾されていき、\n……右代宮家の屋敷の、…ホールであることを気付かせる。","japanesePC":"……右代宮家の屋敷の、…ホールであることを気付かせる。","japanesePS3":"島が隆起し、木々が生えて森を成し、塀が俺たちを囲んで屋根が俺たちを飲み込んだ。\nそれはどんどんと装飾されていき、\n……右代宮家の屋敷の、…ホールであることを気付かせる。","WH":"......made to be like the hall in the Ushiromiya mansion.","MG":"An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us.\nAnd was adorned with more and more things,\n...made to be like the hall in the Ushiromiya mansion.","UP":"An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us.\nAnd it became adorned with more and more things,\n......until we realized that this was the hall in the Ushiromiya mansion.","note":"MG retains made to be like the hall; UP restores recognition of the hall.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_18-L0055","readerRefs":{"WH":["umi3_18-L0055"],"MG":["umi3_18-L0055"],"UP":["umi3_18-L0055"]}}],"sourceReading":"屋敷の、ホールであることを気付かせる means it makes them realize it is the mansion’s hall.","alternative":"The world is newly forming, which can suggest a recreation, but the source states recognized identity rather than resemblance and purpose of manufacture.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-004","kind":"WH","description":"WH has Beelzebub leave food out of gratitude rather than condescending pity or mercy.","categories":["linguistic.mistranslation","character.voice_state","character.relationship_power","character.motivation_emotion"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[93,94],"MG":[93,94],"UP":[93,94]},"japanese":"「あんた光栄に思いなさいよね！！\n本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」","japanesePC":"「あんた光栄に思いなさいよね！！　本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」","japanesePS3":"「あんた光栄に思いなさいよね！！\n本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」","WH":"\"You should be honored!!  Normally, I would have eaten all of it, but I left you some out of gratitude!\"","MG":"\"You should be honored!!\nNormally, I would've eaten all of it, but I left you some out of gratitude!\"","UP":"\"You should be honored!!\nNormally, I would have eaten all of it, but I left you guys some out of pity!\"","note":"MG retains gratitude; UP restores condescending pity.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_18-L0093","readerRefs":{"WH":["umi3_18-L0093"],"MG":["umi3_18-L0093"],"UP":["umi3_18-L0093"]}}],"sourceReading":"お情けであんたらの分も残してあげてる portrays sparing their portions as a favor from her generosity, matching the demand that they feel honored.","alternative":"Both imply leaving a share for others, but gratitude reverses the direction of obligation and is not the meaning of お情け.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-005","kind":"WH","description":"WH says our Jessica cannot do such a thing, replacing Natsuhi’s refusal to give her daughter to a servant’s child.","categories":["linguistic.mistranslation","linguistic.idiom_calque","character.agency_responsibility","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[125,126],"MG":[125,126],"UP":[125,126]},"japanese":"「使用人の子となんて…！！\n駄目です、うちの朱志香をやれるわけありません…！！」","japanesePC":"「使用人の子となんて…！！　駄目です、うちの朱志香がやれるわけありません…！！」","japanesePS3":"「使用人の子となんて…！！\n駄目です、うちの朱志香をやれるわけありません…！！」","WH":"\"With a servant child...?!!  You can't, our Jessica cannot do such a thing...!!\"","MG":"\"With a servant child...?!!\nYou can't, our Jessica cannot do such a thing...!!\"","UP":"\"With a servant child...?!!\nI forbid it, I couldn't possibly give away our Jessica to such a person...!!\"","note":"MG makes Jessica unable to do it; UP restores Natsuhi refusing to give her away.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_18-L0125","readerRefs":{"WH":["umi3_18-L0125"],"MG":["umi3_18-L0125"],"UP":["umi3_18-L0125"]}}],"sourceReading":"うちの朱志香がやれるわけありません uses やる for giving the family’s daughter in marriage, as shown by the proposed pairing and Krauss’s reply about choosing a partner.","alternative":"Both versions oppose the relationship, but the English makes Jessica the one unable to do something and loses Natsuhi’s parental disposition of her daughter.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-006","kind":"WH","description":"WH reverses Kyrie’s judgment by saying the scene proves a parent can let go of their children.","categories":["linguistic.mistranslation","mystery.scope_quantifier_negation","character.relationship_power","character.irony_performance"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[136,137],"MG":[136,137],"UP":[136,137]},"japanese":"「そうよ。\n親が子離れしてない証拠ね」","japanesePC":"「そうよ。親が子離れしてない証拠ね。」","japanesePS3":"「そうよ。\n親が子離れしてない証拠ね」","WH":"\"That's right.  It's proof that a parent can let go of their children.\"","MG":"\"That's right.\nIt's proof that a parent's too attached to their child.\"","UP":"\"Exactly.\nIt's proof the parent hasn't let go of their child.\"","note":"Both restore parental failure to let go.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_18-L0136","readerRefs":{"WH":["umi3_18-L0136"],"MG":["umi3_18-L0136"],"UP":["umi3_18-L0136"]}}],"sourceReading":"親が子離れしてない証拠 explicitly says this is evidence that the parents have not separated emotionally from their children.","alternative":"Rosa endorses freedom immediately before it, but Kyrie’s observation refers to the clinging parents and retains a negative predicate in Japanese.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-007","kind":"WH","description":"WH says He’ll elope right away, instead of advising Battler to elope quickly with his partner rather than introduce her to Rudolf.","categories":["linguistic.mistranslation","linguistic.wrong_subject","character.agency_responsibility","character.irony_performance"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[140,142],"MG":[140,142],"UP":[140,142]},"japanese":"「この人に紹介しちゃ駄目よ？\nすぐ手を出すから。\nとっとと駆け落ちしちゃうのよ」","japanesePC":"「この人に紹介しちゃ駄目よ？　すぐ手を出すから。とっとと駆け落ちしちゃうのよ。」","japanesePS3":"「この人に紹介しちゃ駄目よ？\nすぐ手を出すから。\nとっとと駆け落ちしちゃうのよ」","WH":"\"You can't introduce her to this guy, alright?  He'll get his hands on her immediately.  He'll elope right away.\"","MG":"\"Don't you dare introduce her to this man, okay?\nHe'll get his hands on her immediately.\nThey'll run off together right away.\"","UP":"\"You can't introduce her to this guy, you know?\nHe'll get his hands on her immediately.\nHe'll elope right away.\"","note":"Both predict another person eloping rather than advising Battler to elope.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_18-L0140","readerRefs":{"WH":["umi3_18-L0140"],"MG":["umi3_18-L0140"],"UP":["umi3_18-L0140"]}}],"sourceReading":"紹介しちゃ駄目よ and とっとと駆け落ちしちゃうのよ are successive instructions to the listener, with すぐ手を出すから giving the reason: this man will make advances.","alternative":"The warning makes a father running off with the girlfriend imaginable, but the final sentence is advice to the son, not a prediction about the father.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-008","kind":"WH","description":"WH has Battler and Beato turn their heads to see what is going on, instead of looking at each other in puzzlement before ascending.","categories":["linguistic.mistranslation","character.relationship_power","world.space_time_continuity"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[184,185],"MG":[184,185],"UP":[184,185]},"japanese":"階段の踊り場の上に、祖父さまとワルギリアがいて、手招きをしている。\n俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。","japanesePC":"俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。","japanesePS3":"階段の踊り場の上に、祖父さまとワルギリアがいて、手招きをしている。\n俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。","WH":"After Beato and I turned our heads to see what was going on, we climbed the stairs together.","MG":"Grandfather and Virgilia were standing on the landing at the top of the staircase, beckoning to us.\nBeato and I turned our heads to see what was going on, then climbed the stairs together.","UP":"Grandfather and Virgilia were standing on the landing at the top of the staircase, beckoning us.\nBeato and I looked at each other quizzically, then climbed the stairs together.","note":"MG changes mutual puzzlement to looking toward the event; UP restores the exchanged look.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_18-L0184","readerRefs":{"WH":["umi3_18-L0184"],"MG":["umi3_18-L0184"],"UP":["umi3_18-L0184"]}}],"sourceReading":"何事かと顔を見合わせて describes an exchanged glance between the two.","alternative":"Both versions show uncertainty and subsequent ascent, but the mutual glance is replaced by looking to inspect the event.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-009","kind":"WH","description":"WH says when you believed in the end the Golden Land was completed, whereas Beato explains that the last participant’s belief completes it.","categories":["linguistic.tense_aspect","linguistic.logical_relation","world.world_layer","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[209,211],"MG":[209,211],"UP":[209,211]},"japanese":"「魔法とは即ち、奇跡。\n……奇跡は全員が信じあわねば完成せぬ。\n……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ」","japanesePC":"「魔法とは即ち、奇跡。……奇跡は全員が信じあわねば完成せぬ。……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ。」","japanesePS3":"「魔法とは即ち、奇跡。\n……奇跡は全員が信じあわねば完成せぬ。\n……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ」","WH":"\"Magic is a miracle.  ......Miracles cannot be completed unless everyone believes.  ......And, when you believed in the end, this miracle, ...the Golden Land was completed.\"","MG":"\"Magic is a miracle.\n...Miracles cannot be made complete unless everyone believes.\n...And, when you believed in the end, this miracle, ...the Golden Land, was completed.\"","UP":"\"Magic is a miracle.\n......Miracles cannot be completed unless everyone believes.\n......And when you do, as the last to do so, this miracle—the Golden Land—will be completed.\"","note":"MG retains completed past belief; UP restores completion when the last participant believes.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_18-L0209","readerRefs":{"WH":["umi3_18-L0209"],"MG":["umi3_18-L0209"],"UP":["umi3_18-L0209"]}}],"sourceReading":"最後のそなたが信じてくれることで…完成する presents completion through his believing, not a completed past event.","alternative":"The Golden Land has visibly appeared, but signatures, oaths and the final invitation remain to be solicited; the Japanese makes a general or prospective completion claim rather than explicitly saying it already happened.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-010","kind":"WH","description":"WH says You are wriggling like a worm, rather than teasing that he should write his name in worm-like strokes.","categories":["linguistic.mistranslation","linguistic.wrong_subject","character.irony_performance","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[218,221],"MG":[218,221],"UP":[218,221]},"japanese":"「下手くそめ。\nインク弾きは縁起が悪いのだぞ。\n自分の名前くらいとっとと書け。\nミミズがのたくるようにな。","japanesePC":"「下手くそめ。インク弾きは縁起が悪いのだぞ。自分の名前くらいとっとと書け。ミミズがのたくるようにな。くっくくくくくくくくく…！」","japanesePS3":"「下手くそめ。\nインク弾きは縁起が悪いのだぞ。\n自分の名前くらいとっとと書け。\nミミズがのたくるようにな。","WH":"\"You klutz.  Shooting ink is a bad omen.  Can't you at least write your name quickly?  You are wriggling like a worm.  *cackle*cackle*cackle*cackle*cackle*...!\"","MG":"\"You klutz.\nShooting ink is a bad omen.\nCan't you at least write your name quickly?\nYour pen's wriggling all over the place like a worm.","UP":"\"You klutz.\nShooting ink is a bad omen.\nCan't you at least write your name quickly?\nIn that illegible scrawl.","note":"MG restores writing rather than bodily wriggling but turns the instruction into a present description; UP attaches scrawl to the imperative.","dispositions":{"MG":"partly_corrected","UP":"corrected"},"readerRef":"umi3_18-L0218","readerRefs":{"WH":["umi3_18-L0218"],"MG":["umi3_18-L0218"],"UP":["umi3_18-L0218"]}}],"sourceReading":"自分の名前くらいとっとと書け。ミミズがのたくるようにな connects the worm simile to the written name or handwriting.","alternative":"The source gives an abbreviated teasing instruction, but the English supplies a present bodily action rather than keeping the simile attached to the signature.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-011","kind":"WH","description":"WH says they have gathered the signatures as well as the form for the covenant, instead of the signatures completing the document’s formal requirements.","categories":["linguistic.mistranslation","linguistic.word_choice","world.world_fact"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[229,230],"MG":[229,230],"UP":[229,230]},"japanese":"「結構。\n二人のサインが揃い、誓約書の書式が揃いました。","japanesePC":"「結構。二人のサインが揃い、誓約書の書式が揃いました。……二人には宣誓を。まずはベアトリーチェから。誓約書に手を添え、誓約を。","japanesePS3":"「結構。\n二人のサインが揃い、誓約書の書式が揃いました。","WH":"\"Very well.  We have gathered the two signatures, as well as the form for the covenant.  ......Both of you, your oath please.  We'll start with Beatrice.  Put your hand on the covenant, and take the oath.","MG":"\"Very well.\nWe have gathered the two signatures, as well as the form for the covenant.","UP":"\"Very good.\nWe have gathered the two signatures, as well as the form for the covenant.","note":"Both add gathering a form separately rather than signatures completing the formal requirements.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_18-L0229","readerRefs":{"WH":["umi3_18-L0229"],"MG":["umi3_18-L0229"],"UP":["umi3_18-L0229"]}}],"sourceReading":"二人のサインが揃い、誓約書の書式が揃いました means both signatures are in place and the covenant is complete in form.","alternative":"Form can refer to a document or its formal arrangement, but as well as gathering the form treats it as an additional collected item, losing completion of the format.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-012","kind":"WH","description":"WH replaces the specified order to throw the newcomer out with the generic get her.","categories":["linguistic.undertranslation","character.agency_responsibility"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[289,293],"MG":[289,293],"UP":[289,293]},"japanese":"「……なッ、……何だ貴様は？！\n何者だ？！\nどこから現れた？！\n妾のパーティーに招待状なき客は必要ない。\n家具ども、摘み出せッ！！」","japanesePC":"妾のパーティーに招待状なき客は必要ない。家具ども、摘み出せッ！！」","japanesePS3":"「……なッ、……何だ貴様は？！\n何者だ？！\nどこから現れた？！\n妾のパーティーに招待状なき客は必要ない。\n家具ども、摘み出せッ！！」","WH":"Those without invitations are not needed in my party.  Servants, get her!!\"","MG":"\"...Wh-Who are you?!\nWho is this?!\nWhere did you come from?!\nThose without invitations are not needed at my party.\nServants, kick her out!!\"","UP":"\"......Wh‐......who are you?!\nWho is this?!\nWhere did you come from?!\nThose without invitations are not needed in my party.\nServants, throw her out!!\"","note":"Both explicitly eject the uninvited guest.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_18-L0289","readerRefs":{"WH":["umi3_18-L0289"],"MG":["umi3_18-L0289"],"UP":["umi3_18-L0289"]}}],"sourceReading":"摘み出せ orders removal or ejection from the party, matching the claim that uninvited guests are unwanted.","alternative":"Get her conveys hostile intervention and the subsequent surround command survives, but leaves the intended outcome unstated.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-013","kind":"WH","description":"WH says the girl did not move at all where Japanese says she was not shaken at all.","categories":["linguistic.mistranslation","character.voice_state","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[300,301],"MG":[300,301],"UP":[300,301]},"japanese":"しかし女はまったく動じない。\n…それどころか、まったく気にもせず、相変わらず踊り場の俺たちを凝視している。","japanesePC":"しかし女はまったく動じない。","japanesePS3":"しかし女はまったく動じない。\n…それどころか、まったく気にもせず、相変わらず踊り場の俺たちを凝視している。","WH":"But the girl didn't move at all.","MG":"But the girl didn't move at all.\n...On the contrary, she was still staring at us on the landing, as though she didn't mind at all.","UP":"But the woman didn't move at all.\n...On the contrary, she was still staring at us on the landing, not paying them the slightest bit of attention.","note":"Both give physical immobility instead of being unfazed.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_18-L0300","readerRefs":{"WH":["umi3_18-L0300"],"MG":["umi3_18-L0300"],"UP":["umi3_18-L0300"]}}],"sourceReading":"動じない describes remaining emotionally unperturbed by the encirclement and aimed bows.","alternative":"Not moving can imply composure, and the next sentence says she does not mind, but the first sentence introduces a physical stillness statement instead of the explicit emotional reaction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-014","kind":"WH","description":"WH locates the lifting grip at Battler’s nape rather than his collar.","categories":["linguistic.mistranslation","world.space_time_continuity","character.agency_responsibility"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[315,319],"MG":[315,319],"UP":[315,319]},"japanese":"その時、俺の襟首がものすごい力で掴みあげられる。\n…な、何事…？！\nそして後に振り返させられると、\n……そこに、不気味な笑顔を浮かべたワルギリアと、そして屈強な山羊のバケモノたちの姿が…。\n俺は、身長が２ｍはありそうな山羊のバケモノの、丸太のように太い腕で掴み上げられている…！","japanesePC":"その時、俺の襟首がものすごい力で掴みあげられる。","japanesePS3":"その時、俺の襟首がものすごい力で掴みあげられる。\n…な、何事…？！\nそして後に振り返させられると、\n……そこに、不気味な笑顔を浮かべたワルギリアと、そして屈強な山羊のバケモノたちの姿が…。\n俺は、身長が２ｍはありそうな山羊のバケモノの、丸太のように太い腕で掴み上げられている…！","WH":"At that time, something incredibly strong lifted me by the nape of my neck.","MG":"At that time, something incredibly strong lifted me by the nape of my neck.\n...Wh-What's going on...?!\nAnd after being made to turn around behind me,\n...I saw Virgilia, with an eerie smile on her face, and the muscular forms of goat monsters...\nA goat monster that looked about 2 meters tall was grabbing me with an arm as thick as a log...!","UP":"Just then, something incredibly strong lifted me by the nape of my neck.\n...Wh‐what's going on...?!\nAnd after I was forced to turn around,\n......I saw Virgilia with an eerie smile on her face, and the muscular forms of goat monsters...\nA goat monster that looked like it was two meters tall was holding me up with an arm as thick as a log...!","note":"Both place the grip at the nape rather than the collar.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_18-L0315","readerRefs":{"WH":["umi3_18-L0315"],"MG":["umi3_18-L0315"],"UP":["umi3_18-L0315"]}}],"sourceReading":"襟首 refers here to the neck of the garment or collar gripped to lift him; subsequent narration identifies the goat’s arm and his feet off the floor.","alternative":"A collar is at the back of the neck and English readers may picture a similar lift, but nape identifies the body part rather than the clothing.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-015","kind":"WH","description":"WH calls the chandelier electrocuted rather than electrically charged.","categories":["linguistic.mistranslation","linguistic.word_choice","world.world_fact"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[352,354],"MG":[352,354],"UP":[352,354]},"japanese":"ベアトが黄金の煙管を振り上げると、\nホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！\nそれは、真下の女に直撃し、消し炭にしてしまうはずだった。","japanesePC":"ベアトが黄金の煙管を振り上げると、ホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！","japanesePS3":"ベアトが黄金の煙管を振り上げると、\nホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！\nそれは、真下の女に直撃し、消し炭にしてしまうはずだった。","WH":"As Beato waved her gold pipe, the massive chandelier hanging in the hall was electrocuted, and from that, a terrible purple thunderbolt fell...!","MG":"As Beato waved her gold pipe,\nthe massive chandelier hanging in the hall was electrocuted, and from that, a terrible purple thunderbolt fell...!\nIt should have been a direct hit on the girl right below it, turning her to ash.","UP":"Beato raised her gold pipe high,\nand the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...!\nIt was a direct hit on the woman right below it, and should have turned her to ash.","note":"MG retains electrocuted; UP restores electrical charging.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_18-L0352","readerRefs":{"WH":["umi3_18-L0352"],"MG":["umi3_18-L0352"],"UP":["umi3_18-L0352"]}}],"sourceReading":"帯電 describes accumulating an electrical charge before the lightning discharge.","alternative":"Electrocuted is sometimes used loosely for shocked, but still describes injury by electricity rather than the source’s charge buildup in an object.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-016","kind":"WH","description":"WH says it was worth having the newcomer show up uninvited, rather than acknowledging that her capacity explains her daring intrusion.","categories":["linguistic.mistranslation","character.viewpoint_attribution","character.voice_state"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[356,358],"MG":[356,358],"UP":[356,358]},"japanese":"「ほぉ…！！\n飛び入りするだけのことはある…！！\n聞こう！　名を名乗れ！！」","japanesePC":"「ほぉ…！！　飛び入りするだけのことはある…！！　聞こう！　名を名乗れ！！」","japanesePS3":"「ほぉ…！！\n飛び入りするだけのことはある…！！\n聞こう！　名を名乗れ！！」","WH":"\"Hoh...!!  So it was worth having you show up uninvited...!!  Tell me!  Say your name!!\"","MG":"\"Hoh...!!\nSo, your sudden appearance here wasn't just a fluke...!!\nTell me! State your name!!\"","UP":"\"Hoh...!!\nI see you have what it takes to show up uninvited...!!\nTell me! Say your name!!\"","note":"MG’s not just a fluke reasonably acknowledges the capacity explaining the intrusion; UP states that capacity explicitly.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_18-L0356","readerRefs":{"WH":["umi3_18-L0356"],"MG":["umi3_18-L0356"],"UP":["umi3_18-L0356"]}}],"sourceReading":"飛び入りするだけのことはある appraises the newcomer as having the ability befitting or justifying her uninvited entry, after surviving lightning.","alternative":"Both convey impressed acknowledgment, but worth having you show up evaluates benefit to the host rather than the newcomer’s qualifications.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-017","kind":"WH","description":"WH renders 何でも as No matter what, replacing a hearsay introduction with an unconditional qualifier.","categories":["linguistic.mistranslation","mystery.epistemic_status","character.knowledge_boundary","world.culture_history"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[378,378],"MG":[378,378],"UP":[378,378]},"japanese":"「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？」","japanesePC":"何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？","japanesePS3":"「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？」","WH":"No matter what, after acting bad-tempered and exploring the depths of cruelty, by acting properly incompetent and soft, you get a massive rise on that goodwill meter thing, ri-ght?","MG":"\"Apparently, if you start out all hostile and needlessly brutal, then turn incompetent and soft at just the right moment, you can spark a huge bump on your affection meter, riiight?\"","UP":"\"I hear, after acting {ruby:tsuntsun:bad‐tempered and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft, you can get a massive rise on that goodwill meter thing, riiight?\"","note":"MG Apparently and UP I hear restore hearsay.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_18-L0378","readerRefs":{"WH":["umi3_18-L0378"],"MG":["umi3_18-L0378"],"UP":["umi3_18-L0378"]}}],"sourceReading":"何でも here introduces something reportedly learned about acting harsh then weak and affectionate to increase favorable impressions, consistent with the following heard/studied references.","alternative":"The same strategy remains described and later hearing survives, but no matter what supplies an unsupported unconditional scope instead of apparently or from what I hear.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-018","kind":"WH","description":"WH gives the literal quoted tears please rather than the sentimental tearjerker appeal that made Battler fall for it.","categories":["linguistic.idiom_calque","linguistic.undertranslation","character.irony_performance","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[381,381],"MG":[381,381],"UP":[381,381]},"japanese":"「そうしたらお前、案の定、お涙頂戴でコロリだよ！！」","japanesePC":"そうしたらお前、案の定、お涙頂戴でコロリだよ！！","japanesePS3":"「そうしたらお前、案の定、お涙頂戴でコロリだよ！！」","WH":"And for you, just as expected, it was 'tears please', and you're down!!","MG":"\"And for you, just as expected, it was \"tears please\", and you're down!!","UP":"\"And I tried it out, and just as expected, it was \"tears please\", and you're down!!\"","note":"Both retain tears please rather than the sentimental tearjerker appeal.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_18-L0381","readerRefs":{"WH":["umi3_18-L0381"],"MG":["umi3_18-L0381"],"UP":["umi3_18-L0381"]}}],"sourceReading":"お涙頂戴 names a contrived sentimental appeal or tearjerker, paired with コロリ describing his being taken in.","alternative":"Earlier sentimentality and the named strategy supply context, but the literal phrase obscures the mechanism explicitly named in the sentence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH18-019","kind":"WH","description":"WH has the newcomer thank Beato for bringing everyone together rather than for letting her meet everyone like this.","categories":["linguistic.mistranslation","linguistic.wrong_subject","character.relationship_power","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[442,445],"MG":[442,445],"UP":[442,445]},"japanese":"「えぇ、わかってるわ。\n誰があんたなんかと遊ぶものですか。\n……でも少しだけ感謝するわ。\n……こうして、みんなに会わせてくれて」","japanesePC":"……でも少しだけ感謝するわ。……こうして、みんなに会わせてくれて。」","japanesePS3":"「えぇ、わかってるわ。\n誰があんたなんかと遊ぶものですか。\n……でも少しだけ感謝するわ。\n……こうして、みんなに会わせてくれて」","WH":"......But I will thank you a bit.  ......For bringing everyone together like this.\"","MG":"\"Yes, I understand.\nWho would ever play with someone like you?\n...But I will thank you just a little.\n...For letting me meet everyone like this.\"","UP":"\"Yes, I'm aware of that.\nWho would ever play with someone like you?\n......But I will thank you a bit.\n......For bringing everyone together like this.\"","note":"MG restores letting the newcomer meet everyone; UP retains bringing everyone together.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi3_18-L0442","readerRefs":{"WH":["umi3_18-L0442"],"MG":["umi3_18-L0442"],"UP":["umi3_18-L0442"]}}],"sourceReading":"みんなに会わせてくれて refers to causing or allowing the speaker to meet the others, continuing her envy and desire to join them.","alternative":"A reunion requires bringing people together, but the English removes her personal encounter as the reason for gratitude.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH18-241-360-001","kind":"additional","description":"UP asserts that the lightning was a direct hit, whereas Japanese places the direct hit and reduction to ash under expectation.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[354,355],"MG":[354,355],"UP":[354,355]},"japanese":"それは、真下の女に直撃し、消し炭にしてしまうはずだった。\nしかし、……髪の毛一本、焦がせていない。","japanesePC":"","japanesePS3":"それは、真下の女に直撃し、消し炭にしてしまうはずだった。\nしかし、……髪の毛一本、焦がせていない。","WH":"","MG":"It should have been a direct hit on the girl right below it, turning her to ash.\nHowever, ...not a single hair was singed.","UP":"It was a direct hit on the woman right below it, and should have turned her to ash.\nHowever, ......not a single hair was singed.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi3_18-L0352","readerRefs":{"WH":[],"MG":["umi3_18-L0352"],"UP":["umi3_18-L0352"]}}],"sourceReading":"The strike should have hit the woman directly and reduced her to ash, yet not even a hair was singed.","alternative":"The visible strike may suggest contact, but the next sentence confirms only absence of injury. Japanese hazu datta scopes both coordinated actions; MG and original WH PC135853 retain should have been a direct hit.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH18-361-464-001","kind":"additional","description":"MG substitutes an icicle for needle ice and separates truth from the explicitly identified spring in the closing metaphor.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_18","episode":3,"rows":{"JP":[462,462],"MG":[462,462],"UP":[462,462]},"japanese":"「あんたなんて、真実という春に怯える霜柱でしかないことを教えてやるッ！","japanesePC":"","japanesePS3":"「あんたなんて、真実という春に怯える霜柱でしかないことを教えてやるッ！","WH":"","MG":"\"I'll show you that before the truth, you're like an icicle scared of the coming spring!","UP":"\"I'll teach you that you're no more than needle ice, scared of the spring of truth!","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_18-L0462","readerRefs":{"WH":[],"MG":["umi3_18-L0462"],"UP":["umi3_18-L0462"]}}],"sourceReading":"She is only needle ice afraid of the spring that is truth.","alternative":"Both ice forms melt in spring, retaining the broad threat, but the ground-grown ice image and identification of truth with spring change. Original PC Japanese136205 and WH136206 preserve the source image; UP restores needle ice and spring of truth.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP03-CH18-001",
+      "kind": "WH",
+      "description": "WH uses So for Beato’s promise to become a witch again, where Japanese uses but.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              14,
+              20
+            ],
+            "MG": [
+              14,
+              20
+            ],
+            "UP": [
+              14,
+              20
+            ]
+          },
+          "japanese": "「………これでもう、…妾は魔女ではない。\n…………だが、必ず、妾は再び魔女になるぞ…。\n……そして、\n……再び黄金の魔女と呼ばれるに至って、\n……再び、\n……そなたの対戦相手だと認められに、\n………帰ってくるから……」",
+          "japanesePC": "「…………これでもう、…妾は魔女ではない。……………だが、必ず、妾は再び魔女になるぞ…。……そして、",
+          "japanesePS3": "「………これでもう、…妾は魔女ではない。\n…………だが、必ず、妾は再び魔女になるぞ…。\n……そして、\n……再び黄金の魔女と呼ばれるに至って、\n……再び、\n……そなたの対戦相手だと認められに、\n………帰ってくるから……」",
+          "WH": "\"............With this, ...I am no longer a witch.  ...............So, I will definitely...become a witch again.........And then,",
+          "MG": "\"......With this, ...I am no longer a witch.\n.........But I will definitely...become a witch again...\n...And then,\n...I will make it so that I can be called the Golden Witch again,\n......and once again,\n......return...\nso that I can be accepted as your opponent......\"",
+          "UP": "\".........With this, ...I am no longer a witch.\n............But, I will definitely...become a witch again...\n......And...\n...I will make it so that I can be called the Golden Witch again,\n.........and then,\n......when I am ready to be accepted as your opponent,\n.........I will return once more......\"",
+          "note": "Both restore but in the promise to return as a witch.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0014",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0014"
+            ],
+            "MG": [
+              "umi3_18-L0014"
+            ],
+            "UP": [
+              "umi3_18-L0014"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………これでもう、…妾は魔女ではない。…………だが、必ず、妾は再び魔女になるぞ…。……そして、……再び黄金の魔女と呼ばれるに至って、……再び、……そなたの対戦相手だと認められに、………帰ってくるから……」",
+              "translation": "\"......With this, ...I am no longer a witch. .........But I will definitely...become a witch again... ...And then, ...I will make it so that I can be called the Golden Witch again, ......and once again, ......return... so that I can be accepted as your opponent......\" "
+            },
+            "UP": {
+              "japanese": "「………これでもう、…妾は魔女ではない。…………だが、必ず、妾は再び魔女になるぞ…。……そして、……再び黄金の魔女と呼ばれるに至って、……再び、……そなたの対戦相手だと認められに、………帰ってくるから……」",
+              "translation": "\".........With this, ...I am no longer a witch. ............But, I will definitely...become a witch again... ......And... ...I will make it so that I can be called the Golden Witch again, .........and then, ......when I am ready to be accepted as your opponent, .........I will return once more......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0014"
+            ],
+            "MG": [
+              "umi3_18-L0014"
+            ],
+            "UP": [
+              "umi3_18-L0014"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "だが contrasts no longer being a witch with the determination nevertheless to become one again.",
+      "alternative": "Loss of status can motivate restoration, but that causal connection replaces the explicit concession framing her determination.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-002",
+      "kind": "WH",
+      "description": "WH says You even denied yourself rather than even if you deny it yourself.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              30,
+              35
+            ],
+            "MG": [
+              30,
+              35
+            ],
+            "UP": [
+              30,
+              35
+            ]
+          },
+          "japanese": "「いいや、魔法だったぜ。\n………お前は確かに、黄金の魔女だった。\n………お前自らが否定しようとも。\n………俺が認めてやるよ。\n…………“お前は確かに、\n…黄金の魔女だ”」",
+          "japanesePC": "「いいや、魔法だったぜ。………お前は確かに、黄金の魔女だった。………お前自らが否定しようとも。………俺が認めてやるよ。",
+          "japanesePS3": "「いいや、魔法だったぜ。\n………お前は確かに、黄金の魔女だった。\n………お前自らが否定しようとも。\n………俺が認めてやるよ。\n…………“お前は確かに、\n…黄金の魔女だ”」",
+          "WH": "\"No, it was magic.  .........You were definitely...the Golden Witch.  .........You even denied yourself.  .........I'll accept it.",
+          "MG": "\"No, it was magic.\n......You were definitely...the Golden Witch.\n......Even if you deny it yourself,\n......I'll acknowledge it.\n'You are definitely...\nthe Golden Witch'.\"",
+          "UP": "\"No, it was magic.\n.........You were definitely...the Golden Witch.\n.........Even if you deny it yourself,\n.........I'll accept it.\n............‘You are definitely...\nthe Golden Witch’.\"",
+          "note": "Both restore the conditional even if self-denied.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0030",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0030"
+            ],
+            "MG": [
+              "umi3_18-L0030"
+            ],
+            "UP": [
+              "umi3_18-L0030"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いいや、魔法だったぜ。………お前は確かに、黄金の魔女だった。………お前自らが否定しようとも。………俺が認めてやるよ。…………“お前は確かに、…黄金の魔女だ”」",
+              "translation": "\"No, it was magic. ......You were definitely...the Golden Witch. ......Even if you deny it yourself, ......I'll acknowledge it. 'You are definitely... the Golden Witch'.\" "
+            },
+            "UP": {
+              "japanese": "「いいや、魔法だったぜ。………お前は確かに、黄金の魔女だった。………お前自らが否定しようとも。………俺が認めてやるよ。…………“お前は確かに、…黄金の魔女だ”」",
+              "translation": "\"No, it was magic. .........You were definitely...the Golden Witch. .........Even if you deny it yourself, .........I'll accept it. ............‘You are definitely... the Golden Witch’.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0030"
+            ],
+            "MG": [
+              "umi3_18-L0030"
+            ],
+            "UP": [
+              "umi3_18-L0030"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "お前自らが否定しようとも makes Battler’s recognition hold despite her own denial.",
+      "alternative": "She has already denied herself, so English states a true contextual fact, but removes the concession linking her denial to his overriding acknowledgment.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-003",
+      "kind": "WH",
+      "description": "WH describes the space as made to be like the mansion hall rather than the decoration causing recognition that it is that hall.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_layer",
+        "mystery.epistemic_status"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              56,
+              58
+            ],
+            "MG": [
+              56,
+              58
+            ],
+            "UP": [
+              56,
+              58
+            ]
+          },
+          "japanese": "島が隆起し、木々が生えて森を成し、塀が俺たちを囲んで屋根が俺たちを飲み込んだ。\nそれはどんどんと装飾されていき、\n……右代宮家の屋敷の、…ホールであることを気付かせる。",
+          "japanesePC": "……右代宮家の屋敷の、…ホールであることを気付かせる。",
+          "japanesePS3": "島が隆起し、木々が生えて森を成し、塀が俺たちを囲んで屋根が俺たちを飲み込んだ。\nそれはどんどんと装飾されていき、\n……右代宮家の屋敷の、…ホールであることを気付かせる。",
+          "WH": "......made to be like the hall in the Ushiromiya mansion.",
+          "MG": "An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us.\nAnd was adorned with more and more things,\n...made to be like the hall in the Ushiromiya mansion.",
+          "UP": "An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us.\nAnd it became adorned with more and more things,\n......until we realized that this was the hall in the Ushiromiya mansion.",
+          "note": "MG retains made to be like the hall; UP restores recognition of the hall.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0055",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0055"
+            ],
+            "MG": [
+              "umi3_18-L0055"
+            ],
+            "UP": [
+              "umi3_18-L0055"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……世界は真っ青な大空に包まれ、次に眼下は真っ青な海で敷き詰められた。島が隆起し、木々が生えて森を成し、塀が俺たちを囲んで屋根が俺たちを飲み込んだ。それはどんどんと装飾されていき、……右代宮家の屋敷の、…ホールであることを気付かせる。",
+              "translation": "...The world was wrapped in a deep blue sky, and then a deep blue ocean was spread out below them. An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us. And was adorned with more and more things, ...made to be like the hall in the Ushiromiya mansion. "
+            },
+            "UP": {
+              "japanese": "……世界は真っ青な大空に包まれ、次に眼下は真っ青な海で敷き詰められた。島が隆起し、木々が生えて森を成し、塀が俺たちを囲んで屋根が俺たちを飲み込んだ。それはどんどんと装飾されていき、……右代宮家の屋敷の、…ホールであることを気付かせる。",
+              "translation": "......the world became wrapped in a deep blue sky, and then a deep blue ocean spread out below them. An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us. And it became adorned with more and more things, ......until we realized that this was the hall in the Ushiromiya mansion."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0055"
+            ],
+            "MG": [
+              "umi3_18-L0055"
+            ],
+            "UP": [
+              "umi3_18-L0055"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "屋敷の、ホールであることを気付かせる means it makes them realize it is the mansion’s hall.",
+      "alternative": "The world is newly forming, which can suggest a recreation, but the source states recognized identity rather than resemblance and purpose of manufacture.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-004",
+      "kind": "WH",
+      "description": "WH has Beelzebub leave food out of gratitude rather than condescending pity or mercy.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "character.relationship_power",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              93,
+              94
+            ],
+            "MG": [
+              93,
+              94
+            ],
+            "UP": [
+              93,
+              94
+            ]
+          },
+          "japanese": "「あんた光栄に思いなさいよね！！\n本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」",
+          "japanesePC": "「あんた光栄に思いなさいよね！！　本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」",
+          "japanesePS3": "「あんた光栄に思いなさいよね！！\n本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」",
+          "WH": "\"You should be honored!!  Normally, I would have eaten all of it, but I left you some out of gratitude!\"",
+          "MG": "\"You should be honored!!\nNormally, I would've eaten all of it, but I left you some out of gratitude!\"",
+          "UP": "\"You should be honored!!\nNormally, I would have eaten all of it, but I left you guys some out of pity!\"",
+          "note": "MG retains gratitude; UP restores condescending pity.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0093",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0093"
+            ],
+            "MG": [
+              "umi3_18-L0093"
+            ],
+            "UP": [
+              "umi3_18-L0093"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あんた光栄に思いなさいよね！！　本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」",
+              "translation": "\"You should be honored!! Normally, I would've eaten all of it, but I left you some out of gratitude!\" "
+            },
+            "UP": {
+              "japanese": "「あんた光栄に思いなさいよね！！　本当は私が全部食べるところを、お情けであんたらの分も残してあげてるんだからね！」",
+              "translation": "\"You should be honored!! Normally, I would have eaten all of it, but I left you guys some out of pity!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0093"
+            ],
+            "MG": [
+              "umi3_18-L0093"
+            ],
+            "UP": [
+              "umi3_18-L0093"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "お情けであんたらの分も残してあげてる portrays sparing their portions as a favor from her generosity, matching the demand that they feel honored.",
+      "alternative": "Both imply leaving a share for others, but gratitude reverses the direction of obligation and is not the meaning of お情け.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-005",
+      "kind": "WH",
+      "description": "WH says our Jessica cannot do such a thing, replacing Natsuhi’s refusal to give her daughter to a servant’s child.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.idiom_calque",
+        "character.agency_responsibility",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              125,
+              126
+            ],
+            "MG": [
+              125,
+              126
+            ],
+            "UP": [
+              125,
+              126
+            ]
+          },
+          "japanese": "「使用人の子となんて…！！\n駄目です、うちの朱志香をやれるわけありません…！！」",
+          "japanesePC": "「使用人の子となんて…！！　駄目です、うちの朱志香がやれるわけありません…！！」",
+          "japanesePS3": "「使用人の子となんて…！！\n駄目です、うちの朱志香をやれるわけありません…！！」",
+          "WH": "\"With a servant child...?!!  You can't, our Jessica cannot do such a thing...!!\"",
+          "MG": "\"With a servant child...?!!\nYou can't, our Jessica cannot do such a thing...!!\"",
+          "UP": "\"With a servant child...?!!\nI forbid it, I couldn't possibly give away our Jessica to such a person...!!\"",
+          "note": "MG makes Jessica unable to do it; UP restores Natsuhi refusing to give her away.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0125",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0125"
+            ],
+            "MG": [
+              "umi3_18-L0125"
+            ],
+            "UP": [
+              "umi3_18-L0125"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「使用人の子となんて…！！　駄目です、うちの朱志香をやれるわけありません…！！」",
+              "translation": "\"With a servant child...?!! You can't, our Jessica cannot do such a thing...!!\" "
+            },
+            "UP": {
+              "japanese": "「使用人の子となんて…！！　駄目です、うちの朱志香をやれるわけありません…！！」",
+              "translation": "\"With a servant child...?!! I forbid it, I couldn't possibly give away our Jessica to such a person...!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0125"
+            ],
+            "MG": [
+              "umi3_18-L0125"
+            ],
+            "UP": [
+              "umi3_18-L0125"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "うちの朱志香がやれるわけありません uses やる for giving the family’s daughter in marriage, as shown by the proposed pairing and Krauss’s reply about choosing a partner.",
+      "alternative": "Both versions oppose the relationship, but the English makes Jessica the one unable to do something and loses Natsuhi’s parental disposition of her daughter.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-006",
+      "kind": "WH",
+      "description": "WH reverses Kyrie’s judgment by saying the scene proves a parent can let go of their children.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.scope_quantifier_negation",
+        "character.relationship_power",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              136,
+              137
+            ],
+            "MG": [
+              136,
+              137
+            ],
+            "UP": [
+              136,
+              137
+            ]
+          },
+          "japanese": "「そうよ。\n親が子離れしてない証拠ね」",
+          "japanesePC": "「そうよ。親が子離れしてない証拠ね。」",
+          "japanesePS3": "「そうよ。\n親が子離れしてない証拠ね」",
+          "WH": "\"That's right.  It's proof that a parent can let go of their children.\"",
+          "MG": "\"That's right.\nIt's proof that a parent's too attached to their child.\"",
+          "UP": "\"Exactly.\nIt's proof the parent hasn't let go of their child.\"",
+          "note": "Both restore parental failure to let go.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0136",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0136"
+            ],
+            "MG": [
+              "umi3_18-L0136"
+            ],
+            "UP": [
+              "umi3_18-L0136"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうよ。親が子離れしてない証拠ね」",
+              "translation": "\"That's right. It's proof that a parent's too attached to their child.\" "
+            },
+            "UP": {
+              "japanese": "「そうよ。親が子離れしてない証拠ね」",
+              "translation": "\"Exactly. It's proof the parent hasn't let go of their child.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0136"
+            ],
+            "MG": [
+              "umi3_18-L0136"
+            ],
+            "UP": [
+              "umi3_18-L0136"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "親が子離れしてない証拠 explicitly says this is evidence that the parents have not separated emotionally from their children.",
+      "alternative": "Rosa endorses freedom immediately before it, but Kyrie’s observation refers to the clinging parents and retains a negative predicate in Japanese.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-007",
+      "kind": "WH",
+      "description": "WH says He’ll elope right away, instead of advising Battler to elope quickly with his partner rather than introduce her to Rudolf.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              140,
+              142
+            ],
+            "MG": [
+              140,
+              142
+            ],
+            "UP": [
+              140,
+              142
+            ]
+          },
+          "japanese": "「この人に紹介しちゃ駄目よ？\nすぐ手を出すから。\nとっとと駆け落ちしちゃうのよ」",
+          "japanesePC": "「この人に紹介しちゃ駄目よ？　すぐ手を出すから。とっとと駆け落ちしちゃうのよ。」",
+          "japanesePS3": "「この人に紹介しちゃ駄目よ？\nすぐ手を出すから。\nとっとと駆け落ちしちゃうのよ」",
+          "WH": "\"You can't introduce her to this guy, alright?  He'll get his hands on her immediately.  He'll elope right away.\"",
+          "MG": "\"Don't you dare introduce her to this man, okay?\nHe'll get his hands on her immediately.\nThey'll run off together right away.\"",
+          "UP": "\"You can't introduce her to this guy, you know?\nHe'll get his hands on her immediately.\nHe'll elope right away.\"",
+          "note": "Both predict another person eloping rather than advising Battler to elope.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_18-L0140",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0140"
+            ],
+            "MG": [
+              "umi3_18-L0140"
+            ],
+            "UP": [
+              "umi3_18-L0140"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「この人に紹介しちゃ駄目よ？　すぐ手を出すから。とっとと駆け落ちしちゃうのよ」",
+              "translation": "\"Don't you dare introduce her to this man, okay? He'll get his hands on her immediately. They'll run off together right away.\" "
+            },
+            "UP": {
+              "japanese": "「この人に紹介しちゃ駄目よ？　すぐ手を出すから。とっとと駆け落ちしちゃうのよ」",
+              "translation": "\"You can't introduce her to this guy, you know? He'll get his hands on her immediately. He'll elope right away.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0140"
+            ],
+            "MG": [
+              "umi3_18-L0140"
+            ],
+            "UP": [
+              "umi3_18-L0140"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "紹介しちゃ駄目よ and とっとと駆け落ちしちゃうのよ are successive instructions to the listener, with すぐ手を出すから giving the reason: this man will make advances.",
+      "alternative": "The warning makes a father running off with the girlfriend imaginable, but the final sentence is advice to the son, not a prediction about the father.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-008",
+      "kind": "WH",
+      "description": "WH has Battler and Beato turn their heads to see what is going on, instead of looking at each other in puzzlement before ascending.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              184,
+              185
+            ],
+            "MG": [
+              184,
+              185
+            ],
+            "UP": [
+              184,
+              185
+            ]
+          },
+          "japanese": "階段の踊り場の上に、祖父さまとワルギリアがいて、手招きをしている。\n俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。",
+          "japanesePC": "俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。",
+          "japanesePS3": "階段の踊り場の上に、祖父さまとワルギリアがいて、手招きをしている。\n俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。",
+          "WH": "After Beato and I turned our heads to see what was going on, we climbed the stairs together.",
+          "MG": "Grandfather and Virgilia were standing on the landing at the top of the staircase, beckoning to us.\nBeato and I turned our heads to see what was going on, then climbed the stairs together.",
+          "UP": "Grandfather and Virgilia were standing on the landing at the top of the staircase, beckoning us.\nBeato and I looked at each other quizzically, then climbed the stairs together.",
+          "note": "MG changes mutual puzzlement to looking toward the event; UP restores the exchanged look.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0184",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0184"
+            ],
+            "MG": [
+              "umi3_18-L0184"
+            ],
+            "UP": [
+              "umi3_18-L0184"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "階段の踊り場の上に、祖父さまとワルギリアがいて、手招きをしている。俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。そこは、ホールから見るとまるで、とても高いステージの上のようだった。そこには小さなテーブルが用意され、そこに羊皮紙と、古風な羽ペンが用意されていた。",
+              "translation": "Grandfather and Virgilia were standing on the landing at the top of the staircase, beckoning to us. Beato and I turned our heads to see what was going on, then climbed the stairs together. From the hall, it looked like a very high stage. A small table had been set up there, as well as a piece of parchment and an old-fashioned quill pen. "
+            },
+            "UP": {
+              "japanese": "階段の踊り場の上に、祖父さまとワルギリアがいて、手招きをしている。俺とベアトは何事かと顔を見合わせてから、二人で階段を登った。そこは、ホールから見るとまるで、とても高いステージの上のようだった。そこには小さなテーブルが用意され、そこに羊皮紙と、古風な羽ペンが用意されていた。",
+              "translation": "Grandfather and Virgilia were standing on the landing at the top of the staircase, beckoning us. Beato and I looked at each other quizzically, then climbed the stairs together. From the hall, it looked like a very high stage. A small table had been set up there, as well as a piece of parchment and an old‐fashioned quill pen."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0184"
+            ],
+            "MG": [
+              "umi3_18-L0184"
+            ],
+            "UP": [
+              "umi3_18-L0184"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "何事かと顔を見合わせて describes an exchanged glance between the two.",
+      "alternative": "Both versions show uncertainty and subsequent ascent, but the mutual glance is replaced by looking to inspect the event.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-009",
+      "kind": "WH",
+      "description": "WH says when you believed in the end the Golden Land was completed, whereas Beato explains that the last participant’s belief completes it.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "linguistic.logical_relation",
+        "world.world_layer",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              209,
+              211
+            ],
+            "MG": [
+              209,
+              211
+            ],
+            "UP": [
+              209,
+              211
+            ]
+          },
+          "japanese": "「魔法とは即ち、奇跡。\n……奇跡は全員が信じあわねば完成せぬ。\n……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ」",
+          "japanesePC": "「魔法とは即ち、奇跡。……奇跡は全員が信じあわねば完成せぬ。……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ。」",
+          "japanesePS3": "「魔法とは即ち、奇跡。\n……奇跡は全員が信じあわねば完成せぬ。\n……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ」",
+          "WH": "\"Magic is a miracle.  ......Miracles cannot be completed unless everyone believes.  ......And, when you believed in the end, this miracle, ...the Golden Land was completed.\"",
+          "MG": "\"Magic is a miracle.\n...Miracles cannot be made complete unless everyone believes.\n...And, when you believed in the end, this miracle, ...the Golden Land, was completed.\"",
+          "UP": "\"Magic is a miracle.\n......Miracles cannot be completed unless everyone believes.\n......And when you do, as the last to do so, this miracle—the Golden Land—will be completed.\"",
+          "note": "MG retains completed past belief; UP restores completion when the last participant believes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0209",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0209"
+            ],
+            "MG": [
+              "umi3_18-L0209"
+            ],
+            "UP": [
+              "umi3_18-L0209"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「魔法とは即ち、奇跡。……奇跡は全員が信じあわねば完成せぬ。……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ」",
+              "translation": "\"Magic is a miracle. ...Miracles cannot be made complete unless everyone believes. ...And, when you believed in the end, this miracle, ...the Golden Land, was completed.\" "
+            },
+            "UP": {
+              "japanese": "「魔法とは即ち、奇跡。……奇跡は全員が信じあわねば完成せぬ。……そして、最後のそなたが信じてくれることで、この奇跡は、…黄金郷は完成するのだ」",
+              "translation": "\"Magic is a miracle. ......Miracles cannot be completed unless everyone believes. ......And when you do, as the last to do so, this miracle—the Golden Land—will be completed.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0209"
+            ],
+            "MG": [
+              "umi3_18-L0209"
+            ],
+            "UP": [
+              "umi3_18-L0209"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "最後のそなたが信じてくれることで…完成する presents completion through his believing, not a completed past event.",
+      "alternative": "The Golden Land has visibly appeared, but signatures, oaths and the final invitation remain to be solicited; the Japanese makes a general or prospective completion claim rather than explicitly saying it already happened.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-010",
+      "kind": "WH",
+      "description": "WH says You are wriggling like a worm, rather than teasing that he should write his name in worm-like strokes.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.wrong_subject",
+        "character.irony_performance",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              218,
+              221
+            ],
+            "MG": [
+              218,
+              221
+            ],
+            "UP": [
+              218,
+              221
+            ]
+          },
+          "japanese": "「下手くそめ。\nインク弾きは縁起が悪いのだぞ。\n自分の名前くらいとっとと書け。\nミミズがのたくるようにな。",
+          "japanesePC": "「下手くそめ。インク弾きは縁起が悪いのだぞ。自分の名前くらいとっとと書け。ミミズがのたくるようにな。くっくくくくくくくくく…！」",
+          "japanesePS3": "「下手くそめ。\nインク弾きは縁起が悪いのだぞ。\n自分の名前くらいとっとと書け。\nミミズがのたくるようにな。",
+          "WH": "\"You klutz.  Shooting ink is a bad omen.  Can't you at least write your name quickly?  You are wriggling like a worm.  *cackle*cackle*cackle*cackle*cackle*...!\"",
+          "MG": "\"You klutz.\nShooting ink is a bad omen.\nCan't you at least write your name quickly?\nYour pen's wriggling all over the place like a worm.",
+          "UP": "\"You klutz.\nShooting ink is a bad omen.\nCan't you at least write your name quickly?\nIn that illegible scrawl.",
+          "note": "MG restores writing rather than bodily wriggling but turns the instruction into a present description; UP attaches scrawl to the imperative.",
+          "dispositions": {
+            "MG": "partly_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0218",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0218"
+            ],
+            "MG": [
+              "umi3_18-L0218"
+            ],
+            "UP": [
+              "umi3_18-L0218"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「下手くそめ。インク弾きは縁起が悪いのだぞ。自分の名前くらいとっとと書け。ミミズがのたくるようにな。くっくくくくくくくくく…！」",
+              "translation": "\"You klutz. Shooting ink is a bad omen. Can't you at least write your name quickly? Your pen's wriggling all over the place like a worm. *cackle*cackle*cackle*cackle*cackle*...!\" "
+            },
+            "UP": {
+              "japanese": "「下手くそめ。インク弾きは縁起が悪いのだぞ。自分の名前くらいとっとと書け。ミミズがのたくるようにな。くっくくくくくくくくく…！」",
+              "translation": "\"You klutz. Shooting ink is a bad omen. Can't you at least write your name quickly? In that illegible scrawl. *cackle*cackle*cackle*cackle*...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0218"
+            ],
+            "MG": [
+              "umi3_18-L0218"
+            ],
+            "UP": [
+              "umi3_18-L0218"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "自分の名前くらいとっとと書け。ミミズがのたくるようにな connects the worm simile to the written name or handwriting.",
+      "alternative": "The source gives an abbreviated teasing instruction, but the English supplies a present bodily action rather than keeping the simile attached to the signature.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-011",
+      "kind": "WH",
+      "description": "WH says they have gathered the signatures as well as the form for the covenant, instead of the signatures completing the document’s formal requirements.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.word_choice",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              229,
+              230
+            ],
+            "MG": [
+              229,
+              230
+            ],
+            "UP": [
+              229,
+              230
+            ]
+          },
+          "japanese": "「結構。\n二人のサインが揃い、誓約書の書式が揃いました。",
+          "japanesePC": "「結構。二人のサインが揃い、誓約書の書式が揃いました。……二人には宣誓を。まずはベアトリーチェから。誓約書に手を添え、誓約を。",
+          "japanesePS3": "「結構。\n二人のサインが揃い、誓約書の書式が揃いました。",
+          "WH": "\"Very well.  We have gathered the two signatures, as well as the form for the covenant.  ......Both of you, your oath please.  We'll start with Beatrice.  Put your hand on the covenant, and take the oath.",
+          "MG": "\"Very well.\nWe have gathered the two signatures, as well as the form for the covenant.",
+          "UP": "\"Very good.\nWe have gathered the two signatures, as well as the form for the covenant.",
+          "note": "Both add gathering a form separately rather than signatures completing the formal requirements.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_18-L0229",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0229"
+            ],
+            "MG": [
+              "umi3_18-L0229"
+            ],
+            "UP": [
+              "umi3_18-L0229"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「結構。二人のサインが揃い、誓約書の書式が揃いました。……二人には宣誓を。まずはベアトリーチェから。誓約書に手を添え、誓約を」",
+              "translation": "\"Very well. We have gathered the two signatures, as well as the form for the covenant. ...Both of you, your oath please. We'll start with Beatrice. Put your hand on the covenant and take the oath.\" "
+            },
+            "UP": {
+              "japanese": "「結構。二人のサインが揃い、誓約書の書式が揃いました。……二人には宣誓を。まずはベアトリーチェから。誓約書に手を添え、誓約を」",
+              "translation": "\"Very good. We have gathered the two signatures, as well as the form for the covenant. ......Both of you, your oath please. We'll start with Beatrice. Put your hand on the covenant, and take the oath.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0229"
+            ],
+            "MG": [
+              "umi3_18-L0229"
+            ],
+            "UP": [
+              "umi3_18-L0229"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "二人のサインが揃い、誓約書の書式が揃いました means both signatures are in place and the covenant is complete in form.",
+      "alternative": "Form can refer to a document or its formal arrangement, but as well as gathering the form treats it as an additional collected item, losing completion of the format.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-012",
+      "kind": "WH",
+      "description": "WH replaces the specified order to throw the newcomer out with the generic get her.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              289,
+              293
+            ],
+            "MG": [
+              289,
+              293
+            ],
+            "UP": [
+              289,
+              293
+            ]
+          },
+          "japanese": "「……なッ、……何だ貴様は？！\n何者だ？！\nどこから現れた？！\n妾のパーティーに招待状なき客は必要ない。\n家具ども、摘み出せッ！！」",
+          "japanesePC": "妾のパーティーに招待状なき客は必要ない。家具ども、摘み出せッ！！」",
+          "japanesePS3": "「……なッ、……何だ貴様は？！\n何者だ？！\nどこから現れた？！\n妾のパーティーに招待状なき客は必要ない。\n家具ども、摘み出せッ！！」",
+          "WH": "Those without invitations are not needed in my party.  Servants, get her!!\"",
+          "MG": "\"...Wh-Who are you?!\nWho is this?!\nWhere did you come from?!\nThose without invitations are not needed at my party.\nServants, kick her out!!\"",
+          "UP": "\"......Wh‐......who are you?!\nWho is this?!\nWhere did you come from?!\nThose without invitations are not needed in my party.\nServants, throw her out!!\"",
+          "note": "Both explicitly eject the uninvited guest.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0289",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0289"
+            ],
+            "MG": [
+              "umi3_18-L0289"
+            ],
+            "UP": [
+              "umi3_18-L0289"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……なッ、……何だ貴様は？！　何者だ？！　どこから現れた？！　妾のパーティーに招待状なき客は必要ない。家具ども、摘み出せッ！！」",
+              "translation": "\"...Wh-Who are you?! Who is this?! Where did you come from?! Those without invitations are not needed at my party. Servants, kick her out!!\" "
+            },
+            "UP": {
+              "japanese": "「……なッ、……何だ貴様は？！　何者だ？！　どこから現れた？！　妾のパーティーに招待状なき客は必要ない。家具ども、摘み出せッ！！」",
+              "translation": "\"......Wh‐......who are you?! Who is this?! Where did you come from?! Those without invitations are not needed in my party. Servants, throw her out!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0289"
+            ],
+            "MG": [
+              "umi3_18-L0289"
+            ],
+            "UP": [
+              "umi3_18-L0289"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "摘み出せ orders removal or ejection from the party, matching the claim that uninvited guests are unwanted.",
+      "alternative": "Get her conveys hostile intervention and the subsequent surround command survives, but leaves the intended outcome unstated.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-013",
+      "kind": "WH",
+      "description": "WH says the girl did not move at all where Japanese says she was not shaken at all.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              300,
+              301
+            ],
+            "MG": [
+              300,
+              301
+            ],
+            "UP": [
+              300,
+              301
+            ]
+          },
+          "japanese": "しかし女はまったく動じない。\n…それどころか、まったく気にもせず、相変わらず踊り場の俺たちを凝視している。",
+          "japanesePC": "しかし女はまったく動じない。",
+          "japanesePS3": "しかし女はまったく動じない。\n…それどころか、まったく気にもせず、相変わらず踊り場の俺たちを凝視している。",
+          "WH": "But the girl didn't move at all.",
+          "MG": "But the girl didn't move at all.\n...On the contrary, she was still staring at us on the landing, as though she didn't mind at all.",
+          "UP": "But the woman didn't move at all.\n...On the contrary, she was still staring at us on the landing, not paying them the slightest bit of attention.",
+          "note": "Both give physical immobility instead of being unfazed.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_18-L0300",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0300"
+            ],
+            "MG": [
+              "umi3_18-L0300"
+            ],
+            "UP": [
+              "umi3_18-L0300"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかし女はまったく動じない。…それどころか、まったく気にもせず、相変わらず踊り場の俺たちを凝視している。……誰を見ているんだ…？　ベアト？　祖父さま？…………まさか、……俺………？",
+              "translation": "But the girl didn't move at all. ...On the contrary, she was still staring at us on the landing, as though she didn't mind at all. ...Who is she looking at...? Beato? Grandfather? ......Could it be...me......? "
+            },
+            "UP": {
+              "japanese": "しかし女はまったく動じない。…それどころか、まったく気にもせず、相変わらず踊り場の俺たちを凝視している。……誰を見ているんだ…？　ベアト？　祖父さま？…………まさか、……俺………？",
+              "translation": "But the woman didn't move at all. ...On the contrary, she was still staring at us on the landing, not paying them the slightest bit of attention. ......Who is she looking at...? Beato? Grandfather? ............It couldn't be......me.........?"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0300"
+            ],
+            "MG": [
+              "umi3_18-L0300"
+            ],
+            "UP": [
+              "umi3_18-L0300"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "動じない describes remaining emotionally unperturbed by the encirclement and aimed bows.",
+      "alternative": "Not moving can imply composure, and the next sentence says she does not mind, but the first sentence introduces a physical stillness statement instead of the explicit emotional reaction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-014",
+      "kind": "WH",
+      "description": "WH locates the lifting grip at Battler’s nape rather than his collar.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              315,
+              319
+            ],
+            "MG": [
+              315,
+              319
+            ],
+            "UP": [
+              315,
+              319
+            ]
+          },
+          "japanese": "その時、俺の襟首がものすごい力で掴みあげられる。\n…な、何事…？！\nそして後に振り返させられると、\n……そこに、不気味な笑顔を浮かべたワルギリアと、そして屈強な山羊のバケモノたちの姿が…。\n俺は、身長が２ｍはありそうな山羊のバケモノの、丸太のように太い腕で掴み上げられている…！",
+          "japanesePC": "その時、俺の襟首がものすごい力で掴みあげられる。",
+          "japanesePS3": "その時、俺の襟首がものすごい力で掴みあげられる。\n…な、何事…？！\nそして後に振り返させられると、\n……そこに、不気味な笑顔を浮かべたワルギリアと、そして屈強な山羊のバケモノたちの姿が…。\n俺は、身長が２ｍはありそうな山羊のバケモノの、丸太のように太い腕で掴み上げられている…！",
+          "WH": "At that time, something incredibly strong lifted me by the nape of my neck.",
+          "MG": "At that time, something incredibly strong lifted me by the nape of my neck.\n...Wh-What's going on...?!\nAnd after being made to turn around behind me,\n...I saw Virgilia, with an eerie smile on her face, and the muscular forms of goat monsters...\nA goat monster that looked about 2 meters tall was grabbing me with an arm as thick as a log...!",
+          "UP": "Just then, something incredibly strong lifted me by the nape of my neck.\n...Wh‐what's going on...?!\nAnd after I was forced to turn around,\n......I saw Virgilia with an eerie smile on her face, and the muscular forms of goat monsters...\nA goat monster that looked like it was two meters tall was holding me up with an arm as thick as a log...!",
+          "note": "Both place the grip at the nape rather than the collar.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_18-L0315",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0315"
+            ],
+            "MG": [
+              "umi3_18-L0315"
+            ],
+            "UP": [
+              "umi3_18-L0315"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その時、俺の襟首がものすごい力で掴みあげられる。…な、何事…？！そして後に振り返させられると、……そこに、不気味な笑顔を浮かべたワルギリアと、そして屈強な山羊のバケモノたちの姿が…。俺は、身長が２ｍはありそうな山羊のバケモノの、丸太のように太い腕で掴み上げられている…！",
+              "translation": "At that time, something incredibly strong lifted me by the nape of my neck. ...Wh-What's going on...?! And after being made to turn around behind me, ...I saw Virgilia, with an eerie smile on her face, and the muscular forms of goat monsters... A goat monster that looked about 2 meters tall was grabbing me with an arm as thick as a log...! "
+            },
+            "UP": {
+              "japanese": "その時、俺の襟首がものすごい力で掴みあげられる。…な、何事…？！そして後に振り返させられると、……そこに、不気味な笑顔を浮かべたワルギリアと、そして屈強な山羊のバケモノたちの姿が…。俺は、身長が２ｍはありそうな山羊のバケモノの、丸太のように太い腕で掴み上げられている…！",
+              "translation": "Just then, something incredibly strong lifted me by the nape of my neck. ...Wh‐what's going on...?! And after I was forced to turn around, ......I saw Virgilia with an eerie smile on her face, and the muscular forms of goat monsters... A goat monster that looked like it was two meters tall was holding me up with an arm as thick as a log...!"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0315"
+            ],
+            "MG": [
+              "umi3_18-L0315"
+            ],
+            "UP": [
+              "umi3_18-L0315"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "襟首 refers here to the neck of the garment or collar gripped to lift him; subsequent narration identifies the goat’s arm and his feet off the floor.",
+      "alternative": "A collar is at the back of the neck and English readers may picture a similar lift, but nape identifies the body part rather than the clothing.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-015",
+      "kind": "WH",
+      "description": "WH calls the chandelier electrocuted rather than electrically charged.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.word_choice",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              352,
+              354
+            ],
+            "MG": [
+              352,
+              354
+            ],
+            "UP": [
+              352,
+              354
+            ]
+          },
+          "japanese": "ベアトが黄金の煙管を振り上げると、\nホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！\nそれは、真下の女に直撃し、消し炭にしてしまうはずだった。",
+          "japanesePC": "ベアトが黄金の煙管を振り上げると、ホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！",
+          "japanesePS3": "ベアトが黄金の煙管を振り上げると、\nホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！\nそれは、真下の女に直撃し、消し炭にしてしまうはずだった。",
+          "WH": "As Beato waved her gold pipe, the massive chandelier hanging in the hall was electrocuted, and from that, a terrible purple thunderbolt fell...!",
+          "MG": "As Beato waved her gold pipe,\nthe massive chandelier hanging in the hall was electrocuted, and from that, a terrible purple thunderbolt fell...!\nIt should have been a direct hit on the girl right below it, turning her to ash.",
+          "UP": "Beato raised her gold pipe high,\nand the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...!\nIt was a direct hit on the woman right below it, and should have turned her to ash.",
+          "note": "MG retains electrocuted; UP restores electrical charging.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0352",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0352"
+            ],
+            "MG": [
+              "umi3_18-L0352"
+            ],
+            "UP": [
+              "umi3_18-L0352"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベアトが黄金の煙管を振り上げると、ホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！それは、真下の女に直撃し、消し炭にしてしまうはずだった。しかし、……髪の毛一本、焦がせていない。",
+              "translation": "As Beato waved her gold pipe, the massive chandelier hanging in the hall was electrocuted, and from that, a terrible purple thunderbolt fell...! It should have been a direct hit on the girl right below it, turning her to ash. However, ...not a single hair was singed. "
+            },
+            "UP": {
+              "japanese": "ベアトが黄金の煙管を振り上げると、ホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！それは、真下の女に直撃し、消し炭にしてしまうはずだった。しかし、……髪の毛一本、焦がせていない。",
+              "translation": "Beato raised her gold pipe high, and the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...! It was a direct hit on the woman right below it, and should have turned her to ash. However, ......not a single hair was singed."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0352"
+            ],
+            "MG": [
+              "umi3_18-L0352"
+            ],
+            "UP": [
+              "umi3_18-L0352"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "帯電 describes accumulating an electrical charge before the lightning discharge.",
+      "alternative": "Electrocuted is sometimes used loosely for shocked, but still describes injury by electricity rather than the source’s charge buildup in an object.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-016",
+      "kind": "WH",
+      "description": "WH says it was worth having the newcomer show up uninvited, rather than acknowledging that her capacity explains her daring intrusion.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.viewpoint_attribution",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              356,
+              358
+            ],
+            "MG": [
+              356,
+              358
+            ],
+            "UP": [
+              356,
+              358
+            ]
+          },
+          "japanese": "「ほぉ…！！\n飛び入りするだけのことはある…！！\n聞こう！　名を名乗れ！！」",
+          "japanesePC": "「ほぉ…！！　飛び入りするだけのことはある…！！　聞こう！　名を名乗れ！！」",
+          "japanesePS3": "「ほぉ…！！\n飛び入りするだけのことはある…！！\n聞こう！　名を名乗れ！！」",
+          "WH": "\"Hoh...!!  So it was worth having you show up uninvited...!!  Tell me!  Say your name!!\"",
+          "MG": "\"Hoh...!!\nSo, your sudden appearance here wasn't just a fluke...!!\nTell me! State your name!!\"",
+          "UP": "\"Hoh...!!\nI see you have what it takes to show up uninvited...!!\nTell me! Say your name!!\"",
+          "note": "MG’s not just a fluke reasonably acknowledges the capacity explaining the intrusion; UP states that capacity explicitly.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0356",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0356"
+            ],
+            "MG": [
+              "umi3_18-L0356"
+            ],
+            "UP": [
+              "umi3_18-L0356"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ほぉ…！！　飛び入りするだけのことはある…！！　聞こう！　名を名乗れ！！」",
+              "translation": "\"Hoh...!! So, your sudden appearance here wasn't just a fluke...!! Tell me! State your name!!\" "
+            },
+            "UP": {
+              "japanese": "「ほぉ…！！　飛び入りするだけのことはある…！！　聞こう！　名を名乗れ！！」",
+              "translation": "\"Hoh...!! I see you have what it takes to show up uninvited...!! Tell me! Say your name!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0356"
+            ],
+            "MG": [
+              "umi3_18-L0356"
+            ],
+            "UP": [
+              "umi3_18-L0356"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "飛び入りするだけのことはある appraises the newcomer as having the ability befitting or justifying her uninvited entry, after surviving lightning.",
+      "alternative": "Both convey impressed acknowledgment, but worth having you show up evaluates benefit to the host rather than the newcomer’s qualifications.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-017",
+      "kind": "WH",
+      "description": "WH renders 何でも as No matter what, replacing a hearsay introduction with an unconditional qualifier.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.epistemic_status",
+        "character.knowledge_boundary",
+        "world.culture_history"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              378,
+              378
+            ],
+            "MG": [
+              378,
+              378
+            ],
+            "UP": [
+              378,
+              378
+            ]
+          },
+          "japanese": "「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？」",
+          "japanesePC": "何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？",
+          "japanesePS3": "「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？」",
+          "WH": "No matter what, after acting bad-tempered and exploring the depths of cruelty, by acting properly incompetent and soft, you get a massive rise on that goodwill meter thing, ri-ght?",
+          "MG": "\"Apparently, if you start out all hostile and needlessly brutal, then turn incompetent and soft at just the right moment, you can spark a huge bump on your affection meter, riiight?\"",
+          "UP": "\"I hear, after acting {ruby:tsuntsun:bad‐tempered and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft, you can get a massive rise on that goodwill meter thing, riiight?\"",
+          "note": "MG Apparently and UP I hear restore hearsay.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_18-L0378",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0378"
+            ],
+            "MG": [
+              "umi3_18-L0378"
+            ],
+            "UP": [
+              "umi3_18-L0378"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？」",
+              "translation": "\"Apparently, if you start out all hostile and needlessly brutal, then turn incompetent and soft at just the right moment, you can spark a huge bump on your affection meter, riiight?\" "
+            },
+            "UP": {
+              "japanese": "「何でも、ツンツンと残虐を尽くした後に程よくヘタれてデレて見せると、好感度ってヤツが大幅アップするんだろー？」",
+              "translation": "\"I hear, after acting {ruby:tsuntsun:bad‐tempered and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft, you can get a massive rise on that goodwill meter thing, riiight?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0378"
+            ],
+            "MG": [
+              "umi3_18-L0378"
+            ],
+            "UP": [
+              "umi3_18-L0378"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "何でも here introduces something reportedly learned about acting harsh then weak and affectionate to increase favorable impressions, consistent with the following heard/studied references.",
+      "alternative": "The same strategy remains described and later hearing survives, but no matter what supplies an unsupported unconditional scope instead of apparently or from what I hear.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-018",
+      "kind": "WH",
+      "description": "WH gives the literal quoted tears please rather than the sentimental tearjerker appeal that made Battler fall for it.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "linguistic.undertranslation",
+        "character.irony_performance",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              381,
+              381
+            ],
+            "MG": [
+              381,
+              381
+            ],
+            "UP": [
+              381,
+              381
+            ]
+          },
+          "japanese": "「そうしたらお前、案の定、お涙頂戴でコロリだよ！！」",
+          "japanesePC": "そうしたらお前、案の定、お涙頂戴でコロリだよ！！",
+          "japanesePS3": "「そうしたらお前、案の定、お涙頂戴でコロリだよ！！」",
+          "WH": "And for you, just as expected, it was 'tears please', and you're down!!",
+          "MG": "\"And for you, just as expected, it was \"tears please\", and you're down!!",
+          "UP": "\"And I tried it out, and just as expected, it was \"tears please\", and you're down!!\"",
+          "note": "Both retain tears please rather than the sentimental tearjerker appeal.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_18-L0381",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0381"
+            ],
+            "MG": [
+              "umi3_18-L0381"
+            ],
+            "UP": [
+              "umi3_18-L0381"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうしたらお前、案の定、お涙頂戴でコロリだよ！！」",
+              "translation": "\"And for you, just as expected, it was \"tears please\", and you're down!! "
+            },
+            "UP": {
+              "japanese": "「そうしたらお前、案の定、お涙頂戴でコロリだよ！！」",
+              "translation": "\"And I tried it out, and just as expected, it was \"tears please\", and you're down!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0381"
+            ],
+            "MG": [
+              "umi3_18-L0381"
+            ],
+            "UP": [
+              "umi3_18-L0381"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "お涙頂戴 names a contrived sentimental appeal or tearjerker, paired with コロリ describing his being taken in.",
+      "alternative": "Earlier sentimentality and the named strategy supply context, but the literal phrase obscures the mechanism explicitly named in the sentence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH18-019",
+      "kind": "WH",
+      "description": "WH has the newcomer thank Beato for bringing everyone together rather than for letting her meet everyone like this.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.wrong_subject",
+        "character.relationship_power",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              442,
+              445
+            ],
+            "MG": [
+              442,
+              445
+            ],
+            "UP": [
+              442,
+              445
+            ]
+          },
+          "japanese": "「えぇ、わかってるわ。\n誰があんたなんかと遊ぶものですか。\n……でも少しだけ感謝するわ。\n……こうして、みんなに会わせてくれて」",
+          "japanesePC": "……でも少しだけ感謝するわ。……こうして、みんなに会わせてくれて。」",
+          "japanesePS3": "「えぇ、わかってるわ。\n誰があんたなんかと遊ぶものですか。\n……でも少しだけ感謝するわ。\n……こうして、みんなに会わせてくれて」",
+          "WH": "......But I will thank you a bit.  ......For bringing everyone together like this.\"",
+          "MG": "\"Yes, I understand.\nWho would ever play with someone like you?\n...But I will thank you just a little.\n...For letting me meet everyone like this.\"",
+          "UP": "\"Yes, I'm aware of that.\nWho would ever play with someone like you?\n......But I will thank you a bit.\n......For bringing everyone together like this.\"",
+          "note": "MG restores letting the newcomer meet everyone; UP retains bringing everyone together.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_18-L0442",
+          "readerRefs": {
+            "WH": [
+              "umi3_18-L0442"
+            ],
+            "MG": [
+              "umi3_18-L0442"
+            ],
+            "UP": [
+              "umi3_18-L0442"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「えぇ、わかってるわ。誰があんたなんかと遊ぶものですか。……でも少しだけ感謝するわ。……こうして、みんなに会わせてくれて」",
+              "translation": "\"Yes, I understand. Who would ever play with someone like you? ...But I will thank you just a little. ...For letting me meet everyone like this.\" "
+            },
+            "UP": {
+              "japanese": "「えぇ、わかってるわ。誰があんたなんかと遊ぶものですか。……でも少しだけ感謝するわ。……こうして、みんなに会わせてくれて」",
+              "translation": "\"Yes, I'm aware of that. Who would ever play with someone like you? ......But I will thank you a bit. ......For bringing everyone together like this.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_18-L0442"
+            ],
+            "MG": [
+              "umi3_18-L0442"
+            ],
+            "UP": [
+              "umi3_18-L0442"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "みんなに会わせてくれて refers to causing or allowing the speaker to meet the others, continuing her envy and desire to join them.",
+      "alternative": "A reunion requires bringing people together, but the English removes her personal encounter as the reason for gratitude.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH18-241-360-001",
+      "kind": "additional",
+      "description": "UP asserts that the lightning was a direct hit, whereas Japanese places the direct hit and reduction to ash under expectation.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              354,
+              355
+            ],
+            "MG": [
+              354,
+              355
+            ],
+            "UP": [
+              354,
+              355
+            ]
+          },
+          "japanese": "それは、真下の女に直撃し、消し炭にしてしまうはずだった。\nしかし、……髪の毛一本、焦がせていない。",
+          "japanesePC": "",
+          "japanesePS3": "それは、真下の女に直撃し、消し炭にしてしまうはずだった。\nしかし、……髪の毛一本、焦がせていない。",
+          "WH": "",
+          "MG": "It should have been a direct hit on the girl right below it, turning her to ash.\nHowever, ...not a single hair was singed.",
+          "UP": "It was a direct hit on the woman right below it, and should have turned her to ash.\nHowever, ......not a single hair was singed.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi3_18-L0352",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_18-L0352"
+            ],
+            "UP": [
+              "umi3_18-L0352"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベアトが黄金の煙管を振り上げると、ホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！それは、真下の女に直撃し、消し炭にしてしまうはずだった。しかし、……髪の毛一本、焦がせていない。",
+              "translation": "As Beato waved her gold pipe, the massive chandelier hanging in the hall was electrocuted, and from that, a terrible purple thunderbolt fell...! It should have been a direct hit on the girl right below it, turning her to ash. However, ...not a single hair was singed. "
+            },
+            "UP": {
+              "japanese": "ベアトが黄金の煙管を振り上げると、ホールの天上の巨大なシャンデリアがバリバリと帯電して、そこから凄まじい紫の落雷が落ちる…！それは、真下の女に直撃し、消し炭にしてしまうはずだった。しかし、……髪の毛一本、焦がせていない。",
+              "translation": "Beato raised her gold pipe high, and the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...! It was a direct hit on the woman right below it, and should have turned her to ash. However, ......not a single hair was singed."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_18-L0352"
+            ],
+            "UP": [
+              "umi3_18-L0352"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The strike should have hit the woman directly and reduced her to ash, yet not even a hair was singed.",
+      "alternative": "The visible strike may suggest contact, but the next sentence confirms only absence of injury. Japanese hazu datta scopes both coordinated actions; MG and original WH PC135853 retain should have been a direct hit.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH18-361-464-001",
+      "kind": "additional",
+      "description": "MG substitutes an icicle for needle ice and separates truth from the explicitly identified spring in the closing metaphor.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_18",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              462,
+              462
+            ],
+            "MG": [
+              462,
+              462
+            ],
+            "UP": [
+              462,
+              462
+            ]
+          },
+          "japanese": "「あんたなんて、真実という春に怯える霜柱でしかないことを教えてやるッ！",
+          "japanesePC": "",
+          "japanesePS3": "「あんたなんて、真実という春に怯える霜柱でしかないことを教えてやるッ！",
+          "WH": "",
+          "MG": "\"I'll show you that before the truth, you're like an icicle scared of the coming spring!",
+          "UP": "\"I'll teach you that you're no more than needle ice, scared of the spring of truth!",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_18-L0462",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_18-L0462"
+            ],
+            "UP": [
+              "umi3_18-L0462"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あんたなんて、真実という春に怯える霜柱でしかないことを教えてやるッ！　覚悟なさい、黄金の魔女ッ！　ベアトリーチェ！！！」",
+              "translation": "\"I'll show you that before the truth, you're like an icicle scared of the coming spring! Prepare yourself, Golden Witch! Beatrice!!!\" "
+            },
+            "UP": {
+              "japanese": "「あんたなんて、真実という春に怯える霜柱でしかないことを教えてやるッ！　覚悟なさい、黄金の魔女ッ！　ベアトリーチェ！！！」",
+              "translation": "\"I'll teach you that you're no more than needle ice, scared of the spring of truth! Prepare yourself, Golden Witch! Beatrice!!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_18-L0462"
+            ],
+            "UP": [
+              "umi3_18-L0462"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She is only needle ice afraid of the spring that is truth.",
+      "alternative": "Both ice forms melt in spring, retaining the broad threat, but the ground-grown ice image and identification of truth with spring change. Original PC Japanese136205 and WH136206 preserve the source image; UP restores needle ice and spring of truth.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP03-CH18-001": {
+      "umi3_18-L0014": {
+        "WH": [
+          "So, I will definitely"
+        ]
+      }
+    },
+    "WH-EP03-CH18-002": {
+      "umi3_18-L0030": {
+        "WH": [
+          "You even denied yourself"
+        ]
+      }
+    },
+    "WH-EP03-CH18-003": {
+      "umi3_18-L0055": {
+        "WH": [
+          "made to be like the hall"
+        ],
+        "MG": [
+          "made to be like the hall"
+        ]
+      }
+    },
+    "WH-EP03-CH18-004": {
+      "umi3_18-L0093": {
+        "WH": [
+          "out of gratitude"
+        ],
+        "MG": [
+          "out of gratitude"
+        ]
+      }
+    },
+    "WH-EP03-CH18-005": {
+      "umi3_18-L0125": {
+        "WH": [
+          "our Jessica cannot do such a thing"
+        ],
+        "MG": [
+          "our Jessica cannot do such a thing"
+        ]
+      }
+    },
+    "WH-EP03-CH18-006": {
+      "umi3_18-L0136": {
+        "WH": [
+          "a parent can let go of their children"
+        ]
+      }
+    },
+    "WH-EP03-CH18-007": {
+      "umi3_18-L0140": {
+        "WH": [
+          "He'll elope right away"
+        ],
+        "MG": [
+          "They'll run off together right away"
+        ],
+        "UP": [
+          "He'll elope right away"
+        ]
+      }
+    },
+    "WH-EP03-CH18-008": {
+      "umi3_18-L0184": {
+        "WH": [
+          "Beato and I turned our heads to see what was going on"
+        ],
+        "MG": [
+          "Beato and I turned our heads to see what was going on"
+        ]
+      }
+    },
+    "WH-EP03-CH18-009": {
+      "umi3_18-L0209": {
+        "WH": [
+          "when you believed in the end, this miracle, ...the Golden Land was completed"
+        ],
+        "MG": [
+          "when you believed in the end, this miracle, ...the Golden Land, was completed"
+        ]
+      }
+    },
+    "WH-EP03-CH18-010": {
+      "umi3_18-L0218": {
+        "WH": [
+          "You are wriggling like a worm"
+        ],
+        "MG": [
+          "Your pen's wriggling all over the place like a worm"
+        ]
+      }
+    },
+    "WH-EP03-CH18-011": {
+      "umi3_18-L0229": {
+        "WH": [
+          "We have gathered the two signatures, as well as the form for the covenant"
+        ],
+        "MG": [
+          "We have gathered the two signatures, as well as the form for the covenant"
+        ],
+        "UP": [
+          "We have gathered the two signatures, as well as the form for the covenant"
+        ]
+      }
+    },
+    "WH-EP03-CH18-012": {
+      "umi3_18-L0289": {
+        "WH": [
+          "get her"
+        ]
+      }
+    },
+    "WH-EP03-CH18-013": {
+      "umi3_18-L0300": {
+        "WH": [
+          "the girl didn't move at all"
+        ],
+        "MG": [
+          "the girl didn't move at all"
+        ],
+        "UP": [
+          "the woman didn't move at all"
+        ]
+      }
+    },
+    "WH-EP03-CH18-014": {
+      "umi3_18-L0315": {
+        "WH": [
+          "by the nape of my neck"
+        ],
+        "MG": [
+          "by the nape of my neck"
+        ],
+        "UP": [
+          "by the nape of my neck"
+        ]
+      }
+    },
+    "WH-EP03-CH18-015": {
+      "umi3_18-L0352": {
+        "WH": [
+          "was electrocuted"
+        ],
+        "MG": [
+          "was electrocuted"
+        ]
+      }
+    },
+    "WH-EP03-CH18-016": {
+      "umi3_18-L0356": {
+        "WH": [
+          "it was worth having you show up uninvited"
+        ]
+      }
+    },
+    "WH-EP03-CH18-017": {
+      "umi3_18-L0378": {
+        "WH": [
+          "No matter what"
+        ]
+      }
+    },
+    "WH-EP03-CH18-018": {
+      "umi3_18-L0381": {
+        "WH": [
+          "'tears please'"
+        ],
+        "MG": [
+          "\"tears please\""
+        ],
+        "UP": [
+          "\"tears please\""
+        ]
+      }
+    },
+    "WH-EP03-CH18-019": {
+      "umi3_18-L0442": {
+        "WH": [
+          "For bringing everyone together like this"
+        ],
+        "UP": [
+          "For bringing everyone together like this"
+        ]
+      }
+    },
+    "PAIR-EP03-CH18-241-360-001": {
+      "umi3_18-L0352": {
+        "UP": [
+          "It was a direct hit"
+        ]
+      }
+    },
+    "PAIR-EP03-CH18-361-464-001": {
+      "umi3_18-L0462": {
+        "MG": [
+          "an icicle scared of the coming spring"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

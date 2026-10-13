@@ -1,1 +1,190 @@
-{"findings":[{"id":"WH-EP08-OPEN-001","kind":"WH","description":"A story that may feel like more than listening becomes one she cannot feel through hearing","categories":["linguistic.logical_relation","character.knowledge_boundary","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi8_op","episode":8,"rows":{"JP":[43,43],"MG":[43,43],"UP":[43,43]},"japanese":"……でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない」","japanesePC":"「聞かせるとも。話して、縁寿に、聞かせる。......でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない。」","japanesePS3":"……でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない」","WH":"\"Oh, I will.  I'll tell the story and let you listen.  ......However, it might be the kind of thing you can't really feel if you just hear about it from someone else.\"","MG":"...However, to you, it may not feel as though you're merely listening to a story.\"","UP":"......However, it might be the kind of thing you can't really feel if you just hear about it from someone else.\"","note":"Complete continuous source-first reading. Independent canonical outcomes, no new firm findings or proven yellow material. Both90 typhoon antecedent held given98 already mentions passing typhoon. Both164 bodily flinch plausible with165 fear. Source-bound hypothetical future demand138 correctly restored in both releases.","dispositions":{"MG":"corrected_in_context","UP":"retained"},"readerRef":"umi8_op-L0041","readerRefs":{"WH":["umi8_op-L0041"],"MG":["umi8_op-L0041"],"UP":["umi8_op-L0041"]}}],"sourceReading":"Battler will tell Ange, but she may not feel as though she is merely listening to a story: the coming experience may exceed ordinary listening. The negation modifies the experience being only listening, not her ability to feel the story.","alternative":"The English can introduce a reason to experience the island personally rather than just hear an account, consistent with what follows. However, it replaces Battler prediction of immersive storytelling with a claim that secondhand hearing cannot convey the feeling, reversing the local relation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-OPEN-002","kind":"WH","description":"A feared demand to be satisfied becomes her already accepting the two days","categories":["linguistic.logical_relation","character.agency_responsibility","character.motivation_emotion"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_op","episode":8,"rows":{"JP":[138,138],"MG":[138,138],"UP":[138,138]},"japanese":"……奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、","japanesePC":"......奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、......兄がそんなことを言い出しはしないかと、彼女は怯えていた。","japanesePS3":"……奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、","WH":"......She was afraid that, once she got her two miraculous days and accepted them, ...her brother might tell her to return to 12 years in the future all alone.","MG":"...She was afraid that, once she got her two miraculous days,","UP":"......She was afraid that, once she got her two miraculous days,","note":"Complete continuous source-first reading. Independent canonical outcomes, no new firm findings or proven yellow material. Both90 typhoon antecedent held given98 already mentions passing typhoon. Both164 bodily flinch plausible with165 fear. Source-bound hypothetical future demand138 correctly restored in both releases.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi8_op-L0136","readerRefs":{"WH":["umi8_op-L0136"],"MG":["umi8_op-L0136"],"UP":["umi8_op-L0136"]}}],"sourceReading":"She fears her brother might say: having received two miraculous days, be satisfied with that and return alone to the future. 納得し belongs inside the feared instruction completed by 帰れと.","alternative":"Once she got the days and accepted them could loosely compress the feared scenario, and his return instruction remains. It nevertheless presents acceptance as something she has already done before his demand, rather than another part of what she fears he will require.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP08-OPEN-001",
+      "kind": "WH",
+      "description": "A story that may feel like more than listening becomes one she cannot feel through hearing",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.knowledge_boundary",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_op",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              43,
+              43
+            ],
+            "MG": [
+              43,
+              43
+            ],
+            "UP": [
+              43,
+              43
+            ]
+          },
+          "japanese": "……でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない」",
+          "japanesePC": "「聞かせるとも。話して、縁寿に、聞かせる。......でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない。」",
+          "japanesePS3": "……でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない」",
+          "WH": "\"Oh, I will.  I'll tell the story and let you listen.  ......However, it might be the kind of thing you can't really feel if you just hear about it from someone else.\"",
+          "MG": "...However, to you, it may not feel as though you're merely listening to a story.\"",
+          "UP": "......However, it might be the kind of thing you can't really feel if you just hear about it from someone else.\"",
+          "note": "Complete continuous source-first reading. Independent canonical outcomes, no new firm findings or proven yellow material. Both90 typhoon antecedent held given98 already mentions passing typhoon. Both164 bodily flinch plausible with165 fear. Source-bound hypothetical future demand138 correctly restored in both releases.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_op-L0041",
+          "readerRefs": {
+            "WH": [
+              "umi8_op-L0041"
+            ],
+            "MG": [
+              "umi8_op-L0041"
+            ],
+            "UP": [
+              "umi8_op-L0041"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「聞かせるとも。話して、縁寿に、聞かせる。……でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない」",
+              "translation": "\"Absolutely. And you'll be given the chance to listen. ...However, to you, it may not feel as though you're merely listening to a story.\" "
+            },
+            "UP": {
+              "japanese": "「聞かせるとも。話して、縁寿に、聞かせる。……でもそれは、縁寿にはただ話を聞いているだけには、感じられないかもしれない」",
+              "translation": "\"Oh, I will. I'll tell the story and let you listen. ......However, it might be the kind of thing you can't really feel if you just hear about it from someone else.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_op-L0041"
+            ],
+            "MG": [
+              "umi8_op-L0041"
+            ],
+            "UP": [
+              "umi8_op-L0041"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler will tell Ange, but she may not feel as though she is merely listening to a story: the coming experience may exceed ordinary listening. The negation modifies the experience being only listening, not her ability to feel the story.",
+      "alternative": "The English can introduce a reason to experience the island personally rather than just hear an account, consistent with what follows. However, it replaces Battler prediction of immersive storytelling with a claim that secondhand hearing cannot convey the feeling, reversing the local relation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-OPEN-002",
+      "kind": "WH",
+      "description": "A feared demand to be satisfied becomes her already accepting the two days",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.agency_responsibility",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_op",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              138,
+              138
+            ],
+            "MG": [
+              138,
+              138
+            ],
+            "UP": [
+              138,
+              138
+            ]
+          },
+          "japanese": "……奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、",
+          "japanesePC": "......奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、......兄がそんなことを言い出しはしないかと、彼女は怯えていた。",
+          "japanesePS3": "……奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、",
+          "WH": "......She was afraid that, once she got her two miraculous days and accepted them, ...her brother might tell her to return to 12 years in the future all alone.",
+          "MG": "...She was afraid that, once she got her two miraculous days,",
+          "UP": "......She was afraid that, once she got her two miraculous days,",
+          "note": "Complete continuous source-first reading. Independent canonical outcomes, no new firm findings or proven yellow material. Both90 typhoon antecedent held given98 already mentions passing typhoon. Both164 bodily flinch plausible with165 fear. Source-bound hypothetical future demand138 correctly restored in both releases.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_op-L0136",
+          "readerRefs": {
+            "WH": [
+              "umi8_op-L0136"
+            ],
+            "MG": [
+              "umi8_op-L0136"
+            ],
+            "UP": [
+              "umi8_op-L0136"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "縁寿は何となく、兄を疑い、怯えていた。彼女の希望は、あの日のあの島に、永遠に留まり、家族といつまでも一緒にいること。……奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、……兄がそんなことを言い出しはしないかと、彼女は怯えていた。",
+              "translation": "For some reason, Ange was suspicious of her brother...and scared of him. Her wish was to remain on that island on that day, together with her family, forever. ...She was afraid that, once she got her two miraculous days, ...her brother might tell her to be satisfied with that and return to 12 years in the future all alone. "
+            },
+            "UP": {
+              "japanese": "縁寿は何となく、兄を疑い、怯えていた。彼女の希望は、あの日のあの島に、永遠に留まり、家族といつまでも一緒にいること。……奇跡の二日間を得たなら、それに納得し、１２年後の未来にひとりで帰れと、……兄がそんなことを言い出しはしないかと、彼女は怯えていた。",
+              "translation": "For some reason, Ange was suspicious of her brother...and scared of him. Her wish was to remain on that island on that day, together with her family, forever. ......She was afraid that, once she got her two miraculous days, ......her brother might tell her to be satisfied with those, and ask her to return to twelve years in the future all alone."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_op-L0136"
+            ],
+            "MG": [
+              "umi8_op-L0136"
+            ],
+            "UP": [
+              "umi8_op-L0136"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She fears her brother might say: having received two miraculous days, be satisfied with that and return alone to the future. 納得し belongs inside the feared instruction completed by 帰れと.",
+      "alternative": "Once she got the days and accepted them could loosely compress the feared scenario, and his return instruction remains. It nevertheless presents acceptance as something she has already done before his demand, rather than another part of what she fears he will require.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP08-OPEN-001": {
+      "umi8_op-L0041": {
+        "WH": [
+          "you can't really feel if you just hear about it from someone else"
+        ],
+        "UP": [
+          "you can't really feel if you just hear about it from someone else"
+        ]
+      }
+    },
+    "WH-EP08-OPEN-002": {
+      "umi8_op-L0136": {
+        "WH": [
+          "once she got her two miraculous days and accepted them"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

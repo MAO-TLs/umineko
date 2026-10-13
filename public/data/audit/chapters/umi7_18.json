@@ -1,1 +1,957 @@
-{"findings":[{"id":"WH-EP07-CH18-001","kind":"WH","description":"The decision to entrust becomes abandoning everything","categories":["linguistic.mistranslation","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[23,30],"MG":[23,30],"UP":[23,30]},"japanese":"「私は、\n……委ねる、決断をしました」\n「………委ねる……」\n「先代当主より全てを受け継いだ儀式の時のように。\n……私もまた、奇跡という名の運命に身を委ねることを選びました」\nルーレットに、身を委ねたといった方が、正しいかもしれない。\n私は、私たちは、……自分たちの運命さえ決められなくて。\n全てを運命に託したのです。","japanesePC":"「私は、......委ねる、決断をしました。」\n「.........委ねる......。」","japanesePS3":"「私は、\n……委ねる、決断をしました」\n「………委ねる……」\n「先代当主より全てを受け継いだ儀式の時のように。\n……私もまた、奇跡という名の運命に身を委ねることを選びました」\nルーレットに、身を委ねたといった方が、正しいかもしれない。\n私は、私たちは、……自分たちの運命さえ決められなくて。\n全てを運命に託したのです。","WH":"\"I decided......to abandon everything.\"\n\"......Abandon......\"","MG":"\"I decided...\n...to abandon control over everything.\"\n\"...Abandon control...\"\n\"Like the ceremony in which I inherited everything from the previous Head,\n...I decided to abandon myself to the fate known as a miracle.\"\nIt may be more accurate to say that I abandoned myself to the choice of the roulette.\nI...we...could not even decide our own fate,\nso we let fate decide everything for us.","UP":"\"I decided...\n...to delegate my fate.\"\n\".........Delegate it......\"\n\"Like the ritual by which I inherited everything from the previous head,\n......I decided to put myself in the hands of that fate called a miracle.\"\nIt may be more accurate to say that I entrusted my fate to a spin of the roulette.\nI—we—could not even decide our own fate,\nso we let fate decide everything for us.","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi7_18-L0023","readerRefs":{"WH":["umi7_18-L0023","umi7_18-L0025"],"MG":["umi7_18-L0023","umi7_18-L0025","umi7_18-L0026","umi7_18-L0028"],"UP":["umi7_18-L0023","umi7_18-L0025","umi7_18-L0026","umi7_18-L0028"]}}],"sourceReading":"Clair decided to entrust, echoed by Lion. She entrusts herself to fate/roulette, while the narrator explicitly distinguishes this from abandoning her own fate because she approaches it with absolute will.","alternative":"Abandon oneself to something can validly mean surrender or entrust oneself, so the later abandon myself to fate phrases are not independently errors. Bare abandon everything and Lion bare Abandon lose that construction and state renunciation instead. The later not resigned to fate further replaces the source non-abandonment distinction with an emotional resignation distinction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-002","kind":"WH","description":"Finding the infinite within finite fate becomes creating it","categories":["linguistic.word_choice","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[41,42],"MG":[41,42],"UP":[41,42]},"japanese":"だから彼女は、その有限の運命の中に、無限を見出そうとした。\n自分の運命を、神に委ねることで、無限を見出そうとした。","japanesePC":"だから彼女は、その有限の運命の中に、無限を見出そうとした。\n自分の運命を、神に委ねることで、無限を見出そうとした。","japanesePS3":"だから彼女は、その有限の運命の中に、無限を見出そうとした。\n自分の運命を、神に委ねることで、無限を見出そうとした。","WH":"So, out of her limited fate, she tried to create the infinite.\nBy entrusting her fate to God, she tried to create the infinite.","MG":"So, out of her limited fate, she tried to create the infinite.\nBy entrusting her fate to God, she tried to create the infinite.","UP":"So, within the limits of her fate, she tried to find the infinite.\nBy entrusting her fate to God, she tried to find the infinite.","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_18-L0038","readerRefs":{"WH":["umi7_18-L0038"],"MG":["umi7_18-L0038"],"UP":["umi7_18-L0038"]}}],"sourceReading":"She tried to find or discover the infinite within limited fate, by entrusting her fate to God. 見出す is repeated.","alternative":"Her intentional arrangement of the roulette may create possibilities in a broader interpretation. Nonetheless these sentences frame discovering the infinite within the finite, not producing the infinite; the repetition is consistently changed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-003","kind":"WH","description":"A mystery unable to die becomes no death in the mystery genre","categories":["linguistic.wrong_subject","mystery.scope_quantifier_negation","mystery.category_flattening"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[111,111],"MG":[111,111],"UP":[111,111]},"japanese":"「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ」","japanesePC":"「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ。」","japanesePS3":"「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ」","WH":"\"In the mystery genre, there can be no death unless the detective performs the last rites.\"","MG":"\"In the mystery genre, there can be no death unless the detective performs the last rites.\"","UP":"\"A mystery story can't meet its death...unless the detective performs the last rites.\"","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_18-L0111","readerRefs":{"WH":["umi7_18-L0111"],"MG":["umi7_18-L0111"],"UP":["umi7_18-L0111"]}}],"sourceReading":"The mystery cannot die until the detective gives it its last rites. The surrounding funeral personifies Clair and the unresolved mystery that Will must lay to rest.","alternative":"In the mystery genre can introduce a metagenre aphorism, and last rites preserves funeral imagery. But there can be no death makes death generally impossible in the genre, rather than making the mystery itself the subject that needs detective resolution.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-004","kind":"WH","description":"The inability to leave even a corpse becomes ordinary corpse absence","categories":["linguistic.undertranslation","mystery.physical_constraint","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[172,172],"MG":[172,172],"UP":[172,172]},"japanese":"……役目を終えたる幻は、骸さえも残せない」","japanesePC":"「幻は幻に。......役目を終えたる幻は、骸さえも残せない。」","japanesePS3":"……役目を終えたる幻は、骸さえも残せない」","WH":"\"Illusions to illusions.  ......Illusions who have fulfilled their role do not leave a corpse.\"","MG":"...Illusions who have fulfilled their role do not leave even a corpse behind.\"","UP":"......Illusions who have fulfilled their role do not leave a corpse.\"","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"partially_corrected","UP":"retained"},"readerRef":"umi7_18-L0171","readerRefs":{"WH":["umi7_18-L0171"],"MG":["umi7_18-L0171"],"UP":["umi7_18-L0171"]}}],"sourceReading":"The illusion that has finished its role cannot leave even a corpse. 残せない explicitly denies the ability to leave one, with さえも emphasizing that limit. This answers the preceding claim that the pair cannot be together even as corpses.","alternative":"Do not leave a corpse can be a generic statement and still communicates corpse absence. It does not, however, retain the explicit inability or even emphasis, leaving voluntary non-provision or removal compatible with the wording where the source states a constraint. The neighboring no illusion can create a corpse concerns a separate twilight and only partly recovers the distinction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-005","kind":"WH","description":"A surprised expression becomes a significant look","categories":["linguistic.word_choice","character.voice_state"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[286,286],"MG":[286,286],"UP":[286,286]},"japanese":"意外そうな顔して」","japanesePC":"「.........なぁに？　意外そうな顔して。」","japanesePS3":"意外そうな顔して」","WH":"\".........What's up?  Why the significant look?\"","MG":"Why the surprised look?\"","UP":"Why the significant look?\"","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"corrected_in_context","UP":"retained"},"readerRef":"umi7_18-L0285","readerRefs":{"WH":["umi7_18-L0285"],"MG":["umi7_18-L0285"],"UP":["umi7_18-L0285"]}}],"sourceReading":"Bern asks why Will looks surprised; he then says he may need to revise his view that no witches are decent.","alternative":"A significant look could communicate a reaction with implied meaning, and his reply supplies the reason. It does not specify surprise, the state explicitly named by 意外そう.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-006","kind":"WH","description":"Millions of worlds and alternate selves are reduced to hundreds of thousands","categories":["linguistic.mistranslation","world.world_fact","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[335,345],"MG":[335,345],"UP":[335,345]},"japanese":"……二百何万だかの中から探し出したのか」\n「私如きに出来ることなんて、せいぜいその程度のことよ」\n「……………ふ」\n「これで、葬儀はおしまいよ。\n………約束通り、結界は解いたわ。\nあんたが立ち去れば、時間も元通りに動き出す」\n「これでお役御免か。\n早く帰らねぇと、ダイアナがまたカーテンを引っ掻き出す」\n「……短い間でしたが、お世話になりました」\n「あばよ。\n異なる幾百万の自分たちの代わりに、幸せになりな」","japanesePC":"「......よく、こいつを見つけ出したな。あの膨大な海の中から。......二百何万だかの中から探し出したのか。」","japanesePS3":"……二百何万だかの中から探し出したのか」\n「私如きに出来ることなんて、せいぜいその程度のことよ」\n「……………ふ」\n「これで、葬儀はおしまいよ。\n………約束通り、結界は解いたわ。\nあんたが立ち去れば、時間も元通りに動き出す」\n「これでお役御免か。\n早く帰らねぇと、ダイアナがまたカーテンを引っ掻き出す」\n「……短い間でしたが、お世話になりました」\n「あばよ。\n異なる幾百万の自分たちの代わりに、幸せになりな」","WH":"\"......I'm surprised you found this kid.  Didn't you have to search through about 200,000 of them in that vast sea?\"","MG":"about 200,000 of them in that vast sea?\"\n\"Such trivialities are all I am capable of.\"\n\"......Hmph.\"\n\"And now, the funeral is over.\n...As promised, I've released the barrier.\nOnce you leave, time will start moving again like normal.\"\n\"So, you're done with us now.\nIf I don't get back quickly, Diana'll start scratching the curtains.\"\n\"...We weren't together long, but thank you for your help.\"\n\"So long.\nBe happy...for the sake of the hundreds of thousands of other 'you's.\"","UP":"two million of them in that vast sea?\"\n\"Such trivialities are all I am capable of.\"\n\"...............Hmph.\"\n\"And now, the funeral is over.\n.........As promised, I've released the barrier.\nOnce you leave, time will start moving again like normal.\"\n\"So, you're done with us now.\nIf I don't get back quickly, Diana'll start scratching the curtains.\"\n\"......We weren't together long, but thank you for your help.\"\n\"So long.\nBe happy...for the sake of the millions of other \"you\"s.\"","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_18-L0333","readerRefs":{"WH":["umi7_18-L0333"],"MG":["umi7_18-L0333","umi7_18-L0336","umi7_18-L0337","umi7_18-L0338","umi7_18-L0341","umi7_18-L0343","umi7_18-L0344"],"UP":["umi7_18-L0333","umi7_18-L0336","umi7_18-L0337","umi7_18-L0338","umi7_18-L0341","umi7_18-L0343","umi7_18-L0344"]}}],"sourceReading":"Will asks whether Bern found Lion among two-million-something worlds (二百何万), then bids Lion live happily for the several million alternate selves (幾百万). Both figures are approximate but explicitly in millions.","alternative":"The dialogue gives rough estimates, not a precise probability. Nevertheless 200,000 and hundreds of thousands are a different order of magnitude; approximation does not justify a repeated tenfold reduction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-007","kind":"WH","description":"Returning together for a drink becomes telling the other person to look back and drink","categories":["linguistic.wrong_subject","linguistic.mistranslation","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[370,370],"MG":[370,370],"UP":[370,370]},"japanese":"「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。","japanesePC":"「......さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。もう悪役も巫女も疲れたわ。私もこれでお役御免よ。","japanesePS3":"「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。","WH":"\"......Yes, now you can look back and have a drink, ...while seeing how much of your theory was right.  I'm tired of playing the part of the bad guy...and of being a miko.  You're done with me now.","MG":"\"...Yes, now you can look back and have a drink, ...while seeing how much of your theory was right.","UP":"\"......Now, it's time to go back and have a drink, ...while discussing how much of your theory was right.","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_18-L0364","readerRefs":{"WH":["umi7_18-L0364"],"MG":["umi7_18-L0364"],"UP":["umi7_18-L0364"]}}],"sourceReading":"Bern invites Auaurora to return now and have a drink together, using how much the theory got right as a topic or accompaniment. 戻って is returning; やりましょう is the shared invitation.","alternative":"Look back might idiomatically mean review the earlier theory, and the English still connects drinking to correctness. But it converts return into retrospective review and the shared invitation into now you can have a drink, removing Bern participation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-008","kind":"WH","description":"Being lost at sea becomes turning into seaweed","categories":["linguistic.idiom_calque"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[369,369],"MG":[369,369],"UP":[369,369]},"japanese":"なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」","japanesePC":"「私は意地悪だから、これ以上を詳しくはやらないわよ。考えぬ魔女はいない。なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの。」","japanesePS3":"なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」","WH":"\"I'm mean, so I won't give any more hints than this.  There are no witches who don't think.  After all, witches who don't think either die or turn to seaweed.\"","MG":"After all, witches who don't think either die or turn to seaweed.\"","UP":"After all, witches who don't think either die or turn to seaweed.\"","note":"Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_18-L0364","readerRefs":{"WH":["umi7_18-L0364"],"MG":["umi7_18-L0364"],"UP":["umi7_18-L0364"]}}],"sourceReading":"海の藻屑 denotes being swallowed or lost in the sea, conventionally perishing there, in contrast with the other fate 死ぬ. It does not literally say transform into seaweed.","alternative":"The setting makes the sea metaphor relevant to witches and could support a playful literal reading. The English still chooses an actual transformation into seaweed without such a verb or transformation in the Japanese idiom.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH18-009","kind":"WH","description":"WH uses the uncountable applause as a singular count noun in a massive applause.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[244,244],"MG":[244,244],"UP":[244,244]},"japanese":"彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。","japanesePC":"彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。","japanesePS3":"彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。","WH":"The long, long tale she had just finished telling was being given a massive applause.","MG":"The long, long tale she had just finished telling was being given a massive applause.","UP":"The long, long tale she had just finished telling was being given massive applause.","note":"Exact active originalPC and paired prose directly checked under ep07-ep08-inherited-grammar-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_18-L0230","readerRefs":{"WH":["umi7_18-L0230"],"MG":["umi7_18-L0230"],"UP":["umi7_18-L0230"]}}],"sourceReading":"The active original-PC English contains this grammatical or typographical defect. MG retains it; UP repairs the construction without changing the source action.","alternative":"Meaning remains clear; the finding is limited to standard prose grammar or typography.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH18-121-240-001","kind":"additional","description":"The hypothetical dead face becomes Clair’s face","categories":["linguistic.wrong_subject","linguistic.omission","mystery.information_timing_salience"],"severity":"moderate","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi7_18","episode":7,"rows":{"JP":[161,161],"MG":[161,161],"UP":[161,161]},"japanese":"………もしもあいつが、それでも死に顔を見たいと言って踏み入っていたなら、どうしていた」","japanesePC":"","japanesePS3":"………もしもあいつが、それでも死に顔を見たいと言って踏み入っていたなら、どうしていた」","WH":"","MG":"...What if the guy really wanted to see that dead face anyway and just stepped inside?\"","UP":"......What would you have done if he'd insisted on seeing your face and just stepped inside?\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi7_18-L0160","readerRefs":{"WH":[],"MG":["umi7_18-L0160"],"UP":["umi7_18-L0160"]}}],"sourceReading":"Will asks what would have happened if the man had insisted on seeing the dead face and stepped inside. Japanese does not assign that face to the addressee.","alternative":"Clair represents the mystery being discussed, which can motivate an interpretive possessive. The source leaves the face unassigned and explicitly calls it dead; your face removes that description and adds identity.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH18-001",
+      "kind": "WH",
+      "description": "The decision to entrust becomes abandoning everything",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              23,
+              30
+            ],
+            "MG": [
+              23,
+              30
+            ],
+            "UP": [
+              23,
+              30
+            ]
+          },
+          "japanese": "「私は、\n……委ねる、決断をしました」\n「………委ねる……」\n「先代当主より全てを受け継いだ儀式の時のように。\n……私もまた、奇跡という名の運命に身を委ねることを選びました」\nルーレットに、身を委ねたといった方が、正しいかもしれない。\n私は、私たちは、……自分たちの運命さえ決められなくて。\n全てを運命に託したのです。",
+          "japanesePC": "「私は、......委ねる、決断をしました。」\n「.........委ねる......。」",
+          "japanesePS3": "「私は、\n……委ねる、決断をしました」\n「………委ねる……」\n「先代当主より全てを受け継いだ儀式の時のように。\n……私もまた、奇跡という名の運命に身を委ねることを選びました」\nルーレットに、身を委ねたといった方が、正しいかもしれない。\n私は、私たちは、……自分たちの運命さえ決められなくて。\n全てを運命に託したのです。",
+          "WH": "\"I decided......to abandon everything.\"\n\"......Abandon......\"",
+          "MG": "\"I decided...\n...to abandon control over everything.\"\n\"...Abandon control...\"\n\"Like the ceremony in which I inherited everything from the previous Head,\n...I decided to abandon myself to the fate known as a miracle.\"\nIt may be more accurate to say that I abandoned myself to the choice of the roulette.\nI...we...could not even decide our own fate,\nso we let fate decide everything for us.",
+          "UP": "\"I decided...\n...to delegate my fate.\"\n\".........Delegate it......\"\n\"Like the ritual by which I inherited everything from the previous head,\n......I decided to put myself in the hands of that fate called a miracle.\"\nIt may be more accurate to say that I entrusted my fate to a spin of the roulette.\nI—we—could not even decide our own fate,\nso we let fate decide everything for us.",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_18-L0023",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0023",
+              "umi7_18-L0025"
+            ],
+            "MG": [
+              "umi7_18-L0023",
+              "umi7_18-L0025",
+              "umi7_18-L0026",
+              "umi7_18-L0028"
+            ],
+            "UP": [
+              "umi7_18-L0023",
+              "umi7_18-L0025",
+              "umi7_18-L0026",
+              "umi7_18-L0028"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私は、……委ねる、決断をしました」\n「………委ねる……」",
+              "translation": "\"I decided... ...to abandon control over everything.\" \n\"...Abandon control...\" "
+            },
+            "UP": {
+              "japanese": "「私は、……委ねる、決断をしました」\n「………委ねる……」",
+              "translation": "\"I decided... ...to delegate my fate.\"\n\".........Delegate it......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0023",
+              "umi7_18-L0025"
+            ],
+            "MG": [
+              "umi7_18-L0023",
+              "umi7_18-L0025"
+            ],
+            "UP": [
+              "umi7_18-L0023",
+              "umi7_18-L0025"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Clair decided to entrust, echoed by Lion. She entrusts herself to fate/roulette, while the narrator explicitly distinguishes this from abandoning her own fate because she approaches it with absolute will.",
+      "alternative": "Abandon oneself to something can validly mean surrender or entrust oneself, so the later abandon myself to fate phrases are not independently errors. Bare abandon everything and Lion bare Abandon lose that construction and state renunciation instead. The later not resigned to fate further replaces the source non-abandonment distinction with an emotional resignation distinction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-002",
+      "kind": "WH",
+      "description": "Finding the infinite within finite fate becomes creating it",
+      "categories": [
+        "linguistic.word_choice",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              41,
+              42
+            ],
+            "MG": [
+              41,
+              42
+            ],
+            "UP": [
+              41,
+              42
+            ]
+          },
+          "japanese": "だから彼女は、その有限の運命の中に、無限を見出そうとした。\n自分の運命を、神に委ねることで、無限を見出そうとした。",
+          "japanesePC": "だから彼女は、その有限の運命の中に、無限を見出そうとした。\n自分の運命を、神に委ねることで、無限を見出そうとした。",
+          "japanesePS3": "だから彼女は、その有限の運命の中に、無限を見出そうとした。\n自分の運命を、神に委ねることで、無限を見出そうとした。",
+          "WH": "So, out of her limited fate, she tried to create the infinite.\nBy entrusting her fate to God, she tried to create the infinite.",
+          "MG": "So, out of her limited fate, she tried to create the infinite.\nBy entrusting her fate to God, she tried to create the infinite.",
+          "UP": "So, within the limits of her fate, she tried to find the infinite.\nBy entrusting her fate to God, she tried to find the infinite.",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_18-L0038",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0038"
+            ],
+            "MG": [
+              "umi7_18-L0038"
+            ],
+            "UP": [
+              "umi7_18-L0038"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "クレルは俯き、涙の雫を一滴、零す…。人の可能性は無限だと、ニンゲンたちは軽々しく口にする。\nしかし、無限の魔女は、……本当は有限であることを、知ってしまった。だから彼女は、その有限の運命の中に、無限を見出そうとした。自分の運命を、神に委ねることで、無限を見出そうとした。しかしそれは、自分の運命の放棄ではない。\nなぜなら、運命のルーレットに、絶対の意思で臨んだから。誰も碑文の謎を解けないなら、誰も絶対に逃れられない、絶対の、運命。それで島を閉ざした。自分ごと。１９８６年１０月４日から５日は、絶対の意志で封じられ、………その狭い時間と島の中で選ばれるいずれかの運命に、……彼女は身を任す。",
+              "translation": "Clair hung her head and let a single tear drop down... Humans will carelessly say that people possess infinite possibilities. However, the Endless Witch...knows how limited those possibilities really are. So, out of her limited fate, she tried to create the infinite. By entrusting her fate to God, she tried to create the infinite. However, this did not mean that she was resigned to her fate. She spun the roulette of fate with an unshakable and certain will. A certain fate, where absolutely no one could escape if the epitaph was not solved. She sealed off the island with it. Herself included. October 4th and 5th, 1986, were sealed away by an absolute and certain will, ...and she abandoned herself to that short span of time and the one fate out of many that would be chosen on that island. "
+            },
+            "UP": {
+              "japanese": "クレルは俯き、涙の雫を一滴、零す…。人の可能性は無限だと、ニンゲンたちは軽々しく口にする。\nしかし、無限の魔女は、……本当は有限であることを、知ってしまった。だから彼女は、その有限の運命の中に、無限を見出そうとした。自分の運命を、神に委ねることで、無限を見出そうとした。しかしそれは、自分の運命の放棄ではない。\nなぜなら、運命のルーレットに、絶対の意思で臨んだから。誰も碑文の謎を解けないなら、誰も絶対に逃れられない、絶対の、運命。それで島を閉ざした。自分ごと。１９８６年１０月４日から５日は、絶対の意志で封じられ、………その狭い時間と島の中で選ばれるいずれかの運命に、……彼女は身を任す。",
+              "translation": "Clair hung her head and let a single tear drop down... HumanHumans will carelessly say that people have infinite possibilities.\nHowever, the Endless Witch......knows how limited those possibilities really are. So, within the limits of her fate, she tried to find the infinite. By entrusting her fate to God, she tried to find the infinite. However, this did not mean that she abandoned her fate.\nBecause she spun fate's roulette with an unshakable and certain will. A certain fate, where absolutely no one could escape if the epitaph was not solved. With it, she sealed up the island, herself included. October 4th and 5th, 1986, were sealed away by an absolute and certain will, .........and she entrusted herself to one of the fates that could be chosen in that short span of time on that island."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0038"
+            ],
+            "MG": [
+              "umi7_18-L0038"
+            ],
+            "UP": [
+              "umi7_18-L0038"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She tried to find or discover the infinite within limited fate, by entrusting her fate to God. 見出す is repeated.",
+      "alternative": "Her intentional arrangement of the roulette may create possibilities in a broader interpretation. Nonetheless these sentences frame discovering the infinite within the finite, not producing the infinite; the repetition is consistently changed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-003",
+      "kind": "WH",
+      "description": "A mystery unable to die becomes no death in the mystery genre",
+      "categories": [
+        "linguistic.wrong_subject",
+        "mystery.scope_quantifier_negation",
+        "mystery.category_flattening"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              111,
+              111
+            ],
+            "MG": [
+              111,
+              111
+            ],
+            "UP": [
+              111,
+              111
+            ]
+          },
+          "japanese": "「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ」",
+          "japanesePC": "「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ。」",
+          "japanesePS3": "「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ」",
+          "WH": "\"In the mystery genre, there can be no death unless the detective performs the last rites.\"",
+          "MG": "\"In the mystery genre, there can be no death unless the detective performs the last rites.\"",
+          "UP": "\"A mystery story can't meet its death...unless the detective performs the last rites.\"",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_18-L0111",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0111"
+            ],
+            "MG": [
+              "umi7_18-L0111"
+            ],
+            "UP": [
+              "umi7_18-L0111"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ」",
+              "translation": "\"In the mystery genre, there can be no death unless the detective performs the last rites.\" "
+            },
+            "UP": {
+              "japanese": "「ミステリーは、探偵が引導を渡さなきゃ、死ねないのよ」",
+              "translation": "\"A mystery story can't meet its death...unless the detective performs the last rites.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0111"
+            ],
+            "MG": [
+              "umi7_18-L0111"
+            ],
+            "UP": [
+              "umi7_18-L0111"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The mystery cannot die until the detective gives it its last rites. The surrounding funeral personifies Clair and the unresolved mystery that Will must lay to rest.",
+      "alternative": "In the mystery genre can introduce a metagenre aphorism, and last rites preserves funeral imagery. But there can be no death makes death generally impossible in the genre, rather than making the mystery itself the subject that needs detective resolution.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-004",
+      "kind": "WH",
+      "description": "The inability to leave even a corpse becomes ordinary corpse absence",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.physical_constraint",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              172,
+              172
+            ],
+            "MG": [
+              172,
+              172
+            ],
+            "UP": [
+              172,
+              172
+            ]
+          },
+          "japanese": "……役目を終えたる幻は、骸さえも残せない」",
+          "japanesePC": "「幻は幻に。......役目を終えたる幻は、骸さえも残せない。」",
+          "japanesePS3": "……役目を終えたる幻は、骸さえも残せない」",
+          "WH": "\"Illusions to illusions.  ......Illusions who have fulfilled their role do not leave a corpse.\"",
+          "MG": "...Illusions who have fulfilled their role do not leave even a corpse behind.\"",
+          "UP": "......Illusions who have fulfilled their role do not leave a corpse.\"",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_18-L0171",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0171"
+            ],
+            "MG": [
+              "umi7_18-L0171"
+            ],
+            "UP": [
+              "umi7_18-L0171"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「幻は幻に。……役目を終えたる幻は、骸さえも残せない」",
+              "translation": "\"Illusions to illusions. ...Illusions who have fulfilled their role do not leave even a corpse behind.\" "
+            },
+            "UP": {
+              "japanese": "「幻は幻に。……役目を終えたる幻は、骸さえも残せない」",
+              "translation": "\"Illusions to illusions. ......Illusions who have fulfilled their role do not leave a corpse.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0171"
+            ],
+            "MG": [
+              "umi7_18-L0171"
+            ],
+            "UP": [
+              "umi7_18-L0171"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The illusion that has finished its role cannot leave even a corpse. 残せない explicitly denies the ability to leave one, with さえも emphasizing that limit. This answers the preceding claim that the pair cannot be together even as corpses.",
+      "alternative": "Do not leave a corpse can be a generic statement and still communicates corpse absence. It does not, however, retain the explicit inability or even emphasis, leaving voluntary non-provision or removal compatible with the wording where the source states a constraint. The neighboring no illusion can create a corpse concerns a separate twilight and only partly recovers the distinction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-005",
+      "kind": "WH",
+      "description": "A surprised expression becomes a significant look",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              286,
+              286
+            ],
+            "MG": [
+              286,
+              286
+            ],
+            "UP": [
+              286,
+              286
+            ]
+          },
+          "japanese": "意外そうな顔して」",
+          "japanesePC": "「.........なぁに？　意外そうな顔して。」",
+          "japanesePS3": "意外そうな顔して」",
+          "WH": "\".........What's up?  Why the significant look?\"",
+          "MG": "Why the surprised look?\"",
+          "UP": "Why the significant look?\"",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_18-L0285",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0285"
+            ],
+            "MG": [
+              "umi7_18-L0285"
+            ],
+            "UP": [
+              "umi7_18-L0285"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………なぁに？　意外そうな顔して」",
+              "translation": "\"......What's up? Why the surprised look?\" "
+            },
+            "UP": {
+              "japanese": "「………なぁに？　意外そうな顔して」",
+              "translation": "\".........What's up? Why the significant look?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0285"
+            ],
+            "MG": [
+              "umi7_18-L0285"
+            ],
+            "UP": [
+              "umi7_18-L0285"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern asks why Will looks surprised; he then says he may need to revise his view that no witches are decent.",
+      "alternative": "A significant look could communicate a reaction with implied meaning, and his reply supplies the reason. It does not specify surprise, the state explicitly named by 意外そう.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-006",
+      "kind": "WH",
+      "description": "Millions of worlds and alternate selves are reduced to hundreds of thousands",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              335,
+              345
+            ],
+            "MG": [
+              335,
+              345
+            ],
+            "UP": [
+              335,
+              345
+            ]
+          },
+          "japanese": "……二百何万だかの中から探し出したのか」\n「私如きに出来ることなんて、せいぜいその程度のことよ」\n「……………ふ」\n「これで、葬儀はおしまいよ。\n………約束通り、結界は解いたわ。\nあんたが立ち去れば、時間も元通りに動き出す」\n「これでお役御免か。\n早く帰らねぇと、ダイアナがまたカーテンを引っ掻き出す」\n「……短い間でしたが、お世話になりました」\n「あばよ。\n異なる幾百万の自分たちの代わりに、幸せになりな」",
+          "japanesePC": "「......よく、こいつを見つけ出したな。あの膨大な海の中から。......二百何万だかの中から探し出したのか。」",
+          "japanesePS3": "……二百何万だかの中から探し出したのか」\n「私如きに出来ることなんて、せいぜいその程度のことよ」\n「……………ふ」\n「これで、葬儀はおしまいよ。\n………約束通り、結界は解いたわ。\nあんたが立ち去れば、時間も元通りに動き出す」\n「これでお役御免か。\n早く帰らねぇと、ダイアナがまたカーテンを引っ掻き出す」\n「……短い間でしたが、お世話になりました」\n「あばよ。\n異なる幾百万の自分たちの代わりに、幸せになりな」",
+          "WH": "\"......I'm surprised you found this kid.  Didn't you have to search through about 200,000 of them in that vast sea?\"",
+          "MG": "about 200,000 of them in that vast sea?\"\n\"Such trivialities are all I am capable of.\"\n\"......Hmph.\"\n\"And now, the funeral is over.\n...As promised, I've released the barrier.\nOnce you leave, time will start moving again like normal.\"\n\"So, you're done with us now.\nIf I don't get back quickly, Diana'll start scratching the curtains.\"\n\"...We weren't together long, but thank you for your help.\"\n\"So long.\nBe happy...for the sake of the hundreds of thousands of other 'you's.\"",
+          "UP": "two million of them in that vast sea?\"\n\"Such trivialities are all I am capable of.\"\n\"...............Hmph.\"\n\"And now, the funeral is over.\n.........As promised, I've released the barrier.\nOnce you leave, time will start moving again like normal.\"\n\"So, you're done with us now.\nIf I don't get back quickly, Diana'll start scratching the curtains.\"\n\"......We weren't together long, but thank you for your help.\"\n\"So long.\nBe happy...for the sake of the millions of other \"you\"s.\"",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_18-L0333",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0333"
+            ],
+            "MG": [
+              "umi7_18-L0333",
+              "umi7_18-L0336",
+              "umi7_18-L0337",
+              "umi7_18-L0338",
+              "umi7_18-L0341",
+              "umi7_18-L0343",
+              "umi7_18-L0344"
+            ],
+            "UP": [
+              "umi7_18-L0333",
+              "umi7_18-L0336",
+              "umi7_18-L0337",
+              "umi7_18-L0338",
+              "umi7_18-L0341",
+              "umi7_18-L0343",
+              "umi7_18-L0344"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……よく、こいつを見つけ出したな。あの膨大な海の中から。……二百何万だかの中から探し出したのか」",
+              "translation": "\"...I'm surprised you found this kid. Didn't you have to search through about 200,000 of them in that vast sea?\" "
+            },
+            "UP": {
+              "japanese": "「……よく、こいつを見つけ出したな。あの膨大な海の中から。……二百何万だかの中から探し出したのか」",
+              "translation": "\"......I'm surprised you found this kid. Didn't you have to search through about... two million of them in that vast sea?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0333"
+            ],
+            "MG": [
+              "umi7_18-L0333"
+            ],
+            "UP": [
+              "umi7_18-L0333"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will asks whether Bern found Lion among two-million-something worlds (二百何万), then bids Lion live happily for the several million alternate selves (幾百万). Both figures are approximate but explicitly in millions.",
+      "alternative": "The dialogue gives rough estimates, not a precise probability. Nevertheless 200,000 and hundreds of thousands are a different order of magnitude; approximation does not justify a repeated tenfold reduction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-007",
+      "kind": "WH",
+      "description": "Returning together for a drink becomes telling the other person to look back and drink",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              370,
+              370
+            ],
+            "MG": [
+              370,
+              370
+            ],
+            "UP": [
+              370,
+              370
+            ]
+          },
+          "japanese": "「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。",
+          "japanesePC": "「......さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。もう悪役も巫女も疲れたわ。私もこれでお役御免よ。",
+          "japanesePS3": "「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。",
+          "WH": "\"......Yes, now you can look back and have a drink, ...while seeing how much of your theory was right.  I'm tired of playing the part of the bad guy...and of being a miko.  You're done with me now.",
+          "MG": "\"...Yes, now you can look back and have a drink, ...while seeing how much of your theory was right.",
+          "UP": "\"......Now, it's time to go back and have a drink, ...while discussing how much of your theory was right.",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_18-L0364",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0364"
+            ],
+            "MG": [
+              "umi7_18-L0364"
+            ],
+            "UP": [
+              "umi7_18-L0364"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「アウアウローラ。これで答え合わせには充分でしょう？　これでわからないなら、傍観者の魔女どもを集めてお茶会でも開いて、他の魔女の推理でも拝聴したら？」「私は意地悪だから、これ以上を詳しくはやらないわよ。考えぬ魔女はいない。なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。もう悪役も巫女も疲れたわ。私もこれでお役御免よ。……じゃあね、理御。そして傍観者の魔女たち」",
+              "translation": "\"Auaurora. Was that enough of an answer check for you? If you still don't get it, why not gather the other observer witches and have a tea party or something? Then you can listen to their theories.\" \"I'm mean, so I won't go any further than this. There are no witches who don't think. After all, witches who don't think either die or turn to seaweed.\" \"...Yes, now you can look back and have a drink, ...while seeing how much of your theory was right. I'm tired of playing the part of the bad guy...and of being a miko. You're done with me now. ...Bye, Lion. And bye to you too, observer witches.\" "
+            },
+            "UP": {
+              "japanese": "「アウアウローラ。これで答え合わせには充分でしょう？　これでわからないなら、傍観者の魔女どもを集めてお茶会でも開いて、他の魔女の推理でも拝聴したら？」「私は意地悪だから、これ以上を詳しくはやらないわよ。考えぬ魔女はいない。なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。もう悪役も巫女も疲れたわ。私もこれでお役御免よ。……じゃあね、理御。そして傍観者の魔女たち」",
+              "translation": "\"Auaurora. Was that enough of an answer check for you? If you still don't get it, why not gather the other observer witches and have a tea party or something? Then you can listen to their theories.\" \"I'm mean, so I won't give any more hints than this. There are no witches who don't think. After all, witches who don't think either die or turn to seaweed.\" \"......Now, it's time to go back and have a drink, ...while discussing how much of your theory was right. I'm tired of playing the part of the bad guy...and of being a miko. You're done with me now. ......Bye, Lion. And bye to you too, observer witches.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0364"
+            ],
+            "MG": [
+              "umi7_18-L0364"
+            ],
+            "UP": [
+              "umi7_18-L0364"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern invites Auaurora to return now and have a drink together, using how much the theory got right as a topic or accompaniment. 戻って is returning; やりましょう is the shared invitation.",
+      "alternative": "Look back might idiomatically mean review the earlier theory, and the English still connects drinking to correctness. But it converts return into retrospective review and the shared invitation into now you can have a drink, removing Bern participation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-008",
+      "kind": "WH",
+      "description": "Being lost at sea becomes turning into seaweed",
+      "categories": [
+        "linguistic.idiom_calque"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              369,
+              369
+            ],
+            "MG": [
+              369,
+              369
+            ],
+            "UP": [
+              369,
+              369
+            ]
+          },
+          "japanese": "なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」",
+          "japanesePC": "「私は意地悪だから、これ以上を詳しくはやらないわよ。考えぬ魔女はいない。なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの。」",
+          "japanesePS3": "なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」",
+          "WH": "\"I'm mean, so I won't give any more hints than this.  There are no witches who don't think.  After all, witches who don't think either die or turn to seaweed.\"",
+          "MG": "After all, witches who don't think either die or turn to seaweed.\"",
+          "UP": "After all, witches who don't think either die or turn to seaweed.\"",
+          "note": "Full continuous three-witness agent reading, with parent checks of the flagged reconstruction and independent canonical outcomes. MG abandoning control over everything is corrected in context: surrendering control is explained by entrusting oneself to roulette and letting fate decide at27–30. MG43 not resigned is held as potentially non-defeatist resolve, rather than forced resistance. MG172 restores even but still changes cannot to do not, hence partial. UP161 dead face to your face is a verified new change against both PS3 and PC167676–678. Both247 sunk held as a dialectal past form. Mutable blade199 held as a loose impermanence rendering. Raised hands224 recovered by arms wide226; sole salvation265 recovered by268. Inability to commit309 held given the deliberate catbox311. Shoulder405 recovered422; reply406 and procession381/421 held as idiomatic contextual alternatives. No proven PC-only material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_18-L0364",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0364"
+            ],
+            "MG": [
+              "umi7_18-L0364"
+            ],
+            "UP": [
+              "umi7_18-L0364"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「アウアウローラ。これで答え合わせには充分でしょう？　これでわからないなら、傍観者の魔女どもを集めてお茶会でも開いて、他の魔女の推理でも拝聴したら？」「私は意地悪だから、これ以上を詳しくはやらないわよ。考えぬ魔女はいない。なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。もう悪役も巫女も疲れたわ。私もこれでお役御免よ。……じゃあね、理御。そして傍観者の魔女たち」",
+              "translation": "\"Auaurora. Was that enough of an answer check for you? If you still don't get it, why not gather the other observer witches and have a tea party or something? Then you can listen to their theories.\" \"I'm mean, so I won't go any further than this. There are no witches who don't think. After all, witches who don't think either die or turn to seaweed.\" \"...Yes, now you can look back and have a drink, ...while seeing how much of your theory was right. I'm tired of playing the part of the bad guy...and of being a miko. You're done with me now. ...Bye, Lion. And bye to you too, observer witches.\" "
+            },
+            "UP": {
+              "japanese": "「アウアウローラ。これで答え合わせには充分でしょう？　これでわからないなら、傍観者の魔女どもを集めてお茶会でも開いて、他の魔女の推理でも拝聴したら？」「私は意地悪だから、これ以上を詳しくはやらないわよ。考えぬ魔女はいない。なぜなら、考えぬ魔女は死ぬか海の藻屑なんだもの」「……さぁ、これから戻って、あんたの推理がどの程度当たってたかを肴に、一杯やりましょう。もう悪役も巫女も疲れたわ。私もこれでお役御免よ。……じゃあね、理御。そして傍観者の魔女たち」",
+              "translation": "\"Auaurora. Was that enough of an answer check for you? If you still don't get it, why not gather the other observer witches and have a tea party or something? Then you can listen to their theories.\" \"I'm mean, so I won't give any more hints than this. There are no witches who don't think. After all, witches who don't think either die or turn to seaweed.\" \"......Now, it's time to go back and have a drink, ...while discussing how much of your theory was right. I'm tired of playing the part of the bad guy...and of being a miko. You're done with me now. ......Bye, Lion. And bye to you too, observer witches.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0364"
+            ],
+            "MG": [
+              "umi7_18-L0364"
+            ],
+            "UP": [
+              "umi7_18-L0364"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "海の藻屑 denotes being swallowed or lost in the sea, conventionally perishing there, in contrast with the other fate 死ぬ. It does not literally say transform into seaweed.",
+      "alternative": "The setting makes the sea metaphor relevant to witches and could support a playful literal reading. The English still chooses an actual transformation into seaweed without such a verb or transformation in the Japanese idiom.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH18-009",
+      "kind": "WH",
+      "description": "WH uses the uncountable applause as a singular count noun in a massive applause.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              244,
+              244
+            ],
+            "MG": [
+              244,
+              244
+            ],
+            "UP": [
+              244,
+              244
+            ]
+          },
+          "japanese": "彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。",
+          "japanesePC": "彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。",
+          "japanesePS3": "彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。",
+          "WH": "The long, long tale she had just finished telling was being given a massive applause.",
+          "MG": "The long, long tale she had just finished telling was being given a massive applause.",
+          "UP": "The long, long tale she had just finished telling was being given massive applause.",
+          "note": "Exact active originalPC and paired prose directly checked under ep07-ep08-inherited-grammar-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_18-L0230",
+          "readerRefs": {
+            "WH": [
+              "umi7_18-L0230"
+            ],
+            "MG": [
+              "umi7_18-L0230"
+            ],
+            "UP": [
+              "umi7_18-L0230"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ウィルの大きく振りかぶった、……漆黒の刃が、………クレルの姿を、薙ぎ払う。それは、どぅっという強い風とともに吹き飛ばされ、……人の形はたちまちの内に崩れ、黄金の花びらの嵐となって、掻き消えた。彼女の姿が吹き飛んだ後に、黄金の心臓が宙に残されたが、つむじ風にすぐに飲み込まれ、花びらと散った。その黄金のつむじ風は、礼拝堂の中に渦を巻く……。そして、花びらの渦は、……どこへともなく散っていき、……消えていく……。わずかに残った花びらが、粉雪のように舞い散り、その最後の残滓で、礼拝堂を美しく飾った。………舞台中央が、細く照らされる。そこには、物語を終えたクレルが立っていた。そして、ゆっくりと、……やわらかに、………観客席へ向けて、会釈をした。拍手が、広がる。彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。いつまでも。………いつまでも。ゆっくりと舞台は、忘却の闇で暗転していく。深々と会釈を続けるクレルは、……終わらない拍手を浴びながら、闇と幕の向こうに、……消えていった。……人は、罪と生まれ、誰かに許してもらうために、生きていく。あるいは、謎と生まれ、誰かに解いてもらうために、生きていく。彼女の謎は、未練なく、………全てがここに、解き明かされる。人は、謎なのだ。誰かに、自分の謎を、解いてもらいたいのだ。\n自分という、世界でもっとも難解な謎を、誰かに解いてもらいたいと思いながら、生きている。自分という謎に、誰か向かい合って欲しい。\nそして、それを解いて欲しい。彼女のそれは今、叶えられた……。………もう、彼女の魂は、迷わない。猫箱の棺で、永遠に安らかに眠れ………。",
+              "translation": "The pitch-black blade that Will swung high... ...cut down Clair's form. At the same time, she was blown away by a gust of wind. ...Her human form crumbled in an instant, became a storm of golden flower petals, and was torn apart. After she was blown away, a golden heart remained in midair, but it too was swallowed by the torrent of wind and broke down into flower petals. The gold torrent of wind swirled around the chapel... Then, the swirl of petals scattered out of existence...and vanished... A few remaining petals danced around like snowflakes, and those final vestiges decorated the chapel beautifully. ......A beam of light lit the center of the stage. There stood Clair, whose tale had ended. Then, slowly, ...softly, ...she faced the audience and bowed. Applause spread throughout the room. The long, long tale she had just finished telling was being given a massive applause. It went on and on. ...And on and on. The stage slowly sunk into the darkness of oblivion. Behind the darkness and the curtain, Clair continued to bow in front of the unending applause...and disappeared. ...People are born with sin...and live life to obtain forgiveness from someone. Or perhaps they are born with riddles...and live life searching for someone to solve them. Here, all of her riddles had been solved, ...leaving no lingering regrets behind. People are riddles. They want someone else to solve their riddle. They live life wanting someone to solve the riddle that they are, the most difficult riddle in the world. They want someone to look at the riddle they are. And they want that person to solve it. For her, that wish has been granted... ...Her soul will wander no longer. Sleep in endless peace, in your cat box coffin... "
+            },
+            "UP": {
+              "japanese": "ウィルの大きく振りかぶった、……漆黒の刃が、………クレルの姿を、薙ぎ払う。それは、どぅっという強い風とともに吹き飛ばされ、……人の形はたちまちの内に崩れ、黄金の花びらの嵐となって、掻き消えた。彼女の姿が吹き飛んだ後に、黄金の心臓が宙に残されたが、つむじ風にすぐに飲み込まれ、花びらと散った。その黄金のつむじ風は、礼拝堂の中に渦を巻く……。そして、花びらの渦は、……どこへともなく散っていき、……消えていく……。わずかに残った花びらが、粉雪のように舞い散り、その最後の残滓で、礼拝堂を美しく飾った。………舞台中央が、細く照らされる。そこには、物語を終えたクレルが立っていた。そして、ゆっくりと、……やわらかに、………観客席へ向けて、会釈をした。拍手が、広がる。彼女の、語り終えた長い長い物語に、労いの盛大な拍手が送られた。いつまでも。………いつまでも。ゆっくりと舞台は、忘却の闇で暗転していく。深々と会釈を続けるクレルは、……終わらない拍手を浴びながら、闇と幕の向こうに、……消えていった。……人は、罪と生まれ、誰かに許してもらうために、生きていく。あるいは、謎と生まれ、誰かに解いてもらうために、生きていく。彼女の謎は、未練なく、………全てがここに、解き明かされる。人は、謎なのだ。誰かに、自分の謎を、解いてもらいたいのだ。\n自分という、世界でもっとも難解な謎を、誰かに解いてもらいたいと思いながら、生きている。自分という謎に、誰か向かい合って欲しい。\nそして、それを解いて欲しい。彼女のそれは今、叶えられた……。………もう、彼女の魂は、迷わない。猫箱の棺で、永遠に安らかに眠れ………。",
+              "translation": "The wide swing of Will's pitch‐black blade... ......cleaved through Clair's form. Blown away by a powerful gust of wind, ......her human form crumbled in an instant, became a storm of golden flower petals, and was torn apart. After she was blown away, a golden heart remained in midair, but it too was swallowed by the vortex of wind and broke down into flower petals. The golden vortex swirled around the chapel...... Then, the swirl of petals gradually scattered out of existence......and vanished...... A few remaining petals danced around like snowflakes, and those final vestiges decorated the chapel beautifully. .........A beam of light lit the center of the stage. There stood Clair, whose tale had ended. Then, slowly, ......softly, .........she faced the audience and bowed. Applause spread throughout the theater. The long, long tale she had just finished telling was being given massive applause. It went on and on. .........And on and on. The stage slowly sunk into the darkness of oblivion. Clair continued to bow in front of the unending applause......and as the curtain fell, she faded into the darkness. ......People are born with sin...and live life to obtain forgiveness from someone. Or perhaps they are born as mysteries...and live life searching for someone to solve them. Here, all of her riddles had been solved, ......with no lingering regrets. People are riddles. They want someone else to solve their riddle.\nThey live life wanting someone to solve the riddle that they are, the most difficult riddle in the world. They want someone to look at the riddle they are.\nAnd they want that person to solve it. For her, that wish has been granted...... .........Her soul will wander no longer. Rest in eternal slumber......within your cat box coffin........."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_18-L0230"
+            ],
+            "MG": [
+              "umi7_18-L0230"
+            ],
+            "UP": [
+              "umi7_18-L0230"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The active original-PC English contains this grammatical or typographical defect. MG retains it; UP repairs the construction without changing the source action.",
+      "alternative": "Meaning remains clear; the finding is limited to standard prose grammar or typography.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH18-121-240-001",
+      "kind": "additional",
+      "description": "The hypothetical dead face becomes Clair’s face",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.omission",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_18",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              161,
+              161
+            ],
+            "MG": [
+              161,
+              161
+            ],
+            "UP": [
+              161,
+              161
+            ]
+          },
+          "japanese": "………もしもあいつが、それでも死に顔を見たいと言って踏み入っていたなら、どうしていた」",
+          "japanesePC": "",
+          "japanesePS3": "………もしもあいつが、それでも死に顔を見たいと言って踏み入っていたなら、どうしていた」",
+          "WH": "",
+          "MG": "...What if the guy really wanted to see that dead face anyway and just stepped inside?\"",
+          "UP": "......What would you have done if he'd insisted on seeing your face and just stepped inside?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi7_18-L0160",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_18-L0160"
+            ],
+            "UP": [
+              "umi7_18-L0160"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……始めから、危ういゲームだったな。………もしもあいつが、それでも死に顔を見たいと言って踏み入っていたなら、どうしていた」",
+              "translation": "\"...That was a risky game from the very start. ...What if the guy really wanted to see that dead face anyway and just stepped inside?\" "
+            },
+            "UP": {
+              "japanese": "「……始めから、危ういゲームだったな。………もしもあいつが、それでも死に顔を見たいと言って踏み入っていたなら、どうしていた」",
+              "translation": "\"......That was a risky game from the very start. ......What would you have done if he'd insisted on seeing your face and just stepped inside?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_18-L0160"
+            ],
+            "UP": [
+              "umi7_18-L0160"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will asks what would have happened if the man had insisted on seeing the dead face and stepped inside. Japanese does not assign that face to the addressee.",
+      "alternative": "Clair represents the mystery being discussed, which can motivate an interpretive possessive. The source leaves the face unassigned and explicitly calls it dead; your face removes that description and adds identity.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH18-001": {
+      "umi7_18-L0023": {
+        "WH": [
+          "to abandon everything"
+        ]
+      },
+      "umi7_18-L0025": {
+        "WH": [
+          "Abandon"
+        ]
+      }
+    },
+    "WH-EP07-CH18-002": {
+      "umi7_18-L0038": {
+        "WH": [
+          "out of her limited fate, she tried to create the infinite",
+          "By entrusting her fate to God, she tried to create the infinite"
+        ],
+        "MG": [
+          "out of her limited fate, she tried to create the infinite",
+          "By entrusting her fate to God, she tried to create the infinite"
+        ]
+      }
+    },
+    "WH-EP07-CH18-003": {
+      "umi7_18-L0111": {
+        "WH": [
+          "In the mystery genre, there can be no death"
+        ],
+        "MG": [
+          "In the mystery genre, there can be no death"
+        ]
+      }
+    },
+    "WH-EP07-CH18-004": {
+      "umi7_18-L0171": {
+        "WH": [
+          "do not leave a corpse"
+        ],
+        "MG": [
+          "do not leave even a corpse behind"
+        ],
+        "UP": [
+          "do not leave a corpse"
+        ]
+      }
+    },
+    "WH-EP07-CH18-005": {
+      "umi7_18-L0285": {
+        "WH": [
+          "Why the significant look"
+        ],
+        "UP": [
+          "Why the significant look"
+        ]
+      }
+    },
+    "WH-EP07-CH18-006": {
+      "umi7_18-L0333": {
+        "WH": [
+          "about 200,000"
+        ],
+        "MG": [
+          "about 200,000"
+        ]
+      }
+    },
+    "WH-EP07-CH18-007": {
+      "umi7_18-L0364": {
+        "WH": [
+          "now you can look back and have a drink"
+        ],
+        "MG": [
+          "now you can look back and have a drink"
+        ]
+      }
+    },
+    "WH-EP07-CH18-008": {
+      "umi7_18-L0364": {
+        "WH": [
+          "turn to seaweed"
+        ],
+        "MG": [
+          "turn to seaweed"
+        ],
+        "UP": [
+          "turn to seaweed"
+        ]
+      }
+    },
+    "WH-EP07-CH18-009": {
+      "umi7_18-L0230": {
+        "WH": [
+          "a massive applause"
+        ],
+        "MG": [
+          "a massive applause"
+        ]
+      }
+    },
+    "PAIR-EP07-CH18-121-240-001": {
+      "umi7_18-L0160": {
+        "UP": [
+          "seeing your face"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

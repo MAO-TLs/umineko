@@ -1,1 +1,1702 @@
-{"findings":[{"id":"WH-EP07-CH02-001","kind":"WH","description":"A connection with the deceased becomes knowing her personally.","categories":["linguistic.overinterpretation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[18,18],"MG":[18,18],"UP":[18,18]},"japanese":"故人に縁ある方だそうです」","japanesePC":"「いいえ、何も。こちらはウィルさん。故人に縁ある方だそうです。」","japanesePS3":"故人に縁ある方だそうです」","WH":"\"No, he said nothing.  This is Will-san.  It seems he knew the deceased.\"","MG":"It seems he knew the deceased.\"","UP":"It seems he knew the deceased.\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0016","readerRefs":{"WH":["umi7_2-L0016"],"MG":["umi7_2-L0016"],"UP":["umi7_2-L0016"]}}],"sourceReading":"Lion presents Will as someone reportedly connected with the deceased.","alternative":"Knew the deceased suggests personal acquaintance. 縁ある allows a connection without having met her, and Will has expressly said that he never met Beatrice. Lion is smoothing over his introduction, but the English adds a more specific cover story.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-002","kind":"WH","description":"Disapproval of the scandal becomes complete denial.","categories":["linguistic.overinterpretation","character.viewpoint_attribution","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[29,29],"MG":[29,29],"UP":[29,29]},"japanese":"夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。","japanesePC":"夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。\nしかし、その醜聞は恐らく事実だろうとも理解している。","japanesePS3":"夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。","WH":"Natsuhi completely denied the scandal about Beatrice being Kinzo's mistress.\nHowever, she also had enough sense to realize that the scandal was probably the truth.","MG":"Natsuhi was eager to deny the scandal about Beatrice being Kinzo's mistress.","UP":"Natsuhi was very resistant to the scandalous rumors that Kinzo, a man she greatly respected, had once had a concubine called Beatrice.","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_2-L0029","readerRefs":{"WH":["umi7_2-L0029"],"MG":["umi7_2-L0029"],"UP":["umi7_2-L0029"]}}],"sourceReading":"Natsuhi is strongly negative toward the scandal that the Kinzo she respects kept Beatrice as a mistress, while understanding that it is probably true.","alternative":"Her public words deny any relationship beyond gratitude, but the narrator’s とても否定的 describes her disapproving attitude. Completely denied converts that attitude into an absolute factual denial and makes the next private recognition sound contradictory.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-003","kind":"WH","description":"Lion’s existing resolve becomes an obligation to prepare.","categories":["linguistic.tense_aspect","character.motivation_emotion","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[45,45],"MG":[45,45],"UP":[45,45]},"japanese":"「これでも。右代宮家の未来を背負う覚悟はありますので」","japanesePC":"「これでも。右代宮家の未来を背負う覚悟はありますので。」","japanesePS3":"「これでも。右代宮家の未来を背負う覚悟はありますので」","WH":"\"I must be prepared to shoulder the Ushiromiya family's future, after all.\"","MG":"\"I must be prepared to shoulder the Ushiromiya family's future, after all.\"","UP":"\"I must be prepared to shoulder the Ushiromiya family's future, after all.\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0045","readerRefs":{"WH":["umi7_2-L0045"],"MG":["umi7_2-L0045"],"UP":["umi7_2-L0045"]}}],"sourceReading":"Lion says that, despite appearances, they already have the resolve to shoulder the family’s future.","alternative":"I must be prepared explains the duty but does not assert the present 覚悟はあります, resolve already possessed. This is Lion’s answer to Will’s surprise at their assertiveness.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-004","kind":"WH","description":"Thanks for Will’s cooperation become pleasure at Lion helping.","categories":["linguistic.wrong_subject","character.relationship_power","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[48,48],"MG":[48,48],"UP":[48,48]},"japanese":"「ご協力いただけて嬉しいです。","japanesePC":"「ご協力いただけて嬉しいです。愛猫のダイアナを待たせないためにも。エサの時間は大丈夫ですか？」","japanesePS3":"「ご協力いただけて嬉しいです。","WH":"\"I'm glad I can help.  I wouldn't want to keep your dear cat Diana waiting.  Don't you need to feed her soon?\"","MG":"\"I'm glad I can help.","UP":"\"I'm glad to have your cooperation.","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_2-L0048","readerRefs":{"WH":["umi7_2-L0048"],"MG":["umi7_2-L0048"],"UP":["umi7_2-L0048"]}}],"sourceReading":"Lion says they are glad to receive Will’s cooperation after setting equal-partner ground rules.","alternative":"I’m glad I can help sounds cooperative but reverses the direction of ご協力いただけて: Lion is receiving Will’s cooperation, not celebrating their own assistance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-005","kind":"WH","description":"Beatrice feeling apologetic becomes pitying Rosa.","categories":["linguistic.word_choice","character.motivation_emotion","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[153,153],"MG":[153,153],"UP":[153,153]},"japanese":"なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう」","japanesePC":"「柵の外の世界へ出たいと懇願したのは彼女だろ。お前はその夢を、束の間だけ叶えたんだ。俺がベアトリーチェなら、その束の間の時間をお前に感謝するだろうよ。なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう。」","japanesePS3":"なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう」","WH":"\"She was the one who begged to see the world outside the fence, right?  Though it was only for a short while, you made that dream of hers come true.  If I were Beatrice, I would thank you for that short bit of time.  If she knew that you've been suffering all this time for it, she'd probably feel sorry for you.\"","MG":"If she knew that you've been suffering all this time for it, she'd probably feel sorry for you.\"","UP":"If she knew that you've been suffering all this time for it, she'd probably feel bad herself.\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_2-L0150","readerRefs":{"WH":["umi7_2-L0150"],"MG":["umi7_2-L0150"],"UP":["umi7_2-L0150"]}}],"sourceReading":"Will says that if Beatrice knew Rosa had suffered so long, she would feel sorry in the sense of apologetic or indebted toward Rosa.","alternative":"Feel sorry for you normally means pitying you. 申し訳なく思う means feeling apologetic, shifting the imagined burden toward Beatrice rather than describing pity for Rosa.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-006","kind":"WH","description":"Speaking to Beatrice again becomes speaking one last time.","categories":["linguistic.overinterpretation","character.motivation_emotion","mystery.information_timing_salience"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[166,167],"MG":[166,167],"UP":[166,167]},"japanese":"嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、\n……そんな仕草だった。","japanesePC":"嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、......そんな仕草だった。","japanesePS3":"嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、\n……そんな仕草だった。","WH":"It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart...one last time.","MG":"It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart,\n...one last time.","UP":"It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart...\none last time.","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0165","readerRefs":{"WH":["umi7_2-L0165"],"MG":["umi7_2-L0165"],"UP":["umi7_2-L0165"]}}],"sourceReading":"Rosa seems to speak once more in her heart to the Beatrice she remembers from that day.","alternative":"One last time introduces finality absent from もう一度, again. The following passage says the two can finally begin their conversation and Rosa will ask in her heart whether she is forgiven, which does not establish this as their last exchange.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-007","kind":"WH","description":"Irresponsible reassurance becomes a claim that can never be proved.","categories":["linguistic.overinterpretation","character.relationship_power","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[168,168],"MG":[168,168],"UP":[168,168]},"japanese":"「……よくも、そんな無責任な言葉を、堂々と掛けられるものです」","japanesePC":"「......よくも、そんな無責任な言葉を、堂々と掛けられるものです。」\n「責任がなけりゃ。女を慰めることも出来ねぇのか。」","japanesePS3":"「……よくも、そんな無責任な言葉を、堂々と掛けられるものです」","WH":"\"......You really have no problem making claims you could never back up, don't you?\"\n\"Back up?  Is that really necessary to comfort a woman?\"","MG":"\"...You really have no problem making claims you could never back up, don't you?\"","UP":"\"......That was a lot of confidence you put behind a claim you can't back up.\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0168","readerRefs":{"WH":["umi7_2-L0168","umi7_2-L0169"],"MG":["umi7_2-L0168"],"UP":["umi7_2-L0168"]}}],"sourceReading":"Lion criticizes Will for confidently offering irresponsible reassurance; Will asks whether responsibility is required even to comfort a woman.","alternative":"Claims you could never back up reframes responsibility as evidentiary support and adds categorical never. Will’s Back up reply continues that proof framing, whereas the source exchanges 無責任 and 責任, accountability or responsibility.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-008","kind":"WH","description":"Slightly fading date recall becomes almost completely forgotten.","categories":["linguistic.overinterpretation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[203,203],"MG":[203,203],"UP":[203,203]},"japanese":"長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ」","japanesePC":".........ごめんなさい。長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ。」","japanesePS3":"長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ」","WH":"......I'm sorry.  I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\"","MG":"I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\"","UP":"I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0200","readerRefs":{"WH":["umi7_2-L0200"],"MG":["umi7_2-L0200"],"UP":["umi7_2-L0200"]}}],"sourceReading":"Rosa says that, after trying to forget for so long, she is beginning to forget that part a little.","alternative":"She hesitates among20/19/18years, so imperfect date recall is established. Nearly forgotten that part completely greatly strengthens 少し忘れかけ, a slight beginning of forgetting. Her vivid event memory is distinguished from this date uncertainty.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-009","kind":"WH","description":"The prime of adulthood becomes past her prime.","categories":["linguistic.mistranslation","world.space_time_continuity","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[260,260],"MG":[260,260],"UP":[260,260]},"japanese":"「中年、あるいは壮年に見えたか？」","japanesePC":"「中年、あるいは壮年に見えたか？」","japanesePS3":"「中年、あるいは壮年に見えたか？」","WH":"\"Did she look middle-aged or past her prime?\"","MG":"\"Did she look middle-aged or past her prime?\"","UP":"\"Did she look middle‐aged or past her prime?\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0260","readerRefs":{"WH":["PC-CANDIDATE-EP07-02-V001"],"MG":["umi7_2-L0260"],"UP":["umi7_2-L0260"]}}],"sourceReading":"Rudolf asks whether Beatrice looked middle-aged or in mature/prime adulthood.","alternative":"壮年 describes robust mature adulthood, not being past one’s prime. The question is testing an older adult age against Rosa’s near-adult girl testimony; past her prime incorrectly adds decline beyond that prime.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-010","kind":"WH","description":"A fist-sized depression becomes a fist-deep hole.","categories":["linguistic.overinterpretation","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[296,296],"MG":[296,296],"UP":[296,296]},"japanese":"それも握り拳大に陥没して…！","japanesePC":"「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して...！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」","japanesePS3":"それも握り拳大に陥没して…！","WH":"\"Yes.  I saw the insides of her cracked head!  It had caved in deep enough to fit your fist inside it...!  No one could be naive enough to see that and still hope she was alive!\"","MG":"It had caved in deep enough to fit your fist inside it...!","UP":"It had caved in deep enough to fit your fist inside it...!","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0294","readerRefs":{"WH":["umi7_2-L0294"],"MG":["umi7_2-L0294"],"UP":["umi7_2-L0294"]}}],"sourceReading":"Rosa reports that the skull was caved in by an area or depression the size of a clenched fist.","alternative":"握り拳大 specifies size. Deep enough to fit your fist inside converts it into an explicit depth/cavity claim; catastrophic injury remains in both versions, but this particular dimension is added.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-011","kind":"WH","description":"A self-serving hope becomes naive belief.","categories":["linguistic.word_choice","character.motivation_emotion","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[297,297],"MG":[297,297],"UP":[297,297]},"japanese":"あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」","japanesePC":"「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して...！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」","japanesePS3":"あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」","WH":"\"Yes.  I saw the insides of her cracked head!  It had caved in deep enough to fit your fist inside it...!  No one could be naive enough to see that and still hope she was alive!\"","MG":"No one could be naive enough to see that and still hope that she was alive!\"","UP":"No one could be naive enough to see that and still hope she was alive!\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0294","readerRefs":{"WH":["umi7_2-L0294"],"MG":["umi7_2-L0294"],"UP":["umi7_2-L0294"]}}],"sourceReading":"Rosa says that even wishing Beatrice alive after seeing that injury would be too self-serving or asking too much.","alternative":"Naive enough frames the issue as foolishly failing to recognize lethal injury. 虫が良すぎる judges the convenient/self-serving wish, fitting Rosa’s guilt and desperate hope rather than a lack of understanding.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-012","kind":"WH","description":"Rosa’s inability to tell becomes Kinzo’s ignorance.","categories":["linguistic.wrong_subject","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[328,328],"MG":[328,328],"UP":[328,328]},"japanese":"……お父様は相変わらずの書斎篭りで、何もわからない……」","japanesePC":"でも、......それはなかった。源次さんはいつものように静々と仕事をする日々。......お父様は相変わらずの書斎篭りで、何もわからない......。」","japanesePS3":"……お父様は相変わらずの書斎篭りで、何もわからない……」","WH":"But......he didn't.  Genji-san kept on doing his job quietly, just like normal.  ......Father stayed locked up in his study, not knowing any of it......\"","MG":"...Father stayed locked up in his study, not knowing any of it...\"","UP":"......Father stayed locked up in his study, not knowing any of it......\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_2-L0324","readerRefs":{"WH":["umi7_2-L0324"],"MG":["umi7_2-L0324"],"UP":["umi7_2-L0324"]}}],"sourceReading":"Kinzo stayed secluded in the study as usual, leaving Rosa unable to tell what was going on or what he knew.","alternative":"The Japanese final 何もわからない is Rosa’s lack of information in her account after Genji tells her to leave matters to him. Not knowing any of it attaches ignorance to Father, even though the preceding explanation gives Rosa no access to his reaction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-013","kind":"WH","description":"Despite being hidden becomes because she was illegitimate.","categories":["linguistic.logical_relation","character.relationship_power"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[333,333],"MG":[333,333],"UP":[333,333]},"japanese":"隠し子っちゅうたって、血をわけた子供や。","japanesePC":"「ふぅぅむ......。隠し子っちゅうたって、血をわけた子供や。その葬式もまともに挙げられんかったんなら、そら、お父さんも心苦しかったやろな......。」","japanesePS3":"隠し子っちゅうたって、血をわけた子供や。","WH":"\"Hmmmmm......  Since she was an illegitimate child, she must have been his daughter by blood.  It must have been tough for Father, not bein' able to hold a real funeral for her......\"","MG":"Even if she was an illegitimate child, she was still his daughter by blood.","UP":"Even if she was an illegitimate child, she was his own flesh and blood.","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_2-L0332","readerRefs":{"WH":["umi7_2-L0332"],"MG":["umi7_2-L0332"],"UP":["umi7_2-L0332"]}}],"sourceReading":"Hideyoshi says that even a hidden child is still his own flesh and blood, so inability to hold a proper funeral must have hurt.","alternative":"Since she was an illegitimate child she must have been his daughter by blood preserves the blood relationship but reverses the concessive force of 隠し子っちゅうたって into a causal inference. It also narrows hidden child to illegitimacy, though the nearby mistress hypothesis supports that interpretation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-014","kind":"WH","description":"Shannon’s startled upward look becomes relaxation.","categories":["linguistic.word_choice","character.voice_state","character.motivation_emotion"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[450,450],"MG":[450,450],"UP":[450,450]},"japanese":"ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。","japanesePC":"ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。","japanesePS3":"ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。","WH":"When she realized that Will didn't recognize Lion either, Shannon relaxed.","MG":"When she realized that Will didn't recognize Lion either, Shannon relaxed.","UP":"Upon hearing that Will didn't recognize Lion either, Shannon looked back up at him in surprise.","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_2-L0450","readerRefs":{"WH":["umi7_2-L0450"],"MG":["umi7_2-L0450"],"UP":["umi7_2-L0450"]}}],"sourceReading":"On learning that Will also has not met Lion, Shannon abruptly raises her face in realization.","alternative":"The next sentence separately says that she appears slightly relieved, but relaxed replaces the immediate はっと顔を上げる action rather than translating it. Her uncertain expression returns promptly.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-015","kind":"WH","description":"The veil for a serial murderer becomes a veil for murders.","categories":["linguistic.wrong_subject","mystery.mystery_character_link","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[494,494],"MG":[494,494],"UP":[494,494]},"japanese":"それが、連続殺人犯のベールとなる」","japanesePC":"「......そして夜の闇が、魔女という人格を得た。それが３人目のベアトリーチェだ。それが、連続殺人犯のベールとなる。」","japanesePS3":"それが、連続殺人犯のベールとなる」","WH":"\"......Then, the darkness of the night gained the personality of a witch.  That's the third Beatrice.  This became the veil for the serial murders.\"","MG":"This became the veil for the serial murders.\"","UP":"This is the veil the serial killer hides behind.\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_2-L0488","readerRefs":{"WH":["umi7_2-L0488"],"MG":["umi7_2-L0488"],"UP":["umi7_2-L0488"]}}],"sourceReading":"Will says the night’s witch persona becomes a veil for the serial murderer.","alternative":"Murders can also be concealed by the legend, but 連続殺人犯 expressly identifies the perpetrator, not the incidents. The explanation connects a constructed persona to a person using it as cover.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH02-016","kind":"WH","description":"Observing Shannon herself becomes generic use of authority.","categories":["linguistic.undertranslation","mystery.information_timing_salience","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[538,538],"MG":[538,538],"UP":[538,538]},"japanese":"「呼ばねぇなら、お前を“観劇”する」","japanesePC":"「呼ばねぇなら、お前を“観劇”する。」","japanesePS3":"「呼ばねぇなら、お前を“観劇”する」","WH":"\"If you don't call him, I'm going to use my authority.\"","MG":"\"If you don't call him, I'm going to use my authority.\"","UP":"\"If you don't call him, I'm going to \"watch your play\".\"","note":"Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_2-L0538","readerRefs":{"WH":["umi7_2-L0538"],"MG":["umi7_2-L0538"],"UP":["umi7_2-L0538"]}}],"sourceReading":"Will threatens to observe or theatergo Shannon herself if she does not call Kanon.","alternative":"Use my authority identifies the recently granted power, but drops お前を, its explicit target, and the quoted 観劇, the act of observing her. Earlier authority naming does not state this targeted use.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH02-001-120-001","kind":"additional","description":"MG truncates Eva’s qualifying dialogue and leaves an unmatched opening quote.","categories":["linguistic.omission","linguistic.typography"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[91,92],"MG":[91,92],"UP":[91,92]},"japanese":"「右代宮家とのかかわり、\n……って言ってもねぇ？」","japanesePC":"","japanesePS3":"「右代宮家とのかかわり、\n……って言ってもねぇ？」","WH":"","MG":"\"Her connection to the Ushiromiya family?\n\"Well,","UP":"\"Her connection to the Ushiromiya family?\n......Well, what is there to say...?\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_2-L0091","readerRefs":{"WH":[],"MG":["umi7_2-L0091"],"UP":["umi7_2-L0091"]}}],"sourceReading":"Eva qualifies the asserted family connection with って言ってもねぇ. MG ends at a new opening quote Well, before another speaker starts93. OriginalPC128586–128590 and UP retain a completed qualification.","alternative":"A trailing hesitation can be deliberate, but the unmatched quote and missing completed qualification indicate truncation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH02-121-240-001","kind":"additional","description":"MG combines incompatible determiners in to the some paradise.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_2","episode":7,"rows":{"JP":[227,227],"MG":[227,227],"UP":[227,227]},"japanese":"……自分を幸せの国へ連れて行ってくれるか、蛙にでも変えて、森の住人に変えてくれると思っていたから」","japanesePC":"","japanesePS3":"……自分を幸せの国へ連れて行ってくれるか、蛙にでも変えて、森の住人に変えてくれると思っていたから」","WH":"","MG":"...I hoped that she might take me to the some paradise, or else turn me into a frog and make me a resident of the forest.\"","UP":"......I hoped that she might take me to the land of happiness, or else turn me into a frog and make me a resident of the forest.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_2-L0221","readerRefs":{"WH":[],"MG":["umi7_2-L0221"],"UP":["umi7_2-L0221"]}}],"sourceReading":"幸せの国へ refers to the land of happiness. MG the some is malformed; UP grammatical land of happiness preserves it.","alternative":"Meaning is recoverable, but the and some cannot jointly determine paradise here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH02-001",
+      "kind": "WH",
+      "description": "A connection with the deceased becomes knowing her personally.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              18,
+              18
+            ],
+            "MG": [
+              18,
+              18
+            ],
+            "UP": [
+              18,
+              18
+            ]
+          },
+          "japanese": "故人に縁ある方だそうです」",
+          "japanesePC": "「いいえ、何も。こちらはウィルさん。故人に縁ある方だそうです。」",
+          "japanesePS3": "故人に縁ある方だそうです」",
+          "WH": "\"No, he said nothing.  This is Will-san.  It seems he knew the deceased.\"",
+          "MG": "It seems he knew the deceased.\"",
+          "UP": "It seems he knew the deceased.\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0016",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0016"
+            ],
+            "MG": [
+              "umi7_2-L0016"
+            ],
+            "UP": [
+              "umi7_2-L0016"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いいえ、何も。こちらはウィルさん。故人に縁ある方だそうです」",
+              "translation": "\"No, he said nothing. This is Will-san. It seems he knew the deceased.\" "
+            },
+            "UP": {
+              "japanese": "「いいえ、何も。こちらはウィルさん。故人に縁ある方だそうです」",
+              "translation": "\"No, he said nothing. This is Will‐san. It seems he knew the deceased.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0016"
+            ],
+            "MG": [
+              "umi7_2-L0016"
+            ],
+            "UP": [
+              "umi7_2-L0016"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion presents Will as someone reportedly connected with the deceased.",
+      "alternative": "Knew the deceased suggests personal acquaintance. 縁ある allows a connection without having met her, and Will has expressly said that he never met Beatrice. Lion is smoothing over his introduction, but the English adds a more specific cover story.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-002",
+      "kind": "WH",
+      "description": "Disapproval of the scandal becomes complete denial.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.viewpoint_attribution",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              29,
+              29
+            ],
+            "MG": [
+              29,
+              29
+            ],
+            "UP": [
+              29,
+              29
+            ]
+          },
+          "japanese": "夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。",
+          "japanesePC": "夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。\nしかし、その醜聞は恐らく事実だろうとも理解している。",
+          "japanesePS3": "夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。",
+          "WH": "Natsuhi completely denied the scandal about Beatrice being Kinzo's mistress.\nHowever, she also had enough sense to realize that the scandal was probably the truth.",
+          "MG": "Natsuhi was eager to deny the scandal about Beatrice being Kinzo's mistress.",
+          "UP": "Natsuhi was very resistant to the scandalous rumors that Kinzo, a man she greatly respected, had once had a concubine called Beatrice.",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_2-L0029",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0029"
+            ],
+            "MG": [
+              "umi7_2-L0029"
+            ],
+            "UP": [
+              "umi7_2-L0029"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。しかし、その醜聞は恐らく事実だろうとも理解している。それ以上、この話をしたくないという母の不機嫌を敏感に感じ取り、ウィルが次なる暴言を口にしない内に、話を綺麗にまとめて切り上げた。",
+              "translation": "Natsuhi was eager to deny the scandal about Beatrice being Kinzo's mistress. However, she also had enough sense to realize that this scandal was probably true. Picking up that Natsuhi was in a bad mood and didn't want to talk about this anymore, Lion brought an end to that conversation before Will could say something rude again. "
+            },
+            "UP": {
+              "japanese": "夏妃は、尊敬する金蔵にベアトリーチェという妾がいたという醜聞に対し、とても否定的だ。しかし、その醜聞は恐らく事実だろうとも理解している。それ以上、この話をしたくないという母の不機嫌を敏感に感じ取り、ウィルが次なる暴言を口にしない内に、話を綺麗にまとめて切り上げた。",
+              "translation": "Natsuhi was very resistant to the scandalous rumors that Kinzo, a man she greatly respected, had once had a concubine called Beatrice. However, she also understood that the scandal was probably the truth. Picking up that Natsuhi was in a bad mood and didn't want to talk about this anymore, Lion brought an end to that conversation before Will could say something rude again."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0029"
+            ],
+            "MG": [
+              "umi7_2-L0029"
+            ],
+            "UP": [
+              "umi7_2-L0029"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Natsuhi is strongly negative toward the scandal that the Kinzo she respects kept Beatrice as a mistress, while understanding that it is probably true.",
+      "alternative": "Her public words deny any relationship beyond gratitude, but the narrator’s とても否定的 describes her disapproving attitude. Completely denied converts that attitude into an absolute factual denial and makes the next private recognition sound contradictory.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-003",
+      "kind": "WH",
+      "description": "Lion’s existing resolve becomes an obligation to prepare.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.motivation_emotion",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              45,
+              45
+            ],
+            "MG": [
+              45,
+              45
+            ],
+            "UP": [
+              45,
+              45
+            ]
+          },
+          "japanese": "「これでも。右代宮家の未来を背負う覚悟はありますので」",
+          "japanesePC": "「これでも。右代宮家の未来を背負う覚悟はありますので。」",
+          "japanesePS3": "「これでも。右代宮家の未来を背負う覚悟はありますので」",
+          "WH": "\"I must be prepared to shoulder the Ushiromiya family's future, after all.\"",
+          "MG": "\"I must be prepared to shoulder the Ushiromiya family's future, after all.\"",
+          "UP": "\"I must be prepared to shoulder the Ushiromiya family's future, after all.\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0045",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0045"
+            ],
+            "MG": [
+              "umi7_2-L0045"
+            ],
+            "UP": [
+              "umi7_2-L0045"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「これでも。右代宮家の未来を背負う覚悟はありますので」",
+              "translation": "\"I must be prepared to shoulder the Ushiromiya family's future, after all.\" "
+            },
+            "UP": {
+              "japanese": "「これでも。右代宮家の未来を背負う覚悟はありますので」",
+              "translation": "\"I must be prepared to shoulder the Ushiromiya family's future, after all.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0045"
+            ],
+            "MG": [
+              "umi7_2-L0045"
+            ],
+            "UP": [
+              "umi7_2-L0045"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion says that, despite appearances, they already have the resolve to shoulder the family’s future.",
+      "alternative": "I must be prepared explains the duty but does not assert the present 覚悟はあります, resolve already possessed. This is Lion’s answer to Will’s surprise at their assertiveness.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-004",
+      "kind": "WH",
+      "description": "Thanks for Will’s cooperation become pleasure at Lion helping.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              48,
+              48
+            ],
+            "MG": [
+              48,
+              48
+            ],
+            "UP": [
+              48,
+              48
+            ]
+          },
+          "japanese": "「ご協力いただけて嬉しいです。",
+          "japanesePC": "「ご協力いただけて嬉しいです。愛猫のダイアナを待たせないためにも。エサの時間は大丈夫ですか？」",
+          "japanesePS3": "「ご協力いただけて嬉しいです。",
+          "WH": "\"I'm glad I can help.  I wouldn't want to keep your dear cat Diana waiting.  Don't you need to feed her soon?\"",
+          "MG": "\"I'm glad I can help.",
+          "UP": "\"I'm glad to have your cooperation.",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_2-L0048",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0048"
+            ],
+            "MG": [
+              "umi7_2-L0048"
+            ],
+            "UP": [
+              "umi7_2-L0048"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ご協力いただけて嬉しいです。愛猫のダイアナを待たせないためにも。エサの時間は大丈夫ですか？」",
+              "translation": "\"I'm glad I can help. I wouldn't want to keep your dear cat Diana waiting. Won't she need to be fed soon?\" "
+            },
+            "UP": {
+              "japanese": "「ご協力いただけて嬉しいです。愛猫のダイアナを待たせないためにも。エサの時間は大丈夫ですか？」",
+              "translation": "\"I'm glad to have your cooperation. I wouldn't want to keep your dear cat Diana waiting. Don't you need to feed her soon?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0048"
+            ],
+            "MG": [
+              "umi7_2-L0048"
+            ],
+            "UP": [
+              "umi7_2-L0048"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion says they are glad to receive Will’s cooperation after setting equal-partner ground rules.",
+      "alternative": "I’m glad I can help sounds cooperative but reverses the direction of ご協力いただけて: Lion is receiving Will’s cooperation, not celebrating their own assistance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-005",
+      "kind": "WH",
+      "description": "Beatrice feeling apologetic becomes pitying Rosa.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              153,
+              153
+            ],
+            "MG": [
+              153,
+              153
+            ],
+            "UP": [
+              153,
+              153
+            ]
+          },
+          "japanese": "なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう」",
+          "japanesePC": "「柵の外の世界へ出たいと懇願したのは彼女だろ。お前はその夢を、束の間だけ叶えたんだ。俺がベアトリーチェなら、その束の間の時間をお前に感謝するだろうよ。なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう。」",
+          "japanesePS3": "なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう」",
+          "WH": "\"She was the one who begged to see the world outside the fence, right?  Though it was only for a short while, you made that dream of hers come true.  If I were Beatrice, I would thank you for that short bit of time.  If she knew that you've been suffering all this time for it, she'd probably feel sorry for you.\"",
+          "MG": "If she knew that you've been suffering all this time for it, she'd probably feel sorry for you.\"",
+          "UP": "If she knew that you've been suffering all this time for it, she'd probably feel bad herself.\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_2-L0150",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0150"
+            ],
+            "MG": [
+              "umi7_2-L0150"
+            ],
+            "UP": [
+              "umi7_2-L0150"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「柵の外の世界へ出たいと懇願したのは彼女だろ。お前はその夢を、束の間だけ叶えたんだ。俺がベアトリーチェなら、その束の間の時間をお前に感謝するだろうよ。なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう」「……ベアトリーチェは、お前に感謝してる。海が青いってことを、教えてくれたあんたをな」",
+              "translation": "\"She's the one who begged to see the world outside the fence, right? Though it was only for a short while, you made that dream of hers come true. If I were Beatrice, I'd thank you for that short bit of time. If she knew that you've been suffering all this time for it, she'd probably feel sorry for you.\" \"...Beatrice is grateful for what you did. You're the one who taught her that the sea is blue.\" "
+            },
+            "UP": {
+              "japanese": "「柵の外の世界へ出たいと懇願したのは彼女だろ。お前はその夢を、束の間だけ叶えたんだ。俺がベアトリーチェなら、その束の間の時間をお前に感謝するだろうよ。なのにお前が、いつまでも苦しんでると知ったら、申し訳なく思うだろう」「……ベアトリーチェは、お前に感謝してる。海が青いってことを、教えてくれたあんたをな」",
+              "translation": "\"She was the one who begged to see the world outside the fence, right? Though it was only for a short while, you made that dream of hers come true. If I were Beatrice, I would thank you for that short bit of time. If she knew that you've been suffering all this time for it, she'd probably feel bad herself.\" \"......Beatrice is grateful for what you did. You're the one who taught her that the sea is blue.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0150"
+            ],
+            "MG": [
+              "umi7_2-L0150"
+            ],
+            "UP": [
+              "umi7_2-L0150"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will says that if Beatrice knew Rosa had suffered so long, she would feel sorry in the sense of apologetic or indebted toward Rosa.",
+      "alternative": "Feel sorry for you normally means pitying you. 申し訳なく思う means feeling apologetic, shifting the imagined burden toward Beatrice rather than describing pity for Rosa.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-006",
+      "kind": "WH",
+      "description": "Speaking to Beatrice again becomes speaking one last time.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.motivation_emotion",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              166,
+              167
+            ],
+            "MG": [
+              166,
+              167
+            ],
+            "UP": [
+              166,
+              167
+            ]
+          },
+          "japanese": "嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、\n……そんな仕草だった。",
+          "japanesePC": "嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、......そんな仕草だった。",
+          "japanesePS3": "嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、\n……そんな仕草だった。",
+          "WH": "It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart...one last time.",
+          "MG": "It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart,\n...one last time.",
+          "UP": "It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart...\none last time.",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0165",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0165"
+            ],
+            "MG": [
+              "umi7_2-L0165"
+            ],
+            "UP": [
+              "umi7_2-L0165"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "楼座はもう一度ハンカチで目元を拭い、俯く。嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、……そんな仕草だった。",
+              "translation": "Rosa wiped her eyes with the handkerchief one more time and hung her head. It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart, ...one last time. "
+            },
+            "UP": {
+              "japanese": "楼座はもう一度ハンカチで目元を拭い、俯く。嗚咽ではなく、自分の心の中でもう一度、あの日のベアトリーチェに語り掛けているような、……そんな仕草だった。",
+              "translation": "Rosa wiped her eyes with the handkerchief one more time and hung her head. It no longer looked like a fit of sobbing, but more as though she was speaking with the Beatrice of that day within her heart... one last time."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0165"
+            ],
+            "MG": [
+              "umi7_2-L0165"
+            ],
+            "UP": [
+              "umi7_2-L0165"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa seems to speak once more in her heart to the Beatrice she remembers from that day.",
+      "alternative": "One last time introduces finality absent from もう一度, again. The following passage says the two can finally begin their conversation and Rosa will ask in her heart whether she is forgiven, which does not establish this as their last exchange.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-007",
+      "kind": "WH",
+      "description": "Irresponsible reassurance becomes a claim that can never be proved.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.relationship_power",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              168,
+              168
+            ],
+            "MG": [
+              168,
+              168
+            ],
+            "UP": [
+              168,
+              168
+            ]
+          },
+          "japanese": "「……よくも、そんな無責任な言葉を、堂々と掛けられるものです」",
+          "japanesePC": "「......よくも、そんな無責任な言葉を、堂々と掛けられるものです。」\n「責任がなけりゃ。女を慰めることも出来ねぇのか。」",
+          "japanesePS3": "「……よくも、そんな無責任な言葉を、堂々と掛けられるものです」",
+          "WH": "\"......You really have no problem making claims you could never back up, don't you?\"\n\"Back up?  Is that really necessary to comfort a woman?\"",
+          "MG": "\"...You really have no problem making claims you could never back up, don't you?\"",
+          "UP": "\"......That was a lot of confidence you put behind a claim you can't back up.\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0168",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0168",
+              "umi7_2-L0169"
+            ],
+            "MG": [
+              "umi7_2-L0168"
+            ],
+            "UP": [
+              "umi7_2-L0168"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……よくも、そんな無責任な言葉を、堂々と掛けられるものです」",
+              "translation": "\"...You really have no problem making claims you could never back up, don't you?\" "
+            },
+            "UP": {
+              "japanese": "「……よくも、そんな無責任な言葉を、堂々と掛けられるものです」",
+              "translation": "\"......That was a lot of confidence you put behind a claim you can't back up.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0168",
+              "umi7_2-L0169"
+            ],
+            "MG": [
+              "umi7_2-L0168"
+            ],
+            "UP": [
+              "umi7_2-L0168"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion criticizes Will for confidently offering irresponsible reassurance; Will asks whether responsibility is required even to comfort a woman.",
+      "alternative": "Claims you could never back up reframes responsibility as evidentiary support and adds categorical never. Will’s Back up reply continues that proof framing, whereas the source exchanges 無責任 and 責任, accountability or responsibility.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-008",
+      "kind": "WH",
+      "description": "Slightly fading date recall becomes almost completely forgotten.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              203,
+              203
+            ],
+            "MG": [
+              203,
+              203
+            ],
+            "UP": [
+              203,
+              203
+            ]
+          },
+          "japanese": "長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ」",
+          "japanesePC": ".........ごめんなさい。長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ。」",
+          "japanesePS3": "長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ」",
+          "WH": "......I'm sorry.  I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\"",
+          "MG": "I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\"",
+          "UP": "I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0200",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0200"
+            ],
+            "MG": [
+              "umi7_2-L0200"
+            ],
+            "UP": [
+              "umi7_2-L0200"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……２０年ほど昔の話よ。………２０、………いえ、１９年前か１８年前かもしれない。………ごめんなさい。長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ」",
+              "translation": "\"...It was about 20 years ago. ...20...or wait, it might have been 19 or 18 years ago. ...I'm sorry. I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\" "
+            },
+            "UP": {
+              "japanese": "「……２０年ほど昔の話よ。………２０、………いえ、１９年前か１８年前かもしれない。………ごめんなさい。長いこと、無理に忘れようとしてきたものだから、そこは少し忘れかけてるわ」",
+              "translation": "\"......It was about twenty years ago. .........Twenty.........or, wait, it might have been nineteen or eighteen years ago. .........I'm sorry. I've tried to force myself to forget it for so long that I've nearly forgotten that part completely.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0200"
+            ],
+            "MG": [
+              "umi7_2-L0200"
+            ],
+            "UP": [
+              "umi7_2-L0200"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa says that, after trying to forget for so long, she is beginning to forget that part a little.",
+      "alternative": "She hesitates among20/19/18years, so imperfect date recall is established. Nearly forgotten that part completely greatly strengthens 少し忘れかけ, a slight beginning of forgetting. Her vivid event memory is distinguished from this date uncertainty.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-009",
+      "kind": "WH",
+      "description": "The prime of adulthood becomes past her prime.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              260,
+              260
+            ],
+            "MG": [
+              260,
+              260
+            ],
+            "UP": [
+              260,
+              260
+            ]
+          },
+          "japanese": "「中年、あるいは壮年に見えたか？」",
+          "japanesePC": "「中年、あるいは壮年に見えたか？」",
+          "japanesePS3": "「中年、あるいは壮年に見えたか？」",
+          "WH": "\"Did she look middle-aged or past her prime?\"",
+          "MG": "\"Did she look middle-aged or past her prime?\"",
+          "UP": "\"Did she look middle‐aged or past her prime?\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0260",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-02-V001"
+            ],
+            "MG": [
+              "umi7_2-L0260"
+            ],
+            "UP": [
+              "umi7_2-L0260"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「中年、あるいは壮年に見えたか？」",
+              "translation": "\"Did she look middle-aged or past her prime?\" "
+            },
+            "UP": {
+              "japanese": "「中年、あるいは壮年に見えたか？」",
+              "translation": "\"Did she look middle‐aged or past her prime?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-02-V001"
+            ],
+            "MG": [
+              "umi7_2-L0260"
+            ],
+            "UP": [
+              "umi7_2-L0260"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rudolf asks whether Beatrice looked middle-aged or in mature/prime adulthood.",
+      "alternative": "壮年 describes robust mature adulthood, not being past one’s prime. The question is testing an older adult age against Rosa’s near-adult girl testimony; past her prime incorrectly adds decline beyond that prime.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-010",
+      "kind": "WH",
+      "description": "A fist-sized depression becomes a fist-deep hole.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              296,
+              296
+            ],
+            "MG": [
+              296,
+              296
+            ],
+            "UP": [
+              296,
+              296
+            ]
+          },
+          "japanese": "それも握り拳大に陥没して…！",
+          "japanesePC": "「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して...！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+          "japanesePS3": "それも握り拳大に陥没して…！",
+          "WH": "\"Yes.  I saw the insides of her cracked head!  It had caved in deep enough to fit your fist inside it...!  No one could be naive enough to see that and still hope she was alive!\"",
+          "MG": "It had caved in deep enough to fit your fist inside it...!",
+          "UP": "It had caved in deep enough to fit your fist inside it...!",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0294",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0294"
+            ],
+            "MG": [
+              "umi7_2-L0294"
+            ],
+            "UP": [
+              "umi7_2-L0294"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して…！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+              "translation": "\"Yes. I saw the insides of her cracked head! It had caved in deep enough to fit your fist inside it...! No one could be naive enough to see that and still hope that she was alive!\" "
+            },
+            "UP": {
+              "japanese": "「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して…！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+              "translation": "\"Yes. I saw the insides of her cracked head! It had caved in deep enough to fit your fist inside it...! No one could be naive enough to see that and still hope she was alive!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0294"
+            ],
+            "MG": [
+              "umi7_2-L0294"
+            ],
+            "UP": [
+              "umi7_2-L0294"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa reports that the skull was caved in by an area or depression the size of a clenched fist.",
+      "alternative": "握り拳大 specifies size. Deep enough to fit your fist inside converts it into an explicit depth/cavity claim; catastrophic injury remains in both versions, but this particular dimension is added.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-011",
+      "kind": "WH",
+      "description": "A self-serving hope becomes naive belief.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              297,
+              297
+            ],
+            "MG": [
+              297,
+              297
+            ],
+            "UP": [
+              297,
+              297
+            ]
+          },
+          "japanese": "あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+          "japanesePC": "「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して...！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+          "japanesePS3": "あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+          "WH": "\"Yes.  I saw the insides of her cracked head!  It had caved in deep enough to fit your fist inside it...!  No one could be naive enough to see that and still hope she was alive!\"",
+          "MG": "No one could be naive enough to see that and still hope that she was alive!\"",
+          "UP": "No one could be naive enough to see that and still hope she was alive!\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0294",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0294"
+            ],
+            "MG": [
+              "umi7_2-L0294"
+            ],
+            "UP": [
+              "umi7_2-L0294"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して…！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+              "translation": "\"Yes. I saw the insides of her cracked head! It had caved in deep enough to fit your fist inside it...! No one could be naive enough to see that and still hope that she was alive!\" "
+            },
+            "UP": {
+              "japanese": "「えぇ。割れた頭の中身を見たわ！　それも握り拳大に陥没して…！　あれを見て、生きてて欲しいなんて、幾らなんでも虫が良すぎるわ！」",
+              "translation": "\"Yes. I saw the insides of her cracked head! It had caved in deep enough to fit your fist inside it...! No one could be naive enough to see that and still hope she was alive!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0294"
+            ],
+            "MG": [
+              "umi7_2-L0294"
+            ],
+            "UP": [
+              "umi7_2-L0294"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa says that even wishing Beatrice alive after seeing that injury would be too self-serving or asking too much.",
+      "alternative": "Naive enough frames the issue as foolishly failing to recognize lethal injury. 虫が良すぎる judges the convenient/self-serving wish, fitting Rosa’s guilt and desperate hope rather than a lack of understanding.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-012",
+      "kind": "WH",
+      "description": "Rosa’s inability to tell becomes Kinzo’s ignorance.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              328,
+              328
+            ],
+            "MG": [
+              328,
+              328
+            ],
+            "UP": [
+              328,
+              328
+            ]
+          },
+          "japanese": "……お父様は相変わらずの書斎篭りで、何もわからない……」",
+          "japanesePC": "でも、......それはなかった。源次さんはいつものように静々と仕事をする日々。......お父様は相変わらずの書斎篭りで、何もわからない......。」",
+          "japanesePS3": "……お父様は相変わらずの書斎篭りで、何もわからない……」",
+          "WH": "But......he didn't.  Genji-san kept on doing his job quietly, just like normal.  ......Father stayed locked up in his study, not knowing any of it......\"",
+          "MG": "...Father stayed locked up in his study, not knowing any of it...\"",
+          "UP": "......Father stayed locked up in his study, not knowing any of it......\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_2-L0324",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0324"
+            ],
+            "MG": [
+              "umi7_2-L0324"
+            ],
+            "UP": [
+              "umi7_2-L0324"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「自分に全て任せ、誰にもこのことは言わないようにと。……後日、きっとお父様に呼び出されてひどく叱られるだろうと、数日の間、怯えたわ」「でも、……それはなかった。源次さんはいつものように静々と仕事をする日々。……お父様は相変わらずの書斎篭りで、何もわからない……」",
+              "translation": "\"He told me to let him handle everything and to speak of this to no one. ...I spent the next several days terrified that Father would call for me and scold me brutally. But...he didn't. Genji-san kept on doing his job quietly, just like normal. ...Father stayed locked up in his study, not knowing any of it...\" "
+            },
+            "UP": {
+              "japanese": "「自分に全て任せ、誰にもこのことは言わないようにと。……後日、きっとお父様に呼び出されてひどく叱られるだろうと、数日の間、怯えたわ」「でも、……それはなかった。源次さんはいつものように静々と仕事をする日々。……お父様は相変わらずの書斎篭りで、何もわからない……」",
+              "translation": "\"He told me to let him handle everything, and to speak of this to no one. ......I spent the next several days terrified that Father would call for me and scold me brutally.\" \"But......he didn't. Genji‐san kept on doing his job quietly, just like normal. ......Father stayed locked up in his study, not knowing any of it......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0324"
+            ],
+            "MG": [
+              "umi7_2-L0324"
+            ],
+            "UP": [
+              "umi7_2-L0324"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo stayed secluded in the study as usual, leaving Rosa unable to tell what was going on or what he knew.",
+      "alternative": "The Japanese final 何もわからない is Rosa’s lack of information in her account after Genji tells her to leave matters to him. Not knowing any of it attaches ignorance to Father, even though the preceding explanation gives Rosa no access to his reaction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-013",
+      "kind": "WH",
+      "description": "Despite being hidden becomes because she was illegitimate.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              333,
+              333
+            ],
+            "MG": [
+              333,
+              333
+            ],
+            "UP": [
+              333,
+              333
+            ]
+          },
+          "japanese": "隠し子っちゅうたって、血をわけた子供や。",
+          "japanesePC": "「ふぅぅむ......。隠し子っちゅうたって、血をわけた子供や。その葬式もまともに挙げられんかったんなら、そら、お父さんも心苦しかったやろな......。」",
+          "japanesePS3": "隠し子っちゅうたって、血をわけた子供や。",
+          "WH": "\"Hmmmmm......  Since she was an illegitimate child, she must have been his daughter by blood.  It must have been tough for Father, not bein' able to hold a real funeral for her......\"",
+          "MG": "Even if she was an illegitimate child, she was still his daughter by blood.",
+          "UP": "Even if she was an illegitimate child, she was his own flesh and blood.",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_2-L0332",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0332"
+            ],
+            "MG": [
+              "umi7_2-L0332"
+            ],
+            "UP": [
+              "umi7_2-L0332"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ふぅぅむ……。隠し子っちゅうたって、血をわけた子供や。その葬式もまともに挙げられんかったんなら、そら、お父さんも心苦しかったやろな……」",
+              "translation": "\"Hmmmmm... Even if she was an illegitimate child, she was still his daughter by blood. It must've been tough for Father, not bein' able to hold a real funeral for her...\" "
+            },
+            "UP": {
+              "japanese": "「ふぅぅむ……。隠し子っちゅうたって、血をわけた子供や。その葬式もまともに挙げられんかったんなら、そら、お父さんも心苦しかったやろな……」",
+              "translation": "\"Hmmmmm...... Even if she was an illegitimate child, she was his own flesh and blood. It must have been tough for Father, not bein' able to hold a real funeral for her......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0332"
+            ],
+            "MG": [
+              "umi7_2-L0332"
+            ],
+            "UP": [
+              "umi7_2-L0332"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Hideyoshi says that even a hidden child is still his own flesh and blood, so inability to hold a proper funeral must have hurt.",
+      "alternative": "Since she was an illegitimate child she must have been his daughter by blood preserves the blood relationship but reverses the concessive force of 隠し子っちゅうたって into a causal inference. It also narrows hidden child to illegitimacy, though the nearby mistress hypothesis supports that interpretation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-014",
+      "kind": "WH",
+      "description": "Shannon’s startled upward look becomes relaxation.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              450,
+              450
+            ],
+            "MG": [
+              450,
+              450
+            ],
+            "UP": [
+              450,
+              450
+            ]
+          },
+          "japanese": "ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。",
+          "japanesePC": "ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。",
+          "japanesePS3": "ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。",
+          "WH": "When she realized that Will didn't recognize Lion either, Shannon relaxed.",
+          "MG": "When she realized that Will didn't recognize Lion either, Shannon relaxed.",
+          "UP": "Upon hearing that Will didn't recognize Lion either, Shannon looked back up at him in surprise.",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_2-L0450",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0450"
+            ],
+            "MG": [
+              "umi7_2-L0450"
+            ],
+            "UP": [
+              "umi7_2-L0450"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。自分だけがおかしいわけではないことがわかり、ほんの少し安堵したようだった。……しかしその表情はすぐに、不安なものへと戻る。",
+              "translation": "When she realized that Will didn't recognize Lion either, Shannon relaxed. Apparently, she was a bit relieved to find that she wasn't going crazy by herself. ...However, her expression quickly grew uncertain once more. "
+            },
+            "UP": {
+              "japanese": "ウィルにも面識がないことを知り、紗音は、はっと顔を上げる。自分だけがおかしいわけではないことがわかり、ほんの少し安堵したようだった。……しかしその表情はすぐに、不安なものへと戻る。",
+              "translation": "Upon hearing that Will didn't recognize Lion either, Shannon looked back up at him in surprise. Apparently, she was a bit relieved to find that she wasn't going crazy by herself. ......However, her expression quickly grew uncertain once more."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0450"
+            ],
+            "MG": [
+              "umi7_2-L0450"
+            ],
+            "UP": [
+              "umi7_2-L0450"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "On learning that Will also has not met Lion, Shannon abruptly raises her face in realization.",
+      "alternative": "The next sentence separately says that she appears slightly relieved, but relaxed replaces the immediate はっと顔を上げる action rather than translating it. Her uncertain expression returns promptly.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-015",
+      "kind": "WH",
+      "description": "The veil for a serial murderer becomes a veil for murders.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "mystery.mystery_character_link",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              494,
+              494
+            ],
+            "MG": [
+              494,
+              494
+            ],
+            "UP": [
+              494,
+              494
+            ]
+          },
+          "japanese": "それが、連続殺人犯のベールとなる」",
+          "japanesePC": "「......そして夜の闇が、魔女という人格を得た。それが３人目のベアトリーチェだ。それが、連続殺人犯のベールとなる。」",
+          "japanesePS3": "それが、連続殺人犯のベールとなる」",
+          "WH": "\"......Then, the darkness of the night gained the personality of a witch.  That's the third Beatrice.  This became the veil for the serial murders.\"",
+          "MG": "This became the veil for the serial murders.\"",
+          "UP": "This is the veil the serial killer hides behind.\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_2-L0488",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0488"
+            ],
+            "MG": [
+              "umi7_2-L0488"
+            ],
+            "UP": [
+              "umi7_2-L0488"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……古戸ヱリカの推理は正しいだろう。元々、六軒島に存在した悪霊の伝説。そこに金蔵のオカルト趣味と謎の女、ベアトリーチェの名前や肖像画、碑文が次第に加味されていき、黄金の魔女伝説に統合された」「……そして夜の闇が、魔女という人格を得た。それが３人目のベアトリーチェだ。それが、連続殺人犯のベールとなる」",
+              "translation": "\"...Furudo Erika's reasoning was probably correct. It started out as a legend of evil spirits on Rokkenjima. Later on, elements such as Kinzo's occult hobbies, the name and portrait of the mysterious woman, Beatrice, and the epitaph got mixed in, and it was all integrated into the Legend of the Golden Witch.\" \"...Then, the darkness of the night gained the personality of a witch. That's the third Beatrice. This became the veil for the serial murders.\" "
+            },
+            "UP": {
+              "japanese": "「……古戸ヱリカの推理は正しいだろう。元々、六軒島に存在した悪霊の伝説。そこに金蔵のオカルト趣味と謎の女、ベアトリーチェの名前や肖像画、碑文が次第に加味されていき、黄金の魔女伝説に統合された」「……そして夜の闇が、魔女という人格を得た。それが３人目のベアトリーチェだ。それが、連続殺人犯のベールとなる」",
+              "translation": "\"......Furudo Erika's reasoning was probably correct. It started out as the legend of the evil spirits on Rokkenjima. Later on, elements such as Kinzo's occult hobbies, the name and portrait of the mysterious woman \"Beatrice\", and the epitaph got mixed in, and it all fused into the legend of the Golden Witch.\" \"......And so the darkness of the night gained the personality of a witch. That's the third Beatrice. This is the veil the serial killer hides behind.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0488"
+            ],
+            "MG": [
+              "umi7_2-L0488"
+            ],
+            "UP": [
+              "umi7_2-L0488"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will says the night’s witch persona becomes a veil for the serial murderer.",
+      "alternative": "Murders can also be concealed by the legend, but 連続殺人犯 expressly identifies the perpetrator, not the incidents. The explanation connects a constructed persona to a person using it as cover.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH02-016",
+      "kind": "WH",
+      "description": "Observing Shannon herself becomes generic use of authority.",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.information_timing_salience",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              538,
+              538
+            ],
+            "MG": [
+              538,
+              538
+            ],
+            "UP": [
+              538,
+              538
+            ]
+          },
+          "japanese": "「呼ばねぇなら、お前を“観劇”する」",
+          "japanesePC": "「呼ばねぇなら、お前を“観劇”する。」",
+          "japanesePS3": "「呼ばねぇなら、お前を“観劇”する」",
+          "WH": "\"If you don't call him, I'm going to use my authority.\"",
+          "MG": "\"If you don't call him, I'm going to use my authority.\"",
+          "UP": "\"If you don't call him, I'm going to \"watch your play\".\"",
+          "note": "Full source-first continuous three-witness reading in durable reports; parent checked91–93,120,227 and363–379. UP373 That’s one for you to answer functionally returns Bern’s how-is-game question to her, consistent with Will saying he should ask it; rejected as firm subject reversal. MG120 there’s been plural stories is informal existential agreement in dialogue, held. MG92 truncation and227 conflicting determiners are firm. Inherited MG88 chronology, UP533 birthmark and MG601 take-over wording held conservatively. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_2-L0538",
+          "readerRefs": {
+            "WH": [
+              "umi7_2-L0538"
+            ],
+            "MG": [
+              "umi7_2-L0538"
+            ],
+            "UP": [
+              "umi7_2-L0538"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「呼ばねぇなら、お前を“観劇”する」",
+              "translation": "\"If you don't call him, I'm going to use my authority.\" "
+            },
+            "UP": {
+              "japanese": "「呼ばねぇなら、お前を“観劇”する」",
+              "translation": "\"If you don't call him, I'm going to \"watch your play\".\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_2-L0538"
+            ],
+            "MG": [
+              "umi7_2-L0538"
+            ],
+            "UP": [
+              "umi7_2-L0538"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will threatens to observe or theatergo Shannon herself if she does not call Kanon.",
+      "alternative": "Use my authority identifies the recently granted power, but drops お前を, its explicit target, and the quoted 観劇, the act of observing her. Earlier authority naming does not state this targeted use.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH02-001-120-001",
+      "kind": "additional",
+      "description": "MG truncates Eva’s qualifying dialogue and leaves an unmatched opening quote.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.typography"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              91,
+              92
+            ],
+            "MG": [
+              91,
+              92
+            ],
+            "UP": [
+              91,
+              92
+            ]
+          },
+          "japanese": "「右代宮家とのかかわり、\n……って言ってもねぇ？」",
+          "japanesePC": "",
+          "japanesePS3": "「右代宮家とのかかわり、\n……って言ってもねぇ？」",
+          "WH": "",
+          "MG": "\"Her connection to the Ushiromiya family?\n\"Well,",
+          "UP": "\"Her connection to the Ushiromiya family?\n......Well, what is there to say...?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_2-L0091",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_2-L0091"
+            ],
+            "UP": [
+              "umi7_2-L0091"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「右代宮家とのかかわり、……って言ってもねぇ？」",
+              "translation": "\"Her connection to the Ushiromiya family? \"Well, "
+            },
+            "UP": {
+              "japanese": "「右代宮家とのかかわり、……って言ってもねぇ？」",
+              "translation": "\"Her connection to the Ushiromiya family? ......Well, what is there to say...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_2-L0091"
+            ],
+            "UP": [
+              "umi7_2-L0091"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva qualifies the asserted family connection with って言ってもねぇ. MG ends at a new opening quote Well, before another speaker starts93. OriginalPC128586–128590 and UP retain a completed qualification.",
+      "alternative": "A trailing hesitation can be deliberate, but the unmatched quote and missing completed qualification indicate truncation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH02-121-240-001",
+      "kind": "additional",
+      "description": "MG combines incompatible determiners in to the some paradise.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_2",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              227,
+              227
+            ],
+            "MG": [
+              227,
+              227
+            ],
+            "UP": [
+              227,
+              227
+            ]
+          },
+          "japanese": "……自分を幸せの国へ連れて行ってくれるか、蛙にでも変えて、森の住人に変えてくれると思っていたから」",
+          "japanesePC": "",
+          "japanesePS3": "……自分を幸せの国へ連れて行ってくれるか、蛙にでも変えて、森の住人に変えてくれると思っていたから」",
+          "WH": "",
+          "MG": "...I hoped that she might take me to the some paradise, or else turn me into a frog and make me a resident of the forest.\"",
+          "UP": "......I hoped that she might take me to the land of happiness, or else turn me into a frog and make me a resident of the forest.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_2-L0221",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_2-L0221"
+            ],
+            "UP": [
+              "umi7_2-L0221"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「自分でも驚くわ……。あんな鬱蒼とした森を、よくもあんなに深くまで。……たくさんの梢や鋭い葉っぱで苛まれたわ」「でも、あの日の私は気にしなかった。……森の奥へ消えることで、永遠に消えてしまいたかったし。……もし、本当に森の奥に魔女の館があったなら、……自分を幸せの国へ連れて行ってくれるか、蛙にでも変えて、森の住人に変えてくれると思っていたから」",
+              "translation": "\"I even surprised myself... To think that I made it so far into such a dense forest. ...I was tormented by twigs and sharp leaves over and over again.\" \"However, that wasn't enough to bother me on that day. ...After all, I wanted to disappear into the forest and vanish forever. ...If, by some chance, there really was a witch's mansion in the depths of the forest, ...I hoped that she might take me to the some paradise, or else turn me into a frog and make me a resident of the forest.\" "
+            },
+            "UP": {
+              "japanese": "「自分でも驚くわ……。あんな鬱蒼とした森を、よくもあんなに深くまで。……たくさんの梢や鋭い葉っぱで苛まれたわ」「でも、あの日の私は気にしなかった。……森の奥へ消えることで、永遠に消えてしまいたかったし。……もし、本当に森の奥に魔女の館があったなら、……自分を幸せの国へ連れて行ってくれるか、蛙にでも変えて、森の住人に変えてくれると思っていたから」",
+              "translation": "\"I even surprised myself...... To think that I made it so far into such a dense forest. ......I was tormented by twigs and sharp leaves over and over again.\" \"However, that wasn't enough to bother me on that day. ......After all, I wanted to disappear into the forest and vanish forever. ......If, by some chance, there really was a witch's mansion in the depths of the forest, ......I hoped that she might take me to the land of happiness, or else turn me into a frog and make me a resident of the forest.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_2-L0221"
+            ],
+            "UP": [
+              "umi7_2-L0221"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "幸せの国へ refers to the land of happiness. MG the some is malformed; UP grammatical land of happiness preserves it.",
+      "alternative": "Meaning is recoverable, but the and some cannot jointly determine paradise here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH02-001": {
+      "umi7_2-L0016": {
+        "WH": [
+          "he knew the deceased"
+        ],
+        "MG": [
+          "he knew the deceased"
+        ],
+        "UP": [
+          "he knew the deceased"
+        ]
+      }
+    },
+    "WH-EP07-CH02-002": {
+      "umi7_2-L0029": {
+        "WH": [
+          "completely denied the scandal"
+        ],
+        "MG": [
+          "was eager to deny the scandal"
+        ]
+      }
+    },
+    "WH-EP07-CH02-003": {
+      "umi7_2-L0045": {
+        "WH": [
+          "I must be prepared to shoulder the Ushiromiya family's future"
+        ],
+        "UP": [
+          "I must be prepared to shoulder the Ushiromiya family's future"
+        ],
+        "MG": [
+          "I must be prepared to shoulder the Ushiromiya family's future"
+        ]
+      }
+    },
+    "WH-EP07-CH02-004": {
+      "umi7_2-L0048": {
+        "WH": [
+          "I'm glad I can help"
+        ],
+        "MG": [
+          "I'm glad I can help"
+        ]
+      }
+    },
+    "WH-EP07-CH02-005": {
+      "umi7_2-L0150": {
+        "WH": [
+          "she'd probably feel sorry for you"
+        ],
+        "MG": [
+          "she'd probably feel sorry for you"
+        ]
+      }
+    },
+    "WH-EP07-CH02-006": {
+      "umi7_2-L0165": {
+        "WH": [
+          "one last time"
+        ],
+        "MG": [
+          "one last time"
+        ],
+        "UP": [
+          "one last time"
+        ]
+      }
+    },
+    "WH-EP07-CH02-007": {
+      "umi7_2-L0168": {
+        "WH": [
+          "claims you could never back up"
+        ],
+        "MG": [
+          "claims you could never back up"
+        ],
+        "UP": [
+          "a claim you can't back up"
+        ]
+      },
+      "umi7_2-L0169": {
+        "WH": [
+          "Back up"
+        ]
+      }
+    },
+    "WH-EP07-CH02-008": {
+      "umi7_2-L0200": {
+        "WH": [
+          "I've nearly forgotten that part completely"
+        ],
+        "MG": [
+          "I've nearly forgotten that part completely"
+        ],
+        "UP": [
+          "I've nearly forgotten that part completely"
+        ]
+      }
+    },
+    "WH-EP07-CH02-009": {
+      "PC-CANDIDATE-EP07-02-V001": {
+        "WH": [
+          "past her prime"
+        ]
+      },
+      "umi7_2-L0260": {
+        "MG": [
+          "past her prime"
+        ],
+        "UP": [
+          "past her prime"
+        ]
+      }
+    },
+    "WH-EP07-CH02-010": {
+      "umi7_2-L0294": {
+        "WH": [
+          "caved in deep enough to fit your fist inside it"
+        ],
+        "MG": [
+          "caved in deep enough to fit your fist inside it"
+        ],
+        "UP": [
+          "caved in deep enough to fit your fist inside it"
+        ]
+      }
+    },
+    "WH-EP07-CH02-011": {
+      "umi7_2-L0294": {
+        "WH": [
+          "No one could be naive enough"
+        ],
+        "MG": [
+          "No one could be naive enough"
+        ],
+        "UP": [
+          "No one could be naive enough"
+        ]
+      }
+    },
+    "WH-EP07-CH02-012": {
+      "umi7_2-L0324": {
+        "WH": [
+          "not knowing any of it"
+        ],
+        "MG": [
+          "not knowing any of it"
+        ],
+        "UP": [
+          "not knowing any of it"
+        ]
+      }
+    },
+    "WH-EP07-CH02-013": {
+      "umi7_2-L0332": {
+        "WH": [
+          "Since she was an illegitimate child, she must have been his daughter by blood"
+        ]
+      }
+    },
+    "WH-EP07-CH02-014": {
+      "umi7_2-L0450": {
+        "WH": [
+          "Shannon relaxed"
+        ],
+        "MG": [
+          "Shannon relaxed"
+        ]
+      }
+    },
+    "WH-EP07-CH02-015": {
+      "umi7_2-L0488": {
+        "WH": [
+          "the veil for the serial murders"
+        ],
+        "MG": [
+          "the veil for the serial murders"
+        ]
+      }
+    },
+    "WH-EP07-CH02-016": {
+      "umi7_2-L0538": {
+        "WH": [
+          "I'm going to use my authority"
+        ],
+        "MG": [
+          "I'm going to use my authority"
+        ]
+      }
+    },
+    "PAIR-EP07-CH02-001-120-001": {
+      "umi7_2-L0091": {
+        "MG": [
+          "\"Her connection to the Ushiromiya family? \"Well,"
+        ]
+      }
+    },
+    "PAIR-EP07-CH02-121-240-001": {
+      "umi7_2-L0221": {
+        "MG": [
+          "to the some paradise"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

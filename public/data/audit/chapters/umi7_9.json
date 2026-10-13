@@ -1,1 +1,1018 @@
-{"findings":[{"id":"WH-EP07-CH09-001","kind":"WH","description":"News brought to the orphanage becomes the children being brought there.","categories":["linguistic.wrong_subject","world.space_time_continuity","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[26,28],"MG":[26,28],"UP":[26,28]},"japanese":"「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、\n神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。\n我等にはそれを知る由もなし」","japanesePC":"「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。我等にはそれを知る由もなし。」","japanesePS3":"「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、\n神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。\n我等にはそれを知る由もなし」","WH":"\"When we were brought to the temporary dwelling where sad, parent-less children gather, was that a sign of God's salvation, or a lure into the demon's game where the new fate would torment us?  We have no way of knowing.\"","MG":"\"When we were brought to the temporary dwelling where sad, parentless children gather,\nwas that a sign of God's salvation, or a lure into the demon's game where the new fate would torment us?\nWe have no way of knowing.\"","UP":"\"The tidings brought to the temporary dwelling where unfortunate children without mother or father gather—\ndo they herald God's salvation, or does the Devil beckon us to be the playthings of a new fate?\nWe have no means of knowing.\"","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_9-L0026","readerRefs":{"WH":["PC-CANDIDATE-EP07-09-V001"],"MG":["umi7_9-L0026"],"UP":["umi7_9-L0026"]}}],"sourceReading":"What is brought to the temporary home of parentless children may be news of divine salvation or an invitation into a demon’s game.","alternative":"The English asks what being brought to the dwelling signifies. In 住処にもたらされるは the news or invitation is what arrives at the dwelling; the children already gather there. The April1976 transition concerns a new fate from that home.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-002","kind":"WH","description":"Why this child was selected becomes who selected the child.","categories":["linguistic.mistranslation","character.knowledge_boundary","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[71,71],"MG":[71,71],"UP":[71,71]},"japanese":"どうして使用人に選ばれたわけ？」","japanesePC":"「......ところでこの子、何者？　どうして使用人に選ばれたわけ？」","japanesePS3":"どうして使用人に選ばれたわけ？」","WH":"\"......By the way, just who is this?  Who chose this kid to be a servant?\"","MG":"Why were you chosen to be a servant?\"","UP":"Who chose this kid to be a servant?\"","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi7_9-L0070","readerRefs":{"WH":["umi7_9-L0070"],"MG":["umi7_9-L0070"],"UP":["umi7_9-L0070"]}}],"sourceReading":"The older servant asks why this child was chosen as a servant.","alternative":"Who chose this kid is a different question from どうして選ばれた, asking the selecting agent rather than the reason for an exceptional selection. The subsequent explanation dwells on the age and work arrangement making the choice inexplicable.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-003","kind":"WH","description":"Apparently being kept isolated for illness becomes being a loner.","categories":["linguistic.mistranslation","character.agency_responsibility","world.world_fact","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[90,90],"MG":[90,90],"UP":[90,90]},"japanese":"「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし」","japanesePC":"「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし。」","japanesePS3":"「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし」","WH":"\"That one's always been kinda frail and a loner.  I didn't know that kid well back in the House.\"","MG":"\"Well, that kid supposedly gets sick easily and is kept isolated most of the time. A total outsider to the rest of us, even back at the House.\"","UP":"\"I didn't know this kid at all back in the House. They kept this one separate, apparently, something to do with a weak constitution.\"","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_9-L0087","readerRefs":{"WH":["umi7_9-L0087"],"MG":["umi7_9-L0087"],"UP":["umi7_9-L0087"]}}],"sourceReading":"A peer says the child apparently was kept apart because of something like frail health, so the speaker did not know them in the House.","alternative":"Frail and a loner describes personal social disposition. 隔離されてたらしく reports apparent imposed separation; なんか病弱とか also leaves the health explanation approximate. The English makes these firmer personal attributes.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-004","kind":"WH","description":"Young recruits in general becomes the exceptionally young child alone.","categories":["mystery.scope_quantifier_negation","world.world_fact","mystery.recurrence_discrimination"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[159,162],"MG":[159,162],"UP":[159,162]},"japanese":"「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、\nそもそも、使用人としての腕前はあまり期待していません」\n「そうだな。\nやはり大人の、年季の入った使用人たちに比べると、どうしても頼りないものだ」","japanesePC":"「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、そもそも、使用人としての腕前はあまり期待していません。」","japanesePS3":"「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、\nそもそも、使用人としての腕前はあまり期待していません」\n「そうだな。\nやはり大人の、年季の入った使用人たちに比べると、どうしても頼りないものだ」","WH":"\"The extraordinarily young servant came to the family mainly for experience, so not much was expected of that child's ability as a servant.\"","MG":"\"That one extraordinarily young servant came to the family mainly for experience,\nso not much was expected of that child's ability as a servant.\"\n\"Indeed.\nYou certainly couldn't rely on that kid as much as you could an adult, seasoned servant.\"","UP":"\"The young servants who come from the Gospel House visit only to gain experience in working in the real world,\nso I do not expect a high level of skill from them as servants.\"\n\"Very true.\nYou can't rely on them to the same degree as an adult, seasoned servant.\"","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_9-L0159","readerRefs":{"WH":["umi7_9-L0159"],"MG":["umi7_9-L0159","umi7_9-L0161"],"UP":["umi7_9-L0159","umi7_9-L0161"]}}],"sourceReading":"Natsuhi says the overly young servants from Fukuin come for social learning and are not expected to have great servant skills.","alternative":"Japanese number is implicit, but the following contrast with adult seasoned servants and それが、未就学の子を受け入れるなんて distinguishes the normal young-recruit policy from the unprecedented preschool child. The extraordinarily young servant and that child collapse those two levels.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-005","kind":"WH","description":"Looking down becomes the narrator’s face turning red.","categories":["linguistic.mistranslation","character.voice_state","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[311,311],"MG":[311,311],"UP":[311,311]},"japanese":"私が俯いていると、","japanesePC":"私が俯いていると、......みんなには加わらずに、じっと見守ってくれている紗音の姿に気付きました。","japanesePS3":"私が俯いていると、","WH":"As my face turned red, ......I spotted Shannon, who was watching from the sidelines and not joining in.","MG":"As my face turned red,","UP":"As my face turned red,","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_9-L0305","readerRefs":{"WH":["umi7_9-L0305"],"MG":["umi7_9-L0305"],"UP":["umi7_9-L0305"]}}],"sourceReading":"While looking down, the narrator notices Shannon quietly watching without joining the others.","alternative":"俯く specifies lowering the face, rather than reddening. Humiliation can cause either, but the English substitutes a visible bodily reaction not stated in the source.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-006","kind":"WH","description":"Denial of sexual exploitation planned from birth becomes denial of treating her as Beatrice.","categories":["linguistic.omission","character.motivation_emotion","mystery.recurrence_discrimination"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[426,427],"MG":[426,427],"UP":[426,427]},"japanese":"金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、\n思っていたわけではありません。」","japanesePC":"「.........金蔵さまのお気持ちも、わからぬわけではありません。金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、思っていたわけではありません。」","japanesePS3":"金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、\n思っていたわけではありません。」","WH":"\"......I did understand Kinzo-sama's feelings to some degree.  Kinzo-sama himself did not decide to treat her as the late Beatrice-sama at the time of her birth.\"","MG":"At the moment of her birth, even he did not plan on taking advantage of her...\ndue to her resemblance to the late Beatrice-sama.\"","UP":"It is not as though Kinzo‐sama saw the late Beatrice‐sama in the girl at the time of her birth,\nnor did he decide at that moment to make her his plaything.\"","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"corrected","UP":"partially_corrected"},"readerRef":"umi7_9-L0425","readerRefs":{"WH":["PC-CANDIDATE-EP07-09-V002"],"MG":["umi7_9-L0425"],"UP":["umi7_9-L0425"]}}],"sourceReading":"Genji says Kinzo had not, from her birth, intended to project the deceased Beatrice onto her and use her for gratification.","alternative":"Treat her as the late Beatrice-sama is broader than the denied intent 慰み者にしよう. Later Clair explicitly says Kinzo decided from birth that she was Beatrice reborn; recognizing a reincarnation and planning sexual exploitation are separate propositions in Japanese.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-007","kind":"WH","description":"The age falsification loses that it existed from birth.","categories":["linguistic.omission","world.space_time_continuity","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[489,489],"MG":[489,489],"UP":[489,489]},"japanese":"この世界の理御は生まれつき、歳を３つ、誤魔化されてる。","japanesePC":"「.........ご名答。この世界の理御は生まれつき、歳を３つ、誤魔化されてる。......虚弱で小柄。発育不良だったしね。案外誤魔化せたみたいだわ。」","japanesePS3":"この世界の理御は生まれつき、歳を３つ、誤魔化されてる。","WH":"\"......Correct.  The age of this world's Lion has been altered by three.  ......This is a small, feeble kid we're talking about.  An underdeveloped kid.  It should've been surprisingly easy to fake.\"","MG":"The age of this world's Lion has been altered by three.","UP":"The age of this world's Lion has been altered by three.","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_9-L0488","readerRefs":{"WH":["umi7_9-L0488"],"MG":["umi7_9-L0488"],"UP":["umi7_9-L0488"]}}],"sourceReading":"Bernkastel confirms that the age of this world’s Lion was falsified by three years from birth.","alternative":"The age ... has been altered by three preserves the amount but omits 生まれつき. The preceding discussion considers delayed schooling versus concealed birth year; the timing of the falsification is therefore additional evidence, rather than redundant wording.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-008","kind":"WH","description":"Recognizing the bond without being told becomes doing so without anyone learning the truth.","categories":["linguistic.logical_relation","character.knowledge_boundary","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[500,500],"MG":[500,500],"UP":[500,500]},"japanese":"「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。","japanesePC":"「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。そう思った。......あるいは、その時はやがて自然に訪れるだろう。その時に、父と子に、真実を話せば良い。その日がやがて訪れることを信じて、源次は何も知らせず、教えず。......運命の日を待ちながら、ベアトリーチェの子を見守るのである...。」","japanesePS3":"「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。","WH":"\"That way, they would surely regain their parent-child relationship, without anyone learning the truth.  That's what he thought.  ......Or, perhaps, the time might come naturally.  When that happened, he could tell the truth to both father and child.  Believing that this day would eventually come, Genji told nothing of this to anyone.  ......He watched over Beatrice's child, waiting for the fated day...\"","MG":"\"That way, they would surely regain their parent-child relationship, without anyone having to expose the truth to them.","UP":"\"They would surely be able to regain their parent‐child relationship without the truth needing to be revealed to anyone.","note":"Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.","dispositions":{"MG":"corrected","UP":"partially_corrected"},"readerRef":"umi7_9-L0493","readerRefs":{"WH":["umi7_9-L0493"],"MG":["umi7_9-L0493"],"UP":["umi7_9-L0493"]}}],"sourceReading":"Genji thinks father and child could recover their bond even without anyone revealing it to them; then he could tell them the truth.","alternative":"誰に明かされずとも means even without disclosure by anyone, not without anyone learning the truth. The source imagines natural recognition before explicit disclosure. English instead makes ignorance the condition and then says the truth can be told afterward.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH09-009","kind":"WH","description":"WH changes not being allowed to play with other friends into having no other friends to play with.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[357,357],"MG":[357,357],"UP":[357,357]},"japanese":"他のお友達とは遊ばせてもらえなくて、……ずっと自分だけ、隔離されたお部屋で過ごしてた。","japanesePC":"他のお友達とは遊ばせてもらえなくて、......ずっと自分だけ、隔離されたお部屋で過ごしてた。","japanesePS3":"他のお友達とは遊ばせてもらえなくて、……ずっと自分だけ、隔離されたお部屋で過ごしてた。","WH":"I didn't have any other friends to play with, ......and I've spent all my time by myself, in my isolated room.","MG":"I don't have any other friends to play with, ...and I've spent all my time by myself, in my isolated room.","UP":"I wasn't allowed to play with any other friends, ......and I spent all my time by myself, in my isolated room.","note":"Original PC and coherent paired context verified under ep07-ch09-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_9-L0353","readerRefs":{"WH":["umi7_9-L0353"],"MG":["umi7_9-L0353"],"UP":["umi7_9-L0353"]}}],"sourceReading":"遊ばせてもらえなくて describes imposed restriction. MG substitutes lack of available friends; UP restores not allowed.","alternative":"Isolation could leave no playmates available, but the source expressly identifies denial of permission as its cause.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH09-361-480-001","kind":"additional","description":"MG changes Kinzo accepting the child as his grandchild into accepting the child as her grandchild.","categories":["linguistic.wrong_subject","character.relationship_power"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[413,413],"MG":[413,413],"UP":[413,413]},"japanese":"それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」","japanesePC":"","japanesePS3":"それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」","WH":"","MG":"That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as her grandchild.\"","UP":"That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as family.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_9-L0412","readerRefs":{"WH":[],"MG":["umi7_9-L0412"],"UP":["umi7_9-L0412"]}}],"sourceReading":"PS3 asks whether Kinzo can welcome Beatrice’s grandchild as family. OriginalPC146101–146102 says his grandchild. MG her substitutes Beatrice’s already stated relationship for Kinzo’s familial acceptance; UP family preserves source.","alternative":"Her grammatically refers to Beatrice, so cannot preserve the intended relationship with Kinzo.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-105","kind":"PC","description":"PC 唯一の家族/only family remains in MG; PS3 removes exclusivity, followed by UP.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_9","episode":7,"rows":{"JP":[421,422],"MG":[421,422],"UP":[421,422]},"japanese":"彼女は父と思い、尊敬してきた金蔵自らに、\n純潔を奪われることになるのである……」","japanesePC":"「しかしそれは金蔵のそれとは異なった。金蔵は彼女を、ベアトリーチェの生まれ変わりと思い、亡きベアトリーチェへの万感の思いの慰み者にしようとした。その思いを、九羽鳥庵のベアトリーチェが受け入れきれるわけもない。彼女は父と思い、唯一の家族と思い尊敬してきた金蔵自らに、純潔を奪われることになるのである......。」","japanesePS3":"彼女は父と思い、尊敬してきた金蔵自らに、\n純潔を奪われることになるのである……」","WH":"\"However, her love was not the same as Kinzo's love.  Kinzo thought her to be Beatrice reborn, and tried to use her to satisfy the many feelings he had felt for the late Beatrice.  Of course, the Kuwadorian Beatrice could not accept those feelings.  In the end, she had her chastity stolen by the one she thought of as her only family and respected as a father......\"","MG":"In the end, she had her chastity stolen\nby the one she thought of as her only family and respected as a father...\"","UP":"In the end, Kinzo himself, the one she respected and thought of as her father...\nstole away her chastity......\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_9-L0412","readerRefs":{"WH":[],"MG":["umi7_9-L0412"],"UP":["umi7_9-L0412"]}}],"sourceReading":"PC 唯一の家族/only family remains in MG; PS3 removes exclusivity, followed by UP.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH09-001",
+      "kind": "WH",
+      "description": "News brought to the orphanage becomes the children being brought there.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "world.space_time_continuity",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              26,
+              28
+            ],
+            "MG": [
+              26,
+              28
+            ],
+            "UP": [
+              26,
+              28
+            ]
+          },
+          "japanese": "「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、\n神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。\n我等にはそれを知る由もなし」",
+          "japanesePC": "「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。我等にはそれを知る由もなし。」",
+          "japanesePS3": "「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、\n神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。\n我等にはそれを知る由もなし」",
+          "WH": "\"When we were brought to the temporary dwelling where sad, parent-less children gather, was that a sign of God's salvation, or a lure into the demon's game where the new fate would torment us?  We have no way of knowing.\"",
+          "MG": "\"When we were brought to the temporary dwelling where sad, parentless children gather,\nwas that a sign of God's salvation, or a lure into the demon's game where the new fate would torment us?\nWe have no way of knowing.\"",
+          "UP": "\"The tidings brought to the temporary dwelling where unfortunate children without mother or father gather—\ndo they herald God's salvation, or does the Devil beckon us to be the playthings of a new fate?\nWe have no means of knowing.\"",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_9-L0026",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-09-V001"
+            ],
+            "MG": [
+              "umi7_9-L0026"
+            ],
+            "UP": [
+              "umi7_9-L0026"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。我等にはそれを知る由もなし」「されど我等は信じたい。それが、神の救いが差し伸べられたという、福音の報せであると、信じたい」",
+              "translation": "\"When we were brought to the temporary dwelling where sad, parentless children gather, was that a sign of God's salvation, or a lure into the demon's game where the new fate would torment us? We have no way of knowing.\" \"And yet, we want to believe. We want to believe it was God's salvation sent to us, a sign of the good news, the {ruby:fukuin:Gospel.\" "
+            },
+            "UP": {
+              "japanese": "「親を持たぬ悲しき子供たちが集いし仮の住処にもたらされるは、神の救いの報せか、新しき運命にて弄ぶ悪魔のゲームへの誘いなのか。我等にはそれを知る由もなし」「されど我等は信じたい。それが、神の救いが差し伸べられたという、福音の報せであると、信じたい」",
+              "translation": "\"The tidings brought to the temporary dwelling where unfortunate children without mother or father gather— do they herald God's salvation, or does the Devil beckon us to be the playthings of a new fate? We have no means of knowing.\" \"And yet, we want to believe. We want to believe that it is gospel, good tidings, salvation offered us by God.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-09-V001"
+            ],
+            "MG": [
+              "umi7_9-L0026"
+            ],
+            "UP": [
+              "umi7_9-L0026"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "What is brought to the temporary home of parentless children may be news of divine salvation or an invitation into a demon’s game.",
+      "alternative": "The English asks what being brought to the dwelling signifies. In 住処にもたらされるは the news or invitation is what arrives at the dwelling; the children already gather there. The April1976 transition concerns a new fate from that home.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-002",
+      "kind": "WH",
+      "description": "Why this child was selected becomes who selected the child.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              71,
+              71
+            ],
+            "MG": [
+              71,
+              71
+            ],
+            "UP": [
+              71,
+              71
+            ]
+          },
+          "japanese": "どうして使用人に選ばれたわけ？」",
+          "japanesePC": "「......ところでこの子、何者？　どうして使用人に選ばれたわけ？」",
+          "japanesePS3": "どうして使用人に選ばれたわけ？」",
+          "WH": "\"......By the way, just who is this?  Who chose this kid to be a servant?\"",
+          "MG": "Why were you chosen to be a servant?\"",
+          "UP": "Who chose this kid to be a servant?\"",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_9-L0070",
+          "readerRefs": {
+            "WH": [
+              "umi7_9-L0070"
+            ],
+            "MG": [
+              "umi7_9-L0070"
+            ],
+            "UP": [
+              "umi7_9-L0070"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……ところでこの子、何者？　どうして使用人に選ばれたわけ？」",
+              "translation": "\"...By the way, who exactly is this kid? Why were you chosen to be a servant?\" "
+            },
+            "UP": {
+              "japanese": "「……ところでこの子、何者？　どうして使用人に選ばれたわけ？」",
+              "translation": "\"......By the way, just who is this? Who chose this kid to be a servant?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_9-L0070"
+            ],
+            "MG": [
+              "umi7_9-L0070"
+            ],
+            "UP": [
+              "umi7_9-L0070"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The older servant asks why this child was chosen as a servant.",
+      "alternative": "Who chose this kid is a different question from どうして選ばれた, asking the selecting agent rather than the reason for an exceptional selection. The subsequent explanation dwells on the age and work arrangement making the choice inexplicable.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-003",
+      "kind": "WH",
+      "description": "Apparently being kept isolated for illness becomes being a loner.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility",
+        "world.world_fact",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              90,
+              90
+            ],
+            "MG": [
+              90,
+              90
+            ],
+            "UP": [
+              90,
+              90
+            ]
+          },
+          "japanese": "「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし」",
+          "japanesePC": "「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし。」",
+          "japanesePS3": "「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし」",
+          "WH": "\"That one's always been kinda frail and a loner.  I didn't know that kid well back in the House.\"",
+          "MG": "\"Well, that kid supposedly gets sick easily and is kept isolated most of the time. A total outsider to the rest of us, even back at the House.\"",
+          "UP": "\"I didn't know this kid at all back in the House. They kept this one separate, apparently, something to do with a weak constitution.\"",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_9-L0087",
+          "readerRefs": {
+            "WH": [
+              "umi7_9-L0087"
+            ],
+            "MG": [
+              "umi7_9-L0087"
+            ],
+            "UP": [
+              "umi7_9-L0087"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「こいつ、そんなに勉強できるの？　天才児？」「全然知んないです」「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし」「……ここに来た以上、連帯責任なんだからね。あんたがドジれば、福音の家の全員のドジだと思われるのよ。せいぜい気合入れなさいよね」",
+              "translation": "\"Is this kid really that smart? A child prodigy, or something?\" \"I never heard anything about that.\" \"Well, that kid supposedly gets sick easily and is kept isolated most of the time. A total outsider to the rest of us, even back at the House.\" \"...Now that you're here, you're part of the collective responsibility system. If you screw up, it's the same as everyone from the Fukuin House screwing up. Make sure you don't, okay?\" "
+            },
+            "UP": {
+              "japanese": "「こいつ、そんなに勉強できるの？　天才児？」「全然知んないです」「なんか病弱とかって、隔離されてたらしくて、家でも全然知りませんでしたし」「……ここに来た以上、連帯責任なんだからね。あんたがドジれば、福音の家の全員のドジだと思われるのよ。せいぜい気合入れなさいよね」",
+              "translation": "\"Is this kid really that smart? A child prodigy, or something?\" \"Beats the heck out of me.\" \"I didn't know this kid at all back in the House. They kept this one separate, apparently, something to do with a weak constitution.\" \"......Now that you're here, you're part of the collective responsibility system. If you screw up, it's the same as everyone from the Gospel House screwing up. Make sure you don't, okay?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_9-L0087"
+            ],
+            "MG": [
+              "umi7_9-L0087"
+            ],
+            "UP": [
+              "umi7_9-L0087"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "A peer says the child apparently was kept apart because of something like frail health, so the speaker did not know them in the House.",
+      "alternative": "Frail and a loner describes personal social disposition. 隔離されてたらしく reports apparent imposed separation; なんか病弱とか also leaves the health explanation approximate. The English makes these firmer personal attributes.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-004",
+      "kind": "WH",
+      "description": "Young recruits in general becomes the exceptionally young child alone.",
+      "categories": [
+        "mystery.scope_quantifier_negation",
+        "world.world_fact",
+        "mystery.recurrence_discrimination"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              159,
+              162
+            ],
+            "MG": [
+              159,
+              162
+            ],
+            "UP": [
+              159,
+              162
+            ]
+          },
+          "japanese": "「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、\nそもそも、使用人としての腕前はあまり期待していません」\n「そうだな。\nやはり大人の、年季の入った使用人たちに比べると、どうしても頼りないものだ」",
+          "japanesePC": "「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、そもそも、使用人としての腕前はあまり期待していません。」",
+          "japanesePS3": "「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、\nそもそも、使用人としての腕前はあまり期待していません」\n「そうだな。\nやはり大人の、年季の入った使用人たちに比べると、どうしても頼りないものだ」",
+          "WH": "\"The extraordinarily young servant came to the family mainly for experience, so not much was expected of that child's ability as a servant.\"",
+          "MG": "\"That one extraordinarily young servant came to the family mainly for experience,\nso not much was expected of that child's ability as a servant.\"\n\"Indeed.\nYou certainly couldn't rely on that kid as much as you could an adult, seasoned servant.\"",
+          "UP": "\"The young servants who come from the Gospel House visit only to gain experience in working in the real world,\nso I do not expect a high level of skill from them as servants.\"\n\"Very true.\nYou can't rely on them to the same degree as an adult, seasoned servant.\"",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_9-L0159",
+          "readerRefs": {
+            "WH": [
+              "umi7_9-L0159"
+            ],
+            "MG": [
+              "umi7_9-L0159",
+              "umi7_9-L0161"
+            ],
+            "UP": [
+              "umi7_9-L0159",
+              "umi7_9-L0161"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、そもそも、使用人としての腕前はあまり期待していません」",
+              "translation": "\"That one extraordinarily young servant came to the family mainly for experience, so not much was expected of that child's ability as a servant.\" "
+            },
+            "UP": {
+              "japanese": "「福音の家から来る若過ぎる使用人は、あくまでも社会勉強として当家に訪れているのであって、そもそも、使用人としての腕前はあまり期待していません」",
+              "translation": "\"The young servants who come from the Gospel House visit only to gain experience in working in the real world, so I do not expect a high level of skill from them as servants.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_9-L0159"
+            ],
+            "MG": [
+              "umi7_9-L0159"
+            ],
+            "UP": [
+              "umi7_9-L0159"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Natsuhi says the overly young servants from Fukuin come for social learning and are not expected to have great servant skills.",
+      "alternative": "Japanese number is implicit, but the following contrast with adult seasoned servants and それが、未就学の子を受け入れるなんて distinguishes the normal young-recruit policy from the unprecedented preschool child. The extraordinarily young servant and that child collapse those two levels.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-005",
+      "kind": "WH",
+      "description": "Looking down becomes the narrator’s face turning red.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              311,
+              311
+            ],
+            "MG": [
+              311,
+              311
+            ],
+            "UP": [
+              311,
+              311
+            ]
+          },
+          "japanese": "私が俯いていると、",
+          "japanesePC": "私が俯いていると、......みんなには加わらずに、じっと見守ってくれている紗音の姿に気付きました。",
+          "japanesePS3": "私が俯いていると、",
+          "WH": "As my face turned red, ......I spotted Shannon, who was watching from the sidelines and not joining in.",
+          "MG": "As my face turned red,",
+          "UP": "As my face turned red,",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_9-L0305",
+          "readerRefs": {
+            "WH": [
+              "umi7_9-L0305"
+            ],
+            "MG": [
+              "umi7_9-L0305"
+            ],
+            "UP": [
+              "umi7_9-L0305"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "…………………………。私は私の精一杯をしてるつもりです。でも、力がまだなくて、重いものは運べません。たくさんは運べません。洗濯物もぴっしり畳めませんし、上手にゴミをちりとりで取れません。みんなみたいに、上手には、どうしても出来ません……。私が俯いていると、……みんなには加わらずに、じっと見守ってくれている紗音の姿に気付きました。……紗音だけは、私の味方です。\n紗音は私と違い、本当によく仕事が出来ます。でも、決して私を甘やかしはしません。お手本を見せてはくれますけれど、決して私の仕事を奪ったりはしないのです。紗音は、立派なのです。私は、早く紗音のようになりたいのです。……誰の悪口も言わず、言われず。誰とも仲良くできて、やさしくて。そんな彼女のようになりたい。そして彼女も、私がそうなろうとする努力を、いつも温かく見守ってくれるのです。",
+              "translation": "............ I have been trying my best. However, I'm not very strong yet, so I can't carry heavy things. I can't carry a lot of things, either. I can't fold clothes right, and I'm not good at using a dustpan. I just can't do it as well as everyone else... As my face turned red, ...I spotted Shannon, who was watching from the sidelines and not joining in. ...Shannon is my only ally. Unlike me, she can do everything well. However, she'll never pamper me. She'll show me how things are done, but she'll never steal my jobs from me. She really is incredible. I really want to be like Shannon, as soon as I can. ...She never talks behind people's backs, and no one talks behind her back. She's kind, and she gets along with everyone. I want to be like her. And she's always kindly watching over my efforts to become like her. "
+            },
+            "UP": {
+              "japanese": "…………………………。私は私の精一杯をしてるつもりです。でも、力がまだなくて、重いものは運べません。たくさんは運べません。洗濯物もぴっしり畳めませんし、上手にゴミをちりとりで取れません。みんなみたいに、上手には、どうしても出来ません……。私が俯いていると、……みんなには加わらずに、じっと見守ってくれている紗音の姿に気付きました。……紗音だけは、私の味方です。\n紗音は私と違い、本当によく仕事が出来ます。でも、決して私を甘やかしはしません。お手本を見せてはくれますけれど、決して私の仕事を奪ったりはしないのです。紗音は、立派なのです。私は、早く紗音のようになりたいのです。……誰の悪口も言わず、言われず。誰とも仲良くできて、やさしくて。そんな彼女のようになりたい。そして彼女も、私がそうなろうとする努力を、いつも温かく見守ってくれるのです。",
+              "translation": ".............................. I have been trying my best. However, I'm not very strong yet, so I can't carry heavy things. I can't carry a lot of things at once, either. I can't fold clothes right, and I'm not good at using a dustpan. I just can't do it as well as everyone else...... As my face turned red, ......I spotted Shannon, who was watching from the sidelines and not joining in. ......Shannon is my only ally.\nUnlike me, she can do everything well. However, she'll never pamper me. She'll show me how things are done, but she'll never steal my jobs from me. She really is incredible. I really want to be like Shannon, as soon as I can. ......She never talks behind people's backs, and no one talks behind her back. She's kind, and she gets along with everyone. I want to be like her. And she's always kindly watching over my efforts to become like her."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_9-L0305"
+            ],
+            "MG": [
+              "umi7_9-L0305"
+            ],
+            "UP": [
+              "umi7_9-L0305"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "While looking down, the narrator notices Shannon quietly watching without joining the others.",
+      "alternative": "俯く specifies lowering the face, rather than reddening. Humiliation can cause either, but the English substitutes a visible bodily reaction not stated in the source.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-006",
+      "kind": "WH",
+      "description": "Denial of sexual exploitation planned from birth becomes denial of treating her as Beatrice.",
+      "categories": [
+        "linguistic.omission",
+        "character.motivation_emotion",
+        "mystery.recurrence_discrimination"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              426,
+              427
+            ],
+            "MG": [
+              426,
+              427
+            ],
+            "UP": [
+              426,
+              427
+            ]
+          },
+          "japanese": "金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、\n思っていたわけではありません。」",
+          "japanesePC": "「.........金蔵さまのお気持ちも、わからぬわけではありません。金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、思っていたわけではありません。」",
+          "japanesePS3": "金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、\n思っていたわけではありません。」",
+          "WH": "\"......I did understand Kinzo-sama's feelings to some degree.  Kinzo-sama himself did not decide to treat her as the late Beatrice-sama at the time of her birth.\"",
+          "MG": "At the moment of her birth, even he did not plan on taking advantage of her...\ndue to her resemblance to the late Beatrice-sama.\"",
+          "UP": "It is not as though Kinzo‐sama saw the late Beatrice‐sama in the girl at the time of her birth,\nnor did he decide at that moment to make her his plaything.\"",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi7_9-L0425",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-09-V002"
+            ],
+            "MG": [
+              "umi7_9-L0425"
+            ],
+            "UP": [
+              "umi7_9-L0425"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………金蔵さまのお気持ちも、わからぬわけではありません。金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、思っていたわけではありません。」",
+              "translation": "\"...This is not to say that I was incapable of understanding how Kinzo-sama felt. At the moment of her birth, even he did not plan on taking advantage of her... due to her resemblance to the late Beatrice-sama.\" "
+            },
+            "UP": {
+              "japanese": "「………金蔵さまのお気持ちも、わからぬわけではありません。金蔵さまとて、彼女が生まれた時から、亡きベアトリーチェさまの面影を映して慰み者にしようなどと、思っていたわけではありません。」",
+              "translation": "\".........I do understand Kinzo‐sama's feelings to some degree. It is not as though Kinzo‐sama saw the late Beatrice‐sama in the girl at the time of her birth, nor did he decide at that moment to make her his plaything.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-09-V002"
+            ],
+            "MG": [
+              "umi7_9-L0425"
+            ],
+            "UP": [
+              "umi7_9-L0425"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Genji says Kinzo had not, from her birth, intended to project the deceased Beatrice onto her and use her for gratification.",
+      "alternative": "Treat her as the late Beatrice-sama is broader than the denied intent 慰み者にしよう. Later Clair explicitly says Kinzo decided from birth that she was Beatrice reborn; recognizing a reincarnation and planning sexual exploitation are separate propositions in Japanese.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-007",
+      "kind": "WH",
+      "description": "The age falsification loses that it existed from birth.",
+      "categories": [
+        "linguistic.omission",
+        "world.space_time_continuity",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              489,
+              489
+            ],
+            "MG": [
+              489,
+              489
+            ],
+            "UP": [
+              489,
+              489
+            ]
+          },
+          "japanese": "この世界の理御は生まれつき、歳を３つ、誤魔化されてる。",
+          "japanesePC": "「.........ご名答。この世界の理御は生まれつき、歳を３つ、誤魔化されてる。......虚弱で小柄。発育不良だったしね。案外誤魔化せたみたいだわ。」",
+          "japanesePS3": "この世界の理御は生まれつき、歳を３つ、誤魔化されてる。",
+          "WH": "\"......Correct.  The age of this world's Lion has been altered by three.  ......This is a small, feeble kid we're talking about.  An underdeveloped kid.  It should've been surprisingly easy to fake.\"",
+          "MG": "The age of this world's Lion has been altered by three.",
+          "UP": "The age of this world's Lion has been altered by three.",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_9-L0488",
+          "readerRefs": {
+            "WH": [
+              "umi7_9-L0488"
+            ],
+            "MG": [
+              "umi7_9-L0488"
+            ],
+            "UP": [
+              "umi7_9-L0488"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………ご名答。この世界の理御は生まれつき、歳を３つ、誤魔化されてる。……虚弱で小柄。発育不良だったしね。案外誤魔化せたみたいだわ」",
+              "translation": "\"...Correct. The age of this world's Lion has been altered by three. ...This is a small, feeble kid we're talking about. An underdeveloped kid. It would've been more possible to pull off than you'd think.\" "
+            },
+            "UP": {
+              "japanese": "「………ご名答。この世界の理御は生まれつき、歳を３つ、誤魔化されてる。……虚弱で小柄。発育不良だったしね。案外誤魔化せたみたいだわ」",
+              "translation": "\".........Correct. The age of this world's Lion has been altered by three. ......This is a small, feeble kid we're talking about. An underdeveloped kid. It seems it was surprisingly easy to fake.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_9-L0488"
+            ],
+            "MG": [
+              "umi7_9-L0488"
+            ],
+            "UP": [
+              "umi7_9-L0488"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bernkastel confirms that the age of this world’s Lion was falsified by three years from birth.",
+      "alternative": "The age ... has been altered by three preserves the amount but omits 生まれつき. The preceding discussion considers delayed schooling versus concealed birth year; the timing of the falsification is therefore additional evidence, rather than redundant wording.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-008",
+      "kind": "WH",
+      "description": "Recognizing the bond without being told becomes doing so without anyone learning the truth.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.knowledge_boundary",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              500,
+              500
+            ],
+            "MG": [
+              500,
+              500
+            ],
+            "UP": [
+              500,
+              500
+            ]
+          },
+          "japanese": "「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。",
+          "japanesePC": "「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。そう思った。......あるいは、その時はやがて自然に訪れるだろう。その時に、父と子に、真実を話せば良い。その日がやがて訪れることを信じて、源次は何も知らせず、教えず。......運命の日を待ちながら、ベアトリーチェの子を見守るのである...。」",
+          "japanesePS3": "「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。",
+          "WH": "\"That way, they would surely regain their parent-child relationship, without anyone learning the truth.  That's what he thought.  ......Or, perhaps, the time might come naturally.  When that happened, he could tell the truth to both father and child.  Believing that this day would eventually come, Genji told nothing of this to anyone.  ......He watched over Beatrice's child, waiting for the fated day...\"",
+          "MG": "\"That way, they would surely regain their parent-child relationship, without anyone having to expose the truth to them.",
+          "UP": "\"They would surely be able to regain their parent‐child relationship without the truth needing to be revealed to anyone.",
+          "note": "Full continuous three-witness source-first review with boundary context in saved reports. Parent verified MG413 possessive mistake,357 imposed-play prohibition candidate and422 PC-only family phrase. MG357 inherited cause distortion pending supplement. UP372–373 fitting/Shall I speak can seek permission indirectly; MG457 attempted admission contextually successful Lion presence, held. Original WH descriptions reused with separate dispositions; no whole-work identity certification.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi7_9-L0493",
+          "readerRefs": {
+            "WH": [
+              "umi7_9-L0493"
+            ],
+            "MG": [
+              "umi7_9-L0493"
+            ],
+            "UP": [
+              "umi7_9-L0493"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「源次は見届けねばと思った。金蔵が果たして、ベアトリーチェの子を、子として受け容れられるや、否や。適齢になるまでを福音の家で過ごさせ、幼き使用人として呼び寄せる。父も子も、互いに互いを知らない。源次は思った。もしも、真に親子の愛情があるならば。金蔵はこの子に亡き母と娘の面影を見るだろう」「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。そう思った。……あるいは、その時はやがて自然に訪れるだろう。その時に、父と子に、真実を話せば良い。その日がやがて訪れることを信じて、源次は何も知らせず、教えず。……運命の日を待ちながら、ベアトリーチェの子を見守るのである…」",
+              "translation": "\"Genji decided to wait and see. In the end, would Kinzo be able to accept Beatrice's child as an actual child, or not? He had the child live in the Fukuin House until a suitable age, and then summoned the child to the island as a servant. Both father and child had no clue who the other was. Genji had an idea: if Kinzo truly felt affection as a parent, he would notice traces of that deceased mother and daughter in this child.\" \"That way, they would surely regain their parent-child relationship, without anyone having to expose the truth to them. That's what he thought. ...Or, perhaps, the time might come naturally. When that happened, he could tell the truth to both father and child. Believing that this day would eventually come, Genji told nothing of this to anyone. ...He watched over Beatrice's child, waiting for the fated day...\" "
+            },
+            "UP": {
+              "japanese": "「源次は見届けねばと思った。金蔵が果たして、ベアトリーチェの子を、子として受け容れられるや、否や。適齢になるまでを福音の家で過ごさせ、幼き使用人として呼び寄せる。父も子も、互いに互いを知らない。源次は思った。もしも、真に親子の愛情があるならば。金蔵はこの子に亡き母と娘の面影を見るだろう」「そして誰に明かされずとも、親子の絆を取り戻せるに違いない。そう思った。……あるいは、その時はやがて自然に訪れるだろう。その時に、父と子に、真実を話せば良い。その日がやがて訪れることを信じて、源次は何も知らせず、教えず。……運命の日を待ちながら、ベアトリーチェの子を見守るのである…」",
+              "translation": "\"Genji thought he should wait and see. In the end, would Kinzo be able to accept Beatrice's child as his offspring, or not? He had the child live in the Gospel House until a suitable age, and then summoned the child to the island as a young servant. Neither father nor child knew the other. Genji's thinking was as follows. If Kinzo truly did possess the affection of a parent, he would notice traces of the late mother and daughter in this child.\" \"They would surely be able to regain their parent‐child relationship without the truth needing to be revealed to anyone. That was his belief. ......Or, perhaps, the time might come naturally. When that happened, he could tell the truth to both father and child. Believing that this day would eventually come, Genji told nothing of this to anyone. ......He watched over Beatrice's child, waiting for the fated day...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_9-L0493"
+            ],
+            "MG": [
+              "umi7_9-L0493"
+            ],
+            "UP": [
+              "umi7_9-L0493"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Genji thinks father and child could recover their bond even without anyone revealing it to them; then he could tell them the truth.",
+      "alternative": "誰に明かされずとも means even without disclosure by anyone, not without anyone learning the truth. The source imagines natural recognition before explicit disclosure. English instead makes ignorance the condition and then says the truth can be told afterward.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH09-009",
+      "kind": "WH",
+      "description": "WH changes not being allowed to play with other friends into having no other friends to play with.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              357,
+              357
+            ],
+            "MG": [
+              357,
+              357
+            ],
+            "UP": [
+              357,
+              357
+            ]
+          },
+          "japanese": "他のお友達とは遊ばせてもらえなくて、……ずっと自分だけ、隔離されたお部屋で過ごしてた。",
+          "japanesePC": "他のお友達とは遊ばせてもらえなくて、......ずっと自分だけ、隔離されたお部屋で過ごしてた。",
+          "japanesePS3": "他のお友達とは遊ばせてもらえなくて、……ずっと自分だけ、隔離されたお部屋で過ごしてた。",
+          "WH": "I didn't have any other friends to play with, ......and I've spent all my time by myself, in my isolated room.",
+          "MG": "I don't have any other friends to play with, ...and I've spent all my time by myself, in my isolated room.",
+          "UP": "I wasn't allowed to play with any other friends, ......and I spent all my time by myself, in my isolated room.",
+          "note": "Original PC and coherent paired context verified under ep07-ch09-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_9-L0353",
+          "readerRefs": {
+            "WH": [
+              "umi7_9-L0353"
+            ],
+            "MG": [
+              "umi7_9-L0353"
+            ],
+            "UP": [
+              "umi7_9-L0353"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "だったらすごいね、大金持ちの仲間入りだねと、紗音は笑います。でも、私はほんの少しだけ、微妙な気持ち。だって、……ならどうして私は、福音の家でひとりぼっちで暮らしていたの？遊んでくれるのは、園長先生たちと、紗音だけでした。他のお友達とは遊ばせてもらえなくて、……ずっと自分だけ、隔離されたお部屋で過ごしてた。私が病弱で、いつも寝てばかりいたからだろうけど、………寂しかったな。",
+              "translation": "Shannon laughed, saying \"Wouldn't that be cool\" and \"Then you'd be super-rich too\". But that didn't seem quite right to me. After all, ...if that was the case, why have I had to live all alone, here in the Fukuin House? Shannon and people like the House Director are the only ones who will play with me. I don't have any other friends to play with, ...and I've spent all my time by myself, in my isolated room. Maybe it's because I'm frail and always sleep a lot, ...but it has been lonely. "
+            },
+            "UP": {
+              "japanese": "だったらすごいね、大金持ちの仲間入りだねと、紗音は笑います。でも、私はほんの少しだけ、微妙な気持ち。だって、……ならどうして私は、福音の家でひとりぼっちで暮らしていたの？遊んでくれるのは、園長先生たちと、紗音だけでした。他のお友達とは遊ばせてもらえなくて、……ずっと自分だけ、隔離されたお部屋で過ごしてた。私が病弱で、いつも寝てばかりいたからだろうけど、………寂しかったな。",
+              "translation": "Shannon laughed, saying \"wouldn't that be cool\" and \"then you'd be super‐rich too\". But I felt a bit doubtful. After all, ......if that was the case, why did I have to live all alone in the Gospel House? Shannon and people like the House Director were the only ones who would play with me. I wasn't allowed to play with any other friends, ......and I spent all my time by myself, in my isolated room. Maybe it's because I'm frail and always half‐asleep, .........but it has been lonely."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_9-L0353"
+            ],
+            "MG": [
+              "umi7_9-L0353"
+            ],
+            "UP": [
+              "umi7_9-L0353"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "遊ばせてもらえなくて describes imposed restriction. MG substitutes lack of available friends; UP restores not allowed.",
+      "alternative": "Isolation could leave no playmates available, but the source expressly identifies denial of permission as its cause.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH09-361-480-001",
+      "kind": "additional",
+      "description": "MG changes Kinzo accepting the child as his grandchild into accepting the child as her grandchild.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              413,
+              413
+            ],
+            "MG": [
+              413,
+              413
+            ],
+            "UP": [
+              413,
+              413
+            ]
+          },
+          "japanese": "それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」",
+          "japanesePC": "",
+          "japanesePS3": "それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」",
+          "WH": "",
+          "MG": "That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as her grandchild.\"",
+          "UP": "That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as family.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_9-L0412",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_9-L0412"
+            ],
+            "UP": [
+              "umi7_9-L0412"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「源次は尊敬する主人のことを、ただ一つだけ信じていないことがあった。それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」「源次は九羽鳥庵のベアトリーチェにもずっと仕えていた。その胸中についても詳しかった。彼女が金蔵の寵愛を一身に受け、父として敬愛していたことも」「しかしそれは金蔵のそれとは異なった。金蔵は彼女を、ベアトリーチェの生まれ変わりと思い、亡きベアトリーチェへの万感の思いの慰み者にしようとした。その思いを、九羽鳥庵のベアトリーチェが受け入れきれるわけもない。彼女は父と思い、尊敬してきた金蔵自らに、純潔を奪われることになるのである……」",
+              "translation": "\"There was one matter in which Genji did not trust the master he so respected. That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as her grandchild.\" \"Genji had served the Kuwadorian Beatrice for many years as well. He was very aware of what she had felt. He knew that she had accepted the favor Kinzo had bestowed on her and respected him as a father.\" \"However, her love was not the same as Kinzo's love. Kinzo thought her to be Beatrice reborn... and tried to use her to satisfy the many feelings he had felt for the late Beatrice. Of course, the Kuwadorian Beatrice could not accept those feelings. In the end, she had her chastity stolen by the one she thought of as her only family and respected as a father...\" "
+            },
+            "UP": {
+              "japanese": "「源次は尊敬する主人のことを、ただ一つだけ信じていないことがあった。それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」「源次は九羽鳥庵のベアトリーチェにもずっと仕えていた。その胸中についても詳しかった。彼女が金蔵の寵愛を一身に受け、父として敬愛していたことも」「しかしそれは金蔵のそれとは異なった。金蔵は彼女を、ベアトリーチェの生まれ変わりと思い、亡きベアトリーチェへの万感の思いの慰み者にしようとした。その思いを、九羽鳥庵のベアトリーチェが受け入れきれるわけもない。彼女は父と思い、尊敬してきた金蔵自らに、純潔を奪われることになるのである……」",
+              "translation": "\"There was one matter for which Genji did not trust the master he so respected. That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as family.\" \"Genji had served the Kuwadorian Beatrice for many years as well. He was very aware of what she had felt. He knew that she accepted Kinzo's affection and respected him as her father.\" \"However, her love was not the same as Kinzo's love. Kinzo thought her to be Beatrice reborn, and tried to use her to satisfy the many feelings he had felt for the late Beatrice. Of course, the Kuwadorian Beatrice could not accept those feelings. In the end, Kinzo himself, the one she respected and thought of as her father... stole away her chastity......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_9-L0412"
+            ],
+            "UP": [
+              "umi7_9-L0412"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PS3 asks whether Kinzo can welcome Beatrice’s grandchild as family. OriginalPC146101–146102 says his grandchild. MG her substitutes Beatrice’s already stated relationship for Kinzo’s familial acceptance; UP family preserves source.",
+      "alternative": "Her grammatically refers to Beatrice, so cannot preserve the intended relationship with Kinzo.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-105",
+      "kind": "PC",
+      "description": "PC 唯一の家族/only family remains in MG; PS3 removes exclusivity, followed by UP.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_9",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              421,
+              422
+            ],
+            "MG": [
+              421,
+              422
+            ],
+            "UP": [
+              421,
+              422
+            ]
+          },
+          "japanese": "彼女は父と思い、尊敬してきた金蔵自らに、\n純潔を奪われることになるのである……」",
+          "japanesePC": "「しかしそれは金蔵のそれとは異なった。金蔵は彼女を、ベアトリーチェの生まれ変わりと思い、亡きベアトリーチェへの万感の思いの慰み者にしようとした。その思いを、九羽鳥庵のベアトリーチェが受け入れきれるわけもない。彼女は父と思い、唯一の家族と思い尊敬してきた金蔵自らに、純潔を奪われることになるのである......。」",
+          "japanesePS3": "彼女は父と思い、尊敬してきた金蔵自らに、\n純潔を奪われることになるのである……」",
+          "WH": "\"However, her love was not the same as Kinzo's love.  Kinzo thought her to be Beatrice reborn, and tried to use her to satisfy the many feelings he had felt for the late Beatrice.  Of course, the Kuwadorian Beatrice could not accept those feelings.  In the end, she had her chastity stolen by the one she thought of as her only family and respected as a father......\"",
+          "MG": "In the end, she had her chastity stolen\nby the one she thought of as her only family and respected as a father...\"",
+          "UP": "In the end, Kinzo himself, the one she respected and thought of as her father...\nstole away her chastity......\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_9-L0412",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_9-L0412"
+            ],
+            "UP": [
+              "umi7_9-L0412"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「源次は尊敬する主人のことを、ただ一つだけ信じていないことがあった。それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」「源次は九羽鳥庵のベアトリーチェにもずっと仕えていた。その胸中についても詳しかった。彼女が金蔵の寵愛を一身に受け、父として敬愛していたことも」「しかしそれは金蔵のそれとは異なった。金蔵は彼女を、ベアトリーチェの生まれ変わりと思い、亡きベアトリーチェへの万感の思いの慰み者にしようとした。その思いを、九羽鳥庵のベアトリーチェが受け入れきれるわけもない。彼女は父と思い、尊敬してきた金蔵自らに、純潔を奪われることになるのである……」",
+              "translation": "\"There was one matter in which Genji did not trust the master he so respected. That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as her grandchild.\" \"Genji had served the Kuwadorian Beatrice for many years as well. He was very aware of what she had felt. He knew that she had accepted the favor Kinzo had bestowed on her and respected him as a father.\" \"However, her love was not the same as Kinzo's love. Kinzo thought her to be Beatrice reborn... and tried to use her to satisfy the many feelings he had felt for the late Beatrice. Of course, the Kuwadorian Beatrice could not accept those feelings. In the end, she had her chastity stolen by the one she thought of as her only family and respected as a father...\" "
+            },
+            "UP": {
+              "japanese": "「源次は尊敬する主人のことを、ただ一つだけ信じていないことがあった。それは、ベアトリーチェの孫を、果たして本当に家族として迎え入れられるのか、である」「源次は九羽鳥庵のベアトリーチェにもずっと仕えていた。その胸中についても詳しかった。彼女が金蔵の寵愛を一身に受け、父として敬愛していたことも」「しかしそれは金蔵のそれとは異なった。金蔵は彼女を、ベアトリーチェの生まれ変わりと思い、亡きベアトリーチェへの万感の思いの慰み者にしようとした。その思いを、九羽鳥庵のベアトリーチェが受け入れきれるわけもない。彼女は父と思い、尊敬してきた金蔵自らに、純潔を奪われることになるのである……」",
+              "translation": "\"There was one matter for which Genji did not trust the master he so respected. That matter was whether Kinzo would be capable of accepting Beatrice's grandchild as family.\" \"Genji had served the Kuwadorian Beatrice for many years as well. He was very aware of what she had felt. He knew that she accepted Kinzo's affection and respected him as her father.\" \"However, her love was not the same as Kinzo's love. Kinzo thought her to be Beatrice reborn, and tried to use her to satisfy the many feelings he had felt for the late Beatrice. Of course, the Kuwadorian Beatrice could not accept those feelings. In the end, Kinzo himself, the one she respected and thought of as her father... stole away her chastity......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_9-L0412"
+            ],
+            "UP": [
+              "umi7_9-L0412"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC 唯一の家族/only family remains in MG; PS3 removes exclusivity, followed by UP.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH09-001": {
+      "PC-CANDIDATE-EP07-09-V001": {
+        "WH": [
+          "When we were brought to the temporary dwelling"
+        ]
+      },
+      "umi7_9-L0026": {
+        "MG": [
+          "When we were brought to the temporary dwelling"
+        ]
+      }
+    },
+    "WH-EP07-CH09-002": {
+      "umi7_9-L0070": {
+        "WH": [
+          "Who chose this kid to be a servant"
+        ],
+        "UP": [
+          "Who chose this kid to be a servant"
+        ]
+      }
+    },
+    "WH-EP07-CH09-003": {
+      "umi7_9-L0087": {
+        "WH": [
+          "That one's always been kinda frail and a loner"
+        ]
+      }
+    },
+    "WH-EP07-CH09-004": {
+      "umi7_9-L0159": {
+        "WH": [
+          "The extraordinarily young servant",
+          "that child's ability as a servant"
+        ],
+        "MG": [
+          "That one extraordinarily young servant",
+          "that child's ability as a servant"
+        ]
+      }
+    },
+    "WH-EP07-CH09-005": {
+      "umi7_9-L0305": {
+        "WH": [
+          "As my face turned red"
+        ],
+        "MG": [
+          "As my face turned red"
+        ],
+        "UP": [
+          "As my face turned red"
+        ]
+      }
+    },
+    "WH-EP07-CH09-006": {
+      "PC-CANDIDATE-EP07-09-V002": {
+        "WH": [
+          "did not decide to treat her as the late Beatrice-sama at the time of her birth"
+        ]
+      },
+      "umi7_9-L0425": {
+        "UP": {
+          "kind": "anchor-mismatch",
+          "reason": "UP explicitly restores both seeing the late Beatrice in the child and making her his plaything at birth; the identified exploitation omission is corrected."
+        }
+      }
+    },
+    "WH-EP07-CH09-007": {
+      "umi7_9-L0488": {
+        "WH": {
+          "kind": "omission",
+          "reason": "That the three-year age falsification existed from birth is absent."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "That the three-year age falsification existed from birth is absent."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "That the three-year age falsification existed from birth is absent."
+        }
+      }
+    },
+    "WH-EP07-CH09-008": {
+      "umi7_9-L0493": {
+        "WH": [
+          "without anyone learning the truth"
+        ],
+        "UP": [
+          "without the truth needing to be revealed to anyone"
+        ]
+      }
+    },
+    "WH-EP07-CH09-009": {
+      "umi7_9-L0353": {
+        "WH": [
+          "I didn't have any other friends to play with"
+        ],
+        "MG": [
+          "I don't have any other friends to play with"
+        ]
+      }
+    },
+    "PAIR-EP07-CH09-361-480-001": {
+      "umi7_9-L0412": {
+        "MG": [
+          "accepting Beatrice's grandchild as her grandchild"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

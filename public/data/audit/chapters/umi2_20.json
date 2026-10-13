@@ -1,1 +1,2350 @@
-{"findings":[{"id":"WH-EP02-HIDDEN-001","kind":"WH","description":"そなたが妾と逆の目に張っているとお伝えしたら becomes After informing me that you were betting against me.","categories":["linguistic.wrong_subject","character.knowledge_boundary","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[50,54],"MG":[50,54],"UP":[50,54]},"japanese":"「………ベアトも馬鹿ね。\nこの子はあんたのゲームであってもしっちゃかめっちゃかにするわよ」\n「ラムダデルタ卿には、決してギャラリーとしてだけお呼びしたのではない」\n「そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた」\n「…………………………あんた、まだ根に持ってるのね」","japanesePC":"そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた。」","japanesePS3":"「………ベアトも馬鹿ね。\nこの子はあんたのゲームであってもしっちゃかめっちゃかにするわよ」\n「ラムダデルタ卿には、決してギャラリーとしてだけお呼びしたのではない」\n「そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた」\n「…………………………あんた、まだ根に持ってるのね」","WH":"After informing me that you were betting against me, she said that she would bet against you.\"","MG":"\"......You're dumb too, Beato.\nIf this kid's in your game, she'll make a mess of everything.\"\n\"I certainly didn't just bring Lady Lambdadelta here to watch from the sidelines.\nAfter informing me that you were betting against me, she said that she would bet against you.\"\n\"............You're still holding a grudge, aren't you.\"","UP":"\".........You're a fool too, Beato.\nThis kid won't make exceptions for your game, she'll turn everything into a preposterous farce.\"\n\"I didn't bring Lady Lambdadelta here solely to watch from the sidelines.\"\n\"After I informed her that you were betting against me, she said that she would bet against you.\"\n\"..............................You're still holding a grudge, aren't you.\"","note":"MG retains the malformed perspective in After informing me that you were betting against me. UP correctly makes Beatrice the one who informed Lambdadelta.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_20-L0050","readerRefs":{"WH":["umi2_20-L0053"],"MG":["umi2_20-L0050","umi2_20-L0052","umi2_20-L0053","umi2_20-L0054"],"UP":["umi2_20-L0050","umi2_20-L0052","umi2_20-L0053","umi2_20-L0054"]}}],"sourceReading":"Beatrice tells Bern that after she informed Lambda of Bern betting against her, Lambda said she would bet against Bern.","alternative":"The translated latter clause correctly reports Lambda opposing Bern, but the initial recipient me reverses the information flow from Beatrice to Lambda.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-002","kind":"WH","description":"どういう勝敗になろうとも becomes No matter what issue we fight over.","categories":["linguistic.mistranslation","mystery.argument_reconstruction","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[71,73],"MG":[71,73],"UP":[71,73]},"japanese":"「…………こちらこそよろしくよ、ラムダ。\nそしてベアト。\n…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね」","japanesePC":"「…………こちらこそよろしくよ、ラムダ。そしてベアト。…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね。」","japanesePS3":"「…………こちらこそよろしくよ、ラムダ。\nそしてベアト。\n…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね」","WH":"\"............I'll be counting on you, Lambda.  And Beato. ...No matter what issue we fight over, this will be a very significant battle for us.\"","MG":"\"......I'll be counting on you, Lambda.\nAnd you, Beato.\n...No matter what we fight over, this will be a very significant battle for us all.\"","UP":"\"............I look forward to it, Lambda.\nAnd Beato.\n...No matter who wins or who loses, this will be a very meaningful battle for us.\"","note":"MG retains no matter what we fight over and changes battle outcome into subject matter. UP correctly says no matter who wins or loses.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_20-L0071","readerRefs":{"WH":["umi2_20-L0071"],"MG":["umi2_20-L0071"],"UP":["umi2_20-L0071"]}}],"sourceReading":"Bern says their battle will be meaningful regardless of how victory and defeat turn out.","alternative":"English retains general significance but shifts the variable from outcome to dispute topic.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-003","kind":"WH","description":"私たちには勝敗以上に意義がある becomes who wins and who loses will be important.","categories":["linguistic.logical_relation","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[74,76],"MG":[74,76],"UP":[74,76]},"japanese":"「そうね。\nもちろん負ける気はないけど、私たちには勝敗以上に意義がある」\n「何しろ妾たちは、退屈を愛さない」","japanesePC":"「そうね。もちろん負ける気はないけど、私たちには勝敗以上に意義がある。」","japanesePS3":"「そうね。\nもちろん負ける気はないけど、私たちには勝敗以上に意義がある」\n「何しろ妾たちは、退屈を愛さない」","WH":"\"That's right.  Of course, I don't feel like losing, but who wins and who loses will be important.\"","MG":"\"That's right.\nOf course, I don't plan on losing, but we've got a goal beyond who wins and who loses.\"\n\"After all, we hate boredom.\"","UP":"\"That's right.\nOf course, I'm not gonna lose easy, but this is more important than winning and losing.\"\n\"After all, we have no love for boredom.\"","note":"MG says they have a goal beyond victory; UP says the battle matters beyond victory. Neither retains the claim that who wins and loses is itself important.","dispositions":{"MG":"corrected_with_revised_wording","UP":"corrected"},"readerRef":"umi2_20-L0074","readerRefs":{"WH":["umi2_20-L0074"],"MG":["umi2_20-L0074","umi2_20-L0076"],"UP":["umi2_20-L0074","umi2_20-L0076"]}}],"sourceReading":"Lambda does not intend to lose, but agrees that the battle has significance beyond victory or defeat; Beatrice then identifies their shared hatred of boredom.","alternative":"勝敗以上 acknowledges winning still matters, yet expressly locates greater significance beyond it, which English omits and instead emphasizes winning itself.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-004","kind":"WH","description":"困ったことに is rendered Since when we are in trouble, making inference from moves dependent on being in trouble.","categories":["linguistic.logical_relation","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[133,135],"MG":[133,135],"UP":[133,135]},"japanese":"困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、\nこれは非常に手ごわい情報のノイズ。\n厄介な撹乱になりうるわ。","japanesePC":"困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、これは非常に手ごわい情報のノイズ。","japanesePS3":"困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、\nこれは非常に手ごわい情報のノイズ。\n厄介な撹乱になりうるわ。","WH":"Since when we are in trouble, we try to seek out our opponent's strategy by looking at their moves, this creates a very formidable amount of noise in our information.","MG":"Since, when we're in trouble, we try to seek out our opponent's strategy by looking at their moves,\nthis creates a very formidable amount of noise in our information.\nThat might cause a troublesome amount of disorder.","UP":"This is unfortunate for us, trying to seek out our opponent's strategy by looking at her moves,\nbecause it creates a formidable amount of noise in our information.\nThis disorder could be troublesome.","note":"MG retains the conditional framing; UP restores “This is unfortunate for us,” as an evaluation of the situation.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_20-L0133","readerRefs":{"WH":["umi2_20-L0133"],"MG":["umi2_20-L0133"],"UP":["umi2_20-L0133"]}}],"sourceReading":"Unfortunately for them, since they are trying to infer the opponent's strategy from her moves, intentionally suboptimal moves constitute formidable informational noise.","alternative":"The situation is troublesome, but the source is an evaluative introduction, not a when-clause restricting their method to troubled situations.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-005","kind":"WH","description":"付け込ませたいかのように隙がある becomes One that makes me want to take advantage of it.","categories":["linguistic.wrong_subject","character.motivation_emotion","mystery.epistemic_status","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[141,143],"MG":[141,143],"UP":[141,143]},"japanese":"…実は隙がある。\n付け込ませたいかのように隙がある。\n……それが罠なのか、こちらを試しているのかわからないけども。","japanesePC":"付け込ませたいかのように隙がある。","japanesePS3":"…実は隙がある。\n付け込ませたいかのように隙がある。\n……それが罠なのか、こちらを試しているのかわからないけども。","WH":"One that makes me want to take advantage of it.","MG":"...there actually was a weak point.\nA weak point that almost looks like she wanted you to take advantage of it.\n...Though, I don't know if it's a trap or if she's testing us.","UP":"...there actually were weak points.\nIt looks almost as if she wants us to take advantage of them.\n......Although, I don't know if it's a trap or if she's testing us.","note":"Both editions say the gap makes the listener want to exploit it, rather than making Beatrice want exploitation.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_20-L0139","readerRefs":{"WH":["umi2_20-L0139"],"MG":["umi2_20-L0139"],"UP":["umi2_20-L0139"]}}],"sourceReading":"There is an opening as though Beatrice wants to let them exploit it. Bern does not know whether it is a trap or a test.","alternative":"Both suggest a tempting opening, but the causative source locates apparent intent with the one leaving the opening, while English explicitly makes Bern the person desiring exploitation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-006","kind":"WH","description":"魔女の戦いは守りが肝心よ becomes What is the most important element in defense during a witch's battle.","categories":["linguistic.logical_relation","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[148,150],"MG":[148,150],"UP":[148,150]},"japanese":"魔女の戦いは守りが肝心よ？\n勝とうとするより、負けないようにしなさい。\n…認めたら負けなら、断じて認めては駄目。","japanesePC":"魔女の戦いは守りが肝心よ？","japanesePS3":"魔女の戦いは守りが肝心よ？\n勝とうとするより、負けないようにしなさい。\n…認めたら負けなら、断じて認めては駄目。","WH":"What's the most important element in defense during a witch's battle?","MG":"What's the most important element in defense during a witch's battle?\nRather than trying to win, try not to lose.\n...If accepting her means your defeat, then you definitely mustn't accept her.","UP":"Defense is crucial during a witch's battle, you know?\nRather than trying to win, try not to lose.\n...If you lose when you accept her, then you definitely must not accept her.","note":"MG retains the question about what matters in defense; UP states that defense itself is crucial.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_20-L0148","readerRefs":{"WH":["umi2_20-L0148"],"MG":["umi2_20-L0148"],"UP":["umi2_20-L0148"]}}],"sourceReading":"Bern states that defense is crucial in a witches' battle, then advises avoiding defeat rather than pursuing victory.","alternative":"A rhetorical question can introduce advice, but English asks for the key element within defense rather than asserting defense itself as the strategic priority.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-007","kind":"WH","description":"あの子 ... 負けず嫌い becomes I would really hate that girl even if I did not lose; predicted present teeth-grinding/tears becomes I will make her do those things.","categories":["linguistic.wrong_subject","linguistic.mistranslation","character.motivation_emotion","character.knowledge_boundary"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[179,181],"MG":[179,181],"UP":[179,181]},"japanese":"しかもあの子はあれでいて本当に負けず嫌いだから、\nきっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、\n本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！","japanesePC":"しかもあの子はあれでいて本当に負けず嫌いだから、きっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！","japanesePS3":"しかもあの子はあれでいて本当に負けず嫌いだから、\nきっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、\n本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！","WH":"And also, I'd really hate that girl even if I didn't lose, so I'll definitely make her grind her teeth in regret, crying like a baby, she's so lame, *giggle*, hoh-hoh-hoh-hoh-hoh-ho!","MG":"Plus, she may not look it, but that girl really hates to lose,\nso I'll bet she's off somewhere grinding her teeth and crying her eyes out right now.\nHow totally lame, *giggle*, hoohohohohohohohoh!","UP":"Plus, believe it or not, that girl really hates to lose,\nso I bet she's definitely grinding her teeth in frustration right about now, crying like a baby,\nshe's so lame, *giggle*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!","note":"Both editions restore Bernkastel as the sore loser and make her present reaction a prediction. The separate loss of ざまぁ is registered under WH-EP02-HIDDEN-015.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_20-L0177","readerRefs":{"WH":["umi2_20-L0177"],"MG":["umi2_20-L0177"],"UP":["umi2_20-L0177"]}}],"sourceReading":"Lambda says Bern is intensely averse to losing and imagines she is now grinding her teeth and crying in frustration.","alternative":"Lambda also bears a grudge, but the source subject is Bern's competitive disposition and conjectured current reaction, not Lambda's hatred and planned torment.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-008","kind":"WH","description":"勝率を ... 絶対に近付けてやる becomes will associate myself just a tiny bit with you and your hopeless chances at winning.","categories":["linguistic.mistranslation","world.world_layer","mystery.physical_constraint","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[187,190],"MG":[187,190],"UP":[187,190]},"japanese":"あんまり情けないから、ちょっとだけ力を貸してあげるわ。\nこの宇宙最強で絶対の魔女である大ラムダデルタ卿が、\nあんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。\n感謝なさい。","japanesePC":"この宇宙最強で絶対の魔女である大ラムダデルタ卿が、あんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。感謝なさい。","japanesePS3":"あんまり情けないから、ちょっとだけ力を貸してあげるわ。\nこの宇宙最強で絶対の魔女である大ラムダデルタ卿が、\nあんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。\n感謝なさい。","WH":"I, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe, will associate myself just a tiny bit with you and your hopeless chances at winning.  You should thank me.","MG":"You're so pathetic, I'll help you just a little bit.\nI, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe,\nwill associate myself just a tiny bit with you and your hopeless chances at winning.\nYou should thank me.","UP":"You're so pathetic, I'll help you just a little bit.\nI, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe,\nwill bring your hopeless chances of winning just a teensy bit closer to certainty.\nYou better thank me.","note":"MG retains association with hopeless chances; UP restores moving the listener’s chances closer to certainty.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_20-L0187","readerRefs":{"WH":["umi2_20-L0187"],"MG":["umi2_20-L0187"],"UP":["umi2_20-L0187"]}}],"sourceReading":"Lambda promises to move the reader's hopeless win probability a little closer to certainty through her power.","alternative":"English announces slight assistance in nearby lines, but substitutes affiliation for the specified operation on victory odds.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-009","kind":"WH","description":"勝ちが見えると遊び出す becomes playing around by making it look like she has won.","categories":["linguistic.logical_relation","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[194,196],"MG":[194,196],"UP":[194,196]},"japanese":"あの子はあと数手でチェックメイトできる局面を作りつつ、わざと詰めない。\n下らない駒を取ったり、余計な駒を置いてより一方的な盤面にしてみたり。\n早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。","japanesePC":"早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。","japanesePS3":"あの子はあと数手でチェックメイトできる局面を作りつつ、わざと詰めない。\n下らない駒を取ったり、余計な駒を置いてより一方的な盤面にしてみたり。\n早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。","WH":"In short, you could say she has the bad habit of playing around by making it look like she's won.","MG":"Though she'll set up the board in a way that'll let her win with just a few more moves, she'll intentionally avoid cornering you.\nShe'll do things like take worthless pieces and place excess pieces on the board to make things more one-sided.\nSimply put, she's got the bad habit of playing around as soon as she thinks she's won.","UP":"That kid will make the board so she can win with just a few more moves, but she deliberately won't finish you off.\nShe'll do stuff like take worthless pieces, or put way too many pieces on the board to make things even more one‐sided.\nThe point is, she's got this bad habit of playing around when she thinks she's going to win.","note":"Both editions restore imminent victory as the trigger for Beatrice’s wasteful play.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi2_20-L0194","readerRefs":{"WH":["umi2_20-L0194"],"MG":["umi2_20-L0194"],"UP":["umi2_20-L0194"]}}],"sourceReading":"Beatrice starts playing around once she sees victory ahead, instead of completing checkmate.","alternative":"The preceding English mentions a position a few moves from winning, but this sentence introduces making victory look apparent as the means of play rather than imminent victory triggering wasteful play.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-010","kind":"WH","description":"妾の敗北に厚く張っておる continues the wagering metaphor and says Bernkastel has placed a heavy bet on Beatrice’s defeat. Push strongly for my defeat changes a wager into direct advocacy or effort.","categories":["linguistic.imagery_rhythm_recurrence","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[19,22],"MG":[19,22],"UP":[19,22]},"japanese":"「隠し通せているつもりか。\nそなたは人の領地まではるばるやって来て、妾の逆の目に張る不届き者よ。\n妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。\n図星であろう…？」","japanesePC":"「隠し通せているつもりか。そなたは人の領地まで遥々やって来て、妾の逆目に張る不届き者よ。妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。図星であろう…？」","japanesePS3":"「隠し通せているつもりか。\nそなたは人の領地まではるばるやって来て、妾の逆の目に張る不届き者よ。\n妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。\n図星であろう…？」","WH":"\"Were you planning on hiding it?  You're an outrageous person to come into someone else's territory from such a great distance and work against me.  You came to watch from the sidelines, and probably to push strongly for my defeat.  I've guessed right, haven't I...?\"","MG":"\"Were you planning on hiding it?\nYou're an outrageous person to come into someone else's territory from such a great distance to work against them.\nYou came to watch from the sidelines, and probably to push strongly for my defeat.\nI've guessed right, haven't I...?\"","UP":"\"You thought you were hiding it?\nHow insolent, to travel all that way, and come into territory that isn't yours, just to bet against me.\nYou came here planning to watch my game from the sidelines, while having a large stake placed in my defeat.\nI've guessed right, haven't I...?\"","note":"MG retains pushing strongly for Beatrice’s defeat. UP restores a large stake placed in her defeat and preserves the wagering frame.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_20-L0019","readerRefs":{"WH":["umi2_20-L0019"],"MG":["umi2_20-L0019"],"UP":["umi2_20-L0019"]}}],"sourceReading":"Beatrice accuses Bernkastel of entering another’s territory as a spectator while secretly betting heavily on Beatrice losing.","alternative":"Push for an outcome can loosely convey backing it strongly, and the previous phrase still mentions working against Beatrice.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-011","kind":"WH","description":"お敗れになられた stacks honorific forms around Lambdadelta’s defeat for conspicuous mock deference. You were defeated states the fact plainly and loses Beatrice’s exaggeratedly polite teasing.","categories":["linguistic.register_voice","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[85,89],"MG":[85,89],"UP":[85,89]},"japanese":"「そうと決まればベアト、さっそく作戦会議をするわよ！\nその子の弱点は知り尽くしてる、それを全て伝授してあげるわ！」\n「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」\n「もぉおおおぉ、教えたげない教えたげないッ！\nツーン！」","japanesePC":"「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」","japanesePS3":"「そうと決まればベアト、さっそく作戦会議をするわよ！\nその子の弱点は知り尽くしてる、それを全て伝授してあげるわ！」\n「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」\n「もぉおおおぉ、教えたげない教えたげないッ！\nツーン！」","WH":"\"And yet, Lady Lambdadelta, you were defeated by her, *cackle*cackle*...!\"","MG":"\"If we're decided, Beato, then let's start a strategy meeting right now!\nI know all of this girl's weak points, and I'll teach you all of them!\"\n\"And yet, Lady Lambdadelta, you were defeated by her, *cackle*cackle*...!\"\n\"Urrrrrrrrgggh, I won't tell you, I won't tell you!\nTsun!\"","UP":"\"That's that, Beato, so let's start a strategy meeting right now!\nI know all of this girl's weak points, and I'm gonna teach you all of them!\"\n\"And yet, Lady Lambdadelta, you were defeated by her, I note... *cackle*cackle*...!\"\n\"Urrrrrrrrgggh, I won't tell you, I won't tell you!\nTsuun!\"","note":"MG states Lambdadelta was defeated plainly. UP adds I note but still loses the source’s conspicuously stacked honorific mockery.","dispositions":{"MG":"retained","UP":"retained_with_revised_wording"},"readerRef":"umi2_20-L0085","readerRefs":{"WH":["umi2_20-L0087"],"MG":["umi2_20-L0085","umi2_20-L0087","umi2_20-L0088"],"UP":["umi2_20-L0085","umi2_20-L0087","umi2_20-L0088"]}}],"sourceReading":"Beatrice responds to Lambdadelta’s claim of knowing every weakness by mock-politely noting that Lambdadelta nevertheless lost to Bernkastel.","alternative":"The formal title Lady and Beatrice’s cackle retain some teasing deference around the direct statement.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-012","kind":"WH","description":"魔女にいいようにいたぶられている says the captive is tormented however the witch pleases or at her whim. Tormented by a witch, in a manner of speaking instead makes the torment figurative or qualified and omits the witch’s unrestricted control.","categories":["linguistic.mistranslation","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[114,119],"MG":[114,119],"UP":[114,119]},"japanese":"……ベアトに看破されてしまったから白状する。\n今のあなたは、かつてラムダの世界に囚われていた頃の私にそっくりなの。\n過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。\n…私はそこから生まれた魔女。\n……だからあなたの姉に当たるのかもしれない。\nだからあなたに力を貸そうと決めたの。","japanesePC":"過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。","japanesePS3":"……ベアトに看破されてしまったから白状する。\n今のあなたは、かつてラムダの世界に囚われていた頃の私にそっくりなの。\n過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。\n…私はそこから生まれた魔女。\n……だからあなたの姉に当たるのかもしれない。\nだからあなたに力を貸そうと決めたの。","WH":"Shut inside a labyrinth of cruel fate, tormented by a witch, in a manner of speaking.","MG":"...Beato saw through me, so I'll confess.\nYou are now just like I was in the past, when I was imprisoned inside Lambda's world.\nShut inside a labyrinth of cruel fate, tormented by a witch, in a manner of speaking.\n...I am a witch who was born from there.\n...So maybe I'm like an older sister to you.\nSo I decided that I'd lend you my power.","UP":"......Beato saw through me, so I'll confess.\nYou are now just like I was in the past, when I was imprisoned inside Lambda's world.\nShut inside a labyrinth of cruel fate, tormented at the whims of a witch.\n...I am a witch who was born from there.\n......So maybe I'm like an older sister to you.\nSo I decided that I'd lend you my power.","note":"MG retains in a manner of speaking and loses torment at the witch’s whim. UP correctly says tormented at the whims of a witch.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi2_20-L0114","readerRefs":{"WH":["umi2_20-L0114"],"MG":["umi2_20-L0114"],"UP":["umi2_20-L0114"]}}],"sourceReading":"Bernkastel compares the listener to her former self, trapped in a maze of cruel fate and toyed with at a witch’s whim.","alternative":"In a manner of speaking may qualify the metaphorical identification of the opponent as a witch rather than deny the suffering itself.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-014","kind":"WH","description":"いじけてどっか行っちゃった wonders whether Bernkastel went off somewhere to sulk. Shrank off substitutes physical or social withdrawal without expressing her resentful sulking mood.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[165,167],"MG":[165,167],"UP":[165,167]},"japanese":"「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」","japanesePC":"「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない。」","japanesePS3":"「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」","WH":"\"...Ah, there you are.  I wonder where Bern shrank off to?  *giggle*, could she be any more lame?\"","MG":"\"...Ah, there you are.\nI wonder where Bern shrank off to?\n*giggle* Could she be any more lame?\"","UP":"\"...Ah, there you are.\nDid Bern shrink off somewhere?\n*giggle*, could she be any more lame?\"","note":"Both editions retain “shrank off,” losing the specific idea that Bernkastel went away to sulk.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi2_20-L0165","readerRefs":{"WH":["umi2_20-L0165"],"MG":["umi2_20-L0165"],"UP":["umi2_20-L0165"]}}],"sourceReading":"Lambdadelta finds the listener and mockingly wonders whether Bernkastel has gone away to sulk.","alternative":"Shrink off can suggest withdrawing in dejection or embarrassment, indirectly conveying the same defeated mood.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-015","kind":"WH","description":"ざまぁない expresses malicious satisfaction that Bernkastel has received an embarrassing or deserved comeuppance. Could she be any more lame only insults her condition and loses Lambdadelta’s “serves her right” schadenfreude.","categories":["linguistic.undertranslation","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[165,167],"MG":[165,167],"UP":[165,167]},"japanese":"「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」","japanesePC":"「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない。」","japanesePS3":"「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」","WH":"\"...Ah, there you are.  I wonder where Bern shrank off to?  *giggle*, could she be any more lame?\"","MG":"\"...Ah, there you are.\nI wonder where Bern shrank off to?\n*giggle* Could she be any more lame?\"","UP":"\"...Ah, there you are.\nDid Bern shrink off somewhere?\n*giggle*, could she be any more lame?\"","note":"Both editions retain “lame,” losing Lambdadelta’s malicious “serves her right” stance; the same wording recurs at rows 179–181 without creating another unique defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi2_20-L0165","readerRefs":{"WH":["umi2_20-L0165"],"MG":["umi2_20-L0165"],"UP":["umi2_20-L0165"]}}],"sourceReading":"Lambdadelta giggles over Bernkastel’s presumed sulking and says that humiliating state serves her right.","alternative":"Calling Bernkastel lame while laughing at her still clearly communicates contempt and enjoyment of her condition.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-016","kind":"WH","description":"むかむかする here means remembering the claimed unfair loss makes Lambdadelta irritated or angry. Makes me queasy selects the word’s nausea sense and changes resentment into physical sickness.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[173,176],"MG":[173,176],"UP":[173,176]},"japanese":"……ま、まぁ、前回は私がついつい哀れになって好きな場所から駒を進めていいわよって言ったら、\nベルンのヤツ、お情けの空気も読めずに手持ちのポーンをぜーんぶ入城させた状態から始めて！！\n何よあれ、あんなの負けでも何でもないんだからぁ！！\nあぁ、思い出しただけでもむかむかするわ。","japanesePC":"何よあれ、あんなの負けでも何でもないんだからぁ！！　あぁ、思い出しただけでもむかむかするわ。","japanesePS3":"……ま、まぁ、前回は私がついつい哀れになって好きな場所から駒を進めていいわよって言ったら、\nベルンのヤツ、お情けの空気も読めずに手持ちのポーンをぜーんぶ入城させた状態から始めて！！\n何よあれ、あんなの負けでも何でもないんだからぁ！！\nあぁ、思い出しただけでもむかむかするわ。","WH":"What's up with that, that wasn't a loss or anything!!  Aaah, just remembering that makes me queasy.","MG":"...W-Well, last time, right when I felt just a little pity and said she could start with her pieces anywhere she wanted,\nthat idiot Bern, without taking notice of my compassion, started with all of her pawns on my side of the board!!\nWhat's up with that? That wasn't a loss or anything!!\nAaah, just remembering it makes me queasy.","UP":"......W‐well, last time, I felt just a little pity and said that she could start her pieces anywhere she wants,\nand then that idiot Bern totally didn't pick up on my compassion and started with aaall of her pawns promoted on the eighth rank!!\nWhat's up with that, that wasn't a loss or anything!!\nAaah, just remembering that makes me queasy.","note":"Both editions retain “queasy,” changing Lambdadelta’s anger at the remembered loss into nausea.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi2_20-L0173","readerRefs":{"WH":["umi2_20-L0173"],"MG":["umi2_20-L0173"],"UP":["umi2_20-L0173"]}}],"sourceReading":"Lambdadelta insists the prior game did not count as a loss and becomes angry merely remembering Bernkastel’s use of the concession.","alternative":"むかむか can literally mean nausea, and queasy can figuratively accompany disgust or indignation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-017","kind":"WH","description":"悪い遊びが過ぎる says Beatrice’s malicious playing around goes too far. She has too much bad fun is unnatural English and turns excessive conduct into possession of a quantity of fun.","categories":["linguistic.grammar","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[202,204],"MG":[202,204],"UP":[202,204]},"japanese":"手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。","japanesePC":"手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。","japanesePS3":"手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。","WH":"She is sometimes mistaken in her strategy and goals.\nAnd she has too much bad fun.\nAs a result, she even makes and exposes her own weak points.","MG":"She sometimes mistakes her means for her ends.\nAnd she has too much dark fun.\nSometimes, that even ends up creating and exposing her own weak points.","UP":"She sometimes mistakes the means for the end.\nAnd she has too much bad fun.\nAs a result, she makes and even exposes her own weak points.","note":"Both editions retain the unnatural “too much bad fun,” blurring the claim that Beatrice lets malicious play go too far.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi2_20-L0202","readerRefs":{"WH":["umi2_20-L0202"],"MG":["umi2_20-L0202"],"UP":["umi2_20-L0202"]}}],"sourceReading":"Lambdadelta says Beatrice confuses means and ends and lets her cruel play go too far, thereby creating and exposing weaknesses.","alternative":"Too much fun can idiomatically mean excessive indulgence, and bad identifies the play as malicious.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP02-HIDDEN-013","kind":"WH","description":"あなたに魔女を認めさせる describes making the addressee acknowledge the witch or witchhood at issue in Beatrice’s game. Making you accept witches plural broadens the condition into accepting witches as a general class.","categories":["mystery.scope_quantifier_negation","mystery.truth_authority"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[151,152],"MG":[151,152],"UP":[151,152]},"japanese":"……あなたに魔女を認めさせること。\nこれがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。","japanesePC":"……あなたに魔女を認めさせること。\nこれがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。","japanesePS3":"……あなたに魔女を認めさせること。\nこれがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。","WH":"......Making you accept witches.\nThere is no longer any doubt that this is one of Beatrice's victory conditions.","MG":"...Making you accept witches.\nThere is no longer any doubt that this is one of Beatrice's victory conditions.","UP":"......Making you accept witches.\nThere is no longer any doubt that this is one of Beatrice's victory conditions.","note":"Both editions retain plural “witches,” broadening the stated condition beyond the witch at issue.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi2_20-L0148","readerRefs":{"WH":["umi2_20-L0148"],"MG":["umi2_20-L0148"],"UP":["umi2_20-L0148"]}}],"sourceReading":"Bernkastel says one of Beatrice’s victory conditions is unquestionably to make the listener acknowledge the witch rather than submit to that recognition.","alternative":"Japanese 魔女 lacks an article and can express the category generically; accepting witches conveys recognizing witch existence rather than one individual alone.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-1-120-001","kind":"additional","description":"UP renders Beatrice’s criticism 手厳しい as “How remorseless,” assigning lack of mercy rather than saying Bernkastel’s evaluation is severe or harsh.","categories":["linguistic.word_choice","character.relationship_power"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[4,7],"MG":[4,7],"UP":[4,7]},"japanese":"「……ここまで一方的なワンサイドゲームだと、見応えを通り越して退屈よ」\n「くっくっくっく、これはこれは、相変わらずお点が辛い。\n……退屈を愛さないベルンカステル卿に相応しい\n迫力ある展開だったと自負していただけにこれは手厳しい」","japanesePC":"","japanesePS3":"「……ここまで一方的なワンサイドゲームだと、見応えを通り越して退屈よ」\n「くっくっくっく、これはこれは、相変わらずお点が辛い。\n……退屈を愛さないベルンカステル卿に相応しい\n迫力ある展開だったと自負していただけにこれは手厳しい」","WH":"","MG":"\"...A game that one-sided goes beyond being riveting. It's boring.\"\n\"*cackle*cackle* My, my, but you're as harsh as always.\n...Considering how proud I was to have created a development so\nimpactful that it might satisfy even the boredom-hating Lady Bernkastel, this response is quite harsh.\"","UP":"\"......A game that one‐sided goes beyond captivating and becomes boring.\"\n\"*cackle*cackle*. My, my, a harsh critic as always.\n......And I was so certain that even Lady Bernkastel, who has no love for boredom,\nwould surely be satisfied by this compelling development... How remorseless.\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_20-L0004","readerRefs":{"WH":[],"MG":["umi2_20-L0004","umi2_20-L0005"],"UP":["umi2_20-L0004","umi2_20-L0005"]}}],"sourceReading":"Beatrice says Bernkastel remains a harsh grader and calls her dismissive response severe.","alternative":"A remorseless critic can be one who judges harshly without softening the verdict, so the social effect is similar.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-1-120-002","kind":"additional","description":"UP uses the malformed progressive “It is pleasing me too” for Bernkastel’s simple statement that she too finds the prospect enjoyable.","categories":["linguistic.grammar","character.voice_state"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[28,30],"MG":[28,30],"UP":[28,30]},"japanese":"「……えぇ。\n私も愉快よ。\nそこまで自信満々のあなたがボロボロに負けるところが見たくて、遥々やって来たんだもの」","japanesePC":"","japanesePS3":"「……えぇ。\n私も愉快よ。\nそこまで自信満々のあなたがボロボロに負けるところが見たくて、遥々やって来たんだもの」","WH":"","MG":"\"...Yes.\nI'm also pleased.\nI came all this way because I really wanted to see you, brimming with confidence, fall apart and lose.\"","UP":"\"......Yes.\nIt is pleasing me too.\nAfter all, I came all this way just because I wanted to see you brimming with that confidence, only to fall apart and lose.\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_20-L0028","readerRefs":{"WH":[],"MG":["umi2_20-L0028"],"UP":["umi2_20-L0028"]}}],"sourceReading":"Bernkastel says she too is pleased and came specifically to watch the confident Beatrice lose badly.","alternative":"The sentence is readily understood, and progressive please occasionally appears when emphasizing an ongoing experience.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-1-120-003","kind":"additional","description":"MG changes Beatrice’s invitation to enjoy the valuable relationship or connection created by this occasion into enjoying their “precious time together.”","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[64,70],"MG":[64,70],"UP":[64,70]},"japanese":"「それが良かろう。\n元より、妾の辞書に手加減の文字はないのでな。\nくっくっくくくくくくくく！\nラムダデルタ卿、この度の貴重な縁を楽しもうではないか」\n「えぇ、こちらこそよろしくよベアトリーチェ卿！\nこいつには私もさんざん煮え湯を飲まされてるの。\n私たち二人で叩き潰して、二倍でお返ししなきゃ腹の虫が収まんないのよぅ！！」","japanesePC":"","japanesePS3":"「それが良かろう。\n元より、妾の辞書に手加減の文字はないのでな。\nくっくっくくくくくくくく！\nラムダデルタ卿、この度の貴重な縁を楽しもうではないか」\n「えぇ、こちらこそよろしくよベアトリーチェ卿！\nこいつには私もさんざん煮え湯を飲まされてるの。\n私たち二人で叩き潰して、二倍でお返ししなきゃ腹の虫が収まんないのよぅ！！」","WH":"","MG":"\"That would be well.\n\"Going easy\" has never been written in my dictionary.\n*cackle*cackle*cackle*cackle*cackle*!\nLady Lambdadelta, let us enjoy our precious time together.\"\n\"Yeah, I'll be counting on you, Lady Beatrice!\nI've been betrayed pretty bad by her too.\nUntil the two of us smash her up and pay her back double, I won't be able to rest!!\"","UP":"\"That would be suitable.\n\"Leniency\" has never featured in my dictionary.\n*cackle*cackle*cackle*cackle*cackle*!\nLady Lambdadelta, let us enjoy our valuable new relationship.\"\n\"Yes, I'll be counting on you, Lady Beatrice!\nThis girl really put me through the wringer.\nI'm not gonna be happy until the two of us have smushed her up and paid her back double!!\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi2_20-L0064","readerRefs":{"WH":[],"MG":["umi2_20-L0064","umi2_20-L0068"],"UP":["umi2_20-L0064","umi2_20-L0068"]}}],"sourceReading":"Beatrice welcomes Lambdadelta and proposes that they enjoy the valuable bond or encounter this occasion has created.","alternative":"The new relationship is expressed through time spent collaborating, and precious time together retains a warmly formal welcome.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-121-240-001","kind":"additional","description":"UP renders 見させてもらった as “I took a glimpse,” removing the permission or benefit expressed by being allowed to see part of Beatrice’s game.","categories":["linguistic.mistranslation","character.knowledge_boundary"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[126,128],"MG":[126,128],"UP":[126,128]},"japanese":"確かにあの子のゲームはあまりに卑劣。\nゲーム盤を少しだけ見させてもらったけど、あまりに卑劣かつ狡猾な仕掛けで、\nその舞台仕掛けの嫌らしさは多分、ラムダデルタのゲーム盤のそれを遥かに上回るわ。","japanesePC":"","japanesePS3":"確かにあの子のゲームはあまりに卑劣。\nゲーム盤を少しだけ見させてもらったけど、あまりに卑劣かつ狡猾な仕掛けで、\nその舞台仕掛けの嫌らしさは多分、ラムダデルタのゲーム盤のそれを遥かに上回るわ。","WH":"","MG":"Certainly, that child's game is quite unfair.\nI've only been allowed a glimpse of the game board,\nbut the unfair and clever devices set up on the stage are so disgusting...that I imagine they far surpass those on Lambdadelta's game board.","UP":"Certainly, that child's game is quite unfair.\nI took a glimpse of the game board, and the tricks are so mean and cunning,\nand the scenic tricks are filthy to a degree that probably far surpasses that of Lambdadelta's game board.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_20-L0126","readerRefs":{"WH":[],"MG":["umi2_20-L0126"],"UP":["umi2_20-L0126"]}}],"sourceReading":"Bernkastel says she was allowed a glimpse of Beatrice’s game and then offers advice from what she saw.","alternative":"“Took a glimpse” conveys limited observation, but assigns the viewing to Bernkastel alone rather than marking that access was afforded to her.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-121-240-002","kind":"additional","description":"MG adds the profanity “fucked up so bad” where Lambdadelta only says that seeing Bernkastel’s piece in such a sorry state feels wonderful.","categories":["linguistic.addition","character.voice_state"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[178,178],"MG":[178,178],"UP":[178,178]},"japanese":"そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！","japanesePC":"","japanesePS3":"そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！","WH":"","MG":"And since you, Bern's piece, fucked up so bad, I'm feeling just great!","UP":"So it's like, seeing you in this state as Bern's piece, that makes me feel just awesome!","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi2_20-L0177","readerRefs":{"WH":[],"MG":["umi2_20-L0177"],"UP":["umi2_20-L0177"]}}],"sourceReading":"Lambdadelta delights in the pathetic condition of Bernkastel’s piece.","alternative":"The profanity intensifies Lambdadelta’s gloating and fits her aggressive tone, but it is not present in the Japanese.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-121-240-003","kind":"additional","description":"MG translates 余裕ぶった as Beatrice acting “so tough,” changing a display of composure or ease into toughness.","categories":["linguistic.word_choice","character.irony_performance"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[202,206],"MG":[202,206],"UP":[202,206]},"japanese":"手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。\n私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。\n自ら勝率を下げてるなんてね。","japanesePC":"","japanesePS3":"手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。\n私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。\n自ら勝率を下げてるなんてね。","WH":"","MG":"She sometimes mistakes her means for her ends.\nAnd she has too much dark fun.\nSometimes, that even ends up creating and exposing her own weak points.\nFor a super-powerful witch like me, it's hard to understand why she's able to act so tough.\nWhy she lowers her own chances of winning.","UP":"She sometimes mistakes the means for the end.\nAnd she has too much bad fun.\nAs a result, she makes and even exposes her own weak points.\nIt's impossible for a strongest‐ever witch like me to understand why she acts so relaxed.\nLowering her own chances of winning.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi2_20-L0202","readerRefs":{"WH":[],"MG":["umi2_20-L0202"],"UP":["umi2_20-L0202"]}}],"sourceReading":"Lambdadelta cannot understand why Beatrice puts on such an air of composure while lowering her own chances of victory.","alternative":"Acting tough can imply confident posturing, but toughness does not express the source’s conspicuous ease or composure.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-121-240-004","kind":"additional","description":"UP renders 素直で正直 as “obedient and honest,” replacing straightforward or direct predictability with submissiveness.","categories":["linguistic.word_choice","character.voice_state"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[210,210],"MG":[210,210],"UP":[210,210]},"japanese":"…ベルンにとっては、私みたいな素直で正直なタイプは、読みやすくてやりやすいんでしょうね。","japanesePC":"","japanesePS3":"…ベルンにとっては、私みたいな素直で正直なタイプは、読みやすくてやりやすいんでしょうね。","WH":"","MG":"...Maybe it's really easy for Bern to read and handle a straightforward and honest type like me.","UP":"...It's probably really easy for Bern to read and handle an obedient and honest type like me.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_20-L0207","readerRefs":{"WH":[],"MG":["umi2_20-L0207"],"UP":["umi2_20-L0207"]}}],"sourceReading":"Lambdadelta characterizes herself as straightforward and honest in contrast with Beatrice’s indirect play.","alternative":"素直 can mean obedient in hierarchical contexts, but here it describes her own direct strategic temperament, not compliance with another person.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-121-240-005","kind":"additional","description":"MG contains the typographical error “Bascially” for “Basically.”","categories":["linguistic.typography"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[219,219],"MG":[219,219],"UP":[219,219]},"japanese":"つまりこのラムダデルタ卿は、","japanesePC":"","japanesePS3":"つまりこのラムダデルタ卿は、","WH":"","MG":"Bascially, I, Lady Lambdadelta,","UP":"In other words, I, Lady Lambdadelta,","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi2_20-L0216","readerRefs":{"WH":[],"MG":["umi2_20-L0216"],"UP":["umi2_20-L0216"]}}],"sourceReading":"The sentence opens with a normal summarizing transition.","alternative":"The intended word is unmistakable.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP02-CH20-121-240-006","kind":"additional","description":"UP renders 趣味の悪い as “nasty hobbies,” literalizing 趣味 and changing Beatrice’s bad taste into a claim about her activities.","categories":["linguistic.word_choice","character.irony_performance"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi2_20","episode":2,"rows":{"JP":[224,224],"MG":[224,224],"UP":[224,224]},"japanese":"一見すると本当に趣味の悪いヤツだと思うでしょ？","japanesePC":"","japanesePS3":"一見すると本当に趣味の悪いヤツだと思うでしょ？","WH":"","MG":"At a glance, you'd think she has really nasty tastes, right?","UP":"At a glance, you'd think she has really nasty hobbies, right?","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi2_20-L0222","readerRefs":{"WH":[],"MG":["umi2_20-L0222"],"UP":["umi2_20-L0222"]}}],"sourceReading":"Lambdadelta calls Beatrice’s taste bad while speculating about why she prolongs the game.","alternative":"The surrounding discussion concerns Beatrice’s habitual way of playing, so “hobbies” remains understandable as a loose insult.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP02-HIDDEN-001",
+      "kind": "WH",
+      "description": "そなたが妾と逆の目に張っているとお伝えしたら becomes After informing me that you were betting against me.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.knowledge_boundary",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              50,
+              54
+            ],
+            "MG": [
+              50,
+              54
+            ],
+            "UP": [
+              50,
+              54
+            ]
+          },
+          "japanese": "「………ベアトも馬鹿ね。\nこの子はあんたのゲームであってもしっちゃかめっちゃかにするわよ」\n「ラムダデルタ卿には、決してギャラリーとしてだけお呼びしたのではない」\n「そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた」\n「…………………………あんた、まだ根に持ってるのね」",
+          "japanesePC": "そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた。」",
+          "japanesePS3": "「………ベアトも馬鹿ね。\nこの子はあんたのゲームであってもしっちゃかめっちゃかにするわよ」\n「ラムダデルタ卿には、決してギャラリーとしてだけお呼びしたのではない」\n「そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた」\n「…………………………あんた、まだ根に持ってるのね」",
+          "WH": "After informing me that you were betting against me, she said that she would bet against you.\"",
+          "MG": "\"......You're dumb too, Beato.\nIf this kid's in your game, she'll make a mess of everything.\"\n\"I certainly didn't just bring Lady Lambdadelta here to watch from the sidelines.\nAfter informing me that you were betting against me, she said that she would bet against you.\"\n\"............You're still holding a grudge, aren't you.\"",
+          "UP": "\".........You're a fool too, Beato.\nThis kid won't make exceptions for your game, she'll turn everything into a preposterous farce.\"\n\"I didn't bring Lady Lambdadelta here solely to watch from the sidelines.\"\n\"After I informed her that you were betting against me, she said that she would bet against you.\"\n\"..............................You're still holding a grudge, aren't you.\"",
+          "note": "MG retains the malformed perspective in After informing me that you were betting against me. UP correctly makes Beatrice the one who informed Lambdadelta.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0050",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0053"
+            ],
+            "MG": [
+              "umi2_20-L0050",
+              "umi2_20-L0052",
+              "umi2_20-L0053",
+              "umi2_20-L0054"
+            ],
+            "UP": [
+              "umi2_20-L0050",
+              "umi2_20-L0052",
+              "umi2_20-L0053",
+              "umi2_20-L0054"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた」",
+              "translation": "After informing me that you were betting against me, she said that she would bet against you.\" "
+            },
+            "UP": {
+              "japanese": "「そなたが妾と逆の目に張っているとお伝えしたら、卿はそなたの逆の目に張ると仰せになられた」",
+              "translation": "\"After I informed her that you were betting against me, she said that she would bet against you.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0053"
+            ],
+            "MG": [
+              "umi2_20-L0053"
+            ],
+            "UP": [
+              "umi2_20-L0053"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice tells Bern that after she informed Lambda of Bern betting against her, Lambda said she would bet against Bern.",
+      "alternative": "The translated latter clause correctly reports Lambda opposing Bern, but the initial recipient me reverses the information flow from Beatrice to Lambda.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-002",
+      "kind": "WH",
+      "description": "どういう勝敗になろうとも becomes No matter what issue we fight over.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.argument_reconstruction",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              71,
+              73
+            ],
+            "MG": [
+              71,
+              73
+            ],
+            "UP": [
+              71,
+              73
+            ]
+          },
+          "japanese": "「…………こちらこそよろしくよ、ラムダ。\nそしてベアト。\n…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね」",
+          "japanesePC": "「…………こちらこそよろしくよ、ラムダ。そしてベアト。…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね。」",
+          "japanesePS3": "「…………こちらこそよろしくよ、ラムダ。\nそしてベアト。\n…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね」",
+          "WH": "\"............I'll be counting on you, Lambda.  And Beato. ...No matter what issue we fight over, this will be a very significant battle for us.\"",
+          "MG": "\"......I'll be counting on you, Lambda.\nAnd you, Beato.\n...No matter what we fight over, this will be a very significant battle for us all.\"",
+          "UP": "\"............I look forward to it, Lambda.\nAnd Beato.\n...No matter who wins or who loses, this will be a very meaningful battle for us.\"",
+          "note": "MG retains no matter what we fight over and changes battle outcome into subject matter. UP correctly says no matter who wins or loses.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0071",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0071"
+            ],
+            "MG": [
+              "umi2_20-L0071"
+            ],
+            "UP": [
+              "umi2_20-L0071"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………こちらこそよろしくよ、ラムダ。そしてベアト。…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね」",
+              "translation": "\"......I'll be counting on you, Lambda. And you, Beato. ...No matter what we fight over, this will be a very significant battle for us all.\" "
+            },
+            "UP": {
+              "japanese": "「…………こちらこそよろしくよ、ラムダ。そしてベアト。…どういう勝敗になろうとも、これは私たちにとってとても有意義な戦いになるわね」",
+              "translation": "\"............I look forward to it, Lambda. And Beato. ...No matter who wins or who loses, this will be a very meaningful battle for us.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0071"
+            ],
+            "MG": [
+              "umi2_20-L0071"
+            ],
+            "UP": [
+              "umi2_20-L0071"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern says their battle will be meaningful regardless of how victory and defeat turn out.",
+      "alternative": "English retains general significance but shifts the variable from outcome to dispute topic.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-003",
+      "kind": "WH",
+      "description": "私たちには勝敗以上に意義がある becomes who wins and who loses will be important.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              74,
+              76
+            ],
+            "MG": [
+              74,
+              76
+            ],
+            "UP": [
+              74,
+              76
+            ]
+          },
+          "japanese": "「そうね。\nもちろん負ける気はないけど、私たちには勝敗以上に意義がある」\n「何しろ妾たちは、退屈を愛さない」",
+          "japanesePC": "「そうね。もちろん負ける気はないけど、私たちには勝敗以上に意義がある。」",
+          "japanesePS3": "「そうね。\nもちろん負ける気はないけど、私たちには勝敗以上に意義がある」\n「何しろ妾たちは、退屈を愛さない」",
+          "WH": "\"That's right.  Of course, I don't feel like losing, but who wins and who loses will be important.\"",
+          "MG": "\"That's right.\nOf course, I don't plan on losing, but we've got a goal beyond who wins and who loses.\"\n\"After all, we hate boredom.\"",
+          "UP": "\"That's right.\nOf course, I'm not gonna lose easy, but this is more important than winning and losing.\"\n\"After all, we have no love for boredom.\"",
+          "note": "MG says they have a goal beyond victory; UP says the battle matters beyond victory. Neither retains the claim that who wins and loses is itself important.",
+          "dispositions": {
+            "MG": "corrected_with_revised_wording",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0074",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0074"
+            ],
+            "MG": [
+              "umi2_20-L0074",
+              "umi2_20-L0076"
+            ],
+            "UP": [
+              "umi2_20-L0074",
+              "umi2_20-L0076"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうね。もちろん負ける気はないけど、私たちには勝敗以上に意義がある」",
+              "translation": "\"That's right. Of course, I don't plan on losing, but we've got a goal beyond who wins and who loses.\" "
+            },
+            "UP": {
+              "japanese": "「そうね。もちろん負ける気はないけど、私たちには勝敗以上に意義がある」",
+              "translation": "\"That's right. Of course, I'm not gonna lose easy, but this is more important than winning and losing.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0074"
+            ],
+            "MG": [
+              "umi2_20-L0074"
+            ],
+            "UP": [
+              "umi2_20-L0074"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambda does not intend to lose, but agrees that the battle has significance beyond victory or defeat; Beatrice then identifies their shared hatred of boredom.",
+      "alternative": "勝敗以上 acknowledges winning still matters, yet expressly locates greater significance beyond it, which English omits and instead emphasizes winning itself.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-004",
+      "kind": "WH",
+      "description": "困ったことに is rendered Since when we are in trouble, making inference from moves dependent on being in trouble.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              133,
+              135
+            ],
+            "MG": [
+              133,
+              135
+            ],
+            "UP": [
+              133,
+              135
+            ]
+          },
+          "japanese": "困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、\nこれは非常に手ごわい情報のノイズ。\n厄介な撹乱になりうるわ。",
+          "japanesePC": "困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、これは非常に手ごわい情報のノイズ。",
+          "japanesePS3": "困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、\nこれは非常に手ごわい情報のノイズ。\n厄介な撹乱になりうるわ。",
+          "WH": "Since when we are in trouble, we try to seek out our opponent's strategy by looking at their moves, this creates a very formidable amount of noise in our information.",
+          "MG": "Since, when we're in trouble, we try to seek out our opponent's strategy by looking at their moves,\nthis creates a very formidable amount of noise in our information.\nThat might cause a troublesome amount of disorder.",
+          "UP": "This is unfortunate for us, trying to seek out our opponent's strategy by looking at her moves,\nbecause it creates a formidable amount of noise in our information.\nThis disorder could be troublesome.",
+          "note": "MG retains the conditional framing; UP restores “This is unfortunate for us,” as an evaluation of the situation.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0133",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0133"
+            ],
+            "MG": [
+              "umi2_20-L0133"
+            ],
+            "UP": [
+              "umi2_20-L0133"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、これは非常に手ごわい情報のノイズ。厄介な撹乱になりうるわ。",
+              "translation": "Since, when we're in trouble, we try to seek out our opponent's strategy by looking at their moves, this creates a very formidable amount of noise in our information. That might cause a troublesome amount of disorder. "
+            },
+            "UP": {
+              "japanese": "困ったことに、相手の指し手から手の内を探ろうとしている私たちにとって、これは非常に手ごわい情報のノイズ。厄介な撹乱になりうるわ。",
+              "translation": "This is unfortunate for us, trying to seek out our opponent's strategy by looking at her moves, because it creates a formidable amount of noise in our information. This disorder could be troublesome."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0133"
+            ],
+            "MG": [
+              "umi2_20-L0133"
+            ],
+            "UP": [
+              "umi2_20-L0133"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Unfortunately for them, since they are trying to infer the opponent's strategy from her moves, intentionally suboptimal moves constitute formidable informational noise.",
+      "alternative": "The situation is troublesome, but the source is an evaluative introduction, not a when-clause restricting their method to troubled situations.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-005",
+      "kind": "WH",
+      "description": "付け込ませたいかのように隙がある becomes One that makes me want to take advantage of it.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.motivation_emotion",
+        "mystery.epistemic_status",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              141,
+              143
+            ],
+            "MG": [
+              141,
+              143
+            ],
+            "UP": [
+              141,
+              143
+            ]
+          },
+          "japanese": "…実は隙がある。\n付け込ませたいかのように隙がある。\n……それが罠なのか、こちらを試しているのかわからないけども。",
+          "japanesePC": "付け込ませたいかのように隙がある。",
+          "japanesePS3": "…実は隙がある。\n付け込ませたいかのように隙がある。\n……それが罠なのか、こちらを試しているのかわからないけども。",
+          "WH": "One that makes me want to take advantage of it.",
+          "MG": "...there actually was a weak point.\nA weak point that almost looks like she wanted you to take advantage of it.\n...Though, I don't know if it's a trap or if she's testing us.",
+          "UP": "...there actually were weak points.\nIt looks almost as if she wants us to take advantage of them.\n......Although, I don't know if it's a trap or if she's testing us.",
+          "note": "Both editions say the gap makes the listener want to exploit it, rather than making Beatrice want exploitation.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0139",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0139"
+            ],
+            "MG": [
+              "umi2_20-L0139"
+            ],
+            "UP": [
+              "umi2_20-L0139"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "あなたには信じられないだろうけども、今回のゲームもそう。……あれだけ圧倒的な展開に見えて、…実は隙がある。付け込ませたいかのように隙がある。……それが罠なのか、こちらを試しているのかわからないけども。",
+              "translation": "Although you may not be able to believe it, that analogy holds true for this game as well. ...Even though those developments looked so overpowering, ...there actually was a weak point. A weak point that almost looks like she wanted you to take advantage of it. ...Though, I don't know if it's a trap or if she's testing us. "
+            },
+            "UP": {
+              "japanese": "あなたには信じられないだろうけども、今回のゲームもそう。……あれだけ圧倒的な展開に見えて、…実は隙がある。付け込ませたいかのように隙がある。……それが罠なのか、こちらを試しているのかわからないけども。",
+              "translation": "Although you may not be able to believe it, this game was also like that. ......Even though those developments looked so overpowering, ...there actually were weak points. It looks almost as if she wants us to take advantage of them. ......Although, I don't know if it's a trap or if she's testing us."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0139"
+            ],
+            "MG": [
+              "umi2_20-L0139"
+            ],
+            "UP": [
+              "umi2_20-L0139"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "There is an opening as though Beatrice wants to let them exploit it. Bern does not know whether it is a trap or a test.",
+      "alternative": "Both suggest a tempting opening, but the causative source locates apparent intent with the one leaving the opening, while English explicitly makes Bern the person desiring exploitation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-006",
+      "kind": "WH",
+      "description": "魔女の戦いは守りが肝心よ becomes What is the most important element in defense during a witch's battle.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              148,
+              150
+            ],
+            "MG": [
+              148,
+              150
+            ],
+            "UP": [
+              148,
+              150
+            ]
+          },
+          "japanese": "魔女の戦いは守りが肝心よ？\n勝とうとするより、負けないようにしなさい。\n…認めたら負けなら、断じて認めては駄目。",
+          "japanesePC": "魔女の戦いは守りが肝心よ？",
+          "japanesePS3": "魔女の戦いは守りが肝心よ？\n勝とうとするより、負けないようにしなさい。\n…認めたら負けなら、断じて認めては駄目。",
+          "WH": "What's the most important element in defense during a witch's battle?",
+          "MG": "What's the most important element in defense during a witch's battle?\nRather than trying to win, try not to lose.\n...If accepting her means your defeat, then you definitely mustn't accept her.",
+          "UP": "Defense is crucial during a witch's battle, you know?\nRather than trying to win, try not to lose.\n...If you lose when you accept her, then you definitely must not accept her.",
+          "note": "MG retains the question about what matters in defense; UP states that defense itself is crucial.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0148",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0148"
+            ],
+            "MG": [
+              "umi2_20-L0148"
+            ],
+            "UP": [
+              "umi2_20-L0148"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "魔女の戦いは守りが肝心よ？勝とうとするより、負けないようにしなさい。…認めたら負けなら、断じて認めては駄目。……あなたに魔女を認めさせること。これがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。",
+              "translation": "What's the most important element in defense during a witch's battle? Rather than trying to win, try not to lose. ...If accepting her means your defeat, then you definitely mustn't accept her. ...Making you accept witches. There is no longer any doubt that this is one of Beatrice's victory conditions. "
+            },
+            "UP": {
+              "japanese": "魔女の戦いは守りが肝心よ？勝とうとするより、負けないようにしなさい。…認めたら負けなら、断じて認めては駄目。……あなたに魔女を認めさせること。これがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。",
+              "translation": "Defense is crucial during a witch's battle, you know? Rather than trying to win, try not to lose. ...If you lose when you accept her, then you definitely must not accept her. ......Making you accept witches. There is no longer any doubt that this is one of Beatrice's victory conditions."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0148"
+            ],
+            "MG": [
+              "umi2_20-L0148"
+            ],
+            "UP": [
+              "umi2_20-L0148"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern states that defense is crucial in a witches' battle, then advises avoiding defeat rather than pursuing victory.",
+      "alternative": "A rhetorical question can introduce advice, but English asks for the key element within defense rather than asserting defense itself as the strategic priority.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-007",
+      "kind": "WH",
+      "description": "あの子 ... 負けず嫌い becomes I would really hate that girl even if I did not lose; predicted present teeth-grinding/tears becomes I will make her do those things.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.mistranslation",
+        "character.motivation_emotion",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              179,
+              181
+            ],
+            "MG": [
+              179,
+              181
+            ],
+            "UP": [
+              179,
+              181
+            ]
+          },
+          "japanese": "しかもあの子はあれでいて本当に負けず嫌いだから、\nきっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、\n本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！",
+          "japanesePC": "しかもあの子はあれでいて本当に負けず嫌いだから、きっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！",
+          "japanesePS3": "しかもあの子はあれでいて本当に負けず嫌いだから、\nきっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、\n本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！",
+          "WH": "And also, I'd really hate that girl even if I didn't lose, so I'll definitely make her grind her teeth in regret, crying like a baby, she's so lame, *giggle*, hoh-hoh-hoh-hoh-hoh-ho!",
+          "MG": "Plus, she may not look it, but that girl really hates to lose,\nso I'll bet she's off somewhere grinding her teeth and crying her eyes out right now.\nHow totally lame, *giggle*, hoohohohohohohohoh!",
+          "UP": "Plus, believe it or not, that girl really hates to lose,\nso I bet she's definitely grinding her teeth in frustration right about now, crying like a baby,\nshe's so lame, *giggle*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!",
+          "note": "Both editions restore Bernkastel as the sore loser and make her present reaction a prediction. The separate loss of ざまぁ is registered under WH-EP02-HIDDEN-015.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0177",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0177"
+            ],
+            "MG": [
+              "umi2_20-L0177"
+            ],
+            "UP": [
+              "umi2_20-L0177"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そんなわけで、この私は、ベルンがぎゃふんとする顔を見ないと腹の虫が収まらないわけ。そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！しかもあの子はあれでいて本当に負けず嫌いだから、きっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！",
+              "translation": "Because of that, I won't be able to rest until I see Bern's speechless face. And since you, Bern's piece, fucked up so bad, I'm feeling just great! Plus, she may not look it, but that girl really hates to lose, so I'll bet she's off somewhere grinding her teeth and crying her eyes out right now. How totally lame, *giggle*, hoohohohohohohohoh! "
+            },
+            "UP": {
+              "japanese": "そんなわけで、この私は、ベルンがぎゃふんとする顔を見ないと腹の虫が収まらないわけ。そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！しかもあの子はあれでいて本当に負けず嫌いだから、きっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！",
+              "translation": "So, see, I'm gonna be ruffled until I see Bern's stupid speechless face. So it's like, seeing you in this state as Bern's piece, that makes me feel just awesome! Plus, believe it or not, that girl really hates to lose, so I bet she's definitely grinding her teeth in frustration right about now, crying like a baby, she's so lame, *giggle*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0177"
+            ],
+            "MG": [
+              "umi2_20-L0177"
+            ],
+            "UP": [
+              "umi2_20-L0177"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambda says Bern is intensely averse to losing and imagines she is now grinding her teeth and crying in frustration.",
+      "alternative": "Lambda also bears a grudge, but the source subject is Bern's competitive disposition and conjectured current reaction, not Lambda's hatred and planned torment.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-008",
+      "kind": "WH",
+      "description": "勝率を ... 絶対に近付けてやる becomes will associate myself just a tiny bit with you and your hopeless chances at winning.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_layer",
+        "mystery.physical_constraint",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              187,
+              190
+            ],
+            "MG": [
+              187,
+              190
+            ],
+            "UP": [
+              187,
+              190
+            ]
+          },
+          "japanese": "あんまり情けないから、ちょっとだけ力を貸してあげるわ。\nこの宇宙最強で絶対の魔女である大ラムダデルタ卿が、\nあんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。\n感謝なさい。",
+          "japanesePC": "この宇宙最強で絶対の魔女である大ラムダデルタ卿が、あんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。感謝なさい。",
+          "japanesePS3": "あんまり情けないから、ちょっとだけ力を貸してあげるわ。\nこの宇宙最強で絶対の魔女である大ラムダデルタ卿が、\nあんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。\n感謝なさい。",
+          "WH": "I, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe, will associate myself just a tiny bit with you and your hopeless chances at winning.  You should thank me.",
+          "MG": "You're so pathetic, I'll help you just a little bit.\nI, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe,\nwill associate myself just a tiny bit with you and your hopeless chances at winning.\nYou should thank me.",
+          "UP": "You're so pathetic, I'll help you just a little bit.\nI, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe,\nwill bring your hopeless chances of winning just a teensy bit closer to certainty.\nYou better thank me.",
+          "note": "MG retains association with hopeless chances; UP restores moving the listener’s chances closer to certainty.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0187",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0187"
+            ],
+            "MG": [
+              "umi2_20-L0187"
+            ],
+            "UP": [
+              "umi2_20-L0187"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "あんまり情けないから、ちょっとだけ力を貸してあげるわ。この宇宙最強で絶対の魔女である大ラムダデルタ卿が、あんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。感謝なさい。",
+              "translation": "You're so pathetic, I'll help you just a little bit. I, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe, will associate myself just a tiny bit with you and your hopeless chances at winning. You should thank me. "
+            },
+            "UP": {
+              "japanese": "あんまり情けないから、ちょっとだけ力を貸してあげるわ。この宇宙最強で絶対の魔女である大ラムダデルタ卿が、あんたの絶望的な勝率を、ほんのちょっぴりだけ絶対に近付けてやるわ。感謝なさい。",
+              "translation": "You're so pathetic, I'll help you just a little bit. I, the great Lady Lambdadelta, the Witch of Certainty and the strongest in the universe, will bring your hopeless chances of winning just a teensy bit closer to certainty. You better thank me."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0187"
+            ],
+            "MG": [
+              "umi2_20-L0187"
+            ],
+            "UP": [
+              "umi2_20-L0187"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambda promises to move the reader's hopeless win probability a little closer to certainty through her power.",
+      "alternative": "English announces slight assistance in nearby lines, but substitutes affiliation for the specified operation on victory odds.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-009",
+      "kind": "WH",
+      "description": "勝ちが見えると遊び出す becomes playing around by making it look like she has won.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              194,
+              196
+            ],
+            "MG": [
+              194,
+              196
+            ],
+            "UP": [
+              194,
+              196
+            ]
+          },
+          "japanese": "あの子はあと数手でチェックメイトできる局面を作りつつ、わざと詰めない。\n下らない駒を取ったり、余計な駒を置いてより一方的な盤面にしてみたり。\n早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。",
+          "japanesePC": "早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。",
+          "japanesePS3": "あの子はあと数手でチェックメイトできる局面を作りつつ、わざと詰めない。\n下らない駒を取ったり、余計な駒を置いてより一方的な盤面にしてみたり。\n早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。",
+          "WH": "In short, you could say she has the bad habit of playing around by making it look like she's won.",
+          "MG": "Though she'll set up the board in a way that'll let her win with just a few more moves, she'll intentionally avoid cornering you.\nShe'll do things like take worthless pieces and place excess pieces on the board to make things more one-sided.\nSimply put, she's got the bad habit of playing around as soon as she thinks she's won.",
+          "UP": "That kid will make the board so she can win with just a few more moves, but she deliberately won't finish you off.\nShe'll do stuff like take worthless pieces, or put way too many pieces on the board to make things even more one‐sided.\nThe point is, she's got this bad habit of playing around when she thinks she's going to win.",
+          "note": "Both editions restore imminent victory as the trigger for Beatrice’s wasteful play.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0194",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0194"
+            ],
+            "MG": [
+              "umi2_20-L0194"
+            ],
+            "UP": [
+              "umi2_20-L0194"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "あの子はあと数手でチェックメイトできる局面を作りつつ、わざと詰めない。下らない駒を取ったり、余計な駒を置いてより一方的な盤面にしてみたり。早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。",
+              "translation": "Though she'll set up the board in a way that'll let her win with just a few more moves, she'll intentionally avoid cornering you. She'll do things like take worthless pieces and place excess pieces on the board to make things more one-sided. Simply put, she's got the bad habit of playing around as soon as she thinks she's won. "
+            },
+            "UP": {
+              "japanese": "あの子はあと数手でチェックメイトできる局面を作りつつ、わざと詰めない。下らない駒を取ったり、余計な駒を置いてより一方的な盤面にしてみたり。早い話が、勝ちが見えると遊び出す悪い癖があるってわけ。",
+              "translation": "That kid will make the board so she can win with just a few more moves, but she deliberately won't finish you off. She'll do stuff like take worthless pieces, or put way too many pieces on the board to make things even more one‐sided. The point is, she's got this bad habit of playing around when she thinks she's going to win."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0194"
+            ],
+            "MG": [
+              "umi2_20-L0194"
+            ],
+            "UP": [
+              "umi2_20-L0194"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice starts playing around once she sees victory ahead, instead of completing checkmate.",
+      "alternative": "The preceding English mentions a position a few moves from winning, but this sentence introduces making victory look apparent as the means of play rather than imminent victory triggering wasteful play.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-010",
+      "kind": "WH",
+      "description": "妾の敗北に厚く張っておる continues the wagering metaphor and says Bernkastel has placed a heavy bet on Beatrice’s defeat. Push strongly for my defeat changes a wager into direct advocacy or effort.",
+      "categories": [
+        "linguistic.imagery_rhythm_recurrence",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              19,
+              22
+            ],
+            "MG": [
+              19,
+              22
+            ],
+            "UP": [
+              19,
+              22
+            ]
+          },
+          "japanese": "「隠し通せているつもりか。\nそなたは人の領地まではるばるやって来て、妾の逆の目に張る不届き者よ。\n妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。\n図星であろう…？」",
+          "japanesePC": "「隠し通せているつもりか。そなたは人の領地まで遥々やって来て、妾の逆目に張る不届き者よ。妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。図星であろう…？」",
+          "japanesePS3": "「隠し通せているつもりか。\nそなたは人の領地まではるばるやって来て、妾の逆の目に張る不届き者よ。\n妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。\n図星であろう…？」",
+          "WH": "\"Were you planning on hiding it?  You're an outrageous person to come into someone else's territory from such a great distance and work against me.  You came to watch from the sidelines, and probably to push strongly for my defeat.  I've guessed right, haven't I...?\"",
+          "MG": "\"Were you planning on hiding it?\nYou're an outrageous person to come into someone else's territory from such a great distance to work against them.\nYou came to watch from the sidelines, and probably to push strongly for my defeat.\nI've guessed right, haven't I...?\"",
+          "UP": "\"You thought you were hiding it?\nHow insolent, to travel all that way, and come into territory that isn't yours, just to bet against me.\nYou came here planning to watch my game from the sidelines, while having a large stake placed in my defeat.\nI've guessed right, haven't I...?\"",
+          "note": "MG retains pushing strongly for Beatrice’s defeat. UP restores a large stake placed in her defeat and preserves the wagering frame.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0019",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0019"
+            ],
+            "MG": [
+              "umi2_20-L0019"
+            ],
+            "UP": [
+              "umi2_20-L0019"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「隠し通せているつもりか。そなたは人の領地まではるばるやって来て、妾の逆の目に張る不届き者よ。妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。図星であろう…？」",
+              "translation": "\"Were you planning on hiding it? You're an outrageous person to come into someone else's territory from such a great distance to work against them. You came to watch from the sidelines, and probably to push strongly for my defeat. I've guessed right, haven't I...?\" "
+            },
+            "UP": {
+              "japanese": "「隠し通せているつもりか。そなたは人の領地まではるばるやって来て、妾の逆の目に張る不届き者よ。妾のゲームを傍観するつもりでいて、妾の敗北に厚く張っておるのだろうが。図星であろう…？」",
+              "translation": "\"You thought you were hiding it? How insolent, to travel all that way, and come into territory that isn't yours, just to bet against me. You came here planning to watch my game from the sidelines, while having a large stake placed in my defeat. I've guessed right, haven't I...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0019"
+            ],
+            "MG": [
+              "umi2_20-L0019"
+            ],
+            "UP": [
+              "umi2_20-L0019"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice accuses Bernkastel of entering another’s territory as a spectator while secretly betting heavily on Beatrice losing.",
+      "alternative": "Push for an outcome can loosely convey backing it strongly, and the previous phrase still mentions working against Beatrice.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-011",
+      "kind": "WH",
+      "description": "お敗れになられた stacks honorific forms around Lambdadelta’s defeat for conspicuous mock deference. You were defeated states the fact plainly and loses Beatrice’s exaggeratedly polite teasing.",
+      "categories": [
+        "linguistic.register_voice",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              85,
+              89
+            ],
+            "MG": [
+              85,
+              89
+            ],
+            "UP": [
+              85,
+              89
+            ]
+          },
+          "japanese": "「そうと決まればベアト、さっそく作戦会議をするわよ！\nその子の弱点は知り尽くしてる、それを全て伝授してあげるわ！」\n「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」\n「もぉおおおぉ、教えたげない教えたげないッ！\nツーン！」",
+          "japanesePC": "「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」",
+          "japanesePS3": "「そうと決まればベアト、さっそく作戦会議をするわよ！\nその子の弱点は知り尽くしてる、それを全て伝授してあげるわ！」\n「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」\n「もぉおおおぉ、教えたげない教えたげないッ！\nツーン！」",
+          "WH": "\"And yet, Lady Lambdadelta, you were defeated by her, *cackle*cackle*...!\"",
+          "MG": "\"If we're decided, Beato, then let's start a strategy meeting right now!\nI know all of this girl's weak points, and I'll teach you all of them!\"\n\"And yet, Lady Lambdadelta, you were defeated by her, *cackle*cackle*...!\"\n\"Urrrrrrrrgggh, I won't tell you, I won't tell you!\nTsun!\"",
+          "UP": "\"That's that, Beato, so let's start a strategy meeting right now!\nI know all of this girl's weak points, and I'm gonna teach you all of them!\"\n\"And yet, Lady Lambdadelta, you were defeated by her, I note... *cackle*cackle*...!\"\n\"Urrrrrrrrgggh, I won't tell you, I won't tell you!\nTsuun!\"",
+          "note": "MG states Lambdadelta was defeated plainly. UP adds I note but still loses the source’s conspicuously stacked honorific mockery.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained_with_revised_wording"
+          },
+          "readerRef": "umi2_20-L0085",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0087"
+            ],
+            "MG": [
+              "umi2_20-L0085",
+              "umi2_20-L0087",
+              "umi2_20-L0088"
+            ],
+            "UP": [
+              "umi2_20-L0085",
+              "umi2_20-L0087",
+              "umi2_20-L0088"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」",
+              "translation": "\"And yet, Lady Lambdadelta, you were defeated by her, *cackle*cackle*...!\" "
+            },
+            "UP": {
+              "japanese": "「にもかかわらず、ラムダデルタ卿はお敗れになられた、と、くっくっくっく…！」",
+              "translation": "\"And yet, Lady Lambdadelta, you were defeated by her, I note... *cackle*cackle*...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0087"
+            ],
+            "MG": [
+              "umi2_20-L0087"
+            ],
+            "UP": [
+              "umi2_20-L0087"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice responds to Lambdadelta’s claim of knowing every weakness by mock-politely noting that Lambdadelta nevertheless lost to Bernkastel.",
+      "alternative": "The formal title Lady and Beatrice’s cackle retain some teasing deference around the direct statement.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-012",
+      "kind": "WH",
+      "description": "魔女にいいようにいたぶられている says the captive is tormented however the witch pleases or at her whim. Tormented by a witch, in a manner of speaking instead makes the torment figurative or qualified and omits the witch’s unrestricted control.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              114,
+              119
+            ],
+            "MG": [
+              114,
+              119
+            ],
+            "UP": [
+              114,
+              119
+            ]
+          },
+          "japanese": "……ベアトに看破されてしまったから白状する。\n今のあなたは、かつてラムダの世界に囚われていた頃の私にそっくりなの。\n過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。\n…私はそこから生まれた魔女。\n……だからあなたの姉に当たるのかもしれない。\nだからあなたに力を貸そうと決めたの。",
+          "japanesePC": "過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。",
+          "japanesePS3": "……ベアトに看破されてしまったから白状する。\n今のあなたは、かつてラムダの世界に囚われていた頃の私にそっくりなの。\n過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。\n…私はそこから生まれた魔女。\n……だからあなたの姉に当たるのかもしれない。\nだからあなたに力を貸そうと決めたの。",
+          "WH": "Shut inside a labyrinth of cruel fate, tormented by a witch, in a manner of speaking.",
+          "MG": "...Beato saw through me, so I'll confess.\nYou are now just like I was in the past, when I was imprisoned inside Lambda's world.\nShut inside a labyrinth of cruel fate, tormented by a witch, in a manner of speaking.\n...I am a witch who was born from there.\n...So maybe I'm like an older sister to you.\nSo I decided that I'd lend you my power.",
+          "UP": "......Beato saw through me, so I'll confess.\nYou are now just like I was in the past, when I was imprisoned inside Lambda's world.\nShut inside a labyrinth of cruel fate, tormented at the whims of a witch.\n...I am a witch who was born from there.\n......So maybe I'm like an older sister to you.\nSo I decided that I'd lend you my power.",
+          "note": "MG retains in a manner of speaking and loses torment at the witch’s whim. UP correctly says tormented at the whims of a witch.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi2_20-L0114",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0114"
+            ],
+            "MG": [
+              "umi2_20-L0114"
+            ],
+            "UP": [
+              "umi2_20-L0114"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……ベアトに看破されてしまったから白状する。今のあなたは、かつてラムダの世界に囚われていた頃の私にそっくりなの。過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。…私はそこから生まれた魔女。……だからあなたの姉に当たるのかもしれない。だからあなたに力を貸そうと決めたの。",
+              "translation": "...Beato saw through me, so I'll confess. You are now just like I was in the past, when I was imprisoned inside Lambda's world. Shut inside a labyrinth of cruel fate, tormented by a witch, in a manner of speaking. ...I am a witch who was born from there. ...So maybe I'm like an older sister to you. So I decided that I'd lend you my power. "
+            },
+            "UP": {
+              "japanese": "……ベアトに看破されてしまったから白状する。今のあなたは、かつてラムダの世界に囚われていた頃の私にそっくりなの。過酷な運命の迷路に閉じ込められ、魔女にいいようにいたぶられている。…私はそこから生まれた魔女。……だからあなたの姉に当たるのかもしれない。だからあなたに力を貸そうと決めたの。",
+              "translation": "......Beato saw through me, so I'll confess. You are now just like I was in the past, when I was imprisoned inside Lambda's world. Shut inside a labyrinth of cruel fate, tormented at the whims of a witch. ...I am a witch who was born from there. ......So maybe I'm like an older sister to you. So I decided that I'd lend you my power."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0114"
+            ],
+            "MG": [
+              "umi2_20-L0114"
+            ],
+            "UP": [
+              "umi2_20-L0114"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bernkastel compares the listener to her former self, trapped in a maze of cruel fate and toyed with at a witch’s whim.",
+      "alternative": "In a manner of speaking may qualify the metaphorical identification of the opponent as a witch rather than deny the suffering itself.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-014",
+      "kind": "WH",
+      "description": "いじけてどっか行っちゃった wonders whether Bernkastel went off somewhere to sulk. Shrank off substitutes physical or social withdrawal without expressing her resentful sulking mood.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              165,
+              167
+            ],
+            "MG": [
+              165,
+              167
+            ],
+            "UP": [
+              165,
+              167
+            ]
+          },
+          "japanese": "「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」",
+          "japanesePC": "「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない。」",
+          "japanesePS3": "「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」",
+          "WH": "\"...Ah, there you are.  I wonder where Bern shrank off to?  *giggle*, could she be any more lame?\"",
+          "MG": "\"...Ah, there you are.\nI wonder where Bern shrank off to?\n*giggle* Could she be any more lame?\"",
+          "UP": "\"...Ah, there you are.\nDid Bern shrink off somewhere?\n*giggle*, could she be any more lame?\"",
+          "note": "Both editions retain “shrank off,” losing the specific idea that Bernkastel went away to sulk.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_20-L0165",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0165"
+            ],
+            "MG": [
+              "umi2_20-L0165"
+            ],
+            "UP": [
+              "umi2_20-L0165"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない」",
+              "translation": "\"...Ah, there you are. I wonder where Bern shrank off to? *giggle* Could she be any more lame?\" "
+            },
+            "UP": {
+              "japanese": "「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない」",
+              "translation": "\"...Ah, there you are. Did Bern shrink off somewhere? *giggle*, could she be any more lame?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0165"
+            ],
+            "MG": [
+              "umi2_20-L0165"
+            ],
+            "UP": [
+              "umi2_20-L0165"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta finds the listener and mockingly wonders whether Bernkastel has gone away to sulk.",
+      "alternative": "Shrink off can suggest withdrawing in dejection or embarrassment, indirectly conveying the same defeated mood.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-015",
+      "kind": "WH",
+      "description": "ざまぁない expresses malicious satisfaction that Bernkastel has received an embarrassing or deserved comeuppance. Could she be any more lame only insults her condition and loses Lambdadelta’s “serves her right” schadenfreude.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              165,
+              167
+            ],
+            "MG": [
+              165,
+              167
+            ],
+            "UP": [
+              165,
+              167
+            ]
+          },
+          "japanese": "「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」",
+          "japanesePC": "「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない。」",
+          "japanesePS3": "「…いたいた。\nベルンはいじけてどっか行っちゃったかしら？\nくすくす、本当にざまぁないったらありゃしない」",
+          "WH": "\"...Ah, there you are.  I wonder where Bern shrank off to?  *giggle*, could she be any more lame?\"",
+          "MG": "\"...Ah, there you are.\nI wonder where Bern shrank off to?\n*giggle* Could she be any more lame?\"",
+          "UP": "\"...Ah, there you are.\nDid Bern shrink off somewhere?\n*giggle*, could she be any more lame?\"",
+          "note": "Both editions retain “lame,” losing Lambdadelta’s malicious “serves her right” stance; the same wording recurs at rows 179–181 without creating another unique defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_20-L0165",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0165"
+            ],
+            "MG": [
+              "umi2_20-L0165"
+            ],
+            "UP": [
+              "umi2_20-L0165"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない」",
+              "translation": "\"...Ah, there you are. I wonder where Bern shrank off to? *giggle* Could she be any more lame?\" "
+            },
+            "UP": {
+              "japanese": "「…いたいた。ベルンはいじけてどっか行っちゃったかしら？　くすくす、本当にざまぁないったらありゃしない」",
+              "translation": "\"...Ah, there you are. Did Bern shrink off somewhere? *giggle*, could she be any more lame?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0165"
+            ],
+            "MG": [
+              "umi2_20-L0165"
+            ],
+            "UP": [
+              "umi2_20-L0165"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta giggles over Bernkastel’s presumed sulking and says that humiliating state serves her right.",
+      "alternative": "Calling Bernkastel lame while laughing at her still clearly communicates contempt and enjoyment of her condition.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-016",
+      "kind": "WH",
+      "description": "むかむかする here means remembering the claimed unfair loss makes Lambdadelta irritated or angry. Makes me queasy selects the word’s nausea sense and changes resentment into physical sickness.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              173,
+              176
+            ],
+            "MG": [
+              173,
+              176
+            ],
+            "UP": [
+              173,
+              176
+            ]
+          },
+          "japanese": "……ま、まぁ、前回は私がついつい哀れになって好きな場所から駒を進めていいわよって言ったら、\nベルンのヤツ、お情けの空気も読めずに手持ちのポーンをぜーんぶ入城させた状態から始めて！！\n何よあれ、あんなの負けでも何でもないんだからぁ！！\nあぁ、思い出しただけでもむかむかするわ。",
+          "japanesePC": "何よあれ、あんなの負けでも何でもないんだからぁ！！　あぁ、思い出しただけでもむかむかするわ。",
+          "japanesePS3": "……ま、まぁ、前回は私がついつい哀れになって好きな場所から駒を進めていいわよって言ったら、\nベルンのヤツ、お情けの空気も読めずに手持ちのポーンをぜーんぶ入城させた状態から始めて！！\n何よあれ、あんなの負けでも何でもないんだからぁ！！\nあぁ、思い出しただけでもむかむかするわ。",
+          "WH": "What's up with that, that wasn't a loss or anything!!  Aaah, just remembering that makes me queasy.",
+          "MG": "...W-Well, last time, right when I felt just a little pity and said she could start with her pieces anywhere she wanted,\nthat idiot Bern, without taking notice of my compassion, started with all of her pawns on my side of the board!!\nWhat's up with that? That wasn't a loss or anything!!\nAaah, just remembering it makes me queasy.",
+          "UP": "......W‐well, last time, I felt just a little pity and said that she could start her pieces anywhere she wants,\nand then that idiot Bern totally didn't pick up on my compassion and started with aaall of her pawns promoted on the eighth rank!!\nWhat's up with that, that wasn't a loss or anything!!\nAaah, just remembering that makes me queasy.",
+          "note": "Both editions retain “queasy,” changing Lambdadelta’s anger at the remembered loss into nausea.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_20-L0173",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0173"
+            ],
+            "MG": [
+              "umi2_20-L0173"
+            ],
+            "UP": [
+              "umi2_20-L0173"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……ま、まぁ、前回は私がついつい哀れになって好きな場所から駒を進めていいわよって言ったら、ベルンのヤツ、お情けの空気も読めずに手持ちのポーンをぜーんぶ入城させた状態から始めて！！何よあれ、あんなの負けでも何でもないんだからぁ！！　あぁ、思い出しただけでもむかむかするわ。",
+              "translation": "...W-Well, last time, right when I felt just a little pity and said she could start with her pieces anywhere she wanted, that idiot Bern, without taking notice of my compassion, started with all of her pawns on my side of the board!! What's up with that? That wasn't a loss or anything!! Aaah, just remembering it makes me queasy. "
+            },
+            "UP": {
+              "japanese": "……ま、まぁ、前回は私がついつい哀れになって好きな場所から駒を進めていいわよって言ったら、ベルンのヤツ、お情けの空気も読めずに手持ちのポーンをぜーんぶ入城させた状態から始めて！！何よあれ、あんなの負けでも何でもないんだからぁ！！　あぁ、思い出しただけでもむかむかするわ。",
+              "translation": "......W‐well, last time, I felt just a little pity and said that she could start her pieces anywhere she wants, and then that idiot Bern totally didn't pick up on my compassion and started with aaall of her pawns promoted on the eighth rank!! What's up with that, that wasn't a loss or anything!! Aaah, just remembering that makes me queasy."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0173"
+            ],
+            "MG": [
+              "umi2_20-L0173"
+            ],
+            "UP": [
+              "umi2_20-L0173"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta insists the prior game did not count as a loss and becomes angry merely remembering Bernkastel’s use of the concession.",
+      "alternative": "むかむか can literally mean nausea, and queasy can figuratively accompany disgust or indignation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-017",
+      "kind": "WH",
+      "description": "悪い遊びが過ぎる says Beatrice’s malicious playing around goes too far. She has too much bad fun is unnatural English and turns excessive conduct into possession of a quantity of fun.",
+      "categories": [
+        "linguistic.grammar",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              202,
+              204
+            ],
+            "MG": [
+              202,
+              204
+            ],
+            "UP": [
+              202,
+              204
+            ]
+          },
+          "japanese": "手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。",
+          "japanesePC": "手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。",
+          "japanesePS3": "手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。",
+          "WH": "She is sometimes mistaken in her strategy and goals.\nAnd she has too much bad fun.\nAs a result, she even makes and exposes her own weak points.",
+          "MG": "She sometimes mistakes her means for her ends.\nAnd she has too much dark fun.\nSometimes, that even ends up creating and exposing her own weak points.",
+          "UP": "She sometimes mistakes the means for the end.\nAnd she has too much bad fun.\nAs a result, she makes and even exposes her own weak points.",
+          "note": "Both editions retain the unnatural “too much bad fun,” blurring the claim that Beatrice lets malicious play go too far.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_20-L0202",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0202"
+            ],
+            "MG": [
+              "umi2_20-L0202"
+            ],
+            "UP": [
+              "umi2_20-L0202"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "手段と目的を時に履き違える。そして悪い遊びが過ぎる。その結果、自ら弱点を作り晒してさえいる。私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。自ら勝率を下げてるなんてね。",
+              "translation": "She sometimes mistakes her means for her ends. And she has too much dark fun. Sometimes, that even ends up creating and exposing her own weak points. For a super-powerful witch like me, it's hard to understand why she's able to act so tough. Why she lowers her own chances of winning. "
+            },
+            "UP": {
+              "japanese": "手段と目的を時に履き違える。そして悪い遊びが過ぎる。その結果、自ら弱点を作り晒してさえいる。私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。自ら勝率を下げてるなんてね。",
+              "translation": "She sometimes mistakes the means for the end. And she has too much bad fun. As a result, she makes and even exposes her own weak points. It's impossible for a strongest‐ever witch like me to understand why she acts so relaxed. Lowering her own chances of winning."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0202"
+            ],
+            "MG": [
+              "umi2_20-L0202"
+            ],
+            "UP": [
+              "umi2_20-L0202"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta says Beatrice confuses means and ends and lets her cruel play go too far, thereby creating and exposing weaknesses.",
+      "alternative": "Too much fun can idiomatically mean excessive indulgence, and bad identifies the play as malicious.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP02-HIDDEN-013",
+      "kind": "WH",
+      "description": "あなたに魔女を認めさせる describes making the addressee acknowledge the witch or witchhood at issue in Beatrice’s game. Making you accept witches plural broadens the condition into accepting witches as a general class.",
+      "categories": [
+        "mystery.scope_quantifier_negation",
+        "mystery.truth_authority"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              151,
+              152
+            ],
+            "MG": [
+              151,
+              152
+            ],
+            "UP": [
+              151,
+              152
+            ]
+          },
+          "japanese": "……あなたに魔女を認めさせること。\nこれがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。",
+          "japanesePC": "……あなたに魔女を認めさせること。\nこれがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。",
+          "japanesePS3": "……あなたに魔女を認めさせること。\nこれがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。",
+          "WH": "......Making you accept witches.\nThere is no longer any doubt that this is one of Beatrice's victory conditions.",
+          "MG": "...Making you accept witches.\nThere is no longer any doubt that this is one of Beatrice's victory conditions.",
+          "UP": "......Making you accept witches.\nThere is no longer any doubt that this is one of Beatrice's victory conditions.",
+          "note": "Both editions retain plural “witches,” broadening the stated condition beyond the witch at issue.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi2_20-L0148",
+          "readerRefs": {
+            "WH": [
+              "umi2_20-L0148"
+            ],
+            "MG": [
+              "umi2_20-L0148"
+            ],
+            "UP": [
+              "umi2_20-L0148"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "魔女の戦いは守りが肝心よ？勝とうとするより、負けないようにしなさい。…認めたら負けなら、断じて認めては駄目。……あなたに魔女を認めさせること。これがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。",
+              "translation": "What's the most important element in defense during a witch's battle? Rather than trying to win, try not to lose. ...If accepting her means your defeat, then you definitely mustn't accept her. ...Making you accept witches. There is no longer any doubt that this is one of Beatrice's victory conditions. "
+            },
+            "UP": {
+              "japanese": "魔女の戦いは守りが肝心よ？勝とうとするより、負けないようにしなさい。…認めたら負けなら、断じて認めては駄目。……あなたに魔女を認めさせること。これがベアトリーチェの勝利条件のひとつであることはもはや、疑いようもないのだから。",
+              "translation": "Defense is crucial during a witch's battle, you know? Rather than trying to win, try not to lose. ...If you lose when you accept her, then you definitely must not accept her. ......Making you accept witches. There is no longer any doubt that this is one of Beatrice's victory conditions."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi2_20-L0148"
+            ],
+            "MG": [
+              "umi2_20-L0148"
+            ],
+            "UP": [
+              "umi2_20-L0148"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bernkastel says one of Beatrice’s victory conditions is unquestionably to make the listener acknowledge the witch rather than submit to that recognition.",
+      "alternative": "Japanese 魔女 lacks an article and can express the category generically; accepting witches conveys recognizing witch existence rather than one individual alone.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-1-120-001",
+      "kind": "additional",
+      "description": "UP renders Beatrice’s criticism 手厳しい as “How remorseless,” assigning lack of mercy rather than saying Bernkastel’s evaluation is severe or harsh.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              4,
+              7
+            ],
+            "MG": [
+              4,
+              7
+            ],
+            "UP": [
+              4,
+              7
+            ]
+          },
+          "japanese": "「……ここまで一方的なワンサイドゲームだと、見応えを通り越して退屈よ」\n「くっくっくっく、これはこれは、相変わらずお点が辛い。\n……退屈を愛さないベルンカステル卿に相応しい\n迫力ある展開だったと自負していただけにこれは手厳しい」",
+          "japanesePC": "",
+          "japanesePS3": "「……ここまで一方的なワンサイドゲームだと、見応えを通り越して退屈よ」\n「くっくっくっく、これはこれは、相変わらずお点が辛い。\n……退屈を愛さないベルンカステル卿に相応しい\n迫力ある展開だったと自負していただけにこれは手厳しい」",
+          "WH": "",
+          "MG": "\"...A game that one-sided goes beyond being riveting. It's boring.\"\n\"*cackle*cackle* My, my, but you're as harsh as always.\n...Considering how proud I was to have created a development so\nimpactful that it might satisfy even the boredom-hating Lady Bernkastel, this response is quite harsh.\"",
+          "UP": "\"......A game that one‐sided goes beyond captivating and becomes boring.\"\n\"*cackle*cackle*. My, my, a harsh critic as always.\n......And I was so certain that even Lady Bernkastel, who has no love for boredom,\nwould surely be satisfied by this compelling development... How remorseless.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_20-L0004",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0004",
+              "umi2_20-L0005"
+            ],
+            "UP": [
+              "umi2_20-L0004",
+              "umi2_20-L0005"
+            ]
+          },
+          "findingEvidence": {
+            "UP": {
+              "japanese": "「くっくっくっく、これはこれは、相変わらずお点が辛い。……退屈を愛さないベルンカステル卿に相応しい迫力ある展開だったと自負していただけにこれは手厳しい」",
+              "translation": "\"*cackle*cackle*. My, my, a harsh critic as always. ......And I was so certain that even Lady Bernkastel, who has no love for boredom, would surely be satisfied by this compelling development... How remorseless.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [],
+            "UP": [
+              "umi2_20-L0005"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice says Bernkastel remains a harsh grader and calls her dismissive response severe.",
+      "alternative": "A remorseless critic can be one who judges harshly without softening the verdict, so the social effect is similar.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-1-120-002",
+      "kind": "additional",
+      "description": "UP uses the malformed progressive “It is pleasing me too” for Bernkastel’s simple statement that she too finds the prospect enjoyable.",
+      "categories": [
+        "linguistic.grammar",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              28,
+              30
+            ],
+            "MG": [
+              28,
+              30
+            ],
+            "UP": [
+              28,
+              30
+            ]
+          },
+          "japanese": "「……えぇ。\n私も愉快よ。\nそこまで自信満々のあなたがボロボロに負けるところが見たくて、遥々やって来たんだもの」",
+          "japanesePC": "",
+          "japanesePS3": "「……えぇ。\n私も愉快よ。\nそこまで自信満々のあなたがボロボロに負けるところが見たくて、遥々やって来たんだもの」",
+          "WH": "",
+          "MG": "\"...Yes.\nI'm also pleased.\nI came all this way because I really wanted to see you, brimming with confidence, fall apart and lose.\"",
+          "UP": "\"......Yes.\nIt is pleasing me too.\nAfter all, I came all this way just because I wanted to see you brimming with that confidence, only to fall apart and lose.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_20-L0028",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0028"
+            ],
+            "UP": [
+              "umi2_20-L0028"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……えぇ。私も愉快よ。そこまで自信満々のあなたがボロボロに負けるところが見たくて、遥々やって来たんだもの」",
+              "translation": "\"...Yes. I'm also pleased. I came all this way because I really wanted to see you, brimming with confidence, fall apart and lose.\" "
+            },
+            "UP": {
+              "japanese": "「……えぇ。私も愉快よ。そこまで自信満々のあなたがボロボロに負けるところが見たくて、遥々やって来たんだもの」",
+              "translation": "\"......Yes. It is pleasing me too. After all, I came all this way just because I wanted to see you brimming with that confidence, only to fall apart and lose.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0028"
+            ],
+            "UP": [
+              "umi2_20-L0028"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bernkastel says she too is pleased and came specifically to watch the confident Beatrice lose badly.",
+      "alternative": "The sentence is readily understood, and progressive please occasionally appears when emphasizing an ongoing experience.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-1-120-003",
+      "kind": "additional",
+      "description": "MG changes Beatrice’s invitation to enjoy the valuable relationship or connection created by this occasion into enjoying their “precious time together.”",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              64,
+              70
+            ],
+            "MG": [
+              64,
+              70
+            ],
+            "UP": [
+              64,
+              70
+            ]
+          },
+          "japanese": "「それが良かろう。\n元より、妾の辞書に手加減の文字はないのでな。\nくっくっくくくくくくくく！\nラムダデルタ卿、この度の貴重な縁を楽しもうではないか」\n「えぇ、こちらこそよろしくよベアトリーチェ卿！\nこいつには私もさんざん煮え湯を飲まされてるの。\n私たち二人で叩き潰して、二倍でお返ししなきゃ腹の虫が収まんないのよぅ！！」",
+          "japanesePC": "",
+          "japanesePS3": "「それが良かろう。\n元より、妾の辞書に手加減の文字はないのでな。\nくっくっくくくくくくくく！\nラムダデルタ卿、この度の貴重な縁を楽しもうではないか」\n「えぇ、こちらこそよろしくよベアトリーチェ卿！\nこいつには私もさんざん煮え湯を飲まされてるの。\n私たち二人で叩き潰して、二倍でお返ししなきゃ腹の虫が収まんないのよぅ！！」",
+          "WH": "",
+          "MG": "\"That would be well.\n\"Going easy\" has never been written in my dictionary.\n*cackle*cackle*cackle*cackle*cackle*!\nLady Lambdadelta, let us enjoy our precious time together.\"\n\"Yeah, I'll be counting on you, Lady Beatrice!\nI've been betrayed pretty bad by her too.\nUntil the two of us smash her up and pay her back double, I won't be able to rest!!\"",
+          "UP": "\"That would be suitable.\n\"Leniency\" has never featured in my dictionary.\n*cackle*cackle*cackle*cackle*cackle*!\nLady Lambdadelta, let us enjoy our valuable new relationship.\"\n\"Yes, I'll be counting on you, Lady Beatrice!\nThis girl really put me through the wringer.\nI'm not gonna be happy until the two of us have smushed her up and paid her back double!!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi2_20-L0064",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0064",
+              "umi2_20-L0068"
+            ],
+            "UP": [
+              "umi2_20-L0064",
+              "umi2_20-L0068"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「それが良かろう。元より、妾の辞書に手加減の文字はないのでな。くっくっくくくくくくくく！　ラムダデルタ卿、この度の貴重な縁を楽しもうではないか」",
+              "translation": "\"That would be well. \"Going easy\" has never been written in my dictionary. *cackle*cackle*cackle*cackle*cackle*! Lady Lambdadelta, let us enjoy our precious time together.\" "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0064"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "Beatrice welcomes Lambdadelta and proposes that they enjoy the valuable bond or encounter this occasion has created.",
+      "alternative": "The new relationship is expressed through time spent collaborating, and precious time together retains a warmly formal welcome.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-121-240-001",
+      "kind": "additional",
+      "description": "UP renders 見させてもらった as “I took a glimpse,” removing the permission or benefit expressed by being allowed to see part of Beatrice’s game.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              126,
+              128
+            ],
+            "MG": [
+              126,
+              128
+            ],
+            "UP": [
+              126,
+              128
+            ]
+          },
+          "japanese": "確かにあの子のゲームはあまりに卑劣。\nゲーム盤を少しだけ見させてもらったけど、あまりに卑劣かつ狡猾な仕掛けで、\nその舞台仕掛けの嫌らしさは多分、ラムダデルタのゲーム盤のそれを遥かに上回るわ。",
+          "japanesePC": "",
+          "japanesePS3": "確かにあの子のゲームはあまりに卑劣。\nゲーム盤を少しだけ見させてもらったけど、あまりに卑劣かつ狡猾な仕掛けで、\nその舞台仕掛けの嫌らしさは多分、ラムダデルタのゲーム盤のそれを遥かに上回るわ。",
+          "WH": "",
+          "MG": "Certainly, that child's game is quite unfair.\nI've only been allowed a glimpse of the game board,\nbut the unfair and clever devices set up on the stage are so disgusting...that I imagine they far surpass those on Lambdadelta's game board.",
+          "UP": "Certainly, that child's game is quite unfair.\nI took a glimpse of the game board, and the tricks are so mean and cunning,\nand the scenic tricks are filthy to a degree that probably far surpasses that of Lambdadelta's game board.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_20-L0126",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0126"
+            ],
+            "UP": [
+              "umi2_20-L0126"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "確かにあの子のゲームはあまりに卑劣。ゲーム盤を少しだけ見させてもらったけど、あまりに卑劣かつ狡猾な仕掛けで、その舞台仕掛けの嫌らしさは多分、ラムダデルタのゲーム盤のそれを遥かに上回るわ。",
+              "translation": "Certainly, that child's game is quite unfair. I've only been allowed a glimpse of the game board, but the unfair and clever devices set up on the stage are so disgusting...that I imagine they far surpass those on Lambdadelta's game board. "
+            },
+            "UP": {
+              "japanese": "確かにあの子のゲームはあまりに卑劣。ゲーム盤を少しだけ見させてもらったけど、あまりに卑劣かつ狡猾な仕掛けで、その舞台仕掛けの嫌らしさは多分、ラムダデルタのゲーム盤のそれを遥かに上回るわ。",
+              "translation": "Certainly, that child's game is quite unfair. I took a glimpse of the game board, and the tricks are so mean and cunning, and the scenic tricks are filthy to a degree that probably far surpasses that of Lambdadelta's game board."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0126"
+            ],
+            "UP": [
+              "umi2_20-L0126"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bernkastel says she was allowed a glimpse of Beatrice’s game and then offers advice from what she saw.",
+      "alternative": "“Took a glimpse” conveys limited observation, but assigns the viewing to Bernkastel alone rather than marking that access was afforded to her.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-121-240-002",
+      "kind": "additional",
+      "description": "MG adds the profanity “fucked up so bad” where Lambdadelta only says that seeing Bernkastel’s piece in such a sorry state feels wonderful.",
+      "categories": [
+        "linguistic.addition",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              178,
+              178
+            ],
+            "MG": [
+              178,
+              178
+            ],
+            "UP": [
+              178,
+              178
+            ]
+          },
+          "japanese": "そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！",
+          "japanesePC": "",
+          "japanesePS3": "そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！",
+          "WH": "",
+          "MG": "And since you, Bern's piece, fucked up so bad, I'm feeling just great!",
+          "UP": "So it's like, seeing you in this state as Bern's piece, that makes me feel just awesome!",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi2_20-L0177",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0177"
+            ],
+            "UP": [
+              "umi2_20-L0177"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そんなわけで、この私は、ベルンがぎゃふんとする顔を見ないと腹の虫が収まらないわけ。そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！しかもあの子はあれでいて本当に負けず嫌いだから、きっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！",
+              "translation": "Because of that, I won't be able to rest until I see Bern's speechless face. And since you, Bern's piece, fucked up so bad, I'm feeling just great! Plus, she may not look it, but that girl really hates to lose, so I'll bet she's off somewhere grinding her teeth and crying her eyes out right now. How totally lame, *giggle*, hoohohohohohohohoh! "
+            },
+            "UP": {
+              "japanese": "そんなわけで、この私は、ベルンがぎゃふんとする顔を見ないと腹の虫が収まらないわけ。そんなわけなんで、ベルンの駒のあんたがそんなザマなんで、私は最高にいい気分なわけ！しかもあの子はあれでいて本当に負けず嫌いだから、きっと今頃悔しくって歯軋りをして涙をぽろぽろ流してるわよ、本当にざまぁないわよ、くすくす、ほーっほっほっほっほっほ！",
+              "translation": "So, see, I'm gonna be ruffled until I see Bern's stupid speechless face. So it's like, seeing you in this state as Bern's piece, that makes me feel just awesome! Plus, believe it or not, that girl really hates to lose, so I bet she's definitely grinding her teeth in frustration right about now, crying like a baby, she's so lame, *giggle*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0177"
+            ],
+            "UP": [
+              "umi2_20-L0177"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta delights in the pathetic condition of Bernkastel’s piece.",
+      "alternative": "The profanity intensifies Lambdadelta’s gloating and fits her aggressive tone, but it is not present in the Japanese.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-121-240-003",
+      "kind": "additional",
+      "description": "MG translates 余裕ぶった as Beatrice acting “so tough,” changing a display of composure or ease into toughness.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              202,
+              206
+            ],
+            "MG": [
+              202,
+              206
+            ],
+            "UP": [
+              202,
+              206
+            ]
+          },
+          "japanese": "手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。\n私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。\n自ら勝率を下げてるなんてね。",
+          "japanesePC": "",
+          "japanesePS3": "手段と目的を時に履き違える。\nそして悪い遊びが過ぎる。\nその結果、自ら弱点を作り晒してさえいる。\n私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。\n自ら勝率を下げてるなんてね。",
+          "WH": "",
+          "MG": "She sometimes mistakes her means for her ends.\nAnd she has too much dark fun.\nSometimes, that even ends up creating and exposing her own weak points.\nFor a super-powerful witch like me, it's hard to understand why she's able to act so tough.\nWhy she lowers her own chances of winning.",
+          "UP": "She sometimes mistakes the means for the end.\nAnd she has too much bad fun.\nAs a result, she makes and even exposes her own weak points.\nIt's impossible for a strongest‐ever witch like me to understand why she acts so relaxed.\nLowering her own chances of winning.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi2_20-L0202",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0202"
+            ],
+            "UP": [
+              "umi2_20-L0202"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "手段と目的を時に履き違える。そして悪い遊びが過ぎる。その結果、自ら弱点を作り晒してさえいる。私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。自ら勝率を下げてるなんてね。",
+              "translation": "She sometimes mistakes her means for her ends. And she has too much dark fun. Sometimes, that even ends up creating and exposing her own weak points. For a super-powerful witch like me, it's hard to understand why she's able to act so tough. Why she lowers her own chances of winning. "
+            },
+            "UP": {
+              "japanese": "手段と目的を時に履き違える。そして悪い遊びが過ぎる。その結果、自ら弱点を作り晒してさえいる。私のような最強の魔女から見れば、何でこんな余裕ぶったことをするのか理解できない。自ら勝率を下げてるなんてね。",
+              "translation": "She sometimes mistakes the means for the end. And she has too much bad fun. As a result, she makes and even exposes her own weak points. It's impossible for a strongest‐ever witch like me to understand why she acts so relaxed. Lowering her own chances of winning."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0202"
+            ],
+            "UP": [
+              "umi2_20-L0202"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta cannot understand why Beatrice puts on such an air of composure while lowering her own chances of victory.",
+      "alternative": "Acting tough can imply confident posturing, but toughness does not express the source’s conspicuous ease or composure.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-121-240-004",
+      "kind": "additional",
+      "description": "UP renders 素直で正直 as “obedient and honest,” replacing straightforward or direct predictability with submissiveness.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              210,
+              210
+            ],
+            "MG": [
+              210,
+              210
+            ],
+            "UP": [
+              210,
+              210
+            ]
+          },
+          "japanese": "…ベルンにとっては、私みたいな素直で正直なタイプは、読みやすくてやりやすいんでしょうね。",
+          "japanesePC": "",
+          "japanesePS3": "…ベルンにとっては、私みたいな素直で正直なタイプは、読みやすくてやりやすいんでしょうね。",
+          "WH": "",
+          "MG": "...Maybe it's really easy for Bern to read and handle a straightforward and honest type like me.",
+          "UP": "...It's probably really easy for Bern to read and handle an obedient and honest type like me.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_20-L0207",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0207"
+            ],
+            "UP": [
+              "umi2_20-L0207"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "………でも、ま。そのせいで、ベルンみたいな、相手を読んでかわすタイプの魔女には非常に相性が悪いってわけよ。読みが効かないから。…ベルンにとっては、私みたいな素直で正直なタイプは、読みやすくてやりやすいんでしょうね。ムカつくことに！",
+              "translation": "......But, well. Because of that, a witch like Bern, who likes to thoroughly read her opponent, has a really bad affinity with her. Because reading her doesn't work. ...Maybe it's really easy for Bern to read and handle a straightforward and honest type like me. Annoyingly enough! "
+            },
+            "UP": {
+              "japanese": "………でも、ま。そのせいで、ベルンみたいな、相手を読んでかわすタイプの魔女には非常に相性が悪いってわけよ。読みが効かないから。…ベルンにとっては、私みたいな素直で正直なタイプは、読みやすくてやりやすいんでしょうね。ムカつくことに！",
+              "translation": ".........But, well. That's why the type of witch like Bern who reads her opponent and dodges their moves has a really bad matchup with her. 'Cause reading her doesn't work. ...It's probably really easy for Bern to read and handle an obedient and honest type like me. That makes me so mad!"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0207"
+            ],
+            "UP": [
+              "umi2_20-L0207"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta characterizes herself as straightforward and honest in contrast with Beatrice’s indirect play.",
+      "alternative": "素直 can mean obedient in hierarchical contexts, but here it describes her own direct strategic temperament, not compliance with another person.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-121-240-005",
+      "kind": "additional",
+      "description": "MG contains the typographical error “Bascially” for “Basically.”",
+      "categories": [
+        "linguistic.typography"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              219,
+              219
+            ],
+            "MG": [
+              219,
+              219
+            ],
+            "UP": [
+              219,
+              219
+            ]
+          },
+          "japanese": "つまりこのラムダデルタ卿は、",
+          "japanesePC": "",
+          "japanesePS3": "つまりこのラムダデルタ卿は、",
+          "WH": "",
+          "MG": "Bascially, I, Lady Lambdadelta,",
+          "UP": "In other words, I, Lady Lambdadelta,",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi2_20-L0216",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0216"
+            ],
+            "UP": [
+              "umi2_20-L0216"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "まー、どうでもいいことかしら。確かに私のパーはベルンのチョキに負けるけど、パーよりはるかに凄い超パーだったら、チョキにだって勝てるでしょ？！つまりこのラムダデルタ卿は、超パーってわけ！ほっほっほっほ！",
+              "translation": "Well, maybe that doesn't matter. Even though my paper loses to Bern's scissors, if I was a sheet of super-paper, which is way more awesome than normal paper, I could beat even scissors, right?! Bascially, I, Lady Lambdadelta, am {ruby:a moron:super-paper! Hohohohoh! "
+            },
+            "UP": {
+              "japanese": "まー、どうでもいいことかしら。確かに私のパーはベルンのチョキに負けるけど、パーよりはるかに凄い超パーだったら、チョキにだって勝てるでしょ？！つまりこのラムダデルタ卿は、超パーってわけ！ほっほっほっほ！",
+              "translation": "Weeelll, maybe none of that matters anyway. Sure, my paper loses to Bern's scissors, but if it was the way more awesome super‐paper, which is as thick as wood, it could even beat scissors, right?! In other words, I, Lady Lambdadelta, am super‐paper, and super‐thick! Hoh‐hoh‐hoh‐ho!"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0216"
+            ],
+            "UP": [
+              "umi2_20-L0216"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The sentence opens with a normal summarizing transition.",
+      "alternative": "The intended word is unmistakable.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP02-CH20-121-240-006",
+      "kind": "additional",
+      "description": "UP renders 趣味の悪い as “nasty hobbies,” literalizing 趣味 and changing Beatrice’s bad taste into a claim about her activities.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi2_20",
+          "episode": 2,
+          "rows": {
+            "JP": [
+              224,
+              224
+            ],
+            "MG": [
+              224,
+              224
+            ],
+            "UP": [
+              224,
+              224
+            ]
+          },
+          "japanese": "一見すると本当に趣味の悪いヤツだと思うでしょ？",
+          "japanesePC": "",
+          "japanesePS3": "一見すると本当に趣味の悪いヤツだと思うでしょ？",
+          "WH": "",
+          "MG": "At a glance, you'd think she has really nasty tastes, right?",
+          "UP": "At a glance, you'd think she has really nasty hobbies, right?",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi2_20-L0222",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0222"
+            ],
+            "UP": [
+              "umi2_20-L0222"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "少しは血色が戻ってきたみたいね。ベアトのヤツ、楼座とかいう駒を虐めて遊んでるわ。一見すると本当に趣味の悪いヤツだと思うでしょ？",
+              "translation": "It looks like you've regained a bit of your color. That Beato, she's having fun torturing some piece called Rosa. At a glance, you'd think she has really nasty tastes, right? "
+            },
+            "UP": {
+              "japanese": "少しは血色が戻ってきたみたいね。ベアトのヤツ、楼座とかいう駒を虐めて遊んでるわ。一見すると本当に趣味の悪いヤツだと思うでしょ？",
+              "translation": "It looks like the color's come back to your face a little. That Beato, she's having fun torturing some piece called Rosa. At a glance, you'd think she has really nasty hobbies, right?"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi2_20-L0222"
+            ],
+            "UP": [
+              "umi2_20-L0222"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambdadelta calls Beatrice’s taste bad while speculating about why she prolongs the game.",
+      "alternative": "The surrounding discussion concerns Beatrice’s habitual way of playing, so “hobbies” remains understandable as a loose insult.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP02-HIDDEN-001": {
+      "umi2_20-L0053": {
+        "WH": [
+          "After informing me"
+        ],
+        "MG": [
+          "After informing me"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-002": {
+      "umi2_20-L0071": {
+        "WH": [
+          "No matter what issue we fight over"
+        ],
+        "MG": [
+          "No matter what we fight over"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-003": {
+      "umi2_20-L0074": {
+        "WH": [
+          "who wins and who loses will be important"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-004": {
+      "umi2_20-L0133": {
+        "WH": [
+          "Since when we are in trouble"
+        ],
+        "MG": [
+          "Since, when we're in trouble"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-005": {
+      "umi2_20-L0139": {
+        "WH": [
+          "One that makes me want to take advantage of it"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-006": {
+      "umi2_20-L0148": {
+        "WH": [
+          "What's the most important element in defense during a witch's battle?"
+        ],
+        "MG": [
+          "What's the most important element in defense during a witch's battle?"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-007": {
+      "umi2_20-L0177": {
+        "WH": [
+          "I'd really hate that girl even if I didn't lose",
+          "I'll definitely make her grind her teeth"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-008": {
+      "umi2_20-L0187": {
+        "WH": [
+          "will associate myself just a tiny bit with you and your hopeless chances at winning"
+        ],
+        "MG": [
+          "will associate myself just a tiny bit with you and your hopeless chances at winning"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-009": {
+      "umi2_20-L0194": {
+        "WH": [
+          "playing around by making it look like she's won"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-010": {
+      "umi2_20-L0019": {
+        "WH": [
+          "push strongly for my defeat"
+        ],
+        "MG": [
+          "push strongly for my defeat"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-011": {
+      "umi2_20-L0087": {
+        "WH": [
+          "you were defeated by her"
+        ],
+        "MG": [
+          "you were defeated by her"
+        ],
+        "UP": [
+          "you were defeated by her, I note"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-012": {
+      "umi2_20-L0114": {
+        "WH": [
+          "in a manner of speaking"
+        ],
+        "MG": [
+          "in a manner of speaking"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-014": {
+      "umi2_20-L0165": {
+        "WH": [
+          "shrank off"
+        ],
+        "MG": [
+          "shrank off"
+        ],
+        "UP": [
+          "shrink off"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-015": {
+      "umi2_20-L0165": {
+        "WH": [
+          "could she be any more lame"
+        ],
+        "MG": [
+          "Could she be any more lame"
+        ],
+        "UP": [
+          "could she be any more lame"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-016": {
+      "umi2_20-L0173": {
+        "WH": [
+          "makes me queasy"
+        ],
+        "MG": [
+          "makes me queasy"
+        ],
+        "UP": [
+          "makes me queasy"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-017": {
+      "umi2_20-L0202": {
+        "WH": [
+          "too much bad fun"
+        ],
+        "MG": [
+          "too much dark fun"
+        ],
+        "UP": [
+          "too much bad fun"
+        ]
+      }
+    },
+    "WH-EP02-HIDDEN-013": {
+      "umi2_20-L0148": {
+        "WH": [
+          "Making you accept witches"
+        ],
+        "MG": [
+          "Making you accept witches"
+        ],
+        "UP": [
+          "Making you accept witches"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-1-120-001": {
+      "umi2_20-L0005": {
+        "UP": [
+          "How remorseless"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-1-120-002": {
+      "umi2_20-L0028": {
+        "UP": [
+          "It is pleasing me too"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-1-120-003": {
+      "umi2_20-L0064": {
+        "MG": [
+          "our precious time together"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-121-240-001": {
+      "umi2_20-L0126": {
+        "UP": [
+          "I took a glimpse"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-121-240-002": {
+      "umi2_20-L0177": {
+        "MG": [
+          "fucked up so bad"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-121-240-003": {
+      "umi2_20-L0202": {
+        "MG": [
+          "act so tough"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-121-240-004": {
+      "umi2_20-L0207": {
+        "UP": [
+          "obedient and honest"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-121-240-005": {
+      "umi2_20-L0216": {
+        "MG": [
+          "Bascially"
+        ]
+      }
+    },
+    "PAIR-EP02-CH20-121-240-006": {
+      "umi2_20-L0222": {
+        "UP": [
+          "she has really nasty hobbies"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

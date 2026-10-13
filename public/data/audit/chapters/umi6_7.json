@@ -1,1 +1,1796 @@
-{"findings":[{"id":"WH-EP06-CH07-001","kind":"WH","description":"Successful unlocking dispels a fear becomes temporarily pushing thoughts aside.","categories":["linguistic.wrong_subject","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[77,79],"MG":[77,79],"UP":[77,79]},"japanese":"この部屋に俺を閉じ込めた悪魔が、\nもうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、\n……今、払われた。","japanesePC":"この部屋に俺を閉じ込めた悪魔が、もうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、\n......今、払われた。","japanesePS3":"この部屋に俺を閉じ込めた悪魔が、\nもうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、\n……今、払われた。","WH":"I had a vision of the demon who had locked me in this room using this as a trap to give me hope and then make me despair even more,\n......but I pushed those thoughts aside for the time being.","MG":"I imagined the demon who'd locked me in this room\nusing this as a trap to give me hope, just to make me despair even more,\n...but I pushed those thoughts aside for the time being.","UP":"At that moment, that terrible thought,\nthat the demon who had locked me in this room might have been using this as a trap to give me hope and then make me despair even more,\n......finally stopped haunting me.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_7-L0076","readerRefs":{"WH":["umi6_7-L0076"],"MG":["umi6_7-L0076"],"UP":["umi6_7-L0076"]}}],"sourceReading":"The delusion that unlocking might be a trap is now dispelled, immediately after the successful clank and before the visibly dangling unlocked chain.","alternative":"Pushed those thoughts aside for the time being describes deliberate provisional dismissal, whereas the passive 払われた reports the fear being dispelled at this moment. Later renewed torment does not make this earlier reaction provisional in the source.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-002","kind":"WH","description":"Red-paint-like letters become letters drawn with red paint.","categories":["linguistic.overinterpretation","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[150,150],"MG":[150,150],"UP":[150,150]},"japanese":"……それは、赤い塗料を塗った指でなぞったような、……文字だった。","japanesePC":"汚れじゃない。......それは、赤い塗料を塗った指でなぞったような、......文字だった。","japanesePS3":"……それは、赤い塗料を塗った指でなぞったような、……文字だった。","WH":"It wasn't a stain.  ......They were letters, traced out by a finger that had been covered in red paint.","MG":"...They were letters, traced out by a finger that had been covered in red paint.","UP":"......They were letters, traced out by a finger that had been covered in red paint.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_7-L0146","readerRefs":{"WH":["umi6_7-L0146"],"MG":["umi6_7-L0146"],"UP":["umi6_7-L0146"]}}],"sourceReading":"赤い塗料を塗った指でなぞったような describes writing as though traced with a red-painted finger; the subsequent line likewise says it looks written in blood.","alternative":"The next blood-like description remains tentative, but traced out by a finger that had been covered in red paint states the medium and process as facts rather than appearance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-003","kind":"WH","description":"Weight leaning against the door becomes someone drawing closer.","categories":["linguistic.word_choice","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[215,216],"MG":[215,216],"UP":[215,216]},"japanese":"まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、\n……そんな感じがした。","japanesePC":"まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、......そんな感じがした。","japanesePS3":"まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、\n……そんな感じがした。","WH":"It felt as though someone inside the room had pressed their forehead against the door...and was drawing closer.","MG":"It felt as though someone inside the room had pressed their forehead against the door...\nand was drawing closer.","UP":"It felt as though someone inside the room had leaned against the door...\n...with their forehead.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_7-L0214","readerRefs":{"WH":["umi6_7-L0214"],"MG":["umi6_7-L0214"],"UP":["umi6_7-L0214"]}}],"sourceReading":"寄り掛かって来ている describes someone inside leaning against the door with their forehead pressed to it, explaining the newly felt weight.","alternative":"The forehead contact and inside location survive, but drawing closer describes approach instead of leaning pressure.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-004","kind":"WH","description":"A key releasing his restraint acquires a guard-down theft condition.","categories":["linguistic.mistranslation","linguistic.addition","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[223,223],"MG":[223,223],"UP":[223,223]},"japanese":"俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！","japanesePC":"俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！","japanesePS3":"俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！","WH":"Like hell I'll let my one key out of here get stolen while my guard's down!!","MG":"Like hell I'll let my one key out of here get stolen while my guard's down!!","UP":"Like hell I'll let my one key out of here get stolen while my guard's down!!","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_7-L0222","readerRefs":{"WH":["umi6_7-L0222"],"MG":["umi6_7-L0222"],"UP":["umi6_7-L0222"]}}],"sourceReading":"俺の戒めを解く唯一の鍵 means the only key that releases his bonds or restraint; he vows never to let it go.","alternative":"One key out of here preserves the escape-tool role, but while my guard's down adds an absent condition, apparently substituting vigilance for the physical restraint sense of 戒め.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-005","kind":"WH","description":"The blocking tactic in sevens disappears.","categories":["linguistic.omission","world.world_fact"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[299,300],"MG":[299,300],"UP":[299,300]},"japanese":"負けず嫌いの嘉音が大真面目に勝負を挑んできたため、\n譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。","japanesePC":"負けず嫌いの嘉音が大真面目に勝負を挑んできたため、譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。","japanesePS3":"負けず嫌いの嘉音が大真面目に勝負を挑んできたため、\n譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。","WH":"Kanon had started taking the game seriously, unwilling to lose, so George and Battler had responded and the battle had grown fierce.","MG":"Kanon had started taking the game seriously, unwilling to lose,\nso George and Battler had responded and the battle had grown fierce.","UP":"Kanon had started taking the game seriously, unwilling to lose,\nso George and Battler had responded and the battle had grown fierce.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_7-L0297","readerRefs":{"WH":["umi6_7-L0297"],"MG":["umi6_7-L0297"],"UP":["umi6_7-L0297"]}}],"sourceReading":"徹底的に堰き止めあう identifies the fierce game as mutual blocking or holding back cards to obstruct play.","alternative":"The specific six of spades and eight of diamonds remarks survive and readers who know sevens can infer blocking. The narration nevertheless drops the explicit tactic.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-006","kind":"WH","description":"Joining merely out of social obligation becomes passing time.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[328,328],"MG":[328,328],"UP":[328,328]},"japanese":"これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。","japanesePC":"これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。","japanesePS3":"これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。","WH":"The old Kanon would only have seen this card game as a way to pass the time.","MG":"The old Kanon would only have seen this card game as a way to pass the time.","UP":"The old Kanon would only have seen this card game as a way to pass the time.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_7-L0328","readerRefs":{"WH":["umi6_7-L0328"],"MG":["umi6_7-L0328"],"UP":["umi6_7-L0328"]}}],"sourceReading":"ただの付き合い means participating merely to accommodate or keep company with others, contrasted with learning something from the experience.","alternative":"Passing time also suggests lack of personal investment, but assigns idle entertainment rather than participation for others' sake.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-007","kind":"WH","description":"Independent hand movements become simultaneous hand movements.","categories":["linguistic.mistranslation","world.world_fact"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[360,360],"MG":[360,360],"UP":[360,360]},"japanese":"私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ…！","japanesePC":"「そうさ。だからこそ人は、上達を実感して面白くなるんじゃねぇかよ。私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ...！　でも少しずつコツがわかってくるとさ、だんだん当たり前になってきて...！」","japanesePS3":"私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ…！","WH":"\"Yep.  Isn't that why people love it when they feel themselves improving?  Even I sucked at making my left and right hands move at the same time when I first started...!  But I slowly got the knack of it, and it started to feel more and more natural...!\"","MG":"Even I sucked at making my left and right hands move at the same time when I first started...!","UP":"Even I sucked at making my left and right hands move at the same time when I first started...!","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_7-L0358","readerRefs":{"WH":["umi6_7-L0358"],"MG":["umi6_7-L0358"],"UP":["umi6_7-L0358"]}}],"sourceReading":"右手と左手が別々に動く concerns making the hands do different things independently, the guitar-learning difficulty Jessica describes.","alternative":"Both hands must operate at the same time in guitar playing, but simultaneous action alone does not express the distinct tasks and independence specified by 別々.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-008","kind":"WH","description":"Refreshing acceptance of an earnest loss becomes indifference to losing.","categories":["linguistic.undertranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[313,313],"MG":[313,313],"UP":[313,313]},"japanese":"本気で戦った結果の負けなら清々しいもんだぜ。","japanesePC":"「とんでもない。本気で戦った結果の負けなら清々しいもんだぜ。","japanesePS3":"本気で戦った結果の負けなら清々しいもんだぜ。","WH":"\"Are you kidding me?  If you really gave it your all, who cares if you lose?","MG":"If you really gave it your all, there's no reason to get all depressed when you lose.","UP":"If you really give it your all, you can feel good about yourself even if you lose.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"partially_corrected","UP":"corrected"},"readerRef":"umi6_7-L0312","readerRefs":{"WH":["umi6_7-L0312"],"MG":["umi6_7-L0312"],"UP":["umi6_7-L0312"]}},{"chapter":"umi6_7","episode":6,"rows":{"JP":[368,368],"MG":[368,368],"UP":[368,368]},"japanese":"……でも、本気でやっての失敗だったら、それは清々しいものに違いないと。","japanesePC":"「とんでもない。本気で戦った結果の負けなら清々しいもんだぜ。","japanesePS3":"……でも、本気でやっての失敗だったら、それは清々しいものに違いないと。","WH":"\"Are you kidding me?  If you really gave it your all, who cares if you lose?","MG":"...But if I've given it my all, even messing up is no big deal.","UP":"......But if I've given it my all, I can take failure in my stride.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_7-L0366","readerRefs":{"WH":["umi6_7-L0312"],"MG":["umi6_7-L0366"],"UP":["umi6_7-L0366"]}}],"sourceReading":"清々しい describes the refreshing, clear feeling after losing despite genuinely trying; Kanon later repeats this as his new understanding of failure.","alternative":"Who cares if you lose and no big deal preserve acceptance rather than despair, but replace the positive emotional payoff with the result simply not mattering.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-009","kind":"WH","description":"Jessica's confidence in her current feelings becomes an exclusively filled heart.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[403,403],"MG":[403,403],"UP":[403,403]},"japanese":"でも、……今この瞬間の、自分の気持ちだけは、胸を張れる。","japanesePC":"でも、......今この瞬間の、自分の気持ちだけは、胸を張れる。","japanesePS3":"でも、……今この瞬間の、自分の気持ちだけは、胸を張れる。","WH":"However, ......at this moment, her heart was filled with nothing besides her own feelings.","MG":"However, ...she could still be proud of the feelings she felt at this very instant.","UP":"However, ......if nothing else, she knew what she felt at this moment.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_7-L0401","readerRefs":{"WH":["umi6_7-L0401"],"MG":["umi6_7-L0401"],"UP":["umi6_7-L0401"]}}],"sourceReading":"今この瞬間の自分の気持ちだけは胸を張れる means she can be proud or confident of her present feelings, whatever their vague origin.","alternative":"Her own feelings are central in both versions, but her heart was filled with nothing besides her own feelings substitutes exclusivity of contents for confidence in sincerity.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-010","kind":"WH","description":"George treating opposition as a test becomes a suggestion by the observer.","categories":["linguistic.wrong_subject","character.viewpoint_attribution"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[485,485],"MG":[485,485],"UP":[485,485]},"japanese":"……むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ」","japanesePC":"「そういうこと。伴侶を生涯、守りきると誓った譲治お兄ちゃんにとって、両親の反対や勘当さえ、恐れるものではない。......むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ。","japanesePS3":"……むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ」","WH":"\"Exactly.  Now that George onii-chan has sworn to protect his lover for the rest of their lives, he has no need to fear opposition and disinheritance from his parents.  ......On the contrary, you might even consider that a perfect test for his love for her.","MG":"...On the contrary, you might even consider that a perfect test of his love for her.","UP":"......On the contrary, he even considers them to be the perfect tests to demonstrate his love for her.\"","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_7-L0483","readerRefs":{"WH":["umi6_7-L0483"],"MG":["umi6_7-L0483"],"UP":["umi6_7-L0483"]}}],"sourceReading":"彼女への愛を示す ... 試練だとさえ思っている attributes to George the belief that opposition and disinheritance are suitable trials for demonstrating his love.","alternative":"You might even consider that a perfect test conveys the same possible interpretation, but transfers it from George's mindset to an unspecified observer.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-011","kind":"WH","description":"Tentative reading of one miracle becomes definite portrayal.","categories":["linguistic.overinterpretation","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[537,537],"MG":[537,537],"UP":[537,537]},"japanese":"しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。","japanesePC":"しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。","japanesePS3":"しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。","WH":"And on top of that, the single brooch was portrayed as bestowing only a single miracle.","MG":"And on top of that, the single brooch was portrayed as bestowing only a single miracle.","UP":"And on top of that, the single brooch is portrayed as bestowing only a single miracle.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_7-L0537","readerRefs":{"WH":["umi6_7-L0537"],"MG":["umi6_7-L0537"],"UP":["umi6_7-L0537"]}}],"sourceReading":"どうやら ... かのような描写が見て取れる cautiously identifies a portrayal that seems as though one brooch grants only one miracle.","alternative":"Was portrayed keeps this on the level of textual description rather than a red fact, and the next hesitation inference is tentative. Still the English removes the explicit seeming/as-if qualification on the single-miracle premise.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-012","kind":"WH","description":"The brooch permitting forbidden love becomes giving desired love.","categories":["linguistic.undertranslation","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[544,544],"MG":[544,544],"UP":[544,544]},"japanese":"……頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。","japanesePC":"「そして。......頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。一体、何だって言うの？」","japanesePS3":"……頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。","WH":"\"And also, ......there's this golden butterfly brooch that's supposed to give the lamenting furniture the love they so strongly desire.  Just what on Earth is that?\"","MG":"...though the furniture laments with such certainty that they're unable to love, this golden butterfly brooch is supposed to give them permission to do it.","UP":"......there's that golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_7-L0543","readerRefs":{"WH":["umi6_7-L0543"],"MG":["umi6_7-L0543"],"UP":["umi6_7-L0543"]}},{"chapter":"umi6_7","episode":6,"rows":{"JP":[648,649],"MG":[648,649],"UP":[648,649]},"japanese":"“頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチとは一体何か？”\nという問いに、答えられない」","japanesePC":"「そして。......頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。一体、何だって言うの？」","japanesePS3":"“頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチとは一体何か？”\nという問いに、答えられない」","WH":"\"And also, ......there's this golden butterfly brooch that's supposed to give the lamenting furniture the love they so strongly desire.  Just what on Earth is that?\"","MG":"It doesn't answer the question: 'What was this golden butterfly brooch,\nwhich allowed the furniture, who strongly believed that they could not love, to finally find love?'\"","UP":"\"What is the golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of?\"\nIt's not enough for an answer.\"","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_7-L0647","readerRefs":{"WH":["umi6_7-L0543"],"MG":["umi6_7-L0647"],"UP":["umi6_7-L0647"]}}],"sourceReading":"Furniture stubbornly lamented that they could not love; the brooch can permit it. This repeats the immediately preceding question why love is not allowed without magic.","alternative":"Give ... the love they so strongly desire retains magical facilitation, but replaces the claimed impossibility and permission with wanting love and receiving it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-013","kind":"WH","description":"A little more than reassurance is excluded from prayer's power.","categories":["linguistic.omission","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[684,684],"MG":[684,684],"UP":[684,684]},"japanese":"願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。","japanesePC":"願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。","japanesePS3":"願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。","WH":"Praying like this contains no power except as a calming influence.","MG":"By itself, praying does little more than give one peace of mind.","UP":"Praying like this contains no power except as a calming influence.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi6_7-L0682","readerRefs":{"WH":["umi6_7-L0682"],"MG":["umi6_7-L0682"],"UP":["umi6_7-L0682"]}}],"sourceReading":"気休めか、せいぜいそれ以上程度 permits reassurance or, at most, something a little beyond it.","alternative":"The argument minimizes ordinary charms in both languages, but no power except as a calming influence removes the explicit allowance of limited additional effect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-014","kind":"WH","description":"The furniture's tragic fate becomes an insurmountable fate.","categories":["linguistic.overinterpretation","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[687,688],"MG":[687,688],"UP":[687,688]},"japanese":"しかし、………家具たちが自称する悲壮な運命は、\nその程度のことで変わる程度のものなのだろうか……？","japanesePC":"しかし、.........家具たちが自称する悲壮な運命は、その程度のことで変わる程度のものなのだろうか......？","japanesePS3":"しかし、………家具たちが自称する悲壮な運命は、\nその程度のことで変わる程度のものなのだろうか……？","WH":"However, .........would this insurmountable fate that the furniture claim to be in the middle of...really change because of something like that......?","MG":"However, ......would something like that really be enough...\nto change the insurmountable fate of furniture...?","UP":"However, .........would the insurmountable fate that those pieces of furniture claim to be in the middle of...\nreally change because of something like that......?","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_7-L0685","readerRefs":{"WH":["umi6_7-L0685"],"MG":["umi6_7-L0685"],"UP":["umi6_7-L0685"]}}],"sourceReading":"悲壮な運命 characterizes their claimed fate as tragic or poignantly desperate. The question asks whether that fate can change with an ordinary charm.","alternative":"The furniture describe an obstacle requiring magic and Ange doubts a small charm suffices. Insurmountable nevertheless adds an impossibility characterization not present in 悲壮.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-015","kind":"WH","description":"Jessica trying to understand becomes having partly understood.","categories":["linguistic.tense_aspect","character.knowledge_boundary"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[722,722],"MG":[722,722],"UP":[722,722]},"japanese":"朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。","japanesePC":"朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。","japanesePS3":"朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。","WH":"Jessica sort of grasped the gist of what Kanon was trying to say.","MG":"Jessica tried to make sense of Kanon's words.","UP":"Jessica tried her hardest to grasp what Kanon was trying to say.","note":"Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_7-L0722","readerRefs":{"WH":["umi6_7-L0722"],"MG":["umi6_7-L0722"],"UP":["umi6_7-L0722"]}}],"sourceReading":"何とか ... 意味を汲み取ろうとする reports trying somehow to grasp his meaning; the next sentence says she cannot understand it.","alternative":"Sort of grasped may describe only incomplete comprehension, and the next sentence retains failure. It still asserts an achieved partial understanding where the source reports an attempt.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH07-016","kind":"WH","description":"WH omits of in one the joys of being read aloud to.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[671,671],"MG":[671,671],"UP":[671,671]},"japanese":"……それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。","japanesePC":"「もう少し寝かせたい。......それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。","japanesePS3":"……それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。","WH":"\"I'd like to keep that to myself for just a while longer.  ......And of course, watching you form doubts and let your mind race is one the joys of being read aloud to.","MG":"...And of course, watching you form doubts and let your mind race is one the joys of being read aloud to.","UP":"......And of course, watching you form doubts and let your mind race is one of the joys of being read aloud to.","note":"Original PC and coherent paired context verified under ep06-ch07-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_7-L0670","readerRefs":{"WH":["umi6_7-L0670"],"MG":["umi6_7-L0670"],"UP":["umi6_7-L0670"]}}],"sourceReading":"The partitive construction requires one of the joys.","alternative":"Meaning remains clear; the missing preposition is a minor grammar error.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH07-361-480-001","kind":"additional","description":"MG changes Kanon’s responding to affection into merely receiving it.","categories":["linguistic.word_choice","character.agency_responsibility"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[393,394],"MG":[393,394],"UP":[393,394]},"japanese":"なのに、一方的に好意を受け、……自分に出来ることが、それに応えるだけだなんて、\n……悲しくて、……そして自分が悔しかった。","japanesePC":"","japanesePS3":"なのに、一方的に好意を受け、……自分に出来ることが、それに応えるだけだなんて、\n……悲しくて、……そして自分が悔しかった。","WH":"","MG":"The fact that he was accepting her affection one-sidedly, unable to do anything but simply receive it,\n...made him sad...and frustrated at himself.","UP":"It made him sad and frustrated that he had always been the one‐sided recipient of her affection...\n...and could do nothing but respond to it.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_7-L0391","readerRefs":{"WH":[],"MG":["umi6_7-L0391"],"UP":["umi6_7-L0391"]}}],"sourceReading":"JP distinguishes receiving affection from being able only to respond. OriginalPC75957/75958 and UP retain respond; MG repeats receive and eliminates his responsive action.","alternative":"Receive can loosely suggest passive reaction, but the source expressly contrasts receipt with response.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH07-601-720-001","kind":"additional","description":"UP states Shannon’s rejection of magic without the source’s inferential qualification.","categories":["mystery.epistemic_status"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi6_7","episode":6,"rows":{"JP":[662,662],"MG":[662,662],"UP":[662,662]},"japanese":"彼女はその時点で、一度は魔法の奇跡と決別したはず。","japanesePC":"","japanesePS3":"彼女はその時点で、一度は魔法の奇跡と決別したはず。","WH":"","MG":"At that point, she supposedly rejected the miracle of magic for a time.","UP":"She put the miracle of magic behind her at that point.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi6_7-L0660","readerRefs":{"WH":[],"MG":["umi6_7-L0660"],"UP":["umi6_7-L0660"]}}],"sourceReading":"JP 決別したはず gives Ange’s inference. OriginalPC76821/76823 and MG retain supposedly; UP states She put the miracle of magic behind her as an unqualified event.","alternative":"The prior account strongly supports the inference, but it does not remove the explicitly inferential wording.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-CH07-001",
+      "kind": "WH",
+      "description": "Successful unlocking dispels a fear becomes temporarily pushing thoughts aside.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              77,
+              79
+            ],
+            "MG": [
+              77,
+              79
+            ],
+            "UP": [
+              77,
+              79
+            ]
+          },
+          "japanese": "この部屋に俺を閉じ込めた悪魔が、\nもうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、\n……今、払われた。",
+          "japanesePC": "この部屋に俺を閉じ込めた悪魔が、もうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、\n......今、払われた。",
+          "japanesePS3": "この部屋に俺を閉じ込めた悪魔が、\nもうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、\n……今、払われた。",
+          "WH": "I had a vision of the demon who had locked me in this room using this as a trap to give me hope and then make me despair even more,\n......but I pushed those thoughts aside for the time being.",
+          "MG": "I imagined the demon who'd locked me in this room\nusing this as a trap to give me hope, just to make me despair even more,\n...but I pushed those thoughts aside for the time being.",
+          "UP": "At that moment, that terrible thought,\nthat the demon who had locked me in this room might have been using this as a trap to give me hope and then make me despair even more,\n......finally stopped haunting me.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0076",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0076"
+            ],
+            "MG": [
+              "umi6_7-L0076"
+            ],
+            "UP": [
+              "umi6_7-L0076"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "カチャリ……。この部屋に俺を閉じ込めた悪魔が、もうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、……今、払われた。",
+              "translation": "*clank*... I imagined the demon who'd locked me in this room using this as a trap to give me hope, just to make me despair even more, ...but I pushed those thoughts aside for the time being. "
+            },
+            "UP": {
+              "japanese": "カチャリ……。この部屋に俺を閉じ込めた悪魔が、もうすぐ出られると思わせて絶望させようと企む罠かもしれないという妄想は、……今、払われた。",
+              "translation": "Clink...... At that moment, that terrible thought, that the demon who had locked me in this room might have been using this as a trap to give me hope and then make me despair even more, ......finally stopped haunting me."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0076"
+            ],
+            "MG": [
+              "umi6_7-L0076"
+            ],
+            "UP": [
+              "umi6_7-L0076"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The delusion that unlocking might be a trap is now dispelled, immediately after the successful clank and before the visibly dangling unlocked chain.",
+      "alternative": "Pushed those thoughts aside for the time being describes deliberate provisional dismissal, whereas the passive 払われた reports the fear being dispelled at this moment. Later renewed torment does not make this earlier reaction provisional in the source.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-002",
+      "kind": "WH",
+      "description": "Red-paint-like letters become letters drawn with red paint.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              150,
+              150
+            ],
+            "MG": [
+              150,
+              150
+            ],
+            "UP": [
+              150,
+              150
+            ]
+          },
+          "japanese": "……それは、赤い塗料を塗った指でなぞったような、……文字だった。",
+          "japanesePC": "汚れじゃない。......それは、赤い塗料を塗った指でなぞったような、......文字だった。",
+          "japanesePS3": "……それは、赤い塗料を塗った指でなぞったような、……文字だった。",
+          "WH": "It wasn't a stain.  ......They were letters, traced out by a finger that had been covered in red paint.",
+          "MG": "...They were letters, traced out by a finger that had been covered in red paint.",
+          "UP": "......They were letters, traced out by a finger that had been covered in red paint.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0146",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0146"
+            ],
+            "MG": [
+              "umi6_7-L0146"
+            ],
+            "UP": [
+              "umi6_7-L0146"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その時、………廊下の壁に、……違和感のある汚れを見つけた。汚れじゃない。……それは、赤い塗料を塗った指でなぞったような、……文字だった。",
+              "translation": "Then, ......I noticed... ...an odd stain on the wall of the corridor. It wasn't a stain. ...They were letters, traced out by a finger that had been covered in red paint. "
+            },
+            "UP": {
+              "japanese": "その時、………廊下の壁に、……違和感のある汚れを見つけた。汚れじゃない。……それは、赤い塗料を塗った指でなぞったような、……文字だった。",
+              "translation": "Then, .........I noticed... ...an odd stain on the wall of the corridor. It wasn't a stain. ......They were letters, traced out by a finger that had been covered in red paint."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0146"
+            ],
+            "MG": [
+              "umi6_7-L0146"
+            ],
+            "UP": [
+              "umi6_7-L0146"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "赤い塗料を塗った指でなぞったような describes writing as though traced with a red-painted finger; the subsequent line likewise says it looks written in blood.",
+      "alternative": "The next blood-like description remains tentative, but traced out by a finger that had been covered in red paint states the medium and process as facts rather than appearance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-003",
+      "kind": "WH",
+      "description": "Weight leaning against the door becomes someone drawing closer.",
+      "categories": [
+        "linguistic.word_choice",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              215,
+              216
+            ],
+            "MG": [
+              215,
+              216
+            ],
+            "UP": [
+              215,
+              216
+            ]
+          },
+          "japanese": "まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、\n……そんな感じがした。",
+          "japanesePC": "まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、......そんな感じがした。",
+          "japanesePS3": "まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、\n……そんな感じがした。",
+          "WH": "It felt as though someone inside the room had pressed their forehead against the door...and was drawing closer.",
+          "MG": "It felt as though someone inside the room had pressed their forehead against the door...\nand was drawing closer.",
+          "UP": "It felt as though someone inside the room had leaned against the door...\n...with their forehead.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0214",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0214"
+            ],
+            "MG": [
+              "umi6_7-L0214"
+            ],
+            "UP": [
+              "umi6_7-L0214"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その時、扉の向こう側からずしりと、……何かの重みを感じた。まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、……そんな感じがした。",
+              "translation": "At that moment, ...I felt a heavy weight on the far side of the door. It felt as though someone inside the room had pressed their forehead against the door... and was drawing closer. "
+            },
+            "UP": {
+              "japanese": "その時、扉の向こう側からずしりと、……何かの重みを感じた。まるで、部屋の内側から誰かが、扉に額を押し付けて寄り掛かって来ているような、……そんな感じがした。",
+              "translation": "At that moment, ......I felt a heavy weight on the far side of the door. It felt as though someone inside the room had leaned against the door... ...with their forehead."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0214"
+            ],
+            "MG": [
+              "umi6_7-L0214"
+            ],
+            "UP": [
+              "umi6_7-L0214"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "寄り掛かって来ている describes someone inside leaning against the door with their forehead pressed to it, explaining the newly felt weight.",
+      "alternative": "The forehead contact and inside location survive, but drawing closer describes approach instead of leaning pressure.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-004",
+      "kind": "WH",
+      "description": "A key releasing his restraint acquires a guard-down theft condition.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.addition",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              223,
+              223
+            ],
+            "MG": [
+              223,
+              223
+            ],
+            "UP": [
+              223,
+              223
+            ]
+          },
+          "japanese": "俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！",
+          "japanesePC": "俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！",
+          "japanesePS3": "俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！",
+          "WH": "Like hell I'll let my one key out of here get stolen while my guard's down!!",
+          "MG": "Like hell I'll let my one key out of here get stolen while my guard's down!!",
+          "UP": "Like hell I'll let my one key out of here get stolen while my guard's down!!",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0222",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0222"
+            ],
+            "MG": [
+              "umi6_7-L0222"
+            ],
+            "UP": [
+              "umi6_7-L0222"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ふざけるな、手放すもんか！！\n俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！",
+              "translation": "Yeah right, like hell I'll let go!! Like hell I'll let my one key out of here get stolen while my guard's down!! "
+            },
+            "UP": {
+              "japanese": "ふざけるな、手放すもんか！！\n俺の戒めを解く、唯一の鍵を絶対に手放すもんかッ！！",
+              "translation": "Yeah right, like hell I'll let go!!\nLike hell I'll let my one key out of here get stolen while my guard's down!!"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0222"
+            ],
+            "MG": [
+              "umi6_7-L0222"
+            ],
+            "UP": [
+              "umi6_7-L0222"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "俺の戒めを解く唯一の鍵 means the only key that releases his bonds or restraint; he vows never to let it go.",
+      "alternative": "One key out of here preserves the escape-tool role, but while my guard's down adds an absent condition, apparently substituting vigilance for the physical restraint sense of 戒め.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-005",
+      "kind": "WH",
+      "description": "The blocking tactic in sevens disappears.",
+      "categories": [
+        "linguistic.omission",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              299,
+              300
+            ],
+            "MG": [
+              299,
+              300
+            ],
+            "UP": [
+              299,
+              300
+            ]
+          },
+          "japanese": "負けず嫌いの嘉音が大真面目に勝負を挑んできたため、\n譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。",
+          "japanesePC": "負けず嫌いの嘉音が大真面目に勝負を挑んできたため、譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。",
+          "japanesePS3": "負けず嫌いの嘉音が大真面目に勝負を挑んできたため、\n譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。",
+          "WH": "Kanon had started taking the game seriously, unwilling to lose, so George and Battler had responded and the battle had grown fierce.",
+          "MG": "Kanon had started taking the game seriously, unwilling to lose,\nso George and Battler had responded and the battle had grown fierce.",
+          "UP": "Kanon had started taking the game seriously, unwilling to lose,\nso George and Battler had responded and the battle had grown fierce.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0297",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0297"
+            ],
+            "MG": [
+              "umi6_7-L0297"
+            ],
+            "UP": [
+              "umi6_7-L0297"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "いとこたちと嘉音の５人での七並べは、熱戦だった。普段なら、真里亞もいるわけだから、のんびりとしたゲームになるのに、今日は珍しい。負けず嫌いの嘉音が大真面目に勝負を挑んできたため、譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。",
+              "translation": "The game of sevens between Kanon and the cousins had been a fierce battle. Normally, they would take things easy since Maria was there, so this sort of game was rare. Kanon had started taking the game seriously, unwilling to lose, so George and Battler had responded and the battle had grown fierce. "
+            },
+            "UP": {
+              "japanese": "いとこたちと嘉音の５人での七並べは、熱戦だった。普段なら、真里亞もいるわけだから、のんびりとしたゲームになるのに、今日は珍しい。負けず嫌いの嘉音が大真面目に勝負を挑んできたため、譲治も戦人もそれを受けて立ち、徹底的に堰き止めあう苛烈なバトルに展開したためだ。",
+              "translation": "The game of sevens that Kanon and the cousins had been playing had been a fierce battle. Normally, they would take things easy since Maria was there, so this sort of game was rare. Kanon had started taking the game seriously, unwilling to lose, so George and Battler had responded and the battle had grown fierce."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0297"
+            ],
+            "MG": [
+              "umi6_7-L0297"
+            ],
+            "UP": [
+              "umi6_7-L0297"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "徹底的に堰き止めあう identifies the fierce game as mutual blocking or holding back cards to obstruct play.",
+      "alternative": "The specific six of spades and eight of diamonds remarks survive and readers who know sevens can infer blocking. The narration nevertheless drops the explicit tactic.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-006",
+      "kind": "WH",
+      "description": "Joining merely out of social obligation becomes passing time.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              328,
+              328
+            ],
+            "MG": [
+              328,
+              328
+            ],
+            "UP": [
+              328,
+              328
+            ]
+          },
+          "japanese": "これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。",
+          "japanesePC": "これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。",
+          "japanesePS3": "これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。",
+          "WH": "The old Kanon would only have seen this card game as a way to pass the time.",
+          "MG": "The old Kanon would only have seen this card game as a way to pass the time.",
+          "UP": "The old Kanon would only have seen this card game as a way to pass the time.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0328",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0328"
+            ],
+            "MG": [
+              "umi6_7-L0328"
+            ],
+            "UP": [
+              "umi6_7-L0328"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。しかし、……今の嘉音は、そこからも、何かを得ることが出来るようになっていた。それを多分、成長と呼ぶ。\n家具は、時を経ても朽ちていくだけだ。成長できるのは、……ニンゲンだけの特権なのだ。",
+              "translation": "The old Kanon would only have seen this card game as a way to pass the time. However, ...the new Kanon was now capable of gaining something new from this experience. That's probably...what it means to grow. Furniture does nothing but rot with the passage of time. The ability to grow...is a privilege given only to Humans. "
+            },
+            "UP": {
+              "japanese": "これまでの嘉音だったら、このトランプは、ただの付き合いに過ぎない。しかし、……今の嘉音は、そこからも、何かを得ることが出来るようになっていた。それを多分、成長と呼ぶ。\n家具は、時を経ても朽ちていくだけだ。成長できるのは、……ニンゲンだけの特権なのだ。",
+              "translation": "The old Kanon would only have seen this card game as a way to pass the time. However, ......the new Kanon was now capable of gaining something new from this experience. That could probably be called...growth.\nFurniture does nothing but rot with the passage of time. Being able to grow......is a privilege given only to Humanhumans."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0328"
+            ],
+            "MG": [
+              "umi6_7-L0328"
+            ],
+            "UP": [
+              "umi6_7-L0328"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ただの付き合い means participating merely to accommodate or keep company with others, contrasted with learning something from the experience.",
+      "alternative": "Passing time also suggests lack of personal investment, but assigns idle entertainment rather than participation for others' sake.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-007",
+      "kind": "WH",
+      "description": "Independent hand movements become simultaneous hand movements.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              360,
+              360
+            ],
+            "MG": [
+              360,
+              360
+            ],
+            "UP": [
+              360,
+              360
+            ]
+          },
+          "japanese": "私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ…！",
+          "japanesePC": "「そうさ。だからこそ人は、上達を実感して面白くなるんじゃねぇかよ。私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ...！　でも少しずつコツがわかってくるとさ、だんだん当たり前になってきて...！」",
+          "japanesePS3": "私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ…！",
+          "WH": "\"Yep.  Isn't that why people love it when they feel themselves improving?  Even I sucked at making my left and right hands move at the same time when I first started...!  But I slowly got the knack of it, and it started to feel more and more natural...!\"",
+          "MG": "Even I sucked at making my left and right hands move at the same time when I first started...!",
+          "UP": "Even I sucked at making my left and right hands move at the same time when I first started...!",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0358",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0358"
+            ],
+            "MG": [
+              "umi6_7-L0358"
+            ],
+            "UP": [
+              "umi6_7-L0358"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうさ。だからこそ人は、上達を実感して面白くなるんじゃねぇかよ。私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ…！　でも少しずつコツがわかってくるとさ、だんだん当たり前になってきて…！」",
+              "translation": "\"That's right. Isn't that why people love it when they feel themselves improving? Even I sucked at making my left and right hands move at the same time when I first started...! But I slowly got the knack of it, and it started to feel more and more natural...!\" "
+            },
+            "UP": {
+              "japanese": "「そうさ。だからこそ人は、上達を実感して面白くなるんじゃねぇかよ。私だって最初はさ、右手と左手が別々に動くってだけでもう全然駄目だったぜ…！　でも少しずつコツがわかってくるとさ、だんだん当たり前になってきて…！」",
+              "translation": "\"Yep. Isn't that why people love it when they feel themselves improving? Even I sucked at making my left and right hands move at the same time when I first started...! But I slowly got the knack of it, and it started to feel more and more natural...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0358"
+            ],
+            "MG": [
+              "umi6_7-L0358"
+            ],
+            "UP": [
+              "umi6_7-L0358"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "右手と左手が別々に動く concerns making the hands do different things independently, the guitar-learning difficulty Jessica describes.",
+      "alternative": "Both hands must operate at the same time in guitar playing, but simultaneous action alone does not express the distinct tasks and independence specified by 別々.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-008",
+      "kind": "WH",
+      "description": "Refreshing acceptance of an earnest loss becomes indifference to losing.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              313,
+              313
+            ],
+            "MG": [
+              313,
+              313
+            ],
+            "UP": [
+              313,
+              313
+            ]
+          },
+          "japanese": "本気で戦った結果の負けなら清々しいもんだぜ。",
+          "japanesePC": "「とんでもない。本気で戦った結果の負けなら清々しいもんだぜ。",
+          "japanesePS3": "本気で戦った結果の負けなら清々しいもんだぜ。",
+          "WH": "\"Are you kidding me?  If you really gave it your all, who cares if you lose?",
+          "MG": "If you really gave it your all, there's no reason to get all depressed when you lose.",
+          "UP": "If you really give it your all, you can feel good about yourself even if you lose.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0312",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0312"
+            ],
+            "MG": [
+              "umi6_7-L0312"
+            ],
+            "UP": [
+              "umi6_7-L0312"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「とんでもない。本気で戦った結果の負けなら清々しいもんだぜ。いい加減に戦っての負けじゃ、本気出してたら勝ってた云々で未練タラタラでしょ？」",
+              "translation": "\"That's not true. If you really gave it your all, there's no reason to get all depressed when you lose. If you lost after hardly trying, then you'd be grumbling and complaining about how you would've won if you'd taken it seriously, right?\" "
+            },
+            "UP": {
+              "japanese": "「とんでもない。本気で戦った結果の負けなら清々しいもんだぜ。いい加減に戦っての負けじゃ、本気出してたら勝ってた云々で未練タラタラでしょ？」",
+              "translation": "\"Are you kidding me? If you really give it your all, you can feel good about yourself even if you lose. If you lose after hardly trying, then you feel like grumbling and complaining about how you'd have won if you'd taken it seriously, right?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0312"
+            ],
+            "MG": [
+              "umi6_7-L0312"
+            ],
+            "UP": [
+              "umi6_7-L0312"
+            ]
+          }
+        },
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              368,
+              368
+            ],
+            "MG": [
+              368,
+              368
+            ],
+            "UP": [
+              368,
+              368
+            ]
+          },
+          "japanese": "……でも、本気でやっての失敗だったら、それは清々しいものに違いないと。",
+          "japanesePC": "「とんでもない。本気で戦った結果の負けなら清々しいもんだぜ。",
+          "japanesePS3": "……でも、本気でやっての失敗だったら、それは清々しいものに違いないと。",
+          "WH": "\"Are you kidding me?  If you really gave it your all, who cares if you lose?",
+          "MG": "...But if I've given it my all, even messing up is no big deal.",
+          "UP": "......But if I've given it my all, I can take failure in my stride.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0366",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0312"
+            ],
+            "MG": [
+              "umi6_7-L0366"
+            ],
+            "UP": [
+              "umi6_7-L0366"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はい。……きっと最初は不出来で、お嬢様を失望させてしまうこともあるでしょう。……でも、本気でやっての失敗だったら、それは清々しいものに違いないと。……さっきお嬢様たちに教わりましたから」",
+              "translation": "\"Yes. ...I'm sure I'll be horrible when I start, and I might even make you lose hope in me at times. ...But if I've given it my all, even messing up is no big deal. ...That's what I learned from you all just now.\" "
+            },
+            "UP": {
+              "japanese": "「はい。……きっと最初は不出来で、お嬢様を失望させてしまうこともあるでしょう。……でも、本気でやっての失敗だったら、それは清々しいものに違いないと。……さっきお嬢様たちに教わりましたから」",
+              "translation": "\"Yes. ......I'm sure I'll be horrible when I start, and I might even make you lose hope in me at times. ......But if I've given it my all, I can take failure in my stride. ......That's what I learned from you all just now.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0312"
+            ],
+            "MG": [
+              "umi6_7-L0366"
+            ],
+            "UP": [
+              "umi6_7-L0366"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "清々しい describes the refreshing, clear feeling after losing despite genuinely trying; Kanon later repeats this as his new understanding of failure.",
+      "alternative": "Who cares if you lose and no big deal preserve acceptance rather than despair, but replace the positive emotional payoff with the result simply not mattering.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-009",
+      "kind": "WH",
+      "description": "Jessica's confidence in her current feelings becomes an exclusively filled heart.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              403,
+              403
+            ],
+            "MG": [
+              403,
+              403
+            ],
+            "UP": [
+              403,
+              403
+            ]
+          },
+          "japanese": "でも、……今この瞬間の、自分の気持ちだけは、胸を張れる。",
+          "japanesePC": "でも、......今この瞬間の、自分の気持ちだけは、胸を張れる。",
+          "japanesePS3": "でも、……今この瞬間の、自分の気持ちだけは、胸を張れる。",
+          "WH": "However, ......at this moment, her heart was filled with nothing besides her own feelings.",
+          "MG": "However, ...she could still be proud of the feelings she felt at this very instant.",
+          "UP": "However, ......if nothing else, she knew what she felt at this moment.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0401",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0401"
+            ],
+            "MG": [
+              "umi6_7-L0401"
+            ],
+            "UP": [
+              "umi6_7-L0401"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……しかし、それを正直に口にすれば、身近にいる男だったら誰もよかったのかと誤解されてしまう……。でも、……今この瞬間の、自分の気持ちだけは、胸を張れる。嘉音のことが本当に好きで、……本気で恋愛をしたいと思っている。",
+              "translation": "...However, if you put that into words, it might be misinterpreted to mean that any nearby boy would've done just as well... However, ...she could still be proud of the feelings she felt at this very instant. She really did love Kanon, ...and she truly wanted to experience romance. "
+            },
+            "UP": {
+              "japanese": "……しかし、それを正直に口にすれば、身近にいる男だったら誰もよかったのかと誤解されてしまう……。でも、……今この瞬間の、自分の気持ちだけは、胸を張れる。嘉音のことが本当に好きで、……本気で恋愛をしたいと思っている。",
+              "translation": "......However, if she were to put that into words, she would be misinterpreted as saying that any nearby boy would have done just as well...... However, ......if nothing else, she knew what she felt at this moment. She really did love Kanon, ......and she truly wanted a relationship with him."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0401"
+            ],
+            "MG": [
+              "umi6_7-L0401"
+            ],
+            "UP": [
+              "umi6_7-L0401"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "今この瞬間の自分の気持ちだけは胸を張れる means she can be proud or confident of her present feelings, whatever their vague origin.",
+      "alternative": "Her own feelings are central in both versions, but her heart was filled with nothing besides her own feelings substitutes exclusivity of contents for confidence in sincerity.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-010",
+      "kind": "WH",
+      "description": "George treating opposition as a test becomes a suggestion by the observer.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              485,
+              485
+            ],
+            "MG": [
+              485,
+              485
+            ],
+            "UP": [
+              485,
+              485
+            ]
+          },
+          "japanese": "……むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ」",
+          "japanesePC": "「そういうこと。伴侶を生涯、守りきると誓った譲治お兄ちゃんにとって、両親の反対や勘当さえ、恐れるものではない。......むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ。",
+          "japanesePS3": "……むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ」",
+          "WH": "\"Exactly.  Now that George onii-chan has sworn to protect his lover for the rest of their lives, he has no need to fear opposition and disinheritance from his parents.  ......On the contrary, you might even consider that a perfect test for his love for her.",
+          "MG": "...On the contrary, you might even consider that a perfect test of his love for her.",
+          "UP": "......On the contrary, he even considers them to be the perfect tests to demonstrate his love for her.\"",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0483",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0483"
+            ],
+            "MG": [
+              "umi6_7-L0483"
+            ],
+            "UP": [
+              "umi6_7-L0483"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そういうこと。伴侶を生涯、守りきると誓った譲治お兄ちゃんにとって、両親の反対や勘当さえ、恐れるものではない。……むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ」",
+              "translation": "\"Exactly. Now that George onii-chan has sworn to protect his lover for the rest of their lives, he has no need to fear opposition and disinheritance from his parents. ...On the contrary, you might even consider that a perfect test of his love for her. "
+            },
+            "UP": {
+              "japanese": "「そういうこと。伴侶を生涯、守りきると誓った譲治お兄ちゃんにとって、両親の反対や勘当さえ、恐れるものではない。……むしろ、それらさえも、彼女への愛を示すちょうどいい試練だとさえ思っているわ」",
+              "translation": "\"Exactly. George onii‐chan has sworn to protect his partner for the rest of their lives and no longer fears opposition or disinheritance from his parents. ......On the contrary, he even considers them to be the perfect tests to demonstrate his love for her.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0483"
+            ],
+            "MG": [
+              "umi6_7-L0483"
+            ],
+            "UP": [
+              "umi6_7-L0483"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "彼女への愛を示す ... 試練だとさえ思っている attributes to George the belief that opposition and disinheritance are suitable trials for demonstrating his love.",
+      "alternative": "You might even consider that a perfect test conveys the same possible interpretation, but transfers it from George's mindset to an unspecified observer.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-011",
+      "kind": "WH",
+      "description": "Tentative reading of one miracle becomes definite portrayal.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              537,
+              537
+            ],
+            "MG": [
+              537,
+              537
+            ],
+            "UP": [
+              537,
+              537
+            ]
+          },
+          "japanese": "しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。",
+          "japanesePC": "しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。",
+          "japanesePS3": "しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。",
+          "WH": "And on top of that, the single brooch was portrayed as bestowing only a single miracle.",
+          "MG": "And on top of that, the single brooch was portrayed as bestowing only a single miracle.",
+          "UP": "And on top of that, the single brooch is portrayed as bestowing only a single miracle.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0537",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0537"
+            ],
+            "MG": [
+              "umi6_7-L0537"
+            ],
+            "UP": [
+              "umi6_7-L0537"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。だから紗音は、そのたった一つの奇跡を自分が消費してしまうことで、嘉音の恋路が自動的に永遠に閉ざされてしまうことに、躊躇していたかのように思えるのだ…。",
+              "translation": "And on top of that, the single brooch was portrayed as bestowing only a single miracle. It felt almost as though Shannon was hesitating because, if she used up that miracle for herself, Kanon's chances at love would be automatically sealed away for eternity... "
+            },
+            "UP": {
+              "japanese": "しかも、どうやら、一個のブローチは、一度の奇跡しか与えないかのような描写が見て取れる。だから紗音は、そのたった一つの奇跡を自分が消費してしまうことで、嘉音の恋路が自動的に永遠に閉ざされてしまうことに、躊躇していたかのように思えるのだ…。",
+              "translation": "And on top of that, the single brooch is portrayed as bestowing only a single miracle. It feels almost as though Shannon is hesitating because, if she uses up that miracle for herself, Kanon's chances at love will be automatically sealed away for eternity..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0537"
+            ],
+            "MG": [
+              "umi6_7-L0537"
+            ],
+            "UP": [
+              "umi6_7-L0537"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "どうやら ... かのような描写が見て取れる cautiously identifies a portrayal that seems as though one brooch grants only one miracle.",
+      "alternative": "Was portrayed keeps this on the level of textual description rather than a red fact, and the next hesitation inference is tentative. Still the English removes the explicit seeming/as-if qualification on the single-miracle premise.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-012",
+      "kind": "WH",
+      "description": "The brooch permitting forbidden love becomes giving desired love.",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              544,
+              544
+            ],
+            "MG": [
+              544,
+              544
+            ],
+            "UP": [
+              544,
+              544
+            ]
+          },
+          "japanese": "……頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。",
+          "japanesePC": "「そして。......頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。一体、何だって言うの？」",
+          "japanesePS3": "……頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。",
+          "WH": "\"And also, ......there's this golden butterfly brooch that's supposed to give the lamenting furniture the love they so strongly desire.  Just what on Earth is that?\"",
+          "MG": "...though the furniture laments with such certainty that they're unable to love, this golden butterfly brooch is supposed to give them permission to do it.",
+          "UP": "......there's that golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0543",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0543"
+            ],
+            "MG": [
+              "umi6_7-L0543"
+            ],
+            "UP": [
+              "umi6_7-L0543"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そして。……頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。一体、何だって言うの？」",
+              "translation": "\"And also, ...though the furniture laments with such certainty that they're unable to love, this golden butterfly brooch is supposed to give them permission to do it. Just what on earth is it?\" "
+            },
+            "UP": {
+              "japanese": "「そして。……頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。一体、何だって言うの？」",
+              "translation": "\"And also, ......there's that golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of. Just what on Earth is that?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0543"
+            ],
+            "MG": [
+              "umi6_7-L0543"
+            ],
+            "UP": [
+              "umi6_7-L0543"
+            ]
+          }
+        },
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              648,
+              649
+            ],
+            "MG": [
+              648,
+              649
+            ],
+            "UP": [
+              648,
+              649
+            ]
+          },
+          "japanese": "“頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチとは一体何か？”\nという問いに、答えられない」",
+          "japanesePC": "「そして。......頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチって。一体、何だって言うの？」",
+          "japanesePS3": "“頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチとは一体何か？”\nという問いに、答えられない」",
+          "WH": "\"And also, ......there's this golden butterfly brooch that's supposed to give the lamenting furniture the love they so strongly desire.  Just what on Earth is that?\"",
+          "MG": "It doesn't answer the question: 'What was this golden butterfly brooch,\nwhich allowed the furniture, who strongly believed that they could not love, to finally find love?'\"",
+          "UP": "\"What is the golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of?\"\nIt's not enough for an answer.\"",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0647",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0543"
+            ],
+            "MG": [
+              "umi6_7-L0647"
+            ],
+            "UP": [
+              "umi6_7-L0647"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「話を戻すけれど、この程度の、魔法やおまじないを信じるという程度の話では、“頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチとは一体何か？”という問いに、答えられない」",
+              "translation": "\"To get back to the point, all this stuff about believing in magic and rituals... It doesn't answer the question: 'What was this golden butterfly brooch, which allowed the furniture, who strongly believed that they could not love, to finally find love?'\" "
+            },
+            "UP": {
+              "japanese": "「話を戻すけれど、この程度の、魔法やおまじないを信じるという程度の話では、“頑なに恋が出来ないと嘆いていた家具たちに、それを許すことの出来る、黄金蝶のブローチとは一体何か？”という問いに、答えられない」",
+              "translation": "\"To get back to the point, none of this stuff about believing in magic and charms can answer the question: \"What is the golden butterfly brooch that can allow the lamenting furniture to have the love they insisted they were incapable of?\" It's not enough for an answer.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0543"
+            ],
+            "MG": [
+              "umi6_7-L0647"
+            ],
+            "UP": [
+              "umi6_7-L0647"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Furniture stubbornly lamented that they could not love; the brooch can permit it. This repeats the immediately preceding question why love is not allowed without magic.",
+      "alternative": "Give ... the love they so strongly desire retains magical facilitation, but replaces the claimed impossibility and permission with wanting love and receiving it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-013",
+      "kind": "WH",
+      "description": "A little more than reassurance is excluded from prayer's power.",
+      "categories": [
+        "linguistic.omission",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              684,
+              684
+            ],
+            "MG": [
+              684,
+              684
+            ],
+            "UP": [
+              684,
+              684
+            ]
+          },
+          "japanese": "願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。",
+          "japanesePC": "願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。",
+          "japanesePS3": "願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。",
+          "WH": "Praying like this contains no power except as a calming influence.",
+          "MG": "By itself, praying does little more than give one peace of mind.",
+          "UP": "Praying like this contains no power except as a calming influence.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0682",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0682"
+            ],
+            "MG": [
+              "umi6_7-L0682"
+            ],
+            "UP": [
+              "umi6_7-L0682"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "大事な受験の前に、合格祈願のお参りに行くのは、誰だってやる願掛け。でも、だからと言って、そのお陰で合格できたとまで言う者はいないはず。願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。",
+              "translation": "Lots of people visit shrines to pray for success on tests. However, people rarely credit such a visit as the reason for their success. By itself, praying does little more than give one peace of mind. "
+            },
+            "UP": {
+              "japanese": "大事な受験の前に、合格祈願のお参りに行くのは、誰だってやる願掛け。でも、だからと言って、そのお陰で合格できたとまで言う者はいないはず。願掛けなど本来は、気休めか、せいぜいそれ以上程度の力しか宿らないのだ。",
+              "translation": "Visiting a shrine before an important exam to pray that you'll pass is something that many people do. However, not many people will actually credit that visit as the reason for their success. Praying like this contains no power except as a calming influence."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0682"
+            ],
+            "MG": [
+              "umi6_7-L0682"
+            ],
+            "UP": [
+              "umi6_7-L0682"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "気休めか、せいぜいそれ以上程度 permits reassurance or, at most, something a little beyond it.",
+      "alternative": "The argument minimizes ordinary charms in both languages, but no power except as a calming influence removes the explicit allowance of limited additional effect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-014",
+      "kind": "WH",
+      "description": "The furniture's tragic fate becomes an insurmountable fate.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              687,
+              688
+            ],
+            "MG": [
+              687,
+              688
+            ],
+            "UP": [
+              687,
+              688
+            ]
+          },
+          "japanese": "しかし、………家具たちが自称する悲壮な運命は、\nその程度のことで変わる程度のものなのだろうか……？",
+          "japanesePC": "しかし、.........家具たちが自称する悲壮な運命は、その程度のことで変わる程度のものなのだろうか......？",
+          "japanesePS3": "しかし、………家具たちが自称する悲壮な運命は、\nその程度のことで変わる程度のものなのだろうか……？",
+          "WH": "However, .........would this insurmountable fate that the furniture claim to be in the middle of...really change because of something like that......?",
+          "MG": "However, ......would something like that really be enough...\nto change the insurmountable fate of furniture...?",
+          "UP": "However, .........would the insurmountable fate that those pieces of furniture claim to be in the middle of...\nreally change because of something like that......?",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_7-L0685",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0685"
+            ],
+            "MG": [
+              "umi6_7-L0685"
+            ],
+            "UP": [
+              "umi6_7-L0685"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ほんの小さな勇気やきっかけが、大きな変化をもたらすこともある恋愛になら、その力が激変を見せることもあるかもしれない…。しかし、………家具たちが自称する悲壮な運命は、その程度のことで変わる程度のものなのだろうか……？",
+              "translation": "In love, where even a small chance and a little bit of courage can result in major changes, this power can sometimes bring about incredible transformations... However, ......would something like that really be enough... to change the insurmountable fate of furniture...? "
+            },
+            "UP": {
+              "japanese": "ほんの小さな勇気やきっかけが、大きな変化をもたらすこともある恋愛になら、その力が激変を見せることもあるかもしれない…。しかし、………家具たちが自称する悲壮な運命は、その程度のことで変わる程度のものなのだろうか……？",
+              "translation": "In love, where even a small chance and a little bit of courage can cause a major change, this power might cause a massive upheaval... However, .........would the insurmountable fate that those pieces of furniture claim to be in the middle of... really change because of something like that......?"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0685"
+            ],
+            "MG": [
+              "umi6_7-L0685"
+            ],
+            "UP": [
+              "umi6_7-L0685"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "悲壮な運命 characterizes their claimed fate as tragic or poignantly desperate. The question asks whether that fate can change with an ordinary charm.",
+      "alternative": "The furniture describe an obstacle requiring magic and Ange doubts a small charm suffices. Insurmountable nevertheless adds an impossibility characterization not present in 悲壮.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-015",
+      "kind": "WH",
+      "description": "Jessica trying to understand becomes having partly understood.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              722,
+              722
+            ],
+            "MG": [
+              722,
+              722
+            ],
+            "UP": [
+              722,
+              722
+            ]
+          },
+          "japanese": "朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。",
+          "japanesePC": "朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。",
+          "japanesePS3": "朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。",
+          "WH": "Jessica sort of grasped the gist of what Kanon was trying to say.",
+          "MG": "Jessica tried to make sense of Kanon's words.",
+          "UP": "Jessica tried her hardest to grasp what Kanon was trying to say.",
+          "note": "Full continuous reading completed in durable agent reports; parent verified introduced flags against current JP and original PC. MG130 無常/PS3無情 is an edition provenance note held without automatic red or yellow verdict: vanishing is not unambiguously equivalent to PC impermanence. Conservative inherited candidates remain pending. MG574–576 reflows one clause; aggregated premise and inference retained.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0722",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0722"
+            ],
+            "MG": [
+              "umi6_7-L0722"
+            ],
+            "UP": [
+              "umi6_7-L0722"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。しかし、それが理解できず、苦笑いしながら聞き直さざるを得ない…。",
+              "translation": "Jessica tried to make sense of Kanon's words. However, she couldn't understand...and had to ask him to repeat it, wearing a stiff smile... "
+            },
+            "UP": {
+              "japanese": "朱志香は、何とか嘉音が言おうとしている意味を汲み取ろうとする。しかし、それが理解できず、苦笑いしながら聞き直さざるを得ない…。",
+              "translation": "Jessica tried her hardest to grasp what Kanon was trying to say. However, she couldn't understand it, and had to ask him to repeat it with a bitter smile..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0722"
+            ],
+            "MG": [
+              "umi6_7-L0722"
+            ],
+            "UP": [
+              "umi6_7-L0722"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "何とか ... 意味を汲み取ろうとする reports trying somehow to grasp his meaning; the next sentence says she cannot understand it.",
+      "alternative": "Sort of grasped may describe only incomplete comprehension, and the next sentence retains failure. It still asserts an achieved partial understanding where the source reports an attempt.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH07-016",
+      "kind": "WH",
+      "description": "WH omits of in one the joys of being read aloud to.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              671,
+              671
+            ],
+            "MG": [
+              671,
+              671
+            ],
+            "UP": [
+              671,
+              671
+            ]
+          },
+          "japanese": "……それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。",
+          "japanesePC": "「もう少し寝かせたい。......それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。",
+          "japanesePS3": "……それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。",
+          "WH": "\"I'd like to keep that to myself for just a while longer.  ......And of course, watching you form doubts and let your mind race is one the joys of being read aloud to.",
+          "MG": "...And of course, watching you form doubts and let your mind race is one the joys of being read aloud to.",
+          "UP": "......And of course, watching you form doubts and let your mind race is one of the joys of being read aloud to.",
+          "note": "Original PC and coherent paired context verified under ep06-ch07-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_7-L0670",
+          "readerRefs": {
+            "WH": [
+              "umi6_7-L0670"
+            ],
+            "MG": [
+              "umi6_7-L0670"
+            ],
+            "UP": [
+              "umi6_7-L0670"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「もう少し寝かせたい。……それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。私の見解を話せば、そなたはそれに納得し、思考を止める。それでは朗読が面白くない」",
+              "translation": "\"I'd like to keep that to myself for just a while longer. ...And of course, watching you form doubts and let your mind race is one the joys of being read aloud to. If I gave you my views, you would accept them and stop thinking. Then, having you read aloud would be no fun.\" "
+            },
+            "UP": {
+              "japanese": "「もう少し寝かせたい。……それに、疑問を持ち、思考を巡らすそなたを見ることもまた、朗読の楽しみだ。私の見解を話せば、そなたはそれに納得し、思考を止める。それでは朗読が面白くない」",
+              "translation": "\"I'd like to keep that to myself for just a while longer. ......And of course, watching you form doubts and let your mind race is one of the joys of being read aloud to. If I gave you my views, you would accept them and stop thinking. Then, having you read aloud would be no fun.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_7-L0670"
+            ],
+            "MG": [
+              "umi6_7-L0670"
+            ],
+            "UP": [
+              "umi6_7-L0670"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The partitive construction requires one of the joys.",
+      "alternative": "Meaning remains clear; the missing preposition is a minor grammar error.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH07-361-480-001",
+      "kind": "additional",
+      "description": "MG changes Kanon’s responding to affection into merely receiving it.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              393,
+              394
+            ],
+            "MG": [
+              393,
+              394
+            ],
+            "UP": [
+              393,
+              394
+            ]
+          },
+          "japanese": "なのに、一方的に好意を受け、……自分に出来ることが、それに応えるだけだなんて、\n……悲しくて、……そして自分が悔しかった。",
+          "japanesePC": "",
+          "japanesePS3": "なのに、一方的に好意を受け、……自分に出来ることが、それに応えるだけだなんて、\n……悲しくて、……そして自分が悔しかった。",
+          "WH": "",
+          "MG": "The fact that he was accepting her affection one-sidedly, unable to do anything but simply receive it,\n...made him sad...and frustrated at himself.",
+          "UP": "It made him sad and frustrated that he had always been the one‐sided recipient of her affection...\n...and could do nothing but respond to it.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_7-L0391",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_7-L0391"
+            ],
+            "UP": [
+              "umi6_7-L0391"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "嘉音は俯く。……何も学んでこなかった自分に、彼女をリードできるようなことなんて、何一つない。なのに、一方的に好意を受け、……自分に出来ることが、それに応えるだけだなんて、……悲しくて、……そして自分が悔しかった。",
+              "translation": "Kanon hung his head. ...Since he had never learned anything on his own, he had never been able to take the initiative with her in any way.. The fact that he was accepting her affection one-sidedly, unable to do anything but simply receive it, ...made him sad...and frustrated at himself. "
+            },
+            "UP": {
+              "japanese": "嘉音は俯く。……何も学んでこなかった自分に、彼女をリードできるようなことなんて、何一つない。なのに、一方的に好意を受け、……自分に出来ることが、それに応えるだけだなんて、……悲しくて、……そして自分が悔しかった。",
+              "translation": "Kanon hung his head. ......He had never learned anything, so he had never been able to take the lead with her. It made him sad and frustrated that he had always been the one‐sided recipient of her affection... ...and could do nothing but respond to it."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_7-L0391"
+            ],
+            "UP": [
+              "umi6_7-L0391"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP distinguishes receiving affection from being able only to respond. OriginalPC75957/75958 and UP retain respond; MG repeats receive and eliminates his responsive action.",
+      "alternative": "Receive can loosely suggest passive reaction, but the source expressly contrasts receipt with response.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH07-601-720-001",
+      "kind": "additional",
+      "description": "UP states Shannon’s rejection of magic without the source’s inferential qualification.",
+      "categories": [
+        "mystery.epistemic_status"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_7",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              662,
+              662
+            ],
+            "MG": [
+              662,
+              662
+            ],
+            "UP": [
+              662,
+              662
+            ]
+          },
+          "japanese": "彼女はその時点で、一度は魔法の奇跡と決別したはず。",
+          "japanesePC": "",
+          "japanesePS3": "彼女はその時点で、一度は魔法の奇跡と決別したはず。",
+          "WH": "",
+          "MG": "At that point, she supposedly rejected the miracle of magic for a time.",
+          "UP": "She put the miracle of magic behind her at that point.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi6_7-L0660",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_7-L0660"
+            ],
+            "UP": [
+              "umi6_7-L0660"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「現に紗音はかつて、譲治お兄ちゃんとの出会いのきっかけを作ったのはブローチのお陰だけど、それ以降は魔法の力を借りずに関係を深めたいと言って、ベアトにブローチを返そうとさえしたわ。彼女はその時点で、一度は魔法の奇跡と決別したはず。……なのになぜ再び、その力を必要としているの？」",
+              "translation": "\"It's true that the brooch gave Shannon the chance she needed to get together with George onii-chan, but some time after that, she said she wanted to deepen their relationship without borrowing the power of magic, and she even tried to give the brooch back to Beato. At that point, she supposedly rejected the miracle of magic for a time. ...So, why would that power be necessary again?\" "
+            },
+            "UP": {
+              "japanese": "「現に紗音はかつて、譲治お兄ちゃんとの出会いのきっかけを作ったのはブローチのお陰だけど、それ以降は魔法の力を借りずに関係を深めたいと言って、ベアトにブローチを返そうとさえしたわ。彼女はその時点で、一度は魔法の奇跡と決別したはず。……なのになぜ再び、その力を必要としているの？」",
+              "translation": "\"It's true that the brooch gave Shannon the chance she needed to get together with George onii‐chan, but after that, she said she wanted to deepen their relationship without borrowing the power of magic, and she even tried to give the brooch back to Beato. She put the miracle of magic behind her at that point. ......In that case, why is she once again in need of its power?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_7-L0660"
+            ],
+            "UP": [
+              "umi6_7-L0660"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP 決別したはず gives Ange’s inference. OriginalPC76821/76823 and MG retain supposedly; UP states She put the miracle of magic behind her as an unqualified event.",
+      "alternative": "The prior account strongly supports the inference, but it does not remove the explicitly inferential wording.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-CH07-001": {
+      "umi6_7-L0076": {
+        "WH": [
+          "I pushed those thoughts aside for the time being"
+        ],
+        "MG": [
+          "I pushed those thoughts aside for the time being"
+        ]
+      }
+    },
+    "WH-EP06-CH07-002": {
+      "umi6_7-L0146": {
+        "WH": [
+          "traced out by a finger that had been covered in red paint"
+        ],
+        "MG": [
+          "traced out by a finger that had been covered in red paint"
+        ],
+        "UP": [
+          "traced out by a finger that had been covered in red paint"
+        ]
+      }
+    },
+    "WH-EP06-CH07-003": {
+      "umi6_7-L0214": {
+        "WH": [
+          "was drawing closer"
+        ],
+        "MG": [
+          "was drawing closer"
+        ]
+      }
+    },
+    "WH-EP06-CH07-004": {
+      "umi6_7-L0222": {
+        "WH": [
+          "get stolen while my guard's down"
+        ],
+        "MG": [
+          "get stolen while my guard's down"
+        ],
+        "UP": [
+          "get stolen while my guard's down"
+        ]
+      }
+    },
+    "WH-EP06-CH07-005": {
+      "umi6_7-L0297": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The mutual card-blocking tactic that made the sevens battle fierce is absent."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "The mutual card-blocking tactic that made the sevens battle fierce is absent."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "The mutual card-blocking tactic that made the sevens battle fierce is absent."
+        }
+      }
+    },
+    "WH-EP06-CH07-006": {
+      "umi6_7-L0328": {
+        "WH": [
+          "a way to pass the time"
+        ],
+        "MG": [
+          "a way to pass the time"
+        ],
+        "UP": [
+          "a way to pass the time"
+        ]
+      }
+    },
+    "WH-EP06-CH07-007": {
+      "umi6_7-L0358": {
+        "WH": [
+          "making my left and right hands move at the same time"
+        ],
+        "MG": [
+          "making my left and right hands move at the same time"
+        ],
+        "UP": [
+          "making my left and right hands move at the same time"
+        ]
+      }
+    },
+    "WH-EP06-CH07-008": {
+      "umi6_7-L0312": {
+        "WH": [
+          "who cares if you lose"
+        ],
+        "MG": [
+          "there's no reason to get all depressed when you lose"
+        ]
+      },
+      "umi6_7-L0366": {
+        "MG": [
+          "even messing up is no big deal"
+        ]
+      }
+    },
+    "WH-EP06-CH07-009": {
+      "umi6_7-L0401": {
+        "WH": [
+          "her heart was filled with nothing besides her own feelings"
+        ]
+      }
+    },
+    "WH-EP06-CH07-010": {
+      "umi6_7-L0483": {
+        "WH": [
+          "you might even consider that a perfect test for his love for her"
+        ],
+        "MG": [
+          "you might even consider that a perfect test of his love for her"
+        ]
+      }
+    },
+    "WH-EP06-CH07-011": {
+      "umi6_7-L0537": {
+        "WH": [
+          "was portrayed as bestowing only a single miracle"
+        ],
+        "MG": [
+          "was portrayed as bestowing only a single miracle"
+        ],
+        "UP": [
+          "is portrayed as bestowing only a single miracle"
+        ]
+      }
+    },
+    "WH-EP06-CH07-012": {
+      "umi6_7-L0543": {
+        "WH": [
+          "give the lamenting furniture the love they so strongly desire"
+        ]
+      }
+    },
+    "WH-EP06-CH07-013": {
+      "umi6_7-L0682": {
+        "WH": [
+          "contains no power except as a calming influence"
+        ],
+        "UP": [
+          "contains no power except as a calming influence"
+        ]
+      }
+    },
+    "WH-EP06-CH07-014": {
+      "umi6_7-L0685": {
+        "WH": [
+          "insurmountable fate"
+        ],
+        "MG": [
+          "insurmountable fate"
+        ],
+        "UP": [
+          "insurmountable fate"
+        ]
+      }
+    },
+    "WH-EP06-CH07-015": {
+      "umi6_7-L0722": {
+        "WH": [
+          "sort of grasped the gist"
+        ]
+      }
+    },
+    "WH-EP06-CH07-016": {
+      "umi6_7-L0670": {
+        "WH": [
+          "one the joys"
+        ],
+        "MG": [
+          "one the joys"
+        ]
+      }
+    },
+    "PAIR-EP06-CH07-361-480-001": {
+      "umi6_7-L0391": {
+        "MG": [
+          "unable to do anything but simply receive it"
+        ]
+      }
+    },
+    "PAIR-EP06-CH07-601-720-001": {
+      "umi6_7-L0660": {
+        "UP": [
+          "She put the miracle of magic behind her at that point"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

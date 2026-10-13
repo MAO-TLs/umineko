@@ -1,1 +1,378 @@
-{"findings":[{"id":"WH-EP01-CH09-001","kind":"WH","description":"Being slightly irritated by Gohda brings Shannon down from her earlier dreamy excitement. WH says Because it had come fairly suddenly, changing the emotional cause into the suddenness of an unspecified event.","categories":["linguistic.mistranslation","linguistic.logical_relation","character.motivation_emotion"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_9","episode":1,"rows":{"JP":[17,23],"MG":[17,23],"UP":[17,23]},"japanese":"…紗音はちょっぴり呆れる。\n自分は厚意でここに手伝いに来ているのに、本来の当番の本来の仕事を当然のように押し付けるなんて。\nしかも、それを一方的に押し付けると、郷田は再び雑誌に没頭して、クロスワードパズルに浸りこむ。\n一応、年長者に対する礼儀として頭を下げてから、紗音は見回りのため退出する。\nちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。\nそれに、こんな顔を源次や嘉音には見せられない。\n心が落ち着きを取り戻すまで、少し時間がほしかったから、見回りもそう悪いものではなかったかもしれない…。","japanesePC":"ちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。","japanesePS3":"…紗音はちょっぴり呆れる。\n自分は厚意でここに手伝いに来ているのに、本来の当番の本来の仕事を当然のように押し付けるなんて。\nしかも、それを一方的に押し付けると、郷田は再び雑誌に没頭して、クロスワードパズルに浸りこむ。\n一応、年長者に対する礼儀として頭を下げてから、紗音は見回りのため退出する。\nちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。\nそれに、こんな顔を源次や嘉音には見せられない。\n心が落ち着きを取り戻すまで、少し時間がほしかったから、見回りもそう悪いものではなかったかもしれない…。","WH":"Because it had come fairly suddenly, the airy sensation that she had felt a little while ago had lessened a bit.","MG":"...Shannon was slightly disgusted.\nEven though she'd come here to help out as a favor, she was casually being forced to do the job of the person actually on duty.\nFurthermore, after one-sidedly forcing that task on her, Gohda returned to his magazine once again and became immersed in his crossword puzzle.\nShannon bowed her head as a token sign of respect for her elder, then left the room to patrol the mansion.\nThanks to her being a bit ticked off, she managed to suppress that floaty feeling she'd been having until just now.\nAnd anyway, she couldn't let Genji or Kanon see her looking like this.\nShe wanted a little time to herself until her heart calmed down, so maybe going on patrol wouldn't be so bad...","UP":"...Shannon felt a twinge of annoyance.\nDespite the fact that she had come here to help out as a favor, she was being forced to do the job of the person actually on duty as though it were natural.\nFurthermore, after one‐sidedly forcing that task on her, Gohda had once again gone back to his magazine and had become immersed in his crossword puzzle.\nFor the time being, as a sign of respect for her elder, Shannon bowed her head, and she left the room to make the rounds.\nGetting a little angry had enabled her to bring the airy sensation she had been feeling until now under control a bit.\nBesides, she couldn't show this kind of face to Genji and Kanon.\nUntil her heart was able to calm down, she wanted a little time to herself, and maybe going around the mansion wasn't such a bad way to do that...","note":"Both restore irritation as the cause of calming, rather than suddenness.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_9-L0017","readerRefs":{"WH":["umi1_9-L0020"],"MG":["umi1_9-L0017","umi1_9-L0020","umi1_9-L0022"],"UP":["umi1_9-L0017","umi1_9-L0020","umi1_9-L0022"]}}],"sourceReading":"カチンと来た is getting irritated or offended, not something arriving suddenly. The preceding imposed work explains what irritates her.","alternative":"The English still conveys that the duty assignment interrupts her excitement and gives her time to settle. It nonetheless removes her annoyance as the explicit reason for the calming effect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH09-002","kind":"WH","description":"Shannon remembers Kanon saying he saw the butterfly and that she did not believe him, treating it as a mistaken sighting, after which he sulked. WH retains only that he reported seeing it, omitting her prior skeptical response and his reaction.","categories":["linguistic.omission","character.relationship_power","character.knowledge_boundary"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_9","episode":1,"rows":{"JP":[47,53],"MG":[47,53],"UP":[47,53]},"japanese":"…それは、右代宮本家に仕える使用人たちの間で語り継がれる、あの怪談。\n屋敷には昼と夜とで違う主が。\n…その夜の主、ベアトリーチェが時に、輝く蝶の姿で屋敷を飛びまわるという、怪談。\n……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？\n私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。\n………まさか、…本当に……………？\n轟く雷鳴は、それに答えてはくれなかった…。","japanesePC":"……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？\n私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。","japanesePS3":"…それは、右代宮本家に仕える使用人たちの間で語り継がれる、あの怪談。\n屋敷には昼と夜とで違う主が。\n…その夜の主、ベアトリーチェが時に、輝く蝶の姿で屋敷を飛びまわるという、怪談。\n……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？\n私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。\n………まさか、…本当に……………？\n轟く雷鳴は、それに答えてはくれなかった…。","WH":"...Come to think of it, didn't Kanon-kun once say that he had seen it with his own eyes......?","MG":"...It was that ghost story...which had been passed down amongst the servants who served the Ushiromiya Head Family.\nThe mansion had two different Masters, one of the Day and one of the Night.\n...Beatrice, the Master of the night, would sometimes fly around the mansion in the form of sparkling butterflies. That was the story.\n...Come to think of it, didn't Kanon-kun once say he'd seen it with his own eyes......?\nThough he got sulky when I said he must've imagined it and refused to believe him...\n......Could it possibly...be true...?\nThe roar of the thunder gave no answer...","UP":"...It was that which had been passed down amongst the servants who served the Ushiromiya main family—that ghost story.\nIn which the mansion had different masters of the day and the night.\n...In which the master of the night, Beatrice, would sometimes fly around the mansion in the form of sparkling butterflies.\n......Come to think of it, hadn't Kanon‐kun said that he had once seen it for himself......?\nHe got sulky when I didn't believe him and told him he was just seeing things...\n.........Could it possibly...really...............?\nThe roar of the thunder gave no answer...","note":"Both restore Shannon disbelief and Kanon sulking; current speculation remains uncertain.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_9-L0045","readerRefs":{"WH":["umi1_9-L0050"],"MG":["umi1_9-L0045","umi1_9-L0050","umi1_9-L0053"],"UP":["umi1_9-L0045","umi1_9-L0050","umi1_9-L0053"]}}],"sourceReading":"私は ... 信じてあげなくて explicitly identifies her disbelief; 不貞腐れていた supplies the resulting sulky reaction.","alternative":"The current English still lets her wonder whether the sighting could be real, and preserves uncertainty about her own perception. The loss is the interpersonal history and change from prior disbelief to present doubt, not confirmation of an actual supernatural occurrence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CORRIDOR-OBSERVATION-001","kind":"WH","description":"しばらくの間だけ息を殺し means she briefly holds her breath while watching, not that she starts doing so after a while. 廊下の奥 is the far/deeper part of the corridor, not its center. WH also changes her bundle of curtains to a single curtain in this same sentence.","categories":["linguistic.mistranslation","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_9","episode":1,"rows":{"JP":[40,41],"MG":[40,41],"UP":[40,41]},"japanese":"何かの勘違いかと思ったが、しばらくの間だけ息を殺し、\nカーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。","japanesePC":"何かの勘違いかと思ったが、しばらくの間だけ息を殺し、カーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。","japanesePS3":"何かの勘違いかと思ったが、しばらくの間だけ息を殺し、\nカーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。","WH":"At first, she thought she had made some mistake, but after a while, she killed her breathing.  Grasping a curtain, she fearfully gazed into the center of the hall......","MG":"She figured she must've been imagining it, but she still held her breath.\nGrasping a curtain, she fearfully gazed down the hall......","UP":"Although she thought it was probably her eyes playing tricks on her, she killed her breathing for a brief moment,\nand, grasping a curtain, she fearfully gazed into the center of the hall......","note":"MG no after-a-while sequence and down hall repairs depth, but brief duration not explicit. UP brief moment repairs duration but center hall retains wrong depth. Curtain bundle remains reduced both. Parent separately resolving this existing parent; do not duplicate.","dispositions":{"MG":"partially_corrected","UP":"partially_corrected"},"readerRef":"umi1_9-L0040","readerRefs":{"WH":["umi1_9-L0040"],"MG":["umi1_9-L0040"],"UP":["umi1_9-L0040"]}}],"sourceReading":"She briefly holds her breath and watches the far end/depth of the corridor fearfully while carrying the curtain bundle.","alternative":"After a while could loosely mark the observation sequence, but it changes duration into delay. Center is not a contextual equivalent of the explicitly distant corridor depth. No source-independent sight-line measurement is asserted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-FAMILY-REBUTTALS-001","kind":"additional","description":"The family members repeatedly contradict or reject one another’s long statements. MG replaces both instances of denial with interruption, losing the explicit opposition to what was said. UP preserves opposed and rebuttal.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_9","episode":1,"rows":{"JP":[24,28],"MG":[24,28],"UP":[24,28]},"japanese":"食堂からは、親族たちが喧々諤々と議論する声が聞こえてくる。\n誰かが冗長に語っては、それを誰かが否定し、\nそれを長々と語ると、また別の誰かが否定する。\nそんなことの繰り返し。\n声にも不機嫌さが滲み出ているようだった。","japanesePC":"","japanesePS3":"食堂からは、親族たちが喧々諤々と議論する声が聞こえてくる。\n誰かが冗長に語っては、それを誰かが否定し、\nそれを長々と語ると、また別の誰かが否定する。\nそんなことの繰り返し。\n声にも不機嫌さが滲み出ているようだった。","WH":"","MG":"She began to hear the tumultuous voices of the family discussion coming from the dining hall.\nSomeone was speaking at great length, only to be interrupted by someone else.\nThis second person also began to speak in a very long, drawn-out fashion, until yet another person interrupted.\nThat kept on repeating.\nIt was as though their displeasure was seeping out through their voices.","UP":"From the dining hall, she began to hear the tumultuous voices of the family's discussion.\nSomeone would speak at great length, and would then be opposed by someone else.\nThat rebuttal would continue in a very long, drawn‐out fashion, until opposed by yet another person.\nThat kept on repeating.\nIt was as though their displeasure was seeping out through their voices.","note":"","dispositions":{"MG":"new_error","UP":"preserved"},"readerRef":"umi1_9-L0024","readerRefs":{"WH":[],"MG":["umi1_9-L0024"],"UP":["umi1_9-L0024"]}}],"sourceReading":"","alternative":"The tumultuous discussion and displeasure still imply conflict, but interruption alone need not reject the preceding statement; 否定 explicitly does.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-CH09-001",
+      "kind": "WH",
+      "description": "Being slightly irritated by Gohda brings Shannon down from her earlier dreamy excitement. WH says Because it had come fairly suddenly, changing the emotional cause into the suddenness of an unspecified event.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.logical_relation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_9",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              17,
+              23
+            ],
+            "MG": [
+              17,
+              23
+            ],
+            "UP": [
+              17,
+              23
+            ]
+          },
+          "japanese": "…紗音はちょっぴり呆れる。\n自分は厚意でここに手伝いに来ているのに、本来の当番の本来の仕事を当然のように押し付けるなんて。\nしかも、それを一方的に押し付けると、郷田は再び雑誌に没頭して、クロスワードパズルに浸りこむ。\n一応、年長者に対する礼儀として頭を下げてから、紗音は見回りのため退出する。\nちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。\nそれに、こんな顔を源次や嘉音には見せられない。\n心が落ち着きを取り戻すまで、少し時間がほしかったから、見回りもそう悪いものではなかったかもしれない…。",
+          "japanesePC": "ちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。",
+          "japanesePS3": "…紗音はちょっぴり呆れる。\n自分は厚意でここに手伝いに来ているのに、本来の当番の本来の仕事を当然のように押し付けるなんて。\nしかも、それを一方的に押し付けると、郷田は再び雑誌に没頭して、クロスワードパズルに浸りこむ。\n一応、年長者に対する礼儀として頭を下げてから、紗音は見回りのため退出する。\nちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。\nそれに、こんな顔を源次や嘉音には見せられない。\n心が落ち着きを取り戻すまで、少し時間がほしかったから、見回りもそう悪いものではなかったかもしれない…。",
+          "WH": "Because it had come fairly suddenly, the airy sensation that she had felt a little while ago had lessened a bit.",
+          "MG": "...Shannon was slightly disgusted.\nEven though she'd come here to help out as a favor, she was casually being forced to do the job of the person actually on duty.\nFurthermore, after one-sidedly forcing that task on her, Gohda returned to his magazine once again and became immersed in his crossword puzzle.\nShannon bowed her head as a token sign of respect for her elder, then left the room to patrol the mansion.\nThanks to her being a bit ticked off, she managed to suppress that floaty feeling she'd been having until just now.\nAnd anyway, she couldn't let Genji or Kanon see her looking like this.\nShe wanted a little time to herself until her heart calmed down, so maybe going on patrol wouldn't be so bad...",
+          "UP": "...Shannon felt a twinge of annoyance.\nDespite the fact that she had come here to help out as a favor, she was being forced to do the job of the person actually on duty as though it were natural.\nFurthermore, after one‐sidedly forcing that task on her, Gohda had once again gone back to his magazine and had become immersed in his crossword puzzle.\nFor the time being, as a sign of respect for her elder, Shannon bowed her head, and she left the room to make the rounds.\nGetting a little angry had enabled her to bring the airy sensation she had been feeling until now under control a bit.\nBesides, she couldn't show this kind of face to Genji and Kanon.\nUntil her heart was able to calm down, she wanted a little time to herself, and maybe going around the mansion wasn't such a bad way to do that...",
+          "note": "Both restore irritation as the cause of calming, rather than suddenness.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_9-L0017",
+          "readerRefs": {
+            "WH": [
+              "umi1_9-L0020"
+            ],
+            "MG": [
+              "umi1_9-L0017",
+              "umi1_9-L0020",
+              "umi1_9-L0022"
+            ],
+            "UP": [
+              "umi1_9-L0017",
+              "umi1_9-L0020",
+              "umi1_9-L0022"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "一応、年長者に対する礼儀として頭を下げてから、紗音は見回りのため退出する。ちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。",
+              "translation": "Shannon bowed her head as a token sign of respect for her elder, then left the room to patrol the mansion. Thanks to her being a bit ticked off, she managed to suppress that floaty feeling she'd been having until just now. "
+            },
+            "UP": {
+              "japanese": "一応、年長者に対する礼儀として頭を下げてから、紗音は見回りのため退出する。ちょっとカチンと来たお陰で、さっきまでのふわふわした感覚が、少し治まることができたのだった。",
+              "translation": "For the time being, as a sign of respect for her elder, Shannon bowed her head, and she left the room to make the rounds. Getting a little angry had enabled her to bring the airy sensation she had been feeling until now under control a bit."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_9-L0020"
+            ],
+            "MG": [
+              "umi1_9-L0020"
+            ],
+            "UP": [
+              "umi1_9-L0020"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "カチンと来た is getting irritated or offended, not something arriving suddenly. The preceding imposed work explains what irritates her.",
+      "alternative": "The English still conveys that the duty assignment interrupts her excitement and gives her time to settle. It nonetheless removes her annoyance as the explicit reason for the calming effect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH09-002",
+      "kind": "WH",
+      "description": "Shannon remembers Kanon saying he saw the butterfly and that she did not believe him, treating it as a mistaken sighting, after which he sulked. WH retains only that he reported seeing it, omitting her prior skeptical response and his reaction.",
+      "categories": [
+        "linguistic.omission",
+        "character.relationship_power",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_9",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              47,
+              53
+            ],
+            "MG": [
+              47,
+              53
+            ],
+            "UP": [
+              47,
+              53
+            ]
+          },
+          "japanese": "…それは、右代宮本家に仕える使用人たちの間で語り継がれる、あの怪談。\n屋敷には昼と夜とで違う主が。\n…その夜の主、ベアトリーチェが時に、輝く蝶の姿で屋敷を飛びまわるという、怪談。\n……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？\n私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。\n………まさか、…本当に……………？\n轟く雷鳴は、それに答えてはくれなかった…。",
+          "japanesePC": "……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？\n私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。",
+          "japanesePS3": "…それは、右代宮本家に仕える使用人たちの間で語り継がれる、あの怪談。\n屋敷には昼と夜とで違う主が。\n…その夜の主、ベアトリーチェが時に、輝く蝶の姿で屋敷を飛びまわるという、怪談。\n……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？\n私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。\n………まさか、…本当に……………？\n轟く雷鳴は、それに答えてはくれなかった…。",
+          "WH": "...Come to think of it, didn't Kanon-kun once say that he had seen it with his own eyes......?",
+          "MG": "...It was that ghost story...which had been passed down amongst the servants who served the Ushiromiya Head Family.\nThe mansion had two different Masters, one of the Day and one of the Night.\n...Beatrice, the Master of the night, would sometimes fly around the mansion in the form of sparkling butterflies. That was the story.\n...Come to think of it, didn't Kanon-kun once say he'd seen it with his own eyes......?\nThough he got sulky when I said he must've imagined it and refused to believe him...\n......Could it possibly...be true...?\nThe roar of the thunder gave no answer...",
+          "UP": "...It was that which had been passed down amongst the servants who served the Ushiromiya main family—that ghost story.\nIn which the mansion had different masters of the day and the night.\n...In which the master of the night, Beatrice, would sometimes fly around the mansion in the form of sparkling butterflies.\n......Come to think of it, hadn't Kanon‐kun said that he had once seen it for himself......?\nHe got sulky when I didn't believe him and told him he was just seeing things...\n.........Could it possibly...really...............?\nThe roar of the thunder gave no answer...",
+          "note": "Both restore Shannon disbelief and Kanon sulking; current speculation remains uncertain.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_9-L0045",
+          "readerRefs": {
+            "WH": [
+              "umi1_9-L0050"
+            ],
+            "MG": [
+              "umi1_9-L0045",
+              "umi1_9-L0050",
+              "umi1_9-L0053"
+            ],
+            "UP": [
+              "umi1_9-L0045",
+              "umi1_9-L0050",
+              "umi1_9-L0053"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。………まさか、…本当に……………？",
+              "translation": "...Come to think of it, didn't Kanon-kun once say he'd seen it with his own eyes......? Though he got sulky when I said he must've imagined it and refused to believe him... ......Could it possibly...be true...? "
+            },
+            "UP": {
+              "japanese": "……そう言えば、嘉音くんが前に見たことがあるなんて言ってたっけ……？私は何かの見間違いだろうと信じてあげなくて、不貞腐れていたけど…。………まさか、…本当に……………？",
+              "translation": "......Come to think of it, hadn't Kanon‐kun said that he had once seen it for himself......? He got sulky when I didn't believe him and told him he was just seeing things... .........Could it possibly...really...............?"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_9-L0050"
+            ],
+            "MG": [
+              "umi1_9-L0050"
+            ],
+            "UP": [
+              "umi1_9-L0050"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "私は ... 信じてあげなくて explicitly identifies her disbelief; 不貞腐れていた supplies the resulting sulky reaction.",
+      "alternative": "The current English still lets her wonder whether the sighting could be real, and preserves uncertainty about her own perception. The loss is the interpersonal history and change from prior disbelief to present doubt, not confirmation of an actual supernatural occurrence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CORRIDOR-OBSERVATION-001",
+      "kind": "WH",
+      "description": "しばらくの間だけ息を殺し means she briefly holds her breath while watching, not that she starts doing so after a while. 廊下の奥 is the far/deeper part of the corridor, not its center. WH also changes her bundle of curtains to a single curtain in this same sentence.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_9",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              40,
+              41
+            ],
+            "MG": [
+              40,
+              41
+            ],
+            "UP": [
+              40,
+              41
+            ]
+          },
+          "japanese": "何かの勘違いかと思ったが、しばらくの間だけ息を殺し、\nカーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。",
+          "japanesePC": "何かの勘違いかと思ったが、しばらくの間だけ息を殺し、カーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。",
+          "japanesePS3": "何かの勘違いかと思ったが、しばらくの間だけ息を殺し、\nカーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。",
+          "WH": "At first, she thought she had made some mistake, but after a while, she killed her breathing.  Grasping a curtain, she fearfully gazed into the center of the hall......",
+          "MG": "She figured she must've been imagining it, but she still held her breath.\nGrasping a curtain, she fearfully gazed down the hall......",
+          "UP": "Although she thought it was probably her eyes playing tricks on her, she killed her breathing for a brief moment,\nand, grasping a curtain, she fearfully gazed into the center of the hall......",
+          "note": "MG no after-a-while sequence and down hall repairs depth, but brief duration not explicit. UP brief moment repairs duration but center hall retains wrong depth. Curtain bundle remains reduced both. Parent separately resolving this existing parent; do not duplicate.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi1_9-L0040",
+          "readerRefs": {
+            "WH": [
+              "umi1_9-L0040"
+            ],
+            "MG": [
+              "umi1_9-L0040"
+            ],
+            "UP": [
+              "umi1_9-L0040"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "何かの勘違いかと思ったが、しばらくの間だけ息を殺し、カーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。しかし、時折轟く雷鳴が廊下を照らし出す以外には、二度とあの瞬きを見ることはできなかった。",
+              "translation": "She figured she must've been imagining it, but she still held her breath. Grasping a curtain, she fearfully gazed down the hall...... However, other than the occasional crack of thunder brightening the hallway, she was unable to glimpse any flicker again. "
+            },
+            "UP": {
+              "japanese": "何かの勘違いかと思ったが、しばらくの間だけ息を殺し、カーテンの束を抱きながら、恐る恐る廊下の奥を凝視する……。しかし、時折轟く雷鳴が廊下を照らし出す以外には、二度とあの瞬きを見ることはできなかった。",
+              "translation": "Although she thought it was probably her eyes playing tricks on her, she killed her breathing for a brief moment, and, grasping a curtain, she fearfully gazed into the center of the hall...... However, other than the occasional crack of thunder brightening the hallway, she was unable to glimpse any flicker again."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_9-L0040"
+            ],
+            "MG": [
+              "umi1_9-L0040"
+            ],
+            "UP": [
+              "umi1_9-L0040"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She briefly holds her breath and watches the far end/depth of the corridor fearfully while carrying the curtain bundle.",
+      "alternative": "After a while could loosely mark the observation sequence, but it changes duration into delay. Center is not a contextual equivalent of the explicitly distant corridor depth. No source-independent sight-line measurement is asserted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-FAMILY-REBUTTALS-001",
+      "kind": "additional",
+      "description": "The family members repeatedly contradict or reject one another’s long statements. MG replaces both instances of denial with interruption, losing the explicit opposition to what was said. UP preserves opposed and rebuttal.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_9",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              24,
+              28
+            ],
+            "MG": [
+              24,
+              28
+            ],
+            "UP": [
+              24,
+              28
+            ]
+          },
+          "japanese": "食堂からは、親族たちが喧々諤々と議論する声が聞こえてくる。\n誰かが冗長に語っては、それを誰かが否定し、\nそれを長々と語ると、また別の誰かが否定する。\nそんなことの繰り返し。\n声にも不機嫌さが滲み出ているようだった。",
+          "japanesePC": "",
+          "japanesePS3": "食堂からは、親族たちが喧々諤々と議論する声が聞こえてくる。\n誰かが冗長に語っては、それを誰かが否定し、\nそれを長々と語ると、また別の誰かが否定する。\nそんなことの繰り返し。\n声にも不機嫌さが滲み出ているようだった。",
+          "WH": "",
+          "MG": "She began to hear the tumultuous voices of the family discussion coming from the dining hall.\nSomeone was speaking at great length, only to be interrupted by someone else.\nThis second person also began to speak in a very long, drawn-out fashion, until yet another person interrupted.\nThat kept on repeating.\nIt was as though their displeasure was seeping out through their voices.",
+          "UP": "From the dining hall, she began to hear the tumultuous voices of the family's discussion.\nSomeone would speak at great length, and would then be opposed by someone else.\nThat rebuttal would continue in a very long, drawn‐out fashion, until opposed by yet another person.\nThat kept on repeating.\nIt was as though their displeasure was seeping out through their voices.",
+          "note": "",
+          "dispositions": {
+            "MG": "new_error",
+            "UP": "preserved"
+          },
+          "readerRef": "umi1_9-L0024",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_9-L0024"
+            ],
+            "UP": [
+              "umi1_9-L0024"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "食堂からは、親族たちが喧々諤々と議論する声が聞こえてくる。誰かが冗長に語っては、それを誰かが否定し、それを長々と語ると、また別の誰かが否定する。そんなことの繰り返し。\n声にも不機嫌さが滲み出ているようだった。",
+              "translation": "She began to hear the tumultuous voices of the family discussion coming from the dining hall. Someone was speaking at great length, only to be interrupted by someone else. This second person also began to speak in a very long, drawn-out fashion, until yet another person interrupted. That kept on repeating. It was as though their displeasure was seeping out through their voices. "
+            },
+            "UP": {
+              "japanese": "食堂からは、親族たちが喧々諤々と議論する声が聞こえてくる。誰かが冗長に語っては、それを誰かが否定し、それを長々と語ると、また別の誰かが否定する。そんなことの繰り返し。\n声にも不機嫌さが滲み出ているようだった。",
+              "translation": "From the dining hall, she began to hear the tumultuous voices of the family's discussion. Someone would speak at great length, and would then be opposed by someone else. That rebuttal would continue in a very long, drawn‐out fashion, until opposed by yet another person. That kept on repeating.\nIt was as though their displeasure was seeping out through their voices."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_9-L0024"
+            ],
+            "UP": [
+              "umi1_9-L0024"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "The tumultuous discussion and displeasure still imply conflict, but interruption alone need not reject the preceding statement; 否定 explicitly does.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-CH09-001": {
+      "umi1_9-L0020": {
+        "WH": [
+          "Because it had come fairly suddenly"
+        ]
+      }
+    },
+    "WH-EP01-CH09-002": {
+      "umi1_9-L0050": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Shannon's disbelief and Kanon's sulking are absent; the retained memory of his claim is not itself defective."
+        }
+      }
+    },
+    "WH-EP01-CORRIDOR-OBSERVATION-001": {
+      "umi1_9-L0040": {
+        "WH": [
+          "but after a while, she killed her breathing",
+          "Grasping a curtain",
+          "the center of the hall"
+        ],
+        "MG": [
+          "Grasping a curtain"
+        ],
+        "UP": [
+          "grasping a curtain",
+          "the center of the hall"
+        ]
+      }
+    },
+    "PAIR-EP01-FAMILY-REBUTTALS-001": {
+      "umi1_9-L0024": {
+        "MG": [
+          "interrupted by someone else",
+          "yet another person interrupted"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

@@ -1,1 +1,1891 @@
-{"findings":[{"id":"WH-EP01-CH03-001","kind":"WH","description":"Battler explains that the expected gag is: he approaches with a lecherous face, she knocks him down and protests. Without that conventional reaction, the joke has no punchline. WH changes 張ッ倒す to ‘Someone trip me’ and お約束 ... オチがつかねぇ to ‘Without your word, I can’t settle down.’ The explanation of his intended comic routine becomes dependence on a verbal assurance and a request to trip him.","categories":["linguistic.idiom_calque","linguistic.wordplay","character.motivation_emotion"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[101,106],"MG":[101,106],"UP":[101,106]},"japanese":"「俺がイヤらしい顔で迫る！\n張ッ倒す！！\nイヤ〜ン、エッチ！\nそういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！\nこう、バチンっと！\nバチンっとぉおぉ〜！！」","japanesePC":"「…い、今時、こんな献身美徳な子がいるとは…。軽い眩暈すら覚えるぜ。……でも駄目だ！　ダメなんだぁああぁ！！　俺がエロい顔で迫る！　張ッ倒す！！　イヤ～ン、エッチ！　そういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！　こう、バチンっと！　バチンっとぉおぉ～！！」","japanesePS3":"「俺がイヤらしい顔で迫る！\n張ッ倒す！！\nイヤ〜ン、エッチ！\nそういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！\nこう、バチンっと！\nバチンっとぉおぉ〜！！」","WH":"\"...I-in these days, to think that there's a dedicated and virtuous girl like this...  Getting... giddy again!...  ......But, no!  NooOoo!!  I'm coming at her with a perverted face again!  Someone trip me!!  No~oo, pervert!  Without your word, I can't settle down!  Please, I beg you, smack me!  Like this, smack!  Hit meeee~!!\"","MG":"I'm coming at you with a perverted face again!\nKnock me down!!\nLook out, pervert on the loose!\nThis gag can't end until you deliver the punch line, so slap me!\nPlease!\nHit meeee!!\"","UP":"\"I come at you with a perverted face!\nYou smack me down!!\n\"No~oo, pervert!\"\nYou gotta complete the joke or it doesn't work! Please, it's a polite request, smack me!\nLike this, smack!\nSmaaa~ck!!\"","note":"Both preserve knocking/smacking Battler down and completing the gag/punchline rather than original WH tripping and verbal-assurance reading.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0101","readerRefs":{"WH":["umi1_3-L0097","umi1_3-L0101"],"MG":["umi1_3-L0101"],"UP":["umi1_3-L0101"]}}],"sourceReading":"お約束 denotes the conventional comedy pattern already described in the preceding narration; オチ is the gag’s payoff, and 張っ倒す is knocking someone down with a blow.","alternative":"He is desperate for a slap, which both versions preserve later. That does not recover why he asks: the English removes the conventional joke structure rather than merely using a different punchline idiom.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-002","kind":"WH","description":"Genji dates the exhibition to April of the year before last and says Kinzo had previously ordered the artist to paint it. WH dates the commission itself to that April and then says it was displayed. It collapses the prior commission into the exhibition date.","categories":["linguistic.tense_aspect","world.space_time_continuity"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[230,235],"MG":[230,235],"UP":[230,235]},"japanese":"「確か、\n……僕の記憶が正しければ、一昨年辺りだったと思うよ」\n「…………左様でございます。\n一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます」\n「あの祖父さまがねぇ。\nわざわざ描かせてか…」","japanesePC":"「…………左様でございます。一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます。」","japanesePS3":"「確か、\n……僕の記憶が正しければ、一昨年辺りだったと思うよ」\n「…………左様でございます。\n一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます」\n「あの祖父さまがねぇ。\nわざわざ描かせてか…」","WH":"\"............You are correct.  In April of the year before last, as it had been arranged, the Master ordered an artist to paint it and it was put on display over there.\"","MG":"\"Well,\n......if my memory doesn't fail me, it was put on display sometime around the year before last.\"\n\".........You are correct, sir.\nIn April of the year before last, the Master put it on display there, having previously ordered a painter to create it.\"\n\"Grandfather did that?\nSo, he paid to have it painted just for him, huh...?\"","UP":"\"I think,\n......if my memory doesn't fail me, it was around the year before last.\"\n\"............You are correct.\nIn April of the year before last, the Master had this painting put on display, which he had instructed an artist to paint for him some time prior.\"\n\"Grandfather did that?\nSo, he went out of his way to have it drawn...\"","note":"Both date exhibition to April of the year before last and explicitly distinguish the earlier commissioning of the painter.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0230","readerRefs":{"WH":["umi1_3-L0232"],"MG":["umi1_3-L0230","umi1_3-L0232","umi1_3-L0234"],"UP":["umi1_3-L0230","umi1_3-L0232","umi1_3-L0234"]}}],"sourceReading":"一昨年の４月に modifies 展示なされた; 兼ねてより ... 描かせていた describes a painting already commissioned and produced.","alternative":"‘As it had been arranged’ could suggest earlier planning, but the English clause still puts ‘the Master ordered an artist to paint it’ inside the April event. Prior commissioning is not retained explicitly.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-003","kind":"WH","description":"Battler speculates that a parent invented the forest-witch story to keep children safe: perhaps Grandmother, or none other than Grandfather. WH says ‘anybody else other than Grandfather.’ It excludes the very person Japanese explicitly offers as a possible originator.","categories":["linguistic.mistranslation","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[269,272],"MG":[269,272],"UP":[269,272]},"japanese":"…そんな危険な森に、子供が遊びに行ったら大変なことになるかもしれない。\nそう思った親の誰か。\n…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。\nさもなくば、はるか大昔からこの島に語り継がれているのか。","japanesePC":"そう思った親の誰か。…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。","japanesePS3":"…そんな危険な森に、子供が遊びに行ったら大変なことになるかもしれない。\nそう思った親の誰か。\n…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。\nさもなくば、はるか大昔からこの島に語り継がれているのか。","WH":"Someone's parents must have thought so.  ...Maybe my Grandmother, or possibly anybody else other than Grandfather might have said that.","MG":"...If children were to go play in such a dangerous forest, something terrible might happen.\nSomeone's parents must have thought so.\n...Maybe Grandmother first said it, or maybe it was Grandfather himself.\nOr perhaps the story's been passed down on this island since ancient times.","UP":"...If a child were to go play in that dangerous forest, something terrible might happen.\nSome parent must have had that thought.\n...Maybe my Grandmother, or possibly, the man himself, my grandfather might have said it.\nOr maybe it was a story handed down on this island from long, long ago.","note":"Both explicitly include Grandfather himself as possible originator rather than excluding him.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0269","readerRefs":{"WH":["umi1_3-L0269"],"MG":["umi1_3-L0269"],"UP":["umi1_3-L0269"]}}],"sourceReading":"他でもない、祖父さま means none other than Grandfather, still under かもしれない.","alternative":"The phrase contains 他 and a negation, but they emphatically identify Grandfather rather than exclude him. The later alternative that the story was handed down long ago remains a distinct possibility in both texts.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-004","kind":"WH","description":"After describing Kinzo’s belief that the witch exists, Jessica ends with a disgusted dismissal: it is creepy or revolting. WH replaces this with ‘I’m sorry, but she just doesn’t exist.’ It removes her emotional reaction and supplies a direct categorical denial in its place.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[285,290],"MG":[285,290],"UP":[285,290]},"japanese":"「……祖父さまの妄想の中の魔女だよ。\n…この絵を掲げた頃から現実と幻想の区別が付かなくなり始めた」\n「……私たちにとっては想像の中の魔女に過ぎないけど、…祖父さまにとっては、彼女はこの島に“い”る存在。\n……“い”る。\nだから、それを理解することができない私たちにもわかるよう、あの絵を描かせたって言うんだけど」\n「………はんッ、気持ち悪いったらありゃしないぜ」","japanesePC":"………はんッ、気持ち悪いったらありゃしないぜ。」","japanesePS3":"「……祖父さまの妄想の中の魔女だよ。\n…この絵を掲げた頃から現実と幻想の区別が付かなくなり始めた」\n「……私たちにとっては想像の中の魔女に過ぎないけど、…祖父さまにとっては、彼女はこの島に“い”る存在。\n……“い”る。\nだから、それを理解することができない私たちにもわかるよう、あの絵を描かせたって言うんだけど」\n「………はんッ、気持ち悪いったらありゃしないぜ」","WH":".........And I'm sorry, but she just doesn't exist.\"","MG":"\"...She's the witch from Grandfather's delusions.\n...Ever since he had this picture hanged, he's been having a harder and harder time telling the difference between truth and fantasy.\n...To us, she's just a witch that exists in Grandfather's mind, ...but to him, she's a being that \"exists\" on this island.\n...\"Exists\".\nHe says he had that painting made because the rest of us would be incapable of understanding otherwise.\n......Hmph, the whole thing's creepy as hell.\"","UP":"\"......It's the witch from Grandfather's delusions.\n...Ever since he had this picture hung up, he's been losing the distinction between fantasy and reality.\"\n\"......To us, it's no more than the witch from his imagination, but to Grandfather, she's a being who \"exists\" on this island.\n......‘Exists’.\nThat's why he says he had that picture painted—so that we'd understand.\"\n\".........Hmpf, creeps the hell outta me.\"","note":"Both preserve Jessica disgust/creepiness rather than replacing it with categorical existence denial.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0285","readerRefs":{"WH":["umi1_3-L0290"],"MG":["umi1_3-L0285","umi1_3-L0287","umi1_3-L0290"],"UP":["umi1_3-L0285","umi1_3-L0287","umi1_3-L0290"]}}],"sourceReading":"気持ち悪いったらありゃしない is emphatic disgust, not a statement of existence or an apology.","alternative":"Her preceding claim that this is a witch of imagination already communicates skepticism; a denial is consistent with that stance. The local defect is substituting abstract denial for the particular disgusted outburst, not inventing all of her skepticism or proving a mystery exclusion.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-005","kind":"WH","description":"Battler remembers Natsuhi seldom joining the children, looking stern and discussing difficult matters with the adults. WH says she gave the impression she was ‘at odds with the other parents,’ changing the content of adult discussion into interpersonal conflict in his childhood memory.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[377,380],"MG":[377,380],"UP":[377,380]},"japanese":"…こう言っちゃ悪いが、嫌いってわけでもないが、特別好きでもない伯母さんだ。\nあまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。\n…実際、あまり言葉を交わしたことがなく、今もどう掴みを取ろうかだいぶ迷ったのだ。\n…甲斐なく外してしまったがなー。","japanesePC":"あまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。","japanesePS3":"…こう言っちゃ悪いが、嫌いってわけでもないが、特別好きでもない伯母さんだ。\nあまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。\n…実際、あまり言葉を交わしたことがなく、今もどう掴みを取ろうかだいぶ迷ったのだ。\n…甲斐なく外してしまったがなー。","WH":"She never got into our kids' circle, and she always looked difficult to get along with.  And it didn't help that she gave the impression that she was at odds with the other parents.","MG":"...It feels bad to say it like this, but while I didn't exactly dislike her, I didn't particularly like her either.\nShe hardly ever spoke with us kids, and all my memories of her involve her talking to the adults about complicated things, with a scary look on her face.\n...In fact, since we hardly ever exchange words, I spent a long time trying to figure out how I should approach her.\n...Though my efforts seem to have ended in failure.","UP":"...It feels bad to say it like this, but—not that I hated her—but I didn't particularly like her.\nShe never got into our kids' circle, and my only impression of her was as someone who always talked about complicated stuff with my parents while having a crabby expression on her face.\n...The fact is, that having barely ever exchanged words, I hesitated a lot even just now about how to approach her.\n...Aaand it was pretty much a flop.","note":"Both preserve childhood memory of Natsuhi discussing complicated matters with adults, rather than replacing it with being at odds with parents.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0377","readerRefs":{"WH":["umi1_3-L0377"],"MG":["umi1_3-L0377","umi1_3-L0379"],"UP":["umi1_3-L0377","umi1_3-L0379"]}}],"sourceReading":"難しい話をしている is discussing difficult or complicated matters; it does not state she was disagreeing with the people talking.","alternative":"The present chapter and earlier scene show genuine adult hostility. That later contextual knowledge does not license replacing the specific earlier memory of difficult discussion with conflict.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-006","kind":"WH","description":"Kinzo challenges the maxim that knocking opens doors and says the fool who taught it was crucified, then threatens Krauss with the same fate. WH says ‘I’ll crucify the imbecile,’ turning the completed crucifixion reference into another prospective threat. It loses the historical barb while preserving the threat to Krauss.","categories":["linguistic.tense_aspect","world.literary_reference","character.irony_performance"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[414,416],"MG":[414,416],"UP":[414,416]},"japanese":"叩けば扉は開かれると誰が教えた！\nその馬鹿者は磔にしたぞッ！！\nお前もそうされたいのかッ！！」","japanesePC":"叩けば扉は開かれると誰が教えた！　その馬鹿者は磔にしたぞッ！！　お前もそうされたいのかッ！！」","japanesePS3":"叩けば扉は開かれると誰が教えた！\nその馬鹿者は磔にしたぞッ！！\nお前もそうされたいのかッ！！」","WH":"Who told you the door would open if you knocked!?  I'll crucify the imbecile!!  Do you wish to be as well!!??\"","MG":"Who told you the door would be opened if you but knocked?!\nI'll crucify the imbecile!!\nDo you wish to suffer the same fate?!!\"","UP":"Who taught you that doors shall be opened unto you if you knock?!\nThey crucified that imbecile!!\nDo you wish the same upon yourself?!!\"","note":"MG I’ll crucify retains future threat in place of completed allusion; UP They crucified preserves past event and subsequent same-fate threat.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_3-L0412","readerRefs":{"WH":["umi1_3-L0412"],"MG":["umi1_3-L0412"],"UP":["umi1_3-L0412"]}}],"sourceReading":"磔にしたぞ is completed action. The knock-and-open saying also matches the teaching in Matthew 7:7; linking its teacher to crucifixion is an allusion inferred from the juxtaposition, not an independently explicit naming of Jesus in Japanese.","alternative":"The first-person threat fits Kinzo’s rage, but the source’s completed tense and the preceding quoted maxim give the clause a different referential function. No literal claim that Kinzo historically crucified Jesus is adopted by the audit.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-007","kind":"WH","description":"After the water-and-sugar preparation, Genji adds the distinctive flavoring Kinzo likes and adjusts the taste. WH says ‘It improved the original flavor Kinzo liked,’ omitting the separate addition and turning a preparation step into a claim about improvement.","categories":["linguistic.omission","world.world_fact"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[545,551],"MG":[545,551],"UP":[545,551]},"japanese":"……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。\n…それはまるで水と化学反応を起こしたかのような奇妙な錯覚を与え、ますますに酒だという認識を遠のかせた。\nそれに、金蔵が好む独自のフレーバーを加え、味を調える。\n…レシピはない。\n飲んだ金蔵の一喜一憂によってだけ出来具合を計り、数十年かけて身につけたものである。","japanesePC":"それに、金蔵が好む独自のフレーバーを加え、味を調える。","japanesePS3":"……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。\n…それはまるで水と化学反応を起こしたかのような奇妙な錯覚を与え、ますますに酒だという認識を遠のかせた。\nそれに、金蔵が好む独自のフレーバーを加え、味を調える。\n…レシピはない。\n飲んだ金蔵の一喜一憂によってだけ出来具合を計り、数十年かけて身につけたものである。","WH":"It improved the original flavor Kinzo liked and adjusted the taste.","MG":"......He poured a little into the glass.\nThen, he placed a cube of sugar in a strangely shaped spoon and poured water from a pitcher over it.\nStrangely, when the transparent water was poured, the dark green liquid turned a cloudy white.\n...It was a strange optical illusion, as though the water had caused a chemical reaction and made the drink become even more unrecognizable as liquor.\nThen, Genji added original flavors Kinzo loved, fine-tuning its taste.\n...There was no recipe.\nIts success was measured only by Kinzo's mood swings when he drank it, and it had taken Genji many decades to learn how to do it right.","UP":"......He poured a small quantity of the spirit into the glass,\nplaced a cube of sugar in a strangely shaped spoon, and then poured water from a pitcher over it.\nStrangely, when the colorless water was poured into it, the dark green liquid turned a cloudy white.\n...It created the strange visual illusion that the water had caused a chemical reaction, which made it all the more difficult to perceive the concoction as liquor.\nTo this, he added an original flavoring that Kinzo liked, and fine‐tuned the taste.\n...There was no recipe.\nIts success was measured only by Kinzo's mood swing when he drank it, and he had learned how to make it only after many decades.","note":"Both explicitly add Kinzo preferred custom flavoring and then adjust taste, rather than saying it improves the original flavor.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0545","readerRefs":{"WH":["umi1_3-L0549"],"MG":["umi1_3-L0545","umi1_3-L0547","umi1_3-L0549"],"UP":["umi1_3-L0545","umi1_3-L0547","umi1_3-L0549"]}}],"sourceReading":"それに ... フレーバーを加え is an addition to the prepared drink; 独自 describes a distinctive or custom flavor, not merely the original flavor being improved.","alternative":"‘Flavor’ could loosely mean taste, but 加え and the sequential recipe specify adding something. No particular ingredient, toxicity or pharmacological effect is identified by the source, so none is inferred.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-008","kind":"WH","description":"Genji first inclines the glass as if tasting, then throws back the remaining drink. WH says ‘After that, he agitated it,’ making him shake or stir it rather than drink it down. It interrupts the intimate sharing of the last mouthful between Kinzo and Genji.","categories":["linguistic.mistranslation","world.world_fact","character.relationship_power"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[560,571],"MG":[560,571],"UP":[560,571]},"japanese":"すると金蔵は窓の外を見たまま、グラスだけを突き出した。\n中身はほんの一口分ほど残っている。\nそれは源次の持つ盆に載せようという仕草ではなく、源次にグラスを譲ろうとするような仕草だった。\n「……飲め。\n…我が友よ」\n「…………………勿体無いお言葉です」\n「私とお前の仲に儀礼はいらぬ。\n……飲め。\n友よ」\n「……………いただきます」\n源次はうやうやしくグラスを受け取ると、舐めるようにグラスをわずかに傾ける。\nそれから、くっと煽った。","japanesePC":"それから、くっと煽った。","japanesePS3":"すると金蔵は窓の外を見たまま、グラスだけを突き出した。\n中身はほんの一口分ほど残っている。\nそれは源次の持つ盆に載せようという仕草ではなく、源次にグラスを譲ろうとするような仕草だった。\n「……飲め。\n…我が友よ」\n「…………………勿体無いお言葉です」\n「私とお前の仲に儀礼はいらぬ。\n……飲め。\n友よ」\n「……………いただきます」\n源次はうやうやしくグラスを受け取ると、舐めるようにグラスをわずかに傾ける。\nそれから、くっと煽った。","WH":"After that, he agitated it.","MG":"Then, without averting his eyes from the window, Kinzo held out his glass.\nThere was only a mouthful remaining.\nIt was not a gesture intended to set it upon the tray, but a motion to hand the glass over to Genji.\n\"......Drink,\n...my friend.\"\n\"...............Your words are too kind for me.\"\n\"No need for ceremony between us.\n......Drink,\nmy friend.\"\n\".........Thank you.\"\nGenji respectfully received the glass and inclined it a little to taste its contents.\nAfter that, he gulped it down.","UP":"As he did, Kinzo stuck out just the glass, his gaze still directed at the world outside the window.\nThere was just a mouthful remaining.\nIt was not a gesture intended to set it upon the tray, as Genji expected, but was a motion to hand the glass over to Genji.\n\"......Drink it.\n...My friend.\"\n\".....................That is more than I deserve.\"\n\"No need for ceremony between us.\n......Drink it.\nFriend.\"\n\"...............Thank you.\"\nGenji respectfully received the glass and inclined it a little to taste its contents.\nThen, he downed it in one gulp.","note":"Both have Genji drink/down the remainder after tasting, rather than agitating it.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0560","readerRefs":{"WH":["umi1_3-L0570"],"MG":["umi1_3-L0560","umi1_3-L0563","umi1_3-L0565","umi1_3-L0566","umi1_3-L0569","umi1_3-L0570"],"UP":["umi1_3-L0560","umi1_3-L0563","umi1_3-L0565","umi1_3-L0566","umi1_3-L0569","umi1_3-L0570"]}}],"sourceReading":"くっと煽った in the drinking sequence describes tossing back the drink, not stirring the glass.","alternative":"煽る can describe other physical motions, but the glass’s remaining mouthful, Kinzo’s invitation to drink and the tasting motion fix the drinking sense here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-009","kind":"WH","description":"Kinzo explains that Moses drew the sole miracle among an astronomical number of roulette outcomes. WH says he acted ‘instead of betting on incalculable odds’ and found a miracle ‘within the eyes of many.’ The enormous product is misread as an avoided wager, and roulette 目 becomes eyes rather than possible results. The explanation no longer clearly links a singular winning outcome, huge risk and miracle-working luck.","categories":["linguistic.mistranslation","linguistic.logical_relation","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[635,646],"MG":[635,646],"UP":[635,646]},"japanese":"「神話に登場する数々の奇跡は天文学的リスクに奇跡的な低確率を得て成就した驚愕すべき魔力の結晶なのだと言える！」\n「モーゼが海を割ったのは神の奇跡ではない、\n蹂躙の秤に載せられ、軍勢によって紅海に追い詰められた絶体絶命のリスクが奇跡の魔力を生んだのだ！\n同じことが同じ規模で繰り返されようとも、再び海が割れることはないだろう」\n「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」\n「しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！\nもしも私にその魔力があるならば！\n私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」","japanesePC":"なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ。その天文学的確率に勝利できる力！！　そう、奇跡を掴み取る運気は即ち魔力なのだ！！　強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！　魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！　しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！　もしも私にその魔力があるならば！　私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」","japanesePS3":"「神話に登場する数々の奇跡は天文学的リスクに奇跡的な低確率を得て成就した驚愕すべき魔力の結晶なのだと言える！」\n「モーゼが海を割ったのは神の奇跡ではない、\n蹂躙の秤に載せられ、軍勢によって紅海に追い詰められた絶体絶命のリスクが奇跡の魔力を生んだのだ！\n同じことが同じ規模で繰り返されようとも、再び海が割れることはないだろう」\n「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」\n「しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！\nもしも私にその魔力があるならば！\n私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」","WH":"That is because Moses, instead of betting on incalculable odds in the roulette of those with power, managed to spectacularly draw to himself the single miracle carved within the eyes of many.  That power that can triumph over astronomical odds!!  Yes, magical power is that fortune through which miracles are grasped!!  To obtain this mighty magic power, one must face the risk of despair!!  Those who possess no magical power call that desperation rather than a bet!\nHowever, people who truly do possess magic power can grasp hold of that miracle and make the enigma come into being!!  And if that power exists within me...!  I'll seize that miracle!  I'll have a chance at making the wish I devoted my life towards come true!!\"","MG":"\"Many miracles that happened in myth might be called the crystallization of shocking magic power, with a low probability of occurance and astronomical risk!\nThat Moses parted the waters of the sea was not a miracle of God—\nthe risk of that desperate situation, cornered by soldiers on the Red Sea's shores, weighed upon the scales of slaughter and gave birth to that miraculous magic power.\nIf the same thing occurred again on the same scale, the sea would surely fail to part.\"\n\"After all, Moses was able to magnificently summon a miracle engraved on but one of the countless, enumerable results on the roulette of those with power.\nThat is the force that can triumph over astronomical odds!!\nIndeed, good fortune that can grasp miracles is magical power itself!!\nTo obtain this mighty power, one must face the risk of despair!!\nThose who possess no magical power may call that desperation rather than a bet!\"\n\"However, people who truly do possess magic power can grasp hold of that miracle and make the enigma come into being!!\nAnd if that power exists within me...!\nI'll seize that miracle! I'll have a chance at making the wish I devoted my life towards come true!!\"","UP":"\"All the various miracles that appear in myth can be called crystals of astonishing magic power, obtained through miraculously low probabilities and astronomical risks!\"\n\"That Moses parted the sea was no miracle of God's—\nit was that utterly desperate risk, weighed upon the scales of oppression, of being cornered by soldiers on the Red Sea's shores, which gave birth to miraculous magic power!\nEven if the same thing occurs again, on the same scope, the sea will no doubt not part.\"\n\"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than asougi (10⁵⁶) and nayuta (10⁶⁰) multiplied together.\"\n\"The power to triumph over astronomical odds!!\nYes, magical power is, in other words, having the luck to grasp miracles!!\nTo obtain great magical power, one must bear a risk that is hopelessly great!!\nThose who possess no magic would call this not a bet, but pure desperation!\"\n\"However, those who truly do possess magical power can grasp hold of that miracle and make the enigma come into being!!\nAnd if that power exists within me!\nI will seize that miracle, I will be able to make the wish I devoted my life towards come true!!\"","note":"Both restore roulette outcomes and singular miracle, no eyes phrase or instead-of-betting contradiction. MG numeric specificity separately recorded.","dispositions":{"MG":"core_error_corrected_with_separate_undertranslation","UP":"corrected"},"readerRef":"umi1_3-L0635","readerRefs":{"WH":["umi1_3-L0639","umi1_3-L0640","umi1_3-L0644"],"MG":["umi1_3-L0635","umi1_3-L0636","umi1_3-L0639","umi1_3-L0640","umi1_3-L0644"],"UP":["umi1_3-L0635","umi1_3-L0636","umi1_3-L0639","umi1_3-L0640","umi1_3-L0644"]}}],"sourceReading":"阿僧祇、那由他を掛けたよりも多く counts an immense number of possible 目; 掛けた belongs to multiplying the large quantities. ひとつだけ刻まれた奇跡 is the sole miracle-result among them.","alternative":"The following English lines do preserve defeating astronomical odds and taking great risks, so the whole doctrine is not erased. But ‘instead of betting’ contradicts the illustrative logic, and the eyes phrase fails to express the roulette outcomes that make it intelligible.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-010","kind":"WH","description":"Kinzo is prostrate on the floor and claws at the floor with both hands. WH has him fold onto a bed and tear it. It replaces the location and the surface of his desperate action, introducing a bed into this moment in the study.","categories":["linguistic.mistranslation","world.space_time_continuity","character.motivation_emotion"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[664,666],"MG":[664,666],"UP":[664,666]},"japanese":"……世迷言の如き怒鳴り声は、いつしか絶叫になり、…そして慟哭になっていた。\n金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。\n源次は掛ける言葉もなく、慟哭する主を見下ろしているしかなかった…。","japanesePC":"金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。","japanesePS3":"……世迷言の如き怒鳴り声は、いつしか絶叫になり、…そして慟哭になっていた。\n金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。\n源次は掛ける言葉もなく、慟哭する主を見下ろしているしかなかった…。","WH":"Kinzo folded over onto the bed, and tore it with both hands.","MG":"......His nonsensical yells became a scream...and then a wail.\nKinzo slumped to the floor, tearing at it with both hands.\nGenji had no choice but to wordlessly watch over his master's lamentations...","UP":"......His nonsensical yells segued into a scream, ...and then into a wail.\nKinzo crumpled onto the floor, and clawed at it with both hands.\nGenji had no choice but to wordlessly watch over his master's lament...","note":"Both have Kinzo collapse onto floor and claw it, not a bed.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0664","readerRefs":{"WH":["umi1_3-L0664"],"MG":["umi1_3-L0664"],"UP":["umi1_3-L0664"]}}],"sourceReading":"床の上 and 両手で床 refer to the floor; the source repeats the surface in both clauses.","alternative":"床 can mean a sleeping place in other expressions, but the paired 床の上に伏し / 床を掻き毟る in this study scene gives no bed. An unseen furniture asset would not by itself change the written action.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH03-011","kind":"WH","description":"Battler contrasts lacking energy with being in a bad mood: the former could suggest serious illness, while the latter at least shows Kinzo’s mind or spirit remains firm. WH instead says ‘if he’s not healthy, and his mood is bad’ it proves he is ‘still hanging on.’ This removes the contrast and shifts the immediate inference from mental firmness to continued endurance despite illness.","categories":["linguistic.logical_relation","character.knowledge_boundary"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[696,702],"MG":[696,702],"UP":[696,702]},"japanese":"「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？\n元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ」\n「お祖父さまは特に強い気力をお持ちだからね。\n…でも、体が必ずしもそれに伴えるとは限らないよ。\n去年からずっと、余命３ヶ月って言われ続けてる」\n「…最初の診断が正しいなら、お祖父さまは気力だけで永らえてるってことになる。\n……気遣ってあげないといけないよ」","japanesePC":"「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？　元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ。」","japanesePS3":"「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？\n元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ」\n「お祖父さまは特に強い気力をお持ちだからね。\n…でも、体が必ずしもそれに伴えるとは限らないよ。\n去年からずっと、余命３ヶ月って言われ続けてる」\n「…最初の診断が正しいなら、お祖父さまは気力だけで永らえてるってことになる。\n……気遣ってあげないといけないよ」","WH":"\"......His disease can't be that bad, can it, with that kinda temper?  I mean, if he's not healthy, and his mood is bad, at least it's proof he's still hanging on.\"","MG":"\"...If he's as cranky as they make him sound, he can't be that terribly sick, right?\nI mean, they're saying he's in a bad mood, not that he's got no energy, which at least proves he's got his wits about him.\"\n\"It's because Grandfather has especially strong willpower.\n...However, that doesn't necessarily mean his body will be able to keep up.\nSince last year, they keep saying that he has three months left.\n...If the initial diagnosis was correct, Grandfather has been prolonging his life by willpower alone.\n......It's right for us to worry about him.\"","UP":"\"......His condition can't be that bad, can it, with that kinda temper?\nI mean, if they were saying he's not feeling well that'd be one thing, but if it's his mood that's bad, at least it's proof he's got some fight in him.\"\n\"Well, Grandfather does have especially strong willpower.\n...But, it doesn't mean that his body will always follow that.\nSince last year, they keep saying that he has three months left.\"\n\"...If the initial diagnosis was correct, Grandfather has been prolonging his life by willpower alone.\n......We have to be concerned for him.\"","note":"Both contrast low energy/illness with bad mood, preserving evidence of mental or spirited firmness and George qualification about bodily health.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_3-L0696","readerRefs":{"WH":["umi1_3-L0696"],"MG":["umi1_3-L0696","umi1_3-L0698","umi1_3-L0701"],"UP":["umi1_3-L0696","umi1_3-L0698","umi1_3-L0701"]}}],"sourceReading":"元気がないってんならともかく sets a contrast: if he lacked energy, that would be different. 気はしっかりしてる concerns mental or spirited firmness, and George responds by distinguishing strong will from physical condition.","alternative":"‘Still hanging on’ can imply spirited endurance and partly fit George’s reply. It does not recover the source’s explicit contrast; the English conjunction joins the two states the Japanese separates.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-SHANNON-IBIS-001","kind":"additional","description":"Battler jokes that a girl like Shannon should be protected before the crested ibis (トキより先に), comparing her unusual self-sacrificing disposition to a protected bird. / Needs some urgent protection removes the named bird and the comparative conservation joke. / Needs some urgent protection removes the same comparison.","categories":["linguistic.omission","world.culture_history","linguistic.wordplay"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[95,96],"MG":[95,96],"UP":[95,96]},"japanese":"もちろん触られたくはないのだが…、客人がそれを望むなら何とか応えようという自己犠牲精神。\n…こんな子、トキより先に保護すべきだぞ…。","japanesePC":"","japanesePS3":"もちろん触られたくはないのだが…、客人がそれを望むなら何とか応えようという自己犠牲精神。\n…こんな子、トキより先に保護すべきだぞ…。","WH":"","MG":"Of course she didn't want her breasts touched, ...but if a guest so desired, she was prepared to sacrifice herself to suit their wants.\n...A girl like this needs some urgent protection...","UP":"Of course she didn't want her breasts touched, but...if a guest so desired, she intended to sacrifice her own needs in an effort to accommodate them.\n...A girl like this needs some urgent protection...!","note":"","dispositions":{"MG":"shared_error","UP":"shared_error"},"readerRef":"umi1_3-L0095","readerRefs":{"WH":[],"MG":["umi1_3-L0095"],"UP":["umi1_3-L0095"]}}],"sourceReading":"Battler jokes that a girl like Shannon should be protected before the crested ibis (トキより先に), comparing her unusual self-sacrificing disposition to a protected bird.","alternative":"Urgent protection preserves the basic need to protect her, but not the explicitly named comparison or its humorous exaggeration. No endangered-status/date claim is required for this source-bound omission verdict.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-FOREST-BARRIER-001","kind":"additional","description":"Forests, like seas, geographically isolated cultures from one another; they were oceans on land. / Forests were geographically separated from civilization turns a barrier separating cultures into the forest itself being apart from civilization. / Geographically separating one culture from another preserves the barrier function.","categories":["linguistic.mistranslation","linguistic.logical_relation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[264,268],"MG":[264,268],"UP":[264,268]},"japanese":"現在でこそ、森というと憩いのイメージを感じるが、\n文明の光が夜を駆逐するまでの前時代の人類にとって、森は海同様に文化を地理的に隔離する、地上の海同然だったのである。\n海に出る漁師たちが、専門的な知識を有してなお命を脅かされることもあるように。\n森に出る猟師たちにも専門的な知識が求められ、\n同じく命を脅かされることもあったのだ。","japanesePC":"","japanesePS3":"現在でこそ、森というと憩いのイメージを感じるが、\n文明の光が夜を駆逐するまでの前時代の人類にとって、森は海同様に文化を地理的に隔離する、地上の海同然だったのである。\n海に出る漁師たちが、専門的な知識を有してなお命を脅かされることもあるように。\n森に出る猟師たちにも専門的な知識が求められ、\n同じく命を脅かされることもあったのだ。","WH":"","MG":"Nowadays, most people see a forest as a peaceful place,\nbut to the people of bygone eras, before the light of civilization drove out the night, forests were as geographically separated from civilization as the sea.\nThey were oceans above the ground.\nFishermen who go out into the ocean are putting their lives at risk, despite their technical knowledge...\nIn the same way, hunters who go out to the forest are in danger, despite having specialized knowledge of their own.","UP":"Nowadays, most people see a forest as a peaceful place,\nbut to the people of bygone eras, before the light of civilization drove out the night, forests were like oceans on land, geographically separating one culture from another.\nJust as fishermen who go out into the ocean occasionally have their lives put in danger despite their technical knowledge...\n...technical knowledge was also demanded of hunters who went out into the forest,\nand their lives were occasionally put in danger just the same.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi1_3-L0264","readerRefs":{"WH":[],"MG":["umi1_3-L0264","umi1_3-L0266"],"UP":["umi1_3-L0264","umi1_3-L0266"]}}],"sourceReading":"Forests, like seas, geographically isolated cultures from one another; they were oceans on land.","alternative":"Both still depict dangerous wilderness, but the grammatical relation in 文化を地理的に隔離する is cultures being isolated by forests, not forests being isolated from civilization. No separate historical-fact correction or puzzle consequence claimed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-BEATRICE-MEMORY-001","kind":"additional","description":"Prompted by George, Battler feels he may indeed remember being told that name when very small (教えられた気もする). / Was sure I recalled hearing a name like that makes his recollection expressly certain rather than a tentative sense of memory. / Did vaguely remember retains the weak recollection.","categories":["linguistic.overinterpretation","character.knowledge_boundary"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[279,284],"MG":[279,284],"UP":[279,284]},"japanese":"ベアトリーチェ、\n…か。\n………兄貴に言われて記憶を探ると、確かにそんな名前だとだいぶ小さい頃に教えられた気もする。\n「…なるほどなぁ。\nしかし、あの魔女伝説の魔女に、ベアトリーチェなんてオシャレな名前が付いてたとは、とんと忘れてたぜ。\n……祖父さまめ、孫たちが信じないもんだから、わざわざ絵に描きやがったかぁ？」","japanesePC":"","japanesePS3":"ベアトリーチェ、\n…か。\n………兄貴に言われて記憶を探ると、確かにそんな名前だとだいぶ小さい頃に教えられた気もする。\n「…なるほどなぁ。\nしかし、あの魔女伝説の魔女に、ベアトリーチェなんてオシャレな名前が付いてたとは、とんと忘れてたぜ。\n……祖父さまめ、孫たちが信じないもんだから、わざわざ絵に描きやがったかぁ？」","WH":"","MG":"So, ...Beatrice,\nhuh?\n.........When Aniki mentioned it, I searched my memory and was sure I recalled hearing a name like that when I was little.\n\"...I see.\nStill, I totally forgot that the witch in that legend had an elegant name like Beatrice.\n......So, did Grandfather go out of his way to have a portrait made, just because we grandchildren didn't believe the story?\"","UP":"Beatrice,\n...huh.\n.........As I searched my memory prompted by Aniki, I did vaguely remember being told that was her name, when I was very small.\n\"...Riiight.\nStill, I completely forgot that the witch of that legend had an elegant name like Beatrice.\n......Goddamn, don't tell me Grandfather went out of his way to have her depicted in this painting just because us grandchildren refused to believe him?\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi1_3-L0279","readerRefs":{"WH":[],"MG":["umi1_3-L0279","umi1_3-L0282"],"UP":["umi1_3-L0279","umi1_3-L0282"]}}],"sourceReading":"Prompted by George, Battler feels he may indeed remember being told that name when very small (教えられた気もする).","alternative":"MG a name like that still qualifies the exact name, and next line says he had forgotten it. Neither restores uncertainty about whether he actually recalls the childhood naming. No specific identity or solution inference consequence established.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-INCIPIENT-CHAIR-001","kind":"additional","description":"お誕生席 is the familiar head-of-table seat, here the highest-ranked position reserved for Kinzo. / Called the Incipient’s Chair introduces an unexplained term whose incipient wording does not convey the colloquial head-of-table designation. / Seat of honor conveys its placement/status intelligibly.","categories":["linguistic.word_choice"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[327,331],"MG":[327,331],"UP":[327,331]},"japanese":"一番奥正面のいわゆるお誕生席が最上位の席、祖父さまの指定席だ。\nそこはまだ空席だった。\n…もったいぶって最後に来るつもりなんだろう。\n席順の序列は、お誕生席を正面奥に見ながら、左右と序列が続き、序列の順位が低いほどお誕生席から遠のいていく。\nつまり、お誕生席に一番近い第１列目の左席、序列第２位の席は親兄弟の長兄の蔵臼伯父さんの席。","japanesePC":"","japanesePS3":"一番奥正面のいわゆるお誕生席が最上位の席、祖父さまの指定席だ。\nそこはまだ空席だった。\n…もったいぶって最後に来るつもりなんだろう。\n席順の序列は、お誕生席を正面奥に見ながら、左右と序列が続き、序列の順位が低いほどお誕生席から遠のいていく。\nつまり、お誕生席に一番近い第１列目の左席、序列第２位の席は親兄弟の長兄の蔵臼伯父さんの席。","WH":"","MG":"The seat at the head of the table, called the Incipient's Chair, was for the most highly ranked, reserved for Grandfather.\nIt was still empty.\n...He probably wanted to show up last for dramatic effect.\nFrom the perspective of someone facing the Incipient's Chair head on, the seating order went from left to right, with the lower ranking seats progressing in rows of two further away from it.\nSo, the left-hand side of the first row, closest to the Incipient's Chair, was where Uncle Krauss should have sat, since he was the second highest in rank.","UP":"The seat at the very head of the table, which you might call the seat of honor, was for the most highly ranked, and reserved for Grandfather.\nIt was still empty.\n...He was probably planning to come in last to make himself look important.\nThe seating order, as you faced the seat of honor, went from left to right in rows of two, with the ranking being lower the further you were from it.\nSo, on the left‐hand side of the row closest to the seat of honor was the second‐ranked seat, belonging to the eldest of the adult siblings—Uncle Krauss.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi1_3-L0327","readerRefs":{"WH":[],"MG":["umi1_3-L0327","umi1_3-L0330","umi1_3-L0331"],"UP":["umi1_3-L0327","umi1_3-L0330","umi1_3-L0331"]}}],"sourceReading":"お誕生席 is the familiar head-of-table seat, here the highest-ranked position reserved for Kinzo.","alternative":"MG immediately explains head of table and highest rank, so the seating map remains reconstructible. This is a local misleading designation, not a broken seating puzzle.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-MATERNAL-GENES-001","kind":"additional","description":"Battler interprets the ranking under the misogynist notion that a woman’s womb is borrowed, prioritizing direct children and grandchildren over unrelated spouses. / Womb is something to be borrowed retains the metaphor. / She contributes no genes adds a specific biological proposition absent from the Japanese metaphor.","categories":["linguistic.addition","world.world_fact"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[348,355],"MG":[348,355],"UP":[348,355]},"japanese":"普通、序列は配偶者にも準ずる格を認めるものだが、右代宮家は独自の序列を持っていた。\n……多分、男尊女卑の名残だろう。\n女の腹は借り物だとする考えに基づくと、直系の子供がもっとも序列が高く、孫が次。\n血の繋がらない配偶者たちは一番ビリって考えになるわけだ。\n……気の毒な話だが、その序列によるならば祖母さまが生きていたとして、\nその序列は俺よりも下だということになる。\n若い日には父に従い、嫁いでからは夫に従い、老いてからは子に従え。\n「女、三界に家なし」なんて言われた昔の名残だ。","japanesePC":"","japanesePS3":"普通、序列は配偶者にも準ずる格を認めるものだが、右代宮家は独自の序列を持っていた。\n……多分、男尊女卑の名残だろう。\n女の腹は借り物だとする考えに基づくと、直系の子供がもっとも序列が高く、孫が次。\n血の繋がらない配偶者たちは一番ビリって考えになるわけだ。\n……気の毒な話だが、その序列によるならば祖母さまが生きていたとして、\nその序列は俺よりも下だということになる。\n若い日には父に従い、嫁いでからは夫に従い、老いてからは子に従え。\n「女、三界に家なし」なんて言われた昔の名残だ。","WH":"","MG":"Normally, ranking systems of this sort give spouses equal positions as their partners, but the Ushiromiya family's system was unique.\n......Maybe it's a remnant of male chauvinism.\nIf you start with the assumption that a woman's womb is just something to be borrowed, then the children of direct descent would come first, directly followed by the grandchildren.\nIn other words, spouses have no blood ties and are therefore placed at the end of the line.\n......It's terrible, but by this system, my Grandmother would be ranked even lower than me,\nif she were still alive.\nIn their youth, they obey their father; after they get married, their husband; after aging, their children.\nThere's the old saying: \"Women have no home in any realm\".","UP":"These kind of ranking orders usually permit the spouse a corresponding status, but the Ushiromiya family had an original kind of ranking.\n......Maybe it's a leftover of male chauvinism.\nUnder the notion that a mother's womb is only a temporary house for the child and she contributes no genes, the children of direct descent would have the highest ranking, followed by the grandkids.\nMeaning that the spouses, with no blood ties, would be considered the last in line.\n......It's terrible, but according to that ranking order, Grandmother, if she was still alive,\nwould be in a position even lower than mine.\nIn youth, obey your father; after marriage, your husband; after aging, your children.\nA leftover of the times when they used to say, \"Women: no home in three worlds\".","note":"","dispositions":{"MG":"correct","UP":"UP_specific_in_paired_comparison"},"readerRef":"umi1_3-L0348","readerRefs":{"WH":[],"MG":["umi1_3-L0348","umi1_3-L0352","umi1_3-L0354","umi1_3-L0355"],"UP":["umi1_3-L0348","umi1_3-L0352","umi1_3-L0354","umi1_3-L0355"]}}],"sourceReading":"Battler interprets the ranking under the misogynist notion that a woman’s womb is borrowed, prioritizing direct children and grandchildren over unrelated spouses.","alternative":"The added claim explicates an extreme patriarchal view of the mother as a vessel, but the source does not formulate that view as genetic noncontribution. Record the unsupported specificity without treating Battler’s account as author-endorsed biology or inferring a mystery rule.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-KRAUSS-MUMBLING-001","kind":"additional","description":"Krauss looks at his wristwatch and expresses his displeasure through his demeanor (悪態を態度で示して見せた). / Adds mumbling alongside acting as though he had wasted time. / Adds the same mumbling action.","categories":["linguistic.addition","world.world_fact"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[479,480],"MG":[479,480],"UP":[479,480]},"japanese":"蔵臼は踵を返す。\n腕時計を見て、わかりきっていたことに無駄な時間を費やしたという悪態を態度で示して見せた。","japanesePC":"","japanesePS3":"蔵臼は踵を返す。\n腕時計を見て、わかりきっていたことに無駄な時間を費やしたという悪態を態度で示して見せた。","WH":"","MG":"Krauss spun around.\nHe looked at his watch, mumbling and acting as though he had wasted time doing something he knew would be in vain.","UP":"Krauss spun on his heels.\nHe looked at his wristwatch, mumbling and acting as though he had wasted time doing something he knew would be in vain.","note":"","dispositions":{"MG":"shared_error","UP":"shared_error"},"readerRef":"umi1_3-L0479","readerRefs":{"WH":[],"MG":["umi1_3-L0479"],"UP":["umi1_3-L0479"]}}],"sourceReading":"Krauss looks at his wristwatch and expresses his displeasure through his demeanor (悪態を態度で示して見せた).","alternative":"悪態 can refer to spoken abuse, but here 態度で explicitly specifies the nonverbal means. The English separately introduces vocal muttering; emotional impatience remains intact.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-ABSINTHE-BOTTLE-001","kind":"additional","description":"The ornate bottle contains dark green liquid; Genji then pours a little into a glass before adding sugar and water. / In that complex and ornate glass replaces the bottle with a glass before the pouring step. / Complexly designed bottle preserves the initial container.","categories":["linguistic.mistranslation","world.world_fact"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[544,547],"MG":[544,547],"UP":[544,547]},"japanese":"複雑な意匠のボトルに満たされた暗緑色の不気味な液体は、酒だと教えられなければとても口に含む気にはなるまい。\n……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。","japanesePC":"","japanesePS3":"複雑な意匠のボトルに満たされた暗緑色の不気味な液体は、酒だと教えられなければとても口に含む気にはなるまい。\n……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。","WH":"","MG":"No one would even think of drinking such an ominous dark green liquid in that complex and ornate glass, unless someone first told them it was alcohol.\n......He poured a little into the glass.\nThen, he placed a cube of sugar in a strangely shaped spoon and poured water from a pitcher over it.\nStrangely, when the transparent water was poured, the dark green liquid turned a cloudy white.","UP":"If you didn't know that the ghastly dark green liquid that filled the complexly designed bottle was liquor, you certainly wouldn't want to put it in your mouth.\n......He poured a small quantity of the spirit into the glass,\nplaced a cube of sugar in a strangely shaped spoon, and then poured water from a pitcher over it.\nStrangely, when the colorless water was poured into it, the dark green liquid turned a cloudy white.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi1_3-L0543","readerRefs":{"WH":[],"MG":["umi1_3-L0543","umi1_3-L0545","umi1_3-L0547"],"UP":["umi1_3-L0543","umi1_3-L0545","umi1_3-L0547"]}}],"sourceReading":"The ornate bottle contains dark green liquid; Genji then pours a little into a glass before adding sugar and water.","alternative":"Glass could loosely refer to material, but in that ... glass ordinarily names a drinking vessel, especially immediately before poured ... into the glass. The recipe steps otherwise remain operational; no ingredient or poisoning inference established.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-BEATRICE-ENTIRE-LIFE-001","kind":"additional","description":"Kinzo calls Beatrice his entire life (私の生涯の全てなのだ), after insisting she belongs in his arms. / For all my life makes the clause a duration of confinement rather than declaring her the entirety of his life. / You are my entire life preserves the declaration.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[608,611],"MG":[608,611],"UP":[608,611]},"japanese":"お前は私の物だッ！！\n常に私の腕の中でなくてはならん！\n私の生涯の全てなのだ！！」\n「我が鳥篭にて永遠に私に、私だけに囁き続けるのだ！！","japanesePC":"","japanesePS3":"お前は私の物だッ！！\n常に私の腕の中でなくてはならん！\n私の生涯の全てなのだ！！」\n「我が鳥篭にて永遠に私に、私だけに囁き続けるのだ！！","WH":"","MG":"You belong to me!!\nYou must always be in my arms!\nFor all my life!\nYou must stay in my birdcage for all eternity, whispering only to me!!","UP":"You are mine!!\nYou cannot be anywhere but in my arms!\nYou are my entire life!\"\n\"You'll continue to whisper for all eternity in my bird cage to me, only to me!!","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi1_3-L0605","readerRefs":{"WH":[],"MG":["umi1_3-L0605","umi1_3-L0611"],"UP":["umi1_3-L0605","umi1_3-L0611"]}}],"sourceReading":"Kinzo calls Beatrice his entire life (私の生涯の全てなのだ), after insisting she belongs in his arms.","alternative":"MG surrounding obsession and eternal birdcage retain intensity, but duration is not the source declaration of total personal meaning. No separate mystery inference established.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-JESSICA-ILLITERATE-001","kind":"additional","description":"Kinzo insults Jessica as incompetent and uneducated/unlearned (無能で無学). / Incompetent and uneducated preserves the broad insult. / Incompetent and illiterate substitutes a more specific reading/writing incapacity for lack of education.","categories":["linguistic.word_choice"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[595,600],"MG":[595,600],"UP":[595,600]},"japanese":"「留弗夫の間抜けは女遊びばかりッ！！\n楼座はどこの馬の骨ともわからん男の赤ん坊など生みおって！！\n朱志香は無能で無学だ！！\n譲治には男としての器がない！\n戦人は右代宮家の栄誉を自ら捨ておった愚か者だッ！！\n真里亞など見るのも汚らわしいッ！！」","japanesePC":"","japanesePS3":"「留弗夫の間抜けは女遊びばかりッ！！\n楼座はどこの馬の骨ともわからん男の赤ん坊など生みおって！！\n朱志香は無能で無学だ！！\n譲治には男としての器がない！\n戦人は右代宮家の栄誉を自ら捨ておった愚か者だッ！！\n真里亞など見るのも汚らわしいッ！！」","WH":"","MG":"\"That dunce Rudolf just wants to fool around with women!!\nRosa bore the baby of a man who came from nowhere and about whom we know nothing!!\nJessica is incompetent and uneducated!!\nGeorge has none of what it takes to be a man!\nBattler is a fool who threw away the honor of the Ushiromiya family!!\nAnd Maria is obscene to the eye!!\"","UP":"\"That dunce Rudolf just wants to fool around with women!!\nRosa bore the baby of a nobody!!\nJessica is incompetent and illiterate!!\nGeorge has none of what it takes to be a man!\nBattler is a fool who threw away the honor of the Ushiromiya family!!\nAnd Maria is obscene to the eye!!\"","note":"","dispositions":{"MG":"correct","UP":"UP_specific_in_paired_comparison"},"readerRef":"umi1_3-L0595","readerRefs":{"WH":[],"MG":["umi1_3-L0595"],"UP":["umi1_3-L0595"]}}],"sourceReading":"Kinzo insults Jessica as incompetent and uneducated/unlearned (無能で無学).","alternative":"Illiterate can be used loosely as an insult for ignorance, especially in this rant. That mitigates severity, but its ordinary specific sense is stronger than 無学; do not endorse Kinzo’s insult as a reliable actual literacy assessment.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-ROULETTE-MAGNITUDE-001","kind":"additional","description":"The sole miracle occupies one outcome among more roulette outcomes than asougi multiplied by nayuta, a named enormous-number product. / Countless, enumerable results omits the named product and its deliberately extravagant scale. / Retains both named numbers and their product.","categories":["linguistic.undertranslation","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_3","episode":1,"rows":{"JP":[639,643],"MG":[639,643],"UP":[639,643]},"japanese":"「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」","japanesePC":"","japanesePS3":"「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」","WH":"","MG":"\"After all, Moses was able to magnificently summon a miracle engraved on but one of the countless, enumerable results on the roulette of those with power.\nThat is the force that can triumph over astronomical odds!!\nIndeed, good fortune that can grasp miracles is magical power itself!!\nTo obtain this mighty power, one must face the risk of despair!!\nThose who possess no magical power may call that desperation rather than a bet!\"","UP":"\"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than asougi (10⁵⁶) and nayuta (10⁶⁰) multiplied together.\"\n\"The power to triumph over astronomical odds!!\nYes, magical power is, in other words, having the luck to grasp miracles!!\nTo obtain great magical power, one must bear a risk that is hopelessly great!!\nThose who possess no magic would call this not a bet, but pure desperation!\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi1_3-L0639","readerRefs":{"WH":[],"MG":["umi1_3-L0639","umi1_3-L0640"],"UP":["umi1_3-L0639","umi1_3-L0640"]}}],"sourceReading":"The sole miracle occupies one outcome among more roulette outcomes than asougi multiplied by nayuta, a named enormous-number product.","alternative":"MG preserves astronomical odds and singular winning outcome, so the main risk/luck argument is restored. This is a limited loss of numeric rhetorical specificity, not recurrence of WH eyes/avoided-bet incoherence or a proven broken puzzle.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-CH03-001",
+      "kind": "WH",
+      "description": "Battler explains that the expected gag is: he approaches with a lecherous face, she knocks him down and protests. Without that conventional reaction, the joke has no punchline. WH changes 張ッ倒す to ‘Someone trip me’ and お約束 ... オチがつかねぇ to ‘Without your word, I can’t settle down.’ The explanation of his intended comic routine becomes dependence on a verbal assurance and a request to trip him.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "linguistic.wordplay",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              101,
+              106
+            ],
+            "MG": [
+              101,
+              106
+            ],
+            "UP": [
+              101,
+              106
+            ]
+          },
+          "japanese": "「俺がイヤらしい顔で迫る！\n張ッ倒す！！\nイヤ〜ン、エッチ！\nそういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！\nこう、バチンっと！\nバチンっとぉおぉ〜！！」",
+          "japanesePC": "「…い、今時、こんな献身美徳な子がいるとは…。軽い眩暈すら覚えるぜ。……でも駄目だ！　ダメなんだぁああぁ！！　俺がエロい顔で迫る！　張ッ倒す！！　イヤ～ン、エッチ！　そういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！　こう、バチンっと！　バチンっとぉおぉ～！！」",
+          "japanesePS3": "「俺がイヤらしい顔で迫る！\n張ッ倒す！！\nイヤ〜ン、エッチ！\nそういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！\nこう、バチンっと！\nバチンっとぉおぉ〜！！」",
+          "WH": "\"...I-in these days, to think that there's a dedicated and virtuous girl like this...  Getting... giddy again!...  ......But, no!  NooOoo!!  I'm coming at her with a perverted face again!  Someone trip me!!  No~oo, pervert!  Without your word, I can't settle down!  Please, I beg you, smack me!  Like this, smack!  Hit meeee~!!\"",
+          "MG": "I'm coming at you with a perverted face again!\nKnock me down!!\nLook out, pervert on the loose!\nThis gag can't end until you deliver the punch line, so slap me!\nPlease!\nHit meeee!!\"",
+          "UP": "\"I come at you with a perverted face!\nYou smack me down!!\n\"No~oo, pervert!\"\nYou gotta complete the joke or it doesn't work! Please, it's a polite request, smack me!\nLike this, smack!\nSmaaa~ck!!\"",
+          "note": "Both preserve knocking/smacking Battler down and completing the gag/punchline rather than original WH tripping and verbal-assurance reading.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0101",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0097",
+              "umi1_3-L0101"
+            ],
+            "MG": [
+              "umi1_3-L0101"
+            ],
+            "UP": [
+              "umi1_3-L0101"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「俺がイヤらしい顔で迫る！　張ッ倒す！！　イヤ〜ン、エッチ！　そういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！　こう、バチンっと！　バチンっとぉおぉ〜！！」",
+              "translation": "I'm coming at you with a perverted face again! Knock me down!! Look out, pervert on the loose! This gag can't end until you deliver the punch line, so slap me! Please! Hit meeee!!\" "
+            },
+            "UP": {
+              "japanese": "「俺がイヤらしい顔で迫る！　張ッ倒す！！　イヤ〜ン、エッチ！　そういうお約束じゃないとオチがつかねぇんだよぉ、頼むよお願いだよ、俺を引っ叩いてくれよ！　こう、バチンっと！　バチンっとぉおぉ〜！！」",
+              "translation": "\"I come at you with a perverted face! You smack me down!! \"No~oo, pervert!\" You gotta complete the joke or it doesn't work! Please, it's a polite request, smack me! Like this, smack! Smaaa~ck!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0097",
+              "umi1_3-L0101"
+            ],
+            "MG": [
+              "umi1_3-L0101"
+            ],
+            "UP": [
+              "umi1_3-L0101"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "お約束 denotes the conventional comedy pattern already described in the preceding narration; オチ is the gag’s payoff, and 張っ倒す is knocking someone down with a blow.",
+      "alternative": "He is desperate for a slap, which both versions preserve later. That does not recover why he asks: the English removes the conventional joke structure rather than merely using a different punchline idiom.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-002",
+      "kind": "WH",
+      "description": "Genji dates the exhibition to April of the year before last and says Kinzo had previously ordered the artist to paint it. WH dates the commission itself to that April and then says it was displayed. It collapses the prior commission into the exhibition date.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              230,
+              235
+            ],
+            "MG": [
+              230,
+              235
+            ],
+            "UP": [
+              230,
+              235
+            ]
+          },
+          "japanese": "「確か、\n……僕の記憶が正しければ、一昨年辺りだったと思うよ」\n「…………左様でございます。\n一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます」\n「あの祖父さまがねぇ。\nわざわざ描かせてか…」",
+          "japanesePC": "「…………左様でございます。一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます。」",
+          "japanesePS3": "「確か、\n……僕の記憶が正しければ、一昨年辺りだったと思うよ」\n「…………左様でございます。\n一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます」\n「あの祖父さまがねぇ。\nわざわざ描かせてか…」",
+          "WH": "\"............You are correct.  In April of the year before last, as it had been arranged, the Master ordered an artist to paint it and it was put on display over there.\"",
+          "MG": "\"Well,\n......if my memory doesn't fail me, it was put on display sometime around the year before last.\"\n\".........You are correct, sir.\nIn April of the year before last, the Master put it on display there, having previously ordered a painter to create it.\"\n\"Grandfather did that?\nSo, he paid to have it painted just for him, huh...?\"",
+          "UP": "\"I think,\n......if my memory doesn't fail me, it was around the year before last.\"\n\"............You are correct.\nIn April of the year before last, the Master had this painting put on display, which he had instructed an artist to paint for him some time prior.\"\n\"Grandfather did that?\nSo, he went out of his way to have it drawn...\"",
+          "note": "Both date exhibition to April of the year before last and explicitly distinguish the earlier commissioning of the painter.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0230",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0232"
+            ],
+            "MG": [
+              "umi1_3-L0230",
+              "umi1_3-L0232",
+              "umi1_3-L0234"
+            ],
+            "UP": [
+              "umi1_3-L0230",
+              "umi1_3-L0232",
+              "umi1_3-L0234"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………左様でございます。一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます」",
+              "translation": "\".........You are correct, sir. In April of the year before last, the Master put it on display there, having previously ordered a painter to create it.\" "
+            },
+            "UP": {
+              "japanese": "「…………左様でございます。一昨年の４月に、お館様が兼ねてより画家に命じて描かせていたものをあそこに展示なされたのでございます」",
+              "translation": "\"............You are correct. In April of the year before last, the Master had this painting put on display, which he had instructed an artist to paint for him some time prior.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0232"
+            ],
+            "MG": [
+              "umi1_3-L0232"
+            ],
+            "UP": [
+              "umi1_3-L0232"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "一昨年の４月に modifies 展示なされた; 兼ねてより ... 描かせていた describes a painting already commissioned and produced.",
+      "alternative": "‘As it had been arranged’ could suggest earlier planning, but the English clause still puts ‘the Master ordered an artist to paint it’ inside the April event. Prior commissioning is not retained explicitly.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-003",
+      "kind": "WH",
+      "description": "Battler speculates that a parent invented the forest-witch story to keep children safe: perhaps Grandmother, or none other than Grandfather. WH says ‘anybody else other than Grandfather.’ It excludes the very person Japanese explicitly offers as a possible originator.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              269,
+              272
+            ],
+            "MG": [
+              269,
+              272
+            ],
+            "UP": [
+              269,
+              272
+            ]
+          },
+          "japanese": "…そんな危険な森に、子供が遊びに行ったら大変なことになるかもしれない。\nそう思った親の誰か。\n…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。\nさもなくば、はるか大昔からこの島に語り継がれているのか。",
+          "japanesePC": "そう思った親の誰か。…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。",
+          "japanesePS3": "…そんな危険な森に、子供が遊びに行ったら大変なことになるかもしれない。\nそう思った親の誰か。\n…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。\nさもなくば、はるか大昔からこの島に語り継がれているのか。",
+          "WH": "Someone's parents must have thought so.  ...Maybe my Grandmother, or possibly anybody else other than Grandfather might have said that.",
+          "MG": "...If children were to go play in such a dangerous forest, something terrible might happen.\nSomeone's parents must have thought so.\n...Maybe Grandmother first said it, or maybe it was Grandfather himself.\nOr perhaps the story's been passed down on this island since ancient times.",
+          "UP": "...If a child were to go play in that dangerous forest, something terrible might happen.\nSome parent must have had that thought.\n...Maybe my Grandmother, or possibly, the man himself, my grandfather might have said it.\nOr maybe it was a story handed down on this island from long, long ago.",
+          "note": "Both explicitly include Grandfather himself as possible originator rather than excluding him.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0269",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0269"
+            ],
+            "MG": [
+              "umi1_3-L0269"
+            ],
+            "UP": [
+              "umi1_3-L0269"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "…そんな危険な森に、子供が遊びに行ったら大変なことになるかもしれない。そう思った親の誰か。…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。さもなくば、はるか大昔からこの島に語り継がれているのか。",
+              "translation": "...If children were to go play in such a dangerous forest, something terrible might happen. Someone's parents must have thought so. ...Maybe Grandmother first said it, or maybe it was Grandfather himself. Or perhaps the story's been passed down on this island since ancient times. "
+            },
+            "UP": {
+              "japanese": "…そんな危険な森に、子供が遊びに行ったら大変なことになるかもしれない。そう思った親の誰か。…祖母さまか、あるいは他でもない、祖父さまが言い出したのかもしれない。さもなくば、はるか大昔からこの島に語り継がれているのか。",
+              "translation": "...If a child were to go play in that dangerous forest, something terrible might happen. Some parent must have had that thought. ...Maybe my Grandmother, or possibly, the man himself, my grandfather might have said it. Or maybe it was a story handed down on this island from long, long ago."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0269"
+            ],
+            "MG": [
+              "umi1_3-L0269"
+            ],
+            "UP": [
+              "umi1_3-L0269"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "他でもない、祖父さま means none other than Grandfather, still under かもしれない.",
+      "alternative": "The phrase contains 他 and a negation, but they emphatically identify Grandfather rather than exclude him. The later alternative that the story was handed down long ago remains a distinct possibility in both texts.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-004",
+      "kind": "WH",
+      "description": "After describing Kinzo’s belief that the witch exists, Jessica ends with a disgusted dismissal: it is creepy or revolting. WH replaces this with ‘I’m sorry, but she just doesn’t exist.’ It removes her emotional reaction and supplies a direct categorical denial in its place.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              285,
+              290
+            ],
+            "MG": [
+              285,
+              290
+            ],
+            "UP": [
+              285,
+              290
+            ]
+          },
+          "japanese": "「……祖父さまの妄想の中の魔女だよ。\n…この絵を掲げた頃から現実と幻想の区別が付かなくなり始めた」\n「……私たちにとっては想像の中の魔女に過ぎないけど、…祖父さまにとっては、彼女はこの島に“い”る存在。\n……“い”る。\nだから、それを理解することができない私たちにもわかるよう、あの絵を描かせたって言うんだけど」\n「………はんッ、気持ち悪いったらありゃしないぜ」",
+          "japanesePC": "………はんッ、気持ち悪いったらありゃしないぜ。」",
+          "japanesePS3": "「……祖父さまの妄想の中の魔女だよ。\n…この絵を掲げた頃から現実と幻想の区別が付かなくなり始めた」\n「……私たちにとっては想像の中の魔女に過ぎないけど、…祖父さまにとっては、彼女はこの島に“い”る存在。\n……“い”る。\nだから、それを理解することができない私たちにもわかるよう、あの絵を描かせたって言うんだけど」\n「………はんッ、気持ち悪いったらありゃしないぜ」",
+          "WH": ".........And I'm sorry, but she just doesn't exist.\"",
+          "MG": "\"...She's the witch from Grandfather's delusions.\n...Ever since he had this picture hanged, he's been having a harder and harder time telling the difference between truth and fantasy.\n...To us, she's just a witch that exists in Grandfather's mind, ...but to him, she's a being that \"exists\" on this island.\n...\"Exists\".\nHe says he had that painting made because the rest of us would be incapable of understanding otherwise.\n......Hmph, the whole thing's creepy as hell.\"",
+          "UP": "\"......It's the witch from Grandfather's delusions.\n...Ever since he had this picture hung up, he's been losing the distinction between fantasy and reality.\"\n\"......To us, it's no more than the witch from his imagination, but to Grandfather, she's a being who \"exists\" on this island.\n......‘Exists’.\nThat's why he says he had that picture painted—so that we'd understand.\"\n\".........Hmpf, creeps the hell outta me.\"",
+          "note": "Both preserve Jessica disgust/creepiness rather than replacing it with categorical existence denial.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0285",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0290"
+            ],
+            "MG": [
+              "umi1_3-L0285",
+              "umi1_3-L0287",
+              "umi1_3-L0290"
+            ],
+            "UP": [
+              "umi1_3-L0285",
+              "umi1_3-L0287",
+              "umi1_3-L0290"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………はんッ、気持ち悪いったらありゃしないぜ」",
+              "translation": "......Hmph, the whole thing's creepy as hell.\" "
+            },
+            "UP": {
+              "japanese": "「………はんッ、気持ち悪いったらありゃしないぜ」",
+              "translation": "\".........Hmpf, creeps the hell outta me.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0290"
+            ],
+            "MG": [
+              "umi1_3-L0290"
+            ],
+            "UP": [
+              "umi1_3-L0290"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "気持ち悪いったらありゃしない is emphatic disgust, not a statement of existence or an apology.",
+      "alternative": "Her preceding claim that this is a witch of imagination already communicates skepticism; a denial is consistent with that stance. The local defect is substituting abstract denial for the particular disgusted outburst, not inventing all of her skepticism or proving a mystery exclusion.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-005",
+      "kind": "WH",
+      "description": "Battler remembers Natsuhi seldom joining the children, looking stern and discussing difficult matters with the adults. WH says she gave the impression she was ‘at odds with the other parents,’ changing the content of adult discussion into interpersonal conflict in his childhood memory.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              377,
+              380
+            ],
+            "MG": [
+              377,
+              380
+            ],
+            "UP": [
+              377,
+              380
+            ]
+          },
+          "japanese": "…こう言っちゃ悪いが、嫌いってわけでもないが、特別好きでもない伯母さんだ。\nあまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。\n…実際、あまり言葉を交わしたことがなく、今もどう掴みを取ろうかだいぶ迷ったのだ。\n…甲斐なく外してしまったがなー。",
+          "japanesePC": "あまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。",
+          "japanesePS3": "…こう言っちゃ悪いが、嫌いってわけでもないが、特別好きでもない伯母さんだ。\nあまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。\n…実際、あまり言葉を交わしたことがなく、今もどう掴みを取ろうかだいぶ迷ったのだ。\n…甲斐なく外してしまったがなー。",
+          "WH": "She never got into our kids' circle, and she always looked difficult to get along with.  And it didn't help that she gave the impression that she was at odds with the other parents.",
+          "MG": "...It feels bad to say it like this, but while I didn't exactly dislike her, I didn't particularly like her either.\nShe hardly ever spoke with us kids, and all my memories of her involve her talking to the adults about complicated things, with a scary look on her face.\n...In fact, since we hardly ever exchange words, I spent a long time trying to figure out how I should approach her.\n...Though my efforts seem to have ended in failure.",
+          "UP": "...It feels bad to say it like this, but—not that I hated her—but I didn't particularly like her.\nShe never got into our kids' circle, and my only impression of her was as someone who always talked about complicated stuff with my parents while having a crabby expression on her face.\n...The fact is, that having barely ever exchanged words, I hesitated a lot even just now about how to approach her.\n...Aaand it was pretty much a flop.",
+          "note": "Both preserve childhood memory of Natsuhi discussing complicated matters with adults, rather than replacing it with being at odds with parents.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0377",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0377"
+            ],
+            "MG": [
+              "umi1_3-L0377",
+              "umi1_3-L0379"
+            ],
+            "UP": [
+              "umi1_3-L0377",
+              "umi1_3-L0379"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "…こう言っちゃ悪いが、嫌いってわけでもないが、特別好きでもない伯母さんだ。あまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。",
+              "translation": "...It feels bad to say it like this, but while I didn't exactly dislike her, I didn't particularly like her either. She hardly ever spoke with us kids, and all my memories of her involve her talking to the adults about complicated things, with a scary look on her face. "
+            },
+            "UP": {
+              "japanese": "…こう言っちゃ悪いが、嫌いってわけでもないが、特別好きでもない伯母さんだ。あまり子供の輪に入ってこないし、いつも気難しそうな顔をして、親たちと難しい話をしているという印象しかない。",
+              "translation": "...It feels bad to say it like this, but—not that I hated her—but I didn't particularly like her. She never got into our kids' circle, and my only impression of her was as someone who always talked about complicated stuff with my parents while having a crabby expression on her face."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0377"
+            ],
+            "MG": [
+              "umi1_3-L0377"
+            ],
+            "UP": [
+              "umi1_3-L0377"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "難しい話をしている is discussing difficult or complicated matters; it does not state she was disagreeing with the people talking.",
+      "alternative": "The present chapter and earlier scene show genuine adult hostility. That later contextual knowledge does not license replacing the specific earlier memory of difficult discussion with conflict.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-006",
+      "kind": "WH",
+      "description": "Kinzo challenges the maxim that knocking opens doors and says the fool who taught it was crucified, then threatens Krauss with the same fate. WH says ‘I’ll crucify the imbecile,’ turning the completed crucifixion reference into another prospective threat. It loses the historical barb while preserving the threat to Krauss.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.literary_reference",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              414,
+              416
+            ],
+            "MG": [
+              414,
+              416
+            ],
+            "UP": [
+              414,
+              416
+            ]
+          },
+          "japanese": "叩けば扉は開かれると誰が教えた！\nその馬鹿者は磔にしたぞッ！！\nお前もそうされたいのかッ！！」",
+          "japanesePC": "叩けば扉は開かれると誰が教えた！　その馬鹿者は磔にしたぞッ！！　お前もそうされたいのかッ！！」",
+          "japanesePS3": "叩けば扉は開かれると誰が教えた！\nその馬鹿者は磔にしたぞッ！！\nお前もそうされたいのかッ！！」",
+          "WH": "Who told you the door would open if you knocked!?  I'll crucify the imbecile!!  Do you wish to be as well!!??\"",
+          "MG": "Who told you the door would be opened if you but knocked?!\nI'll crucify the imbecile!!\nDo you wish to suffer the same fate?!!\"",
+          "UP": "Who taught you that doors shall be opened unto you if you knock?!\nThey crucified that imbecile!!\nDo you wish the same upon yourself?!!\"",
+          "note": "MG I’ll crucify retains future threat in place of completed allusion; UP They crucified preserves past event and subsequent same-fate threat.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0412",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0412"
+            ],
+            "MG": [
+              "umi1_3-L0412"
+            ],
+            "UP": [
+              "umi1_3-L0412"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「やかましいッ！！　その音を止めぬか、愚か者ッ！！！　叩けば扉は開かれると誰が教えた！　その馬鹿者は磔にしたぞッ！！　お前もそうされたいのかッ！！」",
+              "translation": "\"Silence!! Enough with that racket, you fool!!! Who told you the door would be opened if you but knocked?! I'll crucify the imbecile!! Do you wish to suffer the same fate?!!\" "
+            },
+            "UP": {
+              "japanese": "「やかましいッ！！　その音を止めぬか、愚か者ッ！！！　叩けば扉は開かれると誰が教えた！　その馬鹿者は磔にしたぞッ！！　お前もそうされたいのかッ！！」",
+              "translation": "\"Silence!! Will you not stop that noise, fool!!! Who taught you that doors shall be opened unto you if you knock?! They crucified that imbecile!! Do you wish the same upon yourself?!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0412"
+            ],
+            "MG": [
+              "umi1_3-L0412"
+            ],
+            "UP": [
+              "umi1_3-L0412"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "磔にしたぞ is completed action. The knock-and-open saying also matches the teaching in Matthew 7:7; linking its teacher to crucifixion is an allusion inferred from the juxtaposition, not an independently explicit naming of Jesus in Japanese.",
+      "alternative": "The first-person threat fits Kinzo’s rage, but the source’s completed tense and the preceding quoted maxim give the clause a different referential function. No literal claim that Kinzo historically crucified Jesus is adopted by the audit.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-007",
+      "kind": "WH",
+      "description": "After the water-and-sugar preparation, Genji adds the distinctive flavoring Kinzo likes and adjusts the taste. WH says ‘It improved the original flavor Kinzo liked,’ omitting the separate addition and turning a preparation step into a claim about improvement.",
+      "categories": [
+        "linguistic.omission",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              545,
+              551
+            ],
+            "MG": [
+              545,
+              551
+            ],
+            "UP": [
+              545,
+              551
+            ]
+          },
+          "japanese": "……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。\n…それはまるで水と化学反応を起こしたかのような奇妙な錯覚を与え、ますますに酒だという認識を遠のかせた。\nそれに、金蔵が好む独自のフレーバーを加え、味を調える。\n…レシピはない。\n飲んだ金蔵の一喜一憂によってだけ出来具合を計り、数十年かけて身につけたものである。",
+          "japanesePC": "それに、金蔵が好む独自のフレーバーを加え、味を調える。",
+          "japanesePS3": "……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。\n…それはまるで水と化学反応を起こしたかのような奇妙な錯覚を与え、ますますに酒だという認識を遠のかせた。\nそれに、金蔵が好む独自のフレーバーを加え、味を調える。\n…レシピはない。\n飲んだ金蔵の一喜一憂によってだけ出来具合を計り、数十年かけて身につけたものである。",
+          "WH": "It improved the original flavor Kinzo liked and adjusted the taste.",
+          "MG": "......He poured a little into the glass.\nThen, he placed a cube of sugar in a strangely shaped spoon and poured water from a pitcher over it.\nStrangely, when the transparent water was poured, the dark green liquid turned a cloudy white.\n...It was a strange optical illusion, as though the water had caused a chemical reaction and made the drink become even more unrecognizable as liquor.\nThen, Genji added original flavors Kinzo loved, fine-tuning its taste.\n...There was no recipe.\nIts success was measured only by Kinzo's mood swings when he drank it, and it had taken Genji many decades to learn how to do it right.",
+          "UP": "......He poured a small quantity of the spirit into the glass,\nplaced a cube of sugar in a strangely shaped spoon, and then poured water from a pitcher over it.\nStrangely, when the colorless water was poured into it, the dark green liquid turned a cloudy white.\n...It created the strange visual illusion that the water had caused a chemical reaction, which made it all the more difficult to perceive the concoction as liquor.\nTo this, he added an original flavoring that Kinzo liked, and fine‐tuned the taste.\n...There was no recipe.\nIts success was measured only by Kinzo's mood swing when he drank it, and he had learned how to make it only after many decades.",
+          "note": "Both explicitly add Kinzo preferred custom flavoring and then adjust taste, rather than saying it improves the original flavor.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0545",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0549"
+            ],
+            "MG": [
+              "umi1_3-L0545",
+              "umi1_3-L0547",
+              "umi1_3-L0549"
+            ],
+            "UP": [
+              "umi1_3-L0545",
+              "umi1_3-L0547",
+              "umi1_3-L0549"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "それに、金蔵が好む独自のフレーバーを加え、味を調える。…レシピはない。飲んだ金蔵の一喜一憂によってだけ出来具合を計り、数十年かけて身につけたものである。",
+              "translation": "Then, Genji added original flavors Kinzo loved, fine-tuning its taste. ...There was no recipe. Its success was measured only by Kinzo's mood swings when he drank it, and it had taken Genji many decades to learn how to do it right. "
+            },
+            "UP": {
+              "japanese": "それに、金蔵が好む独自のフレーバーを加え、味を調える。…レシピはない。飲んだ金蔵の一喜一憂によってだけ出来具合を計り、数十年かけて身につけたものである。",
+              "translation": "To this, he added an original flavoring that Kinzo liked, and fine‐tuned the taste. ...There was no recipe. Its success was measured only by Kinzo's mood swing when he drank it, and he had learned how to make it only after many decades."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0549"
+            ],
+            "MG": [
+              "umi1_3-L0549"
+            ],
+            "UP": [
+              "umi1_3-L0549"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "それに ... フレーバーを加え is an addition to the prepared drink; 独自 describes a distinctive or custom flavor, not merely the original flavor being improved.",
+      "alternative": "‘Flavor’ could loosely mean taste, but 加え and the sequential recipe specify adding something. No particular ingredient, toxicity or pharmacological effect is identified by the source, so none is inferred.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-008",
+      "kind": "WH",
+      "description": "Genji first inclines the glass as if tasting, then throws back the remaining drink. WH says ‘After that, he agitated it,’ making him shake or stir it rather than drink it down. It interrupts the intimate sharing of the last mouthful between Kinzo and Genji.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              560,
+              571
+            ],
+            "MG": [
+              560,
+              571
+            ],
+            "UP": [
+              560,
+              571
+            ]
+          },
+          "japanese": "すると金蔵は窓の外を見たまま、グラスだけを突き出した。\n中身はほんの一口分ほど残っている。\nそれは源次の持つ盆に載せようという仕草ではなく、源次にグラスを譲ろうとするような仕草だった。\n「……飲め。\n…我が友よ」\n「…………………勿体無いお言葉です」\n「私とお前の仲に儀礼はいらぬ。\n……飲め。\n友よ」\n「……………いただきます」\n源次はうやうやしくグラスを受け取ると、舐めるようにグラスをわずかに傾ける。\nそれから、くっと煽った。",
+          "japanesePC": "それから、くっと煽った。",
+          "japanesePS3": "すると金蔵は窓の外を見たまま、グラスだけを突き出した。\n中身はほんの一口分ほど残っている。\nそれは源次の持つ盆に載せようという仕草ではなく、源次にグラスを譲ろうとするような仕草だった。\n「……飲め。\n…我が友よ」\n「…………………勿体無いお言葉です」\n「私とお前の仲に儀礼はいらぬ。\n……飲め。\n友よ」\n「……………いただきます」\n源次はうやうやしくグラスを受け取ると、舐めるようにグラスをわずかに傾ける。\nそれから、くっと煽った。",
+          "WH": "After that, he agitated it.",
+          "MG": "Then, without averting his eyes from the window, Kinzo held out his glass.\nThere was only a mouthful remaining.\nIt was not a gesture intended to set it upon the tray, but a motion to hand the glass over to Genji.\n\"......Drink,\n...my friend.\"\n\"...............Your words are too kind for me.\"\n\"No need for ceremony between us.\n......Drink,\nmy friend.\"\n\".........Thank you.\"\nGenji respectfully received the glass and inclined it a little to taste its contents.\nAfter that, he gulped it down.",
+          "UP": "As he did, Kinzo stuck out just the glass, his gaze still directed at the world outside the window.\nThere was just a mouthful remaining.\nIt was not a gesture intended to set it upon the tray, as Genji expected, but was a motion to hand the glass over to Genji.\n\"......Drink it.\n...My friend.\"\n\".....................That is more than I deserve.\"\n\"No need for ceremony between us.\n......Drink it.\nFriend.\"\n\"...............Thank you.\"\nGenji respectfully received the glass and inclined it a little to taste its contents.\nThen, he downed it in one gulp.",
+          "note": "Both have Genji drink/down the remainder after tasting, rather than agitating it.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0560",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0570"
+            ],
+            "MG": [
+              "umi1_3-L0560",
+              "umi1_3-L0563",
+              "umi1_3-L0565",
+              "umi1_3-L0566",
+              "umi1_3-L0569",
+              "umi1_3-L0570"
+            ],
+            "UP": [
+              "umi1_3-L0560",
+              "umi1_3-L0563",
+              "umi1_3-L0565",
+              "umi1_3-L0566",
+              "umi1_3-L0569",
+              "umi1_3-L0570"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "源次はうやうやしくグラスを受け取ると、舐めるようにグラスをわずかに傾ける。それから、くっと煽った。",
+              "translation": "Genji respectfully received the glass and inclined it a little to taste its contents. After that, he gulped it down. "
+            },
+            "UP": {
+              "japanese": "源次はうやうやしくグラスを受け取ると、舐めるようにグラスをわずかに傾ける。それから、くっと煽った。",
+              "translation": "Genji respectfully received the glass and inclined it a little to taste its contents. Then, he downed it in one gulp."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0570"
+            ],
+            "MG": [
+              "umi1_3-L0570"
+            ],
+            "UP": [
+              "umi1_3-L0570"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "くっと煽った in the drinking sequence describes tossing back the drink, not stirring the glass.",
+      "alternative": "煽る can describe other physical motions, but the glass’s remaining mouthful, Kinzo’s invitation to drink and the tasting motion fix the drinking sense here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-009",
+      "kind": "WH",
+      "description": "Kinzo explains that Moses drew the sole miracle among an astronomical number of roulette outcomes. WH says he acted ‘instead of betting on incalculable odds’ and found a miracle ‘within the eyes of many.’ The enormous product is misread as an avoided wager, and roulette 目 becomes eyes rather than possible results. The explanation no longer clearly links a singular winning outcome, huge risk and miracle-working luck.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.logical_relation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              635,
+              646
+            ],
+            "MG": [
+              635,
+              646
+            ],
+            "UP": [
+              635,
+              646
+            ]
+          },
+          "japanese": "「神話に登場する数々の奇跡は天文学的リスクに奇跡的な低確率を得て成就した驚愕すべき魔力の結晶なのだと言える！」\n「モーゼが海を割ったのは神の奇跡ではない、\n蹂躙の秤に載せられ、軍勢によって紅海に追い詰められた絶体絶命のリスクが奇跡の魔力を生んだのだ！\n同じことが同じ規模で繰り返されようとも、再び海が割れることはないだろう」\n「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」\n「しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！\nもしも私にその魔力があるならば！\n私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」",
+          "japanesePC": "なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ。その天文学的確率に勝利できる力！！　そう、奇跡を掴み取る運気は即ち魔力なのだ！！　強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！　魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！　しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！　もしも私にその魔力があるならば！　私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」",
+          "japanesePS3": "「神話に登場する数々の奇跡は天文学的リスクに奇跡的な低確率を得て成就した驚愕すべき魔力の結晶なのだと言える！」\n「モーゼが海を割ったのは神の奇跡ではない、\n蹂躙の秤に載せられ、軍勢によって紅海に追い詰められた絶体絶命のリスクが奇跡の魔力を生んだのだ！\n同じことが同じ規模で繰り返されようとも、再び海が割れることはないだろう」\n「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」\n「しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！\nもしも私にその魔力があるならば！\n私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」",
+          "WH": "That is because Moses, instead of betting on incalculable odds in the roulette of those with power, managed to spectacularly draw to himself the single miracle carved within the eyes of many.  That power that can triumph over astronomical odds!!  Yes, magical power is that fortune through which miracles are grasped!!  To obtain this mighty magic power, one must face the risk of despair!!  Those who possess no magical power call that desperation rather than a bet!\nHowever, people who truly do possess magic power can grasp hold of that miracle and make the enigma come into being!!  And if that power exists within me...!  I'll seize that miracle!  I'll have a chance at making the wish I devoted my life towards come true!!\"",
+          "MG": "\"Many miracles that happened in myth might be called the crystallization of shocking magic power, with a low probability of occurance and astronomical risk!\nThat Moses parted the waters of the sea was not a miracle of God—\nthe risk of that desperate situation, cornered by soldiers on the Red Sea's shores, weighed upon the scales of slaughter and gave birth to that miraculous magic power.\nIf the same thing occurred again on the same scale, the sea would surely fail to part.\"\n\"After all, Moses was able to magnificently summon a miracle engraved on but one of the countless, enumerable results on the roulette of those with power.\nThat is the force that can triumph over astronomical odds!!\nIndeed, good fortune that can grasp miracles is magical power itself!!\nTo obtain this mighty power, one must face the risk of despair!!\nThose who possess no magical power may call that desperation rather than a bet!\"\n\"However, people who truly do possess magic power can grasp hold of that miracle and make the enigma come into being!!\nAnd if that power exists within me...!\nI'll seize that miracle! I'll have a chance at making the wish I devoted my life towards come true!!\"",
+          "UP": "\"All the various miracles that appear in myth can be called crystals of astonishing magic power, obtained through miraculously low probabilities and astronomical risks!\"\n\"That Moses parted the sea was no miracle of God's—\nit was that utterly desperate risk, weighed upon the scales of oppression, of being cornered by soldiers on the Red Sea's shores, which gave birth to miraculous magic power!\nEven if the same thing occurs again, on the same scope, the sea will no doubt not part.\"\n\"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than asougi (10⁵⁶) and nayuta (10⁶⁰) multiplied together.\"\n\"The power to triumph over astronomical odds!!\nYes, magical power is, in other words, having the luck to grasp miracles!!\nTo obtain great magical power, one must bear a risk that is hopelessly great!!\nThose who possess no magic would call this not a bet, but pure desperation!\"\n\"However, those who truly do possess magical power can grasp hold of that miracle and make the enigma come into being!!\nAnd if that power exists within me!\nI will seize that miracle, I will be able to make the wish I devoted my life towards come true!!\"",
+          "note": "Both restore roulette outcomes and singular miracle, no eyes phrase or instead-of-betting contradiction. MG numeric specificity separately recorded.",
+          "dispositions": {
+            "MG": "core_error_corrected_with_separate_undertranslation",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0635",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0639",
+              "umi1_3-L0640",
+              "umi1_3-L0644"
+            ],
+            "MG": [
+              "umi1_3-L0635",
+              "umi1_3-L0636",
+              "umi1_3-L0639",
+              "umi1_3-L0640",
+              "umi1_3-L0644"
+            ],
+            "UP": [
+              "umi1_3-L0635",
+              "umi1_3-L0636",
+              "umi1_3-L0639",
+              "umi1_3-L0640",
+              "umi1_3-L0644"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！　そう、奇跡を掴み取る運気は即ち魔力なのだ！！　強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！　魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」\n「しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！　もしも私にその魔力があるならば！　私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」",
+              "translation": "\"After all, Moses was able to magnificently summon a miracle engraved on but one of the countless, enumerable results on the roulette of those with power. \nThat is the force that can triumph over astronomical odds!! Indeed, good fortune that can grasp miracles is magical power itself!! To obtain this mighty power, one must face the risk of despair!! Those who possess no magical power may call that desperation rather than a bet!\" \n\"However, people who truly do possess magic power can grasp hold of that miracle and make the enigma come into being!! And if that power exists within me...! I'll seize that miracle! I'll have a chance at making the wish I devoted my life towards come true!!\" "
+            },
+            "UP": {
+              "japanese": "「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！　そう、奇跡を掴み取る運気は即ち魔力なのだ！！　強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！　魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」\n「しかし真に魔力ある者はその奇跡を掴み取り、神秘を成就させるのだッ！！　もしも私にその魔力があるならば！　私はその奇跡を掴み取るだろう、生涯を費やした願いを実現できるだろうッ！！」",
+              "translation": "\"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than asougi (10⁵⁶) and nayuta (10⁶⁰) multiplied together.\"\n\"The power to triumph over astronomical odds!! Yes, magical power is, in other words, having the luck to grasp miracles!! To obtain great magical power, one must bear a risk that is hopelessly great!! Those who possess no magic would call this not a bet, but pure desperation!\"\n\"However, those who truly do possess magical power can grasp hold of that miracle and make the enigma come into being!! And if that power exists within me! I will seize that miracle, I will be able to make the wish I devoted my life towards come true!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0639",
+              "umi1_3-L0640",
+              "umi1_3-L0644"
+            ],
+            "MG": [
+              "umi1_3-L0639",
+              "umi1_3-L0640",
+              "umi1_3-L0644"
+            ],
+            "UP": [
+              "umi1_3-L0639",
+              "umi1_3-L0640",
+              "umi1_3-L0644"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "阿僧祇、那由他を掛けたよりも多く counts an immense number of possible 目; 掛けた belongs to multiplying the large quantities. ひとつだけ刻まれた奇跡 is the sole miracle-result among them.",
+      "alternative": "The following English lines do preserve defeating astronomical odds and taking great risks, so the whole doctrine is not erased. But ‘instead of betting’ contradicts the illustrative logic, and the eyes phrase fails to express the roulette outcomes that make it intelligible.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-010",
+      "kind": "WH",
+      "description": "Kinzo is prostrate on the floor and claws at the floor with both hands. WH has him fold onto a bed and tear it. It replaces the location and the surface of his desperate action, introducing a bed into this moment in the study.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              664,
+              666
+            ],
+            "MG": [
+              664,
+              666
+            ],
+            "UP": [
+              664,
+              666
+            ]
+          },
+          "japanese": "……世迷言の如き怒鳴り声は、いつしか絶叫になり、…そして慟哭になっていた。\n金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。\n源次は掛ける言葉もなく、慟哭する主を見下ろしているしかなかった…。",
+          "japanesePC": "金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。",
+          "japanesePS3": "……世迷言の如き怒鳴り声は、いつしか絶叫になり、…そして慟哭になっていた。\n金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。\n源次は掛ける言葉もなく、慟哭する主を見下ろしているしかなかった…。",
+          "WH": "Kinzo folded over onto the bed, and tore it with both hands.",
+          "MG": "......His nonsensical yells became a scream...and then a wail.\nKinzo slumped to the floor, tearing at it with both hands.\nGenji had no choice but to wordlessly watch over his master's lamentations...",
+          "UP": "......His nonsensical yells segued into a scream, ...and then into a wail.\nKinzo crumpled onto the floor, and clawed at it with both hands.\nGenji had no choice but to wordlessly watch over his master's lament...",
+          "note": "Both have Kinzo collapse onto floor and claw it, not a bed.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0664",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0664"
+            ],
+            "MG": [
+              "umi1_3-L0664"
+            ],
+            "UP": [
+              "umi1_3-L0664"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……世迷言の如き怒鳴り声は、いつしか絶叫になり、…そして慟哭になっていた。金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。源次は掛ける言葉もなく、慟哭する主を見下ろしているしかなかった…。",
+              "translation": "......His nonsensical yells became a scream...and then a wail. Kinzo slumped to the floor, tearing at it with both hands. Genji had no choice but to wordlessly watch over his master's lamentations... "
+            },
+            "UP": {
+              "japanese": "……世迷言の如き怒鳴り声は、いつしか絶叫になり、…そして慟哭になっていた。金蔵はいつしか床の上に伏し、両手で床を掻き毟っていた。源次は掛ける言葉もなく、慟哭する主を見下ろしているしかなかった…。",
+              "translation": "......His nonsensical yells segued into a scream, ...and then into a wail. Kinzo crumpled onto the floor, and clawed at it with both hands. Genji had no choice but to wordlessly watch over his master's lament..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0664"
+            ],
+            "MG": [
+              "umi1_3-L0664"
+            ],
+            "UP": [
+              "umi1_3-L0664"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "床の上 and 両手で床 refer to the floor; the source repeats the surface in both clauses.",
+      "alternative": "床 can mean a sleeping place in other expressions, but the paired 床の上に伏し / 床を掻き毟る in this study scene gives no bed. An unseen furniture asset would not by itself change the written action.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH03-011",
+      "kind": "WH",
+      "description": "Battler contrasts lacking energy with being in a bad mood: the former could suggest serious illness, while the latter at least shows Kinzo’s mind or spirit remains firm. WH instead says ‘if he’s not healthy, and his mood is bad’ it proves he is ‘still hanging on.’ This removes the contrast and shifts the immediate inference from mental firmness to continued endurance despite illness.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              696,
+              702
+            ],
+            "MG": [
+              696,
+              702
+            ],
+            "UP": [
+              696,
+              702
+            ]
+          },
+          "japanese": "「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？\n元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ」\n「お祖父さまは特に強い気力をお持ちだからね。\n…でも、体が必ずしもそれに伴えるとは限らないよ。\n去年からずっと、余命３ヶ月って言われ続けてる」\n「…最初の診断が正しいなら、お祖父さまは気力だけで永らえてるってことになる。\n……気遣ってあげないといけないよ」",
+          "japanesePC": "「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？　元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ。」",
+          "japanesePS3": "「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？\n元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ」\n「お祖父さまは特に強い気力をお持ちだからね。\n…でも、体が必ずしもそれに伴えるとは限らないよ。\n去年からずっと、余命３ヶ月って言われ続けてる」\n「…最初の診断が正しいなら、お祖父さまは気力だけで永らえてるってことになる。\n……気遣ってあげないといけないよ」",
+          "WH": "\"......His disease can't be that bad, can it, with that kinda temper?  I mean, if he's not healthy, and his mood is bad, at least it's proof he's still hanging on.\"",
+          "MG": "\"...If he's as cranky as they make him sound, he can't be that terribly sick, right?\nI mean, they're saying he's in a bad mood, not that he's got no energy, which at least proves he's got his wits about him.\"\n\"It's because Grandfather has especially strong willpower.\n...However, that doesn't necessarily mean his body will be able to keep up.\nSince last year, they keep saying that he has three months left.\n...If the initial diagnosis was correct, Grandfather has been prolonging his life by willpower alone.\n......It's right for us to worry about him.\"",
+          "UP": "\"......His condition can't be that bad, can it, with that kinda temper?\nI mean, if they were saying he's not feeling well that'd be one thing, but if it's his mood that's bad, at least it's proof he's got some fight in him.\"\n\"Well, Grandfather does have especially strong willpower.\n...But, it doesn't mean that his body will always follow that.\nSince last year, they keep saying that he has three months left.\"\n\"...If the initial diagnosis was correct, Grandfather has been prolonging his life by willpower alone.\n......We have to be concerned for him.\"",
+          "note": "Both contrast low energy/illness with bad mood, preserving evidence of mental or spirited firmness and George qualification about bodily health.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_3-L0696",
+          "readerRefs": {
+            "WH": [
+              "umi1_3-L0696"
+            ],
+            "MG": [
+              "umi1_3-L0696",
+              "umi1_3-L0698",
+              "umi1_3-L0701"
+            ],
+            "UP": [
+              "umi1_3-L0696",
+              "umi1_3-L0698",
+              "umi1_3-L0701"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？　元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ」",
+              "translation": "\"...If he's as cranky as they make him sound, he can't be that terribly sick, right? I mean, they're saying he's in a bad mood, not that he's got no energy, which at least proves he's got his wits about him.\" "
+            },
+            "UP": {
+              "japanese": "「……機嫌が云々ってことは、病状はそんな悪くないんじゃねぇの？　元気がないってんならともかく、機嫌が悪いってのは、少なくとも気はしっかりしてる証拠だぜ」",
+              "translation": "\"......His condition can't be that bad, can it, with that kinda temper? I mean, if they were saying he's not feeling well that'd be one thing, but if it's his mood that's bad, at least it's proof he's got some fight in him.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_3-L0696"
+            ],
+            "MG": [
+              "umi1_3-L0696"
+            ],
+            "UP": [
+              "umi1_3-L0696"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "元気がないってんならともかく sets a contrast: if he lacked energy, that would be different. 気はしっかりしてる concerns mental or spirited firmness, and George responds by distinguishing strong will from physical condition.",
+      "alternative": "‘Still hanging on’ can imply spirited endurance and partly fit George’s reply. It does not recover the source’s explicit contrast; the English conjunction joins the two states the Japanese separates.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-SHANNON-IBIS-001",
+      "kind": "additional",
+      "description": "Battler jokes that a girl like Shannon should be protected before the crested ibis (トキより先に), comparing her unusual self-sacrificing disposition to a protected bird. / Needs some urgent protection removes the named bird and the comparative conservation joke. / Needs some urgent protection removes the same comparison.",
+      "categories": [
+        "linguistic.omission",
+        "world.culture_history",
+        "linguistic.wordplay"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              95,
+              96
+            ],
+            "MG": [
+              95,
+              96
+            ],
+            "UP": [
+              95,
+              96
+            ]
+          },
+          "japanese": "もちろん触られたくはないのだが…、客人がそれを望むなら何とか応えようという自己犠牲精神。\n…こんな子、トキより先に保護すべきだぞ…。",
+          "japanesePC": "",
+          "japanesePS3": "もちろん触られたくはないのだが…、客人がそれを望むなら何とか応えようという自己犠牲精神。\n…こんな子、トキより先に保護すべきだぞ…。",
+          "WH": "",
+          "MG": "Of course she didn't want her breasts touched, ...but if a guest so desired, she was prepared to sacrifice herself to suit their wants.\n...A girl like this needs some urgent protection...",
+          "UP": "Of course she didn't want her breasts touched, but...if a guest so desired, she intended to sacrifice her own needs in an effort to accommodate them.\n...A girl like this needs some urgent protection...!",
+          "note": "",
+          "dispositions": {
+            "MG": "shared_error",
+            "UP": "shared_error"
+          },
+          "readerRef": "umi1_3-L0095",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0095"
+            ],
+            "UP": [
+              "umi1_3-L0095"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "もちろん触られたくはないのだが…、客人がそれを望むなら何とか応えようという自己犠牲精神。…こんな子、トキより先に保護すべきだぞ…。",
+              "translation": "Of course she didn't want her breasts touched, ...but if a guest so desired, she was prepared to sacrifice herself to suit their wants. ...A girl like this needs some urgent protection... "
+            },
+            "UP": {
+              "japanese": "もちろん触られたくはないのだが…、客人がそれを望むなら何とか応えようという自己犠牲精神。…こんな子、トキより先に保護すべきだぞ…。",
+              "translation": "Of course she didn't want her breasts touched, but...if a guest so desired, she intended to sacrifice her own needs in an effort to accommodate them. ...A girl like this needs some urgent protection...!"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0095"
+            ],
+            "UP": [
+              "umi1_3-L0095"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler jokes that a girl like Shannon should be protected before the crested ibis (トキより先に), comparing her unusual self-sacrificing disposition to a protected bird.",
+      "alternative": "Urgent protection preserves the basic need to protect her, but not the explicitly named comparison or its humorous exaggeration. No endangered-status/date claim is required for this source-bound omission verdict.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-FOREST-BARRIER-001",
+      "kind": "additional",
+      "description": "Forests, like seas, geographically isolated cultures from one another; they were oceans on land. / Forests were geographically separated from civilization turns a barrier separating cultures into the forest itself being apart from civilization. / Geographically separating one culture from another preserves the barrier function.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              264,
+              268
+            ],
+            "MG": [
+              264,
+              268
+            ],
+            "UP": [
+              264,
+              268
+            ]
+          },
+          "japanese": "現在でこそ、森というと憩いのイメージを感じるが、\n文明の光が夜を駆逐するまでの前時代の人類にとって、森は海同様に文化を地理的に隔離する、地上の海同然だったのである。\n海に出る漁師たちが、専門的な知識を有してなお命を脅かされることもあるように。\n森に出る猟師たちにも専門的な知識が求められ、\n同じく命を脅かされることもあったのだ。",
+          "japanesePC": "",
+          "japanesePS3": "現在でこそ、森というと憩いのイメージを感じるが、\n文明の光が夜を駆逐するまでの前時代の人類にとって、森は海同様に文化を地理的に隔離する、地上の海同然だったのである。\n海に出る漁師たちが、専門的な知識を有してなお命を脅かされることもあるように。\n森に出る猟師たちにも専門的な知識が求められ、\n同じく命を脅かされることもあったのだ。",
+          "WH": "",
+          "MG": "Nowadays, most people see a forest as a peaceful place,\nbut to the people of bygone eras, before the light of civilization drove out the night, forests were as geographically separated from civilization as the sea.\nThey were oceans above the ground.\nFishermen who go out into the ocean are putting their lives at risk, despite their technical knowledge...\nIn the same way, hunters who go out to the forest are in danger, despite having specialized knowledge of their own.",
+          "UP": "Nowadays, most people see a forest as a peaceful place,\nbut to the people of bygone eras, before the light of civilization drove out the night, forests were like oceans on land, geographically separating one culture from another.\nJust as fishermen who go out into the ocean occasionally have their lives put in danger despite their technical knowledge...\n...technical knowledge was also demanded of hunters who went out into the forest,\nand their lives were occasionally put in danger just the same.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_3-L0264",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0264",
+              "umi1_3-L0266"
+            ],
+            "UP": [
+              "umi1_3-L0264",
+              "umi1_3-L0266"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "現在でこそ、森というと憩いのイメージを感じるが、文明の光が夜を駆逐するまでの前時代の人類にとって、森は海同様に文化を地理的に隔離する、地上の海同然だったのである。",
+              "translation": "Nowadays, most people see a forest as a peaceful place, but to the people of bygone eras, before the light of civilization drove out the night, forests were as geographically separated from civilization as the sea. "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0264"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "Forests, like seas, geographically isolated cultures from one another; they were oceans on land.",
+      "alternative": "Both still depict dangerous wilderness, but the grammatical relation in 文化を地理的に隔離する is cultures being isolated by forests, not forests being isolated from civilization. No separate historical-fact correction or puzzle consequence claimed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-BEATRICE-MEMORY-001",
+      "kind": "additional",
+      "description": "Prompted by George, Battler feels he may indeed remember being told that name when very small (教えられた気もする). / Was sure I recalled hearing a name like that makes his recollection expressly certain rather than a tentative sense of memory. / Did vaguely remember retains the weak recollection.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              279,
+              284
+            ],
+            "MG": [
+              279,
+              284
+            ],
+            "UP": [
+              279,
+              284
+            ]
+          },
+          "japanese": "ベアトリーチェ、\n…か。\n………兄貴に言われて記憶を探ると、確かにそんな名前だとだいぶ小さい頃に教えられた気もする。\n「…なるほどなぁ。\nしかし、あの魔女伝説の魔女に、ベアトリーチェなんてオシャレな名前が付いてたとは、とんと忘れてたぜ。\n……祖父さまめ、孫たちが信じないもんだから、わざわざ絵に描きやがったかぁ？」",
+          "japanesePC": "",
+          "japanesePS3": "ベアトリーチェ、\n…か。\n………兄貴に言われて記憶を探ると、確かにそんな名前だとだいぶ小さい頃に教えられた気もする。\n「…なるほどなぁ。\nしかし、あの魔女伝説の魔女に、ベアトリーチェなんてオシャレな名前が付いてたとは、とんと忘れてたぜ。\n……祖父さまめ、孫たちが信じないもんだから、わざわざ絵に描きやがったかぁ？」",
+          "WH": "",
+          "MG": "So, ...Beatrice,\nhuh?\n.........When Aniki mentioned it, I searched my memory and was sure I recalled hearing a name like that when I was little.\n\"...I see.\nStill, I totally forgot that the witch in that legend had an elegant name like Beatrice.\n......So, did Grandfather go out of his way to have a portrait made, just because we grandchildren didn't believe the story?\"",
+          "UP": "Beatrice,\n...huh.\n.........As I searched my memory prompted by Aniki, I did vaguely remember being told that was her name, when I was very small.\n\"...Riiight.\nStill, I completely forgot that the witch of that legend had an elegant name like Beatrice.\n......Goddamn, don't tell me Grandfather went out of his way to have her depicted in this painting just because us grandchildren refused to believe him?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_3-L0279",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0279",
+              "umi1_3-L0282"
+            ],
+            "UP": [
+              "umi1_3-L0279",
+              "umi1_3-L0282"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベアトリーチェ、…か。………兄貴に言われて記憶を探ると、確かにそんな名前だとだいぶ小さい頃に教えられた気もする。",
+              "translation": "So, ...Beatrice, huh? .........When Aniki mentioned it, I searched my memory and was sure I recalled hearing a name like that when I was little. "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0279"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "Prompted by George, Battler feels he may indeed remember being told that name when very small (教えられた気もする).",
+      "alternative": "MG a name like that still qualifies the exact name, and next line says he had forgotten it. Neither restores uncertainty about whether he actually recalls the childhood naming. No specific identity or solution inference consequence established.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-INCIPIENT-CHAIR-001",
+      "kind": "additional",
+      "description": "お誕生席 is the familiar head-of-table seat, here the highest-ranked position reserved for Kinzo. / Called the Incipient’s Chair introduces an unexplained term whose incipient wording does not convey the colloquial head-of-table designation. / Seat of honor conveys its placement/status intelligibly.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              327,
+              331
+            ],
+            "MG": [
+              327,
+              331
+            ],
+            "UP": [
+              327,
+              331
+            ]
+          },
+          "japanese": "一番奥正面のいわゆるお誕生席が最上位の席、祖父さまの指定席だ。\nそこはまだ空席だった。\n…もったいぶって最後に来るつもりなんだろう。\n席順の序列は、お誕生席を正面奥に見ながら、左右と序列が続き、序列の順位が低いほどお誕生席から遠のいていく。\nつまり、お誕生席に一番近い第１列目の左席、序列第２位の席は親兄弟の長兄の蔵臼伯父さんの席。",
+          "japanesePC": "",
+          "japanesePS3": "一番奥正面のいわゆるお誕生席が最上位の席、祖父さまの指定席だ。\nそこはまだ空席だった。\n…もったいぶって最後に来るつもりなんだろう。\n席順の序列は、お誕生席を正面奥に見ながら、左右と序列が続き、序列の順位が低いほどお誕生席から遠のいていく。\nつまり、お誕生席に一番近い第１列目の左席、序列第２位の席は親兄弟の長兄の蔵臼伯父さんの席。",
+          "WH": "",
+          "MG": "The seat at the head of the table, called the Incipient's Chair, was for the most highly ranked, reserved for Grandfather.\nIt was still empty.\n...He probably wanted to show up last for dramatic effect.\nFrom the perspective of someone facing the Incipient's Chair head on, the seating order went from left to right, with the lower ranking seats progressing in rows of two further away from it.\nSo, the left-hand side of the first row, closest to the Incipient's Chair, was where Uncle Krauss should have sat, since he was the second highest in rank.",
+          "UP": "The seat at the very head of the table, which you might call the seat of honor, was for the most highly ranked, and reserved for Grandfather.\nIt was still empty.\n...He was probably planning to come in last to make himself look important.\nThe seating order, as you faced the seat of honor, went from left to right in rows of two, with the ranking being lower the further you were from it.\nSo, on the left‐hand side of the row closest to the seat of honor was the second‐ranked seat, belonging to the eldest of the adult siblings—Uncle Krauss.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_3-L0327",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0327",
+              "umi1_3-L0330",
+              "umi1_3-L0331"
+            ],
+            "UP": [
+              "umi1_3-L0327",
+              "umi1_3-L0330",
+              "umi1_3-L0331"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "一番奥正面のいわゆるお誕生席が最上位の席、祖父さまの指定席だ。そこはまだ空席だった。\n…もったいぶって最後に来るつもりなんだろう。\n席順の序列は、お誕生席を正面奥に見ながら、左右と序列が続き、序列の順位が低いほどお誕生席から遠のいていく。\nつまり、お誕生席に一番近い第１列目の左席、序列第２位の席は親兄弟の長兄の蔵臼伯父さんの席。………伯父さんもまだ来てないようで空席だった。",
+              "translation": "The seat at the head of the table, called the Incipient's Chair, was for the most highly ranked, reserved for Grandfather. It was still empty. ...He probably wanted to show up last for dramatic effect. \nFrom the perspective of someone facing the Incipient's Chair head on, the seating order went from left to right, with the lower ranking seats progressing in rows of two further away from it. \nSo, the left-hand side of the first row, closest to the Incipient's Chair, was where Uncle Krauss should have sat, since he was the second highest in rank. .........It looked like he hadn't arrived yet, so that seat was empty. "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0327",
+              "umi1_3-L0330",
+              "umi1_3-L0331"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "お誕生席 is the familiar head-of-table seat, here the highest-ranked position reserved for Kinzo.",
+      "alternative": "MG immediately explains head of table and highest rank, so the seating map remains reconstructible. This is a local misleading designation, not a broken seating puzzle.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-MATERNAL-GENES-001",
+      "kind": "additional",
+      "description": "Battler interprets the ranking under the misogynist notion that a woman’s womb is borrowed, prioritizing direct children and grandchildren over unrelated spouses. / Womb is something to be borrowed retains the metaphor. / She contributes no genes adds a specific biological proposition absent from the Japanese metaphor.",
+      "categories": [
+        "linguistic.addition",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              348,
+              355
+            ],
+            "MG": [
+              348,
+              355
+            ],
+            "UP": [
+              348,
+              355
+            ]
+          },
+          "japanese": "普通、序列は配偶者にも準ずる格を認めるものだが、右代宮家は独自の序列を持っていた。\n……多分、男尊女卑の名残だろう。\n女の腹は借り物だとする考えに基づくと、直系の子供がもっとも序列が高く、孫が次。\n血の繋がらない配偶者たちは一番ビリって考えになるわけだ。\n……気の毒な話だが、その序列によるならば祖母さまが生きていたとして、\nその序列は俺よりも下だということになる。\n若い日には父に従い、嫁いでからは夫に従い、老いてからは子に従え。\n「女、三界に家なし」なんて言われた昔の名残だ。",
+          "japanesePC": "",
+          "japanesePS3": "普通、序列は配偶者にも準ずる格を認めるものだが、右代宮家は独自の序列を持っていた。\n……多分、男尊女卑の名残だろう。\n女の腹は借り物だとする考えに基づくと、直系の子供がもっとも序列が高く、孫が次。\n血の繋がらない配偶者たちは一番ビリって考えになるわけだ。\n……気の毒な話だが、その序列によるならば祖母さまが生きていたとして、\nその序列は俺よりも下だということになる。\n若い日には父に従い、嫁いでからは夫に従い、老いてからは子に従え。\n「女、三界に家なし」なんて言われた昔の名残だ。",
+          "WH": "",
+          "MG": "Normally, ranking systems of this sort give spouses equal positions as their partners, but the Ushiromiya family's system was unique.\n......Maybe it's a remnant of male chauvinism.\nIf you start with the assumption that a woman's womb is just something to be borrowed, then the children of direct descent would come first, directly followed by the grandchildren.\nIn other words, spouses have no blood ties and are therefore placed at the end of the line.\n......It's terrible, but by this system, my Grandmother would be ranked even lower than me,\nif she were still alive.\nIn their youth, they obey their father; after they get married, their husband; after aging, their children.\nThere's the old saying: \"Women have no home in any realm\".",
+          "UP": "These kind of ranking orders usually permit the spouse a corresponding status, but the Ushiromiya family had an original kind of ranking.\n......Maybe it's a leftover of male chauvinism.\nUnder the notion that a mother's womb is only a temporary house for the child and she contributes no genes, the children of direct descent would have the highest ranking, followed by the grandkids.\nMeaning that the spouses, with no blood ties, would be considered the last in line.\n......It's terrible, but according to that ranking order, Grandmother, if she was still alive,\nwould be in a position even lower than mine.\nIn youth, obey your father; after marriage, your husband; after aging, your children.\nA leftover of the times when they used to say, \"Women: no home in three worlds\".",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "UP_specific_in_paired_comparison"
+          },
+          "readerRef": "umi1_3-L0348",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0348",
+              "umi1_3-L0352",
+              "umi1_3-L0354",
+              "umi1_3-L0355"
+            ],
+            "UP": [
+              "umi1_3-L0348",
+              "umi1_3-L0352",
+              "umi1_3-L0354",
+              "umi1_3-L0355"
+            ]
+          },
+          "findingEvidence": {
+            "UP": {
+              "japanese": "普通、序列は配偶者にも準ずる格を認めるものだが、右代宮家は独自の序列を持っていた。……多分、男尊女卑の名残だろう。\n女の腹は借り物だとする考えに基づくと、直系の子供がもっとも序列が高く、孫が次。血の繋がらない配偶者たちは一番ビリって考えになるわけだ。",
+              "translation": "These kind of ranking orders usually permit the spouse a corresponding status, but the Ushiromiya family had an original kind of ranking. ......Maybe it's a leftover of male chauvinism.\nUnder the notion that a mother's womb is only a temporary house for the child and she contributes no genes, the children of direct descent would have the highest ranking, followed by the grandkids. Meaning that the spouses, with no blood ties, would be considered the last in line."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [],
+            "UP": [
+              "umi1_3-L0348"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler interprets the ranking under the misogynist notion that a woman’s womb is borrowed, prioritizing direct children and grandchildren over unrelated spouses.",
+      "alternative": "The added claim explicates an extreme patriarchal view of the mother as a vessel, but the source does not formulate that view as genetic noncontribution. Record the unsupported specificity without treating Battler’s account as author-endorsed biology or inferring a mystery rule.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-KRAUSS-MUMBLING-001",
+      "kind": "additional",
+      "description": "Krauss looks at his wristwatch and expresses his displeasure through his demeanor (悪態を態度で示して見せた). / Adds mumbling alongside acting as though he had wasted time. / Adds the same mumbling action.",
+      "categories": [
+        "linguistic.addition",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              479,
+              480
+            ],
+            "MG": [
+              479,
+              480
+            ],
+            "UP": [
+              479,
+              480
+            ]
+          },
+          "japanese": "蔵臼は踵を返す。\n腕時計を見て、わかりきっていたことに無駄な時間を費やしたという悪態を態度で示して見せた。",
+          "japanesePC": "",
+          "japanesePS3": "蔵臼は踵を返す。\n腕時計を見て、わかりきっていたことに無駄な時間を費やしたという悪態を態度で示して見せた。",
+          "WH": "",
+          "MG": "Krauss spun around.\nHe looked at his watch, mumbling and acting as though he had wasted time doing something he knew would be in vain.",
+          "UP": "Krauss spun on his heels.\nHe looked at his wristwatch, mumbling and acting as though he had wasted time doing something he knew would be in vain.",
+          "note": "",
+          "dispositions": {
+            "MG": "shared_error",
+            "UP": "shared_error"
+          },
+          "readerRef": "umi1_3-L0479",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0479"
+            ],
+            "UP": [
+              "umi1_3-L0479"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "蔵臼は踵を返す。腕時計を見て、わかりきっていたことに無駄な時間を費やしたという悪態を態度で示して見せた。",
+              "translation": "Krauss spun around. He looked at his watch, mumbling and acting as though he had wasted time doing something he knew would be in vain. "
+            },
+            "UP": {
+              "japanese": "蔵臼は踵を返す。腕時計を見て、わかりきっていたことに無駄な時間を費やしたという悪態を態度で示して見せた。",
+              "translation": "Krauss spun on his heels. He looked at his wristwatch, mumbling and acting as though he had wasted time doing something he knew would be in vain."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0479"
+            ],
+            "UP": [
+              "umi1_3-L0479"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Krauss looks at his wristwatch and expresses his displeasure through his demeanor (悪態を態度で示して見せた).",
+      "alternative": "悪態 can refer to spoken abuse, but here 態度で explicitly specifies the nonverbal means. The English separately introduces vocal muttering; emotional impatience remains intact.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-ABSINTHE-BOTTLE-001",
+      "kind": "additional",
+      "description": "The ornate bottle contains dark green liquid; Genji then pours a little into a glass before adding sugar and water. / In that complex and ornate glass replaces the bottle with a glass before the pouring step. / Complexly designed bottle preserves the initial container.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              544,
+              547
+            ],
+            "MG": [
+              544,
+              547
+            ],
+            "UP": [
+              544,
+              547
+            ]
+          },
+          "japanese": "複雑な意匠のボトルに満たされた暗緑色の不気味な液体は、酒だと教えられなければとても口に含む気にはなるまい。\n……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。",
+          "japanesePC": "",
+          "japanesePS3": "複雑な意匠のボトルに満たされた暗緑色の不気味な液体は、酒だと教えられなければとても口に含む気にはなるまい。\n……それをグラスに少々注ぎ、\n奇妙な形をしたスプーンに角砂糖を乗せてその上からピッチャーの水を注ぎ込む。\n不思議なことに、暗緑色の液体は透明な水が注ぎ込まれると白く濁る。",
+          "WH": "",
+          "MG": "No one would even think of drinking such an ominous dark green liquid in that complex and ornate glass, unless someone first told them it was alcohol.\n......He poured a little into the glass.\nThen, he placed a cube of sugar in a strangely shaped spoon and poured water from a pitcher over it.\nStrangely, when the transparent water was poured, the dark green liquid turned a cloudy white.",
+          "UP": "If you didn't know that the ghastly dark green liquid that filled the complexly designed bottle was liquor, you certainly wouldn't want to put it in your mouth.\n......He poured a small quantity of the spirit into the glass,\nplaced a cube of sugar in a strangely shaped spoon, and then poured water from a pitcher over it.\nStrangely, when the colorless water was poured into it, the dark green liquid turned a cloudy white.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_3-L0543",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0543",
+              "umi1_3-L0545",
+              "umi1_3-L0547"
+            ],
+            "UP": [
+              "umi1_3-L0543",
+              "umi1_3-L0545",
+              "umi1_3-L0547"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そんな書斎の中で、源次はいつもの慣れた手つきで、金蔵の愛飲する酒を準備する。複雑な意匠のボトルに満たされた暗緑色の不気味な液体は、酒だと教えられなければとても口に含む気にはなるまい。",
+              "translation": "Inside that study, Genji prepared Kinzo's usual drink with a well-trained hand. No one would even think of drinking such an ominous dark green liquid in that complex and ornate glass, unless someone first told them it was alcohol. "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0543"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "The ornate bottle contains dark green liquid; Genji then pours a little into a glass before adding sugar and water.",
+      "alternative": "Glass could loosely refer to material, but in that ... glass ordinarily names a drinking vessel, especially immediately before poured ... into the glass. The recipe steps otherwise remain operational; no ingredient or poisoning inference established.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-BEATRICE-ENTIRE-LIFE-001",
+      "kind": "additional",
+      "description": "Kinzo calls Beatrice his entire life (私の生涯の全てなのだ), after insisting she belongs in his arms. / For all my life makes the clause a duration of confinement rather than declaring her the entirety of his life. / You are my entire life preserves the declaration.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              608,
+              611
+            ],
+            "MG": [
+              608,
+              611
+            ],
+            "UP": [
+              608,
+              611
+            ]
+          },
+          "japanese": "お前は私の物だッ！！\n常に私の腕の中でなくてはならん！\n私の生涯の全てなのだ！！」\n「我が鳥篭にて永遠に私に、私だけに囁き続けるのだ！！",
+          "japanesePC": "",
+          "japanesePS3": "お前は私の物だッ！！\n常に私の腕の中でなくてはならん！\n私の生涯の全てなのだ！！」\n「我が鳥篭にて永遠に私に、私だけに囁き続けるのだ！！",
+          "WH": "",
+          "MG": "You belong to me!!\nYou must always be in my arms!\nFor all my life!\nYou must stay in my birdcage for all eternity, whispering only to me!!",
+          "UP": "You are mine!!\nYou cannot be anywhere but in my arms!\nYou are my entire life!\"\n\"You'll continue to whisper for all eternity in my bird cage to me, only to me!!",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_3-L0605",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0605",
+              "umi1_3-L0611"
+            ],
+            "UP": [
+              "umi1_3-L0605",
+              "umi1_3-L0611"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「憎みたくば憎むがよい！　逃げたければ逃げるがよい！！　逃がさぬ、逃がさぬ逃がさぬ逃がさぬわッ！！　お前は私の物だッ！！　常に私の腕の中でなくてはならん！　私の生涯の全てなのだ！！」",
+              "translation": "\"If you want to hate me, then do so! If you want to run away, then run!! I won't let you go, I won't let you go won't let you go won't let you go!! You belong to me!! You must always be in my arms! For all my life! "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0605"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "Kinzo calls Beatrice his entire life (私の生涯の全てなのだ), after insisting she belongs in his arms.",
+      "alternative": "MG surrounding obsession and eternal birdcage retain intensity, but duration is not the source declaration of total personal meaning. No separate mystery inference established.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-JESSICA-ILLITERATE-001",
+      "kind": "additional",
+      "description": "Kinzo insults Jessica as incompetent and uneducated/unlearned (無能で無学). / Incompetent and uneducated preserves the broad insult. / Incompetent and illiterate substitutes a more specific reading/writing incapacity for lack of education.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              595,
+              600
+            ],
+            "MG": [
+              595,
+              600
+            ],
+            "UP": [
+              595,
+              600
+            ]
+          },
+          "japanese": "「留弗夫の間抜けは女遊びばかりッ！！\n楼座はどこの馬の骨ともわからん男の赤ん坊など生みおって！！\n朱志香は無能で無学だ！！\n譲治には男としての器がない！\n戦人は右代宮家の栄誉を自ら捨ておった愚か者だッ！！\n真里亞など見るのも汚らわしいッ！！」",
+          "japanesePC": "",
+          "japanesePS3": "「留弗夫の間抜けは女遊びばかりッ！！\n楼座はどこの馬の骨ともわからん男の赤ん坊など生みおって！！\n朱志香は無能で無学だ！！\n譲治には男としての器がない！\n戦人は右代宮家の栄誉を自ら捨ておった愚か者だッ！！\n真里亞など見るのも汚らわしいッ！！」",
+          "WH": "",
+          "MG": "\"That dunce Rudolf just wants to fool around with women!!\nRosa bore the baby of a man who came from nowhere and about whom we know nothing!!\nJessica is incompetent and uneducated!!\nGeorge has none of what it takes to be a man!\nBattler is a fool who threw away the honor of the Ushiromiya family!!\nAnd Maria is obscene to the eye!!\"",
+          "UP": "\"That dunce Rudolf just wants to fool around with women!!\nRosa bore the baby of a nobody!!\nJessica is incompetent and illiterate!!\nGeorge has none of what it takes to be a man!\nBattler is a fool who threw away the honor of the Ushiromiya family!!\nAnd Maria is obscene to the eye!!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "UP_specific_in_paired_comparison"
+          },
+          "readerRef": "umi1_3-L0595",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0595"
+            ],
+            "UP": [
+              "umi1_3-L0595"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「留弗夫の間抜けは女遊びばかりッ！！　楼座はどこの馬の骨ともわからん男の赤ん坊など生みおって！！　朱志香は無能で無学だ！！　譲治には男としての器がない！　戦人は右代宮家の栄誉を自ら捨ておった愚か者だッ！！　真里亞など見るのも汚らわしいッ！！」",
+              "translation": "\"That dunce Rudolf just wants to fool around with women!! Rosa bore the baby of a man who came from nowhere and about whom we know nothing!! Jessica is incompetent and uneducated!! George has none of what it takes to be a man! Battler is a fool who threw away the honor of the Ushiromiya family!! And Maria is obscene to the eye!!\" "
+            },
+            "UP": {
+              "japanese": "「留弗夫の間抜けは女遊びばかりッ！！　楼座はどこの馬の骨ともわからん男の赤ん坊など生みおって！！　朱志香は無能で無学だ！！　譲治には男としての器がない！　戦人は右代宮家の栄誉を自ら捨ておった愚か者だッ！！　真里亞など見るのも汚らわしいッ！！」",
+              "translation": "\"That dunce Rudolf just wants to fool around with women!! Rosa bore the baby of a nobody!! Jessica is incompetent and illiterate!! George has none of what it takes to be a man! Battler is a fool who threw away the honor of the Ushiromiya family!! And Maria is obscene to the eye!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0595"
+            ],
+            "UP": [
+              "umi1_3-L0595"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo insults Jessica as incompetent and uneducated/unlearned (無能で無学).",
+      "alternative": "Illiterate can be used loosely as an insult for ignorance, especially in this rant. That mitigates severity, but its ordinary specific sense is stronger than 無学; do not endorse Kinzo’s insult as a reliable actual literacy assessment.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-ROULETTE-MAGNITUDE-001",
+      "kind": "additional",
+      "description": "The sole miracle occupies one outcome among more roulette outcomes than asougi multiplied by nayuta, a named enormous-number product. / Countless, enumerable results omits the named product and its deliberately extravagant scale. / Retains both named numbers and their product.",
+      "categories": [
+        "linguistic.undertranslation",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_3",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              639,
+              643
+            ],
+            "MG": [
+              639,
+              643
+            ],
+            "UP": [
+              639,
+              643
+            ]
+          },
+          "japanese": "「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」",
+          "japanesePC": "",
+          "japanesePS3": "「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」\n「その天文学的確率に勝利できる力！！\nそう、奇跡を掴み取る運気は即ち魔力なのだ！！\n強大な魔力を得るためには絶望的なリスクを背負わねばならぬ！！\n魔力持たぬ者はそれを賭けでなく自暴自棄と呼ぼう！」",
+          "WH": "",
+          "MG": "\"After all, Moses was able to magnificently summon a miracle engraved on but one of the countless, enumerable results on the roulette of those with power.\nThat is the force that can triumph over astronomical odds!!\nIndeed, good fortune that can grasp miracles is magical power itself!!\nTo obtain this mighty power, one must face the risk of despair!!\nThose who possess no magical power may call that desperation rather than a bet!\"",
+          "UP": "\"That is because Moses managed to spectacularly draw out the single miracle carved in the roulette of those in power, which has more pockets than asougi (10⁵⁶) and nayuta (10⁶⁰) multiplied together.\"\n\"The power to triumph over astronomical odds!!\nYes, magical power is, in other words, having the luck to grasp miracles!!\nTo obtain great magical power, one must bear a risk that is hopelessly great!!\nThose who possess no magic would call this not a bet, but pure desperation!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_3-L0639",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0639",
+              "umi1_3-L0640"
+            ],
+            "UP": [
+              "umi1_3-L0639",
+              "umi1_3-L0640"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「なぜならモーゼは、力ある者たちのルーレットの、阿僧祇、那由他を掛けたよりも多く存在する目の中にひとつだけ刻まれた奇跡を見事引き寄せることができたからだ」",
+              "translation": "\"After all, Moses was able to magnificently summon a miracle engraved on but one of the countless, enumerable results on the roulette of those with power. "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_3-L0639"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "The sole miracle occupies one outcome among more roulette outcomes than asougi multiplied by nayuta, a named enormous-number product.",
+      "alternative": "MG preserves astronomical odds and singular winning outcome, so the main risk/luck argument is restored. This is a limited loss of numeric rhetorical specificity, not recurrence of WH eyes/avoided-bet incoherence or a proven broken puzzle.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-CH03-001": {
+      "umi1_3-L0097": {
+        "WH": [
+          "Someone trip me",
+          "Without your word, I can't settle down"
+        ]
+      },
+      "umi1_3-L0101": {
+        "WH": [
+          "Someone trip me",
+          "Without your word, I can't settle down"
+        ]
+      }
+    },
+    "WH-EP01-CH03-002": {
+      "umi1_3-L0232": {
+        "WH": [
+          "In April of the year before last, as it had been arranged, the Master ordered an artist to paint it"
+        ]
+      }
+    },
+    "WH-EP01-CH03-003": {
+      "umi1_3-L0269": {
+        "WH": [
+          "anybody else other than Grandfather"
+        ]
+      }
+    },
+    "WH-EP01-CH03-004": {
+      "umi1_3-L0290": {
+        "WH": [
+          "I'm sorry, but she just doesn't exist"
+        ]
+      }
+    },
+    "WH-EP01-CH03-005": {
+      "umi1_3-L0377": {
+        "WH": [
+          "at odds with the other parents"
+        ]
+      }
+    },
+    "WH-EP01-CH03-006": {
+      "umi1_3-L0412": {
+        "WH": [
+          "I'll crucify the imbecile"
+        ],
+        "MG": [
+          "I'll crucify the imbecile"
+        ]
+      }
+    },
+    "WH-EP01-CH03-007": {
+      "umi1_3-L0549": {
+        "WH": [
+          "It improved the original flavor Kinzo liked"
+        ]
+      }
+    },
+    "WH-EP01-CH03-008": {
+      "umi1_3-L0570": {
+        "WH": [
+          "he agitated it"
+        ]
+      }
+    },
+    "WH-EP01-CH03-009": {
+      "umi1_3-L0639": {
+        "WH": [
+          "instead of betting on incalculable odds",
+          "within the eyes of many"
+        ]
+      },
+      "umi1_3-L0640": {
+        "WH": [
+          "instead of betting on incalculable odds",
+          "within the eyes of many"
+        ]
+      },
+      "umi1_3-L0644": {
+        "WH": [
+          "instead of betting on incalculable odds",
+          "within the eyes of many"
+        ]
+      }
+    },
+    "WH-EP01-CH03-010": {
+      "umi1_3-L0664": {
+        "WH": [
+          "folded over onto the bed, and tore it"
+        ]
+      }
+    },
+    "WH-EP01-CH03-011": {
+      "umi1_3-L0696": {
+        "WH": [
+          "if he's not healthy, and his mood is bad",
+          "he's still hanging on"
+        ]
+      }
+    },
+    "PAIR-EP01-SHANNON-IBIS-001": {
+      "umi1_3-L0095": {
+        "MG": [
+          "needs some urgent protection"
+        ],
+        "UP": [
+          "needs some urgent protection"
+        ]
+      }
+    },
+    "PAIR-EP01-FOREST-BARRIER-001": {
+      "umi1_3-L0264": {
+        "MG": [
+          "forests were as geographically separated from civilization as the sea"
+        ]
+      }
+    },
+    "PAIR-EP01-BEATRICE-MEMORY-001": {
+      "umi1_3-L0279": {
+        "MG": [
+          "was sure I recalled"
+        ]
+      }
+    },
+    "PAIR-EP01-INCIPIENT-CHAIR-001": {
+      "umi1_3-L0327": {
+        "MG": [
+          "Incipient's Chair"
+        ]
+      },
+      "umi1_3-L0330": {
+        "MG": [
+          "Incipient's Chair"
+        ]
+      },
+      "umi1_3-L0331": {
+        "MG": [
+          "Incipient's Chair"
+        ]
+      }
+    },
+    "PAIR-EP01-MATERNAL-GENES-001": {
+      "umi1_3-L0348": {
+        "UP": [
+          "she contributes no genes"
+        ]
+      }
+    },
+    "PAIR-EP01-KRAUSS-MUMBLING-001": {
+      "umi1_3-L0479": {
+        "MG": [
+          "mumbling"
+        ],
+        "UP": [
+          "mumbling"
+        ]
+      }
+    },
+    "PAIR-EP01-ABSINTHE-BOTTLE-001": {
+      "umi1_3-L0543": {
+        "MG": [
+          "complex and ornate glass"
+        ]
+      }
+    },
+    "PAIR-EP01-BEATRICE-ENTIRE-LIFE-001": {
+      "umi1_3-L0605": {
+        "MG": [
+          "For all my life"
+        ]
+      }
+    },
+    "PAIR-EP01-JESSICA-ILLITERATE-001": {
+      "umi1_3-L0595": {
+        "UP": [
+          "illiterate"
+        ]
+      }
+    },
+    "PAIR-EP01-ROULETTE-MAGNITUDE-001": {
+      "umi1_3-L0639": {
+        "MG": [
+          "countless, enumerable results"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

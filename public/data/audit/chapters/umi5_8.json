@@ -1,1 +1,1745 @@
-{"findings":[{"id":"WH-EP05-CH08-001","kind":"WH","description":"Recorder functionality question becomes invitation to use it.","categories":["linguistic.logical_relation","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[39,39],"MG":[39,39],"UP":[39,39]},"japanese":"……兄貴、こいつは動くのか？」","japanesePC":"「そうだな。......兄貴、こいつは動くのか？」","japanesePS3":"……兄貴、こいつは動くのか？」","WH":"\"Right.  ......Aniki, want to fire this up?\"","MG":"...Aniki, wanna fire this up?\"","UP":"......Aniki, does this thing work?\"","note":"Parent independently read1–120 all witnesses. MG39 retains activation invitation versus functionality question; UP restores. MG80 retains general school subject and independently introduces grammar; UP Japanese Lit restores subject partly but not classical specificity. UP78 donation box replaces figurehead shrine, PC22289–97 verified. Both44 damage warning replaces unauthorized handling restriction, supplementary canonical follows. HoldUP50 chuckling at pompous retains negative evaluation though less explicit fault-finding;1 lazily can mean unhurried in passive observation;24 marveled surprise disbelief can include exasperation;103 service compliance preserved91–102;40 audio/tape broader components records retained47. Source already supplies criminal anecdote110–116 and sacrifice metaphor112, no yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0038","readerRefs":{"WH":["umi5_8-L0038"],"MG":["umi5_8-L0038"],"UP":["umi5_8-L0038"]}}],"sourceReading":"Rudolf asks Krauss whether this audio equipment works: こいつは動くのか.","alternative":"Want to fire this up naturally starts the same practical discussion, but presumes readiness instead of asking about working condition.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-002","kind":"WH","description":"Classical literature class becomes any school class.","categories":["linguistic.undertranslation","linguistic.register_voice","world.culture_history"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[80,80],"MG":[80,80],"UP":[80,80]},"japanese":"「古典の授業程度には」","japanesePC":"「古典の授業程度には。」","japanesePS3":"「古典の授業程度には」","WH":"\"About as much as your average school class.\"","MG":"\"About as much in as your average school class.\"","UP":"\"About the same as Japanese Lit class.\"","note":"Parent independently read1–120 all witnesses. MG39 retains activation invitation versus functionality question; UP restores. MG80 retains general school subject and independently introduces grammar; UP Japanese Lit restores subject partly but not classical specificity. UP78 donation box replaces figurehead shrine, PC22289–97 verified. Both44 damage warning replaces unauthorized handling restriction, supplementary canonical follows. HoldUP50 chuckling at pompous retains negative evaluation though less explicit fault-finding;1 lazily can mean unhurried in passive observation;24 marveled surprise disbelief can include exasperation;103 service compliance preserved91–102;40 audio/tape broader components records retained47. Source already supplies criminal anecdote110–116 and sacrifice metaphor112, no yellow.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi5_8-L0080","readerRefs":{"WH":["umi5_8-L0080"],"MG":["umi5_8-L0080"],"UP":["umi5_8-L0080"]}}],"sourceReading":"Battler compares his sleepiness specifically to a classical literature class, 古典の授業.","alternative":"The generic school-class comparison retains the boredom joke, but removes the targeted subject and broadens his dismissiveness to classes generally.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-003","kind":"WH","description":"Cabaret club as route to young company becomes age barrier.","categories":["linguistic.logical_relation","character.voice_state","world.culture_history"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[145,145],"MG":[145,145],"UP":[145,145]},"japanese":"若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」","japanesePC":"「わっはははははは。そやなぁ。若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ。」","japanesePS3":"若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」","WH":"\"Wahahahahahaha.  That's right.  I thought it'd be nice to talk to some young kids, but that'll be pretty hard when I'm too old even to go to a cabaret club.\"","MG":"I thought it'd be nice to talk to some young kids, but that'll be pretty hard when I'm too old even to go to a cabaret club.\"","UP":"The only way I'm gettin' to talk to young folk at this age is goin' to a cabaret club.\"","note":"Parent independently read121–240 all witnesses and PC22666–75,22690–96,22753–60. MG145 retains wrong too-old-to-go barrier; UP restores club as route to young company. MG190 loses deliberate magazine collaboration in reputational attack;196 clambering wrong speech verb, supplements follow. MG217 husband compassion reflects PC包容 vs PS3抱擁 embrace; UP PS3 basis. Record edition wording basis, no added material claim. HoldUP153 another knock can refer to earlier servant knock84–85, not necessarily new repeat within152–153. MG171 a ways off2F keeps separation;193195 last-moment timing restored;234 signed documents implies use at discretion;222 fragment unusual current warmth still clear. No proven yellow addition.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0143","readerRefs":{"WH":["umi5_8-L0143"],"MG":["umi5_8-L0143"],"UP":["umi5_8-L0143"]}}],"sourceReading":"At his age, Hideyoshi says it is difficult to talk with young people unless he goes somewhere like a cabaret club.","alternative":"Both versions invoke age and cabaret clubs, but WH reverses the club’s role from available means of meeting young people to something age prevents him doing.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-004","kind":"WH","description":"Loss of both supports becomes loss of either support.","categories":["linguistic.logical_relation","mystery.scope_quantifier_negation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[245,245],"MG":[245,245],"UP":[245,245]},"japanese":"それが両方とも揺らげば、後には何も残らない。","japanesePC":"それが両方とも揺らげば、後には何も残らない。","japanesePS3":"それが両方とも揺らげば、後には何も残らない。","WH":"If either of those weakened, nothing would remain.","MG":"If either of those weakened, nothing would remain.","UP":"If those were both undermined, nothing would remain.","note":"Parent independently read241–360 all witnesses and PC22978–85. MG245 either for both retained, UP restores both; MG247 exchange rather than substitute retained, UP restores head-saving arm sacrifice. MG277 introduced report-subject shift confirmed. Hold241–243 name identity rhetoric follows tombstone238 and request together239, preserving refusal to cease being spouse despite awkward wording;UP242 head context240. Hold353 easy season communicates comfort though unidiomatic;310 irritation effects compatible suspense;290 free indirect first person valid;234 discretionary use signed forms implied. No yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0244","readerRefs":{"WH":["umi5_8-L0244"],"MG":["umi5_8-L0244"],"UP":["umi5_8-L0244"]}}],"sourceReading":"Krauss depends on trust and financial strength. If both are shaken, nothing remains. Disappearance sacrifices one support, risking collapse without asserting inevitable loss of everything.","alternative":"The next blood-loss analogy acknowledges one injury could still prove fatal, but that possibility does not justify changing the categorical both condition to either.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-005","kind":"WH","description":"Arm offered instead of beheading becomes exchange for beheading.","categories":["linguistic.logical_relation","linguistic.imagery_rhythm_recurrence","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[247,247],"MG":[247,247],"UP":[247,247]},"japanese":"……首を斬られる代わりに右腕を差し出すようなもの。","japanesePC":"......首を斬られる代わりに右腕を差し出すようなもの。","japanesePS3":"……首を斬られる代わりに右腕を差し出すようなもの。","WH":"......It was like offering your right arm in exchange for your neck being cut.","MG":"......It was like offering your right arm in exchange for your neck being cut.","UP":"......It was like offering your right arm to save your head from being cut off.","note":"Parent independently read241–360 all witnesses and PC22978–85. MG245 either for both retained, UP restores both; MG247 exchange rather than substitute retained, UP restores head-saving arm sacrifice. MG277 introduced report-subject shift confirmed. Hold241–243 name identity rhetoric follows tombstone238 and request together239, preserving refusal to cease being spouse despite awkward wording;UP242 head context240. Hold353 easy season communicates comfort though unidiomatic;310 irritation effects compatible suspense;290 free indirect first person valid;234 discretionary use signed forms implied. No yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0244","readerRefs":{"WH":["umi5_8-L0244"],"MG":["umi5_8-L0244"],"UP":["umi5_8-L0244"]}}],"sourceReading":"首を斬られる代わりに右腕を差し出す compares the fallback to giving up an arm instead of having one’s head cut off, choosing severe survivable injury over immediate destruction.","alternative":"The following sentence correctly says the injury is better than losing the neck and may cause death from blood loss, which restores the intended hierarchy. The primary English in exchange for your neck being cut nonetheless reverses the substitute relationship.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-006","kind":"WH","description":"Moral purity façade becomes neat-freak motherhood.","categories":["linguistic.word_choice","character.irony_performance","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[416,416],"MG":[416,416],"UP":[416,416]},"japanese":"よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。","japanesePC":"「嬉しいですって言ってほしいな、この人殺しめ。よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。その反吐を、あんたの夫や娘にもぶちまけられたいかい？　嫌だろ？　黙ってて欲しいだろ？　あぁ、黙っててやるよ、ほら、嬉しいだろ？　嬉しいだろッ？！」","japanesePS3":"よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。","WH":"\"I want you to tell me you're happy, you murderer.  How dare you act like a normal, neat-freak mother.  You make me want to vomit.  Do you want that to land on your husband and daughter as well?  You don't, do you?  You want me to keep quiet, don't you?  Yeah, I'll keep quiet.  See, aren't you happy?  Aren't you happy?!\"","MG":"How dare you act like a normal, neat-freak mother. You make me want to vomit.","UP":"How dare you act like a normal, neat‐freak mother. You make me want to vomit.","note":"Parent independently read361–480 all witnesses. Both416 retain neat-freak mother for morally pure wife facade; MG463 multiple calling phones and large mansion462 restore core distribution, UP direct all-over distribution. MG393 interrupt rather than talk back distinct prohibited act, supplementary canonical follows. HoldUP453 unqualified accidental arrival inside Natsuhi focal thought452454 does not certify objective coincidence;MG385 at first can mean initial impression with actual tone change383;367 caller emphatic claim knew vs certain not independent objective certification;UP424 burden in explicit blackmail context389390417 identifies involvement. Source explicitly older brother467, no unspecified-child parent reuse. No yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_8-L0415","readerRefs":{"WH":["umi5_8-L0415"],"MG":["umi5_8-L0415"],"UP":["umi5_8-L0415"]}}],"sourceReading":"Calling her a murderer, the caller attacks her acting the morally spotless or scrupulous lady/wife: 潔癖な奥様面. This accuses hypocrisy, not domestic tidiness.","alternative":"潔癖 can refer to cleanliness, but the direct juxtaposition with murderer and threatened disclosure to husband and daughter establishes moral purity here. Neat-freak and normal recast the accusation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-007","kind":"WH","description":"Distributed telephones become a generic phone system.","categories":["linguistic.undertranslation","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[463,463],"MG":[463,463],"UP":[463,463]},"japanese":"電話だってそこいら中にあるしな。","japanesePC":"「......あんたの紹介がない内は、誰の前にも現れないさ。安心しな。.........おっと、俺を探しても無駄だよ。あんたの屋敷は広い。電話だってそこいら中にあるしな。あんただって、俺に会いたくないだろ？　......それとも、俺を見つけ出して、みんなに紹介してくれるのか...？　朱志香にも紹介してくれよ。......１つ上の兄です、ってな。くっくくくくくくくくくくく！！」","japanesePS3":"電話だってそこいら中にあるしな。","WH":"\"......I won't appear in front of anyone until you introduce me.  Don't worry.  .........Oh yeah, it's useless to try and search for me.  Your mansion is huge.  You even have a phone system in it.  And I'm sure you don't want to meet me, right?  ......Or else, do you want to expose me and introduce me to everyone...?  Introduce me to Jessica too.  ......Tell her I'm her older brother by one year.  Heheheheheheheheheheheheheheh!!\"","MG":"and you have no shortage of phones I could be calling from.","UP":"And you have phones all over the place.","note":"Parent independently read361–480 all witnesses. Both416 retain neat-freak mother for morally pure wife facade; MG463 multiple calling phones and large mansion462 restore core distribution, UP direct all-over distribution. MG393 interrupt rather than talk back distinct prohibited act, supplementary canonical follows. HoldUP453 unqualified accidental arrival inside Natsuhi focal thought452454 does not certify objective coincidence;MG385 at first can mean initial impression with actual tone change383;367 caller emphatic claim knew vs certain not independent objective certification;UP424 burden in explicit blackmail context389390417 identifies involvement. Source explicitly older brother467, no unspecified-child parent reuse. No yellow material.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_8-L0459","readerRefs":{"WH":["umi5_8-L0459","umi5_8-L0465"],"MG":["umi5_8-L0459"],"UP":["umi5_8-L0459"]}}],"sourceReading":"The caller says the mansion is large and telephones are everywhere, giving multiple possible calling locations as the reason searching is useless.","alternative":"A mansion phone system may imply multiple extensions, and previous internal-call references help, but WH omits the explicit distribution that supports the location argument.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-008","kind":"WH","description":"Nanjo credits liquor instead of Gohda’s accompaniments.","categories":["linguistic.word_choice","character.relationship_power","world.world_fact"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[673,673],"MG":[673,673],"UP":[673,673]},"japanese":"「それを言ったら、あんたの酒の肴のお陰だ。","japanesePC":"「それを言ったら、あんたの酒の肴のお陰だ。また、別の機会に一杯やりましょう。」","japanesePS3":"「それを言ったら、あんたの酒の肴のお陰だ。","WH":"\"If so, it's all thanks to your liquor.  We'll have to do this again sometime.\"","MG":"\"If so, it's all thanks to your liquor.","UP":"\"No, no, it was your skill at entertaining that made the difference.","note":"Parent independently read601–761 all witnesses. MG673 liquor retained; UP removes liquor and credits entertaining, partial: 酒の肴 accompaniments not explicitly restored, literal snacks favored plates665 and cooking709 though conversational figurative use possible. MG700 factual truth retained; UP approves choice. Both621 ring stiffness substitutes rough chunky shape,659 painkiller substitutes calming sedative following emotional numbness658; supplements follow. HoldUP685 took upon myself initiative does not deny permission to join, though allowed source clearer;708 boast consistent Gohda709710 and invitation still present;681 group referent parents conference or guests here plausible;696 gesture evoking curtsy not firm physical action certification. No yellow.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi5_8-L0673","readerRefs":{"WH":["umi5_8-L0673"],"MG":["umi5_8-L0673"],"UP":["umi5_8-L0673"]}}],"sourceReading":"酒の肴 means the food or snacks served with drinks. Nanjo returns Gohda’s compliment by crediting those accompaniments for their enjoyable evening.","alternative":"The bar-like counter and offered refill make liquor salient, but the source distinguishes food from liquor and the later passage emphasizes Gohda’s culinary pride.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-009","kind":"WH","description":"Approval of Rosa going to bed becomes factual assent.","categories":["linguistic.logical_relation","character.viewpoint_attribution","mystery.epistemic_status"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[700,700],"MG":[700,700],"UP":[700,700]},"japanese":"それが正しいだろうな…。","japanesePC":"それが正しいだろうな...。","japanesePS3":"それが正しいだろうな…。","WH":"That's probably true...","MG":"That's probably true...","UP":"That was probably the right choice...","note":"Parent independently read601–761 all witnesses. MG673 liquor retained; UP removes liquor and credits entertaining, partial: 酒の肴 accompaniments not explicitly restored, literal snacks favored plates665 and cooking709 though conversational figurative use possible. MG700 factual truth retained; UP approves choice. Both621 ring stiffness substitutes rough chunky shape,659 painkiller substitutes calming sedative following emotional numbness658; supplements follow. HoldUP685 took upon myself initiative does not deny permission to join, though allowed source clearer;708 boast consistent Gohda709710 and invitation still present;681 group referent parents conference or guests here plausible;696 gesture evoking curtsy not firm physical action certification. No yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0700","readerRefs":{"WH":["umi5_8-L0700"],"MG":["umi5_8-L0700"],"UP":["umi5_8-L0700"]}}],"sourceReading":"After learning Rosa returned about01:00 and immediately went upstairs to sleep, Battler says that was the right thing to do; the next thought explains that he too wants to collapse after the conference.","alternative":"That is probably true can read as loose agreement, but it judges report truth rather than the appropriateness of her action and inserts uncertainty not supplied by this sentence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-010","kind":"WH","description":"WH replaces the warning not to tamper without permission with a warning not to mess anything up.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[44,44],"MG":[44,44],"UP":[44,44]},"japanese":"「勝手にいじらないように…！","japanesePC":"「勝手にいじらないように...！　当主様の大切な音楽テープですよ！」","japanesePS3":"「勝手にいじらないように…！","WH":"\"Make sure you don't mess anything up...!  Those are Father's precious music tapes!\"","MG":"\"Make sure you don't mess anything up...!","UP":"\"Make sure you don't mess anything up...!","note":"Original PC and coherent paired context verified under ep05-ch08-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_8-L0044","readerRefs":{"WH":["umi5_8-L0044"],"MG":["umi5_8-L0044"],"UP":["umi5_8-L0044"]}}],"sourceReading":"勝手にいじらないように prohibits unauthorized fiddling with the equipment/tapes, regardless of whether it causes damage.","alternative":"Do not mess anything up can discourage tinkering generally, but its explicit restriction is damage/disorder and permits careful unauthorized handling. The next line explains why the tapes are precious without restoring permission.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-011","kind":"WH","description":"WH replaces the relatives collaborating with a dubious magazine to damage Krauss credit with the matter merely appearing in a magazine and damaging his credit.","categories":["linguistic.wrong_subject"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[190,190],"MG":[190,190],"UP":[190,190]},"japanese":"…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」","japanesePC":"「そのようなことをすれば、......絵羽たちは疑わしいと騒ぎ立てるだろう。絵羽たちはカネをせしめるためなら、形振りなど構うまい。...それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない。」","japanesePS3":"…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」","WH":"\"If we do such a thing, ......Eva and the others will doubtless make a fuss that our actions were suspicious.  They aren't worried about appearances as long as they can squeeze some money out of us.  ...It might end up in some odd magazine and cause serious damage to the confidence placed in me.\"","MG":"...It might end up in some odd magazine and cause serious damage to the confidence placed in me.\"","UP":"...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me.\"","note":"Original PC and coherent paired context verified under ep05-ch08-supplement-b-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0188","readerRefs":{"WH":["umi5_8-L0188"],"MG":["umi5_8-L0188"],"UP":["umi5_8-L0188"]}}],"sourceReading":"おかしな雑誌とつるんで...与えてくる attributes intentional collaboration and attack to Eva group, not simply unwanted reporting.","alternative":"Their willingness to obtain money at any cost189 makes hostile involvement plausible, but passive publication does not preserve the stated collusion. The loss is local agency, not an assertion that the relatives are innocent.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-012","kind":"WH","description":"WH uses clambering about for the relatives raising accusations that Father is locked up.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[196,196],"MG":[196,196],"UP":[196,196]},"japanese":"「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？","japanesePC":"「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？　その方がはるかに疑いを招きます...！！」","japanesePS3":"「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？","WH":"\"You want to wait until after they start clambering about how we've locked Father up, and then say he's gone missing?  That way would invite much more suspicion...!!\"","MG":"\"You want to wait until after they start clambering about how we've locked Father up, and then say he's gone missing?","UP":"\"You want to wait until after they start accusing us of locking Father up, and then reply that he's gone missing?","note":"Original PC and coherent paired context verified under ep05-ch08-supplement-b-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0196","readerRefs":{"WH":["umi5_8-L0196"],"MG":["umi5_8-L0196"],"UP":["umi5_8-L0196"]}}],"sourceReading":"騒ぎ立て describes making a fuss or clamoring; clamber means climbing awkwardly and is not a speech-reporting verb here.","alternative":"Physical commotion could accompany an accusation, but no climbing is stated and clambering about how is not an idiomatic way to report speech.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-013","kind":"WH","description":"WH changes the threatening injunction never to talk back into an injunction not to interrupt again.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[393,393],"MG":[393,393],"UP":[393,393]},"japanese":"二度と口答えするな、とでも言うように、男は再び低い声で脅す…。","japanesePC":"二度と口答えするな、とでも言うように、男は再び低い声で脅す...。","japanesePS3":"二度と口答えするな、とでも言うように、男は再び低い声で脅す…。","WH":"Once again, the man threatened her in a low voice, as though warning her not to interrupt again...","MG":"Once again, the man threatened her in a low voice, as though warning her not to interrupt again...","UP":"Once again, the man threatened me in a low voice, as though warning me never to talk back to him again...","note":"Original PC and coherent paired context verified under ep05-ch08-supplement-c-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_8-L0393","readerRefs":{"WH":["umi5_8-L0393"],"MG":["umi5_8-L0393"],"UP":["umi5_8-L0393"]}}],"sourceReading":"口答え is answering back or opposing an instruction. Natsuhi asks why379 and is ordered to obey381–382; the prohibition concerns defiance rather than taking a speech turn.","alternative":"Interruption can accompany a challenge, but conversational timing and opposition are distinct acts. Adjacent commands preserve coercion without restoring the specific ban on answering back.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-014","kind":"WH","description":"WH replaces the ring rough chunky physical form with stiffness.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[621,621],"MG":[621,621],"UP":[621,621]},"japanese":"重く、ごつごつした指輪だった……。","japanesePC":"重く、ごつごつした指輪だった......。","japanesePS3":"重く、ごつごつした指輪だった……。","WH":"The ring was heavy and stiff......","MG":"The ring was heavy and stiff...","UP":"The ring was heavy and stiff......","note":"Original PC and coherent paired context verified under ep05-ch08-supplement-d-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_8-L0619","readerRefs":{"WH":["umi5_8-L0619"],"MG":["umi5_8-L0619"],"UP":["umi5_8-L0619"]}}],"sourceReading":"ごつごつ describes irregular bulky or rough form/texture. It does not describe resistance to bending.","alternative":"The ring is also heavy and presumably rigid, but stiffness does not preserve the explicitly described surface/form. This is a local object description without a puzzle-mechanism claim.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH08-015","kind":"WH","description":"WH replaces drowsiness as a calming sedative with drowsiness as a painkiller.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[659,659],"MG":[659,659],"UP":[659,659]},"japanese":"眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。","japanesePC":"眠さに勝る鎮静剤は、きっと、存在しないに違いないな...。","japanesePS3":"眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。","WH":"I guess no painkiller works better than drowsiness...","MG":"I guess drowsiness is the best painkiller...","UP":"I guess no painkiller works better than drowsiness...","note":"Original PC and coherent paired context verified under ep05-ch08-supplement-d-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_8-L0658","readerRefs":{"WH":["umi5_8-L0658"],"MG":["umi5_8-L0658"],"UP":["umi5_8-L0658"]}}],"sourceReading":"鎮静剤 denotes calming/sedation; the preceding sentence says exasperation and anger towards the parents have disappeared. The metaphor explains emotional calming, not pain relief.","alternative":"English painkiller can metaphorically soothe distress, but it shifts the specific comparison from calming agitation to removing pain. No medical advice or literal drug action is inferred.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH08-001-120-001","kind":"additional","description":"UP replaces the portable-shrine figurehead metaphor with a donation box.","categories":["linguistic.word_choice"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[76,82],"MG":[76,82],"UP":[76,82]},"japanese":"「俺は、いつまでここでぼさーっとしてりゃいいんすかね」\n「……さぁ。\n戦人くんは私たちのお神輿だからね。\n……眠い？」\n「古典の授業程度には」\n「今夜はどうせお父さんは現れないでしょう。\n蔵臼兄さんたちが戻ってきたら、戦人くんはもう戻っていいかと提案してみるわ」","japanesePC":"","japanesePS3":"「俺は、いつまでここでぼさーっとしてりゃいいんすかね」\n「……さぁ。\n戦人くんは私たちのお神輿だからね。\n……眠い？」\n「古典の授業程度には」\n「今夜はどうせお父さんは現れないでしょう。\n蔵臼兄さんたちが戻ってきたら、戦人くんはもう戻っていいかと提案してみるわ」","WH":"","MG":"\"Just how long am I gonna have to sit around here doing nothing?\"\n\"...Who knows.\nAfter all, you're like our own portable shrine.\n...Sleepy?\"\n\"About as much in as your average school class.\"\n\"I'm pretty sure Father isn't going to show up tonight anyway.\nWhen Krauss nii-san and the rest come back, I'll propose that we might as well let you go.\"","UP":"\"Just how long am I going to have to sit around doing nothing here?\"\n\"......Who knows.\nAfter all, you're like our personal donation box.\n......Sleepy?\"\n\"About the same as Japanese Lit class.\"\n\"I'm pretty sure Father won't show up tonight anyway.\nWhen Krauss nii‐san and the rest come back, I'll propose that we might as well let you go.\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi5_8-L0076","readerRefs":{"WH":[],"MG":["umi5_8-L0076","umi5_8-L0077","umi5_8-L0080","umi5_8-L0081"],"UP":["umi5_8-L0076","umi5_8-L0077","umi5_8-L0080","umi5_8-L0081"]}}],"sourceReading":"お神輿 portable shrine metaphor: supporters carry Battler as their nominal leader in the succession dispute. OriginalPC22289/22291 and MG preserve shrine. UP personal donation box substitutes a vessel for donations.","alternative":"Both can suggest exploiting him financially, but donations are not the relationship asserted. His required presence as their symbolic leader is the operative reason76–82.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH08-001-120-002","kind":"additional","description":"MG inserts in into About as much as, making the comparison ungrammatical.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[80,80],"MG":[80,80],"UP":[80,80]},"japanese":"「古典の授業程度には」","japanesePC":"","japanesePS3":"「古典の授業程度には」","WH":"","MG":"\"About as much in as your average school class.\"","UP":"\"About the same as Japanese Lit class.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi5_8-L0080","readerRefs":{"WH":[],"MG":["umi5_8-L0080"],"UP":["umi5_8-L0080"]}}],"sourceReading":"MG About as much in as your average school class has an extraneous in. OriginalPC22297 About as much as is grammatical; UP comparison grammatical.","alternative":"Meaning understandable but in as is malformed. This distinct introduced grammar issue is separate from canonical002 subject specificity.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH08-241-360-001","kind":"additional","description":"MG replaces the caller refusing to answer with Genji saying he cannot give an answer.","categories":["linguistic.wrong_subject"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[276,278],"MG":[276,278],"UP":[276,278]},"japanese":"「よ、……用件は何だと言っていますか」\n「………お答えいただけません。\n奥様と直接お話ししたいとの一点張りでございます」","japanesePC":"","japanesePS3":"「よ、……用件は何だと言っていますか」\n「………お答えいただけません。\n奥様と直接お話ししたいとの一点張りでございます」","WH":"","MG":"\"...D-Did he say what business he had with me?\"\n\"......I can give you no answer on that matter.\nHe kept insisting that he wanted to speak to you directly.\"","UP":"\"D‐......did he say what business he had with me?\"\n\".........He would not answer.\nHe kept insisting that he wanted to speak to you directly.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi5_8-L0276","readerRefs":{"WH":[],"MG":["umi5_8-L0276","umi5_8-L0277"],"UP":["umi5_8-L0276","umi5_8-L0277"]}}],"sourceReading":"お答えいただけません reports Genji cannot obtain the caller answer. OriginalPC22980/22982 and UP He would not answer identify caller refusal. MG I can give you no answer on that matter substitutes Genji inability/refusal to relay an answer.","alternative":"Genji inability could result from caller refusal, but it no longer reports that refusal itself.278 insistence on speaking directly helps infer motive, not restore the reported action.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH08-481-600-001","kind":"additional","description":"UP drops the explicit single kanji character on the card, replacing it with one English word.","categories":["linguistic.omission"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi5_8","episode":5,"rows":{"JP":[500,502],"MG":[500,502],"UP":[500,502]},"japanese":"それは、タロットカードのような絵柄が書かれていて、\n……漢字で一文字、\n“秋”と書かれていた………。","japanesePC":"","japanesePS3":"それは、タロットカードのような絵柄が書かれていて、\n……漢字で一文字、\n“秋”と書かれていた………。","WH":"","MG":"It had a pattern on it like a tarot card,\n...and also...\n\"秋\", the kanji for autumn......","UP":"It had a pattern on it like a tarot card,\nalong with one single word:\n\"Autumn\".........","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi5_8-L0499","readerRefs":{"WH":[],"MG":["umi5_8-L0499"],"UP":["umi5_8-L0499"]}}],"sourceReading":"漢字で一文字 秋 specifies exactly one written kanji character. MG preserves literal秋 and kanji; originalPC23605–23611 also does. UP one single word Autumn preserves meaning but removes writing-system and character-count information.","alternative":"An English gloss communicates the season, but source explicitly describes physical writing rather than merely its meaning. No visual asset is assumed to restore prose information, and no graphics defect is asserted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP05-CH08-001",
+      "kind": "WH",
+      "description": "Recorder functionality question becomes invitation to use it.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              39,
+              39
+            ],
+            "MG": [
+              39,
+              39
+            ],
+            "UP": [
+              39,
+              39
+            ]
+          },
+          "japanese": "……兄貴、こいつは動くのか？」",
+          "japanesePC": "「そうだな。......兄貴、こいつは動くのか？」",
+          "japanesePS3": "……兄貴、こいつは動くのか？」",
+          "WH": "\"Right.  ......Aniki, want to fire this up?\"",
+          "MG": "...Aniki, wanna fire this up?\"",
+          "UP": "......Aniki, does this thing work?\"",
+          "note": "Parent independently read1–120 all witnesses. MG39 retains activation invitation versus functionality question; UP restores. MG80 retains general school subject and independently introduces grammar; UP Japanese Lit restores subject partly but not classical specificity. UP78 donation box replaces figurehead shrine, PC22289–97 verified. Both44 damage warning replaces unauthorized handling restriction, supplementary canonical follows. HoldUP50 chuckling at pompous retains negative evaluation though less explicit fault-finding;1 lazily can mean unhurried in passive observation;24 marveled surprise disbelief can include exasperation;103 service compliance preserved91–102;40 audio/tape broader components records retained47. Source already supplies criminal anecdote110–116 and sacrifice metaphor112, no yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0038",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0038"
+            ],
+            "MG": [
+              "umi5_8-L0038"
+            ],
+            "UP": [
+              "umi5_8-L0038"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうだな。……兄貴、こいつは動くのか？」",
+              "translation": "\"Good point. ...Aniki, wanna fire this up?\" "
+            },
+            "UP": {
+              "japanese": "「そうだな。……兄貴、こいつは動くのか？」",
+              "translation": "\"Right. ......Aniki, does this thing work?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0038"
+            ],
+            "MG": [
+              "umi5_8-L0038"
+            ],
+            "UP": [
+              "umi5_8-L0038"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rudolf asks Krauss whether this audio equipment works: こいつは動くのか.",
+      "alternative": "Want to fire this up naturally starts the same practical discussion, but presumes readiness instead of asking about working condition.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-002",
+      "kind": "WH",
+      "description": "Classical literature class becomes any school class.",
+      "categories": [
+        "linguistic.undertranslation",
+        "linguistic.register_voice",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              80,
+              80
+            ],
+            "MG": [
+              80,
+              80
+            ],
+            "UP": [
+              80,
+              80
+            ]
+          },
+          "japanese": "「古典の授業程度には」",
+          "japanesePC": "「古典の授業程度には。」",
+          "japanesePS3": "「古典の授業程度には」",
+          "WH": "\"About as much as your average school class.\"",
+          "MG": "\"About as much in as your average school class.\"",
+          "UP": "\"About the same as Japanese Lit class.\"",
+          "note": "Parent independently read1–120 all witnesses. MG39 retains activation invitation versus functionality question; UP restores. MG80 retains general school subject and independently introduces grammar; UP Japanese Lit restores subject partly but not classical specificity. UP78 donation box replaces figurehead shrine, PC22289–97 verified. Both44 damage warning replaces unauthorized handling restriction, supplementary canonical follows. HoldUP50 chuckling at pompous retains negative evaluation though less explicit fault-finding;1 lazily can mean unhurried in passive observation;24 marveled surprise disbelief can include exasperation;103 service compliance preserved91–102;40 audio/tape broader components records retained47. Source already supplies criminal anecdote110–116 and sacrifice metaphor112, no yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi5_8-L0080",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0080"
+            ],
+            "MG": [
+              "umi5_8-L0080"
+            ],
+            "UP": [
+              "umi5_8-L0080"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「古典の授業程度には」",
+              "translation": "\"About as much in as your average school class.\" "
+            },
+            "UP": {
+              "japanese": "「古典の授業程度には」",
+              "translation": "\"About the same as Japanese Lit class.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0080"
+            ],
+            "MG": [
+              "umi5_8-L0080"
+            ],
+            "UP": [
+              "umi5_8-L0080"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler compares his sleepiness specifically to a classical literature class, 古典の授業.",
+      "alternative": "The generic school-class comparison retains the boredom joke, but removes the targeted subject and broadens his dismissiveness to classes generally.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-003",
+      "kind": "WH",
+      "description": "Cabaret club as route to young company becomes age barrier.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.voice_state",
+        "world.culture_history"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              145,
+              145
+            ],
+            "MG": [
+              145,
+              145
+            ],
+            "UP": [
+              145,
+              145
+            ]
+          },
+          "japanese": "若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」",
+          "japanesePC": "「わっはははははは。そやなぁ。若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ。」",
+          "japanesePS3": "若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」",
+          "WH": "\"Wahahahahahaha.  That's right.  I thought it'd be nice to talk to some young kids, but that'll be pretty hard when I'm too old even to go to a cabaret club.\"",
+          "MG": "I thought it'd be nice to talk to some young kids, but that'll be pretty hard when I'm too old even to go to a cabaret club.\"",
+          "UP": "The only way I'm gettin' to talk to young folk at this age is goin' to a cabaret club.\"",
+          "note": "Parent independently read121–240 all witnesses and PC22666–75,22690–96,22753–60. MG145 retains wrong too-old-to-go barrier; UP restores club as route to young company. MG190 loses deliberate magazine collaboration in reputational attack;196 clambering wrong speech verb, supplements follow. MG217 husband compassion reflects PC包容 vs PS3抱擁 embrace; UP PS3 basis. Record edition wording basis, no added material claim. HoldUP153 another knock can refer to earlier servant knock84–85, not necessarily new repeat within152–153. MG171 a ways off2F keeps separation;193195 last-moment timing restored;234 signed documents implies use at discretion;222 fragment unusual current warmth still clear. No proven yellow addition.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0143",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0143"
+            ],
+            "MG": [
+              "umi5_8-L0143"
+            ],
+            "UP": [
+              "umi5_8-L0143"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「わっはははははは。そやなぁ。若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」",
+              "translation": "\"Wahahahahahaha. That's right. I thought it'd be nice to talk to some young kids, but that'll be pretty hard when I'm too old even to go to a cabaret club.\" "
+            },
+            "UP": {
+              "japanese": "「わっはははははは。そやなぁ。若い子と話をしよう思うたら、キャバクラでもいかんとこの歳では難しいわ」",
+              "translation": "\"Wahahahahahaha. That's right. The only way I'm gettin' to talk to young folk at this age is goin' to a cabaret club.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0143"
+            ],
+            "MG": [
+              "umi5_8-L0143"
+            ],
+            "UP": [
+              "umi5_8-L0143"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "At his age, Hideyoshi says it is difficult to talk with young people unless he goes somewhere like a cabaret club.",
+      "alternative": "Both versions invoke age and cabaret clubs, but WH reverses the club’s role from available means of meeting young people to something age prevents him doing.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-004",
+      "kind": "WH",
+      "description": "Loss of both supports becomes loss of either support.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.scope_quantifier_negation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              245,
+              245
+            ],
+            "MG": [
+              245,
+              245
+            ],
+            "UP": [
+              245,
+              245
+            ]
+          },
+          "japanese": "それが両方とも揺らげば、後には何も残らない。",
+          "japanesePC": "それが両方とも揺らげば、後には何も残らない。",
+          "japanesePS3": "それが両方とも揺らげば、後には何も残らない。",
+          "WH": "If either of those weakened, nothing would remain.",
+          "MG": "If either of those weakened, nothing would remain.",
+          "UP": "If those were both undermined, nothing would remain.",
+          "note": "Parent independently read241–360 all witnesses and PC22978–85. MG245 either for both retained, UP restores both; MG247 exchange rather than substitute retained, UP restores head-saving arm sacrifice. MG277 introduced report-subject shift confirmed. Hold241–243 name identity rhetoric follows tombstone238 and request together239, preserving refusal to cease being spouse despite awkward wording;UP242 head context240. Hold353 easy season communicates comfort though unidiomatic;310 irritation effects compatible suspense;290 free indirect first person valid;234 discretionary use signed forms implied. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0244",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0244"
+            ],
+            "MG": [
+              "umi5_8-L0244"
+            ],
+            "UP": [
+              "umi5_8-L0244"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……蔵臼は、財界のフィクサーとしての、信用と財力だけで存在している。それが両方とも揺らげば、後には何も残らない。金蔵失踪の切り札を切れば、二本しかない屋台骨の片方を失うことになる。……首を斬られる代わりに右腕を差し出すようなもの。首に比べればマシだろうが、失血多量で死ぬかもしれないし、万一、生き残れたとしても、生涯癒せぬ、大きな痛手を背負うことになる……。",
+              "translation": "...Krauss's existence was founded solely upon the trust and power of his assets as a financial fixer. If either of those weakened, nothing would remain. If they used the trump card of Kinzo's disappearance, they would lose one of these two essential supports. ......It was like offering your right arm in exchange for your neck being cut. It was probably better than losing your head, but you still might die from the blood loss, and even on the off-chance that you did survive, you'd have to bear a heavy wound that wouldn't heal for the rest of your life... "
+            },
+            "UP": {
+              "japanese": "……蔵臼は、財界のフィクサーとしての、信用と財力だけで存在している。それが両方とも揺らげば、後には何も残らない。金蔵失踪の切り札を切れば、二本しかない屋台骨の片方を失うことになる。……首を斬られる代わりに右腕を差し出すようなもの。首に比べればマシだろうが、失血多量で死ぬかもしれないし、万一、生き残れたとしても、生涯癒せぬ、大きな痛手を背負うことになる……。",
+              "translation": "......Krauss's existence was based solely upon the power of his assets and his trustworthiness as a financial fixer. If those were both undermined, nothing would remain. Using the trump card of Kinzo's disappearance would mean losing one of these two essential supports. ......It was like offering your right arm to save your head from being cut off. It was probably better than losing your head, but you still might die from the blood loss, and even on the off‐chance that you did survive, you would have to bear a heavy wound that wouldn't heal for the rest of your life......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0244"
+            ],
+            "MG": [
+              "umi5_8-L0244"
+            ],
+            "UP": [
+              "umi5_8-L0244"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Krauss depends on trust and financial strength. If both are shaken, nothing remains. Disappearance sacrifices one support, risking collapse without asserting inevitable loss of everything.",
+      "alternative": "The next blood-loss analogy acknowledges one injury could still prove fatal, but that possibility does not justify changing the categorical both condition to either.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-005",
+      "kind": "WH",
+      "description": "Arm offered instead of beheading becomes exchange for beheading.",
+      "categories": [
+        "linguistic.logical_relation",
+        "linguistic.imagery_rhythm_recurrence",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              247,
+              247
+            ],
+            "MG": [
+              247,
+              247
+            ],
+            "UP": [
+              247,
+              247
+            ]
+          },
+          "japanese": "……首を斬られる代わりに右腕を差し出すようなもの。",
+          "japanesePC": "......首を斬られる代わりに右腕を差し出すようなもの。",
+          "japanesePS3": "……首を斬られる代わりに右腕を差し出すようなもの。",
+          "WH": "......It was like offering your right arm in exchange for your neck being cut.",
+          "MG": "......It was like offering your right arm in exchange for your neck being cut.",
+          "UP": "......It was like offering your right arm to save your head from being cut off.",
+          "note": "Parent independently read241–360 all witnesses and PC22978–85. MG245 either for both retained, UP restores both; MG247 exchange rather than substitute retained, UP restores head-saving arm sacrifice. MG277 introduced report-subject shift confirmed. Hold241–243 name identity rhetoric follows tombstone238 and request together239, preserving refusal to cease being spouse despite awkward wording;UP242 head context240. Hold353 easy season communicates comfort though unidiomatic;310 irritation effects compatible suspense;290 free indirect first person valid;234 discretionary use signed forms implied. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0244",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0244"
+            ],
+            "MG": [
+              "umi5_8-L0244"
+            ],
+            "UP": [
+              "umi5_8-L0244"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……蔵臼は、財界のフィクサーとしての、信用と財力だけで存在している。それが両方とも揺らげば、後には何も残らない。金蔵失踪の切り札を切れば、二本しかない屋台骨の片方を失うことになる。……首を斬られる代わりに右腕を差し出すようなもの。首に比べればマシだろうが、失血多量で死ぬかもしれないし、万一、生き残れたとしても、生涯癒せぬ、大きな痛手を背負うことになる……。",
+              "translation": "...Krauss's existence was founded solely upon the trust and power of his assets as a financial fixer. If either of those weakened, nothing would remain. If they used the trump card of Kinzo's disappearance, they would lose one of these two essential supports. ......It was like offering your right arm in exchange for your neck being cut. It was probably better than losing your head, but you still might die from the blood loss, and even on the off-chance that you did survive, you'd have to bear a heavy wound that wouldn't heal for the rest of your life... "
+            },
+            "UP": {
+              "japanese": "……蔵臼は、財界のフィクサーとしての、信用と財力だけで存在している。それが両方とも揺らげば、後には何も残らない。金蔵失踪の切り札を切れば、二本しかない屋台骨の片方を失うことになる。……首を斬られる代わりに右腕を差し出すようなもの。首に比べればマシだろうが、失血多量で死ぬかもしれないし、万一、生き残れたとしても、生涯癒せぬ、大きな痛手を背負うことになる……。",
+              "translation": "......Krauss's existence was based solely upon the power of his assets and his trustworthiness as a financial fixer. If those were both undermined, nothing would remain. Using the trump card of Kinzo's disappearance would mean losing one of these two essential supports. ......It was like offering your right arm to save your head from being cut off. It was probably better than losing your head, but you still might die from the blood loss, and even on the off‐chance that you did survive, you would have to bear a heavy wound that wouldn't heal for the rest of your life......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0244"
+            ],
+            "MG": [
+              "umi5_8-L0244"
+            ],
+            "UP": [
+              "umi5_8-L0244"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "首を斬られる代わりに右腕を差し出す compares the fallback to giving up an arm instead of having one’s head cut off, choosing severe survivable injury over immediate destruction.",
+      "alternative": "The following sentence correctly says the injury is better than losing the neck and may cause death from blood loss, which restores the intended hierarchy. The primary English in exchange for your neck being cut nonetheless reverses the substitute relationship.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-006",
+      "kind": "WH",
+      "description": "Moral purity façade becomes neat-freak motherhood.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.irony_performance",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              416,
+              416
+            ],
+            "MG": [
+              416,
+              416
+            ],
+            "UP": [
+              416,
+              416
+            ]
+          },
+          "japanese": "よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。",
+          "japanesePC": "「嬉しいですって言ってほしいな、この人殺しめ。よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。その反吐を、あんたの夫や娘にもぶちまけられたいかい？　嫌だろ？　黙ってて欲しいだろ？　あぁ、黙っててやるよ、ほら、嬉しいだろ？　嬉しいだろッ？！」",
+          "japanesePS3": "よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。",
+          "WH": "\"I want you to tell me you're happy, you murderer.  How dare you act like a normal, neat-freak mother.  You make me want to vomit.  Do you want that to land on your husband and daughter as well?  You don't, do you?  You want me to keep quiet, don't you?  Yeah, I'll keep quiet.  See, aren't you happy?  Aren't you happy?!\"",
+          "MG": "How dare you act like a normal, neat-freak mother. You make me want to vomit.",
+          "UP": "How dare you act like a normal, neat‐freak mother. You make me want to vomit.",
+          "note": "Parent independently read361–480 all witnesses. Both416 retain neat-freak mother for morally pure wife facade; MG463 multiple calling phones and large mansion462 restore core distribution, UP direct all-over distribution. MG393 interrupt rather than talk back distinct prohibited act, supplementary canonical follows. HoldUP453 unqualified accidental arrival inside Natsuhi focal thought452454 does not certify objective coincidence;MG385 at first can mean initial impression with actual tone change383;367 caller emphatic claim knew vs certain not independent objective certification;UP424 burden in explicit blackmail context389390417 identifies involvement. Source explicitly older brother467, no unspecified-child parent reuse. No yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_8-L0415",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0415"
+            ],
+            "MG": [
+              "umi5_8-L0415"
+            ],
+            "UP": [
+              "umi5_8-L0415"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「嬉しいですって言ってほしいな、この人殺しめ。よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。その反吐を、あんたの夫や娘にもぶちまけられたいかい？　嫌だろ？　黙ってて欲しいだろ？　あぁ、黙っててやるよ、ほら、嬉しいだろ？　嬉しいだろッ？！」",
+              "translation": "\"I want to hear you say you are happy, murderer. How dare you act like a normal, neat-freak mother. You make me want to vomit. Do you want that to land on your husband and daughter as well? You don't, right? You want me to keep quiet, don't you? Okay, I'll keep quiet. Come on, aren't you happy? Aren't you?!\" "
+            },
+            "UP": {
+              "japanese": "「嬉しいですって言ってほしいな、この人殺しめ。よくも潔癖な奥様面が出来るもんだぜ、反吐が出る。その反吐を、あんたの夫や娘にもぶちまけられたいかい？　嫌だろ？　黙ってて欲しいだろ？　あぁ、黙っててやるよ、ほら、嬉しいだろ？　嬉しいだろッ？！」",
+              "translation": "\"I want you to tell me you're happy, you murderer. How dare you act like a normal, neat‐freak mother. You make me want to vomit. Do you want some of it to land on your husband and daughter as well? You don't, do you? You want me to keep quiet, don't you? Yeah, I'll keep quiet. See, aren't you happy? Aren't you happy?!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0415"
+            ],
+            "MG": [
+              "umi5_8-L0415"
+            ],
+            "UP": [
+              "umi5_8-L0415"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Calling her a murderer, the caller attacks her acting the morally spotless or scrupulous lady/wife: 潔癖な奥様面. This accuses hypocrisy, not domestic tidiness.",
+      "alternative": "潔癖 can refer to cleanliness, but the direct juxtaposition with murderer and threatened disclosure to husband and daughter establishes moral purity here. Neat-freak and normal recast the accusation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-007",
+      "kind": "WH",
+      "description": "Distributed telephones become a generic phone system.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              463,
+              463
+            ],
+            "MG": [
+              463,
+              463
+            ],
+            "UP": [
+              463,
+              463
+            ]
+          },
+          "japanese": "電話だってそこいら中にあるしな。",
+          "japanesePC": "「......あんたの紹介がない内は、誰の前にも現れないさ。安心しな。.........おっと、俺を探しても無駄だよ。あんたの屋敷は広い。電話だってそこいら中にあるしな。あんただって、俺に会いたくないだろ？　......それとも、俺を見つけ出して、みんなに紹介してくれるのか...？　朱志香にも紹介してくれよ。......１つ上の兄です、ってな。くっくくくくくくくくくくく！！」",
+          "japanesePS3": "電話だってそこいら中にあるしな。",
+          "WH": "\"......I won't appear in front of anyone until you introduce me.  Don't worry.  .........Oh yeah, it's useless to try and search for me.  Your mansion is huge.  You even have a phone system in it.  And I'm sure you don't want to meet me, right?  ......Or else, do you want to expose me and introduce me to everyone...?  Introduce me to Jessica too.  ......Tell her I'm her older brother by one year.  Heheheheheheheheheheheheheheh!!\"",
+          "MG": "and you have no shortage of phones I could be calling from.",
+          "UP": "And you have phones all over the place.",
+          "note": "Parent independently read361–480 all witnesses. Both416 retain neat-freak mother for morally pure wife facade; MG463 multiple calling phones and large mansion462 restore core distribution, UP direct all-over distribution. MG393 interrupt rather than talk back distinct prohibited act, supplementary canonical follows. HoldUP453 unqualified accidental arrival inside Natsuhi focal thought452454 does not certify objective coincidence;MG385 at first can mean initial impression with actual tone change383;367 caller emphatic claim knew vs certain not independent objective certification;UP424 burden in explicit blackmail context389390417 identifies involvement. Source explicitly older brother467, no unspecified-child parent reuse. No yellow material.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0459",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0459",
+              "umi5_8-L0465"
+            ],
+            "MG": [
+              "umi5_8-L0459"
+            ],
+            "UP": [
+              "umi5_8-L0459"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……あんたの紹介がない内は、誰の前にも現れないさ。安心しな。………おっと、俺を探しても無駄だよ。あんたの屋敷は広い。電話だってそこいら中にあるしな。あんただって、俺に会いたくないだろ？」",
+              "translation": "\"...I will not appear in front of anyone until you introduce me. Do not worry. .........Oh yes, it is useless to try and search for me. Your mansion is huge, and you have no shortage of phones I could be calling from. Besides, I am sure you do not want to meet me, right? "
+            },
+            "UP": {
+              "japanese": "「……あんたの紹介がない内は、誰の前にも現れないさ。安心しな。………おっと、俺を探しても無駄だよ。あんたの屋敷は広い。電話だってそこいら中にあるしな。あんただって、俺に会いたくないだろ？」",
+              "translation": "\"......I won't appear in front of anyone until you introduce me. Don't worry. .........Oh yeah, it's useless to try and search for me. Your mansion is huge. And you have phones all over the place. Besides, I'm sure you don't want to see me either, do you?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0459",
+              "umi5_8-L0465"
+            ],
+            "MG": [
+              "umi5_8-L0459"
+            ],
+            "UP": [
+              "umi5_8-L0459"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The caller says the mansion is large and telephones are everywhere, giving multiple possible calling locations as the reason searching is useless.",
+      "alternative": "A mansion phone system may imply multiple extensions, and previous internal-call references help, but WH omits the explicit distribution that supports the location argument.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-008",
+      "kind": "WH",
+      "description": "Nanjo credits liquor instead of Gohda’s accompaniments.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.relationship_power",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              673,
+              673
+            ],
+            "MG": [
+              673,
+              673
+            ],
+            "UP": [
+              673,
+              673
+            ]
+          },
+          "japanese": "「それを言ったら、あんたの酒の肴のお陰だ。",
+          "japanesePC": "「それを言ったら、あんたの酒の肴のお陰だ。また、別の機会に一杯やりましょう。」",
+          "japanesePS3": "「それを言ったら、あんたの酒の肴のお陰だ。",
+          "WH": "\"If so, it's all thanks to your liquor.  We'll have to do this again sometime.\"",
+          "MG": "\"If so, it's all thanks to your liquor.",
+          "UP": "\"No, no, it was your skill at entertaining that made the difference.",
+          "note": "Parent independently read601–761 all witnesses. MG673 liquor retained; UP removes liquor and credits entertaining, partial: 酒の肴 accompaniments not explicitly restored, literal snacks favored plates665 and cooking709 though conversational figurative use possible. MG700 factual truth retained; UP approves choice. Both621 ring stiffness substitutes rough chunky shape,659 painkiller substitutes calming sedative following emotional numbness658; supplements follow. HoldUP685 took upon myself initiative does not deny permission to join, though allowed source clearer;708 boast consistent Gohda709710 and invitation still present;681 group referent parents conference or guests here plausible;696 gesture evoking curtsy not firm physical action certification. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi5_8-L0673",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0673"
+            ],
+            "MG": [
+              "umi5_8-L0673"
+            ],
+            "UP": [
+              "umi5_8-L0673"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「それを言ったら、あんたの酒の肴のお陰だ。また、別の機会に一杯やりましょう」",
+              "translation": "\"If so, it's all thanks to your liquor. We'll have to do this again sometime.\" "
+            },
+            "UP": {
+              "japanese": "「それを言ったら、あんたの酒の肴のお陰だ。また、別の機会に一杯やりましょう」",
+              "translation": "\"No, no, it was your skill at entertaining that made the difference. We'll have to do this again sometime.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0673"
+            ],
+            "MG": [
+              "umi5_8-L0673"
+            ],
+            "UP": [
+              "umi5_8-L0673"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "酒の肴 means the food or snacks served with drinks. Nanjo returns Gohda’s compliment by crediting those accompaniments for their enjoyable evening.",
+      "alternative": "The bar-like counter and offered refill make liquor salient, but the source distinguishes food from liquor and the later passage emphasizes Gohda’s culinary pride.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-009",
+      "kind": "WH",
+      "description": "Approval of Rosa going to bed becomes factual assent.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.viewpoint_attribution",
+        "mystery.epistemic_status"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              700,
+              700
+            ],
+            "MG": [
+              700,
+              700
+            ],
+            "UP": [
+              700,
+              700
+            ]
+          },
+          "japanese": "それが正しいだろうな…。",
+          "japanesePC": "それが正しいだろうな...。",
+          "japanesePS3": "それが正しいだろうな…。",
+          "WH": "That's probably true...",
+          "MG": "That's probably true...",
+          "UP": "That was probably the right choice...",
+          "note": "Parent independently read601–761 all witnesses. MG673 liquor retained; UP removes liquor and credits entertaining, partial: 酒の肴 accompaniments not explicitly restored, literal snacks favored plates665 and cooking709 though conversational figurative use possible. MG700 factual truth retained; UP approves choice. Both621 ring stiffness substitutes rough chunky shape,659 painkiller substitutes calming sedative following emotional numbness658; supplements follow. HoldUP685 took upon myself initiative does not deny permission to join, though allowed source clearer;708 boast consistent Gohda709710 and invitation still present;681 group referent parents conference or guests here plausible;696 gesture evoking curtsy not firm physical action certification. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0700",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0700"
+            ],
+            "MG": [
+              "umi5_8-L0700"
+            ],
+            "UP": [
+              "umi5_8-L0700"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "それが正しいだろうな…。\nあんな会議にずっと付き合ってたのだ。俺だって、今すぐベッドに倒れ込みたい気持ちなのだから。",
+              "translation": "That's probably true... After taking part in that conference for so long... I feel like flopping down in bed right away myself. "
+            },
+            "UP": {
+              "japanese": "それが正しいだろうな…。\nあんな会議にずっと付き合ってたのだ。俺だって、今すぐベッドに倒れ込みたい気持ちなのだから。",
+              "translation": "That was probably the right choice...\nShe'd been going along with that conference for so long. I feel like flopping down in bed right away myself."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0700"
+            ],
+            "MG": [
+              "umi5_8-L0700"
+            ],
+            "UP": [
+              "umi5_8-L0700"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After learning Rosa returned about01:00 and immediately went upstairs to sleep, Battler says that was the right thing to do; the next thought explains that he too wants to collapse after the conference.",
+      "alternative": "That is probably true can read as loose agreement, but it judges report truth rather than the appropriateness of her action and inserts uncertainty not supplied by this sentence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-010",
+      "kind": "WH",
+      "description": "WH replaces the warning not to tamper without permission with a warning not to mess anything up.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              44,
+              44
+            ],
+            "MG": [
+              44,
+              44
+            ],
+            "UP": [
+              44,
+              44
+            ]
+          },
+          "japanese": "「勝手にいじらないように…！",
+          "japanesePC": "「勝手にいじらないように...！　当主様の大切な音楽テープですよ！」",
+          "japanesePS3": "「勝手にいじらないように…！",
+          "WH": "\"Make sure you don't mess anything up...!  Those are Father's precious music tapes!\"",
+          "MG": "\"Make sure you don't mess anything up...!",
+          "UP": "\"Make sure you don't mess anything up...!",
+          "note": "Original PC and coherent paired context verified under ep05-ch08-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_8-L0044",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0044"
+            ],
+            "MG": [
+              "umi5_8-L0044"
+            ],
+            "UP": [
+              "umi5_8-L0044"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「勝手にいじらないように…！　当主様の大切な音楽テープですよ！」",
+              "translation": "\"Make sure you don't mess anything up...! Those are Father's precious music tapes!\" "
+            },
+            "UP": {
+              "japanese": "「勝手にいじらないように…！　当主様の大切な音楽テープですよ！」",
+              "translation": "\"Make sure you don't mess anything up...! Those are Father's precious music tapes!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0044"
+            ],
+            "MG": [
+              "umi5_8-L0044"
+            ],
+            "UP": [
+              "umi5_8-L0044"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "勝手にいじらないように prohibits unauthorized fiddling with the equipment/tapes, regardless of whether it causes damage.",
+      "alternative": "Do not mess anything up can discourage tinkering generally, but its explicit restriction is damage/disorder and permits careful unauthorized handling. The next line explains why the tapes are precious without restoring permission.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-011",
+      "kind": "WH",
+      "description": "WH replaces the relatives collaborating with a dubious magazine to damage Krauss credit with the matter merely appearing in a magazine and damaging his credit.",
+      "categories": [
+        "linguistic.wrong_subject"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              190,
+              190
+            ],
+            "MG": [
+              190,
+              190
+            ],
+            "UP": [
+              190,
+              190
+            ]
+          },
+          "japanese": "…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」",
+          "japanesePC": "「そのようなことをすれば、......絵羽たちは疑わしいと騒ぎ立てるだろう。絵羽たちはカネをせしめるためなら、形振りなど構うまい。...それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない。」",
+          "japanesePS3": "…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」",
+          "WH": "\"If we do such a thing, ......Eva and the others will doubtless make a fuss that our actions were suspicious.  They aren't worried about appearances as long as they can squeeze some money out of us.  ...It might end up in some odd magazine and cause serious damage to the confidence placed in me.\"",
+          "MG": "...It might end up in some odd magazine and cause serious damage to the confidence placed in me.\"",
+          "UP": "...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me.\"",
+          "note": "Original PC and coherent paired context verified under ep05-ch08-supplement-b-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0188",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0188"
+            ],
+            "MG": [
+              "umi5_8-L0188"
+            ],
+            "UP": [
+              "umi5_8-L0188"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そのようなことをすれば、……絵羽たちは疑わしいと騒ぎ立てるだろう。絵羽たちはカネをせしめるためなら、形振りなど構うまい。…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」",
+              "translation": "\"If we do such a thing, ...Eva and the others will doubtless make a fuss that our actions were suspicious. They aren't worried about appearances as long as they can squeeze some money out of us. ...It might end up in some odd magazine and cause serious damage to the confidence placed in me.\" "
+            },
+            "UP": {
+              "japanese": "「そのようなことをすれば、……絵羽たちは疑わしいと騒ぎ立てるだろう。絵羽たちはカネをせしめるためなら、形振りなど構うまい。…それこそ、おかしな雑誌とつるんで、私の信用にダメージを与えてくるかもしれない」",
+              "translation": "\"If we do such a thing, ......Eva and the others will doubtless make a fuss about it being suspicious. They aren't worried about appearances as long as they can squeeze some money out of us. ...They might strike a deal with some odd magazine and cause serious damage to the confidence placed in me.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0188"
+            ],
+            "MG": [
+              "umi5_8-L0188"
+            ],
+            "UP": [
+              "umi5_8-L0188"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "おかしな雑誌とつるんで...与えてくる attributes intentional collaboration and attack to Eva group, not simply unwanted reporting.",
+      "alternative": "Their willingness to obtain money at any cost189 makes hostile involvement plausible, but passive publication does not preserve the stated collusion. The loss is local agency, not an assertion that the relatives are innocent.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-012",
+      "kind": "WH",
+      "description": "WH uses clambering about for the relatives raising accusations that Father is locked up.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              196,
+              196
+            ],
+            "MG": [
+              196,
+              196
+            ],
+            "UP": [
+              196,
+              196
+            ]
+          },
+          "japanese": "「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？",
+          "japanesePC": "「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？　その方がはるかに疑いを招きます...！！」",
+          "japanesePS3": "「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？",
+          "WH": "\"You want to wait until after they start clambering about how we've locked Father up, and then say he's gone missing?  That way would invite much more suspicion...!!\"",
+          "MG": "\"You want to wait until after they start clambering about how we've locked Father up, and then say he's gone missing?",
+          "UP": "\"You want to wait until after they start accusing us of locking Father up, and then reply that he's gone missing?",
+          "note": "Original PC and coherent paired context verified under ep05-ch08-supplement-b-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0196",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0196"
+            ],
+            "MG": [
+              "umi5_8-L0196"
+            ],
+            "UP": [
+              "umi5_8-L0196"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？　その方がはるかに疑いを招きます…！！」",
+              "translation": "\"You want to wait until after they start clambering about how we've locked Father up, and then say he's gone missing? That way would invite much more suspicion...!!\" "
+            },
+            "UP": {
+              "japanese": "「彼らが、お父様を監禁していると騒ぎ立て、そこに失踪していたと返すのですか？　その方がはるかに疑いを招きます…！！」",
+              "translation": "\"You want to wait until after they start accusing us of locking Father up, and then reply that he's gone missing? That is far more likely to draw suspicion...!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0196"
+            ],
+            "MG": [
+              "umi5_8-L0196"
+            ],
+            "UP": [
+              "umi5_8-L0196"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "騒ぎ立て describes making a fuss or clamoring; clamber means climbing awkwardly and is not a speech-reporting verb here.",
+      "alternative": "Physical commotion could accompany an accusation, but no climbing is stated and clambering about how is not an idiomatic way to report speech.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-013",
+      "kind": "WH",
+      "description": "WH changes the threatening injunction never to talk back into an injunction not to interrupt again.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              393,
+              393
+            ],
+            "MG": [
+              393,
+              393
+            ],
+            "UP": [
+              393,
+              393
+            ]
+          },
+          "japanese": "二度と口答えするな、とでも言うように、男は再び低い声で脅す…。",
+          "japanesePC": "二度と口答えするな、とでも言うように、男は再び低い声で脅す...。",
+          "japanesePS3": "二度と口答えするな、とでも言うように、男は再び低い声で脅す…。",
+          "WH": "Once again, the man threatened her in a low voice, as though warning her not to interrupt again...",
+          "MG": "Once again, the man threatened her in a low voice, as though warning her not to interrupt again...",
+          "UP": "Once again, the man threatened me in a low voice, as though warning me never to talk back to him again...",
+          "note": "Original PC and coherent paired context verified under ep05-ch08-supplement-c-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_8-L0393",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0393"
+            ],
+            "MG": [
+              "umi5_8-L0393"
+            ],
+            "UP": [
+              "umi5_8-L0393"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "二度と口答えするな、とでも言うように、男は再び低い声で脅す…。私は、頭が頭痛と心臓の音、……そして潮騒の音でいっぱいになる…。……もはや、逆らうことなど出来ない。………男が命じたとおりに、私はアンティーク時計を、持ち上げる…。",
+              "translation": "Once again, the man threatened her in a low voice, as though warning her not to interrupt again... My head was filled with the pain from my headache, the sound of my beating heart, ...and the roar of the sea... ...I can't disobey him anymore. ......As the man had ordered, I lifted up the antique clock... "
+            },
+            "UP": {
+              "japanese": "二度と口答えするな、とでも言うように、男は再び低い声で脅す…。私は、頭が頭痛と心臓の音、……そして潮騒の音でいっぱいになる…。……もはや、逆らうことなど出来ない。………男が命じたとおりに、私はアンティーク時計を、持ち上げる…。",
+              "translation": "Once again, the man threatened me in a low voice, as though warning me never to talk back to him again... My head was filled with the pain from my headache, the sound of my beating heart, ......and the roar of the sea... ......I couldn't disobey him anymore. .........As the man had ordered, I lifted up the antique clock..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0393"
+            ],
+            "MG": [
+              "umi5_8-L0393"
+            ],
+            "UP": [
+              "umi5_8-L0393"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "口答え is answering back or opposing an instruction. Natsuhi asks why379 and is ordered to obey381–382; the prohibition concerns defiance rather than taking a speech turn.",
+      "alternative": "Interruption can accompany a challenge, but conversational timing and opposition are distinct acts. Adjacent commands preserve coercion without restoring the specific ban on answering back.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-014",
+      "kind": "WH",
+      "description": "WH replaces the ring rough chunky physical form with stiffness.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              621,
+              621
+            ],
+            "MG": [
+              621,
+              621
+            ],
+            "UP": [
+              621,
+              621
+            ]
+          },
+          "japanese": "重く、ごつごつした指輪だった……。",
+          "japanesePC": "重く、ごつごつした指輪だった......。",
+          "japanesePS3": "重く、ごつごつした指輪だった……。",
+          "WH": "The ring was heavy and stiff......",
+          "MG": "The ring was heavy and stiff...",
+          "UP": "The ring was heavy and stiff......",
+          "note": "Original PC and coherent paired context verified under ep05-ch08-supplement-d-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_8-L0619",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0619"
+            ],
+            "MG": [
+              "umi5_8-L0619"
+            ],
+            "UP": [
+              "umi5_8-L0619"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "戦人は親戚たち一同に、薄気味悪い笑みで、その指輪に指を通すよう勧められる…。断ると色々と荒れそうだったので、戦人は渋々と、それを左手の中指にすることにする……。重く、ごつごつした指輪だった……。",
+              "translation": "All of the relatives, with creepy smiles on their faces, urged Battler to put the ring on his finger... It looked like things would get pretty nasty if he refused, so Battler reluctantly decided to put it on the middle finger of his left hand... The ring was heavy and stiff... "
+            },
+            "UP": {
+              "japanese": "戦人は親戚たち一同に、薄気味悪い笑みで、その指輪に指を通すよう勧められる…。断ると色々と荒れそうだったので、戦人は渋々と、それを左手の中指にすることにする……。重く、ごつごつした指輪だった……。",
+              "translation": "With creepy smiles on their faces, all of the relatives urged Battler to put the ring on his finger... It looked like things would get pretty nasty if he refused, so Battler reluctantly decided to put it on the middle finger of his left hand...... The ring was heavy and stiff......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0619"
+            ],
+            "MG": [
+              "umi5_8-L0619"
+            ],
+            "UP": [
+              "umi5_8-L0619"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ごつごつ describes irregular bulky or rough form/texture. It does not describe resistance to bending.",
+      "alternative": "The ring is also heavy and presumably rigid, but stiffness does not preserve the explicitly described surface/form. This is a local object description without a puzzle-mechanism claim.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH08-015",
+      "kind": "WH",
+      "description": "WH replaces drowsiness as a calming sedative with drowsiness as a painkiller.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              659,
+              659
+            ],
+            "MG": [
+              659,
+              659
+            ],
+            "UP": [
+              659,
+              659
+            ]
+          },
+          "japanese": "眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。",
+          "japanesePC": "眠さに勝る鎮静剤は、きっと、存在しないに違いないな...。",
+          "japanesePS3": "眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。",
+          "WH": "I guess no painkiller works better than drowsiness...",
+          "MG": "I guess drowsiness is the best painkiller...",
+          "UP": "I guess no painkiller works better than drowsiness...",
+          "note": "Original PC and coherent paired context verified under ep05-ch08-supplement-d-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_8-L0658",
+          "readerRefs": {
+            "WH": [
+              "umi5_8-L0658"
+            ],
+            "MG": [
+              "umi5_8-L0658"
+            ],
+            "UP": [
+              "umi5_8-L0658"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "親たちに対する呆れや怒りは、もう何も感じない。\n眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。……俺は親たちを残し、今度こそゲストハウスへ戻るのだった。",
+              "translation": "I no longer felt any shock or anger towards them. I guess drowsiness is the best painkiller... ...I left them behind and finally returned to the guesthouse. "
+            },
+            "UP": {
+              "japanese": "親たちに対する呆れや怒りは、もう何も感じない。\n眠さに勝る鎮静剤は、きっと、存在しないに違いないな…。……俺は親たちを残し、今度こそゲストハウスへ戻るのだった。",
+              "translation": "I no longer felt any shock or anger towards them.\nI guess no painkiller works better than drowsiness... ......I left them behind and finally returned to the guesthouse."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_8-L0658"
+            ],
+            "MG": [
+              "umi5_8-L0658"
+            ],
+            "UP": [
+              "umi5_8-L0658"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "鎮静剤 denotes calming/sedation; the preceding sentence says exasperation and anger towards the parents have disappeared. The metaphor explains emotional calming, not pain relief.",
+      "alternative": "English painkiller can metaphorically soothe distress, but it shifts the specific comparison from calming agitation to removing pain. No medical advice or literal drug action is inferred.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH08-001-120-001",
+      "kind": "additional",
+      "description": "UP replaces the portable-shrine figurehead metaphor with a donation box.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              76,
+              82
+            ],
+            "MG": [
+              76,
+              82
+            ],
+            "UP": [
+              76,
+              82
+            ]
+          },
+          "japanese": "「俺は、いつまでここでぼさーっとしてりゃいいんすかね」\n「……さぁ。\n戦人くんは私たちのお神輿だからね。\n……眠い？」\n「古典の授業程度には」\n「今夜はどうせお父さんは現れないでしょう。\n蔵臼兄さんたちが戻ってきたら、戦人くんはもう戻っていいかと提案してみるわ」",
+          "japanesePC": "",
+          "japanesePS3": "「俺は、いつまでここでぼさーっとしてりゃいいんすかね」\n「……さぁ。\n戦人くんは私たちのお神輿だからね。\n……眠い？」\n「古典の授業程度には」\n「今夜はどうせお父さんは現れないでしょう。\n蔵臼兄さんたちが戻ってきたら、戦人くんはもう戻っていいかと提案してみるわ」",
+          "WH": "",
+          "MG": "\"Just how long am I gonna have to sit around here doing nothing?\"\n\"...Who knows.\nAfter all, you're like our own portable shrine.\n...Sleepy?\"\n\"About as much in as your average school class.\"\n\"I'm pretty sure Father isn't going to show up tonight anyway.\nWhen Krauss nii-san and the rest come back, I'll propose that we might as well let you go.\"",
+          "UP": "\"Just how long am I going to have to sit around doing nothing here?\"\n\"......Who knows.\nAfter all, you're like our personal donation box.\n......Sleepy?\"\n\"About the same as Japanese Lit class.\"\n\"I'm pretty sure Father won't show up tonight anyway.\nWhen Krauss nii‐san and the rest come back, I'll propose that we might as well let you go.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi5_8-L0076",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_8-L0076",
+              "umi5_8-L0077",
+              "umi5_8-L0080",
+              "umi5_8-L0081"
+            ],
+            "UP": [
+              "umi5_8-L0076",
+              "umi5_8-L0077",
+              "umi5_8-L0080",
+              "umi5_8-L0081"
+            ]
+          },
+          "findingEvidence": {
+            "UP": {
+              "japanese": "「……さぁ。戦人くんは私たちのお神輿だからね。……眠い？」",
+              "translation": "\"......Who knows. After all, you're like our personal donation box. ......Sleepy?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [],
+            "UP": [
+              "umi5_8-L0077"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "お神輿 portable shrine metaphor: supporters carry Battler as their nominal leader in the succession dispute. OriginalPC22289/22291 and MG preserve shrine. UP personal donation box substitutes a vessel for donations.",
+      "alternative": "Both can suggest exploiting him financially, but donations are not the relationship asserted. His required presence as their symbolic leader is the operative reason76–82.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH08-001-120-002",
+      "kind": "additional",
+      "description": "MG inserts in into About as much as, making the comparison ungrammatical.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              80,
+              80
+            ],
+            "MG": [
+              80,
+              80
+            ],
+            "UP": [
+              80,
+              80
+            ]
+          },
+          "japanese": "「古典の授業程度には」",
+          "japanesePC": "",
+          "japanesePS3": "「古典の授業程度には」",
+          "WH": "",
+          "MG": "\"About as much in as your average school class.\"",
+          "UP": "\"About the same as Japanese Lit class.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi5_8-L0080",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_8-L0080"
+            ],
+            "UP": [
+              "umi5_8-L0080"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「古典の授業程度には」",
+              "translation": "\"About as much in as your average school class.\" "
+            },
+            "UP": {
+              "japanese": "「古典の授業程度には」",
+              "translation": "\"About the same as Japanese Lit class.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_8-L0080"
+            ],
+            "UP": [
+              "umi5_8-L0080"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG About as much in as your average school class has an extraneous in. OriginalPC22297 About as much as is grammatical; UP comparison grammatical.",
+      "alternative": "Meaning understandable but in as is malformed. This distinct introduced grammar issue is separate from canonical002 subject specificity.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH08-241-360-001",
+      "kind": "additional",
+      "description": "MG replaces the caller refusing to answer with Genji saying he cannot give an answer.",
+      "categories": [
+        "linguistic.wrong_subject"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              276,
+              278
+            ],
+            "MG": [
+              276,
+              278
+            ],
+            "UP": [
+              276,
+              278
+            ]
+          },
+          "japanese": "「よ、……用件は何だと言っていますか」\n「………お答えいただけません。\n奥様と直接お話ししたいとの一点張りでございます」",
+          "japanesePC": "",
+          "japanesePS3": "「よ、……用件は何だと言っていますか」\n「………お答えいただけません。\n奥様と直接お話ししたいとの一点張りでございます」",
+          "WH": "",
+          "MG": "\"...D-Did he say what business he had with me?\"\n\"......I can give you no answer on that matter.\nHe kept insisting that he wanted to speak to you directly.\"",
+          "UP": "\"D‐......did he say what business he had with me?\"\n\".........He would not answer.\nHe kept insisting that he wanted to speak to you directly.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi5_8-L0276",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_8-L0276",
+              "umi5_8-L0277"
+            ],
+            "UP": [
+              "umi5_8-L0276",
+              "umi5_8-L0277"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………お答えいただけません。奥様と直接お話ししたいとの一点張りでございます」",
+              "translation": "\"......I can give you no answer on that matter. He kept insisting that he wanted to speak to you directly.\" "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_8-L0277"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "お答えいただけません reports Genji cannot obtain the caller answer. OriginalPC22980/22982 and UP He would not answer identify caller refusal. MG I can give you no answer on that matter substitutes Genji inability/refusal to relay an answer.",
+      "alternative": "Genji inability could result from caller refusal, but it no longer reports that refusal itself.278 insistence on speaking directly helps infer motive, not restore the reported action.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH08-481-600-001",
+      "kind": "additional",
+      "description": "UP drops the explicit single kanji character on the card, replacing it with one English word.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_8",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              500,
+              502
+            ],
+            "MG": [
+              500,
+              502
+            ],
+            "UP": [
+              500,
+              502
+            ]
+          },
+          "japanese": "それは、タロットカードのような絵柄が書かれていて、\n……漢字で一文字、\n“秋”と書かれていた………。",
+          "japanesePC": "",
+          "japanesePS3": "それは、タロットカードのような絵柄が書かれていて、\n……漢字で一文字、\n“秋”と書かれていた………。",
+          "WH": "",
+          "MG": "It had a pattern on it like a tarot card,\n...and also...\n\"秋\", the kanji for autumn......",
+          "UP": "It had a pattern on it like a tarot card,\nalong with one single word:\n\"Autumn\".........",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi5_8-L0499",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_8-L0499"
+            ],
+            "UP": [
+              "umi5_8-L0499"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……夏妃は時計の下から見つけたカードを、絶叫とともに握り潰してしまう。それは、タロットカードのような絵柄が書かれていて、……漢字で一文字、“秋”と書かれていた………。",
+              "translation": "...As she screamed, Natsuhi took the card she had found under the clock and crushed it up into a little ball. It had a pattern on it like a tarot card, ...and also... \"秋\", the kanji for autumn...... "
+            },
+            "UP": {
+              "japanese": "……夏妃は時計の下から見つけたカードを、絶叫とともに握り潰してしまう。それは、タロットカードのような絵柄が書かれていて、……漢字で一文字、“秋”と書かれていた………。",
+              "translation": "......As she screamed, Natsuhi crushed the card she had found under the clock into a little ball. It had a pattern on it like a tarot card, along with one single word: \"Autumn\"........."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_8-L0499"
+            ],
+            "UP": [
+              "umi5_8-L0499"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "漢字で一文字 秋 specifies exactly one written kanji character. MG preserves literal秋 and kanji; originalPC23605–23611 also does. UP one single word Autumn preserves meaning but removes writing-system and character-count information.",
+      "alternative": "An English gloss communicates the season, but source explicitly describes physical writing rather than merely its meaning. No visual asset is assumed to restore prose information, and no graphics defect is asserted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP05-CH08-001": {
+      "umi5_8-L0038": {
+        "WH": [
+          "want to fire this up?"
+        ],
+        "MG": [
+          "wanna fire this up?"
+        ]
+      }
+    },
+    "WH-EP05-CH08-002": {
+      "umi5_8-L0080": {
+        "WH": [
+          "your average school class"
+        ],
+        "MG": [
+          "your average school class"
+        ],
+        "UP": [
+          "Japanese Lit class"
+        ]
+      }
+    },
+    "WH-EP05-CH08-003": {
+      "umi5_8-L0143": {
+        "WH": [
+          "when I'm too old even to go to a cabaret club"
+        ],
+        "MG": [
+          "when I'm too old even to go to a cabaret club"
+        ]
+      }
+    },
+    "WH-EP05-CH08-004": {
+      "umi5_8-L0244": {
+        "WH": [
+          "If either of those weakened"
+        ],
+        "MG": [
+          "If either of those weakened"
+        ]
+      }
+    },
+    "WH-EP05-CH08-005": {
+      "umi5_8-L0244": {
+        "WH": [
+          "in exchange for your neck being cut"
+        ],
+        "MG": [
+          "in exchange for your neck being cut"
+        ]
+      }
+    },
+    "WH-EP05-CH08-006": {
+      "umi5_8-L0415": {
+        "WH": [
+          "normal, neat-freak mother"
+        ],
+        "MG": [
+          "normal, neat-freak mother"
+        ],
+        "UP": [
+          "normal, neat‐freak mother"
+        ]
+      }
+    },
+    "WH-EP05-CH08-007": {
+      "umi5_8-L0459": {
+        "WH": [
+          "You even have a phone system in it"
+        ]
+      },
+      "umi5_8-L0465": {
+        "WH": [
+          "You even have a phone system in it"
+        ]
+      }
+    },
+    "WH-EP05-CH08-008": {
+      "umi5_8-L0673": {
+        "WH": [
+          "your liquor"
+        ],
+        "MG": [
+          "your liquor"
+        ],
+        "UP": [
+          "your skill at entertaining"
+        ]
+      }
+    },
+    "WH-EP05-CH08-009": {
+      "umi5_8-L0700": {
+        "WH": [
+          "That's probably true"
+        ],
+        "MG": [
+          "That's probably true"
+        ]
+      }
+    },
+    "WH-EP05-CH08-010": {
+      "umi5_8-L0044": {
+        "WH": [
+          "Make sure you don't mess anything up"
+        ],
+        "MG": [
+          "Make sure you don't mess anything up"
+        ],
+        "UP": [
+          "Make sure you don't mess anything up"
+        ]
+      }
+    },
+    "WH-EP05-CH08-011": {
+      "umi5_8-L0188": {
+        "WH": [
+          "It might end up in some odd magazine"
+        ],
+        "MG": [
+          "It might end up in some odd magazine"
+        ]
+      }
+    },
+    "WH-EP05-CH08-012": {
+      "umi5_8-L0196": {
+        "WH": [
+          "clambering about"
+        ],
+        "MG": [
+          "clambering about"
+        ]
+      }
+    },
+    "WH-EP05-CH08-013": {
+      "umi5_8-L0393": {
+        "WH": [
+          "not to interrupt again"
+        ],
+        "MG": [
+          "not to interrupt again"
+        ]
+      }
+    },
+    "WH-EP05-CH08-014": {
+      "umi5_8-L0619": {
+        "WH": [
+          "stiff"
+        ],
+        "MG": [
+          "stiff"
+        ],
+        "UP": [
+          "stiff"
+        ]
+      }
+    },
+    "WH-EP05-CH08-015": {
+      "umi5_8-L0658": {
+        "WH": [
+          "painkiller"
+        ],
+        "MG": [
+          "painkiller"
+        ],
+        "UP": [
+          "painkiller"
+        ]
+      }
+    },
+    "PAIR-EP05-CH08-001-120-001": {
+      "umi5_8-L0077": {
+        "UP": [
+          "our personal donation box"
+        ]
+      }
+    },
+    "PAIR-EP05-CH08-001-120-002": {
+      "umi5_8-L0080": {
+        "MG": [
+          "About as much in as"
+        ]
+      }
+    },
+    "PAIR-EP05-CH08-241-360-001": {
+      "umi5_8-L0277": {
+        "MG": [
+          "I can give you no answer on that matter"
+        ]
+      }
+    },
+    "PAIR-EP05-CH08-481-600-001": {
+      "umi5_8-L0499": {
+        "UP": [
+          "one single word: \"Autumn\""
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

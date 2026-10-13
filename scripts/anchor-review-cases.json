@@ -1,0 +1,3548 @@
+[
+  {
+    "id": "WH-EP01-CH04-009",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH04-010",
+    "chapter": "umi1_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH05-021",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH08-012",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH08-019",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH10-010",
+    "chapter": "umi1_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH13-018",
+    "chapter": "umi1_13",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH13-019",
+    "chapter": "umi1_13",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH14-006",
+    "chapter": "umi1_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH14-007",
+    "chapter": "umi1_14",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH15-020",
+    "chapter": "umi1_15",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP01-CH15-030",
+    "chapter": "umi1_15",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH01-023",
+    "chapter": "umi2_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH03-005",
+    "chapter": "umi2_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH05-006",
+    "chapter": "umi2_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH07-026",
+    "chapter": "umi2_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH08-004",
+    "chapter": "umi2_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH09-011",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH10-011",
+    "chapter": "umi2_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH12-018",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH13-016",
+    "chapter": "umi2_13",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH14-021",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH15-005",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH01-005",
+    "chapter": "umi3_1",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH03-018",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH04-003",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH12-031",
+    "chapter": "umi3_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH13-002",
+    "chapter": "umi3_13",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH15-027",
+    "chapter": "umi3_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH16-003",
+    "chapter": "umi3_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH16-032",
+    "chapter": "umi3_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH17-061",
+    "chapter": "umi3_17",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP04-CH04-006",
+    "chapter": "umi4_4",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP04-CH07-004",
+    "chapter": "umi4_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP04-CH14-004",
+    "chapter": "umi4_14",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP07-HIRAOKA-RANK-001",
+    "chapter": "umi7_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH09-024",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH09-025",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH09-027",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP02-CH15-051",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-TEA-030",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-TEA-028",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP02-TEA-029",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH02-056",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH03-043",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH04-064",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH04-064",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH05-071",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH05-074",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH06-048",
+    "chapter": "umi3_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH10-023",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP03-CH12-054",
+    "chapter": "umi3_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "WH-EP04-TEA-031",
+    "chapter": "umi4_20",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-ROSE-CAUSE-001",
+    "chapter": "umi1_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-ADOLESCENCE-LEAD-001",
+    "chapter": "umi1_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KANON-LEAVE-BE-001",
+    "chapter": "umi1_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GEORGE-ADULT-001",
+    "chapter": "umi1_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-ASK-001",
+    "chapter": "umi1_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-EMPHASIS-001",
+    "chapter": "umi1_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-FOREST-BARRIER-001",
+    "chapter": "umi1_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-BEATRICE-MEMORY-001",
+    "chapter": "umi1_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-INCIPIENT-CHAIR-001",
+    "chapter": "umi1_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MATERNAL-GENES-001",
+    "chapter": "umi1_3",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-ABSINTHE-BOTTLE-001",
+    "chapter": "umi1_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-BEATRICE-ENTIRE-LIFE-001",
+    "chapter": "umi1_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-ROULETTE-MAGNITUDE-001",
+    "chapter": "umi1_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GOHDA-THANKS-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-EXPRESSION-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NANJO-OUTSIDER-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KRAUSS-BULLISH-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-FUNDING-TENSE-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NOBILITY-EFFORT-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-PAINFUL-ATMOSPHERE-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-ACCEPTANCE-001",
+    "chapter": "umi1_4",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KINZO-MAGE-STATUS-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-FOREST-INCIDENT-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-WEALTHY-LADY-MARRIAGE-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-SCHOOL-ANTHOLOGY-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-TEAR-STAGE-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-BATTLER-FLUSTER-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KINZO-DEMAND-CONDITION-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-EMBEZZLEMENT-DENIAL-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-EVA-SOPHISTRY-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-UPFRONT-INVESTMENTS-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RUDOLF-SUSPICION-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-HIDEYOSHI-HAND-RUBBING-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NOTHING-TO-IT-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-EPITAPH-HEADSHIP-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-CH05-019-UP",
+    "chapter": "umi1_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GENJI-INFERRED-DISCUSSION-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-EPITAPH-LOST-LOVE-001",
+    "chapter": "umi1_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-SOGAKISHI-DISTANCE-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-BRANCH-RESIDENCE-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KINZO-SUCCESSION-DISTANCE-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-JESSICA-HOMETOWN-KNOWLEDGE-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-SACRIFICE-INTERPRETATION-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KANON-SIGHTING-REPORT-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-WITCH-RESPECT-CONDITION-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-RESEARCH-CERTAINTY-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-SCORPION-WARD-SCOPE-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-CONVERSATION-EXCLUSION-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-ROSA-ONGOING-SEARCH-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-ROSA-MARIA-FEELINGS-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-CROUCHING-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RAIN-ONSET-001",
+    "chapter": "umi1_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-TEACHER-INSISTENCE-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-JESSICA-CONVENIENCE-STORE-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-UNHAPPY-CRY-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GOHDA-ANNUAL-SHOWCASE-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-POUT-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-DINNER-SERVICE-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KRAUSS-DINNER-RECEPTION-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KYRIE-CREST-EXAMPLES-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KRAUSS-ELABORATE-DELIVERY-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RING-SUCCESSION-CLAIM-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KRAUSS-ASSET-KNOWLEDGE-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RETIREMENT-SERVICE-001",
+    "chapter": "umi1_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GEORGE-FIGHT-NECESSITY-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-FLOOR-LOCATION-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NINETEENTH-SUGGESTION-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KYRIE-ELBOW-TARGET-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RUDOLF-TONIGHT-PREDICTION-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-LETTER-AUTHORSHIP-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-FIGHTING-BELIEF-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-INGOT-ROOM-LIGHT-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-CLOSEST-CONFIDANT-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-BEDRIDDEN-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-REASSURANCE-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KANON-KRAUSS-MOTIVE-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KANON-DEEP-SIGH-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-SHINGEN-REWARD-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KINZO-CREST-GRANT-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-STUDENT-LIFE-FEAR-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GEORGE-ADMONISHMENT-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GEORGE-CURT-MANNER-001",
+    "chapter": "umi1_8",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-TROUBLE-SIGH-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-DOOR-MARKS-FORCING-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GENJI-KEY-PERMISSION-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-NATSUHI-TREMBLING-FIST-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GARDEN-PATH-RESTRICTION-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-SHUTTER-DESIGN-INTENTION-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RIGOR-EXTENT-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GEORGE-BITING-LIP-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-SHANNON-SIDE-DAMAGE-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MUDDY-FOOTPRINTS-001",
+    "chapter": "umi1_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-POLICE-INVESTIGATION-ARRIVAL-001",
+    "chapter": "umi1_11",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MALICE-PERCEPTION-GROUP-001",
+    "chapter": "umi1_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-KITCHEN-ARRIVAL-SOUND-001",
+    "chapter": "umi1_12",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RECEIPT-ONLY-METHOD-CONDITION-001",
+    "chapter": "umi1_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-PORTRAIT-NOSTALGIA-AGENT-001",
+    "chapter": "umi1_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-MARIA-SHORT-SIGH-001",
+    "chapter": "umi1_12",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-JESSICA-ADMIRATION-BREATH-001",
+    "chapter": "umi1_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-GUEST-ROOM-TV-SUBJECT-001",
+    "chapter": "umi1_13",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-RESEARCH-RESURRECTION-OBJECT-001",
+    "chapter": "umi1_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-HIDDEN-LAMBDA-DETHRONING-001",
+    "chapter": "umi1_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-TEA-HUMAN-FEASIBILITY-SCOPE-001",
+    "chapter": "umi1_18",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP01-TEA-BEATRICE-ATTITUDE-UNDERSTANDING-001",
+    "chapter": "umi1_18",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH01-TEA-MENTOR-EMPLOYMENT-001",
+    "chapter": "umi2_1",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH01-EVA-SHOULDER-PAT-001",
+    "chapter": "umi2_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH01-GUARDED-HOSTILITY-001",
+    "chapter": "umi2_1",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH01-WITCH-INABILITY-001",
+    "chapter": "umi2_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH01-PARDON-RECIPIENT-001",
+    "chapter": "umi2_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-JESSICA-FEIGNED-FAINTING-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-SHANNON-RUNS-TO-JESSICA-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-JESSICA-ATTENTION-BURDEN-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-WORDS-PROMPT-REMEMBERING-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-WORLDLY-DREAMS-COMPLETED-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-WITCH-DIRECTED-HELP-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-IDLE-FOOLISH-CONVERSATION-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-LOVE-ENTITLEMENT-CAPACITY-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-POINTED-OBJECT-MEANING-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH02-ELEMENT-FULFILLMENT-EXISTENCE-001",
+    "chapter": "umi2_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH03-YOUNG-MEN-PRESENCE-VISITS-001",
+    "chapter": "umi2_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH03-FAMILIAR-EXPRESSION-OBSERVER-001",
+    "chapter": "umi2_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH04-OLD-WOMAN-SEAT-001",
+    "chapter": "umi2_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH04-MARIA-PLEASED-WALK-001",
+    "chapter": "umi2_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH04-KRAUSS-INVESTMENT-CONFIDENCE-001",
+    "chapter": "umi2_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH04-GOHDA-RELAY-INSTRUCTION-001",
+    "chapter": "umi2_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH04-CHILD-COMMUNICATION-001",
+    "chapter": "umi2_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH04-NANJO-PERSON-IN-MIND-001",
+    "chapter": "umi2_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH05-HARVEST-GRATITUDE-MODALITY-001",
+    "chapter": "umi2_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH05-SHANNON-LEERING-001",
+    "chapter": "umi2_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH05-MARIA-LEAPS-ONTO-FIGURE-001",
+    "chapter": "umi2_5",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH06-MACKEREL-JOKE-SUBJECT-001",
+    "chapter": "umi2_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH06-NAME-NOT-GIVEN-001",
+    "chapter": "umi2_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH06-TWO-COUPLES-COALITION-001",
+    "chapter": "umi2_6",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH06-658-771-001",
+    "chapter": "umi2_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH07-329-437-001",
+    "chapter": "umi2_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH07-547-657-001",
+    "chapter": "umi2_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH07-547-657-002",
+    "chapter": "umi2_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH07-658-768-001",
+    "chapter": "umi2_7",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH07-769-877-001",
+    "chapter": "umi2_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH07-878-986-001",
+    "chapter": "umi2_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH07-878-986-002",
+    "chapter": "umi2_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH08-1-110-001",
+    "chapter": "umi2_8",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH08-1-110-002",
+    "chapter": "umi2_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-1-120-001",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-1-120-002",
+    "chapter": "umi2_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-1-120-005",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-121-240-001",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-241-360-001",
+    "chapter": "umi2_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-241-360-002",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-361-480-001",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-361-480-002",
+    "chapter": "umi2_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-361-480-003",
+    "chapter": "umi2_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-601-704-001",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-601-704-002",
+    "chapter": "umi2_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH09-601-704-003",
+    "chapter": "umi2_9",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-1-120-002",
+    "chapter": "umi2_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-1-120-003",
+    "chapter": "umi2_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-1-120-004",
+    "chapter": "umi2_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-121-240-001",
+    "chapter": "umi2_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-121-240-002",
+    "chapter": "umi2_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-121-240-003",
+    "chapter": "umi2_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-241-360-002",
+    "chapter": "umi2_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-241-360-003",
+    "chapter": "umi2_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-241-360-004",
+    "chapter": "umi2_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-241-360-005",
+    "chapter": "umi2_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-361-480-001",
+    "chapter": "umi2_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH10-361-480-002",
+    "chapter": "umi2_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH11-361-480-002",
+    "chapter": "umi2_11",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH11-361-480-003",
+    "chapter": "umi2_11",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH11-361-480-004",
+    "chapter": "umi2_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH11-361-480-005",
+    "chapter": "umi2_11",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH11-481-600-003",
+    "chapter": "umi2_11",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH11-601-720-001",
+    "chapter": "umi2_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-1-120-004",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-121-240-002",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-241-360-001",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-361-480-001",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-361-480-002",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-481-600-001",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-601-720-001",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-601-720-002",
+    "chapter": "umi2_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-841-960-001",
+    "chapter": "umi2_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-841-960-002",
+    "chapter": "umi2_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH12-961-1080-001",
+    "chapter": "umi2_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH13-241-360-001",
+    "chapter": "umi2_13",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH13-241-360-002",
+    "chapter": "umi2_13",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-1-120-003",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-1-120-004",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-121-240-004",
+    "chapter": "umi2_14",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-241-360-003",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-241-360-004",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-241-360-005",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-241-360-006",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-361-480-001",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-481-600-001",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-481-600-004",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-481-600-005",
+    "chapter": "umi2_14",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-481-600-006",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-601-720-002",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-601-720-003",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-601-720-005",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH14-721-840-003",
+    "chapter": "umi2_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-1-120-001",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-1-120-002",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-121-240-002",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-241-360-001",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-241-360-002",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-241-360-003",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-241-360-004",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-241-360-005",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-361-480-004",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-481-600-001",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-481-600-005",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-481-600-006",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-601-720-001",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-601-720-002",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-601-720-003",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-601-720-004",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-721-840-003",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-721-840-005",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-721-840-006",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-721-840-007",
+    "chapter": "umi2_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH15-721-840-008",
+    "chapter": "umi2_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-1-120-002",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-1-120-003",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-1-120-004",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-121-240-001",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-121-240-002",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-121-240-005",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-121-240-006",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-121-240-007",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-241-360-002",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-241-360-003",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-241-360-004",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-241-360-005",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-241-360-006",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-361-480-001",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-361-480-002",
+    "chapter": "umi2_16",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-481-600-001",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH16-481-600-002",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH17-1-120-001",
+    "chapter": "umi2_17",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH17-1-120-002",
+    "chapter": "umi2_17",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH17-1-120-003",
+    "chapter": "umi2_17",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH17-1-120-004",
+    "chapter": "umi2_17",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH17-121-210-001",
+    "chapter": "umi2_17",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH17-121-210-002",
+    "chapter": "umi2_17",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-1-120-001",
+    "chapter": "umi2_18",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-1-120-005",
+    "chapter": "umi2_18",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-121-240-001",
+    "chapter": "umi2_18",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-121-240-003",
+    "chapter": "umi2_18",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-121-240-004",
+    "chapter": "umi2_18",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-241-360-001",
+    "chapter": "umi2_18",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-241-360-002",
+    "chapter": "umi2_18",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH18-361-436-002",
+    "chapter": "umi2_18",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-1-120-002",
+    "chapter": "umi2_19",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-1-120-004",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-1-120-005",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-1-120-006",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-1-120-007",
+    "chapter": "umi2_19",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-121-240-001",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-121-240-002",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-121-240-004",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-241-360-001",
+    "chapter": "umi2_19",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH19-241-360-002",
+    "chapter": "umi2_19",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH20-1-120-001",
+    "chapter": "umi2_20",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-CH20-1-120-003",
+    "chapter": "umi2_20",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-OPEN-FORMER-GREETINGS-001",
+    "chapter": "umi2_op",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP02-OPEN-MEN-BELIEF-QUESTION-001",
+    "chapter": "umi2_op",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-121-240-001",
+    "chapter": "umi3_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-121-240-004",
+    "chapter": "umi3_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-361-480-001",
+    "chapter": "umi3_1",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-361-480-003",
+    "chapter": "umi3_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-361-480-004",
+    "chapter": "umi3_1",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-361-480-005",
+    "chapter": "umi3_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-481-600-003",
+    "chapter": "umi3_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH01-601-646-003",
+    "chapter": "umi3_1",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-1-120-001",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-1-120-004",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-121-240-001",
+    "chapter": "umi3_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-121-240-002",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-121-240-003",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-121-240-004",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-241-360-001",
+    "chapter": "umi3_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-241-360-002",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-241-360-004",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-361-480-001",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-361-480-002",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-601-720-003",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH02-721-854-001",
+    "chapter": "umi3_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-1-120-001",
+    "chapter": "umi3_3",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-1-120-002",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-1-120-004",
+    "chapter": "umi3_3",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-1-120-005",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-121-240-001",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-121-240-002",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-241-360-001",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-481-600-001",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-601-676-002",
+    "chapter": "umi3_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH03-601-676-007",
+    "chapter": "umi3_3",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-1-120-004",
+    "chapter": "umi3_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-121-240-001",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-121-240-007",
+    "chapter": "umi3_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-121-240-008",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-241-360-002",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-241-360-003",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-361-480-008",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-481-600-001",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-481-600-002",
+    "chapter": "umi3_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-601-720-001",
+    "chapter": "umi3_4",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-721-871-001",
+    "chapter": "umi3_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH04-721-871-002",
+    "chapter": "umi3_4",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1-120-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1-120-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1081-1200-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1081-1200-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1081-1200-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1201-1320-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1201-1320-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1201-1320-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-121-240-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-121-240-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-121-240-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1321-1420-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-1321-1420-004",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-241-360-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-241-360-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-241-360-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-004",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-005",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-006",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-007",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-361-480-008",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-481-600-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-481-600-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-481-600-004",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-601-720-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-721-840-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-721-840-004",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-841-960-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-961-1080-001",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-961-1080-002",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-961-1080-003",
+    "chapter": "umi3_5",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH05-961-1080-004",
+    "chapter": "umi3_5",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-1-120-001",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-1-120-002",
+    "chapter": "umi3_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-121-240-001",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-121-240-002",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-121-240-003",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-121-240-004",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-121-240-005",
+    "chapter": "umi3_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-121-240-006",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-241-360-002",
+    "chapter": "umi3_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-361-480-003",
+    "chapter": "umi3_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-361-480-004",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-601-720-002",
+    "chapter": "umi3_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH06-841-942-001",
+    "chapter": "umi3_6",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-121-240-001",
+    "chapter": "umi3_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-121-240-002",
+    "chapter": "umi3_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-241-360-002",
+    "chapter": "umi3_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-361-480-001",
+    "chapter": "umi3_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-361-480-002",
+    "chapter": "umi3_7",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-361-480-003",
+    "chapter": "umi3_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-481-600-002",
+    "chapter": "umi3_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-481-600-003",
+    "chapter": "umi3_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH07-601-640-001",
+    "chapter": "umi3_7",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-1-120-001",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-1-120-002",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-1-120-003",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-121-240-001",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-241-360-001",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-241-360-002",
+    "chapter": "umi3_8",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-241-360-003",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-361-480-001",
+    "chapter": "umi3_8",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-361-480-002",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-481-600-002",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-481-600-004",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-481-600-005",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH08-601-648-001",
+    "chapter": "umi3_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-1-120-001",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-1-120-005",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-1-120-006",
+    "chapter": "umi3_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-1-120-007",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-1-120-008",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-1-120-009",
+    "chapter": "umi3_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-121-240-003",
+    "chapter": "umi3_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-121-240-004",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-241-360-001",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-241-360-002",
+    "chapter": "umi3_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-241-360-003",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-241-360-004",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-361-480-003",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-481-600-001",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-481-600-003",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-481-600-004",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-481-600-005",
+    "chapter": "umi3_9",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH09-601-699-001",
+    "chapter": "umi3_9",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-121-240-001",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-121-240-002",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-361-480-001",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-361-480-002",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-361-480-003",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-361-480-004",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-481-600-001",
+    "chapter": "umi3_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH10-481-600-002",
+    "chapter": "umi3_10",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH11-001-120-002",
+    "chapter": "umi3_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH11-361-480-001",
+    "chapter": "umi3_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH11-481-600-001",
+    "chapter": "umi3_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH11-601-743-001",
+    "chapter": "umi3_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH11-601-743-002",
+    "chapter": "umi3_11",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH12-001-120-001",
+    "chapter": "umi3_12",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH12-001-120-002",
+    "chapter": "umi3_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH12-001-120-003",
+    "chapter": "umi3_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH12-121-240-001",
+    "chapter": "umi3_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH12-121-240-002",
+    "chapter": "umi3_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH12-961-1059-002",
+    "chapter": "umi3_12",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH14-241-360-001",
+    "chapter": "umi3_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH14-481-600-001",
+    "chapter": "umi3_14",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH14-601-720-001",
+    "chapter": "umi3_14",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH15-001-120-001",
+    "chapter": "umi3_15",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH15-241-360-001",
+    "chapter": "umi3_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH15-601-720-001",
+    "chapter": "umi3_15",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH17-1081-1200-001",
+    "chapter": "umi3_17",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP03-CH17-1201-1320-001",
+    "chapter": "umi3_17",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP04-CH01-001-120-002",
+    "chapter": "umi4_1",
+    "editions": [
+      "MG",
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP04-CH02-721-840-001",
+    "chapter": "umi4_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP04-CH02-841-941-001",
+    "chapter": "umi4_2",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP04-CH03-601-756-001",
+    "chapter": "umi4_3",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP04-CH10-001-120-001",
+    "chapter": "umi4_10",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP05-CH03-121-240-001",
+    "chapter": "umi5_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP05-CH06-001-120-001",
+    "chapter": "umi5_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP05-CH08-001-120-001",
+    "chapter": "umi5_8",
+    "editions": [
+      "UP"
+    ]
+  },
+  {
+    "id": "PAIR-EP05-CH08-241-360-001",
+    "chapter": "umi5_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP06-CH02-721-797-001",
+    "chapter": "umi6_2",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP06-CH03-121-240-001",
+    "chapter": "umi6_3",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP07-CH17-121-240-001",
+    "chapter": "umi2_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP07-CH17-121-240-001",
+    "chapter": "umi3_11",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP07-CH17-121-240-001",
+    "chapter": "umi7_16",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP08-CH06-961-1080-001",
+    "chapter": "umi8_6",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP08-CH08-121-240-001",
+    "chapter": "umi8_8",
+    "editions": [
+      "MG"
+    ]
+  },
+  {
+    "id": "PAIR-EP08-CH12-601-720-001",
+    "chapter": "umi8_12",
+    "editions": [
+      "UP"
+    ]
+  }
+]

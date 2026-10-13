@@ -1,1 +1,661 @@
-{"findings":[{"id":"WH-EP07-CH10-001","kind":"WH","description":"Wondering whether distraction caused the loss becomes asserting forgetfulness.","categories":["linguistic.overinterpretation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_10","episode":7,"rows":{"JP":[36,36],"MG":[36,36],"UP":[36,36]},"japanese":"他の小さな仕事にかまけているうちに、すっかり忘れ、","japanesePC":"他の小さな仕事にかまけているうちに、すっかり忘れ、どこかに置きっ放しにしてしまったのだろうか。","japanesePS3":"他の小さな仕事にかまけているうちに、すっかり忘れ、","WH":"While those small jobs kept me busy, I had completely forgotten the small broom, and I must have left it lying around somewhere.","MG":"While those small jobs were keeping me busy, I completely forgot about the small broom,","UP":"While those small jobs kept me busy, I must have completely forgotten about the small broom...","note":"Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_10-L0028","readerRefs":{"WH":["umi7_10-L0028"],"MG":["umi7_10-L0028"],"UP":["umi7_10-L0028"]}}],"sourceReading":"The narrator wonders whether becoming occupied with other tasks led to forgetting and leaving the broom somewhere.","alternative":"Must have retains some inference, but I had completely forgotten states the causal first half as established. The Japanese question しまったのだろうか qualifies the whole proposed sequence. Later the narrator explicitly distinguishes personal losses from witch pranks.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH10-002","kind":"WH","description":"A rumored serious injury becomes an asserted servant injury.","categories":["linguistic.overinterpretation","mystery.epistemic_status","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_10","episode":7,"rows":{"JP":[111,111],"MG":[111,111],"UP":[111,111]},"japanese":"大怪我をした人もいたらしいんだから…」","japanesePC":"「もう。そんな気持ちじゃバチが当たるよ...？　大怪我をした人もいたらしいんだから...。」","japanesePS3":"大怪我をした人もいたらしいんだから…」","WH":"\"Come on.  If you look at it that way, you'll be cursed...  There was one servant who got seriously injured...\"","MG":"There was one servant who got seriously injured...\"","UP":"There was one servant who got seriously injured...\"","note":"Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_10-L0110","readerRefs":{"WH":["umi7_10-L0110"],"MG":["umi7_10-L0110"],"UP":["umi7_10-L0110"]}}],"sourceReading":"Shannon says apparently there were even people who were seriously injured.","alternative":"There was one servant ... drops らしい and supplies a particular number and occupation absent from 人もいた. Workplace context can suggest a servant, but the source expressly presents a heard report rather than verified incident.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH10-003","kind":"WH","description":"The witch singling out the narrator becomes peeking out at them.","categories":["linguistic.idiom_calque","character.motivation_emotion","mystery.mystery_character_link"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_10","episode":7,"rows":{"JP":[144,144],"MG":[144,144],"UP":[144,144]},"japanese":"そして、……どういうわけか私に目をつけ、","japanesePC":"そして、......どういうわけか私に目をつけ、私がふと目を離した隙に、いつも物をどこかへ隠してしまうのだ。","japanesePS3":"そして、……どういうわけか私に目をつけ、","WH":"And, ......for some reason, she's peeking out at me, and if I ever take my eyes off something for a second, she snatches it away and hides it.","MG":"And, ...for some reason, she's peeking out at me,","UP":"And, ......for some reason, she's singled me out,","note":"Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_10-L0140","readerRefs":{"WH":["umi7_10-L0140"],"MG":["umi7_10-L0140"],"UP":["umi7_10-L0140"]}}],"sourceReading":"For some reason the witch has singled the narrator out, hiding things whenever they look away.","alternative":"目をつける is setting one’s sights on or marking someone as a target. Peeking out at me instead describes an act of looking, rather than why the narrator thinks the recurrent interference is directed at them.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH10-004","kind":"WH","description":"Freely performing this movement becomes being able to do anything.","categories":["linguistic.overinterpretation","world.world_fact","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_10","episode":7,"rows":{"JP":[316,316],"MG":[316,316],"UP":[316,316]},"japanese":"指をひとつ鳴らすだけで、このように自由自在よ…！」","japanesePC":"「くっくっくっく！　我が姿が神出鬼没であるように、我が魔法は神出鬼没。指をひとつ鳴らすだけで、このように自由自在よ...！」","japanesePS3":"指をひとつ鳴らすだけで、このように自由自在よ…！」","WH":"\"*cackle*cackle*!  My form is elusive, as is my magic.  With a snap of my fingers, I can do anything...!\"","MG":"With a snap of my fingers, I can do anything...!\"","UP":"With no more than a snap of my fingers, everything here is under my total control...!\"","note":"Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi7_10-L0314","readerRefs":{"WH":["umi7_10-L0314"],"MG":["umi7_10-L0314"],"UP":["umi7_10-L0314"]}}],"sourceReading":"With a snap of her fingers, the witch can freely perform movement like this; her magic appears and disappears as her form does.","alternative":"自由自在 can sound unrestricted, but このように binds it to the demonstrated relocation. I can do anything makes a universal capability claim, despite the preceding little-magic statement and subsequent objects moving through holes.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH10-005","kind":"WH","description":"Flower stands become vases among the moving furnishings.","categories":["linguistic.word_choice","world.world_fact"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_10","episode":7,"rows":{"JP":[320,320],"MG":[320,320],"UP":[320,320]},"japanese":"椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。","japanesePC":"椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。","japanesePS3":"椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。","WH":"Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room.","MG":"Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room.","UP":"Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room.","note":"Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_10-L0317","readerRefs":{"WH":["umi7_10-L0317"],"MG":["umi7_10-L0317"],"UP":["umi7_10-L0317"]}}],"sourceReading":"Chairs, musical scores, standing clocks and flower stands appear and disappear around the chapel.","alternative":"花台 is the stand supporting flowers, not the flower vase. Vases changes the furnishing named in the demonstration, though no particular later puzzle dependency is claimed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH10-006","kind":"WH","description":"Being contrary becomes being like demons.","categories":["linguistic.mistranslation","character.voice_state","world.terminology_recurrence"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_10","episode":7,"rows":{"JP":[365,365],"MG":[365,365],"UP":[365,365]},"japanese":"……何しろ魔女は天邪鬼！","japanesePC":"......何しろ魔女は天邪鬼！　答えを求められたら、即答を拒むのが魔女というものよ。くっくっくっく！」","japanesePS3":"……何しろ魔女は天邪鬼！","WH":"......After all, witches are like demons!  If you ask us for an answer, we'll never give one right away.  *cackle*cackle*!\"","MG":"...After all, to be a witch is to be a contrarian, an amanojaku!","UP":"......After all, witches are like demons!","note":"Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi7_10-L0364","readerRefs":{"WH":["umi7_10-L0364"],"MG":["umi7_10-L0364"],"UP":["umi7_10-L0364"]}}],"sourceReading":"Witches are contrary: asked for an answer, they refuse to answer immediately.","alternative":"天邪鬼 names a folkloric being but commonly denotes contrariness. The immediately following refusal explains that behavioral meaning here. Like demons introduces a creature comparison instead; the next sentence retains the practical refusal, limiting the damage.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH10-121-240-001","kind":"additional","description":"UP includes an unresolved FIXME marker inside the story sentence.","categories":["linguistic.typography"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi7_10","episode":7,"rows":{"JP":[214,214],"MG":[214,214],"UP":[214,214]},"japanese":"姿無き魔女の声無き高笑いが、私の嘆きを嘲笑う。","japanesePC":"","japanesePS3":"姿無き魔女の声無き高笑いが、私の嘆きを嘲笑う。","WH":"","MG":"The shrill, voiceless laugh of the formless witch continued to mock my sobbing.","UP":"The shrill, voiceless{FIXME? laugh of the formless witch continues to mock my sobbing.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi7_10-L0214","readerRefs":{"WH":[],"MG":["umi7_10-L0214"],"UP":["umi7_10-L0214"]}}],"sourceReading":"Raw UP prose reads voiceless{FIXME?} laugh. Japanese, MG and originalPC147189–147190 contain no editorial query. This establishes textual contamination only; native rendering has not been verified.","alternative":"Engine parsing could hide or handle braces; that affects display, not the presence of the unresolved editorial marker in audited prose.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH10-001",
+      "kind": "WH",
+      "description": "Wondering whether distraction caused the loss becomes asserting forgetfulness.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_10",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              36,
+              36
+            ],
+            "MG": [
+              36,
+              36
+            ],
+            "UP": [
+              36,
+              36
+            ]
+          },
+          "japanese": "他の小さな仕事にかまけているうちに、すっかり忘れ、",
+          "japanesePC": "他の小さな仕事にかまけているうちに、すっかり忘れ、どこかに置きっ放しにしてしまったのだろうか。",
+          "japanesePS3": "他の小さな仕事にかまけているうちに、すっかり忘れ、",
+          "WH": "While those small jobs kept me busy, I had completely forgotten the small broom, and I must have left it lying around somewhere.",
+          "MG": "While those small jobs were keeping me busy, I completely forgot about the small broom,",
+          "UP": "While those small jobs kept me busy, I must have completely forgotten about the small broom...",
+          "note": "Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_10-L0028",
+          "readerRefs": {
+            "WH": [
+              "umi7_10-L0028"
+            ],
+            "MG": [
+              "umi7_10-L0028"
+            ],
+            "UP": [
+              "umi7_10-L0028"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "今日は礼拝堂の大掃除だった。礼拝堂は、屋敷の裏手にある大きな建物だ。しかし、普段は誰も近付かない。そんな礼拝堂も、年に何度か大掃除を命じられる。金蔵にとって神聖な建物であるらしく、夏妃は厳しく清掃を命じていた…。細かいところを、上から下まで、奥から隅まで、全て清掃した。今日一日掛りだった。私は窓枠の清掃も担当だったが、他にも小さな担当をいくつもしていた。他の小さな仕事にかまけているうちに、すっかり忘れ、どこかに置きっ放しにしてしまったのだろうか。……私は、自分で自分が悔しくなる。\nこういうことは、何もこれが初めてじゃない。いつも、いつもなのだ。私が何かを置くと、いつも物が消える。\nどこかに行ってしまう。なくなってしまう。私は、多分これは、魔女ベアトリーチェの悪戯だと思っていた。魔女ベアトリーチェは、その亡霊が、六軒島の悪霊の力を得て生まれ変わったもの。熊沢さんが教えてくれるまで、海岸の岩にある社の意味なんて知らなかった……。",
+              "translation": "We cleaned out the entire chapel today. The chapel is a large building behind the mansion. However, no one ever goes near it normally. Even so, we are ordered to clean it a few times each year. Kinzo calls it a sacred building, so Natsuhi is very strict about it... We'd cleaned every little nook and cranny, from top to bottom. It had taken all day. I had been in charge of cleaning the window frames, but I had also been given many smaller tasks. While those small jobs were keeping me busy, I completely forgot about the small broom, and I must've left it lying around somewhere. ...I began to hate myself for it. This isn't the first time this has happened. It happens all the time. Every time I set something down, it always disappears. It goes somewhere else. Vanishes. I thought it was probably the witch, Beatrice, pranking me. The ghost of the witch gained power from Rokkenjima's evil spirits and was reborn. Until Kumasawa-san told me, I never knew the meaning of the shrine on the rocks by the sea...... "
+            },
+            "UP": {
+              "japanese": "今日は礼拝堂の大掃除だった。礼拝堂は、屋敷の裏手にある大きな建物だ。しかし、普段は誰も近付かない。そんな礼拝堂も、年に何度か大掃除を命じられる。金蔵にとって神聖な建物であるらしく、夏妃は厳しく清掃を命じていた…。細かいところを、上から下まで、奥から隅まで、全て清掃した。今日一日掛りだった。私は窓枠の清掃も担当だったが、他にも小さな担当をいくつもしていた。他の小さな仕事にかまけているうちに、すっかり忘れ、どこかに置きっ放しにしてしまったのだろうか。……私は、自分で自分が悔しくなる。\nこういうことは、何もこれが初めてじゃない。いつも、いつもなのだ。私が何かを置くと、いつも物が消える。\nどこかに行ってしまう。なくなってしまう。私は、多分これは、魔女ベアトリーチェの悪戯だと思っていた。魔女ベアトリーチェは、その亡霊が、六軒島の悪霊の力を得て生まれ変わったもの。熊沢さんが教えてくれるまで、海岸の岩にある社の意味なんて知らなかった……。",
+              "translation": "We did a big clean of the entire chapel today. The chapel is a large building behind the mansion. However, no one ever goes near it, normally. Even so, we're ordered to clean the chapel a few times each year. Kinzo calls it a sacred building, so Natsuhi is very strict about it...... We cleaned every little nook and cranny, from top to bottom. It took all day. I'd been put in charge of cleaning the window frames, but I was also given many smaller tasks. While those small jobs kept me busy, I must have completely forgotten about the small broom... ...and left it lying around somewhere. ......I hate myself for doing this.\nThis isn't the first time this has happened. It happens all the time. Every time I set something down, it always disappears.\nIt goes somewhere else. Vanishes. I've come to think that these might be pranks by the witch Beatrice. The ghost of the witch Beatrice borrowed the power of Rokkenjima's evil spirits to become reborn. Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rocks by the sea........."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_10-L0028"
+            ],
+            "MG": [
+              "umi7_10-L0028"
+            ],
+            "UP": [
+              "umi7_10-L0028"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narrator wonders whether becoming occupied with other tasks led to forgetting and leaving the broom somewhere.",
+      "alternative": "Must have retains some inference, but I had completely forgotten states the causal first half as established. The Japanese question しまったのだろうか qualifies the whole proposed sequence. Later the narrator explicitly distinguishes personal losses from witch pranks.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH10-002",
+      "kind": "WH",
+      "description": "A rumored serious injury becomes an asserted servant injury.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_10",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              111,
+              111
+            ],
+            "MG": [
+              111,
+              111
+            ],
+            "UP": [
+              111,
+              111
+            ]
+          },
+          "japanese": "大怪我をした人もいたらしいんだから…」",
+          "japanesePC": "「もう。そんな気持ちじゃバチが当たるよ...？　大怪我をした人もいたらしいんだから...。」",
+          "japanesePS3": "大怪我をした人もいたらしいんだから…」",
+          "WH": "\"Come on.  If you look at it that way, you'll be cursed...  There was one servant who got seriously injured...\"",
+          "MG": "There was one servant who got seriously injured...\"",
+          "UP": "There was one servant who got seriously injured...\"",
+          "note": "Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_10-L0110",
+          "readerRefs": {
+            "WH": [
+              "umi7_10-L0110"
+            ],
+            "MG": [
+              "umi7_10-L0110"
+            ],
+            "UP": [
+              "umi7_10-L0110"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「もう。そんな気持ちじゃバチが当たるよ…？　大怪我をした人もいたらしいんだから…」",
+              "translation": "\"Come on. If you think that way, you'll be cursed... There was one servant who got seriously injured...\" "
+            },
+            "UP": {
+              "japanese": "「もう。そんな気持ちじゃバチが当たるよ…？　大怪我をした人もいたらしいんだから…」",
+              "translation": "\"Come on. If you look at it that way, you'll be cursed... There was one servant who got seriously injured...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_10-L0110"
+            ],
+            "MG": [
+              "umi7_10-L0110"
+            ],
+            "UP": [
+              "umi7_10-L0110"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Shannon says apparently there were even people who were seriously injured.",
+      "alternative": "There was one servant ... drops らしい and supplies a particular number and occupation absent from 人もいた. Workplace context can suggest a servant, but the source expressly presents a heard report rather than verified incident.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH10-003",
+      "kind": "WH",
+      "description": "The witch singling out the narrator becomes peeking out at them.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.motivation_emotion",
+        "mystery.mystery_character_link"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_10",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              144,
+              144
+            ],
+            "MG": [
+              144,
+              144
+            ],
+            "UP": [
+              144,
+              144
+            ]
+          },
+          "japanese": "そして、……どういうわけか私に目をつけ、",
+          "japanesePC": "そして、......どういうわけか私に目をつけ、私がふと目を離した隙に、いつも物をどこかへ隠してしまうのだ。",
+          "japanesePS3": "そして、……どういうわけか私に目をつけ、",
+          "WH": "And, ......for some reason, she's peeking out at me, and if I ever take my eyes off something for a second, she snatches it away and hides it.",
+          "MG": "And, ...for some reason, she's peeking out at me,",
+          "UP": "And, ......for some reason, she's singled me out,",
+          "note": "Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_10-L0140",
+          "readerRefs": {
+            "WH": [
+              "umi7_10-L0140"
+            ],
+            "MG": [
+              "umi7_10-L0140"
+            ],
+            "UP": [
+              "umi7_10-L0140"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そんな哀れでみっともない私を、扉の隙間から、天井の隙間から、くすくすと笑いながら見ている悪戯者の魔女の気配を、私は感じている。お館様の愛人、ベアトリーチェの亡霊は、今も体を求めて彷徨っている。しかも、六軒島の悪霊の力を得て、日に日にその力を増し、復活の日を待っているのだ。そして、……どういうわけか私に目をつけ、私がふと目を離した隙に、いつも物をどこかへ隠してしまうのだ。こういうことがあったのは、これが初めてじゃない。ふと目を離した隙に、………鍵や、ハンカチ。鉛筆や消しゴムなんかがすぐになくなる。後で使おうと思って、あるいは、そこに置いておくべくして置いているのに、少し余所見をしただけでなくなってる。誰かが悪戯で隠してるのではない。\n私しかいない場所で、何度も起こってる。……よくみんなにはそそっかしいとか、うっかりが多過ぎると言って、笑われたり、怒られたりする。私だって注意してるのに、何かの悪い冗談のように、ちょっとしばらく失念しただけで、簡単にものがなくなるのだ。なら、どうせこの消しゴムも消えるに違いない、と思って、じっと見ていても、そういう時に限って消えない。用心深くしてる時は何も消えないのだ。なのに、じゃあ大丈夫だと思って、ほんのわずか緊張を解くだけで、今度は別のものがなくなってる…！　何で、私ばっかり……ッ。",
+              "translation": "As I stumbled about pathetically, I could feel the presence of a prankster witch, giggling at me from the crack of the door and gaps in the ceiling. The ghost of Beatrice, the Master's mistress, wanders about in search of a body to this very day. As she absorbs the power of Rokkenjima's evil spirits, her strength steadily grows, and she waits for the day of her resurrection. And, ...for some reason, she's peeking out at me, and if I ever take my eyes off something for a second, she snatches it away and hides it. This isn't the first time this has happened. Whenever I look away, ...keys, handkerchiefs, pencils, erasers... all of them vanish almost right away. Even though I was planning to use them later, or just wanted to put them in their proper place, they disappear as soon as I turn around. It isn't someone hiding them as a prank. It's happened many times when I'm the only person around. ...Everyone always says I'm too careless and forgetful, and they laugh at me, ...get mad at me. I do try to be alert, but like some kind of bad joke, I lose things easily when I forget about them for just a short while. So, sometimes, I think \"this eraser is gonna disappear sooner or later\", and I stare at it. But at those times alone, it doesn't disappear. Nothing disappears when I'm alert. But as soon as I think I'm safe, and the tension relaxes just a bit, then something else will disappear...! Why is it always me...?! "
+            },
+            "UP": {
+              "japanese": "そんな哀れでみっともない私を、扉の隙間から、天井の隙間から、くすくすと笑いながら見ている悪戯者の魔女の気配を、私は感じている。お館様の愛人、ベアトリーチェの亡霊は、今も体を求めて彷徨っている。しかも、六軒島の悪霊の力を得て、日に日にその力を増し、復活の日を待っているのだ。そして、……どういうわけか私に目をつけ、私がふと目を離した隙に、いつも物をどこかへ隠してしまうのだ。こういうことがあったのは、これが初めてじゃない。ふと目を離した隙に、………鍵や、ハンカチ。鉛筆や消しゴムなんかがすぐになくなる。後で使おうと思って、あるいは、そこに置いておくべくして置いているのに、少し余所見をしただけでなくなってる。誰かが悪戯で隠してるのではない。\n私しかいない場所で、何度も起こってる。……よくみんなにはそそっかしいとか、うっかりが多過ぎると言って、笑われたり、怒られたりする。私だって注意してるのに、何かの悪い冗談のように、ちょっとしばらく失念しただけで、簡単にものがなくなるのだ。なら、どうせこの消しゴムも消えるに違いない、と思って、じっと見ていても、そういう時に限って消えない。用心深くしてる時は何も消えないのだ。なのに、じゃあ大丈夫だと思って、ほんのわずか緊張を解くだけで、今度は別のものがなくなってる…！　何で、私ばっかり……ッ。",
+              "translation": "As I stumbled about pathetically, I could feel the presence of a prankster witch, giggling at me from under the door and up by the ceiling. The ghost of Beatrice, the Master's mistress, wanders about in search of a body to this very day. As she gains the power of Rokkenjima's evil spirits, her strength steadily grows, and she waits for the day of her resurrection. And, ......for some reason, she's singled me out, and if I ever take my eyes off something for a second, she snatches it away and hides it. This isn't the first time this has happened. Whenever I look away, .........keys, handkerchiefs, pencils, erasers... all of them vanish almost right away. I put things down planning to use them later, or because that's obviously the right place to leave them, and still they disappear as soon as I turn around. It isn't someone hiding them as a prank.\nIt's happened many times when I'm the only person around. ......Everyone always says I'm too careless and forgetful, and they laugh at me, get mad at me. I do try to be alert, but like some kind of bad joke, I lose things easily when I forget about them for just a short while. So, sometimes, I think \"I bet this eraser is going to disappear just like everything else\", and I stare at it. That's the only time when it doesn't disappear. Nothing disappears when I'm alert. So then I think I'm safe, but the moment I start to think that and relax just a little bit, a different thing will disappear instead...! Why is it always me......?!"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_10-L0140"
+            ],
+            "MG": [
+              "umi7_10-L0140"
+            ],
+            "UP": [
+              "umi7_10-L0140"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "For some reason the witch has singled the narrator out, hiding things whenever they look away.",
+      "alternative": "目をつける is setting one’s sights on or marking someone as a target. Peeking out at me instead describes an act of looking, rather than why the narrator thinks the recurrent interference is directed at them.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH10-004",
+      "kind": "WH",
+      "description": "Freely performing this movement becomes being able to do anything.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.world_fact",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_10",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              316,
+              316
+            ],
+            "MG": [
+              316,
+              316
+            ],
+            "UP": [
+              316,
+              316
+            ]
+          },
+          "japanese": "指をひとつ鳴らすだけで、このように自由自在よ…！」",
+          "japanesePC": "「くっくっくっく！　我が姿が神出鬼没であるように、我が魔法は神出鬼没。指をひとつ鳴らすだけで、このように自由自在よ...！」",
+          "japanesePS3": "指をひとつ鳴らすだけで、このように自由自在よ…！」",
+          "WH": "\"*cackle*cackle*!  My form is elusive, as is my magic.  With a snap of my fingers, I can do anything...!\"",
+          "MG": "With a snap of my fingers, I can do anything...!\"",
+          "UP": "With no more than a snap of my fingers, everything here is under my total control...!\"",
+          "note": "Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi7_10-L0314",
+          "readerRefs": {
+            "WH": [
+              "umi7_10-L0314"
+            ],
+            "MG": [
+              "umi7_10-L0314"
+            ],
+            "UP": [
+              "umi7_10-L0314"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「くっくっくっく！　我が姿が神出鬼没であるように、我が魔法は神出鬼没。指をひとつ鳴らすだけで、このように自由自在よ…！」",
+              "translation": "\"*cackle*cackle*! My form is elusive, as is my magic. With a snap of my fingers, I can do anything...!\" "
+            },
+            "UP": {
+              "japanese": "「くっくっくっく！　我が姿が神出鬼没であるように、我が魔法は神出鬼没。指をひとつ鳴らすだけで、このように自由自在よ…！」",
+              "translation": "\"*cackle*cackle*! My magic is as elusive as my very own form. With no more than a snap of my fingers, everything here is under my total control...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_10-L0314"
+            ],
+            "MG": [
+              "umi7_10-L0314"
+            ],
+            "UP": [
+              "umi7_10-L0314"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "With a snap of her fingers, the witch can freely perform movement like this; her magic appears and disappears as her form does.",
+      "alternative": "自由自在 can sound unrestricted, but このように binds it to the demonstrated relocation. I can do anything makes a universal capability claim, despite the preceding little-magic statement and subsequent objects moving through holes.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH10-005",
+      "kind": "WH",
+      "description": "Flower stands become vases among the moving furnishings.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_10",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              320,
+              320
+            ],
+            "MG": [
+              320,
+              320
+            ],
+            "UP": [
+              320,
+              320
+            ]
+          },
+          "japanese": "椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。",
+          "japanesePC": "椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。",
+          "japanesePS3": "椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。",
+          "WH": "Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room.",
+          "MG": "Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room.",
+          "UP": "Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room.",
+          "note": "Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_10-L0317",
+          "readerRefs": {
+            "WH": [
+              "umi7_10-L0317"
+            ],
+            "MG": [
+              "umi7_10-L0317"
+            ],
+            "UP": [
+              "umi7_10-L0317"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "魔女が指を鳴らすと、礼拝堂内の様々な物が、その下に開いた小さな黒い落とし穴に飲み込まれて、消えていく。うぅん、消えない。黒い穴に飲み込まれて消えるのと同時に、礼拝堂のまったく別の場所に黒い穴が開き、そこに消えた物が落ちて現れる。椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。まるで、礼拝堂の中を無数の道具が、飛び回っているかのように錯覚させた……。",
+              "translation": "The witch snapped her fingers, and various things throughout the chapel were sucked into a black pitfall beneath them, disappearing. No, they didn't disappear. The instant they vanished into the dark holes, other dark holes appeared in completely different parts of the chapel, and the vanished objects fell out of those. Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room. It made it feel as though countless tools were flying about the chapel... "
+            },
+            "UP": {
+              "japanese": "魔女が指を鳴らすと、礼拝堂内の様々な物が、その下に開いた小さな黒い落とし穴に飲み込まれて、消えていく。うぅん、消えない。黒い穴に飲み込まれて消えるのと同時に、礼拝堂のまったく別の場所に黒い穴が開き、そこに消えた物が落ちて現れる。椅子や楽譜、置時計や花台などが、部屋中のそこかしこから、ひょいひょいと現れてはひょいひょいと消える。まるで、礼拝堂の中を無数の道具が、飛び回っているかのように錯覚させた……。",
+              "translation": "The witch snapped her fingers, and various things throughout the chapel were sucked into black pitfalls beneath them, disappearing. No, they didn't disappear. The instant they vanished into the dark holes, other dark holes appeared in completely different parts of the chapel, and the vanished objects fell out of those. Chairs, musical scores, clocks, and vases started appearing and disappearing all across the room. I felt as though countless tools were flying about the chapel......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_10-L0317"
+            ],
+            "MG": [
+              "umi7_10-L0317"
+            ],
+            "UP": [
+              "umi7_10-L0317"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Chairs, musical scores, standing clocks and flower stands appear and disappear around the chapel.",
+      "alternative": "花台 is the stand supporting flowers, not the flower vase. Vases changes the furnishing named in the demonstration, though no particular later puzzle dependency is claimed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH10-006",
+      "kind": "WH",
+      "description": "Being contrary becomes being like demons.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "world.terminology_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_10",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              365,
+              365
+            ],
+            "MG": [
+              365,
+              365
+            ],
+            "UP": [
+              365,
+              365
+            ]
+          },
+          "japanese": "……何しろ魔女は天邪鬼！",
+          "japanesePC": "......何しろ魔女は天邪鬼！　答えを求められたら、即答を拒むのが魔女というものよ。くっくっくっく！」",
+          "japanesePS3": "……何しろ魔女は天邪鬼！",
+          "WH": "......After all, witches are like demons!  If you ask us for an answer, we'll never give one right away.  *cackle*cackle*!\"",
+          "MG": "...After all, to be a witch is to be a contrarian, an amanojaku!",
+          "UP": "......After all, witches are like demons!",
+          "note": "Full continuous three-witness source-first review with context in saved reports. Parent checked UP60: Rokkenjima mansion denotes the same island mansion descriptively; no different building asserted, held as naming generalization rather than firm wrong location. UP214 raw FIXME is confirmed editorial contamination of prose, rendering unverified. MG259 liking recovered327 and prior257; held. UP126 naive, moon347 and enjoying indecision373 conservative inherited holds. No proven PC carryovers.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_10-L0364",
+          "readerRefs": {
+            "WH": [
+              "umi7_10-L0364"
+            ],
+            "MG": [
+              "umi7_10-L0364"
+            ],
+            "UP": [
+              "umi7_10-L0364"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そなたを我が友人として迎えて良いものか、預からせてもらおうぞ。……何しろ魔女は天邪鬼！　答えを求められたら、即答を拒むのが魔女というものよ。くっくっくっく！」",
+              "translation": "\"I'll take my time in deciding whether you're worthy to be my friend. ...After all, to be a witch is to be a contrarian, an amanojaku! If you ask us for an answer, we'll never give one right away. *cackle*cackle*!\" "
+            },
+            "UP": {
+              "japanese": "「そなたを我が友人として迎えて良いものか、預からせてもらおうぞ。……何しろ魔女は天邪鬼！　答えを求められたら、即答を拒むのが魔女というものよ。くっくっくっく！」",
+              "translation": "\"I shall take my time in deciding whether you are worthy to be my friend. ......After all, witches are like demons! If you ask us for an answer, we will never give one right away. *cackle*cackle*!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_10-L0364"
+            ],
+            "MG": [
+              "umi7_10-L0364"
+            ],
+            "UP": [
+              "umi7_10-L0364"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Witches are contrary: asked for an answer, they refuse to answer immediately.",
+      "alternative": "天邪鬼 names a folkloric being but commonly denotes contrariness. The immediately following refusal explains that behavioral meaning here. Like demons introduces a creature comparison instead; the next sentence retains the practical refusal, limiting the damage.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH10-121-240-001",
+      "kind": "additional",
+      "description": "UP includes an unresolved FIXME marker inside the story sentence.",
+      "categories": [
+        "linguistic.typography"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_10",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              214,
+              214
+            ],
+            "MG": [
+              214,
+              214
+            ],
+            "UP": [
+              214,
+              214
+            ]
+          },
+          "japanese": "姿無き魔女の声無き高笑いが、私の嘆きを嘲笑う。",
+          "japanesePC": "",
+          "japanesePS3": "姿無き魔女の声無き高笑いが、私の嘆きを嘲笑う。",
+          "WH": "",
+          "MG": "The shrill, voiceless laugh of the formless witch continued to mock my sobbing.",
+          "UP": "The shrill, voiceless{FIXME? laugh of the formless witch continues to mock my sobbing.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi7_10-L0214",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_10-L0214"
+            ],
+            "UP": [
+              "umi7_10-L0214"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "姿無き魔女の声無き高笑いが、私の嘆きを嘲笑う。魔女は、ずっと無様に探し回る私と一緒にいて笑ってる。私が礼拝堂をぐるぐる回るのを、一緒に付いて回って、嘲笑ってる。だから、いるのは、そこ。私のすぐ後、……肩越しの後にいて、今もくすくすケラケラと、笑っている。振り返ったって、姿がないのは知ってる。\n見ようとして、目で見てはいけない。何もないことを目で知れば、視えなくなってしまう。園長先生に習った。……目で見ようとしてはいけない。……心の眼で、視なくちゃ。世界の全ては神様の愛で満たされてる。日々の恵みのそこかしこに、神様や天使、聖霊の姿があるのだ。その姿を、目で見て捉えようとするから、見えなくて、視えない。だから感じられず、理解できなくなる。心の眼で、静かに理解するのだ。見て映すんじゃない。視て、心に、描く。そうすることで、この世ならざる存在を知覚できることを、私は福音の家で覚えたのだ。……神様の姿を視えるようになるだけじゃない。\nこの力は、この世ならざる者全てを、視ることが出来る力なのだ。",
+              "translation": "The shrill, voiceless laugh of the formless witch continued to mock my sobbing. The witch is right beside me, laughing at me. As I dash around the chapel, she's following along with me, taunting me. Then... she must be... there. She's right behind me, just over my shoulder, still cackling away. I know that turning around won't help, since she has no form. I can try to look, but I mustn't look with my eyes. Once my eyes tell me there's nothing there, I won't be able to \"see\" anymore. I learned that from the Director of the Fukuin House. ...You mustn't try to see with your eyes. ...You must \"see\" with the eyes of your heart. The whole world is filled with God's love. In the many blessings of everyday life, one can see God, angels, and the Holy Ghost. If you try to look with your eyes, you won't see them, so you won't be able to \"see\" them. So you won't be able to feel them or understand them. With the eyes of the heart, you will quietly understand. You don't look at their image. You \"see\"...and draw them with your heart. In this way, I learned how to recognize beings not of this world at the Fukuin House. ...It doesn't just mean being able to \"see\" God. This power lets one \"see\" all of those not of this world. "
+            },
+            "UP": {
+              "japanese": "姿無き魔女の声無き高笑いが、私の嘆きを嘲笑う。魔女は、ずっと無様に探し回る私と一緒にいて笑ってる。私が礼拝堂をぐるぐる回るのを、一緒に付いて回って、嘲笑ってる。だから、いるのは、そこ。私のすぐ後、……肩越しの後にいて、今もくすくすケラケラと、笑っている。振り返ったって、姿がないのは知ってる。\n見ようとして、目で見てはいけない。何もないことを目で知れば、視えなくなってしまう。園長先生に習った。……目で見ようとしてはいけない。……心の眼で、視なくちゃ。世界の全ては神様の愛で満たされてる。日々の恵みのそこかしこに、神様や天使、聖霊の姿があるのだ。その姿を、目で見て捉えようとするから、見えなくて、視えない。だから感じられず、理解できなくなる。心の眼で、静かに理解するのだ。見て映すんじゃない。視て、心に、描く。そうすることで、この世ならざる存在を知覚できることを、私は福音の家で覚えたのだ。……神様の姿を視えるようになるだけじゃない。\nこの力は、この世ならざる者全てを、視ることが出来る力なのだ。",
+              "translation": "The shrill, voiceless{FIXME? laugh of the formless witch continues to mock my sobbing. The witch is right beside me, laughing at me. As I dash around the chapel, she's following along with me, taunting me. Then... she must be... there. She's right behind me, ......just over my shoulder, cackling away at this very moment. I know that turning around won't help, since she has no form.\nI can try to look, but I mustn't look with my eyes. Once my eyes tell me there's nothing there, I won't be able to 1:‘see’\"see\" anymore. I learned that from the Director of the Gospel House. ......You mustn't try to seelook with your real eyes. ......You must ‘see’see with your mind's eye. The whole world is filled with God's love. In the many blessings of everyday life, one can find God, and angels, and the Holy Ghost. If you try to look at them with your eyes, you won't be able to see them or ‘see’ them.If you look with your eyes, you won't be able to see them. So you won't be able to feel them or understand them. Instead, you must quietly understand them with the eye of your heart. You don't look and have your eyes reflect their image.\nYou ‘see’\"see\"...{0and picture them in your mind. In this way, I learned how to recognize beings not of this world at the Gospel House. ......This power doesn't only allow you to ‘see’\"see\" God.\nIt allows you to ‘see’\"see\" all those not of this world."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_10-L0214"
+            ],
+            "UP": [
+              "umi7_10-L0214"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Raw UP prose reads voiceless{FIXME?} laugh. Japanese, MG and originalPC147189–147190 contain no editorial query. This establishes textual contamination only; native rendering has not been verified.",
+      "alternative": "Engine parsing could hide or handle braces; that affects display, not the presence of the unresolved editorial marker in audited prose.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH10-001": {
+      "umi7_10-L0028": {
+        "WH": [
+          "I had completely forgotten the small broom, and I must have left it lying around somewhere"
+        ],
+        "MG": [
+          "I completely forgot about the small broom, and I must've left it lying around somewhere"
+        ]
+      }
+    },
+    "WH-EP07-CH10-002": {
+      "umi7_10-L0110": {
+        "WH": [
+          "There was one servant who got seriously injured"
+        ],
+        "MG": [
+          "There was one servant who got seriously injured"
+        ],
+        "UP": [
+          "There was one servant who got seriously injured"
+        ]
+      }
+    },
+    "WH-EP07-CH10-003": {
+      "umi7_10-L0140": {
+        "WH": [
+          "she's peeking out at me"
+        ],
+        "MG": [
+          "she's peeking out at me"
+        ]
+      }
+    },
+    "WH-EP07-CH10-004": {
+      "umi7_10-L0314": {
+        "WH": [
+          "I can do anything"
+        ],
+        "MG": [
+          "I can do anything"
+        ],
+        "UP": [
+          "everything here is under my total control"
+        ]
+      }
+    },
+    "WH-EP07-CH10-005": {
+      "umi7_10-L0317": {
+        "WH": [
+          "clocks, and vases"
+        ],
+        "MG": [
+          "clocks, and vases"
+        ],
+        "UP": [
+          "clocks, and vases"
+        ]
+      }
+    },
+    "WH-EP07-CH10-006": {
+      "umi7_10-L0364": {
+        "WH": [
+          "witches are like demons"
+        ],
+        "UP": [
+          "witches are like demons"
+        ]
+      }
+    },
+    "PAIR-EP07-CH10-121-240-001": {
+      "umi7_10-L0214": {
+        "UP": [
+          "{FIXME?"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

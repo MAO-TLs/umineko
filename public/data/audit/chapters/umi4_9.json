@@ -1,1 +1,2587 @@
-{"findings":[{"id":"WH-EP04-CH09-001","kind":"WH","description":"ママと一緒にお出掛け出来ない becomes “Can’t go out together when Mama’s around.”","categories":["linguistic.logical_relation","world.space_time_continuity"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[45,45],"MG":[45,45],"UP":[45,45]},"japanese":"ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ」","japanesePC":"「………本当に？　さくたろたちは、家でしか一緒じゃないよ。ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ。」","japanesePS3":"ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ」","WH":"\".........Really?  All of you are only with Maria at home.  Can't go out together when Mama's around, and can't go to school.\"","MG":"We can't go out together when Mama's around, and we can't go to school.\"","UP":"Can't go out together when Mama's with us, and can't go together to school.\"","note":"UP restores going out when Mama accompanies them rather than general presence.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0043","readerRefs":{"WH":["umi4_9-L0043"],"MG":["umi4_9-L0043"],"UP":["umi4_9-L0043"]}}],"sourceReading":"The companions cannot accompany Maria on outings with Mama, or to school.","alternative":"Mama’s presence plausibly causes the restriction, and later concealment explains how Maria takes companions out secretly. But “when Mama’s around” expands a particular type of outing into a general condition of her presence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-002","kind":"WH","description":"The rabbits’ cheerful conversation inside the pocket becomes “talked with her during class,” adding Maria as the conversation partner.","categories":["linguistic.addition","character.relationship_power"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[96,96],"MG":[96,96],"UP":[96,96]},"japanese":"ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。","japanesePC":"ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。","japanesePS3":"ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。","WH":"The rabbit band that she hid in her pockets talked with her during class, sounding like they were having fun.","MG":"The rabbit band she hid in her pockets talked with her during class, sounding like they were having fun.","UP":"Even during class, I could hear the rabbit band hiding in my pocket talking together and giggling, and they sounded like they were having a lot of fun.","note":"UP restores rabbits talking together within pocket rather than talking with Maria.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0095","readerRefs":{"WH":["umi4_9-L0095"],"MG":["umi4_9-L0095"],"UP":["umi4_9-L0095"]}}],"sourceReading":"The rabbit band chat happily in her pocket; listening alone makes the lonely class time more colorful.","alternative":"They are Maria’s friends and could talk with her elsewhere. The following listening sentence partly preserves the experience, but this line specifies reciprocal engagement absent from the Japanese scene.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-003","kind":"WH","description":"全然取れない becomes “hasn’t even been able to get much time,” allowing some phone contact where Maria describes none.","categories":["linguistic.undertranslation","character.relationship_power","mystery.scope_quantifier_negation"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[133,133],"MG":[133,133],"UP":[133,133]},"japanese":"……真里亞と電話でお話しする時間も全然取れない」","japanesePC":"「うー。ママはまたお仕事が忙しくて、会社にお泊りなの。最近はよく忙しくなるの。……真里亞と電話でお話しする時間も全然取れない。","japanesePS3":"……真里亞と電話でお話しする時間も全然取れない」","WH":"\"Uu-.  Mama is busy with work again, so she's staying at the company.  It's been very busy lately.  ......She hasn't even been able to get much time to talk to Maria on the telephone.","MG":"...She hasn't even been able to get much time to talk to me on the telephone.","UP":"......She hasn't even been able to get much time to talk to me on the phone.\"","note":"Both retain little time rather than no time at all.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi4_9-L0130","readerRefs":{"WH":["umi4_9-L0130"],"MG":["umi4_9-L0130"],"UP":["umi4_9-L0130"]}}],"sourceReading":"Mama has no time at all to talk with Maria on the telephone.","alternative":"Both can colloquially express dissatisfaction with sparse contact, and Maria is reporting her understanding of Mama’s absence. Nevertheless the English explicitly quantifies scarcity rather than absence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-004","kind":"WH","description":"お財布を出してしまう時 is reduced to “When Maria took her wallet out,” omitting putting it away.","categories":["linguistic.omission","world.space_time_continuity","mystery.physical_constraint"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[195,195],"MG":[195,195],"UP":[195,195]},"japanese":"お財布を出してしまう時には、ちゃんと手応えがあったもん。","japanesePC":"「うぅん。お財布を出してしまう時には、ちゃんと手応えがあったもん。途中でポケットを探った時にもちゃんと手応えがあった。","japanesePS3":"お財布を出してしまう時には、ちゃんと手応えがあったもん。","WH":"\"No.  When Maria took her wallet out, definitely felt it.  Also felt it when Maria searched her pocket partway here.","MG":"When I took my wallet out, I definitely felt it.","UP":"Definitely felt it when I took my wallet out.","note":"Both retain taking wallet out without putting it away.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi4_9-L0194","readerRefs":{"WH":["umi4_9-L0194"],"MG":["umi4_9-L0194"],"UP":["umi4_9-L0194"]}}],"sourceReading":"Maria denies dropping the key when using her wallet: she felt it when taking out/putting away the wallet and again while checking her pocket on the way.","alternative":"The wording can summarize a single wallet-handling episode, and the later journey check retains evidence that the key survived beyond the purchase. The omission still removes the completion/replacement stage from her stated evidence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-005","kind":"WH","description":"届いてるかもしれないよ becomes “They might be able to help you,” losing the specific possibility that the key has been turned in to the police box.","categories":["linguistic.undertranslation","world.world_fact","mystery.information_timing_salience"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[276,276],"MG":[276,276],"UP":[276,276]},"japanese":"届いてるかもしれないよ」","japanesePC":"「そりゃ困ったねぇ…。交番には行ってみた？　届いてるかもしれないよ。」","japanesePS3":"届いてるかもしれないよ」","WH":"\"Yes, that does seem troublesome...  Did you try going to the police?  They might be able to help you.\"","MG":"They might be able to help you.\"","UP":"It might have been handed in.\"","note":"UP restores possibility of the lost key being handed in.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0274","readerRefs":{"WH":["umi4_9-L0274"],"MG":["umi4_9-L0274"],"UP":["umi4_9-L0274"]}}],"sourceReading":"The shopkeeper asks if Maria has visited the police box because someone may have handed in her missing key.","alternative":"Retrieving lost property is one form of police help and the broader wording remains plausible advice. It does not convey the concrete reason offered for going there.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-006","kind":"WH","description":"負い目があった becomes “Rosa was liable,” shifting an internal feeling of guilt/indebtedness to a statement of responsibility or liability.","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[280,280],"MG":[280,280],"UP":[280,280]},"japanese":"楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、","japanesePC":"楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、社会的にそれが許容されるものではないことを知っていたのだろう。","japanesePS3":"楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、","WH":"It was probably because Rosa was liable for making such a young girl like Maria watch over the house by herself, and because she knew that this was not something that would be permitted by society.","MG":"It was probably because Rosa would be liable for making such a young girl like Maria watch over the house by herself,","UP":"It was probably because Rosa felt guilty for making such a young girl as Maria watch over the house by herself,","note":"UP restores Rosa feeling guilty instead of liability.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0280","readerRefs":{"WH":["umi4_9-L0280"],"MG":["umi4_9-L0280"],"UP":["umi4_9-L0280"]}}],"sourceReading":"Rosa felt guilty about leaving a child as young as Maria alone and probably knew society would not accept it; this motivates her instructions to avoid adult scrutiny.","alternative":"Liable can loosely mean responsible and the surrounding sentence still gives her awareness of social disapproval. Nevertheless it does not state her own guilty feeling, which is the source’s explicit characterization.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-007","kind":"WH","description":"なるべく一緒にいるようにしています becomes “I am together with her as much as I should be,” replacing an effort/capacity claim with a claim that the amount satisfies obligation.","categories":["linguistic.logical_relation","character.agency_responsibility","character.irony_performance"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[381,381],"MG":[381,381],"UP":[381,381]},"japanese":"「なるべく一緒にいるようにしています！！","japanesePC":"「なるべく一緒にいるようにしています！！　そんなこと、あなたに指図される覚えはありません…！！」","japanesePS3":"「なるべく一緒にいるようにしています！！","WH":"\"I am together with her as much as I should be!!  I don't need to take instructions from you for something like that...!!\"","MG":"\"I am together with her as much as I should be!!","UP":"\"I am here for her as much as I can be!!","note":"UP restores effort/capacity rather than adequate obligation.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0381","readerRefs":{"WH":["umi4_9-L0381"],"MG":["umi4_9-L0381"],"UP":["umi4_9-L0381"]}}],"sourceReading":"Rosa says she tries to be with Maria as much as possible and rejects being instructed by the welfare officer.","alternative":"Her defensive tone plausibly implies she thinks she is doing enough, and the adjacent rejection of instructions supports that attitude. But the English makes sufficiency explicit in place of the stated attempt to maximize time.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-008","kind":"WH","description":"真里亞より先に becomes “Instead of Maria,” replacing priority of target with exclusion of Maria as target.","categories":["linguistic.logical_relation","character.motivation_emotion","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[468,468],"MG":[468,468],"UP":[468,468]},"japanese":"楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。","japanesePC":"楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。","japanesePS3":"楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。","WH":"Instead of Maria, the brunt of Rosa's anger was aimed at the lion stuffed animal Maria was holding.","MG":"Instead of Maria, the brunt of Rosa's anger was aimed at the lion stuffed animal Maria was holding.","UP":"The brunt of Rosa's anger was aimed, not at Maria, but at the lion stuffed animal Maria was holding.","note":"Both retain exclusive target rather than anger aimed at toy before Maria.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi4_9-L0468","readerRefs":{"WH":["umi4_9-L0468"],"MG":["umi4_9-L0468"],"UP":["umi4_9-L0468"]}}],"sourceReading":"Rosa’s anger is directed first at the lion stuffed animal Maria is holding, before being directed at Maria.","alternative":"The English qualifies this as the brunt of her anger, so it need not mean no anger at Maria at all. However “instead of” still changes the relation, especially after the explicitly described shoulder blows and before the accusation against the toy as identifying evidence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-009","kind":"WH","description":"そのさくたろう人形 becomes “him,” removing Rosa’s explicit continued designation of Sakutaro as a doll immediately after Maria begs her not to call him a stuffed animal.","categories":["linguistic.omission","character.relationship_power","character.irony_performance"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[518,518],"MG":[518,518],"UP":[518,518]},"japanese":"ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」","japanesePC":"「はいはいわかったわ、さくたろうだったわね、名前！　ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」","japanesePS3":"ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」","WH":"\"Yeah, yeah, I get it, it was called Sakutarou, was it?!  You took him with you all the time when you went shopping, without telling Mama, right?\"","MG":"You took him with you all the time when you went shopping, without telling Mama, right?\"","UP":"You took that Sakutarou doll with you all the time when you went shopping, without telling Mama, right?\"","note":"Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0517","readerRefs":{"WH":["umi4_9-L0517"],"MG":["umi4_9-L0517"],"UP":["umi4_9-L0517"]}}],"sourceReading":"Rosa dismissively acknowledges the name Sakutarou but asks whether Maria secretly carried that Sakutarou doll on shopping trips.","alternative":"Earlier Rosa calls him a stuffed animal and the misspelled Sakutarou remains, so her dismissiveness is not wholly lost. Still the local apparent concession now uses a personal pronoun instead of retaining the dehumanizing object designation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-010","kind":"WH","description":"The exposed 醜態 of lonely solitary play becomes “she was a disgrace,” and toys that are her only friends become toys she plays with “as though” they were her only friends.","categories":["linguistic.mistranslation","character.viewpoint_attribution","character.motivation_emotion","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[556,557],"MG":[556,557],"UP":[556,557]},"japanese":"………学校に玩具を持ち込んで、\nそれだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。","japanesePC":"………学校に玩具を持ち込んで、それだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。","japanesePS3":"………学校に玩具を持ち込んで、\nそれだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。","WH":".........And those at the school...had known that she was a disgrace who brought toys into school and played with them as though they were her only friends.","MG":"......And those at the school...\nhad known that she was a disgrace who brought toys to school and played with them as though they were her only friends.","UP":".........And the school...\nhad seen the sorry sight of her bringing toys into school and playing with them as her only friends.","note":"Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0554","readerRefs":{"WH":["umi4_9-L0554"],"MG":["umi4_9-L0554"],"UP":["umi4_9-L0554"]}}],"sourceReading":"Rosa realizes the school knows the humiliating spectacle of her daughter bringing toys and playing alone, with those toys as her sole friends.","alternative":"This narration follows Rosa’s realization and may carry her harsh judgment, while the earlier school passage explicitly preserves that the toys are her only friends. Nonetheless the English makes the child rather than the displayed behavior the disgrace and introduces a hypothetical relation absent here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-011","kind":"WH","description":"ひとつ壊れちゃったわ becomes “I broke one of them,” replacing intransitive completed breakage with explicit personal agency.","categories":["linguistic.wrong_subject","character.agency_responsibility","character.irony_performance"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[587,587],"MG":[587,587],"UP":[587,587]},"japanese":"「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。","japanesePC":"「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。今後、ママの言うことを守らない度にまたひとつ、壊すからね。","japanesePS3":"「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。","WH":"\".........Because you didn't listen to what Mama told you, I broke one of them.  From now on, every time you disobey something Mama says, I'll break another one.","MG":"\"......Because you didn't listen to what Mama told you, I broke one of them.","UP":"\".........Because you didn't listen to what Mama told you, one of them broke.","note":"Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0587","readerRefs":{"WH":["umi4_9-L0587"],"MG":["umi4_9-L0587"],"UP":["umi4_9-L0587"]}}],"sourceReading":"Rosa says one has broken because Maria did not listen; she then explicitly threatens to break another whenever Maria disobeys.","alternative":"The preceding action makes Rosa’s physical agency indisputable, and English accurately states who broke it. But the dialogue’s first clause deflects responsibility onto Maria and the event before the second clause openly asserts Rosa’s future violence; that rhetorical distinction is lost.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-012","kind":"WH","description":"いつまでも友達を作らない becomes “you can never make any friends,” replacing persistent nonaction with inability.","categories":["linguistic.tense_aspect","character.motivation_emotion","character.agency_responsibility"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[632,632],"MG":[632,632],"UP":[632,632]},"japanese":"「だからあんたはいつまでも友達を作らないのよ！","japanesePC":"こんなぬいぐるみがあるからッ！！　だからあんたはいつまでも友達を作らないのよ！　だから一人だけクラスで浮いてて、おかしな子扱いされるんでしょうが！！　こんなぬいぐるみあげなきゃ良かった！！　こんな気持ち悪いぬいぐるみあげなきゃ良かったッ！！」","japanesePS3":"「だからあんたはいつまでも友達を作らないのよ！","WH":"It's because of this stuffed animal!!  That's why you can never make any friends!  That's why you alone are pushed off to the side in your class, and treated like a weird kid!!  I should never have given you a stuffed animal like this!!  I should never have given you such a disgusting stuffed animal!!\"","MG":"That's why you can never make any friends!","UP":"\"That's why you can never make any friends!","note":"Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi4_9-L0632","readerRefs":{"WH":["umi4_9-L0629","umi4_9-L0632"],"MG":["umi4_9-L0632"],"UP":["umi4_9-L0632"]}}],"sourceReading":"Rosa blames the stuffed animal for Maria continuing not to make friends and standing apart from her class.","alternative":"Earlier at 158504 Rosa explicitly asks why Maria cannot make friends, translated accurately at 158505. This recurrence may sound natural as the same accusation, but the present Japanese changes to nonaction while English repeats capacity language.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-013","kind":"WH","description":"信じるのだ becomes “I believe,” changing Beatrice’s instruction to Maria into a report of Beatrice’s own belief.","categories":["linguistic.wrong_subject","character.agency_responsibility","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[718,718],"MG":[718,718],"UP":[718,718]},"japanese":"今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……」","japanesePC":"今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……。」","japanesePS3":"今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……」","WH":"Even now, look, ...I believe that Sakutarou is smiling right over there......\"","MG":"\"Even now, look, ...believe that Sakutarou is smiling right over there...\"","UP":"Even now, look, ...you must believe that Sakutarou is smiling right over there......\"","note":"Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi4_9-L0716","readerRefs":{"WH":["umi4_9-L0716"],"MG":["umi4_9-L0716"],"UP":["umi4_9-L0716"]}}],"sourceReading":"Beatrice tells Maria to believe that Sakutarou is smiling nearby even now, following the condition that Maria’s strong belief keeps his soul from disappearing.","alternative":"A belief expressed by Beatrice could encourage Maria similarly, and the following explicit instruction at 158916/917 preserves Maria’s need to believe. Still this sentence changes who performs the belief and loses the imperative.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-014","kind":"WH","description":"そなたが自らに引き裂かれるくらいならば becomes “For tearing you and your beautiful heart apart,” dropping Maria’s self-directed destruction and the comparative alternative. よほど...値する becomes “torn apart considerably,” shifting degree of deservingness into degree of tearing.","categories":["linguistic.logical_relation","linguistic.wrong_subject","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[779,780],"MG":[779,780],"UP":[779,780]},"japanese":"……心美しきそなたが自らに引き裂かれるくらいならば。\n……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する」","japanesePC":"……良かろう。その力を、そなたに与えよう。……心美しきそなたが自らに引き裂かれるくらいならば。……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する。","japanesePS3":"……心美しきそなたが自らに引き裂かれるくらいならば。\n……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する」","WH":"......Very well.  I shall give you that power.  ......For tearing you and your beautiful heart apart......for giving you that pain, it is fitting that your heartless mother be torn apart considerably.","MG":"...For tearing you and your beautiful heart apart,\n...for giving you that pain, it is fitting that your heartless mother be torn apart considerably.\"","UP":"......If you, beautiful of heart, shall otherwise be torn asunder by your own hand...\n...then I find your heartless mother, who brought such suffering upon you, considerably more deserving of such a fate.\"","note":"Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0776","readerRefs":{"WH":["umi4_9-L0776"],"MG":["umi4_9-L0776"],"UP":["umi4_9-L0776"]}}],"sourceReading":"Rather than let beautiful-hearted Maria be torn apart by herself, Beatrice says the heartless mother who caused her suffering deserves to be torn apart far more.","alternative":"Rosa caused Maria’s pain and thus indirectly her self-destruction, so the English accusation is thematically plausible. But the preceding image explicitly identifies the tearing arms as Maria’s own; Beatrice’s decision compares two targets for that destructive force, not simply punishment for an already maternal tearing.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-015","kind":"WH","description":"WH replaces Maria crying-swollen face with a face covered in tears.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[14,14],"MG":[14,14],"UP":[14,14]},"japanese":"真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。","japanesePC":"真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。","japanesePS3":"真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。","WH":"Maria's face was covered with tears, and it looked as though it had even lost all traces of sadness......","MG":"Maria's face was covered with tears, and it looked as though it had even lost all traces of sadness...","UP":"Maria's face was covered with tears, and she looked as though she had even lost the emotion of sadness......","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi4_9-L0013","readerRefs":{"WH":["umi4_9-L0013"],"MG":["umi4_9-L0013"],"UP":["umi4_9-L0013"]}}],"sourceReading":"泣き腫らし describes swelling from crying.","alternative":"Both show grief, but flowing tears do not preserve the physical aftereffect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-016","kind":"WH","description":"WH changes two extra shares for Maria and Sakutaro into a free second portion.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[102,102],"MG":[102,102],"UP":[102,102]},"japanese":"真里亞とさくたろにって、２つ分のオマケをくれたこともあった。","japanesePC":"真里亞とさくたろにって、２つ分のオマケをくれたこともあった。","japanesePS3":"真里亞とさくたろにって、２つ分のオマケをくれたこともあった。","WH":"He sometimes gave a second portion free for Maria and Sakutaro.","MG":"He sometimes gave a second portion free for Maria and Sakutaro.","UP":"Sometimes they even gave me two extra things for free, one for me and one for Sakutaro.","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0100","readerRefs":{"WH":["umi4_9-L0100"],"MG":["umi4_9-L0100"],"UP":["umi4_9-L0100"]}}],"sourceReading":"２つ分のオマケ states two shares of extras.","alternative":"A second portion may be shared, but does not convey the two extra shares explicitly given.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-017","kind":"WH","description":"WH omits a before slightly pitying look.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[145,145],"MG":[145,145],"UP":[145,145]},"japanese":"店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。","japanesePC":"店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。","japanesePS3":"店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。","WH":"Although the shop manager gazed at this pleasantly, he had slightly pitying look on his face.","MG":"Although the shop manager gazed at this pleasantly, he had slightly pitying look on his face.","UP":"Even as he gazed at this heartwarming sight, the shop manager had a slightly pitying look on his face.","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0145","readerRefs":{"WH":["umi4_9-L0145"],"MG":["umi4_9-L0145"],"UP":["umi4_9-L0145"]}}],"sourceReading":"A singular countable look requires an article here.","alternative":"Meaning is clear but narrative grammar is incorrect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-018","kind":"WH","description":"WH replaces dietary variety with eating certain things.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[157,157],"MG":[157,157],"UP":[157,157]},"japanese":"いろいろ食べないと大きくなれないよ。","japanesePC":"『うりゅ。いろいろ食べないと大きくなれないよ。今日はおでんにしよ？』","japanesePS3":"いろいろ食べないと大きくなれないよ。","WH":"『Uryu.  If you don't eat certain things, you won't get big.  How about oden for today?』","MG":"If you don't eat certain things, you won't get big.","UP":"You need variety or you won't get big.","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0156","readerRefs":{"WH":["umi4_9-L0156"],"MG":["umi4_9-L0156"],"UP":["umi4_9-L0156"]}}],"sourceReading":"いろいろ食べないと requires eating varied foods.","alternative":"Certain things could include variety, but does not state the nutritional variety advice.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-019","kind":"WH","description":"WH changes prohibition on nibbling before getting home into prohibition on stuffing oneself.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[178,178],"MG":[178,178],"UP":[178,178]},"japanese":"途中で摘み食いしちゃ駄目だよ。","japanesePC":"「お家にいる他のお友達たちにもよろしくねー。途中で摘み食いしちゃ駄目だよ。まっすぐお家へ帰ってから食べるんだよ。」","japanesePS3":"途中で摘み食いしちゃ駄目だよ。","WH":"\"Send my regards to your other friends at home.  No stuffing yourself on the way home.  Go straight home and eat it there.\"","MG":"No stuffing yourself on your way back.","UP":"No nibbling at it on the way home, now.","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0177","readerRefs":{"WH":["umi4_9-L0175","umi4_9-L0177"],"MG":["umi4_9-L0177"],"UP":["umi4_9-L0177"]}}],"sourceReading":"摘み食い prohibits taking bites en route.","alternative":"The next instruction restores eating at home, but this clause permits modest nibbling rather than prohibiting it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-020","kind":"WH","description":"WH changes tears of frustration emerging before long into unqualified tears at the same time.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[214,214],"MG":[214,214],"UP":[214,214]},"japanese":"……その内、ぽろぽろと悔し涙まで零れ出す。","japanesePC":"……その内、ぽろぽろと悔し涙まで零れ出す。","japanesePS3":"……その内、ぽろぽろと悔し涙まで零れ出す。","WH":"......At the same time, her tears poured out.","MG":"...At the same time, her tears poured out.","UP":"......Before long, bitter tears were pouring down her face.","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0212","readerRefs":{"WH":["umi4_9-L0212"],"MG":["umi4_9-L0212"],"UP":["umi4_9-L0212"]}}],"sourceReading":"その内 and 悔し涙 specify progression and frustration.","alternative":"Nearby distress is clear, but simultaneity and generic tears lose the stated development.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-021","kind":"WH","description":"WH writes began to trod rather than began to tread.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[231,231],"MG":[231,231],"UP":[231,231]},"japanese":"真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。","japanesePC":"真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。","japanesePS3":"真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。","WH":"Maria finally lent an ear to Sakutaro's words, and began to trod back down the road she had come on.","MG":"Maria finally lent an ear to Sakutaro's words and began to trod back down the road she had come on.","UP":"Maria finally lent an ear to Sakutaro's words, and began to plod back the way she came.","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0231","readerRefs":{"WH":["umi4_9-L0231"],"MG":["umi4_9-L0231"],"UP":["umi4_9-L0231"]}}],"sourceReading":"The infinitive requires the base form tread.","alternative":"Meaning is recoverable but trod is the past form.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-022","kind":"WH","description":"WH changes the instruction to remain in her room into an instruction to go there.","categories":["linguistic.tense_aspect"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[372,372],"MG":[372,372],"UP":[372,372]},"japanese":"真里亞は部屋にいなさいと言われていたが、","japanesePC":"真里亞は部屋にいなさいと言われていたが、……トイレに行った帰りに、居間の入り口の脇に隠れ、そのやり取りに耳を傾けていた。","japanesePS3":"真里亞は部屋にいなさいと言われていたが、","WH":"Maria was told to go to her room, ...but on her way back from the bathroom, she hid by the entrance to the living room and listened in on the exchange.","MG":"Maria was told to go to her room,","UP":"Maria was told to go to her room,","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi4_9-L0371","readerRefs":{"WH":["umi4_9-L0371"],"MG":["umi4_9-L0371"],"UP":["umi4_9-L0371"]}}],"sourceReading":"部屋にいなさい tells Maria to stay in the room.","alternative":"Going there may precede remaining there, but the ongoing restriction explains her covert listening.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-023","kind":"WH","description":"WH changes Sakutaro saying he would accompany Maria into telling Maria to take him.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[461,461],"MG":[461,461],"UP":[461,461]},"japanese":"ボクが付いて行くって言ったの……』","japanesePC":"『う……、うりゅ………。ま、真里亞は悪くないよ……。ボクが付いて行くって言ったの……。』","japanesePS3":"ボクが付いて行くって言ったの……』","WH":"『U......, uryu.........  I, it isn't Maria's fault......  I told her to take me......』","MG":"I told her to take me...’","UP":"I said I'd come with her......’","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0459","readerRefs":{"WH":["umi4_9-L0459"],"MG":["umi4_9-L0459"],"UP":["umi4_9-L0459"]}}],"sourceReading":"ボクが付いて行くって言った gives his own offer of accompaniment.","alternative":"Both assume responsibility, but the English adds an instruction directed at Maria.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP04-CH09-024","kind":"WH","description":"WH changes Maria wish to twist her mother as Sakutaro was twisted into smashing her.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[741,741],"MG":[741,741],"UP":[741,741]},"japanese":"さくたろがそうされたように、ママをねじり上げてやりたい…！","japanesePC":"「ママが憎いよ、ママが憎い…！！　悔しい悔しい悲しい悲しい…！！　さくたろがそうされたように、ママをねじり上げてやりたい…！　爪を立てて引き裂いて、布地と綿にしてやりたい！！　わあああああああああぁあああぁあん！！　悔しいよ、悔しいよベアトリーチェええぇ！！　わあああああああああぁあああん、さくたろおおぉおおおおお！！！！」","japanesePS3":"さくたろがそうされたように、ママをねじり上げてやりたい…！","WH":"\"Hate Mama, hate Mama...!!  Frustrated frustrated sad sad...!!  Want to smash Mama up like she did to Sakutaro...!  Want to stick my fingernails in and tear her, turn her into cloth and cotton!!  Waaaaaaaaaaaaaaahhh!!  Can't stand it, I can't stand it, Beatriiice!!  Waaaaaaaaaaaaaaahhh, Sakutaroooooooo!!!!\"","MG":"Wanna smash Mama up like she did to Sakutaro...!","UP":"Want to twist Mama up like she did to Sakutaro...!","note":"Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi4_9-L0739","readerRefs":{"WH":["umi4_9-L0739","umi4_9-L0743"],"MG":["umi4_9-L0739"],"UP":["umi4_9-L0739"]}}],"sourceReading":"ねじり上げて recalls the specific twisting of the doll.","alternative":"Smash can broadly mean destroy, but loses the explicit parallel action alongside the following tearing.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP04-CH09-361-480-001","kind":"additional","description":"UP changes the overnight stay outcome into an offered permission.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[362,362],"MG":[362,362],"UP":[362,362]},"japanese":"そこで一晩を過ごすことになった。","japanesePC":"","japanesePS3":"そこで一晩を過ごすことになった。","WH":"","MG":"and ended up spending the night there.","UP":"and they said I could spend the night there.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi4_9-L0361","readerRefs":{"WH":[],"MG":["umi4_9-L0361"],"UP":["umi4_9-L0361"]}}],"sourceReading":"そこで一晩を過ごすことになった reports spending the night there.","alternative":"Permission may have occurred, but they said I could does not state the narrated outcome; MG preserves it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP04-CH09-361-480-002","kind":"additional","description":"UP replaces Rosa striking Maria shoulders with bearing down on them.","categories":["linguistic.omission"],"severity":"moderate","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[454,454],"MG":[454,454],"UP":[454,454]},"japanese":"楼座は、猛然と真里亞に迫ると、その小さな両肩を容赦ない力で叩き、","japanesePC":"","japanesePS3":"楼座は、猛然と真里亞に迫ると、その小さな両肩を容赦ない力で叩き、","WH":"","MG":"After fiercely closing in on Maria, Rosa mercilessly slapped her on her small shoulders...","UP":"After fiercely closing in on Maria, Rosa mercilessly bore down on her small shoulders,","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi4_9-L0454","readerRefs":{"WH":[],"MG":["umi4_9-L0454"],"UP":["umi4_9-L0454"]}}],"sourceReading":"両肩を容赦ない力で叩き states forceful hitting of both shoulders.","alternative":"Bore down conveys aggression or pressure but does not establish the strike preserved in MG and original WH157969.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP04-CH09-721-787-001","kind":"additional","description":"UP replaces Maria repeated explicit sadness with unspecified emotional overwhelm.","categories":["linguistic.omission"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[740,740],"MG":[740,740],"UP":[740,740]},"japanese":"悔しい悔しい悲しい悲しい…！！","japanesePC":"","japanesePS3":"悔しい悔しい悲しい悲しい…！！","WH":"","MG":"Can't stand it can't stand it too sad too sad...!!","UP":"Can't stand it, can't stand it, it's too much, it's too much...!!","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi4_9-L0739","readerRefs":{"WH":[],"MG":["umi4_9-L0739"],"UP":["umi4_9-L0739"]}}],"sourceReading":"悔しい悔しい悲しい悲しい pairs repeated frustration with repeated sadness.","alternative":"It is too much expresses overwhelm, but loses the explicitly named sadness alongside frustration; MG and original WH158949 retain it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-038","kind":"PC","description":"MG retains the original PC death insult (死ねッ), absent from PS3 Japanese 少しは考えろ; UP follows the PS3 demand to think.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi4_9","episode":4,"rows":{"JP":[507,507],"MG":[507,507],"UP":[507,507]},"japanese":"少しは考えろこの馬鹿ッ！！　何であんたはそう大馬鹿なのよおおおおおぉおおおおおッ！！！」","japanesePC":"馬鹿ッ死ねッ知能ゼロッ！！　何であんたは馬鹿なのよおおおおおぉおおおおおッ！！！","japanesePS3":"少しは考えろこの馬鹿ッ！！　何であんたはそう大馬鹿なのよおおおおおぉおおおおおッ！！！」","WH":"die you brainless moron!!  Why are you such a dumbaaaaaaaaaaaassss!!!","MG":"die you brainless moron!! Why are you such a dumbaaaaaaaaaaaassss?!!!\"","UP":"THINK a little, you idiot!! Why are you such a DUMBAA{-A{-A{-A{-A{-A{-A{-A{-AAASSS!!!\"","note":"","dispositions":{"MG":"not_recorded","UP":"not_recorded"},"readerRef":"umi4_9-L0505","readerRefs":{"WH":[],"MG":["umi4_9-L0505"],"UP":["umi4_9-L0505"]}}],"sourceReading":"","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP04-CH09-001",
+      "kind": "WH",
+      "description": "ママと一緒にお出掛け出来ない becomes “Can’t go out together when Mama’s around.”",
+      "categories": [
+        "linguistic.logical_relation",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              45,
+              45
+            ],
+            "MG": [
+              45,
+              45
+            ],
+            "UP": [
+              45,
+              45
+            ]
+          },
+          "japanese": "ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ」",
+          "japanesePC": "「………本当に？　さくたろたちは、家でしか一緒じゃないよ。ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ。」",
+          "japanesePS3": "ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ」",
+          "WH": "\".........Really?  All of you are only with Maria at home.  Can't go out together when Mama's around, and can't go to school.\"",
+          "MG": "We can't go out together when Mama's around, and we can't go to school.\"",
+          "UP": "Can't go out together when Mama's with us, and can't go together to school.\"",
+          "note": "UP restores going out when Mama accompanies them rather than general presence.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0043",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0043"
+            ],
+            "MG": [
+              "umi4_9-L0043"
+            ],
+            "UP": [
+              "umi4_9-L0043"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………本当に？　さくたろたちは、家でしか一緒じゃないよ。ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ」",
+              "translation": "\"......Really? All of you are only with me at home. We can't go out together when Mama's around, and we can't go to school.\" "
+            },
+            "UP": {
+              "japanese": "「………本当に？　さくたろたちは、家でしか一緒じゃないよ。ママと一緒にお出掛け出来ないし、学校にも一緒にいけないよ」",
+              "translation": "\".........Really? You're all only with me at home. Can't go out together when Mama's with us, and can't go together to school.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0043"
+            ],
+            "MG": [
+              "umi4_9-L0043"
+            ],
+            "UP": [
+              "umi4_9-L0043"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The companions cannot accompany Maria on outings with Mama, or to school.",
+      "alternative": "Mama’s presence plausibly causes the restriction, and later concealment explains how Maria takes companions out secretly. But “when Mama’s around” expands a particular type of outing into a general condition of her presence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-002",
+      "kind": "WH",
+      "description": "The rabbits’ cheerful conversation inside the pocket becomes “talked with her during class,” adding Maria as the conversation partner.",
+      "categories": [
+        "linguistic.addition",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              96,
+              96
+            ],
+            "MG": [
+              96,
+              96
+            ],
+            "UP": [
+              96,
+              96
+            ]
+          },
+          "japanese": "ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。",
+          "japanesePC": "ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。",
+          "japanesePS3": "ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。",
+          "WH": "The rabbit band that she hid in her pockets talked with her during class, sounding like they were having fun.",
+          "MG": "The rabbit band she hid in her pockets talked with her during class, sounding like they were having fun.",
+          "UP": "Even during class, I could hear the rabbit band hiding in my pocket talking together and giggling, and they sounded like they were having a lot of fun.",
+          "note": "UP restores rabbits talking together within pocket rather than talking with Maria.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0095",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0095"
+            ],
+            "MG": [
+              "umi4_9-L0095"
+            ],
+            "UP": [
+              "umi4_9-L0095"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "学校では相変わらず、ニンゲンの友達はいないけれど、魔法の友達はいつも一緒にいる。ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。それに耳を傾けるだけで、寂しい授業時間がとても彩られた。",
+              "translation": "Just like usual, she didn't have any Human friends at school, but her magic friends were always with her. The rabbit band she hid in her pockets talked with her during class, sounding like they were having fun. Just listening to that greatly embellished the time she spent in class. "
+            },
+            "UP": {
+              "japanese": "学校では相変わらず、ニンゲンの友達はいないけれど、魔法の友達はいつも一緒にいる。ポケットに忍ばせたうさぎの音楽隊は、授業中にもポケットの中でくすくすと楽しそうにお話をしている。それに耳を傾けるだけで、寂しい授業時間がとても彩られた。",
+              "translation": "As always, I didn't have any Humanhuman friends at school, but my magic friends were always with me. Even during class, I could hear the rabbit band hiding in my pocket talking together and giggling, and they sounded like they were having a lot of fun. Just listening to that added a lot of color to those lonely school hours."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0095"
+            ],
+            "MG": [
+              "umi4_9-L0095"
+            ],
+            "UP": [
+              "umi4_9-L0095"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The rabbit band chat happily in her pocket; listening alone makes the lonely class time more colorful.",
+      "alternative": "They are Maria’s friends and could talk with her elsewhere. The following listening sentence partly preserves the experience, but this line specifies reciprocal engagement absent from the Japanese scene.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-003",
+      "kind": "WH",
+      "description": "全然取れない becomes “hasn’t even been able to get much time,” allowing some phone contact where Maria describes none.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.relationship_power",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              133,
+              133
+            ],
+            "MG": [
+              133,
+              133
+            ],
+            "UP": [
+              133,
+              133
+            ]
+          },
+          "japanese": "……真里亞と電話でお話しする時間も全然取れない」",
+          "japanesePC": "「うー。ママはまたお仕事が忙しくて、会社にお泊りなの。最近はよく忙しくなるの。……真里亞と電話でお話しする時間も全然取れない。",
+          "japanesePS3": "……真里亞と電話でお話しする時間も全然取れない」",
+          "WH": "\"Uu-.  Mama is busy with work again, so she's staying at the company.  It's been very busy lately.  ......She hasn't even been able to get much time to talk to Maria on the telephone.",
+          "MG": "...She hasn't even been able to get much time to talk to me on the telephone.",
+          "UP": "......She hasn't even been able to get much time to talk to me on the phone.\"",
+          "note": "Both retain little time rather than no time at all.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi4_9-L0130",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0130"
+            ],
+            "MG": [
+              "umi4_9-L0130"
+            ],
+            "UP": [
+              "umi4_9-L0130"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うー。ママはまたお仕事が忙しくて、会社にお泊りなの。最近はよく忙しくなるの。……真里亞と電話でお話しする時間も全然取れない」",
+              "translation": "\"Uu-. Mama's busy with work again, so she's spending the night at the company. It's been very busy lately. ...She hasn't even been able to get much time to talk to me on the telephone. "
+            },
+            "UP": {
+              "japanese": "「うー。ママはまたお仕事が忙しくて、会社にお泊りなの。最近はよく忙しくなるの。……真里亞と電話でお話しする時間も全然取れない」",
+              "translation": "\"Uu. Mama is busy with work again, so she's staying at the company. She's very busy lately. ......She hasn't even been able to get much time to talk to me on the phone.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0130"
+            ],
+            "MG": [
+              "umi4_9-L0130"
+            ],
+            "UP": [
+              "umi4_9-L0130"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Mama has no time at all to talk with Maria on the telephone.",
+      "alternative": "Both can colloquially express dissatisfaction with sparse contact, and Maria is reporting her understanding of Mama’s absence. Nevertheless the English explicitly quantifies scarcity rather than absence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-004",
+      "kind": "WH",
+      "description": "お財布を出してしまう時 is reduced to “When Maria took her wallet out,” omitting putting it away.",
+      "categories": [
+        "linguistic.omission",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              195,
+              195
+            ],
+            "MG": [
+              195,
+              195
+            ],
+            "UP": [
+              195,
+              195
+            ]
+          },
+          "japanese": "お財布を出してしまう時には、ちゃんと手応えがあったもん。",
+          "japanesePC": "「うぅん。お財布を出してしまう時には、ちゃんと手応えがあったもん。途中でポケットを探った時にもちゃんと手応えがあった。",
+          "japanesePS3": "お財布を出してしまう時には、ちゃんと手応えがあったもん。",
+          "WH": "\"No.  When Maria took her wallet out, definitely felt it.  Also felt it when Maria searched her pocket partway here.",
+          "MG": "When I took my wallet out, I definitely felt it.",
+          "UP": "Definitely felt it when I took my wallet out.",
+          "note": "Both retain taking wallet out without putting it away.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi4_9-L0194",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0194"
+            ],
+            "MG": [
+              "umi4_9-L0194"
+            ],
+            "UP": [
+              "umi4_9-L0194"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うぅん。お財布を出してしまう時には、ちゃんと手応えがあったもん。途中でポケットを探った時にもちゃんと手応えがあった」",
+              "translation": "\"No. When I took my wallet out, I definitely felt it. I also felt it when I searched my pocket partway here. "
+            },
+            "UP": {
+              "japanese": "「うぅん。お財布を出してしまう時には、ちゃんと手応えがあったもん。途中でポケットを探った時にもちゃんと手応えがあった」",
+              "translation": "\"No. Definitely felt it when I took my wallet out. Also definitely felt it when I checked my pocket on the way home.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0194"
+            ],
+            "MG": [
+              "umi4_9-L0194"
+            ],
+            "UP": [
+              "umi4_9-L0194"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria denies dropping the key when using her wallet: she felt it when taking out/putting away the wallet and again while checking her pocket on the way.",
+      "alternative": "The wording can summarize a single wallet-handling episode, and the later journey check retains evidence that the key survived beyond the purchase. The omission still removes the completion/replacement stage from her stated evidence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-005",
+      "kind": "WH",
+      "description": "届いてるかもしれないよ becomes “They might be able to help you,” losing the specific possibility that the key has been turned in to the police box.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.world_fact",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              276,
+              276
+            ],
+            "MG": [
+              276,
+              276
+            ],
+            "UP": [
+              276,
+              276
+            ]
+          },
+          "japanese": "届いてるかもしれないよ」",
+          "japanesePC": "「そりゃ困ったねぇ…。交番には行ってみた？　届いてるかもしれないよ。」",
+          "japanesePS3": "届いてるかもしれないよ」",
+          "WH": "\"Yes, that does seem troublesome...  Did you try going to the police?  They might be able to help you.\"",
+          "MG": "They might be able to help you.\"",
+          "UP": "It might have been handed in.\"",
+          "note": "UP restores possibility of the lost key being handed in.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0274",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0274"
+            ],
+            "MG": [
+              "umi4_9-L0274"
+            ],
+            "UP": [
+              "umi4_9-L0274"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そりゃ困ったねぇ…。交番には行ってみた？　届いてるかもしれないよ」",
+              "translation": "\"Well, that's not good... Did you try going to the police? They might be able to help you.\" "
+            },
+            "UP": {
+              "japanese": "「そりゃ困ったねぇ…。交番には行ってみた？　届いてるかもしれないよ」",
+              "translation": "\"Well, that is a pretty pickle... Did you try going to the police? It might have been handed in.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0274"
+            ],
+            "MG": [
+              "umi4_9-L0274"
+            ],
+            "UP": [
+              "umi4_9-L0274"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The shopkeeper asks if Maria has visited the police box because someone may have handed in her missing key.",
+      "alternative": "Retrieving lost property is one form of police help and the broader wording remains plausible advice. It does not convey the concrete reason offered for going there.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-006",
+      "kind": "WH",
+      "description": "負い目があった becomes “Rosa was liable,” shifting an internal feeling of guilt/indebtedness to a statement of responsibility or liability.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              280,
+              280
+            ],
+            "MG": [
+              280,
+              280
+            ],
+            "UP": [
+              280,
+              280
+            ]
+          },
+          "japanese": "楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、",
+          "japanesePC": "楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、社会的にそれが許容されるものではないことを知っていたのだろう。",
+          "japanesePS3": "楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、",
+          "WH": "It was probably because Rosa was liable for making such a young girl like Maria watch over the house by herself, and because she knew that this was not something that would be permitted by society.",
+          "MG": "It was probably because Rosa would be liable for making such a young girl like Maria watch over the house by herself,",
+          "UP": "It was probably because Rosa felt guilty for making such a young girl as Maria watch over the house by herself,",
+          "note": "UP restores Rosa feeling guilty instead of liability.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0280",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0280"
+            ],
+            "MG": [
+              "umi4_9-L0280"
+            ],
+            "UP": [
+              "umi4_9-L0280"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、社会的にそれが許容されるものではないことを知っていたのだろう。だから真里亞に、大人に目を付けられないよう、買い物をする店をなるべく変えろとか、お巡りさんに話し掛けられても、挨拶以上のことはするなと吹き込んできたのだ。",
+              "translation": "It was probably because Rosa would be liable for making such a young girl like Maria watch over the house by herself, and because she knew that this wasn't something that would be permitted by society. So, Maria was indoctrinated into changing the stores she bought things at, so that she didn't catch the eyes of adults, and into saying no more than a greeting to policemen, even if they talked to her. "
+            },
+            "UP": {
+              "japanese": "楼座には、真里亞のような幼い子を、ひとりで留守番させていることに負い目があったし、社会的にそれが許容されるものではないことを知っていたのだろう。だから真里亞に、大人に目を付けられないよう、買い物をする店をなるべく変えろとか、お巡りさんに話し掛けられても、挨拶以上のことはするなと吹き込んできたのだ。",
+              "translation": "It was probably because Rosa felt guilty for making such a young girl as Maria watch over the house by herself, and because she knew that this was not socially acceptable. So she had indoctrinated Maria into changing the stores she bought things at so that she didn't catch the eyes of adults, and saying no more than a greeting to policemen, even if they talked to her."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0280"
+            ],
+            "MG": [
+              "umi4_9-L0280"
+            ],
+            "UP": [
+              "umi4_9-L0280"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa felt guilty about leaving a child as young as Maria alone and probably knew society would not accept it; this motivates her instructions to avoid adult scrutiny.",
+      "alternative": "Liable can loosely mean responsible and the surrounding sentence still gives her awareness of social disapproval. Nevertheless it does not state her own guilty feeling, which is the source’s explicit characterization.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-007",
+      "kind": "WH",
+      "description": "なるべく一緒にいるようにしています becomes “I am together with her as much as I should be,” replacing an effort/capacity claim with a claim that the amount satisfies obligation.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.agency_responsibility",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              381,
+              381
+            ],
+            "MG": [
+              381,
+              381
+            ],
+            "UP": [
+              381,
+              381
+            ]
+          },
+          "japanese": "「なるべく一緒にいるようにしています！！",
+          "japanesePC": "「なるべく一緒にいるようにしています！！　そんなこと、あなたに指図される覚えはありません…！！」",
+          "japanesePS3": "「なるべく一緒にいるようにしています！！",
+          "WH": "\"I am together with her as much as I should be!!  I don't need to take instructions from you for something like that...!!\"",
+          "MG": "\"I am together with her as much as I should be!!",
+          "UP": "\"I am here for her as much as I can be!!",
+          "note": "UP restores effort/capacity rather than adequate obligation.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0381",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0381"
+            ],
+            "MG": [
+              "umi4_9-L0381"
+            ],
+            "UP": [
+              "umi4_9-L0381"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「なるべく一緒にいるようにしています！！　そんなこと、あなたに指図される覚えはありません…！！」",
+              "translation": "\"I am together with her as much as I should be!! I don't need to take instructions from you for something like that...!!\" "
+            },
+            "UP": {
+              "japanese": "「なるべく一緒にいるようにしています！！　そんなこと、あなたに指図される覚えはありません…！！」",
+              "translation": "\"I am here for her as much as I can be!! I have no idea what makes you think I need ordering around...!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0381"
+            ],
+            "MG": [
+              "umi4_9-L0381"
+            ],
+            "UP": [
+              "umi4_9-L0381"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa says she tries to be with Maria as much as possible and rejects being instructed by the welfare officer.",
+      "alternative": "Her defensive tone plausibly implies she thinks she is doing enough, and the adjacent rejection of instructions supports that attitude. But the English makes sufficiency explicit in place of the stated attempt to maximize time.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-008",
+      "kind": "WH",
+      "description": "真里亞より先に becomes “Instead of Maria,” replacing priority of target with exclusion of Maria as target.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              468,
+              468
+            ],
+            "MG": [
+              468,
+              468
+            ],
+            "UP": [
+              468,
+              468
+            ]
+          },
+          "japanese": "楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。",
+          "japanesePC": "楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。",
+          "japanesePS3": "楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。",
+          "WH": "Instead of Maria, the brunt of Rosa's anger was aimed at the lion stuffed animal Maria was holding.",
+          "MG": "Instead of Maria, the brunt of Rosa's anger was aimed at the lion stuffed animal Maria was holding.",
+          "UP": "The brunt of Rosa's anger was aimed, not at Maria, but at the lion stuffed animal Maria was holding.",
+          "note": "Both retain exclusive target rather than anger aimed at toy before Maria.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi4_9-L0468",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0468"
+            ],
+            "MG": [
+              "umi4_9-L0468"
+            ],
+            "UP": [
+              "umi4_9-L0468"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。……ライオンのぬいぐるみをいつも持ち歩く子が、深夜に買い物に来る。そのせいで、商店街では有名だったのだ…。",
+              "translation": "Instead of Maria, the brunt of Rosa's anger was aimed at the lion stuffed animal Maria was holding. ...A girl went shopping in the middle of the night, always clutching a lion stuffed animal. Because of that, she had become well known in the shopping center... "
+            },
+            "UP": {
+              "japanese": "楼座の怒りは真里亞より先に、その抱いているライオンのぬいぐるみに向けられていた。……ライオンのぬいぐるみをいつも持ち歩く子が、深夜に買い物に来る。そのせいで、商店街では有名だったのだ…。",
+              "translation": "The brunt of Rosa's anger was aimed, not at Maria, but at the lion stuffed animal Maria was holding. ......A girl came shopping in the middle of the night, always clutching a lion stuffed animal. Because of that, she had become well known in the shopping district..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0468"
+            ],
+            "MG": [
+              "umi4_9-L0468"
+            ],
+            "UP": [
+              "umi4_9-L0468"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa’s anger is directed first at the lion stuffed animal Maria is holding, before being directed at Maria.",
+      "alternative": "The English qualifies this as the brunt of her anger, so it need not mean no anger at Maria at all. However “instead of” still changes the relation, especially after the explicitly described shoulder blows and before the accusation against the toy as identifying evidence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-009",
+      "kind": "WH",
+      "description": "そのさくたろう人形 becomes “him,” removing Rosa’s explicit continued designation of Sakutaro as a doll immediately after Maria begs her not to call him a stuffed animal.",
+      "categories": [
+        "linguistic.omission",
+        "character.relationship_power",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              518,
+              518
+            ],
+            "MG": [
+              518,
+              518
+            ],
+            "UP": [
+              518,
+              518
+            ]
+          },
+          "japanese": "ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」",
+          "japanesePC": "「はいはいわかったわ、さくたろうだったわね、名前！　ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」",
+          "japanesePS3": "ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」",
+          "WH": "\"Yeah, yeah, I get it, it was called Sakutarou, was it?!  You took him with you all the time when you went shopping, without telling Mama, right?\"",
+          "MG": "You took him with you all the time when you went shopping, without telling Mama, right?\"",
+          "UP": "You took that Sakutarou doll with you all the time when you went shopping, without telling Mama, right?\"",
+          "note": "Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0517",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0517"
+            ],
+            "MG": [
+              "umi4_9-L0517"
+            ],
+            "UP": [
+              "umi4_9-L0517"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はいはいわかったわ、さくたろうだったわね、名前！　ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」",
+              "translation": "\"Yeah, yeah, I get it, it was called Sakutarou, was it?! You took him with you all the time when you went shopping, without telling Mama, right?\" "
+            },
+            "UP": {
+              "japanese": "「はいはいわかったわ、さくたろうだったわね、名前！　ママに内緒で、そのさくたろう人形を持って、いつもお買い物に行っていたのね？」",
+              "translation": "\"Yes, yes, fine, Sakutarou, it was called Sakutarou! You took that Sakutarou doll with you all the time when you went shopping, without telling Mama, right?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0517"
+            ],
+            "MG": [
+              "umi4_9-L0517"
+            ],
+            "UP": [
+              "umi4_9-L0517"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa dismissively acknowledges the name Sakutarou but asks whether Maria secretly carried that Sakutarou doll on shopping trips.",
+      "alternative": "Earlier Rosa calls him a stuffed animal and the misspelled Sakutarou remains, so her dismissiveness is not wholly lost. Still the local apparent concession now uses a personal pronoun instead of retaining the dehumanizing object designation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-010",
+      "kind": "WH",
+      "description": "The exposed 醜態 of lonely solitary play becomes “she was a disgrace,” and toys that are her only friends become toys she plays with “as though” they were her only friends.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.viewpoint_attribution",
+        "character.motivation_emotion",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              556,
+              557
+            ],
+            "MG": [
+              556,
+              557
+            ],
+            "UP": [
+              556,
+              557
+            ]
+          },
+          "japanese": "………学校に玩具を持ち込んで、\nそれだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。",
+          "japanesePC": "………学校に玩具を持ち込んで、それだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。",
+          "japanesePS3": "………学校に玩具を持ち込んで、\nそれだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。",
+          "WH": ".........And those at the school...had known that she was a disgrace who brought toys into school and played with them as though they were her only friends.",
+          "MG": "......And those at the school...\nhad known that she was a disgrace who brought toys to school and played with them as though they were her only friends.",
+          "UP": ".........And the school...\nhad seen the sorry sight of her bringing toys into school and playing with them as her only friends.",
+          "note": "Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0554",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0554"
+            ],
+            "MG": [
+              "umi4_9-L0554"
+            ],
+            "UP": [
+              "umi4_9-L0554"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "………しかし楼座は知ってしまう。間違っていたのは自分の方で、…娘は本当に玩具を学校に持ち込んでいたのだ。………学校に玩具を持ち込んで、それだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。",
+              "translation": "......But now Rosa knew. She had been the one who was wrong, ...and her daughter really had been bringing toys to school. ......And those at the school... had known that she was a disgrace who brought toys to school and played with them as though they were her only friends. "
+            },
+            "UP": {
+              "japanese": "………しかし楼座は知ってしまう。間違っていたのは自分の方で、…娘は本当に玩具を学校に持ち込んでいたのだ。………学校に玩具を持ち込んで、それだけを唯一の友人として寂しく一人遊びする醜態を、学校側に知られてしまっていたのだ。",
+              "translation": ".........But now Rosa knew. She had been the one who was wrong, ...and her daughter really had been bringing toys into school. .........And the school... had seen the sorry sight of her bringing toys into school and playing with them as her only friends."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0554"
+            ],
+            "MG": [
+              "umi4_9-L0554"
+            ],
+            "UP": [
+              "umi4_9-L0554"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa realizes the school knows the humiliating spectacle of her daughter bringing toys and playing alone, with those toys as her sole friends.",
+      "alternative": "This narration follows Rosa’s realization and may carry her harsh judgment, while the earlier school passage explicitly preserves that the toys are her only friends. Nonetheless the English makes the child rather than the displayed behavior the disgrace and introduces a hypothetical relation absent here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-011",
+      "kind": "WH",
+      "description": "ひとつ壊れちゃったわ becomes “I broke one of them,” replacing intransitive completed breakage with explicit personal agency.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              587,
+              587
+            ],
+            "MG": [
+              587,
+              587
+            ],
+            "UP": [
+              587,
+              587
+            ]
+          },
+          "japanese": "「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。",
+          "japanesePC": "「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。今後、ママの言うことを守らない度にまたひとつ、壊すからね。",
+          "japanesePS3": "「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。",
+          "WH": "\".........Because you didn't listen to what Mama told you, I broke one of them.  From now on, every time you disobey something Mama says, I'll break another one.",
+          "MG": "\"......Because you didn't listen to what Mama told you, I broke one of them.",
+          "UP": "\".........Because you didn't listen to what Mama told you, one of them broke.",
+          "note": "Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0587",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0587"
+            ],
+            "MG": [
+              "umi4_9-L0587"
+            ],
+            "UP": [
+              "umi4_9-L0587"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。今後、ママの言うことを守らない度にまたひとつ、壊すからね。……覚えておきなさいッ！！！」",
+              "translation": "\"......Because you didn't listen to what Mama told you, I broke one of them. From now on, every time you disobey something Mama says, I'll break another one. ...Remember that!!!\" "
+            },
+            "UP": {
+              "japanese": "「………ママの言うことをちゃんと聞かないから、ひとつ壊れちゃったわ。今後、ママの言うことを守らない度にまたひとつ、壊すからね。……覚えておきなさいッ！！！」",
+              "translation": "\".........Because you didn't listen to what Mama told you, one of them broke. From now on, every time you disobey something Mama says, I'll break another one. ......Remember that!!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0587"
+            ],
+            "MG": [
+              "umi4_9-L0587"
+            ],
+            "UP": [
+              "umi4_9-L0587"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa says one has broken because Maria did not listen; she then explicitly threatens to break another whenever Maria disobeys.",
+      "alternative": "The preceding action makes Rosa’s physical agency indisputable, and English accurately states who broke it. But the dialogue’s first clause deflects responsibility onto Maria and the event before the second clause openly asserts Rosa’s future violence; that rhetorical distinction is lost.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-012",
+      "kind": "WH",
+      "description": "いつまでも友達を作らない becomes “you can never make any friends,” replacing persistent nonaction with inability.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.motivation_emotion",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              632,
+              632
+            ],
+            "MG": [
+              632,
+              632
+            ],
+            "UP": [
+              632,
+              632
+            ]
+          },
+          "japanese": "「だからあんたはいつまでも友達を作らないのよ！",
+          "japanesePC": "こんなぬいぐるみがあるからッ！！　だからあんたはいつまでも友達を作らないのよ！　だから一人だけクラスで浮いてて、おかしな子扱いされるんでしょうが！！　こんなぬいぐるみあげなきゃ良かった！！　こんな気持ち悪いぬいぐるみあげなきゃ良かったッ！！」",
+          "japanesePS3": "「だからあんたはいつまでも友達を作らないのよ！",
+          "WH": "It's because of this stuffed animal!!  That's why you can never make any friends!  That's why you alone are pushed off to the side in your class, and treated like a weird kid!!  I should never have given you a stuffed animal like this!!  I should never have given you such a disgusting stuffed animal!!\"",
+          "MG": "That's why you can never make any friends!",
+          "UP": "\"That's why you can never make any friends!",
+          "note": "Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi4_9-L0632",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0629",
+              "umi4_9-L0632"
+            ],
+            "MG": [
+              "umi4_9-L0632"
+            ],
+            "UP": [
+              "umi4_9-L0632"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「だからあんたはいつまでも友達を作らないのよ！　だから一人だけクラスで浮いてて、おかしな子扱いされるんでしょうが！！　こんなぬいぐるみあげなきゃ良かった！！　こんな気持ち悪いぬいぐるみあげなきゃ良かったッ！！」",
+              "translation": "That's why you can never make any friends! That's why you alone are pushed off to the side in your class and treated like a freak!! I should never have given you a stuffed animal like this!! I should never have given you such a disgusting stuffed animal!!\" "
+            },
+            "UP": {
+              "japanese": "「だからあんたはいつまでも友達を作らないのよ！　だから一人だけクラスで浮いてて、おかしな子扱いされるんでしょうが！！　こんなぬいぐるみあげなきゃ良かった！！　こんな気持ち悪いぬいぐるみあげなきゃ良かったッ！！」",
+              "translation": "\"That's why you can never make any friends! That's why you're the only one in your class who sticks out like a sore thumb, and gets treated like a weird kid!! I should never have given you a stuffed animal like this!! I should never have given you this disgusting stuffed animal!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0629",
+              "umi4_9-L0632"
+            ],
+            "MG": [
+              "umi4_9-L0632"
+            ],
+            "UP": [
+              "umi4_9-L0632"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa blames the stuffed animal for Maria continuing not to make friends and standing apart from her class.",
+      "alternative": "Earlier at 158504 Rosa explicitly asks why Maria cannot make friends, translated accurately at 158505. This recurrence may sound natural as the same accusation, but the present Japanese changes to nonaction while English repeats capacity language.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-013",
+      "kind": "WH",
+      "description": "信じるのだ becomes “I believe,” changing Beatrice’s instruction to Maria into a report of Beatrice’s own belief.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              718,
+              718
+            ],
+            "MG": [
+              718,
+              718
+            ],
+            "UP": [
+              718,
+              718
+            ]
+          },
+          "japanese": "今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……」",
+          "japanesePC": "今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……。」",
+          "japanesePS3": "今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……」",
+          "WH": "Even now, look, ...I believe that Sakutarou is smiling right over there......\"",
+          "MG": "\"Even now, look, ...believe that Sakutarou is smiling right over there...\"",
+          "UP": "Even now, look, ...you must believe that Sakutarou is smiling right over there......\"",
+          "note": "Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0716",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0716"
+            ],
+            "MG": [
+              "umi4_9-L0716"
+            ],
+            "UP": [
+              "umi4_9-L0716"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そなたがさくたろうの存在を強く信じる限り、その魂が消え去ることはない……。だからマリア…、どうか悲しむな…。今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……」",
+              "translation": "\"As long as you continue to strongly believe in Sakutarou's existence, that soul will not disappear... So, Maria, ...please, do not be sad...\" \"Even now, look, ...believe that Sakutarou is smiling right over there...\" "
+            },
+            "UP": {
+              "japanese": "「そなたがさくたろうの存在を強く信じる限り、その魂が消え去ることはない……。だからマリア…、どうか悲しむな…。今もほら、…すぐそこでさくたろうが微笑んでいると信じるのだ……」",
+              "translation": "\"As long as you continue to strongly believe in Sakutarou's existence, his soul will not disappear...... So, Maria, ...please, do not be sad... Even now, look, ...you must believe that Sakutarou is smiling right over there......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0716"
+            ],
+            "MG": [
+              "umi4_9-L0716"
+            ],
+            "UP": [
+              "umi4_9-L0716"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice tells Maria to believe that Sakutarou is smiling nearby even now, following the condition that Maria’s strong belief keeps his soul from disappearing.",
+      "alternative": "A belief expressed by Beatrice could encourage Maria similarly, and the following explicit instruction at 158916/917 preserves Maria’s need to believe. Still this sentence changes who performs the belief and loses the imperative.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-014",
+      "kind": "WH",
+      "description": "そなたが自らに引き裂かれるくらいならば becomes “For tearing you and your beautiful heart apart,” dropping Maria’s self-directed destruction and the comparative alternative. よほど...値する becomes “torn apart considerably,” shifting degree of deservingness into degree of tearing.",
+      "categories": [
+        "linguistic.logical_relation",
+        "linguistic.wrong_subject",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              779,
+              780
+            ],
+            "MG": [
+              779,
+              780
+            ],
+            "UP": [
+              779,
+              780
+            ]
+          },
+          "japanese": "……心美しきそなたが自らに引き裂かれるくらいならば。\n……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する」",
+          "japanesePC": "……良かろう。その力を、そなたに与えよう。……心美しきそなたが自らに引き裂かれるくらいならば。……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する。",
+          "japanesePS3": "……心美しきそなたが自らに引き裂かれるくらいならば。\n……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する」",
+          "WH": "......Very well.  I shall give you that power.  ......For tearing you and your beautiful heart apart......for giving you that pain, it is fitting that your heartless mother be torn apart considerably.",
+          "MG": "...For tearing you and your beautiful heart apart,\n...for giving you that pain, it is fitting that your heartless mother be torn apart considerably.\"",
+          "UP": "......If you, beautiful of heart, shall otherwise be torn asunder by your own hand...\n...then I find your heartless mother, who brought such suffering upon you, considerably more deserving of such a fate.\"",
+          "note": "Parent independently checked complete aligned scene against agent report; dispositions apply to the canonical contrast.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0776",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0776"
+            ],
+            "MG": [
+              "umi4_9-L0776"
+            ],
+            "UP": [
+              "umi4_9-L0776"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……………………。……良かろう。その力を、そなたに与えよう。……心美しきそなたが自らに引き裂かれるくらいならば。……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する」",
+              "translation": "\"......... ...Very well. I shall give you that power. ...For tearing you and your beautiful heart apart, ...for giving you that pain, it is fitting that your heartless mother be torn apart considerably.\" "
+            },
+            "UP": {
+              "japanese": "「……………………。……良かろう。その力を、そなたに与えよう。……心美しきそなたが自らに引き裂かれるくらいならば。……そなたにその苦しみを与えた、心無き母こそがよほど引き裂かれるに値する」",
+              "translation": "\"........................ ......Very well. I shall give you that power. ......If you, beautiful of heart, shall otherwise be torn asunder by your own hand... ...then I find your heartless mother, who brought such suffering upon you, considerably more deserving of such a fate.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0776"
+            ],
+            "MG": [
+              "umi4_9-L0776"
+            ],
+            "UP": [
+              "umi4_9-L0776"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rather than let beautiful-hearted Maria be torn apart by herself, Beatrice says the heartless mother who caused her suffering deserves to be torn apart far more.",
+      "alternative": "Rosa caused Maria’s pain and thus indirectly her self-destruction, so the English accusation is thematically plausible. But the preceding image explicitly identifies the tearing arms as Maria’s own; Beatrice’s decision compares two targets for that destructive force, not simply punishment for an already maternal tearing.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-015",
+      "kind": "WH",
+      "description": "WH replaces Maria crying-swollen face with a face covered in tears.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              14,
+              14
+            ],
+            "MG": [
+              14,
+              14
+            ],
+            "UP": [
+              14,
+              14
+            ]
+          },
+          "japanese": "真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。",
+          "japanesePC": "真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。",
+          "japanesePS3": "真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。",
+          "WH": "Maria's face was covered with tears, and it looked as though it had even lost all traces of sadness......",
+          "MG": "Maria's face was covered with tears, and it looked as though it had even lost all traces of sadness...",
+          "UP": "Maria's face was covered with tears, and she looked as though she had even lost the emotion of sadness......",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi4_9-L0013",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0013"
+            ],
+            "MG": [
+              "umi4_9-L0013"
+            ],
+            "UP": [
+              "umi4_9-L0013"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "さくたろが悲しそうに真里亞を見上げる。真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。",
+              "translation": "Sakutaro looked up at Maria sadly. Maria's face was covered with tears, and it looked as though it had even lost all traces of sadness... "
+            },
+            "UP": {
+              "japanese": "さくたろが悲しそうに真里亞を見上げる。真里亞の表情は、泣き腫らし、悲しみの感情さえ失ったように見えた…。",
+              "translation": "Sakutaro looked up at Maria sadly. Maria's face was covered with tears, and she looked as though she had even lost the emotion of sadness......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0013"
+            ],
+            "MG": [
+              "umi4_9-L0013"
+            ],
+            "UP": [
+              "umi4_9-L0013"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "泣き腫らし describes swelling from crying.",
+      "alternative": "Both show grief, but flowing tears do not preserve the physical aftereffect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-016",
+      "kind": "WH",
+      "description": "WH changes two extra shares for Maria and Sakutaro into a free second portion.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              102,
+              102
+            ],
+            "MG": [
+              102,
+              102
+            ],
+            "UP": [
+              102,
+              102
+            ]
+          },
+          "japanese": "真里亞とさくたろにって、２つ分のオマケをくれたこともあった。",
+          "japanesePC": "真里亞とさくたろにって、２つ分のオマケをくれたこともあった。",
+          "japanesePS3": "真里亞とさくたろにって、２つ分のオマケをくれたこともあった。",
+          "WH": "He sometimes gave a second portion free for Maria and Sakutaro.",
+          "MG": "He sometimes gave a second portion free for Maria and Sakutaro.",
+          "UP": "Sometimes they even gave me two extra things for free, one for me and one for Sakutaro.",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0100",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0100"
+            ],
+            "MG": [
+              "umi4_9-L0100"
+            ],
+            "UP": [
+              "umi4_9-L0100"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ママの帰りが遅くて、お夕飯のお買い物なんかに行く時も、常にさくたろたちと一緒に行った。コンビニのおじさんたちも、さくたろに優しくしてくれた。\n真里亞とさくたろにって、２つ分のオマケをくれたこともあった。",
+              "translation": "Even when Mama was late coming home and Maria went shopping for dinner, she always went with Sakutaro. The man at the convenience store and the other people were nice to Sakutaro. He sometimes gave a second portion free for Maria and Sakutaro. "
+            },
+            "UP": {
+              "japanese": "ママの帰りが遅くて、お夕飯のお買い物なんかに行く時も、常にさくたろたちと一緒に行った。コンビニのおじさんたちも、さくたろに優しくしてくれた。\n真里亞とさくたろにって、２つ分のオマケをくれたこともあった。",
+              "translation": "And when Mama was late coming home and I went shopping for dinner, I always went with them. The men working at the convenience store were always nice to Sakutaro.\nSometimes they even gave me two extra things for free, one for me and one for Sakutaro."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0100"
+            ],
+            "MG": [
+              "umi4_9-L0100"
+            ],
+            "UP": [
+              "umi4_9-L0100"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "２つ分のオマケ states two shares of extras.",
+      "alternative": "A second portion may be shared, but does not convey the two extra shares explicitly given.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-017",
+      "kind": "WH",
+      "description": "WH omits a before slightly pitying look.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              145,
+              145
+            ],
+            "MG": [
+              145,
+              145
+            ],
+            "UP": [
+              145,
+              145
+            ]
+          },
+          "japanese": "店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。",
+          "japanesePC": "店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。",
+          "japanesePS3": "店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。",
+          "WH": "Although the shop manager gazed at this pleasantly, he had slightly pitying look on his face.",
+          "MG": "Although the shop manager gazed at this pleasantly, he had slightly pitying look on his face.",
+          "UP": "Even as he gazed at this heartwarming sight, the shop manager had a slightly pitying look on his face.",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0145",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0145"
+            ],
+            "MG": [
+              "umi4_9-L0145"
+            ],
+            "UP": [
+              "umi4_9-L0145"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。……どうも母子家庭らしく、母親が激務でなかなか家に帰れないらしい。その上、友達もいる様子がない。なのに、こうしてぬいぐるみたちと楽しく遊んで、寂しくないと言い張る少女に、ささやかな同情を感じずにはいられなかった。",
+              "translation": "Although the shop manager gazed at this pleasantly, he had slightly pitying look on his face. ...This was apparently a single mother household, where the mother had to work hard and couldn't come home very often. On top of that, it looked like this girl didn't even have any friends. As he watched her play around happily with her dolls and claim that she wasn't lonely despite everything, he couldn't help but feel a kind of compassion. "
+            },
+            "UP": {
+              "japanese": "店長はその様子を微笑ましく眺めながらも、少しだけ気の毒そうな表情を浮かべる。……どうも母子家庭らしく、母親が激務でなかなか家に帰れないらしい。その上、友達もいる様子がない。なのに、こうしてぬいぐるみたちと楽しく遊んで、寂しくないと言い張る少女に、ささやかな同情を感じずにはいられなかった。",
+              "translation": "Even as he gazed at this heartwarming sight, the shop manager had a slightly pitying look on his face. ......This was apparently a family without a father, and where the mother had to work hard and couldn't come home very often. On top of that, it looked like this girl didn't even have any friends. As he watched this girl play around happily with her dolls and claim that she wasn't lonely despite everything, he couldn't help but feel a kind of compassion."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0145"
+            ],
+            "MG": [
+              "umi4_9-L0145"
+            ],
+            "UP": [
+              "umi4_9-L0145"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "A singular countable look requires an article here.",
+      "alternative": "Meaning is clear but narrative grammar is incorrect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-018",
+      "kind": "WH",
+      "description": "WH replaces dietary variety with eating certain things.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              157,
+              157
+            ],
+            "MG": [
+              157,
+              157
+            ],
+            "UP": [
+              157,
+              157
+            ]
+          },
+          "japanese": "いろいろ食べないと大きくなれないよ。",
+          "japanesePC": "『うりゅ。いろいろ食べないと大きくなれないよ。今日はおでんにしよ？』",
+          "japanesePS3": "いろいろ食べないと大きくなれないよ。",
+          "WH": "『Uryu.  If you don't eat certain things, you won't get big.  How about oden for today?』",
+          "MG": "If you don't eat certain things, you won't get big.",
+          "UP": "You need variety or you won't get big.",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0156",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0156"
+            ],
+            "MG": [
+              "umi4_9-L0156"
+            ],
+            "UP": [
+              "umi4_9-L0156"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "『うりゅ。いろいろ食べないと大きくなれないよ。今日はおでんにしよ？』",
+              "translation": "‘Uryu. If you don't eat certain things, you won't get big. How about oden for today?’ "
+            },
+            "UP": {
+              "japanese": "『うりゅ。いろいろ食べないと大きくなれないよ。今日はおでんにしよ？』",
+              "translation": "‘Uryu. You need variety or you won't get big. How about oden for today?’"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0156"
+            ],
+            "MG": [
+              "umi4_9-L0156"
+            ],
+            "UP": [
+              "umi4_9-L0156"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "いろいろ食べないと requires eating varied foods.",
+      "alternative": "Certain things could include variety, but does not state the nutritional variety advice.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-019",
+      "kind": "WH",
+      "description": "WH changes prohibition on nibbling before getting home into prohibition on stuffing oneself.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              178,
+              178
+            ],
+            "MG": [
+              178,
+              178
+            ],
+            "UP": [
+              178,
+              178
+            ]
+          },
+          "japanese": "途中で摘み食いしちゃ駄目だよ。",
+          "japanesePC": "「お家にいる他のお友達たちにもよろしくねー。途中で摘み食いしちゃ駄目だよ。まっすぐお家へ帰ってから食べるんだよ。」",
+          "japanesePS3": "途中で摘み食いしちゃ駄目だよ。",
+          "WH": "\"Send my regards to your other friends at home.  No stuffing yourself on the way home.  Go straight home and eat it there.\"",
+          "MG": "No stuffing yourself on your way back.",
+          "UP": "No nibbling at it on the way home, now.",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0177",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0175",
+              "umi4_9-L0177"
+            ],
+            "MG": [
+              "umi4_9-L0177"
+            ],
+            "UP": [
+              "umi4_9-L0177"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「お家にいる他のお友達たちにもよろしくねー。途中で摘み食いしちゃ駄目だよ。まっすぐお家へ帰ってから食べるんだよ」",
+              "translation": "\"Send my regards to your other friends at home. No stuffing yourself on your way back. Go straight home and eat it there.\" "
+            },
+            "UP": {
+              "japanese": "「お家にいる他のお友達たちにもよろしくねー。途中で摘み食いしちゃ駄目だよ。まっすぐお家へ帰ってから食べるんだよ」",
+              "translation": "\"Send my regards to your other friends at home. No nibbling at it on the way home, now. Go straight home and eat it there.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0175",
+              "umi4_9-L0177"
+            ],
+            "MG": [
+              "umi4_9-L0177"
+            ],
+            "UP": [
+              "umi4_9-L0177"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "摘み食い prohibits taking bites en route.",
+      "alternative": "The next instruction restores eating at home, but this clause permits modest nibbling rather than prohibiting it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-020",
+      "kind": "WH",
+      "description": "WH changes tears of frustration emerging before long into unqualified tears at the same time.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              214,
+              214
+            ],
+            "MG": [
+              214,
+              214
+            ],
+            "UP": [
+              214,
+              214
+            ]
+          },
+          "japanese": "……その内、ぽろぽろと悔し涙まで零れ出す。",
+          "japanesePC": "……その内、ぽろぽろと悔し涙まで零れ出す。",
+          "japanesePS3": "……その内、ぽろぽろと悔し涙まで零れ出す。",
+          "WH": "......At the same time, her tears poured out.",
+          "MG": "...At the same time, her tears poured out.",
+          "UP": "......Before long, bitter tears were pouring down her face.",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0212",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0212"
+            ],
+            "MG": [
+              "umi4_9-L0212"
+            ],
+            "UP": [
+              "umi4_9-L0212"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "真里亞は寒くて悔しくて腹立たしくて、地団太を踏む…。\n足の裏がジンジンするが、それでも悔しいのが収まることはない。……その内、ぽろぽろと悔し涙まで零れ出す。",
+              "translation": "Maria was cold and frustrated and angry, and she stamped on the ground... The bottom of her foot throbbed, but that didn't lessen her frustration. ...At the same time, her tears poured out. "
+            },
+            "UP": {
+              "japanese": "真里亞は寒くて悔しくて腹立たしくて、地団太を踏む…。\n足の裏がジンジンするが、それでも悔しいのが収まることはない。……その内、ぽろぽろと悔し涙まで零れ出す。",
+              "translation": "Maria stamped on the ground, cold and frustrated and angry...\nThe bottom of her foot throbbed, but even so, it didn't lessen her frustration. ......Before long, bitter tears were pouring down her face."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0212"
+            ],
+            "MG": [
+              "umi4_9-L0212"
+            ],
+            "UP": [
+              "umi4_9-L0212"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "その内 and 悔し涙 specify progression and frustration.",
+      "alternative": "Nearby distress is clear, but simultaneity and generic tears lose the stated development.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-021",
+      "kind": "WH",
+      "description": "WH writes began to trod rather than began to tread.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              231,
+              231
+            ],
+            "MG": [
+              231,
+              231
+            ],
+            "UP": [
+              231,
+              231
+            ]
+          },
+          "japanese": "真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。",
+          "japanesePC": "真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。",
+          "japanesePS3": "真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。",
+          "WH": "Maria finally lent an ear to Sakutaro's words, and began to trod back down the road she had come on.",
+          "MG": "Maria finally lent an ear to Sakutaro's words and began to trod back down the road she had come on.",
+          "UP": "Maria finally lent an ear to Sakutaro's words, and began to plod back the way she came.",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0231",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0231"
+            ],
+            "MG": [
+              "umi4_9-L0231"
+            ],
+            "UP": [
+              "umi4_9-L0231"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。……さっきまでより、風が冷たく、意地悪に上着の隙間から入り込んでくるように感じた…。",
+              "translation": "Maria finally lent an ear to Sakutaro's words and began to trod back down the road she had come on. ...The wind was colder than before, and it felt like it was blowing in through the corners of her jacket in a mean way... "
+            },
+            "UP": {
+              "japanese": "真里亞はさくたろの言葉にようやく耳を貸し、来た道をとぼとぼと戻り始める。……さっきまでより、風が冷たく、意地悪に上着の隙間から入り込んでくるように感じた…。",
+              "translation": "Maria finally lent an ear to Sakutaro's words, and began to plod back the way she came. ......The wind was colder than it had been, and felt like it was blowing in through the gaps in her jacket to spite her..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0231"
+            ],
+            "MG": [
+              "umi4_9-L0231"
+            ],
+            "UP": [
+              "umi4_9-L0231"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The infinitive requires the base form tread.",
+      "alternative": "Meaning is recoverable but trod is the past form.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-022",
+      "kind": "WH",
+      "description": "WH changes the instruction to remain in her room into an instruction to go there.",
+      "categories": [
+        "linguistic.tense_aspect"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              372,
+              372
+            ],
+            "MG": [
+              372,
+              372
+            ],
+            "UP": [
+              372,
+              372
+            ]
+          },
+          "japanese": "真里亞は部屋にいなさいと言われていたが、",
+          "japanesePC": "真里亞は部屋にいなさいと言われていたが、……トイレに行った帰りに、居間の入り口の脇に隠れ、そのやり取りに耳を傾けていた。",
+          "japanesePS3": "真里亞は部屋にいなさいと言われていたが、",
+          "WH": "Maria was told to go to her room, ...but on her way back from the bathroom, she hid by the entrance to the living room and listened in on the exchange.",
+          "MG": "Maria was told to go to her room,",
+          "UP": "Maria was told to go to her room,",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi4_9-L0371",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0371"
+            ],
+            "MG": [
+              "umi4_9-L0371"
+            ],
+            "UP": [
+              "umi4_9-L0371"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして、……楼座は帰ってきた。真里亞は部屋にいなさいと言われていたが、……トイレに行った帰りに、居間の入り口の脇に隠れ、そのやり取りに耳を傾けていた。訪れたのは、あの日、真里亞から色々と話を聞いた民生委員の婦人だった。",
+              "translation": "Then, ...Rosa came back. Maria was told to go to her room, ...but on her way back from the bathroom, she hid by the entrance to the living room and listened in on the exchange. The person who had come to visit...was the female district welfare officer who had asked Maria various questions on that other day. "
+            },
+            "UP": {
+              "japanese": "そして、……楼座は帰ってきた。真里亞は部屋にいなさいと言われていたが、……トイレに行った帰りに、居間の入り口の脇に隠れ、そのやり取りに耳を傾けていた。訪れたのは、あの日、真里亞から色々と話を聞いた民生委員の婦人だった。",
+              "translation": "And......Rosa came back. Maria was told to go to her room, ...but on her way back from the bathroom, she hid by the entrance to the living room and listened in on the exchange. The person who had come to visit...was the female district welfare officer who had asked Maria various questions the other day."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0371"
+            ],
+            "MG": [
+              "umi4_9-L0371"
+            ],
+            "UP": [
+              "umi4_9-L0371"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "部屋にいなさい tells Maria to stay in the room.",
+      "alternative": "Going there may precede remaining there, but the ongoing restriction explains her covert listening.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-023",
+      "kind": "WH",
+      "description": "WH changes Sakutaro saying he would accompany Maria into telling Maria to take him.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              461,
+              461
+            ],
+            "MG": [
+              461,
+              461
+            ],
+            "UP": [
+              461,
+              461
+            ]
+          },
+          "japanese": "ボクが付いて行くって言ったの……』",
+          "japanesePC": "『う……、うりゅ………。ま、真里亞は悪くないよ……。ボクが付いて行くって言ったの……。』",
+          "japanesePS3": "ボクが付いて行くって言ったの……』",
+          "WH": "『U......, uryu.........  I, it isn't Maria's fault......  I told her to take me......』",
+          "MG": "I told her to take me...’",
+          "UP": "I said I'd come with her......’",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0459",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0459"
+            ],
+            "MG": [
+              "umi4_9-L0459"
+            ],
+            "UP": [
+              "umi4_9-L0459"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "『う……、うりゅ………。ま、真里亞は悪くないよ……。ボクが付いて行くって言ったの……』",
+              "translation": "‘...U-Uryu...... I-It isn't Maria's fault... I told her to take me...’ "
+            },
+            "UP": {
+              "japanese": "『う……、うりゅ………。ま、真里亞は悪くないよ……。ボクが付いて行くって言ったの……』",
+              "translation": "‘U‐......uryu......... I‐it's not Maria's fault...... I said I'd come with her......’"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0459"
+            ],
+            "MG": [
+              "umi4_9-L0459"
+            ],
+            "UP": [
+              "umi4_9-L0459"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ボクが付いて行くって言った gives his own offer of accompaniment.",
+      "alternative": "Both assume responsibility, but the English adds an instruction directed at Maria.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP04-CH09-024",
+      "kind": "WH",
+      "description": "WH changes Maria wish to twist her mother as Sakutaro was twisted into smashing her.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              741,
+              741
+            ],
+            "MG": [
+              741,
+              741
+            ],
+            "UP": [
+              741,
+              741
+            ]
+          },
+          "japanese": "さくたろがそうされたように、ママをねじり上げてやりたい…！",
+          "japanesePC": "「ママが憎いよ、ママが憎い…！！　悔しい悔しい悲しい悲しい…！！　さくたろがそうされたように、ママをねじり上げてやりたい…！　爪を立てて引き裂いて、布地と綿にしてやりたい！！　わあああああああああぁあああぁあん！！　悔しいよ、悔しいよベアトリーチェええぇ！！　わあああああああああぁあああん、さくたろおおぉおおおおお！！！！」",
+          "japanesePS3": "さくたろがそうされたように、ママをねじり上げてやりたい…！",
+          "WH": "\"Hate Mama, hate Mama...!!  Frustrated frustrated sad sad...!!  Want to smash Mama up like she did to Sakutaro...!  Want to stick my fingernails in and tear her, turn her into cloth and cotton!!  Waaaaaaaaaaaaaaahhh!!  Can't stand it, I can't stand it, Beatriiice!!  Waaaaaaaaaaaaaaahhh, Sakutaroooooooo!!!!\"",
+          "MG": "Wanna smash Mama up like she did to Sakutaro...!",
+          "UP": "Want to twist Mama up like she did to Sakutaro...!",
+          "note": "Original PC and coherent paired context verified under ep04-ch09-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi4_9-L0739",
+          "readerRefs": {
+            "WH": [
+              "umi4_9-L0739",
+              "umi4_9-L0743"
+            ],
+            "MG": [
+              "umi4_9-L0739"
+            ],
+            "UP": [
+              "umi4_9-L0739"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ママが憎いよ、ママが憎い…！！　悔しい悔しい悲しい悲しい…！！　さくたろがそうされたように、ママをねじり上げてやりたい…！　爪を立てて引き裂いて、布地と綿にしてやりたい！！」",
+              "translation": "\"I hate Mama, hate Mama...!! Can't stand it can't stand it too sad too sad...!! Wanna smash Mama up like she did to Sakutaro...! Wanna stick my fingernails in and tear her, turn her into cloth and cotton!! "
+            },
+            "UP": {
+              "japanese": "「ママが憎いよ、ママが憎い…！！　悔しい悔しい悲しい悲しい…！！　さくたろがそうされたように、ママをねじり上げてやりたい…！　爪を立てて引き裂いて、布地と綿にしてやりたい！！」",
+              "translation": "\"Hate Mama, hate Mama...!! Can't stand it, can't stand it, it's too much, it's too much...!! Want to twist Mama up like she did to Sakutaro...! Want to stick my fingernails in and tear her, turn her into cloth and cotton!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi4_9-L0739",
+              "umi4_9-L0743"
+            ],
+            "MG": [
+              "umi4_9-L0739"
+            ],
+            "UP": [
+              "umi4_9-L0739"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ねじり上げて recalls the specific twisting of the doll.",
+      "alternative": "Smash can broadly mean destroy, but loses the explicit parallel action alongside the following tearing.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP04-CH09-361-480-001",
+      "kind": "additional",
+      "description": "UP changes the overnight stay outcome into an offered permission.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              362,
+              362
+            ],
+            "MG": [
+              362,
+              362
+            ],
+            "UP": [
+              362,
+              362
+            ]
+          },
+          "japanese": "そこで一晩を過ごすことになった。",
+          "japanesePC": "",
+          "japanesePS3": "そこで一晩を過ごすことになった。",
+          "WH": "",
+          "MG": "and ended up spending the night there.",
+          "UP": "and they said I could spend the night there.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi4_9-L0361",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0361"
+            ],
+            "UP": [
+              "umi4_9-L0361"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……その後、私は、もっと大きい警察署に連れて行かれ、そこで一晩を過ごすことになった。そして、私のことを色々と聞かれた。民生委員のおばさんと名乗る人がやって来て、色々と話を聞かれた。そして、可哀想にね、と言われた。",
+              "translation": "...After that, I was taken to the police department, which was even bigger, and ended up spending the night there. Then, they asked me various things about myself. A lady who called herself the district welfare officer came by and asked about a lot of things. And I was told \"You poor thing\". "
+            },
+            "UP": {
+              "japanese": "……その後、私は、もっと大きい警察署に連れて行かれ、そこで一晩を過ごすことになった。そして、私のことを色々と聞かれた。民生委員のおばさんと名乗る人がやって来て、色々と話を聞かれた。そして、可哀想にね、と言われた。",
+              "translation": "......After that, I was taken to the police station, which was bigger than the police box, and they said I could spend the night there. And they asked me all kinds of things about myself. A lady who called herself the district welfare officer came by and asked about various things. And she said to me, \"You poor thing\"."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0361"
+            ],
+            "UP": [
+              "umi4_9-L0361"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "そこで一晩を過ごすことになった reports spending the night there.",
+      "alternative": "Permission may have occurred, but they said I could does not state the narrated outcome; MG preserves it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP04-CH09-361-480-002",
+      "kind": "additional",
+      "description": "UP replaces Rosa striking Maria shoulders with bearing down on them.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              454,
+              454
+            ],
+            "MG": [
+              454,
+              454
+            ],
+            "UP": [
+              454,
+              454
+            ]
+          },
+          "japanese": "楼座は、猛然と真里亞に迫ると、その小さな両肩を容赦ない力で叩き、",
+          "japanesePC": "",
+          "japanesePS3": "楼座は、猛然と真里亞に迫ると、その小さな両肩を容赦ない力で叩き、",
+          "WH": "",
+          "MG": "After fiercely closing in on Maria, Rosa mercilessly slapped her on her small shoulders...",
+          "UP": "After fiercely closing in on Maria, Rosa mercilessly bore down on her small shoulders,",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi4_9-L0454",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0454"
+            ],
+            "UP": [
+              "umi4_9-L0454"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "楼座は、猛然と真里亞に迫ると、その小さな両肩を容赦ない力で叩き、……真里亞が抱いている、さくたろのぬいぐるみに目を落とした。",
+              "translation": "After fiercely closing in on Maria, Rosa mercilessly slapped her on her small shoulders... and dropped her gaze towards the stuffed animal Maria was holding, Sakutaro. "
+            },
+            "UP": {
+              "japanese": "楼座は、猛然と真里亞に迫ると、その小さな両肩を容赦ない力で叩き、……真里亞が抱いている、さくたろのぬいぐるみに目を落とした。",
+              "translation": "After fiercely closing in on Maria, Rosa mercilessly bore down on her small shoulders, ......and dropped her gaze onto the stuffed animal Maria was holding: Sakutaro."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0454"
+            ],
+            "UP": [
+              "umi4_9-L0454"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "両肩を容赦ない力で叩き states forceful hitting of both shoulders.",
+      "alternative": "Bore down conveys aggression or pressure but does not establish the strike preserved in MG and original WH157969.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP04-CH09-721-787-001",
+      "kind": "additional",
+      "description": "UP replaces Maria repeated explicit sadness with unspecified emotional overwhelm.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              740,
+              740
+            ],
+            "MG": [
+              740,
+              740
+            ],
+            "UP": [
+              740,
+              740
+            ]
+          },
+          "japanese": "悔しい悔しい悲しい悲しい…！！",
+          "japanesePC": "",
+          "japanesePS3": "悔しい悔しい悲しい悲しい…！！",
+          "WH": "",
+          "MG": "Can't stand it can't stand it too sad too sad...!!",
+          "UP": "Can't stand it, can't stand it, it's too much, it's too much...!!",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi4_9-L0739",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0739"
+            ],
+            "UP": [
+              "umi4_9-L0739"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ママが憎いよ、ママが憎い…！！　悔しい悔しい悲しい悲しい…！！　さくたろがそうされたように、ママをねじり上げてやりたい…！　爪を立てて引き裂いて、布地と綿にしてやりたい！！」",
+              "translation": "\"I hate Mama, hate Mama...!! Can't stand it can't stand it too sad too sad...!! Wanna smash Mama up like she did to Sakutaro...! Wanna stick my fingernails in and tear her, turn her into cloth and cotton!! "
+            },
+            "UP": {
+              "japanese": "「ママが憎いよ、ママが憎い…！！　悔しい悔しい悲しい悲しい…！！　さくたろがそうされたように、ママをねじり上げてやりたい…！　爪を立てて引き裂いて、布地と綿にしてやりたい！！」",
+              "translation": "\"Hate Mama, hate Mama...!! Can't stand it, can't stand it, it's too much, it's too much...!! Want to twist Mama up like she did to Sakutaro...! Want to stick my fingernails in and tear her, turn her into cloth and cotton!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0739"
+            ],
+            "UP": [
+              "umi4_9-L0739"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "悔しい悔しい悲しい悲しい pairs repeated frustration with repeated sadness.",
+      "alternative": "It is too much expresses overwhelm, but loses the explicitly named sadness alongside frustration; MG and original WH158949 retain it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-038",
+      "kind": "PC",
+      "description": "MG retains the original PC death insult (死ねッ), absent from PS3 Japanese 少しは考えろ; UP follows the PS3 demand to think.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi4_9",
+          "episode": 4,
+          "rows": {
+            "JP": [
+              507,
+              507
+            ],
+            "MG": [
+              507,
+              507
+            ],
+            "UP": [
+              507,
+              507
+            ]
+          },
+          "japanese": "少しは考えろこの馬鹿ッ！！　何であんたはそう大馬鹿なのよおおおおおぉおおおおおッ！！！」",
+          "japanesePC": "馬鹿ッ死ねッ知能ゼロッ！！　何であんたは馬鹿なのよおおおおおぉおおおおおッ！！！",
+          "japanesePS3": "少しは考えろこの馬鹿ッ！！　何であんたはそう大馬鹿なのよおおおおおぉおおおおおッ！！！」",
+          "WH": "die you brainless moron!!  Why are you such a dumbaaaaaaaaaaaassss!!!",
+          "MG": "die you brainless moron!! Why are you such a dumbaaaaaaaaaaaassss?!!!\"",
+          "UP": "THINK a little, you idiot!! Why are you such a DUMBAA{-A{-A{-A{-A{-A{-A{-A{-AAASSS!!!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "not_recorded",
+            "UP": "not_recorded"
+          },
+          "readerRef": "umi4_9-L0505",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0505"
+            ],
+            "UP": [
+              "umi4_9-L0505"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……………………。だから覚えられちゃうんでしょおおおぉお、少しは考えろこの馬鹿ッ！！　何であんたはそう大馬鹿なのよおおおおおぉおおおおおッ！！！」",
+              "translation": "\"........................ So that's why they remembered yoooooooou, die you brainless moron!! Why are you such a dumbaaaaaaaaaaaassss?!!!\" "
+            },
+            "UP": {
+              "japanese": "「……………………。だから覚えられちゃうんでしょおおおぉお、少しは考えろこの馬鹿ッ！！　何であんたはそう大馬鹿なのよおおおおおぉおおおおおッ！！！」",
+              "translation": "\"........................ Then OF COURSE they remembered yoooooooou, THINK a little, you idiot!! Why are you such a DUMBAA{-A{-A{-A{-A{-A{-A{-A{-AAASSS!!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi4_9-L0505"
+            ],
+            "UP": [
+              "umi4_9-L0505"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP04-CH09-001": {
+      "umi4_9-L0043": {
+        "WH": [
+          "Can't go out together when Mama's around"
+        ],
+        "MG": [
+          "We can't go out together when Mama's around"
+        ]
+      }
+    },
+    "WH-EP04-CH09-002": {
+      "umi4_9-L0095": {
+        "WH": [
+          "talked with her during class"
+        ],
+        "MG": [
+          "talked with her during class"
+        ]
+      }
+    },
+    "WH-EP04-CH09-003": {
+      "umi4_9-L0130": {
+        "WH": [
+          "hasn't even been able to get much time"
+        ],
+        "MG": [
+          "hasn't even been able to get much time"
+        ],
+        "UP": [
+          "hasn't even been able to get much time"
+        ]
+      }
+    },
+    "WH-EP04-CH09-004": {
+      "umi4_9-L0194": {
+        "WH": [
+          "When Maria took her wallet out"
+        ],
+        "MG": [
+          "When I took my wallet out"
+        ],
+        "UP": [
+          "when I took my wallet out"
+        ]
+      }
+    },
+    "WH-EP04-CH09-005": {
+      "umi4_9-L0274": {
+        "WH": [
+          "They might be able to help you"
+        ],
+        "MG": [
+          "They might be able to help you"
+        ]
+      }
+    },
+    "WH-EP04-CH09-006": {
+      "umi4_9-L0280": {
+        "WH": [
+          "Rosa was liable"
+        ],
+        "MG": [
+          "Rosa would be liable"
+        ]
+      }
+    },
+    "WH-EP04-CH09-007": {
+      "umi4_9-L0381": {
+        "WH": [
+          "as much as I should be"
+        ],
+        "MG": [
+          "as much as I should be"
+        ]
+      }
+    },
+    "WH-EP04-CH09-008": {
+      "umi4_9-L0468": {
+        "WH": [
+          "Instead of Maria"
+        ],
+        "MG": [
+          "Instead of Maria"
+        ],
+        "UP": [
+          "not at Maria, but at"
+        ]
+      }
+    },
+    "WH-EP04-CH09-009": {
+      "umi4_9-L0517": {
+        "WH": [
+          "You took him with you"
+        ],
+        "MG": [
+          "You took him with you"
+        ]
+      }
+    },
+    "WH-EP04-CH09-010": {
+      "umi4_9-L0554": {
+        "WH": [
+          "she was a disgrace",
+          "as though they were her only friends"
+        ],
+        "MG": [
+          "she was a disgrace",
+          "as though they were her only friends"
+        ]
+      }
+    },
+    "WH-EP04-CH09-011": {
+      "umi4_9-L0587": {
+        "WH": [
+          "I broke one of them"
+        ],
+        "MG": [
+          "I broke one of them"
+        ]
+      }
+    },
+    "WH-EP04-CH09-012": {
+      "umi4_9-L0629": {
+        "WH": [
+          "you can never make any friends"
+        ]
+      },
+      "umi4_9-L0632": {
+        "WH": [
+          "you can never make any friends"
+        ],
+        "MG": [
+          "you can never make any friends"
+        ],
+        "UP": [
+          "you can never make any friends"
+        ]
+      }
+    },
+    "WH-EP04-CH09-013": {
+      "umi4_9-L0716": {
+        "WH": [
+          "I believe"
+        ]
+      }
+    },
+    "WH-EP04-CH09-014": {
+      "umi4_9-L0776": {
+        "WH": [
+          "For tearing you and your beautiful heart apart",
+          "torn apart considerably"
+        ],
+        "MG": [
+          "For tearing you and your beautiful heart apart",
+          "torn apart considerably"
+        ]
+      }
+    },
+    "WH-EP04-CH09-015": {
+      "umi4_9-L0013": {
+        "WH": [
+          "covered with tears"
+        ],
+        "MG": [
+          "covered with tears"
+        ],
+        "UP": [
+          "covered with tears"
+        ]
+      }
+    },
+    "WH-EP04-CH09-016": {
+      "umi4_9-L0100": {
+        "WH": [
+          "a second portion free"
+        ],
+        "MG": [
+          "a second portion free"
+        ]
+      }
+    },
+    "WH-EP04-CH09-017": {
+      "umi4_9-L0145": {
+        "WH": [
+          "had slightly pitying look"
+        ],
+        "MG": [
+          "had slightly pitying look"
+        ]
+      }
+    },
+    "WH-EP04-CH09-018": {
+      "umi4_9-L0156": {
+        "WH": [
+          "eat certain things"
+        ],
+        "MG": [
+          "eat certain things"
+        ]
+      }
+    },
+    "WH-EP04-CH09-019": {
+      "umi4_9-L0175": {
+        "WH": [
+          "No stuffing yourself"
+        ]
+      },
+      "umi4_9-L0177": {
+        "WH": [
+          "No stuffing yourself"
+        ],
+        "MG": [
+          "No stuffing yourself"
+        ]
+      }
+    },
+    "WH-EP04-CH09-020": {
+      "umi4_9-L0212": {
+        "WH": [
+          "At the same time, her tears poured out"
+        ],
+        "MG": [
+          "At the same time, her tears poured out"
+        ]
+      }
+    },
+    "WH-EP04-CH09-021": {
+      "umi4_9-L0231": {
+        "WH": [
+          "began to trod"
+        ],
+        "MG": [
+          "began to trod"
+        ]
+      }
+    },
+    "WH-EP04-CH09-022": {
+      "umi4_9-L0371": {
+        "WH": [
+          "told to go to her room"
+        ],
+        "MG": [
+          "told to go to her room"
+        ],
+        "UP": [
+          "told to go to her room"
+        ]
+      }
+    },
+    "WH-EP04-CH09-023": {
+      "umi4_9-L0459": {
+        "WH": [
+          "I told her to take me"
+        ],
+        "MG": [
+          "I told her to take me"
+        ]
+      }
+    },
+    "WH-EP04-CH09-024": {
+      "umi4_9-L0739": {
+        "WH": [
+          "smash Mama up"
+        ],
+        "MG": [
+          "smash Mama up"
+        ]
+      },
+      "umi4_9-L0743": {
+        "WH": [
+          "smash Mama up"
+        ]
+      }
+    },
+    "PAIR-EP04-CH09-361-480-001": {
+      "umi4_9-L0361": {
+        "UP": [
+          "they said I could spend the night there"
+        ]
+      }
+    },
+    "PAIR-EP04-CH09-361-480-002": {
+      "umi4_9-L0454": {
+        "UP": [
+          "mercilessly bore down on her small shoulders"
+        ]
+      }
+    },
+    "PAIR-EP04-CH09-721-787-001": {
+      "umi4_9-L0739": {
+        "UP": [
+          "it's too much, it's too much"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

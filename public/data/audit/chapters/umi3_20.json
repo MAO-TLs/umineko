@@ -1,1 +1,2638 @@
-{"findings":[{"id":"WH-EP03-HIDDEN-001","kind":"WH","description":"そうだと言われなければ、信じられないくらい becomes Even if someone told you that was so, she was unbelievably aged and worn out, reversing the identifying-information condition.","categories":["linguistic.logical_relation","character.voice_state","world.space_time_continuity"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[8,8],"MG":[8,8],"UP":[8,8]},"japanese":"そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。","japanesePC":"そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。","japanesePS3":"そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。","WH":"Even if someone told you that was so, she was unbelievably aged and worn out.","MG":"Even if someone told you that was so, she was unbelievably aged and worn out.","UP":"She looked haggard and aged, to the point that you would not believe it was her, unless you were told.","note":"MG retains the reversed identification condition; UP restores unless told.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0006","readerRefs":{"WH":["umi3_20-L0006"],"MG":["umi3_20-L0006"],"UP":["umi3_20-L0006"]}}],"sourceReading":"Eva has aged and wasted away so much that one would not believe the person is Eva unless told so.","alternative":"Both stress extreme deterioration, but English says even receiving identification leaves her unbelievable rather than identification being necessary to recognize her.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-002","kind":"WH","description":"猜疑心の強い is rendered extremely jealous, recurring for paranoia about assassination and aftermath of failed cult relief.","categories":["linguistic.word_choice","character.motivation_emotion","character.knowledge_boundary"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[54,84],"MG":[54,84],"UP":[54,84]},"japanese":"その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。\n今や、金蔵の子孫たちは絵羽と縁寿の２人だけ。\n……絵羽が死ねば全ての財産は縁寿に相続される。\n…そしてさらに縁寿まで殺されることがあれば、\n……その財産は、縁寿の母である霧江の実家に相続される。\nその意味においては、絵羽だけでなく縁寿もまた、\n…正体不明の何者かにいつ命を狙われてもおかしくない立場にいた。\n……そして絵羽は、縁寿を長く憎んでいた。\n大切な一人息子の譲治を失い、\n……自分の財産の相続人が、１２年前のあの日、\n親族会議を欠席して生き残った彼女だけだということを知ったからだ。\n絵羽は縁寿を疎み、嫌い、そして憎悪さえした。\n彼女を特別な学校へ隔離し、人並みの幸福や青春から遠ざけ、生涯を飼い殺すつもりであった。\n……しかし、絵羽は不治の病を患い、\nその余命は皮肉にも、…１２年前の親族会議で、金蔵に宣告されていたのと同じものになっていた…。\n絵羽も縁寿も、…互いを憎しみあっている。\n最後の肉親同士だというのに、…早く相手が死ねばいいのにと、憎しみあっている…。\n「………それで？\nわざわざ呼び付けて何の用…？」\n「……私はもう長くないわ。\n……藪医者どもは、未だに私が盛られた毒が何かも検出できない。\n………わかってるの。\nきっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」\n「…あぁ、私は殺されるのよ、殺されるのよ…！！\n良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」\n「……………………………。\n…可哀想な人」\nいつものことだ。\n……本題からすぐに逸脱して、物騒な話に捻じ曲がる。\n猜疑心で肥大化した絵羽は、自身が常に命を狙われていると信じていた。","japanesePC":"その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。","japanesePS3":"その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。\n今や、金蔵の子孫たちは絵羽と縁寿の２人だけ。\n……絵羽が死ねば全ての財産は縁寿に相続される。\n…そしてさらに縁寿まで殺されることがあれば、\n……その財産は、縁寿の母である霧江の実家に相続される。\nその意味においては、絵羽だけでなく縁寿もまた、\n…正体不明の何者かにいつ命を狙われてもおかしくない立場にいた。\n……そして絵羽は、縁寿を長く憎んでいた。\n大切な一人息子の譲治を失い、\n……自分の財産の相続人が、１２年前のあの日、\n親族会議を欠席して生き残った彼女だけだということを知ったからだ。\n絵羽は縁寿を疎み、嫌い、そして憎悪さえした。\n彼女を特別な学校へ隔離し、人並みの幸福や青春から遠ざけ、生涯を飼い殺すつもりであった。\n……しかし、絵羽は不治の病を患い、\nその余命は皮肉にも、…１２年前の親族会議で、金蔵に宣告されていたのと同じものになっていた…。\n絵羽も縁寿も、…互いを憎しみあっている。\n最後の肉親同士だというのに、…早く相手が死ねばいいのにと、憎しみあっている…。\n「………それで？\nわざわざ呼び付けて何の用…？」\n「……私はもう長くないわ。\n……藪医者どもは、未だに私が盛られた毒が何かも検出できない。\n………わかってるの。\nきっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」\n「…あぁ、私は殺されるのよ、殺されるのよ…！！\n良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」\n「……………………………。\n…可哀想な人」\nいつものことだ。\n……本題からすぐに逸脱して、物騒な話に捻じ曲がる。\n猜疑心で肥大化した絵羽は、自身が常に命を狙われていると信じていた。","WH":"It couldn't be helped that this vast wealth would fall into the cunning, sly, and extremely jealous Eva's hands, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.","MG":"While this vast wealth lay in Eva's cunning, sly, and suspicious hands, no one was able to complain,\n...but it was rumored that as soon as it was passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away.\nBy now, Eva and Ange were Kinzo's only descendants.\n...If Eva died, all of the wealth would go to Ange.\n...And if Ange were then to be killed as well,\n...that wealth would go to the family of Ange's mother, Kyrie.\nIn this sense, not only Eva, but Ange as well,\n...were in a position where it wouldn't be odd at all for their life to be targeted by some unknown person.\n...And Eva had hated Ange for a long time.\nThis was because she knew that, after losing her only precious son, George,\n...the inheritor of her own wealth would be none other than the girl who had been absent at that family conference 12 years ago,\nand who had survived.\nEva shunned Ange, disliked her, and even hated her.\nShe isolated Ange in a special school and separated her from the youth and happiness normal people have, trying to keep her as a pet until death.\n...However, Eva had succumbed to an incurable illness,\nand ironically, ...her remaining life was estimated to be the same as Kinzo's had been at that family conference 12 years ago.\nBoth Eva and Ange...hated each other.\nEven though they were each other's last blood relatives, ...they hated each other so much that they hoped the other would die quickly...\n\"......And?\nWhy did you go to all the trouble of calling for me...?\"\n\"...I don't have much time left.\n...These quack doctors still can't detect any of the poison that's filling me up.\n......I know.\nI'm sure it's some secret assassination drug used by those Soviet KGBs.\n...Ooh, I'm gonna be killed, I'm gonna be killed...!!\nIsn't that great?! Very soon, I will die, which will surely be quite a load off your back...!\"\n\"............\n...What a pitiable person.\"\nThis always happened.\n...They immediately deviated from the main topic, distorting it into a more unsettling discussion.\nEva, who was absolutely paranoid, believed that someone was always after her life.","UP":"They could do nothing while this vast wealth was in the hands of the cunning, sly, and extremely suspicious Eva,\n......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.\nBy now, Eva and Ange were Kinzo's only descendants.\n......If Eva died, all of the wealth would go to Ange.\n...And if Ange were to be killed as well,\n......that wealth would go to the family of Ange's mother, Kyrie.\nIn this sense, not only Eva, but Ange as well,\n...was in a position where it wouldn't be odd at all for her life to be targeted by some unknown person.\n......And Eva had hated Ange for a long time.\nBecause, after losing her precious only son George,\n......she had learned that the only one who had survived to inherit her own wealth...\nwas Ange, who had been absent from that family conference twelve years ago.\nEva shunned Ange, hated her, even detested her.\nShe isolated Ange in a special school, and separated her from the youth and happiness normal people have, trying to deprive her life of all opportunity.\n......However, Eva had succumbed to an incurable illness,\nand ironically, ...her remaining life was estimated to be the same as Kinzo's had been at that family conference twelve years earlier...\nBoth Eva and Ange...hated each other.\nEven though they were each other's last blood relatives, ...they hated each other so much that they hoped the other would die quickly...\n\".........And?\nWhy did you go to all the trouble of calling for me...?\"\n\"......I don't have much time left.\n......These quack doctors still have no idea what I was poisoned with.\n.........But I know.\nI'm sure it's that secret assassination drug, the one that foreign intelligence agency was using.\"\n\"...Ooh, I'm going to be killed, I'm going to be killed...!!\nAren't you lucky, very soon, I will die, and then you will be so relieved...!\"\n\".................................\n...What a pitiable person.\"\nThis always happened.\n......She immediately deviated from the main topic, distorting it into a more unsettling discussion.\nEva, who was full of suspicion, believed that someone was always after her life.","note":"Both restore suspicion and paranoia at the two occurrences.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_20-L0052","readerRefs":{"WH":["umi3_20-L0052"],"MG":["umi3_20-L0052","umi3_20-L0056","umi3_20-L0060","umi3_20-L0062","umi3_20-L0066","umi3_20-L0070","umi3_20-L0072","umi3_20-L0074","umi3_20-L0078","umi3_20-L0080","umi3_20-L0082"],"UP":["umi3_20-L0052","umi3_20-L0056","umi3_20-L0060","umi3_20-L0062","umi3_20-L0066","umi3_20-L0070","umi3_20-L0072","umi3_20-L0074","umi3_20-L0078","umi3_20-L0080","umi3_20-L0082"]}},{"chapter":"umi3_20","episode":3,"rows":{"JP":[123,123],"MG":[123,123],"UP":[123,123]},"japanese":"むしろ猜疑心をさらに肥大させる結果となった…。","japanesePC":"その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。","japanesePS3":"むしろ猜疑心をさらに肥大させる結果となった…。","WH":"It couldn't be helped that this vast wealth would fall into the cunning, sly, and extremely jealous Eva's hands, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.","MG":"and if anything, they ended up increasing her paranoia further...","UP":"and only further increased her suspicion...","note":"Third recurrence also restores paranoia or suspicion.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_20-L0121","readerRefs":{"WH":["umi3_20-L0052"],"MG":["umi3_20-L0121"],"UP":["umi3_20-L0121"]}}],"sourceReading":"Eva is cunning and highly suspicious; distrust supports guarded wealth, assassination beliefs and increased distrust after cult approaches.","alternative":"She also envies Ange survival, but 猜疑心 here is suspicious distrust, not envy or possessive jealousy.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-003","kind":"WH","description":"財産 ... 絵羽の手元にあってはどうしようもない becomes It could not be helped that this vast wealth would fall into Eva hands.","categories":["linguistic.logical_relation","world.world_fact","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[54,55],"MG":[54,55],"UP":[54,55]},"japanese":"その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。","japanesePC":"その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。","japanesePS3":"その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。","WH":"It couldn't be helped that this vast wealth would fall into the cunning, sly, and extremely jealous Eva's hands, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.","MG":"While this vast wealth lay in Eva's cunning, sly, and suspicious hands, no one was able to complain,\n...but it was rumored that as soon as it was passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away.","UP":"They could do nothing while this vast wealth was in the hands of the cunning, sly, and extremely suspicious Eva,\n......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.","note":"MG substitutes inability to complain for inability to obtain the fortune; UP restores inability to act against Eva’s hold.","dispositions":{"MG":"diverged_defect","UP":"corrected"},"readerRef":"umi3_20-L0052","readerRefs":{"WH":["umi3_20-L0052"],"MG":["umi3_20-L0052"],"UP":["umi3_20-L0052"]}}],"sourceReading":"Predators can do nothing with the fortune while shrewd Eva controls it, but hope they can freely skim it once young Ange inherits.","alternative":"It could not be helped can loosely suggest difficulty, but English makes wealth falling to Eva inevitable rather than saying others cannot touch it in her hands.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-004","kind":"WH","description":"教祖たちをずいぶん招き入れた becomes searched for the founders.","categories":["linguistic.mistranslation","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[121,121],"MG":[121,121],"UP":[121,121]},"japanese":"絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。","japanesePC":"絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。","japanesePS3":"絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。","WH":"For a time, Eva had searched for the founders of several strange and new religious cults, perhaps looking for peace in her heart.","MG":"For a time, Eva had searched for the founders of several strange and new religious cults, perhaps seeking peace in her heart.","UP":"For a time, Eva had invited in the founders of several strange new religious cults, perhaps looking for peace in her heart.","note":"MG searches for cult founders; UP restores inviting them in.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0121","readerRefs":{"WH":["umi3_20-L0121"],"MG":["umi3_20-L0121"],"UP":["umi3_20-L0121"]}}],"sourceReading":"Eva invited numerous leaders of strange new religions into her circle, perhaps seeking peace, but they failed to relieve her.","alternative":"Search could precede invitation, and preceding dialogue reports their advice, but the source explicitly asserts she admitted/invited them rather than merely sought them.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-005","kind":"WH","description":"わかんないわ。馬鹿だから becomes I do not get it. Because it is stupid.","categories":["linguistic.wrong_subject","character.irony_performance","character.relationship_power"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[153,154],"MG":[153,154],"UP":[153,154]},"japanese":"「……わかんないわ。\n馬鹿だから」","japanesePC":"「……わかんないわ。馬鹿だから。」","japanesePS3":"「……わかんないわ。\n馬鹿だから」","WH":"\"......I don't get it.  Because it's stupid.\"","MG":"\"...I don't get it.\nBecause it's stupid.\"","UP":"\"......No idea.\nBecause I'm stupid.\"","note":"MG calls it stupid; UP restores the speaker’s self-description.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0153","readerRefs":{"WH":["umi3_20-L0149","umi3_20-L0153"],"MG":["umi3_20-L0153"],"UP":["umi3_20-L0153"]}}],"sourceReading":"Ange says she does not understand because she is stupid, sarcastically echoing the contemptuous family framing.","alternative":"English preserves dismissiveness but directs the insult at the proposition rather than performing self-deprecation toward her aunt.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-007","kind":"WH","description":"自分はここから一歩も動いていない becomes she would not move a step from where she was.","categories":["linguistic.tense_aspect","character.agency_responsibility","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[194,194],"MG":[194,194],"UP":[194,194]},"japanese":"縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。","japanesePC":"縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。","japanesePS3":"縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。","WH":"Ange glanced at him, wordlessly showing that she wouldn't move a step from where she was.","MG":"Ange glanced at him, wordlessly making it clear that she didn't intend to move a step from where she was.","UP":"Ange glanced at him, wordlessly showing that she hadn't moved a step from where she had been.","note":"MG gives future intention not to move; UP restores not having moved.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0193","readerRefs":{"WH":["umi3_20-L0193"],"MG":["umi3_20-L0193"],"UP":["umi3_20-L0193"]}}],"sourceReading":"Ange silently signals that she has not moved, preempting any accusation she caused Eva's coughing or death.","alternative":"Staying still can imply no involvement, but English makes her signal prospective rather than presenting her past nonmovement as evidence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-008","kind":"WH","description":"誰にも心を許さず ... 誰も愛さず becomes No one trusted her ... No one loved her, with added so causal links.","categories":["linguistic.wrong_subject","linguistic.addition","character.agency_responsibility","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[285,286],"MG":[285,286],"UP":[285,286]},"japanese":"…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。","japanesePC":"…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。","japanesePS3":"…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。","WH":"...No one trusted her, so she didn't even try to believe them.\nNo one loved her, so she didn't even try to love.","MG":"...No one trusted her, so she never bothered to believe in anyone.\nNo one loved her, so she never even tried to love.","UP":"...She trusted no one, and didn't even try.\nShe loved no one, and didn't even try.","note":"MG reverses who trusts and loves whom and adds causal links; UP restores Ange’s agency.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0283","readerRefs":{"WH":["umi3_20-L0283"],"MG":["umi3_20-L0283"],"UP":["umi3_20-L0283"]}}],"sourceReading":"Ange lets nobody into her heart, refuses to trust, loves nobody and refuses to try loving, after her environment has shaped her.","alternative":"Surrounding ostracism supports social rejection, but these clauses explicitly describe her own withdrawn dispositions, not universal absence of others' love/trust or a new causal statement.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-009","kind":"WH","description":"魔女の娘は魔女 becomes the witch girl was a witch, losing the daughter relation.","categories":["linguistic.omission","character.relationship_power","world.terminology_recurrence"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[289,289],"MG":[289,289],"UP":[289,289]},"japanese":"魔女の娘は魔女だと、誰もが囁く。","japanesePC":"魔女の娘は魔女だと、誰もが囁く。","japanesePS3":"魔女の娘は魔女だと、誰もが囁く。","WH":"Everyone whispered that the witch girl was a witch.","MG":"Everyone whispered that the daughters of witches are witches too.","UP":"Everyone whispered that the daughter of a witch was a witch.","note":"Both restore the witch’s daughter relation.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_20-L0287","readerRefs":{"WH":["umi3_20-L0287"],"MG":["umi3_20-L0287"],"UP":["umi3_20-L0287"]}}],"sourceReading":"Everyone says the witch's daughter is a witch, extending Eva's public stigma to her ward as a daughter.","alternative":"Girl retains youth and accusation, but cannot preserve inherited stigma through the supposed mother/daughter link, explicitly quoted daughter earlier.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-010","kind":"WH","description":"思えてならない becomes could not really imagine, reversing the affirmative irresistible feeling.","categories":["linguistic.logical_relation","character.motivation_emotion","linguistic.imagery_rhythm_recurrence"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[306,306],"MG":[306,306],"UP":[306,306]},"japanese":"…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。","japanesePC":"…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。","japanesePS3":"…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。","WH":"...Ange couldn't really imagine that the thing she really sought could be in that unseen starlight.","MG":"...Ange couldn't help but think that what she truly sought must lie in that unseen starlight.","UP":"...Ange couldn't help but think that what she really sought lay somewhere in that unseen starlight.","note":"Both restore the irresistible affirmative feeling about unseen starlight.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_20-L0306","readerRefs":{"WH":["umi3_20-L0306"],"MG":["umi3_20-L0306"],"UP":["umi3_20-L0306"]}}],"sourceReading":"Ange cannot help feeling that precisely within the unseen starlight lies what she truly seeks.","alternative":"The stars cannot be seen, but the source distinction is between visible absence and inward certainty; English denies the inward possibility instead.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-011","kind":"WH","description":"戦人兄さんの ... その手に ... 届きそうなのに makes his hand the target of her reach, but English that hand will reach me reverses the direction, repeated at his hand never reached me.","categories":["linguistic.wrong_subject","character.agency_responsibility","character.viewpoint_attribution","linguistic.imagery_rhythm_recurrence"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[315,322],"MG":[315,322],"UP":[315,322]},"japanese":"私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、\n………あとちょっとで届きそうなのに、それさえも届かない。\nそんな夢を、なぜか繰り返し見るようになっていた。\n……私は同じ夢を見る度に、\nさらに力強く手を伸ばそうと、夢の中で無駄な努力を繰り返すのだ。\nせめて戦人兄さんだけでも、生きていてくれたなら。\n………私はこの冷たく寂しい現実を、せめて二人で支えあいながら生きていけるのではないか。\nでも、その手はいつも、届かない。","japanesePC":"私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、\n………あとちょっとで届きそうなのに、それさえも届かない。","japanesePS3":"私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、\n………あとちょっとで届きそうなのに、それさえも届かない。\nそんな夢を、なぜか繰り返し見るようになっていた。\n……私は同じ夢を見る度に、\nさらに力強く手を伸ばそうと、夢の中で無駄な努力を繰り返すのだ。\nせめて戦人兄さんだけでも、生きていてくれたなら。\n………私はこの冷たく寂しい現実を、せめて二人で支えあいながら生きていけるのではないか。\nでも、その手はいつも、届かない。","WH":"Battler nii-san has always really loved me, and his hand always pats my head,\n.........but even though it looks like that hand will reach me, even it does not reach.","MG":"Battler nii-san always loved me a lot, and he'd always pat my head,\n......but even though it looks like that hand's about to touch me, even it does not reach.\nFor some reason, I started having that dream over and over.\n...Every time I had that the same dream,\nI uselessly tried to stretch out my hand even more forcefully, over and over and over.\nEven if only Battler nii-san had lived...\n......Then, perhaps, we'd at least be able to support each other in my cold and lonely reality.\nBut his hand never reaches me.","UP":"I reach for the hand of Battler nii‐san, who always really loved me—for the hand that would always pat my head—\n.........but even though it looks like it's so close to reaching, even that falls short.\nFor some reason, I started having that dream over and over again.\n......Whenever I have that dream,\nI repeat my useless effort inside the dream, trying to stretch out my hand even more forcefully.\nIf only Battler nii‐san at least could have lived...\n.........then perhaps, at least the two of us could have supported each other through life in this cold and lonely reality.\nBut his hand never reaches me.","note":"UP restores Ange reaching at315–316 but still reverses the direction at322; MG retains both reversals.","dispositions":{"MG":"retained","UP":"partly_corrected"},"readerRef":"umi3_20-L0312","readerRefs":{"WH":["umi3_20-L0312"],"MG":["umi3_20-L0312","umi3_20-L0318"],"UP":["umi3_20-L0312","umi3_20-L0318"]}}],"sourceReading":"She nearly reaches the hand of Battler who used to lovingly pat her, but cannot; each recurrence of the dream makes her stretch her own hand more forcefully.","alternative":"Mutual separation is retained and either hand could meet, but Japanese explicitly marks Battler hand with に as her destination and immediately elaborates her reaching effort.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-012","kind":"WH","description":"享受できる可能性の中で ... 探して持ってくる becomes if it is possible for you to receive it ... search for the happiest resolution.","categories":["linguistic.logical_relation","linguistic.omission","character.relationship_power","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[396,397],"MG":[396,397],"UP":[396,397]},"japanese":"「………あなたに、復讐のチャンスを。\n…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ」","japanesePC":"「………あなたに、復讐のチャンスを。…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ。」","japanesePS3":"「………あなたに、復讐のチャンスを。\n…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ」","WH":"\".........I'm giving you a chance for revenge.  In exchange, if it is possible for you to receive it, I promise to search for the happiest resolution for you.\"","MG":"\"......I'm giving you a chance for revenge.\n...In exchange, I promise to search for and bring you the happiest resolution among the possibilities you're capable of accepting.\"","UP":"\".........I'm giving you a chance for revenge.\n...In exchange, I promise to find and bring you the happiest resolution that it is possible for you to receive.\"","note":"Both restore searching and bringing the happiest outcome within available possibilities.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_20-L0396","readerRefs":{"WH":["umi3_20-L0396"],"MG":["umi3_20-L0396"],"UP":["umi3_20-L0396"]}}],"sourceReading":"Bern promises to find and bring the happiest ending among possibilities available to Ange. Earlier warnings exclude guaranteeing the specific family-return wish.","alternative":"English preserves search and happiest ending, but makes attainability an if condition rather than the domain of comparison and omits bringing the result.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-013","kind":"WH","description":"可能性の数値は、結果の前に無力 becomes Trying to read any probabilities before the result is useless.","categories":["linguistic.logical_relation","mystery.epistemic_status","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[404,407],"MG":[404,407],"UP":[404,407]},"japanese":"「奇跡的な確率でも、……それはゼロよりは高いのよね…？\n１％くらい…？」\n「……あらゆる可能性の数値は、結果の前に無力よ。\nだからその数字を、私には語ることができない」","japanesePC":"「……あらゆる可能性の数値は、結果の前に無力よ。だからその数字を、私には語ることができない。」","japanesePS3":"「奇跡的な確率でも、……それはゼロよりは高いのよね…？\n１％くらい…？」\n「……あらゆる可能性の数値は、結果の前に無力よ。\nだからその数字を、私には語ることができない」","WH":"\"......Trying to read any probabilities before the result is useless.  So I cannot tell you that number.\"","MG":"\"A miraculous probability...means it's still higher than zero, right...?\nIs it 1%...?\"\n\"...Trying to read any probabilities before the result is useless.\nSo I cannot tell you that number.\"","UP":"\"A miraculous probability......is still higher than zero, right...?\nIs it about one percent...?\"\n\"......All probability values are powerless before the result.\nSo I cannot tell you that number.\"","note":"MG retains temporal before the result; UP restores numerical probabilities powerless in the face of the result.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0404","readerRefs":{"WH":["umi3_20-L0406"],"MG":["umi3_20-L0404","umi3_20-L0406"],"UP":["umi3_20-L0404","umi3_20-L0406"]}}],"sourceReading":"Numerical possibilities are powerless in the face of the actual outcome, so Bern cannot give Ange a numerical probability.","alternative":"前 can be temporal elsewhere, but 無力 in this construction contrasts probability numbers with results rather than prohibiting prediction before results; English also introduces trying to read.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH17-078","kind":"WH","description":"WH replaces the taunt to die bitterly regretting her humiliation with a taunt to give up and die.","categories":["linguistic.mistranslation","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[226,226],"MG":[226,226],"UP":[226,226]},"japanese":"あっははははは、今すぐヘソでも噛んで、死んじゃえばぁッ？！","japanesePC":"下らない下らない馬ッ鹿みたぁい！！　勇ましいことを言って割り込んでおきながら、その体たらくは何なのぉ？！　あぁ情けない恥ずかしい！！　ヘソ噛んで死んじゃえばぁ？！」","japanesePS3":"あっははははは、今すぐヘソでも噛んで、死んじゃえばぁッ？！","WH":"Worthless, worthless, are you a moron?!!  What's with this predicament, even though you stepped between us saying something brave?!  Aaah, how pathetic, how embarrassing!!  Why don't you just give up and die?!\"","MG":"Ahhahahahahaha, if only you'd just give up and die right now!!","UP":"Ahhaha{0ha{0ha{0haha, why don't you just give up and die now and foreverrr?!","note":"Bitter regret becomes capitulation; distinct from the separately counted UP eternal-duration addition.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_20-L0223","readerRefs":{"WH":[],"MG":["umi3_20-L0223"],"UP":["umi3_20-L0223"]}}],"sourceReading":"ヘソ噛んで invokes 臍を噛む, bitter or futile regret, in a speech mocking Beato’s brave intervention and subsequent humiliating failure.","alternative":"The taunt also seeks Beato’s capitulation and death, but giving up does not preserve the idiom’s regret and humiliation component.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-014","kind":"WH","description":"WH changes the warning that revenge cannot guarantee the family’s return into a statement that there is no definite proof of their return.","categories":["linguistic.mistranslation","mystery.epistemic_status","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[400,400],"MG":[400,400],"UP":[400,400]},"japanese":"仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。","japanesePC":"「……徒労になるかもしれない。仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。奇跡的確率で、せいぜい１人を連れ戻せるかどうかよ。」","japanesePS3":"仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。","WH":"\"......It may be a fruitless effort.  Even if you succeed in your revenge, there's no definite proof that your family will return.  Even with a miraculous probability, you may be able to bring only one person back.\"","MG":"Even if you succeed in your revenge, there's no definite proof that your family will return.","UP":"Even if you succeed in your revenge, there's no definite proof that your family will return.","note":"No proof can colloquially communicate uncertainty, and the adjacent fruitless-effort and miraculous-probability warnings preserve that uncertainty, but lack of evidence and lack of assurance are distinct formulations.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_20-L0399","readerRefs":{"WH":["umi3_20-L0399"],"MG":["umi3_20-L0399"],"UP":["umi3_20-L0399"]}}],"sourceReading":"家族が帰ってくる絶対の保証はない withholds certainty or a guarantee about the future result even if revenge succeeds.","alternative":"No proof can colloquially communicate uncertainty, and the adjacent fruitless-effort and miraculous-probability warnings preserve that uncertainty, but lack of evidence and lack of assurance are distinct formulations.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-015","kind":"WH","description":"WH makes Eva complain that doctors cannot detect any poison, rather than identify which poison she claims was administered.","categories":["linguistic.mistranslation","character.knowledge_boundary"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[75,75],"MG":[75,75],"UP":[75,75]},"japanese":"……藪医者どもは、未だに私が盛られた毒が何かも検出できない。","japanesePC":"「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっとソ連のＫＧＢで使われてた秘密の暗殺薬なのよ。…あぁ、私は殺されるのよ、殺されるのよ…！！　良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」","japanesePS3":"……藪医者どもは、未だに私が盛られた毒が何かも検出できない。","WH":"\"......I don't have much time left.  ......These quack doctors still can't detect any of the poison that's filling me up.  .........I know.  I'm sure it's a secret assassination drug used by those Soviet KGBs.  ...Ooh, I'll be killed, I'll be killed...!!  Isn't that great!  Very soon, I will die, and then you will be so relieved...!\"","MG":"...These quack doctors still can't detect any of the poison that's filling me up.","UP":"......These quack doctors still have no idea what I was poisoned with.","note":"Cannot detect poison may colloquially include failure to identify it, but any of the poison replaces the explicit what-poison question.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0074","readerRefs":{"WH":["PC-CANDIDATE-EP03-20-V001","umi3_20-L0078"],"MG":["umi3_20-L0074"],"UP":["umi3_20-L0074"]}}],"sourceReading":"何か identifies the type of poison; both allegation and ignorance belong to Eva’s speech, not established medical fact.","alternative":"Cannot detect poison may colloquially include failure to identify it, but any of the poison replaces the explicit what-poison question.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-016","kind":"WH","description":"WH removes the likelihood qualifier from the people Eva names as bearing resentment toward her.","categories":["linguistic.overinterpretation","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[95,95],"MG":[95,95],"UP":[95,95]},"japanese":"自分に恨みを抱いているであろう人物の名を次々に挙げては、","japanesePC":"絵羽はしばらくの間、自分の命が如何に狙われているかを雄弁に語り、自分に恨みを抱いているであろう人物の名を次々に挙げては、自分がまだ殺されずにいることを嘲笑う。","japanesePS3":"自分に恨みを抱いているであろう人物の名を次々に挙げては、","WH":"For some time, Eva eloquently spoke of how her life was being targeted, listing off names of people who held hatred for her, and sneering at the fact that she still hadn't been killed.","MG":"listing off names of people who hated her,","UP":"listing off names of people who likely held hatred for her,","note":"Previous narration confirms she earned much hatred, but does not establish that every listed person including Ange actually hates her.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0094","readerRefs":{"WH":["umi3_20-L0094"],"MG":["umi3_20-L0094"],"UP":["umi3_20-L0094"]}}],"sourceReading":"恨みを抱いているであろう marks presumed resentment, important in the surrounding paranoid assassination claims.","alternative":"Previous narration confirms she earned much hatred, but does not establish that every listed person including Ange actually hates her.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-017","kind":"WH","description":"WH says no one can stop the public abuse where Eva says no one stops it.","categories":["linguistic.mistranslation","mystery.scope_quantifier_negation"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[177,177],"MG":[177,177],"UP":[177,177]},"japanese":"そしてそれを誰も止めない！」","japanesePC":"そんな生活の中で生きていくあなたのこれからの人生は、どんなにも歪なものなのかしらね…？　あんたの味方は誰もいない！　あんたの悩みなど誰も聞かない。あなたを罵ることは公然としたスポーツになる。そしてそれを誰も止めない！","japanesePS3":"そしてそれを誰も止めない！」","WH":"I wonder how twisted your life will become after living this way...?  You have no allies!  No one will listen to your worries.  Abusing you will become a public sport.  And no one can stop that!","MG":"And no one can stop that!\"","UP":"And no one can stop that!\"","note":"Can can rhetorically stress perceived inevitability, but the source presents abandoned social support rather than incapacity.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_20-L0174","readerRefs":{"WH":["umi3_20-L0172","umi3_20-L0174"],"MG":["umi3_20-L0174"],"UP":["umi3_20-L0174"]}}],"sourceReading":"誰も止めない forecasts absence of intervention, without denying ability to intervene.","alternative":"Can can rhetorically stress perceived inevitability, but the source presents abandoned social support rather than incapacity.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-018","kind":"WH","description":"WH replaces Eva finally moistening her throat with the coughing subsiding.","categories":["linguistic.omission","linguistic.addition","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[200,200],"MG":[200,200],"UP":[200,200]},"japanese":"ようやく喉を潤して呼吸を整える。","japanesePC":"ようやく喉を潤して呼吸を整える。","japanesePS3":"ようやく喉を潤して呼吸を整える。","WH":"Eventually, the coughing subsided and Eva regained her normal breathing.","MG":"Eventually, the coughing subsided, and Eva regained her normal breathing.","UP":"Eventually, Eva was able to moisten her throat and regain her normal breathing.","note":"A calmer cough plausibly accompanies regular breathing, but is inferred and replaces the specified action.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_20-L0200","readerRefs":{"WH":["umi3_20-L0200"],"MG":["umi3_20-L0200"],"UP":["umi3_20-L0200"]}}],"sourceReading":"喉を潤して follows the guard pouring water and specifies throat moistening before breathing steadies.","alternative":"A calmer cough plausibly accompanies regular breathing, but is inferred and replaces the specified action.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-HIDDEN-019","kind":"WH","description":"WH writes succeeded almost all of the fortune, using succeeded transitively where inherited or succeeded to is required.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[235,235],"MG":[235,235],"UP":[235,235]},"japanese":"右代宮家のほぼ全ての財産を相続することとなった。","japanesePC":"“幸運にも”右代宮絵羽はこれを逃れ、右代宮家のほぼ全ての財産を相続することとなった。","japanesePS3":"右代宮家のほぼ全ての財産を相続することとなった。","WH":"'Fortunately', Ushiromiya Eva escaped from that, and succeeded almost all of the Ushiromiya family's fortune.","MG":"and inherited almost all of the Ushiromiya family's fortune.","UP":"and succeeded almost all of the Ushiromiya family's fortune.","note":"Succeeded can describe coming into property only with to; it cannot directly take the fortune as object in this construction.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi3_20-L0230","readerRefs":{"WH":["umi3_20-L0230"],"MG":["umi3_20-L0230"],"UP":["umi3_20-L0230"]}}],"sourceReading":"相続する specifies inheritance of nearly all wealth.","alternative":"Succeeded can describe coming into property only with to; it cannot directly take the fortune as object in this construction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH20-001-120-001","kind":"additional","description":"MG misspells Ange’s Japanese name as 縝寿 instead of 縁寿 in the inline name introduction.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[14,14],"MG":[14,14],"UP":[14,14]},"japanese":"「……縁寿さんが下のロビーに到着しました。","japanesePC":"","japanesePS3":"「……縁寿さんが下のロビーに到着しました。","WH":"","MG":"\"...Ange (縝寿)-san has arrived in the lobby below.","UP":"\"......Ange (縁寿)‐san has arrived in the lobby below.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_20-L0014","readerRefs":{"WH":[],"MG":["umi3_20-L0014"],"UP":["umi3_20-L0014"]}}],"sourceReading":"The guard announces Ange, 縁寿.","alternative":"The English Ange remains correct, but the displayed Japanese name contains a different character. Original PC and UP preserve 縁寿.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH20-001-120-002","kind":"additional","description":"MG repeats the absence of a surviving child and omits the accompanying complaint that her fortune will also be stolen.","categories":["linguistic.omission"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[108,111],"MG":[108,111],"UP":[108,111]},"japanese":"……子も残せず、\n…財産すらも奪われるなんて、\n………それが私には、\n……許せない…………！」","japanesePC":"","japanesePS3":"……子も残せず、\n…財産すらも奪われるなんて、\n………それが私には、\n……許せない…………！」","WH":"","MG":"......To think that not only will I not leave a child,\n...without even leaving behind a child...\n......That,\n...I cannot forgive......!\"","UP":"......To think that not only will I not leave a child,\n...but even my fortune will be stolen,\n.........that, to me, is just...\n...unforgivable............!\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_20-L0104","readerRefs":{"WH":[],"MG":["umi3_20-L0104"],"UP":["umi3_20-L0104"]}}],"sourceReading":"She leaves no child and even her fortune is taken, which she cannot forgive.","alternative":"The earlier fortune complaint at105–106 supplies context, but the repeated child clause removes the source’s paired culmination. PCWH212674 and UP preserve the fortune clause.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH20-121-240-001","kind":"additional","description":"MG omits to after great in great let you have that kind of life.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[163,163],"MG":[163,163],"UP":[163,163]},"japanese":"そんな日々に、若くて先の長いあなたを、ぜひ招待してあげようと思いついたの。","japanesePC":"","japanesePS3":"そんな日々に、若くて先の長いあなたを、ぜひ招待してあげようと思いついたの。","WH":"","MG":"I decided it'd be great let you have that kind of life, when you're so young and have so much ahead of you.","UP":"I realized that I would love to invite you to that kind of life, when you are so young and have so much ahead of you.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_20-L0162","readerRefs":{"WH":[],"MG":["umi3_20-L0162"],"UP":["umi3_20-L0162"]}}],"sourceReading":"Eva wants to invite Ange into that life.","alternative":"The meaning is clear but the infinitive requires to. Original WH PC212755 and UP have a grammatical construction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH20-241-360-001","kind":"additional","description":"MG writes as though if were absolute truth instead of as though it were.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[282,282],"MG":[282,282],"UP":[282,282]},"japanese":"彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。","japanesePC":"","japanesePS3":"彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。","WH":"","MG":"even if there was no proof, it would be whispered—whispered as though if were absolute truth—that she had imposed her will on the school staff.","UP":"it was baselessly whispered as truth that the school was operating according to her wishes, and that she had something to do with it.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_20-L0279","readerRefs":{"WH":[],"MG":["umi3_20-L0279"],"UP":["umi3_20-L0279"]}}],"sourceReading":"The rumor is whispered as if true.","alternative":"The meaning is clear, but if cannot serve as the subject. PCWH213034 lacks this typo.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH20-241-360-002","kind":"additional","description":"MG combines that and the same in Every time I had that the same dream.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[318,318],"MG":[318,318],"UP":[318,318]},"japanese":"……私は同じ夢を見る度に、","japanesePC":"","japanesePS3":"……私は同じ夢を見る度に、","WH":"","MG":"...Every time I had that the same dream,","UP":"......Whenever I have that dream,","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_20-L0318","readerRefs":{"WH":[],"MG":["umi3_20-L0318"],"UP":["umi3_20-L0318"]}}],"sourceReading":"Each occurrence of the same dream repeats her effort.","alternative":"Either that dream or the same dream works; their combination is ungrammatical. PCWH213174 has the same dream.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH20-241-360-003","kind":"additional","description":"MG changes a rumor that the school acted in accordance with Ange’s wishes into a claim that she imposed her will on the staff.","categories":["linguistic.mistranslation"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[282,282],"MG":[282,282],"UP":[282,282]},"japanese":"彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。","japanesePC":"","japanesePS3":"彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。","WH":"","MG":"even if there was no proof, it would be whispered—whispered as though if were absolute truth—that she had imposed her will on the school staff.","UP":"it was baselessly whispered as truth that the school was operating according to her wishes, and that she had something to do with it.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_20-L0279","readerRefs":{"WH":[],"MG":["umi3_20-L0279"],"UP":["umi3_20-L0279"]}}],"sourceReading":"The school is said to have arranged something by anticipating or following her wishes.","alternative":"Both suggest influence, but imposed her will adds coercive action by Ange. PCWH213034 and UP retain the school’s action.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH20-361-452-001","kind":"additional","description":"MG changes the nearest cage into the cage that wraps the tightest around Ange.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[430,430],"MG":[430,430],"UP":[430,430]},"japanese":"…護衛とは名ばかり。\n私を閉じ込める、もっとも身近な檻じゃないか。","japanesePC":"","japanesePS3":"…護衛とは名ばかり。\n私を閉じ込める、もっとも身近な檻じゃないか。","WH":"","MG":"...They're only \"guards\" in name. Aren't they the cage that wraps the tightest around me, shutting me in?","UP":"...“Guards” only in name.\nAren't they the cage that's closest to me, shutting me in?","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_20-L0427","readerRefs":{"WH":[],"MG":["umi3_20-L0427"],"UP":["umi3_20-L0427"]}}],"sourceReading":"The surrounding guards are the cage closest to her.","alternative":"Both convey confinement, but source proximity becomes comparative severity of restraint. PCWH213492 and UP preserve closest.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-026","kind":"PC","description":"MG retains the explicit Soviet KGB reference from original PC; PS3-derived Japanese anonymizes the foreign intelligence agency.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[77,77],"MG":[77,77],"UP":[77,77]},"japanese":"きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」","japanesePC":"「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっとソ連のＫＧＢで使われてた秘密の暗殺薬なのよ。…あぁ、私は殺されるのよ、殺されるのよ…！！　良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」","japanesePS3":"きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」","WH":"\"......I don't have much time left.  ......These quack doctors still can't detect any of the poison that's filling me up.  .........I know.  I'm sure it's a secret assassination drug used by those Soviet KGBs.  ...Ooh, I'll be killed, I'll be killed...!!  Isn't that great!  Very soon, I will die, and then you will be so relieved...!\"","MG":"I'm sure it's some secret assassination drug used by those Soviet KGBs.","UP":"I'm sure it's that secret assassination drug, the one that foreign intelligence agency was using.\"","note":"","dispositions":{"MG":"not_recorded","UP":"not_recorded"},"readerRef":"umi3_20-L0074","readerRefs":{"WH":[],"MG":["umi3_20-L0074"],"UP":["umi3_20-L0074"]}}],"sourceReading":"","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-027","kind":"PC","description":"MG retains original PC threats of slave trading, mutilation and forced customer-taking; PS3 replaces them with family expulsion and scavenging bread and water.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_20","episode":3,"rows":{"JP":[130,132],"MG":[130,132],"UP":[130,132]},"japanese":"あるいは全ての財産を消し去り、あなたを無一文にして右代宮家から叩き出してやろうかとも思ったわ」\n「素敵でしょ？\nお上品に育てられたご令嬢が、腐ったパンや泥水を這いつくばってあさり回るのよ。","japanesePC":"……殺してしまおうとも思ったわ。あるいは全ての財産を消し去って、あなたを無一文にして人買いにでも売ってしまおうかとも思ったわ。素敵でしょ？　両手両足をブツ切りにされて死ぬまで客を取らされるのよ。あぁ、それも実に素敵だわ、","japanesePS3":"あるいは全ての財産を消し去り、あなたを無一文にして右代宮家から叩き出してやろうかとも思ったわ」\n「素敵でしょ？\nお上品に育てられたご令嬢が、腐ったパンや泥水を這いつくばってあさり回るのよ。","WH":"......I thought about killing you.  I also thought about erasing all of my wealth, leaving you penniless, and selling you off to a slave trader or something.  Wouldn't that be wonderful?  You would have your arms and legs chopped off and be made to entertain the guests until you died.  Aaah, that would be so wonderful,","MG":"I also thought about erasing all of my wealth, leaving you penniless, and selling you off to a slave trader or something.\nWouldn't that be wonderful?\nYou'd have your arms and legs chopped off and be forced to take customers until you died.","UP":"I also thought about erasing all of my wealth, leaving you penniless, and kicking you out of the Ushiromiya family or something.\"\n\"Wouldn't that be wonderful?\nA lady brought up prim and proper, made to crawl around and prowl for moldy bread and muddy water.","note":"","dispositions":{"MG":"not_recorded","UP":"not_recorded"},"readerRef":"umi3_20-L0129","readerRefs":{"WH":[],"MG":["umi3_20-L0129","umi3_20-L0131"],"UP":["umi3_20-L0129","umi3_20-L0131"]}}],"sourceReading":"","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP03-HIDDEN-001",
+      "kind": "WH",
+      "description": "そうだと言われなければ、信じられないくらい becomes Even if someone told you that was so, she was unbelievably aged and worn out, reversing the identifying-information condition.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.voice_state",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              8,
+              8
+            ],
+            "MG": [
+              8,
+              8
+            ],
+            "UP": [
+              8,
+              8
+            ]
+          },
+          "japanese": "そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。",
+          "japanesePC": "そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。",
+          "japanesePS3": "そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。",
+          "WH": "Even if someone told you that was so, she was unbelievably aged and worn out.",
+          "MG": "Even if someone told you that was so, she was unbelievably aged and worn out.",
+          "UP": "She looked haggard and aged, to the point that you would not believe it was her, unless you were told.",
+          "note": "MG retains the reversed identification condition; UP restores unless told.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0006",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0006"
+            ],
+            "MG": [
+              "umi3_20-L0006"
+            ],
+            "UP": [
+              "umi3_20-L0006"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベッドの上にいるのは、…………絵羽なのだろうか。そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。",
+              "translation": "Was the person on the bed... ...Eva? Even if someone told you that was so, she was unbelievably aged and worn out. "
+            },
+            "UP": {
+              "japanese": "ベッドの上にいるのは、…………絵羽なのだろうか。そうだと言われなければ、信じられないくらいに彼女は老け込み、やつれていた。",
+              "translation": "Was the person on the bed... ............Eva? She looked haggard and aged, to the point that you would not believe it was her, unless you were told."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0006"
+            ],
+            "MG": [
+              "umi3_20-L0006"
+            ],
+            "UP": [
+              "umi3_20-L0006"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva has aged and wasted away so much that one would not believe the person is Eva unless told so.",
+      "alternative": "Both stress extreme deterioration, but English says even receiving identification leaves her unbelievable rather than identification being necessary to recognize her.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-002",
+      "kind": "WH",
+      "description": "猜疑心の強い is rendered extremely jealous, recurring for paranoia about assassination and aftermath of failed cult relief.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              54,
+              84
+            ],
+            "MG": [
+              54,
+              84
+            ],
+            "UP": [
+              54,
+              84
+            ]
+          },
+          "japanese": "その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。\n今や、金蔵の子孫たちは絵羽と縁寿の２人だけ。\n……絵羽が死ねば全ての財産は縁寿に相続される。\n…そしてさらに縁寿まで殺されることがあれば、\n……その財産は、縁寿の母である霧江の実家に相続される。\nその意味においては、絵羽だけでなく縁寿もまた、\n…正体不明の何者かにいつ命を狙われてもおかしくない立場にいた。\n……そして絵羽は、縁寿を長く憎んでいた。\n大切な一人息子の譲治を失い、\n……自分の財産の相続人が、１２年前のあの日、\n親族会議を欠席して生き残った彼女だけだということを知ったからだ。\n絵羽は縁寿を疎み、嫌い、そして憎悪さえした。\n彼女を特別な学校へ隔離し、人並みの幸福や青春から遠ざけ、生涯を飼い殺すつもりであった。\n……しかし、絵羽は不治の病を患い、\nその余命は皮肉にも、…１２年前の親族会議で、金蔵に宣告されていたのと同じものになっていた…。\n絵羽も縁寿も、…互いを憎しみあっている。\n最後の肉親同士だというのに、…早く相手が死ねばいいのにと、憎しみあっている…。\n「………それで？\nわざわざ呼び付けて何の用…？」\n「……私はもう長くないわ。\n……藪医者どもは、未だに私が盛られた毒が何かも検出できない。\n………わかってるの。\nきっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」\n「…あぁ、私は殺されるのよ、殺されるのよ…！！\n良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」\n「……………………………。\n…可哀想な人」\nいつものことだ。\n……本題からすぐに逸脱して、物騒な話に捻じ曲がる。\n猜疑心で肥大化した絵羽は、自身が常に命を狙われていると信じていた。",
+          "japanesePC": "その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+          "japanesePS3": "その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。\n今や、金蔵の子孫たちは絵羽と縁寿の２人だけ。\n……絵羽が死ねば全ての財産は縁寿に相続される。\n…そしてさらに縁寿まで殺されることがあれば、\n……その財産は、縁寿の母である霧江の実家に相続される。\nその意味においては、絵羽だけでなく縁寿もまた、\n…正体不明の何者かにいつ命を狙われてもおかしくない立場にいた。\n……そして絵羽は、縁寿を長く憎んでいた。\n大切な一人息子の譲治を失い、\n……自分の財産の相続人が、１２年前のあの日、\n親族会議を欠席して生き残った彼女だけだということを知ったからだ。\n絵羽は縁寿を疎み、嫌い、そして憎悪さえした。\n彼女を特別な学校へ隔離し、人並みの幸福や青春から遠ざけ、生涯を飼い殺すつもりであった。\n……しかし、絵羽は不治の病を患い、\nその余命は皮肉にも、…１２年前の親族会議で、金蔵に宣告されていたのと同じものになっていた…。\n絵羽も縁寿も、…互いを憎しみあっている。\n最後の肉親同士だというのに、…早く相手が死ねばいいのにと、憎しみあっている…。\n「………それで？\nわざわざ呼び付けて何の用…？」\n「……私はもう長くないわ。\n……藪医者どもは、未だに私が盛られた毒が何かも検出できない。\n………わかってるの。\nきっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」\n「…あぁ、私は殺されるのよ、殺されるのよ…！！\n良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」\n「……………………………。\n…可哀想な人」\nいつものことだ。\n……本題からすぐに逸脱して、物騒な話に捻じ曲がる。\n猜疑心で肥大化した絵羽は、自身が常に命を狙われていると信じていた。",
+          "WH": "It couldn't be helped that this vast wealth would fall into the cunning, sly, and extremely jealous Eva's hands, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.",
+          "MG": "While this vast wealth lay in Eva's cunning, sly, and suspicious hands, no one was able to complain,\n...but it was rumored that as soon as it was passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away.\nBy now, Eva and Ange were Kinzo's only descendants.\n...If Eva died, all of the wealth would go to Ange.\n...And if Ange were then to be killed as well,\n...that wealth would go to the family of Ange's mother, Kyrie.\nIn this sense, not only Eva, but Ange as well,\n...were in a position where it wouldn't be odd at all for their life to be targeted by some unknown person.\n...And Eva had hated Ange for a long time.\nThis was because she knew that, after losing her only precious son, George,\n...the inheritor of her own wealth would be none other than the girl who had been absent at that family conference 12 years ago,\nand who had survived.\nEva shunned Ange, disliked her, and even hated her.\nShe isolated Ange in a special school and separated her from the youth and happiness normal people have, trying to keep her as a pet until death.\n...However, Eva had succumbed to an incurable illness,\nand ironically, ...her remaining life was estimated to be the same as Kinzo's had been at that family conference 12 years ago.\nBoth Eva and Ange...hated each other.\nEven though they were each other's last blood relatives, ...they hated each other so much that they hoped the other would die quickly...\n\"......And?\nWhy did you go to all the trouble of calling for me...?\"\n\"...I don't have much time left.\n...These quack doctors still can't detect any of the poison that's filling me up.\n......I know.\nI'm sure it's some secret assassination drug used by those Soviet KGBs.\n...Ooh, I'm gonna be killed, I'm gonna be killed...!!\nIsn't that great?! Very soon, I will die, which will surely be quite a load off your back...!\"\n\"............\n...What a pitiable person.\"\nThis always happened.\n...They immediately deviated from the main topic, distorting it into a more unsettling discussion.\nEva, who was absolutely paranoid, believed that someone was always after her life.",
+          "UP": "They could do nothing while this vast wealth was in the hands of the cunning, sly, and extremely suspicious Eva,\n......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.\nBy now, Eva and Ange were Kinzo's only descendants.\n......If Eva died, all of the wealth would go to Ange.\n...And if Ange were to be killed as well,\n......that wealth would go to the family of Ange's mother, Kyrie.\nIn this sense, not only Eva, but Ange as well,\n...was in a position where it wouldn't be odd at all for her life to be targeted by some unknown person.\n......And Eva had hated Ange for a long time.\nBecause, after losing her precious only son George,\n......she had learned that the only one who had survived to inherit her own wealth...\nwas Ange, who had been absent from that family conference twelve years ago.\nEva shunned Ange, hated her, even detested her.\nShe isolated Ange in a special school, and separated her from the youth and happiness normal people have, trying to deprive her life of all opportunity.\n......However, Eva had succumbed to an incurable illness,\nand ironically, ...her remaining life was estimated to be the same as Kinzo's had been at that family conference twelve years earlier...\nBoth Eva and Ange...hated each other.\nEven though they were each other's last blood relatives, ...they hated each other so much that they hoped the other would die quickly...\n\".........And?\nWhy did you go to all the trouble of calling for me...?\"\n\"......I don't have much time left.\n......These quack doctors still have no idea what I was poisoned with.\n.........But I know.\nI'm sure it's that secret assassination drug, the one that foreign intelligence agency was using.\"\n\"...Ooh, I'm going to be killed, I'm going to be killed...!!\nAren't you lucky, very soon, I will die, and then you will be so relieved...!\"\n\".................................\n...What a pitiable person.\"\nThis always happened.\n......She immediately deviated from the main topic, distorting it into a more unsettling discussion.\nEva, who was full of suspicion, believed that someone was always after her life.",
+          "note": "Both restore suspicion and paranoia at the two occurrences.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0052",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0052"
+            ],
+            "MG": [
+              "umi3_20-L0052",
+              "umi3_20-L0056",
+              "umi3_20-L0060",
+              "umi3_20-L0062",
+              "umi3_20-L0066",
+              "umi3_20-L0070",
+              "umi3_20-L0072",
+              "umi3_20-L0074",
+              "umi3_20-L0078",
+              "umi3_20-L0080",
+              "umi3_20-L0082"
+            ],
+            "UP": [
+              "umi3_20-L0052",
+              "umi3_20-L0056",
+              "umi3_20-L0060",
+              "umi3_20-L0062",
+              "umi3_20-L0066",
+              "umi3_20-L0070",
+              "umi3_20-L0072",
+              "umi3_20-L0074",
+              "umi3_20-L0078",
+              "umi3_20-L0080",
+              "umi3_20-L0082"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "右代宮家の莫大な財産は、その全てが右代宮絵羽によって占有されている。…その財産には、かの右代宮金蔵が隠し持っていたと囁かれる、１０ｔの隠し黄金も含むと言われていた。その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+              "translation": "All of the Ushiromiya family's massive fortune had come into the possession of Ushiromiya Eva. ...It was said that this fortune also included the 10 tons of hidden gold that Ushiromiya Kinzo was rumored to have hidden. While this vast wealth lay in Eva's cunning, sly, and suspicious hands, no one was able to complain, ...but it was rumored that as soon as it was passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away. "
+            },
+            "UP": {
+              "japanese": "右代宮家の莫大な財産は、その全てが右代宮絵羽によって占有されている。…その財産には、かの右代宮金蔵が隠し持っていたと囁かれる、１０ｔの隠し黄金も含むと言われていた。その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+              "translation": "All of the Ushiromiya family's massive fortune had come into the possession of Ushiromiya Eva. ...It was said that this fortune also included the ten tons of hidden gold that Ushiromiya Kinzo was rumored to have kept concealed. They could do nothing while this vast wealth was in the hands of the cunning, sly, and extremely suspicious Eva, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0052"
+            ],
+            "MG": [
+              "umi3_20-L0052"
+            ],
+            "UP": [
+              "umi3_20-L0052"
+            ]
+          }
+        },
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              123,
+              123
+            ],
+            "MG": [
+              123,
+              123
+            ],
+            "UP": [
+              123,
+              123
+            ]
+          },
+          "japanese": "むしろ猜疑心をさらに肥大させる結果となった…。",
+          "japanesePC": "その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+          "japanesePS3": "むしろ猜疑心をさらに肥大させる結果となった…。",
+          "WH": "It couldn't be helped that this vast wealth would fall into the cunning, sly, and extremely jealous Eva's hands, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.",
+          "MG": "and if anything, they ended up increasing her paranoia further...",
+          "UP": "and only further increased her suspicion...",
+          "note": "Third recurrence also restores paranoia or suspicion.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0121",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0052"
+            ],
+            "MG": [
+              "umi3_20-L0121"
+            ],
+            "UP": [
+              "umi3_20-L0121"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。…だが結局、彼らは彼女の心に救いを与えられず、むしろ猜疑心をさらに肥大させる結果となった…。",
+              "translation": "For a time, Eva had searched for the founders of several strange and new religious cults, perhaps seeking peace in her heart. ...But they gave her heart no relief, and if anything, they ended up increasing her paranoia further... "
+            },
+            "UP": {
+              "japanese": "絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。…だが結局、彼らは彼女の心に救いを与えられず、むしろ猜疑心をさらに肥大させる結果となった…。",
+              "translation": "For a time, Eva had invited in the founders of several strange new religious cults, perhaps looking for peace in her heart. ...But in the end, they did not give her heart any relief, and only further increased her suspicion..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0052"
+            ],
+            "MG": [
+              "umi3_20-L0121"
+            ],
+            "UP": [
+              "umi3_20-L0121"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva is cunning and highly suspicious; distrust supports guarded wealth, assassination beliefs and increased distrust after cult approaches.",
+      "alternative": "She also envies Ange survival, but 猜疑心 here is suspicious distrust, not envy or possessive jealousy.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-003",
+      "kind": "WH",
+      "description": "財産 ... 絵羽の手元にあってはどうしようもない becomes It could not be helped that this vast wealth would fall into Eva hands.",
+      "categories": [
+        "linguistic.logical_relation",
+        "world.world_fact",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              54,
+              55
+            ],
+            "MG": [
+              54,
+              55
+            ],
+            "UP": [
+              54,
+              55
+            ]
+          },
+          "japanese": "その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+          "japanesePC": "その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+          "japanesePS3": "その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、\n……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+          "WH": "It couldn't be helped that this vast wealth would fall into the cunning, sly, and extremely jealous Eva's hands, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.",
+          "MG": "While this vast wealth lay in Eva's cunning, sly, and suspicious hands, no one was able to complain,\n...but it was rumored that as soon as it was passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away.",
+          "UP": "They could do nothing while this vast wealth was in the hands of the cunning, sly, and extremely suspicious Eva,\n......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once.",
+          "note": "MG substitutes inability to complain for inability to obtain the fortune; UP restores inability to act against Eva’s hold.",
+          "dispositions": {
+            "MG": "diverged_defect",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0052",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0052"
+            ],
+            "MG": [
+              "umi3_20-L0052"
+            ],
+            "UP": [
+              "umi3_20-L0052"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "右代宮家の莫大な財産は、その全てが右代宮絵羽によって占有されている。…その財産には、かの右代宮金蔵が隠し持っていたと囁かれる、１０ｔの隠し黄金も含むと言われていた。その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+              "translation": "All of the Ushiromiya family's massive fortune had come into the possession of Ushiromiya Eva. ...It was said that this fortune also included the 10 tons of hidden gold that Ushiromiya Kinzo was rumored to have hidden. While this vast wealth lay in Eva's cunning, sly, and suspicious hands, no one was able to complain, ...but it was rumored that as soon as it was passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away. "
+            },
+            "UP": {
+              "japanese": "右代宮家の莫大な財産は、その全てが右代宮絵羽によって占有されている。…その財産には、かの右代宮金蔵が隠し持っていたと囁かれる、１０ｔの隠し黄金も含むと言われていた。その莫大な財産は、老獪で狡猾で猜疑心の強い絵羽の手元にあってはどうしようもないが、……小娘に過ぎない縁寿に相続されれば、自在に掠め取れるのではないかと目論む者たちがいると噂される。",
+              "translation": "All of the Ushiromiya family's massive fortune had come into the possession of Ushiromiya Eva. ...It was said that this fortune also included the ten tons of hidden gold that Ushiromiya Kinzo was rumored to have kept concealed. They could do nothing while this vast wealth was in the hands of the cunning, sly, and extremely suspicious Eva, ......but it was rumored that if it passed on to Ange, who was no more than a young girl, certain people were plotting to snatch it away at once."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0052"
+            ],
+            "MG": [
+              "umi3_20-L0052"
+            ],
+            "UP": [
+              "umi3_20-L0052"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Predators can do nothing with the fortune while shrewd Eva controls it, but hope they can freely skim it once young Ange inherits.",
+      "alternative": "It could not be helped can loosely suggest difficulty, but English makes wealth falling to Eva inevitable rather than saying others cannot touch it in her hands.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-004",
+      "kind": "WH",
+      "description": "教祖たちをずいぶん招き入れた becomes searched for the founders.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              121,
+              121
+            ],
+            "MG": [
+              121,
+              121
+            ],
+            "UP": [
+              121,
+              121
+            ]
+          },
+          "japanese": "絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。",
+          "japanesePC": "絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。",
+          "japanesePS3": "絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。",
+          "WH": "For a time, Eva had searched for the founders of several strange and new religious cults, perhaps looking for peace in her heart.",
+          "MG": "For a time, Eva had searched for the founders of several strange and new religious cults, perhaps seeking peace in her heart.",
+          "UP": "For a time, Eva had invited in the founders of several strange new religious cults, perhaps looking for peace in her heart.",
+          "note": "MG searches for cult founders; UP restores inviting them in.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0121",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0121"
+            ],
+            "MG": [
+              "umi3_20-L0121"
+            ],
+            "UP": [
+              "umi3_20-L0121"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。…だが結局、彼らは彼女の心に救いを与えられず、むしろ猜疑心をさらに肥大させる結果となった…。",
+              "translation": "For a time, Eva had searched for the founders of several strange and new religious cults, perhaps seeking peace in her heart. ...But they gave her heart no relief, and if anything, they ended up increasing her paranoia further... "
+            },
+            "UP": {
+              "japanese": "絵羽は一時期、心の安寧を求めたのか、おかしな新興宗教の教祖たちをずいぶん招き入れた。…だが結局、彼らは彼女の心に救いを与えられず、むしろ猜疑心をさらに肥大させる結果となった…。",
+              "translation": "For a time, Eva had invited in the founders of several strange new religious cults, perhaps looking for peace in her heart. ...But in the end, they did not give her heart any relief, and only further increased her suspicion..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0121"
+            ],
+            "MG": [
+              "umi3_20-L0121"
+            ],
+            "UP": [
+              "umi3_20-L0121"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva invited numerous leaders of strange new religions into her circle, perhaps seeking peace, but they failed to relieve her.",
+      "alternative": "Search could precede invitation, and preceding dialogue reports their advice, but the source explicitly asserts she admitted/invited them rather than merely sought them.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-005",
+      "kind": "WH",
+      "description": "わかんないわ。馬鹿だから becomes I do not get it. Because it is stupid.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.irony_performance",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              153,
+              154
+            ],
+            "MG": [
+              153,
+              154
+            ],
+            "UP": [
+              153,
+              154
+            ]
+          },
+          "japanese": "「……わかんないわ。\n馬鹿だから」",
+          "japanesePC": "「……わかんないわ。馬鹿だから。」",
+          "japanesePS3": "「……わかんないわ。\n馬鹿だから」",
+          "WH": "\"......I don't get it.  Because it's stupid.\"",
+          "MG": "\"...I don't get it.\nBecause it's stupid.\"",
+          "UP": "\"......No idea.\nBecause I'm stupid.\"",
+          "note": "MG calls it stupid; UP restores the speaker’s self-description.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0153",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0149",
+              "umi3_20-L0153"
+            ],
+            "MG": [
+              "umi3_20-L0153"
+            ],
+            "UP": [
+              "umi3_20-L0153"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……わかんないわ。馬鹿だから」",
+              "translation": "\"...I don't get it. Because it's stupid.\" "
+            },
+            "UP": {
+              "japanese": "「……わかんないわ。馬鹿だから」",
+              "translation": "\"......No idea. Because I'm stupid.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0149",
+              "umi3_20-L0153"
+            ],
+            "MG": [
+              "umi3_20-L0153"
+            ],
+            "UP": [
+              "umi3_20-L0153"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange says she does not understand because she is stupid, sarcastically echoing the contemptuous family framing.",
+      "alternative": "English preserves dismissiveness but directs the insult at the proposition rather than performing self-deprecation toward her aunt.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-007",
+      "kind": "WH",
+      "description": "自分はここから一歩も動いていない becomes she would not move a step from where she was.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.agency_responsibility",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              194,
+              194
+            ],
+            "MG": [
+              194,
+              194
+            ],
+            "UP": [
+              194,
+              194
+            ]
+          },
+          "japanese": "縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。",
+          "japanesePC": "縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。",
+          "japanesePS3": "縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。",
+          "WH": "Ange glanced at him, wordlessly showing that she wouldn't move a step from where she was.",
+          "MG": "Ange glanced at him, wordlessly making it clear that she didn't intend to move a step from where she was.",
+          "UP": "Ange glanced at him, wordlessly showing that she hadn't moved a step from where she had been.",
+          "note": "MG gives future intention not to move; UP restores not having moved.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0193",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0193"
+            ],
+            "MG": [
+              "umi3_20-L0193"
+            ],
+            "UP": [
+              "umi3_20-L0193"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "咳き込む声に不審を感じたのか、短いノックと同時に護衛が飛び込んできた。縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。……自分に、絵羽殺しの濡れ衣を着せるための、何かの罠さえ縁寿は覚悟していた。",
+              "translation": "Perhaps because he found the violent coughing suspicious, the guard gave a short knock on the door and rushed in at the same time. Ange glanced at him, wordlessly making it clear that she didn't intend to move a step from where she was. ...Ange was prepared for some kind of trap to frame her in Eva's death. "
+            },
+            "UP": {
+              "japanese": "咳き込む声に不審を感じたのか、短いノックと同時に護衛が飛び込んできた。縁寿はじろりとそれを見て、無言で、自分はここから一歩も動いていないとアピールする。……自分に、絵羽殺しの濡れ衣を着せるための、何かの罠さえ縁寿は覚悟していた。",
+              "translation": "Perhaps because he found the violent coughing odd, the guard flew in as he gave a short knock on the door. Ange glanced at him, wordlessly showing that she hadn't moved a step from where she had been. ......Ange was prepared for some kind of trap to frame her in Eva's death."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0193"
+            ],
+            "MG": [
+              "umi3_20-L0193"
+            ],
+            "UP": [
+              "umi3_20-L0193"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange silently signals that she has not moved, preempting any accusation she caused Eva's coughing or death.",
+      "alternative": "Staying still can imply no involvement, but English makes her signal prospective rather than presenting her past nonmovement as evidence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-008",
+      "kind": "WH",
+      "description": "誰にも心を許さず ... 誰も愛さず becomes No one trusted her ... No one loved her, with added so causal links.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.addition",
+        "character.agency_responsibility",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              285,
+              286
+            ],
+            "MG": [
+              285,
+              286
+            ],
+            "UP": [
+              285,
+              286
+            ]
+          },
+          "japanese": "…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。",
+          "japanesePC": "…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。",
+          "japanesePS3": "…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。",
+          "WH": "...No one trusted her, so she didn't even try to believe them.\nNo one loved her, so she didn't even try to love.",
+          "MG": "...No one trusted her, so she never bothered to believe in anyone.\nNo one loved her, so she never even tried to love.",
+          "UP": "...She trusted no one, and didn't even try.\nShe loved no one, and didn't even try.",
+          "note": "MG reverses who trusts and loves whom and adds causal links; UP restores Ange’s agency.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0283",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0283"
+            ],
+            "MG": [
+              "umi3_20-L0283"
+            ],
+            "UP": [
+              "umi3_20-L0283"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "環境が、人を作る。\n今や彼女は、周囲が恐れる通りの荒んだ心を持っている。…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。",
+              "translation": "The environment makes the person. By now, she had a heart as wild as those around her feared. ...No one trusted her, so she never bothered to believe in anyone. No one loved her, so she never even tried to love. "
+            },
+            "UP": {
+              "japanese": "環境が、人を作る。\n今や彼女は、周囲が恐れる通りの荒んだ心を持っている。…誰にも心を許さず、信じようとしない。\n誰も愛さず、愛そうとしない。",
+              "translation": "The environment makes the person.\nBy now, she had a heart as hardened as those around her feared. ...She trusted no one, and didn't even try.\nShe loved no one, and didn't even try."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0283"
+            ],
+            "MG": [
+              "umi3_20-L0283"
+            ],
+            "UP": [
+              "umi3_20-L0283"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange lets nobody into her heart, refuses to trust, loves nobody and refuses to try loving, after her environment has shaped her.",
+      "alternative": "Surrounding ostracism supports social rejection, but these clauses explicitly describe her own withdrawn dispositions, not universal absence of others' love/trust or a new causal statement.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-009",
+      "kind": "WH",
+      "description": "魔女の娘は魔女 becomes the witch girl was a witch, losing the daughter relation.",
+      "categories": [
+        "linguistic.omission",
+        "character.relationship_power",
+        "world.terminology_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              289,
+              289
+            ],
+            "MG": [
+              289,
+              289
+            ],
+            "UP": [
+              289,
+              289
+            ]
+          },
+          "japanese": "魔女の娘は魔女だと、誰もが囁く。",
+          "japanesePC": "魔女の娘は魔女だと、誰もが囁く。",
+          "japanesePS3": "魔女の娘は魔女だと、誰もが囁く。",
+          "WH": "Everyone whispered that the witch girl was a witch.",
+          "MG": "Everyone whispered that the daughters of witches are witches too.",
+          "UP": "Everyone whispered that the daughter of a witch was a witch.",
+          "note": "Both restore the witch’s daughter relation.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0287",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0287"
+            ],
+            "MG": [
+              "umi3_20-L0287"
+            ],
+            "UP": [
+              "umi3_20-L0287"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかもその上、絵羽が不治の病に掛かると、それもまた陰謀説がささやかれ、今度はその黒幕に縁寿が祭り上げられていく…。魔女の娘は魔女だと、誰もが囁く。\nワイドショーも週刊誌も、そうだと囁く。…だから縁寿も、きっと、いや、どうせそうなのだろうと、それを受け入れた。",
+              "translation": "And when Eva caught an incurable illness on top of all this, it was whispered that this too was a conspiracy, and this time, Ange was set up as the mastermind... Everyone whispered that the daughters of witches are witches too. Even the talk shows and the weekly magazines whispered that. ...So Ange, too, accepted it as though it was definitely... no, as though it was obviously true. "
+            },
+            "UP": {
+              "japanese": "しかもその上、絵羽が不治の病に掛かると、それもまた陰謀説がささやかれ、今度はその黒幕に縁寿が祭り上げられていく…。魔女の娘は魔女だと、誰もが囁く。\nワイドショーも週刊誌も、そうだと囁く。…だから縁寿も、きっと、いや、どうせそうなのだろうと、それを受け入れた。",
+              "translation": "And on top of all of this, when Eva caught an incurable illness, it was whispered that this too had been planned, and this time, Ange was set up as the mastermind... Everyone whispered that the daughter of a witch was a witch.\nEven the talk shows and the weekly magazines whispered that. ...So Ange, too, because of that, no, as though it might as well be true, accepted it."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0287"
+            ],
+            "MG": [
+              "umi3_20-L0287"
+            ],
+            "UP": [
+              "umi3_20-L0287"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Everyone says the witch's daughter is a witch, extending Eva's public stigma to her ward as a daughter.",
+      "alternative": "Girl retains youth and accusation, but cannot preserve inherited stigma through the supposed mother/daughter link, explicitly quoted daughter earlier.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-010",
+      "kind": "WH",
+      "description": "思えてならない becomes could not really imagine, reversing the affirmative irresistible feeling.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              306,
+              306
+            ],
+            "MG": [
+              306,
+              306
+            ],
+            "UP": [
+              306,
+              306
+            ]
+          },
+          "japanese": "…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。",
+          "japanesePC": "…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。",
+          "japanesePS3": "…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。",
+          "WH": "...Ange couldn't really imagine that the thing she really sought could be in that unseen starlight.",
+          "MG": "...Ange couldn't help but think that what she truly sought must lie in that unseen starlight.",
+          "UP": "...Ange couldn't help but think that what she really sought lay somewhere in that unseen starlight.",
+          "note": "Both restore the irresistible affirmative feeling about unseen starlight.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0306",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0306"
+            ],
+            "MG": [
+              "umi3_20-L0306"
+            ],
+            "UP": [
+              "umi3_20-L0306"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。眼下の現実の世界も、ここからなら遠く見える。…自分が本当にいるべき世界に、ここが一番近い場所だと思えた。",
+              "translation": "...Ange couldn't help but think that what she truly sought must lie in that unseen starlight. The world of reality below her looked so far away from here. ...She could imagine that this place was the closest to the world she really should be in. "
+            },
+            "UP": {
+              "japanese": "…縁寿には、その見えない星明りの中にこそ、自分が本当に求めるものがあるように思えてならない。眼下の現実の世界も、ここからなら遠く見える。…自分が本当にいるべき世界に、ここが一番近い場所だと思えた。",
+              "translation": "...Ange couldn't help but think that what she really sought lay somewhere in that unseen starlight. The world of reality below her looked so far away from here. ...This place felt to her as the closest to the world she should really be in."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0306"
+            ],
+            "MG": [
+              "umi3_20-L0306"
+            ],
+            "UP": [
+              "umi3_20-L0306"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Ange cannot help feeling that precisely within the unseen starlight lies what she truly seeks.",
+      "alternative": "The stars cannot be seen, but the source distinction is between visible absence and inward certainty; English denies the inward possibility instead.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-011",
+      "kind": "WH",
+      "description": "戦人兄さんの ... その手に ... 届きそうなのに makes his hand the target of her reach, but English that hand will reach me reverses the direction, repeated at his hand never reached me.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.viewpoint_attribution",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              315,
+              322
+            ],
+            "MG": [
+              315,
+              322
+            ],
+            "UP": [
+              315,
+              322
+            ]
+          },
+          "japanese": "私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、\n………あとちょっとで届きそうなのに、それさえも届かない。\nそんな夢を、なぜか繰り返し見るようになっていた。\n……私は同じ夢を見る度に、\nさらに力強く手を伸ばそうと、夢の中で無駄な努力を繰り返すのだ。\nせめて戦人兄さんだけでも、生きていてくれたなら。\n………私はこの冷たく寂しい現実を、せめて二人で支えあいながら生きていけるのではないか。\nでも、その手はいつも、届かない。",
+          "japanesePC": "私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、\n………あとちょっとで届きそうなのに、それさえも届かない。",
+          "japanesePS3": "私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、\n………あとちょっとで届きそうなのに、それさえも届かない。\nそんな夢を、なぜか繰り返し見るようになっていた。\n……私は同じ夢を見る度に、\nさらに力強く手を伸ばそうと、夢の中で無駄な努力を繰り返すのだ。\nせめて戦人兄さんだけでも、生きていてくれたなら。\n………私はこの冷たく寂しい現実を、せめて二人で支えあいながら生きていけるのではないか。\nでも、その手はいつも、届かない。",
+          "WH": "Battler nii-san has always really loved me, and his hand always pats my head,\n.........but even though it looks like that hand will reach me, even it does not reach.",
+          "MG": "Battler nii-san always loved me a lot, and he'd always pat my head,\n......but even though it looks like that hand's about to touch me, even it does not reach.\nFor some reason, I started having that dream over and over.\n...Every time I had that the same dream,\nI uselessly tried to stretch out my hand even more forcefully, over and over and over.\nEven if only Battler nii-san had lived...\n......Then, perhaps, we'd at least be able to support each other in my cold and lonely reality.\nBut his hand never reaches me.",
+          "UP": "I reach for the hand of Battler nii‐san, who always really loved me—for the hand that would always pat my head—\n.........but even though it looks like it's so close to reaching, even that falls short.\nFor some reason, I started having that dream over and over again.\n......Whenever I have that dream,\nI repeat my useless effort inside the dream, trying to stretch out my hand even more forcefully.\nIf only Battler nii‐san at least could have lived...\n.........then perhaps, at least the two of us could have supported each other through life in this cold and lonely reality.\nBut his hand never reaches me.",
+          "note": "UP restores Ange reaching at315–316 but still reverses the direction at322; MG retains both reversals.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partly_corrected"
+          },
+          "readerRef": "umi3_20-L0312",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0312"
+            ],
+            "MG": [
+              "umi3_20-L0312",
+              "umi3_20-L0318"
+            ],
+            "UP": [
+              "umi3_20-L0312",
+              "umi3_20-L0318"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "…このところ、繰り返し繰り返し、…家族の夢を見るのだ。１２年前の私が、必死に呼び掛けて、親族会議に行かないようにと訴えるのだ。しかし、お父さんにもお母さんにも、遠くて手が届かない。私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、………あとちょっとで届きそうなのに、それさえも届かない。そんな夢を、なぜか繰り返し見るようになっていた。",
+              "translation": "...Lately, ...she'd been dreaming about her family over and over again. The person I was 12 years ago calls out frantically, urging them not to go to the family conference. But both Dad and Mom are too far away, and my hand won't reach them. Battler nii-san always loved me a lot, and he'd always pat my head, ......but even though it looks like that hand's about to touch me, even it does not reach. For some reason, I started having that dream over and over. "
+            },
+            "UP": {
+              "japanese": "…このところ、繰り返し繰り返し、…家族の夢を見るのだ。１２年前の私が、必死に呼び掛けて、親族会議に行かないようにと訴えるのだ。しかし、お父さんにもお母さんにも、遠くて手が届かない。私のことを、とても可愛がってくれた戦人兄さんの、私を撫でてくれるその手に、………あとちょっとで届きそうなのに、それさえも届かない。そんな夢を、なぜか繰り返し見るようになっていた。",
+              "translation": "...Recently, ...I've been having a dream about my family, over and over again. My self of twelve years ago calls out frantically, urging them not to go to the family conference. But both Mom and Dad are too far away, and my hand won't reach them. I reach for the hand of Battler nii‐san, who always really loved me—for the hand that would always pat my head— .........but even though it looks like it's so close to reaching, even that falls short. For some reason, I started having that dream over and over again."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0312"
+            ],
+            "MG": [
+              "umi3_20-L0312"
+            ],
+            "UP": [
+              "umi3_20-L0312"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She nearly reaches the hand of Battler who used to lovingly pat her, but cannot; each recurrence of the dream makes her stretch her own hand more forcefully.",
+      "alternative": "Mutual separation is retained and either hand could meet, but Japanese explicitly marks Battler hand with に as her destination and immediately elaborates her reaching effort.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-012",
+      "kind": "WH",
+      "description": "享受できる可能性の中で ... 探して持ってくる becomes if it is possible for you to receive it ... search for the happiest resolution.",
+      "categories": [
+        "linguistic.logical_relation",
+        "linguistic.omission",
+        "character.relationship_power",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              396,
+              397
+            ],
+            "MG": [
+              396,
+              397
+            ],
+            "UP": [
+              396,
+              397
+            ]
+          },
+          "japanese": "「………あなたに、復讐のチャンスを。\n…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ」",
+          "japanesePC": "「………あなたに、復讐のチャンスを。…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ。」",
+          "japanesePS3": "「………あなたに、復讐のチャンスを。\n…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ」",
+          "WH": "\".........I'm giving you a chance for revenge.  In exchange, if it is possible for you to receive it, I promise to search for the happiest resolution for you.\"",
+          "MG": "\"......I'm giving you a chance for revenge.\n...In exchange, I promise to search for and bring you the happiest resolution among the possibilities you're capable of accepting.\"",
+          "UP": "\".........I'm giving you a chance for revenge.\n...In exchange, I promise to find and bring you the happiest resolution that it is possible for you to receive.\"",
+          "note": "Both restore searching and bringing the happiest outcome within available possibilities.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0396",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0396"
+            ],
+            "MG": [
+              "umi3_20-L0396"
+            ],
+            "UP": [
+              "umi3_20-L0396"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………あなたに、復讐のチャンスを。…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ」",
+              "translation": "\"......I'm giving you a chance for revenge. ...In exchange, I promise to search for and bring you the happiest resolution among the possibilities you're capable of accepting.\" "
+            },
+            "UP": {
+              "japanese": "「………あなたに、復讐のチャンスを。…見返りに、あなたが享受できる可能性の中で、もっとも幸せな結末を探して持ってくることを約束するわ」",
+              "translation": "\".........I'm giving you a chance for revenge. ...In exchange, I promise to find and bring you the happiest resolution that it is possible for you to receive.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0396"
+            ],
+            "MG": [
+              "umi3_20-L0396"
+            ],
+            "UP": [
+              "umi3_20-L0396"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern promises to find and bring the happiest ending among possibilities available to Ange. Earlier warnings exclude guaranteeing the specific family-return wish.",
+      "alternative": "English preserves search and happiest ending, but makes attainability an if condition rather than the domain of comparison and omits bringing the result.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-013",
+      "kind": "WH",
+      "description": "可能性の数値は、結果の前に無力 becomes Trying to read any probabilities before the result is useless.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.epistemic_status",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              404,
+              407
+            ],
+            "MG": [
+              404,
+              407
+            ],
+            "UP": [
+              404,
+              407
+            ]
+          },
+          "japanese": "「奇跡的な確率でも、……それはゼロよりは高いのよね…？\n１％くらい…？」\n「……あらゆる可能性の数値は、結果の前に無力よ。\nだからその数字を、私には語ることができない」",
+          "japanesePC": "「……あらゆる可能性の数値は、結果の前に無力よ。だからその数字を、私には語ることができない。」",
+          "japanesePS3": "「奇跡的な確率でも、……それはゼロよりは高いのよね…？\n１％くらい…？」\n「……あらゆる可能性の数値は、結果の前に無力よ。\nだからその数字を、私には語ることができない」",
+          "WH": "\"......Trying to read any probabilities before the result is useless.  So I cannot tell you that number.\"",
+          "MG": "\"A miraculous probability...means it's still higher than zero, right...?\nIs it 1%...?\"\n\"...Trying to read any probabilities before the result is useless.\nSo I cannot tell you that number.\"",
+          "UP": "\"A miraculous probability......is still higher than zero, right...?\nIs it about one percent...?\"\n\"......All probability values are powerless before the result.\nSo I cannot tell you that number.\"",
+          "note": "MG retains temporal before the result; UP restores numerical probabilities powerless in the face of the result.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0404",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0406"
+            ],
+            "MG": [
+              "umi3_20-L0404",
+              "umi3_20-L0406"
+            ],
+            "UP": [
+              "umi3_20-L0404",
+              "umi3_20-L0406"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……あらゆる可能性の数値は、結果の前に無力よ。だからその数字を、私には語ることができない」",
+              "translation": "\"...Trying to read any probabilities before the result is useless. So I cannot tell you that number.\" "
+            },
+            "UP": {
+              "japanese": "「……あらゆる可能性の数値は、結果の前に無力よ。だからその数字を、私には語ることができない」",
+              "translation": "\"......All probability values are powerless before the result. So I cannot tell you that number.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0406"
+            ],
+            "MG": [
+              "umi3_20-L0406"
+            ],
+            "UP": [
+              "umi3_20-L0406"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Numerical possibilities are powerless in the face of the actual outcome, so Bern cannot give Ange a numerical probability.",
+      "alternative": "前 can be temporal elsewhere, but 無力 in this construction contrasts probability numbers with results rather than prohibiting prediction before results; English also introduces trying to read.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH17-078",
+      "kind": "WH",
+      "description": "WH replaces the taunt to die bitterly regretting her humiliation with a taunt to give up and die.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              226,
+              226
+            ],
+            "MG": [
+              226,
+              226
+            ],
+            "UP": [
+              226,
+              226
+            ]
+          },
+          "japanese": "あっははははは、今すぐヘソでも噛んで、死んじゃえばぁッ？！",
+          "japanesePC": "下らない下らない馬ッ鹿みたぁい！！　勇ましいことを言って割り込んでおきながら、その体たらくは何なのぉ？！　あぁ情けない恥ずかしい！！　ヘソ噛んで死んじゃえばぁ？！」",
+          "japanesePS3": "あっははははは、今すぐヘソでも噛んで、死んじゃえばぁッ？！",
+          "WH": "Worthless, worthless, are you a moron?!!  What's with this predicament, even though you stepped between us saying something brave?!  Aaah, how pathetic, how embarrassing!!  Why don't you just give up and die?!\"",
+          "MG": "Ahhahahahahaha, if only you'd just give up and die right now!!",
+          "UP": "Ahhaha{0ha{0ha{0haha, why don't you just give up and die now and foreverrr?!",
+          "note": "Bitter regret becomes capitulation; distinct from the separately counted UP eternal-duration addition.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_20-L0223",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0223"
+            ],
+            "UP": [
+              "umi3_20-L0223"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「悔しい？　聞きたければ地獄まで行って、あんたの家族に聞いてみるといい！　なら今すぐ死なないとねぇ？！　あっははははは、今すぐヘソでも噛んで、死んじゃえばぁッ？！　わーっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはッ！！」",
+              "translation": "\"Oh, are you mad? If you want to hear it so much, try going to hell and asking your family there! In that case, you'd better die right now, right?! Ahhahahahahaha, if only you'd just give up and die right now!! Waaahhahahahahahahahahahahahahahahahahahahahahahahahahahaha!!\" "
+            },
+            "UP": {
+              "japanese": "「悔しい？　聞きたければ地獄まで行って、あんたの家族に聞いてみるといい！　なら今すぐ死なないとねぇ？！　あっははははは、今すぐヘソでも噛んで、死んじゃえばぁッ？！　わーっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはッ！！」",
+              "translation": "\"Upset? If you want to hear, try going to hell and asking your family there! In that case, you better die right now, right?! Ahhaha{0ha{0ha{0haha, why don't you just give up and die now and foreverrr?! Waaahhah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah‐hah!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0223"
+            ],
+            "UP": [
+              "umi3_20-L0223"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ヘソ噛んで invokes 臍を噛む, bitter or futile regret, in a speech mocking Beato’s brave intervention and subsequent humiliating failure.",
+      "alternative": "The taunt also seeks Beato’s capitulation and death, but giving up does not preserve the idiom’s regret and humiliation component.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-014",
+      "kind": "WH",
+      "description": "WH changes the warning that revenge cannot guarantee the family’s return into a statement that there is no definite proof of their return.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.epistemic_status",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              400,
+              400
+            ],
+            "MG": [
+              400,
+              400
+            ],
+            "UP": [
+              400,
+              400
+            ]
+          },
+          "japanese": "仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。",
+          "japanesePC": "「……徒労になるかもしれない。仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。奇跡的確率で、せいぜい１人を連れ戻せるかどうかよ。」",
+          "japanesePS3": "仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。",
+          "WH": "\"......It may be a fruitless effort.  Even if you succeed in your revenge, there's no definite proof that your family will return.  Even with a miraculous probability, you may be able to bring only one person back.\"",
+          "MG": "Even if you succeed in your revenge, there's no definite proof that your family will return.",
+          "UP": "Even if you succeed in your revenge, there's no definite proof that your family will return.",
+          "note": "No proof can colloquially communicate uncertainty, and the adjacent fruitless-effort and miraculous-probability warnings preserve that uncertainty, but lack of evidence and lack of assurance are distinct formulations.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_20-L0399",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0399"
+            ],
+            "MG": [
+              "umi3_20-L0399"
+            ],
+            "UP": [
+              "umi3_20-L0399"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……徒労になるかもしれない。仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。奇跡的確率で、せいぜい１人を連れ戻せるかどうかよ」",
+              "translation": "\"...It may be a fruitless effort. Even if you succeed in your revenge, there's no definite proof that your family will return. Even if you manage to hit a miraculous probability, you may only be able to bring one person back, if that.\" "
+            },
+            "UP": {
+              "japanese": "「……徒労になるかもしれない。仮に復讐を成し遂げられたとしても、家族が帰ってくる絶対の保証はない。奇跡的確率で、せいぜい１人を連れ戻せるかどうかよ」",
+              "translation": "\"......It may be a fruitless effort. Even if you succeed in your revenge, there's no definite proof that your family will return. Even with a miraculous probability, you may only be able to bring one person back.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0399"
+            ],
+            "MG": [
+              "umi3_20-L0399"
+            ],
+            "UP": [
+              "umi3_20-L0399"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "家族が帰ってくる絶対の保証はない withholds certainty or a guarantee about the future result even if revenge succeeds.",
+      "alternative": "No proof can colloquially communicate uncertainty, and the adjacent fruitless-effort and miraculous-probability warnings preserve that uncertainty, but lack of evidence and lack of assurance are distinct formulations.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-015",
+      "kind": "WH",
+      "description": "WH makes Eva complain that doctors cannot detect any poison, rather than identify which poison she claims was administered.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              75,
+              75
+            ],
+            "MG": [
+              75,
+              75
+            ],
+            "UP": [
+              75,
+              75
+            ]
+          },
+          "japanese": "……藪医者どもは、未だに私が盛られた毒が何かも検出できない。",
+          "japanesePC": "「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっとソ連のＫＧＢで使われてた秘密の暗殺薬なのよ。…あぁ、私は殺されるのよ、殺されるのよ…！！　良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」",
+          "japanesePS3": "……藪医者どもは、未だに私が盛られた毒が何かも検出できない。",
+          "WH": "\"......I don't have much time left.  ......These quack doctors still can't detect any of the poison that's filling me up.  .........I know.  I'm sure it's a secret assassination drug used by those Soviet KGBs.  ...Ooh, I'll be killed, I'll be killed...!!  Isn't that great!  Very soon, I will die, and then you will be so relieved...!\"",
+          "MG": "...These quack doctors still can't detect any of the poison that's filling me up.",
+          "UP": "......These quack doctors still have no idea what I was poisoned with.",
+          "note": "Cannot detect poison may colloquially include failure to identify it, but any of the poison replaces the explicit what-poison question.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0074",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP03-20-V001",
+              "umi3_20-L0078"
+            ],
+            "MG": [
+              "umi3_20-L0074"
+            ],
+            "UP": [
+              "umi3_20-L0074"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」",
+              "translation": "\"...I don't have much time left. ...These quack doctors still can't detect any of the poison that's filling me up. ......I know. I'm sure it's some secret assassination drug used by those Soviet KGBs. "
+            },
+            "UP": {
+              "japanese": "「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」",
+              "translation": "\"......I don't have much time left. ......These quack doctors still have no idea what I was poisoned with. .........But I know. I'm sure it's that secret assassination drug, the one that foreign intelligence agency was using.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP03-20-V001",
+              "umi3_20-L0078"
+            ],
+            "MG": [
+              "umi3_20-L0074"
+            ],
+            "UP": [
+              "umi3_20-L0074"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "何か identifies the type of poison; both allegation and ignorance belong to Eva’s speech, not established medical fact.",
+      "alternative": "Cannot detect poison may colloquially include failure to identify it, but any of the poison replaces the explicit what-poison question.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-016",
+      "kind": "WH",
+      "description": "WH removes the likelihood qualifier from the people Eva names as bearing resentment toward her.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              95,
+              95
+            ],
+            "MG": [
+              95,
+              95
+            ],
+            "UP": [
+              95,
+              95
+            ]
+          },
+          "japanese": "自分に恨みを抱いているであろう人物の名を次々に挙げては、",
+          "japanesePC": "絵羽はしばらくの間、自分の命が如何に狙われているかを雄弁に語り、自分に恨みを抱いているであろう人物の名を次々に挙げては、自分がまだ殺されずにいることを嘲笑う。",
+          "japanesePS3": "自分に恨みを抱いているであろう人物の名を次々に挙げては、",
+          "WH": "For some time, Eva eloquently spoke of how her life was being targeted, listing off names of people who held hatred for her, and sneering at the fact that she still hadn't been killed.",
+          "MG": "listing off names of people who hated her,",
+          "UP": "listing off names of people who likely held hatred for her,",
+          "note": "Previous narration confirms she earned much hatred, but does not establish that every listed person including Ange actually hates her.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0094",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0094"
+            ],
+            "MG": [
+              "umi3_20-L0094"
+            ],
+            "UP": [
+              "umi3_20-L0094"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "絵羽はしばらくの間、自分の命が如何に狙われているかを雄弁に語り、自分に恨みを抱いているであろう人物の名を次々に挙げては、自分がまだ殺されずにいることを嘲笑う。縁寿はその中に自分の名が含まれても、特に表情も変えず、彼女が言い疲れるのを淡々と待った…。",
+              "translation": "For some time, Eva eloquently spoke of how her life was being targeted, listing off names of people who hated her, and sneering at the fact that she still hadn't been killed. Even though Ange heard her own name included in that list, there was no particular change in her expression, and she waited indifferently for Eva to tire herself out... "
+            },
+            "UP": {
+              "japanese": "絵羽はしばらくの間、自分の命が如何に狙われているかを雄弁に語り、自分に恨みを抱いているであろう人物の名を次々に挙げては、自分がまだ殺されずにいることを嘲笑う。縁寿はその中に自分の名が含まれても、特に表情も変えず、彼女が言い疲れるのを淡々と待った…。",
+              "translation": "For some time, Eva waxed eloquent about exactly how her life was being targeted, listing off names of people who likely held hatred for her, and sneering at the fact that she still hadn't been killed. Even when Ange heard her own name included in that list, her expression did not change significantly, and she waited indifferently for Eva to tire herself out..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0094"
+            ],
+            "MG": [
+              "umi3_20-L0094"
+            ],
+            "UP": [
+              "umi3_20-L0094"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "恨みを抱いているであろう marks presumed resentment, important in the surrounding paranoid assassination claims.",
+      "alternative": "Previous narration confirms she earned much hatred, but does not establish that every listed person including Ange actually hates her.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-017",
+      "kind": "WH",
+      "description": "WH says no one can stop the public abuse where Eva says no one stops it.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              177,
+              177
+            ],
+            "MG": [
+              177,
+              177
+            ],
+            "UP": [
+              177,
+              177
+            ]
+          },
+          "japanese": "そしてそれを誰も止めない！」",
+          "japanesePC": "そんな生活の中で生きていくあなたのこれからの人生は、どんなにも歪なものなのかしらね…？　あんたの味方は誰もいない！　あんたの悩みなど誰も聞かない。あなたを罵ることは公然としたスポーツになる。そしてそれを誰も止めない！",
+          "japanesePS3": "そしてそれを誰も止めない！」",
+          "WH": "I wonder how twisted your life will become after living this way...?  You have no allies!  No one will listen to your worries.  Abusing you will become a public sport.  And no one can stop that!",
+          "MG": "And no one can stop that!\"",
+          "UP": "And no one can stop that!\"",
+          "note": "Can can rhetorically stress perceived inevitability, but the source presents abandoned social support rather than incapacity.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_20-L0174",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0172",
+              "umi3_20-L0174"
+            ],
+            "MG": [
+              "umi3_20-L0174"
+            ],
+            "UP": [
+              "umi3_20-L0174"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あんたの味方は誰もいない！　あんたの悩みなど誰も聞かない。あなたを罵ることは公然としたスポーツになる。そしてそれを誰も止めない！」",
+              "translation": "You have no allies! No one will listen to your worries. Abusing you will become a public sport. And no one can stop that!\" "
+            },
+            "UP": {
+              "japanese": "「あんたの味方は誰もいない！　あんたの悩みなど誰も聞かない。あなたを罵ることは公然としたスポーツになる。そしてそれを誰も止めない！」",
+              "translation": "\"You will have no allies! No one will listen to your worries. Insulting you will become a public sport. And no one can stop that!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0172",
+              "umi3_20-L0174"
+            ],
+            "MG": [
+              "umi3_20-L0174"
+            ],
+            "UP": [
+              "umi3_20-L0174"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "誰も止めない forecasts absence of intervention, without denying ability to intervene.",
+      "alternative": "Can can rhetorically stress perceived inevitability, but the source presents abandoned social support rather than incapacity.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-018",
+      "kind": "WH",
+      "description": "WH replaces Eva finally moistening her throat with the coughing subsiding.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.addition",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              200,
+              200
+            ],
+            "MG": [
+              200,
+              200
+            ],
+            "UP": [
+              200,
+              200
+            ]
+          },
+          "japanese": "ようやく喉を潤して呼吸を整える。",
+          "japanesePC": "ようやく喉を潤して呼吸を整える。",
+          "japanesePS3": "ようやく喉を潤して呼吸を整える。",
+          "WH": "Eventually, the coughing subsided and Eva regained her normal breathing.",
+          "MG": "Eventually, the coughing subsided, and Eva regained her normal breathing.",
+          "UP": "Eventually, Eva was able to moisten her throat and regain her normal breathing.",
+          "note": "A calmer cough plausibly accompanies regular breathing, but is inferred and replaces the specified action.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_20-L0200",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0200"
+            ],
+            "MG": [
+              "umi3_20-L0200"
+            ],
+            "UP": [
+              "umi3_20-L0200"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ようやく喉を潤して呼吸を整える。\n…しかし瞳の奥のぎらぎらした凶気はまったく収まらない。",
+              "translation": "Eventually, the coughing subsided, and Eva regained her normal breathing. ...However, the glittering madness inside her eyes hadn't subsided in the slightest. "
+            },
+            "UP": {
+              "japanese": "ようやく喉を潤して呼吸を整える。\n…しかし瞳の奥のぎらぎらした凶気はまったく収まらない。",
+              "translation": "Eventually, Eva was able to moisten her throat and regain her normal breathing.\n...However, the glittering madness inside her eyes hadn't subsided in the slightest."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0200"
+            ],
+            "MG": [
+              "umi3_20-L0200"
+            ],
+            "UP": [
+              "umi3_20-L0200"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "喉を潤して follows the guard pouring water and specifies throat moistening before breathing steadies.",
+      "alternative": "A calmer cough plausibly accompanies regular breathing, but is inferred and replaces the specified action.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-HIDDEN-019",
+      "kind": "WH",
+      "description": "WH writes succeeded almost all of the fortune, using succeeded transitively where inherited or succeeded to is required.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              235,
+              235
+            ],
+            "MG": [
+              235,
+              235
+            ],
+            "UP": [
+              235,
+              235
+            ]
+          },
+          "japanese": "右代宮家のほぼ全ての財産を相続することとなった。",
+          "japanesePC": "“幸運にも”右代宮絵羽はこれを逃れ、右代宮家のほぼ全ての財産を相続することとなった。",
+          "japanesePS3": "右代宮家のほぼ全ての財産を相続することとなった。",
+          "WH": "'Fortunately', Ushiromiya Eva escaped from that, and succeeded almost all of the Ushiromiya family's fortune.",
+          "MG": "and inherited almost all of the Ushiromiya family's fortune.",
+          "UP": "and succeeded almost all of the Ushiromiya family's fortune.",
+          "note": "Succeeded can describe coming into property only with to; it cannot directly take the fortune as object in this construction.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_20-L0230",
+          "readerRefs": {
+            "WH": [
+              "umi3_20-L0230"
+            ],
+            "MG": [
+              "umi3_20-L0230"
+            ],
+            "UP": [
+              "umi3_20-L0230"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "１９８６年１０月４日。六軒島で、右代宮家恒例の、そして最後の親族会議が開かれた。そしてその翌日の１０月５日。“とても不幸な事故”が起こり、右代宮家一族は全滅した。“幸運にも”右代宮絵羽はこれを逃れ、右代宮家のほぼ全ての財産を相続することとなった。",
+              "translation": "October 4, 1986. On Rokkenjima, the Ushiromiya family's customary...and final family conference was held. And on the next day, October 5... \"An extremely unfortunate accident\" occurred, and the Ushiromiya family was wiped out. \"Fortunately\", Ushiromiya Eva escaped from that... and inherited almost all of the Ushiromiya family's fortune. "
+            },
+            "UP": {
+              "japanese": "１９８６年１０月４日。六軒島で、右代宮家恒例の、そして最後の親族会議が開かれた。そしてその翌日の１０月５日。“とても不幸な事故”が起こり、右代宮家一族は全滅した。“幸運にも”右代宮絵羽はこれを逃れ、右代宮家のほぼ全ての財産を相続することとなった。",
+              "translation": "October 4th, 1986. On Rokkenjima, the Ushiromiya family's customary and final family conference was held. And on the next day, October 5th... an \"extremely unfortunate accident\" occurred, and the Ushiromiya family was wiped out. \"As good luck would have it\", Ushiromiya Eva escaped from that, and succeeded almost all of the Ushiromiya family's fortune."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_20-L0230"
+            ],
+            "MG": [
+              "umi3_20-L0230"
+            ],
+            "UP": [
+              "umi3_20-L0230"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "相続する specifies inheritance of nearly all wealth.",
+      "alternative": "Succeeded can describe coming into property only with to; it cannot directly take the fortune as object in this construction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH20-001-120-001",
+      "kind": "additional",
+      "description": "MG misspells Ange’s Japanese name as 縝寿 instead of 縁寿 in the inline name introduction.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              14,
+              14
+            ],
+            "MG": [
+              14,
+              14
+            ],
+            "UP": [
+              14,
+              14
+            ]
+          },
+          "japanese": "「……縁寿さんが下のロビーに到着しました。",
+          "japanesePC": "",
+          "japanesePS3": "「……縁寿さんが下のロビーに到着しました。",
+          "WH": "",
+          "MG": "\"...Ange (縝寿)-san has arrived in the lobby below.",
+          "UP": "\"......Ange (縁寿)‐san has arrived in the lobby below.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_20-L0014",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0014"
+            ],
+            "UP": [
+              "umi3_20-L0014"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……縁寿さんが下のロビーに到着しました。お通ししてよろしいですか」",
+              "translation": "\"...Ange (縝寿)-san has arrived in the lobby below. Should we let her pass?\" "
+            },
+            "UP": {
+              "japanese": "「……縁寿さんが下のロビーに到着しました。お通ししてよろしいですか」",
+              "translation": "\"......Ange (縁寿)‐san has arrived in the lobby below. Should we let her pass?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0014"
+            ],
+            "UP": [
+              "umi3_20-L0014"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The guard announces Ange, 縁寿.",
+      "alternative": "The English Ange remains correct, but the displayed Japanese name contains a different character. Original PC and UP preserve 縁寿.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH20-001-120-002",
+      "kind": "additional",
+      "description": "MG repeats the absence of a surviving child and omits the accompanying complaint that her fortune will also be stolen.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              108,
+              111
+            ],
+            "MG": [
+              108,
+              111
+            ],
+            "UP": [
+              108,
+              111
+            ]
+          },
+          "japanese": "……子も残せず、\n…財産すらも奪われるなんて、\n………それが私には、\n……許せない…………！」",
+          "japanesePC": "",
+          "japanesePS3": "……子も残せず、\n…財産すらも奪われるなんて、\n………それが私には、\n……許せない…………！」",
+          "WH": "",
+          "MG": "......To think that not only will I not leave a child,\n...without even leaving behind a child...\n......That,\n...I cannot forgive......!\"",
+          "UP": "......To think that not only will I not leave a child,\n...but even my fortune will be stolen,\n.........that, to me, is just...\n...unforgivable............!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_20-L0104",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0104"
+            ],
+            "UP": [
+              "umi3_20-L0104"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………譲治のために築いた未来だった。……それを、あんたに掠め取られるなんて。…留弗夫の娘に奪われるなんて…。………私は悔しい。……子も残せず、…財産すらも奪われるなんて、………それが私には、……許せない…………！」",
+              "translation": "\"......I built this future for George's sake. ...To think that it would be snatched away by you. ...To think that it would be stolen away by Rudolf's daughter... ......I can't bear it. ......To think that not only will I not leave a child, ...without even leaving behind a child... ......That, ...I cannot forgive......!\" "
+            },
+            "UP": {
+              "japanese": "「………譲治のために築いた未来だった。……それを、あんたに掠め取られるなんて。…留弗夫の娘に奪われるなんて…。………私は悔しい。……子も残せず、…財産すらも奪われるなんて、………それが私には、……許せない…………！」",
+              "translation": "\".........I built this future for George's sake. ......To think that it would be snatched away by you. ...To think that it would be stolen by Rudolf's daughter... .........I can't bear it. ......To think that not only will I not leave a child, ...but even my fortune will be stolen, .........that, to me, is just... ...unforgivable............!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0104"
+            ],
+            "UP": [
+              "umi3_20-L0104"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "She leaves no child and even her fortune is taken, which she cannot forgive.",
+      "alternative": "The earlier fortune complaint at105–106 supplies context, but the repeated child clause removes the source’s paired culmination. PCWH212674 and UP preserve the fortune clause.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH20-121-240-001",
+      "kind": "additional",
+      "description": "MG omits to after great in great let you have that kind of life.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              163,
+              163
+            ],
+            "MG": [
+              163,
+              163
+            ],
+            "UP": [
+              163,
+              163
+            ]
+          },
+          "japanese": "そんな日々に、若くて先の長いあなたを、ぜひ招待してあげようと思いついたの。",
+          "japanesePC": "",
+          "japanesePS3": "そんな日々に、若くて先の長いあなたを、ぜひ招待してあげようと思いついたの。",
+          "WH": "",
+          "MG": "I decided it'd be great let you have that kind of life, when you're so young and have so much ahead of you.",
+          "UP": "I realized that I would love to invite you to that kind of life, when you are so young and have so much ahead of you.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_20-L0162",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0162"
+            ],
+            "UP": [
+              "umi3_20-L0162"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あぁ、本当に素敵な毎日よ？　そんな日々に、若くて先の長いあなたを、ぜひ招待してあげようと思いついたの。本当に素敵でしょう？」",
+              "translation": "Oh, every day really is wonderful, you see? I decided it'd be great let you have that kind of life, when you're so young and have so much ahead of you. Doesn't that sound absolutely wonderful?\" "
+            },
+            "UP": {
+              "japanese": "「あぁ、本当に素敵な毎日よ？　そんな日々に、若くて先の長いあなたを、ぜひ招待してあげようと思いついたの。本当に素敵でしょう？」",
+              "translation": "\"Oh, every day really is wonderful, you see? I realized that I would love to invite you to that kind of life, when you are so young and have so much ahead of you. Isn't that just to die for?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0162"
+            ],
+            "UP": [
+              "umi3_20-L0162"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva wants to invite Ange into that life.",
+      "alternative": "The meaning is clear but the infinitive requires to. Original WH PC212755 and UP have a grammatical construction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH20-241-360-001",
+      "kind": "additional",
+      "description": "MG writes as though if were absolute truth instead of as though it were.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              282,
+              282
+            ],
+            "MG": [
+              282,
+              282
+            ],
+            "UP": [
+              282,
+              282
+            ]
+          },
+          "japanese": "彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+          "japanesePC": "",
+          "japanesePS3": "彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+          "WH": "",
+          "MG": "even if there was no proof, it would be whispered—whispered as though if were absolute truth—that she had imposed her will on the school staff.",
+          "UP": "it was baselessly whispered as truth that the school was operating according to her wishes, and that she had something to do with it.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_20-L0279",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0279"
+            ],
+            "UP": [
+              "umi3_20-L0279"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "右代宮絵羽はその頃、ワイドショーを常に賑わせ、数々の経済的悪行で常に取り沙汰されていた。……その“娘”であると知る周囲は、自然と彼女を敬遠していく。…彼女は今や、学園においても魔女と呼ばれ、何か良からぬことがある度に、彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+              "translation": "During that time, the talk shows were always mentioning Ushiromiya Eva, always spreading rumors about her countless financial misdeeds. ...Those who knew who her \"daughter\" was naturally began to keep their distance. ...Even now, she was called a witch at school, and anytime something bad happened, even if there was no proof, it would be whispered—whispered as though if were absolute truth—that she had imposed her will on the school staff. "
+            },
+            "UP": {
+              "japanese": "右代宮絵羽はその頃、ワイドショーを常に賑わせ、数々の経済的悪行で常に取り沙汰されていた。……その“娘”であると知る周囲は、自然と彼女を敬遠していく。…彼女は今や、学園においても魔女と呼ばれ、何か良からぬことがある度に、彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+              "translation": "During that time, the talk shows were always talking about Ushiromiya Eva, and always spreading rumors about her many financial evil deeds. ......Those who found out that she was her \"daughter\" naturally began to keep their distance. ...Even now, she was called a witch at school, and any time something adverse happened, it was baselessly whispered as truth that the school was operating according to her wishes, and that she had something to do with it."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0279"
+            ],
+            "UP": [
+              "umi3_20-L0279"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The rumor is whispered as if true.",
+      "alternative": "The meaning is clear, but if cannot serve as the subject. PCWH213034 lacks this typo.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH20-241-360-002",
+      "kind": "additional",
+      "description": "MG combines that and the same in Every time I had that the same dream.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              318,
+              318
+            ],
+            "MG": [
+              318,
+              318
+            ],
+            "UP": [
+              318,
+              318
+            ]
+          },
+          "japanese": "……私は同じ夢を見る度に、",
+          "japanesePC": "",
+          "japanesePS3": "……私は同じ夢を見る度に、",
+          "WH": "",
+          "MG": "...Every time I had that the same dream,",
+          "UP": "......Whenever I have that dream,",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_20-L0318",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0318"
+            ],
+            "UP": [
+              "umi3_20-L0318"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……私は同じ夢を見る度に、さらに力強く手を伸ばそうと、夢の中で無駄な努力を繰り返すのだ。せめて戦人兄さんだけでも、生きていてくれたなら。………私はこの冷たく寂しい現実を、せめて二人で支えあいながら生きていけるのではないか。でも、その手はいつも、届かない。",
+              "translation": "...Every time I had that the same dream, I uselessly tried to stretch out my hand even more forcefully, over and over and over. Even if only Battler nii-san had lived... ......Then, perhaps, we'd at least be able to support each other in my cold and lonely reality. But his hand never reaches me. "
+            },
+            "UP": {
+              "japanese": "……私は同じ夢を見る度に、さらに力強く手を伸ばそうと、夢の中で無駄な努力を繰り返すのだ。せめて戦人兄さんだけでも、生きていてくれたなら。………私はこの冷たく寂しい現実を、せめて二人で支えあいながら生きていけるのではないか。でも、その手はいつも、届かない。",
+              "translation": "......Whenever I have that dream, I repeat my useless effort inside the dream, trying to stretch out my hand even more forcefully. If only Battler nii‐san at least could have lived... .........then perhaps, at least the two of us could have supported each other through life in this cold and lonely reality. But his hand never reaches me."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0318"
+            ],
+            "UP": [
+              "umi3_20-L0318"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Each occurrence of the same dream repeats her effort.",
+      "alternative": "Either that dream or the same dream works; their combination is ungrammatical. PCWH213174 has the same dream.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH20-241-360-003",
+      "kind": "additional",
+      "description": "MG changes a rumor that the school acted in accordance with Ange’s wishes into a claim that she imposed her will on the staff.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              282,
+              282
+            ],
+            "MG": [
+              282,
+              282
+            ],
+            "UP": [
+              282,
+              282
+            ]
+          },
+          "japanese": "彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+          "japanesePC": "",
+          "japanesePS3": "彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+          "WH": "",
+          "MG": "even if there was no proof, it would be whispered—whispered as though if were absolute truth—that she had imposed her will on the school staff.",
+          "UP": "it was baselessly whispered as truth that the school was operating according to her wishes, and that she had something to do with it.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_20-L0279",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0279"
+            ],
+            "UP": [
+              "umi3_20-L0279"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "右代宮絵羽はその頃、ワイドショーを常に賑わせ、数々の経済的悪行で常に取り沙汰されていた。……その“娘”であると知る周囲は、自然と彼女を敬遠していく。…彼女は今や、学園においても魔女と呼ばれ、何か良からぬことがある度に、彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+              "translation": "During that time, the talk shows were always mentioning Ushiromiya Eva, always spreading rumors about her countless financial misdeeds. ...Those who knew who her \"daughter\" was naturally began to keep their distance. ...Even now, she was called a witch at school, and anytime something bad happened, even if there was no proof, it would be whispered—whispered as though if were absolute truth—that she had imposed her will on the school staff. "
+            },
+            "UP": {
+              "japanese": "右代宮絵羽はその頃、ワイドショーを常に賑わせ、数々の経済的悪行で常に取り沙汰されていた。……その“娘”であると知る周囲は、自然と彼女を敬遠していく。…彼女は今や、学園においても魔女と呼ばれ、何か良からぬことがある度に、彼女の意を汲んだ学校側が何か工作をしたのだと、証拠もなく真実のように囁かれている。",
+              "translation": "During that time, the talk shows were always talking about Ushiromiya Eva, and always spreading rumors about her many financial evil deeds. ......Those who found out that she was her \"daughter\" naturally began to keep their distance. ...Even now, she was called a witch at school, and any time something adverse happened, it was baselessly whispered as truth that the school was operating according to her wishes, and that she had something to do with it."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0279"
+            ],
+            "UP": [
+              "umi3_20-L0279"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The school is said to have arranged something by anticipating or following her wishes.",
+      "alternative": "Both suggest influence, but imposed her will adds coercive action by Ange. PCWH213034 and UP retain the school’s action.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH20-361-452-001",
+      "kind": "additional",
+      "description": "MG changes the nearest cage into the cage that wraps the tightest around Ange.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              430,
+              430
+            ],
+            "MG": [
+              430,
+              430
+            ],
+            "UP": [
+              430,
+              430
+            ]
+          },
+          "japanese": "…護衛とは名ばかり。\n私を閉じ込める、もっとも身近な檻じゃないか。",
+          "japanesePC": "",
+          "japanesePS3": "…護衛とは名ばかり。\n私を閉じ込める、もっとも身近な檻じゃないか。",
+          "WH": "",
+          "MG": "...They're only \"guards\" in name. Aren't they the cage that wraps the tightest around me, shutting me in?",
+          "UP": "...“Guards” only in name.\nAren't they the cage that's closest to me, shutting me in?",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_20-L0427",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0427"
+            ],
+            "UP": [
+              "umi3_20-L0427"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その時、バタンという音が聞こえた。\n…屋上へ通じる階段室の扉の開く音だ。絵羽伯母さんのところの護衛どもだった。…護衛とは名ばかり。\n私を閉じ込める、もっとも身近な檻じゃないか。",
+              "translation": "At that time, I heard a *clunk*. ...It was the sound of the door that opened to the staircase to the roof. It was Aunt Eva's guards. ...They're only \"guards\" in name. Aren't they the cage that wraps the tightest around me, shutting me in? "
+            },
+            "UP": {
+              "japanese": "その時、バタンという音が聞こえた。\n…屋上へ通じる階段室の扉の開く音だ。絵羽伯母さんのところの護衛どもだった。…護衛とは名ばかり。\n私を閉じ込める、もっとも身近な檻じゃないか。",
+              "translation": "Just then, I heard a slam.\n...It was the sound of the door connecting the staircase to the roof being opened. There were Aunt Eva's guards. ...“Guards” only in name.\nAren't they the cage that's closest to me, shutting me in?"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0427"
+            ],
+            "UP": [
+              "umi3_20-L0427"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The surrounding guards are the cage closest to her.",
+      "alternative": "Both convey confinement, but source proximity becomes comparative severity of restraint. PCWH213492 and UP preserve closest.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-026",
+      "kind": "PC",
+      "description": "MG retains the explicit Soviet KGB reference from original PC; PS3-derived Japanese anonymizes the foreign intelligence agency.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              77,
+              77
+            ],
+            "MG": [
+              77,
+              77
+            ],
+            "UP": [
+              77,
+              77
+            ]
+          },
+          "japanese": "きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」",
+          "japanesePC": "「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっとソ連のＫＧＢで使われてた秘密の暗殺薬なのよ。…あぁ、私は殺されるのよ、殺されるのよ…！！　良かったわね、もうじき死ぬわよ、そうすればさぞやあなたの胸がすくでしょうねぇ…！」",
+          "japanesePS3": "きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」",
+          "WH": "\"......I don't have much time left.  ......These quack doctors still can't detect any of the poison that's filling me up.  .........I know.  I'm sure it's a secret assassination drug used by those Soviet KGBs.  ...Ooh, I'll be killed, I'll be killed...!!  Isn't that great!  Very soon, I will die, and then you will be so relieved...!\"",
+          "MG": "I'm sure it's some secret assassination drug used by those Soviet KGBs.",
+          "UP": "I'm sure it's that secret assassination drug, the one that foreign intelligence agency was using.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "not_recorded",
+            "UP": "not_recorded"
+          },
+          "readerRef": "umi3_20-L0074",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0074"
+            ],
+            "UP": [
+              "umi3_20-L0074"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」",
+              "translation": "\"...I don't have much time left. ...These quack doctors still can't detect any of the poison that's filling me up. ......I know. I'm sure it's some secret assassination drug used by those Soviet KGBs. "
+            },
+            "UP": {
+              "japanese": "「……私はもう長くないわ。……藪医者どもは、未だに私が盛られた毒が何かも検出できない。………わかってるの。きっと某国の諜報機関で使われてた秘密の暗殺薬なのよ」",
+              "translation": "\"......I don't have much time left. ......These quack doctors still have no idea what I was poisoned with. .........But I know. I'm sure it's that secret assassination drug, the one that foreign intelligence agency was using.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0074"
+            ],
+            "UP": [
+              "umi3_20-L0074"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-027",
+      "kind": "PC",
+      "description": "MG retains original PC threats of slave trading, mutilation and forced customer-taking; PS3 replaces them with family expulsion and scavenging bread and water.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_20",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              130,
+              132
+            ],
+            "MG": [
+              130,
+              132
+            ],
+            "UP": [
+              130,
+              132
+            ]
+          },
+          "japanese": "あるいは全ての財産を消し去り、あなたを無一文にして右代宮家から叩き出してやろうかとも思ったわ」\n「素敵でしょ？\nお上品に育てられたご令嬢が、腐ったパンや泥水を這いつくばってあさり回るのよ。",
+          "japanesePC": "……殺してしまおうとも思ったわ。あるいは全ての財産を消し去って、あなたを無一文にして人買いにでも売ってしまおうかとも思ったわ。素敵でしょ？　両手両足をブツ切りにされて死ぬまで客を取らされるのよ。あぁ、それも実に素敵だわ、",
+          "japanesePS3": "あるいは全ての財産を消し去り、あなたを無一文にして右代宮家から叩き出してやろうかとも思ったわ」\n「素敵でしょ？\nお上品に育てられたご令嬢が、腐ったパンや泥水を這いつくばってあさり回るのよ。",
+          "WH": "......I thought about killing you.  I also thought about erasing all of my wealth, leaving you penniless, and selling you off to a slave trader or something.  Wouldn't that be wonderful?  You would have your arms and legs chopped off and be made to entertain the guests until you died.  Aaah, that would be so wonderful,",
+          "MG": "I also thought about erasing all of my wealth, leaving you penniless, and selling you off to a slave trader or something.\nWouldn't that be wonderful?\nYou'd have your arms and legs chopped off and be forced to take customers until you died.",
+          "UP": "I also thought about erasing all of my wealth, leaving you penniless, and kicking you out of the Ushiromiya family or something.\"\n\"Wouldn't that be wonderful?\nA lady brought up prim and proper, made to crawl around and prowl for moldy bread and muddy water.",
+          "note": "",
+          "dispositions": {
+            "MG": "not_recorded",
+            "UP": "not_recorded"
+          },
+          "readerRef": "umi3_20-L0129",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0129",
+              "umi3_20-L0131"
+            ],
+            "UP": [
+              "umi3_20-L0129",
+              "umi3_20-L0131"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……殺してしまおうとも思ったわ。あるいは全ての財産を消し去り、あなたを無一文にして右代宮家から叩き出してやろうかとも思ったわ」\n「素敵でしょ？　お上品に育てられたご令嬢が、腐ったパンや泥水を這いつくばってあさり回るのよ。あぁ、それも実に素敵だわ、くっくっくっくっくっく！！」",
+              "translation": "\"...I thought about killing you. I also thought about erasing all of my wealth, leaving you penniless, and selling you off to a slave trader or something. \nWouldn't that be wonderful? You'd have your arms and legs chopped off and be forced to take customers until you died. Aaah, that would be so wonderful, *cackle*cackle*cackle*!!\" "
+            },
+            "UP": {
+              "japanese": "「……殺してしまおうとも思ったわ。あるいは全ての財産を消し去り、あなたを無一文にして右代宮家から叩き出してやろうかとも思ったわ」\n「素敵でしょ？　お上品に育てられたご令嬢が、腐ったパンや泥水を這いつくばってあさり回るのよ。あぁ、それも実に素敵だわ、くっくっくっくっくっく！！」",
+              "translation": "\"......I thought about just killing you. I also thought about erasing all of my wealth, leaving you penniless, and kicking you out of the Ushiromiya family or something.\"\n\"Wouldn't that be wonderful? A lady brought up prim and proper, made to crawl around and prowl for moldy bread and muddy water. Aaah, that too would be truly glorious, *cackle*cackle*cackle*cackle*!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_20-L0129",
+              "umi3_20-L0131"
+            ],
+            "UP": [
+              "umi3_20-L0129",
+              "umi3_20-L0131"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP03-HIDDEN-001": {
+      "umi3_20-L0006": {
+        "WH": [
+          "Even if someone told you that was so"
+        ],
+        "MG": [
+          "Even if someone told you that was so"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-002": {
+      "umi3_20-L0052": {
+        "WH": [
+          "extremely jealous"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-003": {
+      "umi3_20-L0052": {
+        "WH": [
+          "It couldn't be helped that this vast wealth would fall"
+        ],
+        "MG": [
+          "no one was able to complain"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-004": {
+      "umi3_20-L0121": {
+        "WH": [
+          "had searched for the founders"
+        ],
+        "MG": [
+          "had searched for the founders"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-005": {
+      "umi3_20-L0149": {
+        "WH": [
+          "Because it's stupid"
+        ]
+      },
+      "umi3_20-L0153": {
+        "WH": [
+          "Because it's stupid"
+        ],
+        "MG": [
+          "Because it's stupid"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-007": {
+      "umi3_20-L0193": {
+        "WH": [
+          "she wouldn't move a step"
+        ],
+        "MG": [
+          "she didn't intend to move a step"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-008": {
+      "umi3_20-L0283": {
+        "WH": [
+          "No one trusted her, so",
+          "No one loved her, so"
+        ],
+        "MG": [
+          "No one trusted her, so",
+          "No one loved her, so"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-009": {
+      "umi3_20-L0287": {
+        "WH": [
+          "the witch girl"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-010": {
+      "umi3_20-L0306": {
+        "WH": [
+          "couldn't really imagine"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-011": {
+      "umi3_20-L0312": {
+        "WH": [
+          "that hand will reach me"
+        ],
+        "MG": [
+          "that hand's about to touch me"
+        ],
+        "UP": {
+          "kind": "anchor-mismatch",
+          "reason": "UP unit explicitly restores I reach for the hand; note says residual defect is later line322, not restored315–316. Remove this active anchor or identify actual later comparison."
+        }
+      },
+      "umi3_20-L0318": {
+        "WH": [
+          "his hand never reached me"
+        ],
+        "MG": [
+          "his hand never reaches me"
+        ],
+        "UP": [
+          "his hand never reaches me"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-012": {
+      "umi3_20-L0396": {
+        "WH": [
+          "if it is possible for you to receive it",
+          "search for the happiest resolution for you"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-013": {
+      "umi3_20-L0406": {
+        "WH": [
+          "Trying to read any probabilities before the result is useless"
+        ],
+        "MG": [
+          "Trying to read any probabilities before the result is useless"
+        ]
+      }
+    },
+    "WH-EP03-CH17-078": {
+      "umi3_20-L0223": {
+        "MG": [
+          "give up and die right now"
+        ],
+        "UP": [
+          "give up and die now and foreverrr"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-014": {
+      "umi3_20-L0399": {
+        "WH": [
+          "there's no definite proof"
+        ],
+        "MG": [
+          "there's no definite proof"
+        ],
+        "UP": [
+          "there's no definite proof"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-015": {
+      "PC-CANDIDATE-EP03-20-V001": {
+        "WH": [
+          "can't detect any of the poison"
+        ]
+      },
+      "umi3_20-L0078": {
+        "WH": [
+          "can't detect any of the poison"
+        ]
+      },
+      "umi3_20-L0074": {
+        "MG": [
+          "can't detect any of the poison"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-016": {
+      "umi3_20-L0094": {
+        "WH": [
+          "people who held hatred for her"
+        ],
+        "MG": [
+          "people who hated her"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-017": {
+      "umi3_20-L0172": {
+        "WH": [
+          "no one can stop that"
+        ]
+      },
+      "umi3_20-L0174": {
+        "WH": [
+          "no one can stop that"
+        ],
+        "MG": [
+          "no one can stop that"
+        ],
+        "UP": [
+          "no one can stop that"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-018": {
+      "umi3_20-L0200": {
+        "WH": [
+          "the coughing subsided"
+        ],
+        "MG": [
+          "the coughing subsided"
+        ]
+      }
+    },
+    "WH-EP03-HIDDEN-019": {
+      "umi3_20-L0230": {
+        "WH": [
+          "succeeded almost all"
+        ],
+        "UP": [
+          "succeeded almost all"
+        ]
+      }
+    },
+    "PAIR-EP03-CH20-001-120-001": {
+      "umi3_20-L0014": {
+        "MG": [
+          "縝寿"
+        ]
+      }
+    },
+    "PAIR-EP03-CH20-001-120-002": {
+      "umi3_20-L0104": {
+        "MG": [
+          "not only will I not leave a child, ...without even leaving behind a child"
+        ]
+      }
+    },
+    "PAIR-EP03-CH20-121-240-001": {
+      "umi3_20-L0162": {
+        "MG": [
+          "it'd be great let you"
+        ]
+      }
+    },
+    "PAIR-EP03-CH20-241-360-001": {
+      "umi3_20-L0279": {
+        "MG": [
+          "as though if were"
+        ]
+      }
+    },
+    "PAIR-EP03-CH20-241-360-002": {
+      "umi3_20-L0318": {
+        "MG": [
+          "that the same dream"
+        ]
+      }
+    },
+    "PAIR-EP03-CH20-241-360-003": {
+      "umi3_20-L0279": {
+        "MG": [
+          "she had imposed her will on the school staff"
+        ]
+      }
+    },
+    "PAIR-EP03-CH20-361-452-001": {
+      "umi3_20-L0427": {
+        "MG": [
+          "the cage that wraps the tightest around me"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [
+    {
+      "id": "WH-EP03-HIDDEN-011",
+      "edition": "WH",
+      "ref": "umi3_20-L0318"
+    },
+    {
+      "id": "WH-EP03-HIDDEN-011",
+      "edition": "MG",
+      "ref": "umi3_20-L0318"
+    },
+    {
+      "id": "WH-EP03-HIDDEN-011",
+      "edition": "UP",
+      "ref": "umi3_20-L0318"
+    }
+  ],
+  "phraseNoteCorrections": []
+}

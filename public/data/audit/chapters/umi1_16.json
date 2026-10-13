@@ -1,1 +1,1962 @@
-{"findings":[{"id":"WH-EP01-CH16-001","kind":"WH","description":"Battler infers the others expect the circle to reveal an unpleasant message and separately says he agrees. WH asserts that we were sure to find such a message.","categories":["linguistic.wrong_subject","character.viewpoint_attribution","mystery.epistemic_status"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[35,38],"MG":[35,38],"UP":[35,38]},"japanese":"みんなは、この魔法陣にはそれほどの興味を示さなかった。\n…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。\n……それについては俺も同意する。\n…だが、だからと言って放置もできず、こうして調べ物のふりをしながら時間を潰している…。","japanesePC":"…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。","japanesePS3":"みんなは、この魔法陣にはそれほどの興味を示さなかった。\n…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。\n……それについては俺も同意する。\n…だが、だからと言って放置もできず、こうして調べ物のふりをしながら時間を潰している…。","WH":"...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish.","MG":"No one else showed that much interest in this magic circle.\n...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish.\n...I felt the same way.\n...However, I couldn't just ignore it, so I killed time by going through the motions of researching it...","UP":"No one else showed that much interest in this magic circle.\n...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish.\n......I also agreed about this.\n...However, I still couldn't let it go, so I killed time pretending to research it...","note":"Both retain shared we were sure rather than Battler inference of others expectations followed by separate agreement.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_16-L0035","readerRefs":{"WH":["umi1_16-L0035"],"MG":["umi1_16-L0035"],"UP":["umi1_16-L0035"]}}],"sourceReading":"思ったに違いない attributes a probable thought to the others whose lack of interest was just described, not certainty about the message itself.","alternative":"Battler’s next agreement partly broadens the expectation to include him, but does not make the message’s content known.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-002","kind":"WH","description":"George says Natsuhi offers to keep night watch but her body cannot sustain it, so they should rotate. WH says she told us to stay vigilant all night and our bodies cannot handle it.","categories":["linguistic.wrong_subject","character.agency_responsibility","world.space_time_continuity"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[45,50],"MG":[45,50],"UP":[45,50]},"japanese":"「戦人くんは眠くないの？\n……誰かが起きていてくれてる内に休んだ方がいいよ。\n夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。\nローテーションで休んだ方がいいよ」\n「じゃあ、兄貴が先に休めよ。\n………俺は眠気が来るまで、ちょいと調べ物をしてるさ」","japanesePC":"夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。ローテーションで休んだ方がいいよ。」","japanesePS3":"「戦人くんは眠くないの？\n……誰かが起きていてくれてる内に休んだ方がいいよ。\n夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。\nローテーションで休んだ方がいいよ」\n「じゃあ、兄貴が先に休めよ。\n………俺は眠気が来るまで、ちょいと調べ物をしてるさ」","WH":"Natsuhi oba-san told us to stay vigilant all night, but there's no way our bodies can handle that.  We should take turns sleeping.\"","MG":"\"Aren't you tired, Battler-kun?\n...You should take a rest while someone else stays awake.\nAunt Natsuhi said she'd stay up all night for us, but there's no way her body can handle that.\nWe should take turns sleeping.\"\n\"Then you sleep first, Aniki.\n......I'll keep researching 'til I get sleepy.\"","UP":"\"Aren't you tired, Battler‐kun?\n......You should take a rest while someone else is staying awake for you.\nAunt Natsuhi may be saying she'll stay vigilant all night, but there's no way her body can handle that.\nWe should take turns sleeping.\"\n\"Then you sleep first, Aniki.\n.........I'm gonna keep on with my little research until the drowsiness hits.\"","note":"Both restore Natsuhi offering night watch and her bodily limit, motivating rotation.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_16-L0045","readerRefs":{"WH":["umi1_16-L0045"],"MG":["umi1_16-L0045","umi1_16-L0049"],"UP":["umi1_16-L0045","umi1_16-L0049"]}}],"sourceReading":"不寝番をしてくれる assigns the service to Natsuhi, with her endurance as the concern.","alternative":"The shift proposal remains, and earlier narration still depicts her unsleeping guard, but the volunteered burden becomes an imposed group obligation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-003","kind":"WH","description":"Jessica warns Battler that researching this could get him possessed by something strange. WH warns that he will become obsessed with weird material.","categories":["linguistic.word_choice","world.world_layer","character.voice_state"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[55,60],"MG":[55,60],"UP":[55,60]},"japanese":"「…………よせよ。\nそういうのやってると、妙なのに取り憑かれちまうぜ」\n「安心しろよ。\n俺は真里亞にお墨付きをもらってるぜ。\n…俺には霊的才能はからっきしなんだとよ。\nいっひっひ…！」","japanesePC":"「…………よせよ。そういうのやってると、妙なのに取り憑かれちまうぜ。」","japanesePS3":"「…………よせよ。\nそういうのやってると、妙なのに取り憑かれちまうぜ」\n「安心しろよ。\n俺は真里亞にお墨付きをもらってるぜ。\n…俺には霊的才能はからっきしなんだとよ。\nいっひっひ…！」","WH":"\"............Give it a rest.  If you do that, you'll start getting obsessed with all this weird stuff.\"","MG":"\"......Give it a rest.\nMess around with stuff like that, and you'll end up getting possessed by something weird.\"\n\"Don't worry.\nI've been certified by Maria.\n...She said I've got no spiritual talent at all.\nIhihi...!\"","UP":"\"............I wouldn't.\nKeep that up and you'll get possessed by something weird.\"\n\"Relax.\nI've been certified by Maria.\n...She said I'm utterly lacking any spiritual talent.\nIhihi...!\"","note":"Both restore supernatural possession warning rather than becoming obsessed with material.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_16-L0055","readerRefs":{"WH":["umi1_16-L0055"],"MG":["umi1_16-L0055","umi1_16-L0057"],"UP":["umi1_16-L0055","umi1_16-L0057"]}}],"sourceReading":"妙なのに取り憑かれる is possession by something uncanny in this occult exchange; Battler answers by citing his absence of spiritual talent.","alternative":"The phrase can figuratively mean becoming fixated, but the spiritual-talent answer favors the supernatural joking warning rather than mere intellectual obsession.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-004","kind":"WH","description":"George grounds his remarriage hypothesis in Rosa sometimes emotionally taking things out on Maria. WH specifies physical hitting.","categories":["linguistic.overinterpretation","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[100,111],"MG":[100,111],"UP":[100,111]},"japanese":"「…………右代宮家では、楼座さんたちに関わる話はタブーとされているところがあります」\n「叔母さんは再婚だって考えたと思うよ。\n……でも、真里亞ちゃんの存在が枷になって、非常に難しかったんじゃないかと思うんだ。\n…………だって叔母さんは時折、\n…ものすごく感情的に真里亞ちゃんに当たっていたから」\n「…………それについては同感だぜ。\n……楼座叔母さんは、真里亞を好きになろうと努力してるように見えた」\n「……ってことはつまり、\n……好きじゃないってことなんだよな。\n………再婚の妨げになっている真里亞に、思うところがあったんだろうよ…」\n「…母親の感情的な拒絶が、きっと彼女の幼い心に深い傷を残したと思うんだ。\n……そして、どこかでオカルト趣味と出会い、心の隙間を埋めるように没頭していく」","japanesePC":"…………だって叔母さんは時折、…ものすごく感情的に真里亞ちゃんに当たっていたから。」","japanesePS3":"「…………右代宮家では、楼座さんたちに関わる話はタブーとされているところがあります」\n「叔母さんは再婚だって考えたと思うよ。\n……でも、真里亞ちゃんの存在が枷になって、非常に難しかったんじゃないかと思うんだ。\n…………だって叔母さんは時折、\n…ものすごく感情的に真里亞ちゃんに当たっていたから」\n「…………それについては同感だぜ。\n……楼座叔母さんは、真里亞を好きになろうと努力してるように見えた」\n「……ってことはつまり、\n……好きじゃないってことなんだよな。\n………再婚の妨げになっている真里亞に、思うところがあったんだろうよ…」\n「…母親の感情的な拒絶が、きっと彼女の幼い心に深い傷を残したと思うんだ。\n……そして、どこかでオカルト趣味と出会い、心の隙間を埋めるように没頭していく」","WH":"............After all, she sometimes, ...got really emotional and hit Maria-chan.\"","MG":"\"......Talking about Rosa-san's family has become a kind of taboo in the Ushiromiya family.\"\n\"I think Aunt Rosa thought about remarrying.\n...But I also believe Maria-chan may have become her shackles and made that quite difficult.\n......After all, she sometimes...\ngot really emotional and hit Maria-chan.\"\n\"......I agree with you there.\n...It looked like Aunt Rosa was trying hard to like Maria.\n...Which means...\nthat she didn't really like her.\n......She might've thought of Maria as someone who stood in the way of her remarrying...\"\n\"...I think that emotional rejection from her mother must've left some deep scars on her young heart.\n...So, she learned about this occult hobby from somewhere and immersed herself in it to bury the holes in her heart.","UP":"\"............Talking about Rosa‐san's family has become a kind of taboo in the Ushiromiya family.\"\n\"I think Auntie even thought about remarrying.\n......But I also believe Maria‐chan may have become her shackles and made that quite difficult.\n............After all, she sometimes...\ngot incredibly emotional and took it all out on Maria‐chan.\"\n\"............I agree with you there.\n......It looked like Auntie Rosa was trying hard to like Maria.\"\n\"......Which means...\n...that she didn't really like her.\n.........I'll bet she had some strong thoughts about Maria, standing in the way of her getting remarried...\"\n\"...I think that the emotional rejection from her mother must have left some deep scars on her young heart.\n......So when she learned about this occult hobby from somewhere, she immersed herself in it so she could fill the holes in her heart.\"","note":"MG retains physical hitting for emotional taking-it-out-on Maria. UP restores emotional mistreatment without added specific physical act.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_16-L0100","readerRefs":{"WH":["umi1_16-L0101"],"MG":["umi1_16-L0100","umi1_16-L0101","umi1_16-L0105","umi1_16-L0110"],"UP":["umi1_16-L0100","umi1_16-L0101","umi1_16-L0105","umi1_16-L0110"]}}],"sourceReading":"感情的に ... 当たっていた describes venting or lashing out at someone; it does not by itself specify hitting.","alternative":"Other scenes may show physical violence and the source does not exclude it. This testimony still broadens emotional mistreatment into a specific physical act without a corresponding verb.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-005","kind":"WH","description":"Battler wonders whether Maria sought witches as beings who would rescue her from maternal rejection and make her happy. WH asks whether she saved herself while seeking their help.","categories":["linguistic.wrong_subject","character.agency_responsibility","character.motivation_emotion"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[117,129],"MG":[117,129],"UP":[117,129]},"japanese":"昨日、海岸で魔女の存在を疑った時。\n…真里亞は熱くなって魔女について説明を始めたっけ。\nそして開いたページには、醜悪な姿をした魔女の絵は一枚たりともなかった。\n色とりどりに描かれた美しく、可愛らしく、楽しそうな魔女たち。\n男が想像するような禍々しさはまったくなく、\n…美しいドレスを着飾って、人の夢を何でも叶えてくれる、不思議な魔法でみんなを幸せにしてくれる存在。\n……母に愛されないという悲しみ。\n…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。\nいつか魔女がやってきて、素敵な魔法で自分を幸せにしてくれる。\n……そう信じても、成長と共に淡い夢が少しずつ引き裂かれていく現実。\n………そんな彼女の前に、\n六軒島の魔女を名乗る存在が現れて、\n幸せになれる黄金郷へ連れて行ってあげようと囁いてくれたら。","japanesePC":"…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。","japanesePS3":"昨日、海岸で魔女の存在を疑った時。\n…真里亞は熱くなって魔女について説明を始めたっけ。\nそして開いたページには、醜悪な姿をした魔女の絵は一枚たりともなかった。\n色とりどりに描かれた美しく、可愛らしく、楽しそうな魔女たち。\n男が想像するような禍々しさはまったくなく、\n…美しいドレスを着飾って、人の夢を何でも叶えてくれる、不思議な魔法でみんなを幸せにしてくれる存在。\n……母に愛されないという悲しみ。\n…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。\nいつか魔女がやってきて、素敵な魔法で自分を幸せにしてくれる。\n……そう信じても、成長と共に淡い夢が少しずつ引き裂かれていく現実。\n………そんな彼女の前に、\n六軒島の魔女を名乗る存在が現れて、\n幸せになれる黄金郷へ連れて行ってあげようと囁いてくれたら。","WH":"...Had Maria saved herself from that, seeking help from witches as beings who could give her happiness?","MG":"Yesterday, when we were down by the beach, doubting the witch...\n...Maria got all riled up and started explaining about witches.\nAnd not one of the pages had shown a picture of an ugly witch.\nThey were all brightly colored, beautiful, cute witches who looked like they were having fun.\nThere was absolutely nothing sinister about them, like a boy might have imagined.\n...They were beings adorned with beautiful dresses, who could grant anyone's dreams with their mysterious magic and who made everyone happy.\n...The sorrow of not being loved by her mother.\n...Had Maria sought help from witches as beings who could give her happiness and save her?\nSomeday, a witch would come, and using her wonderful magic, would bring Maria happiness.\n...Even though she believed that,\nas she grew older, she had to face reality as her fleeting dreams were sliced to ribbons one by one.\n...If something claiming to be the witch of Rokkenjima appeared in front of a girl like that,\nwhispering that she'd take Maria to the Golden Land, where Maria could be happy...","UP":"Yesterday, when we had doubted the witch down by the beach...\n...Maria had gotten all riled up and started explaining about witches.\nAnd not one of the pages had shown a picture of an ugly witch.\nThey were all brightly colored, beautiful, cute witches who looked like they were having fun.\nThere was absolutely nothing sinister about them, like a boy might have imagined;\n...they were beings adorned with beautiful dresses, who could grant anyone's dreams with their mysterious magic and who made everyone happy.\n......The sorrow of not being loved by her mother.\n...Had Maria sought salvation from the witches as beings who could save her from that sorrow and make her happy?\nSomeday a witch would come, and using her wonderful magic, would bring Maria happiness.\n......Even though she believed that, as she grew older, she had to face reality as her fleeting dreams were sliced to ribbons one by one.\n.........If, in front of a girl like that,\nsomething claiming to be the witch of Rokkenjima appeared,\nand whispered that she would take Maria to the Golden Land, where Maria could be happy...","note":"Both restore witches as rescuing beings and Maria seeking their help, not Maria saving herself. UP explicitly links rescue to maternal sorrow.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_16-L0117","readerRefs":{"WH":["umi1_16-L0123"],"MG":["umi1_16-L0117","umi1_16-L0123","umi1_16-L0127"],"UP":["umi1_16-L0117","umi1_16-L0123","umi1_16-L0127"]}}],"sourceReading":"自分を助けてくれて ... 存在として places saving agency with the imagined witch; 救いを求めた is seeking rescue, not achieving it.","alternative":"Seeking occult consolation can function as self-help, but the Japanese has not established successful self-rescue. The next hoped-for witch arrival reinforces the prospective rescue.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-006","kind":"WH","description":"A possible cruel aspect of Natsuhi’s expulsion becomes “a lot of brutal things have happened,” shifting the concession away from her action.","categories":["linguistic.wrong_subject","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[187,197],"MG":[187,197],"UP":[187,197]},"japanese":"「………なぁ、夏妃伯母さん。\nキツイこと聞くぜ？\n……もし、あの時、たまたま朱志香も伯母さんの後にいたなら、\n………伯母さんはこの部屋から朱志香も追い出してたかい？」\n「…………………………………」\n「確かに残酷なところはあったかもしれない。\n…でも、夏妃伯母さんは母として、娘を守りきろうと思った。\nその責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ」\n「…………俺は別にそれを責めてぇわけじゃねぇ。\nただ、その。\n………朱志香はいいお袋を持ったなって、そう思ったのさ」","japanesePC":"「確かに残酷なところはあったかもしれない。…でも、夏妃伯母さんは母として、娘を守りきろうと思った。その責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ。","japanesePS3":"「………なぁ、夏妃伯母さん。\nキツイこと聞くぜ？\n……もし、あの時、たまたま朱志香も伯母さんの後にいたなら、\n………伯母さんはこの部屋から朱志香も追い出してたかい？」\n「…………………………………」\n「確かに残酷なところはあったかもしれない。\n…でも、夏妃伯母さんは母として、娘を守りきろうと思った。\nその責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ」\n「…………俺は別にそれを責めてぇわけじゃねぇ。\nただ、その。\n………朱志香はいいお袋を持ったなって、そう思ったのさ」","WH":"\"It's true that a lot of brutal things have happened.  ...But as a mother, you thought you should protect your daughter no matter what.  Because of that duty, you chased them out, even though you knew that you would eventually be held responsible for it.","MG":"\"......Hey, Aunt Natsuhi.\nLet me say something a little harsh, okay?\n...At that time, ...what if, by coincidence, Jessica had also been standing behind you.\n......Would you have chased Jessica from the room too?\"\n\"..................\"\n\"It's true that a lot of brutal things have happened.\n...But as a mother, you thought you should protect your daughter no matter what.\nBecause of that duty, you chased them out, even though you knew that you'd eventually be held responsible for it.\n......It's not like I'm condemning that.\nBut, umm,\n......I was just thinking about what a great mother Jessica has.\"","UP":"\".........Hey, Aunt Natsuhi.\nLet me ask something a little difficult, alright?\n......If, by coincidence, Jessica had also been standing behind you at that time,\n.........would you have chased Jessica from the room too?\"\n\".......................................\"\n\"Sure, there may have been a degree of cruelty to it.\n...But, as a mother, you thought you should protect your daughter no matter what.\nAnd it was out of that duty that you sent them out, fully aware you'd eventually be held responsible for it.\"\n\"............I'm not trying to criticize you for it or anything.\nI just, umm.\n.........I was just thinking about what a great mother Jessica has.\"","note":"MG shifts cruelty concession to many brutal events. UP restores degree of cruelty in Natsuhi expulsion.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_16-L0187","readerRefs":{"WH":["umi1_16-L0192"],"MG":["umi1_16-L0187","umi1_16-L0191","umi1_16-L0192","umi1_16-L0195"],"UP":["umi1_16-L0187","umi1_16-L0191","umi1_16-L0192","umi1_16-L0195"]}}],"sourceReading":"Battler grants that her conduct may have had a cruel side, then explains her maternal duty and willingness to face condemnation.","alternative":"The following acknowledgment that she expelled them and would be held responsible retains much of the ethical argument, but does not restore the initial concession about her cruelty.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-007","kind":"WH","description":"手に掛かっていた is rendered as being “in the culprit’s grasp,” weakening the explicit counterfactual death that grounds George’s gratitude.","categories":["linguistic.idiom_calque","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[198,202],"MG":[198,202],"UP":[198,202]},"japanese":"「……そうだね。\n…夏妃伯母さんは、朝からずっと続いているこんな事件の中でも、冷静さを失わず、ずっとみんなを牽引してきてくれた」\n「……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。\n…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う」\n「……………………ありがとう」","japanesePC":"……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う。」","japanesePS3":"「……そうだね。\n…夏妃伯母さんは、朝からずっと続いているこんな事件の中でも、冷静さを失わず、ずっとみんなを牽引してきてくれた」\n「……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。\n…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う」\n「……………………ありがとう」","WH":"......If you were all confused too, the rest of us would probably be in the culprit's grasp by now.  ...So I think that we all have to thank you.\"","MG":"\"...That's right.\n...You've been dealing with these incidents since morning, and you've been pulling all of us along this whole time, without losing your composure.\n...If you were all confused too, the rest of us would probably be in the culprit's grasp by now.\n...So I think we all have to thank you.\"\n\"............Thank you.\"","UP":"\"......Yes.\n...You've been dealing with these incidents since morning, and you've been pulling all of us along this whole time, without losing your composure.\"\n\"......If you had been as confused as the rest of us, every last one of us may have been in the culprit's grasp by now.\n...So I think that we all have to thank you.\"\n\"........................Thank you.\"","note":"Both retain culprit grasp rather than counterfactual having been killed by culprit.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_16-L0198","readerRefs":{"WH":["umi1_16-L0198"],"MG":["umi1_16-L0198","umi1_16-L0202"],"UP":["umi1_16-L0198","umi1_16-L0202"]}}],"sourceReading":"George says that, had Natsuhi also lost her composure, they might all have been killed by the culprit by now.","alternative":"“In the culprit’s grasp” can suggest fatal danger in this murder context; it nevertheless describes control or capture rather than the source’s killing idiom. The English “probably” also strengthens the source possibility.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-008","kind":"WH","description":"綺麗事 is misread as Natsuhi recognizing that she is oversimplifying. This invents self-criticism of her reasoning.","categories":["linguistic.mistranslation","character.motivation_emotion","character.voice_state"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[223,229],"MG":[223,229],"UP":[223,229]},"japanese":"「……………………………。\n朱志香は、\n…………主人と結婚してから、１２年もかけてようやく授かった、……大切な娘です。\n私は、朱志香を守るためなら、どのような鬼にでもなります」\n少しだけ強い語尾…。\n綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。\n…………しかしそれは、罪の意識に苛むからゆえのもの。","japanesePC":"綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。","japanesePS3":"「……………………………。\n朱志香は、\n…………主人と結婚してから、１２年もかけてようやく授かった、……大切な娘です。\n私は、朱志香を守るためなら、どのような鬼にでもなります」\n少しだけ強い語尾…。\n綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。\n…………しかしそれは、罪の意識に苛むからゆえのもの。","WH":"She realized very well that she was oversimplifying, but even so, she was strongly resolved to protect her daughter even if she had to become a demon.","MG":"\".........\nYou are...\n...my precious daughter, ...the one I finally received a whole twelve years after I married my husband.\nI would become the worst kind of demon to protect you.\"\nThat was some pretty strong language at the end there...\nShe realized very well that her words were an idealized view of what a mother should be, but even so, she was strongly resolved to protect her daughter, even if she had to become a demon.\n......But that was her guilty conscience tormenting her.","UP":"\".................................\nJessica,\n.........you are my precious daughter, ......the daughter I was finally blessed with a whole twelve years after I married my husband.\nI would become the worst kind of demon to protect you.\"\nThat was some pretty strong language at the end there...\nShe realized very well that these were only words, but even so, she was strongly resolved to protect her daughter even if she had to become a demon.\n............But that was because she was tormented by guilt.","note":"MG retains self-criticism that own maternal words idealized. UP removes idealized maternal view but still says these were only words, attributing critique of her own statement rather than understanding others platitudes and choosing protection despite them.","dispositions":{"MG":"retained","UP":"partly_corrected"},"readerRef":"umi1_16-L0223","readerRefs":{"WH":["umi1_16-L0227"],"MG":["umi1_16-L0223","umi1_16-L0227"],"UP":["umi1_16-L0223","umi1_16-L0227"]}}],"sourceReading":"Battler understands her forceful ending as a resolve to protect her daughter even as a demon despite fully understanding the morally attractive sentiments being urged on her.","alternative":"The general conflict between maternal protection and moral qualms remains clear, and guilt follows immediately. Neither supplies the invented admission of oversimplification.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-009","kind":"WH","description":"The description that the candlestick looks suited to a dubious ritual disappears.","categories":["linguistic.omission","world.world_layer"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[355,358],"MG":[355,358],"UP":[355,358]},"japanese":"夏妃伯母さんはライフル銃を高々と構え、先頭に立つ。\n俺も素手というわけには行かない。\n怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。\n蝋燭を挿すトゲが短いながらもついているそれは、さながら三叉の槍のようだった。","japanesePC":"怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。","japanesePS3":"夏妃伯母さんはライフル銃を高々と構え、先頭に立つ。\n俺も素手というわけには行かない。\n怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。\n蝋燭を挿すトゲが短いながらもついているそれは、さながら三叉の槍のようだった。","WH":"I found a three-pronged candlestick and readied it.","MG":"Aunt Natsuhi raised the rifle high and took the lead.\nI couldn't go unarmed myself.\nI found a three-pronged candle stand and readied it.\nAlthough the pins on it used to fit candles were short, it was almost like a three-pronged spear.","UP":"Aunt Natsuhi raised the rifle high and took the lead.\nI needed a weapon myself as well.\nI found a three‐pronged candelabra, which looked like it could be used for some strange ritual, and armed myself with it.\nWith the spikes it had to fit the candles on, although they were short, it was almost like a three‐pronged spear.","note":"MG omits dubious ritual suitability of candelabra. UP explicitly restores it.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_16-L0355","readerRefs":{"WH":["umi1_16-L0355"],"MG":["umi1_16-L0355"],"UP":["umi1_16-L0355"]}}],"sourceReading":"Battler finds a three-branched candlestick that looks as though it would be used in a suspicious ritual and takes it as a weapon.","alternative":"The surrounding occult study and the retained three-pronged shape still suggest the setting. This is a local loss of the explicit ritual association, not a lost weapon dimension or solution clue.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-010","kind":"WH","description":"The passive 引きずり出されている applied to 俺たち becomes “had thrown them out.” The source’s second stage of the trap is replaced by a repetition of its first stage.","categories":["linguistic.wrong_subject","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[375,380],"MG":[375,380],"UP":[375,380]},"japanese":"ライフル銃を構え、引き金に指を掛ける夏妃伯母さんを中心に、\n俺たちは背中を寄せ合うようにしながら、周囲を警戒しつつ一塊になって移動する……。\nさっきの不和を目論むという魔法陣が、まるでその魔力で成したように。\n…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。\n……ということはつまり、今この瞬間、犯人のシナリオに乗っかっているということになる。\n…ここからは突然何が起きてもおかしくない異空間なのだ…。","japanesePC":"さっきの不和を目論むという魔法陣が、まるでその魔力で成したように。…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。","japanesePS3":"ライフル銃を構え、引き金に指を掛ける夏妃伯母さんを中心に、\n俺たちは背中を寄せ合うようにしながら、周囲を警戒しつつ一塊になって移動する……。\nさっきの不和を目論むという魔法陣が、まるでその魔力で成したように。\n…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。\n……ということはつまり、今この瞬間、犯人のシナリオに乗っかっているということになる。\n…ここからは突然何が起きてもおかしくない異空間なのだ…。","WH":"It was just as though the magic of that magic circle designed to spread discord had worked.  ...We had split up, and furthermore, had thrown them out into dangerous territory.","MG":"With Aunt Natsuhi in the center, her rifle readied and her finger on the trigger,\nwe moved in a group, our backs together, checking our surroundings in all directions...\nIt was just as though the magic of that magic circle designed to spread discord had worked.\n...We had split up, and furthermore, had been dragged out into dangerous territory.\n...In other words, even now, we were doing just what the culprit wanted us to do.\n...This was a separate world where it wouldn't be odd for anything to suddenly occur...","UP":"With Aunt Natsuhi in the center, her rifle readied and her finger on the trigger,\nwe moved in a group, our backs together, checking our surroundings in all directions......\nAs though the power of that magic circle designed to spread discord had brought it all into being,\n...we had split up, and furthermore, had been dragged into dangerous territory.\n......In other words, even now in this very moment, we were doing just what the culprit wanted us to do.\n...This was now a strange space where it wouldn't be odd for anything to suddenly occur...","note":"Both restore we were divided and dragged into danger as second stage, not merely repeating expulsion of others.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_16-L0375","readerRefs":{"WH":["umi1_16-L0375"],"MG":["umi1_16-L0375"],"UP":["umi1_16-L0375"]}}],"sourceReading":"The discord circle seems to have worked: the group has split, and now they themselves have additionally been dragged out into dangerous territory.","alternative":"Rows 38697–38698 correctly say they were lured out of their safe room, so the English reader can reconstruct the event. The present sentence nonetheless changes the causal summary and who is now endangered.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-011","kind":"WH","description":"The simile adds a graduation ceremony where the source describes being ordered to sing in a school lesson or similar setting.","categories":["linguistic.addition","world.culture_history","character.voice_state"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[407,412],"MG":[407,412],"UP":[407,412]},"japanese":"耳を凝らすと、………かすかに聞こえる。\n……真里亞の、不思議な歌声が。\nそれは、機嫌がよくて自然と口に出てしまうような歌い方ではない。\n………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。\n…歌っている歌は、誰もが学校で一度は歌ったことがあるに違いない平凡な民謡。\n……しかし、それを、なぜ、こんな深夜に、ひとりで、一生懸命に、ずっと、どうして…？！","japanesePC":"………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。","japanesePS3":"耳を凝らすと、………かすかに聞こえる。\n……真里亞の、不思議な歌声が。\nそれは、機嫌がよくて自然と口に出てしまうような歌い方ではない。\n………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。\n…歌っている歌は、誰もが学校で一度は歌ったことがあるに違いない平凡な民謡。\n……しかし、それを、なぜ、こんな深夜に、ひとりで、一生懸命に、ずっと、どうして…？！","WH":".........She was singing mechanically, like she was at a graduation ceremony and she'd been ordered to.","MG":"When we listened carefully, ......we could hear it faintly.\n...Maria's eerie singing voice.\nShe wasn't singing naturally, as though she were in a good mood.\n......She was singing mechanically, like she was at a graduation ceremony and she'd been ordered to.\n...The song she sang was just a common folk song, one that everyone has probably sung in school at one time or another.\n...But why that, in the middle of the night, alone, with all her heart, over and over, why...?!","UP":"When we listened carefully, .........we could hear it faintly.\n......Maria's eerie singing voice.\nShe wasn't singing naturally, as though she were in a good mood.\n.........She was singing mechanically, as if she was in music class in school and had been ordered to sing.\n...The song she was singing was just a common folk song, one that everyone has probably sung in school at one time or another.\n......But why that, in the middle of the night, alone, with all her heart, over and over, why...?!","note":"MG retains added graduation ceremony; UP restores school music class.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_16-L0405","readerRefs":{"WH":["umi1_16-L0409"],"MG":["umi1_16-L0405","umi1_16-L0409"],"UP":["umi1_16-L0405","umi1_16-L0409"]}}],"sourceReading":"Maria sings mechanically, like someone singing because a school class requires it, rather than spontaneously from good spirits.","alternative":"A graduation ceremony can also involve compulsory singing and retains the mechanical-performance comparison. It still supplies an unsupported ceremonial occasion and its associations.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-012","kind":"WH","description":"今朝からずっと becomes “In the morning ... the whole time,” contracting the retrospective duration.","categories":["linguistic.tense_aspect","world.space_time_continuity"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[434,439],"MG":[434,439],"UP":[434,439]},"japanese":"客間の中からは、同じ歌をいつまでも何度も繰り返す真里亞の声がずっと聞こえている。\n……それは例えるなら壊れた、イカれたカセットテープ…。\n今朝からずっとこの部屋の中にいた。\n…いつも恐ろしいことはこの部屋の外で起こった。\n…だから、この部屋だけは安全だと思い込んできた。\n………その、根拠なき思い込みが、あっさりと崩れ去っていく……。","japanesePC":"今朝からずっとこの部屋の中にいた。","japanesePS3":"客間の中からは、同じ歌をいつまでも何度も繰り返す真里亞の声がずっと聞こえている。\n……それは例えるなら壊れた、イカれたカセットテープ…。\n今朝からずっとこの部屋の中にいた。\n…いつも恐ろしいことはこの部屋の外で起こった。\n…だから、この部屋だけは安全だと思い込んできた。\n………その、根拠なき思い込みが、あっさりと崩れ去っていく……。","WH":"In the morning, we had been in that room the whole time.","MG":"The whole time, we could hear Maria's voice from the parlor, singing the same song over and over.\n...It was like a broken, crazy cassette tape...\nWe'd been in that room almost constantly since morning.\n...All the frightening things had occurred outside that room.\n...That had left us with the impression that only this room was safe.\n......That baseless impression was quickly falling apart...","UP":"The whole time, we could hear Maria's voice from the parlor, singing the same song over and over.\n......It was like a broken, crazy cassette tape...\nIn the morning, we had been in that room the whole time.\n...All of the frightening things had occurred outside that room.\n...So, we had convinced ourselves that even if nowhere else could be trusted, that room alone was safe.\n.........That baseless impression was quickly falling apart......","note":"MG restores almost constantly since morning. UP retains in the morning whole time, shortening retrospective duration.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi1_16-L0434","readerRefs":{"WH":["umi1_16-L0436"],"MG":["umi1_16-L0434","umi1_16-L0436"],"UP":["umi1_16-L0434","umi1_16-L0436"]}}],"sourceReading":"They had been in this room throughout the time since that morning; horrors occurring elsewhere had encouraged an unfounded belief that it was safe.","alternative":"Their excursions mean the Japanese itself is a rhetorical generalization rather than literal continuous occupancy. Rows 38938–38939 later correctly say they spent almost the entire day there, limiting the harm.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-013","kind":"WH","description":"“Like I’d quit now” reverses Battler’s expressed wish to say he does not want to go after all.","categories":["linguistic.mistranslation","character.voice_state","character.irony_performance"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[443,451],"MG":[443,451],"UP":[443,451]},"japanese":"「……伯母さん。\n一気に飛び込んで左右に分かれよう。\n扉を開けてぼさっとしてたら、例のアイスピックがど真ん中に飛んでくるかもしれねぇぜ…！」\n「承知しています。\n………いいですか…？」\n「いっひっひ…！\nやっぱ嫌だって言いてぇなぁ…！」\n俺は覚悟を決める。\n…向こうがアイスピックを投げてくるってんなら、俺だってこの燭台をお見舞いしてやるッ！！","japanesePC":"「いっひっひ…！　やっぱ嫌だって言いてぇなぁ…！」","japanesePS3":"「……伯母さん。\n一気に飛び込んで左右に分かれよう。\n扉を開けてぼさっとしてたら、例のアイスピックがど真ん中に飛んでくるかもしれねぇぜ…！」\n「承知しています。\n………いいですか…？」\n「いっひっひ…！\nやっぱ嫌だって言いてぇなぁ…！」\n俺は覚悟を決める。\n…向こうがアイスピックを投げてくるってんなら、俺だってこの燭台をお見舞いしてやるッ！！","WH":"\"Ihihi...!  Like I'd quit now...!\"","MG":"\"...Aunt Natsuhi,\nlet's jump in at the same time and split up in different directions.\nIf we just stand around after opening the door, those icepicks might fly right through the center...!\"\n\"I agree.\n......Ready...?\"\n\"Ihihi...!\nI really wish I could say \"no\"...!\"\nI readied myself.\n...If they're gonna be throwing icepicks, I'll whack 'em with this candle stand!!","UP":"\"......Auntie.\nLet's all jump in at once and split up in different directions.\nIf we just stand around after opening the door, those icepicks might fly right through the center...!\"\n\"I'm well aware.\n.........Ready...?\"\n\"Ihihi...!\nActually, I kinda wish I could call it quits...!\"\nI readied myself.\n...If they're going to throw icepicks at me, we'll see how they like my candlestick!!","note":"Both restore wish to decline/quit instead of defiant refusal to quit.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_16-L0443","readerRefs":{"WH":["umi1_16-L0448"],"MG":["umi1_16-L0443","umi1_16-L0446","umi1_16-L0448","umi1_16-L0450"],"UP":["umi1_16-L0443","umi1_16-L0446","umi1_16-L0448","umi1_16-L0450"]}}],"sourceReading":"With a nervous laugh, Battler says he would like to say “actually, I don’t want to,” then steels himself and imagines striking back with the candlestick.","alternative":"His laugh and the following resolve still show him coping with danger. Nevertheless, the translated line makes him boast that he would never back out rather than admit his wish to do so.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-014","kind":"WH","description":"冗談も休み休み言いやがれ is rendered “Calmly joking at a time like this,” treating an idiomatic rebuke as an observation about the manner and timing of a joke.","categories":["linguistic.idiom_calque","character.voice_state"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[551,554],"MG":[551,554],"UP":[551,554]},"japanese":"「はぁッ？！\n冗談も休み休み言いやがれッ！！！\nそんなわけねぇだろ？！\nお前は何を言ってやがるんだ？！」","japanesePC":"「はぁッ？！　冗談も休み休み言いやがれッ！！！　そんなわけねぇだろ？！　お前は何を言ってやがるんだ？！」","japanesePS3":"「はぁッ？！\n冗談も休み休み言いやがれッ！！！\nそんなわけねぇだろ？！\nお前は何を言ってやがるんだ？！」","WH":"\"Huuhh?!  Calmly joking at a time like this?!!!  Like hell that happened!  What are you saying?!\"","MG":"\"Huuhh?!\nCalmly joking at a time like this?!!!\nLike hell that happened!\nWhat are you saying?!\"","UP":"\"Huuhh?!\nGive it a rest with your goddamn jokes!!!\nLike hell that happened!\nWhat are you going on about?!\"","note":"MG retains Calmly joking at a time like this; UP correctly gives idiomatic imperative Give it a rest with your goddamn jokes.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_16-L0551","readerRefs":{"WH":["umi1_16-L0551"],"MG":["umi1_16-L0551"],"UP":["umi1_16-L0551"]}}],"sourceReading":"Battler angrily dismisses the butterfly-entry account as absurd: roughly, give the nonsense a rest.","alternative":"The following “Like hell that happened” and “What are you saying” retain his disbelief. A rebuke about joking is contextually possible, but “calmly” does not convey the idiom’s force.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-015","kind":"WH","description":"自負する becomes “bearing the title,” giving formal-title language to her own proud claim of representation.","categories":["linguistic.overinterpretation","character.relationship_power","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[642,644],"MG":[642,644],"UP":[642,644]},"japanese":"「……右代宮家の代表であると自負する私と、\n右代宮家の当主を引き継いだと自称する貴女が、今この場にいる。\n……あなたが本当に魔女なのかどうかは、今となっては些細な問題です！」","japanesePC":"……右代宮家の代表であると自負する私と、","japanesePS3":"「……右代宮家の代表であると自負する私と、\n右代宮家の当主を引き継いだと自称する貴女が、今この場にいる。\n……あなたが本当に魔女なのかどうかは、今となっては些細な問題です！」","WH":"......Both I, bearing the title of representative to the Ushiromiya family,","MG":"\"...Both I who bear the title of representative to the Ushiromiya family...\nand you who claim to succeed the Headship of the Ushiromiya family...are here right now.\n...At this point, whether you are a witch or not is a trivial matter!\"","UP":"\"......Both I, bearing the title of representative to the Ushiromiya family,\nand you, claiming to have succeeded the head of the Ushiromiya family, are here right now.\n......At this point, whether you are a witch or not is a trivial problem!\"","note":"Both retain bearing the title rather than her self-professed pride in representation; Beatrice’s own claim remains distinguished.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_16-L0642","readerRefs":{"WH":["umi1_16-L0642"],"MG":["umi1_16-L0642"],"UP":["umi1_16-L0642"]}}],"sourceReading":"Natsuhi describes herself as someone who takes pride in being the family’s representative, opposing Beatrice’s self-proclaimed succession.","alternative":"She has already introduced herself as the representative, and “bearing the title” can be loose rhetoric. It nevertheless omits the source’s explicit self-assessment and suggests an established designation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-016","kind":"WH","description":"The assertive 銃声だぜ and 撃ったんだ become “Was that ...?” and “Did ... shoot?”","categories":["linguistic.mistranslation","mystery.epistemic_status","character.voice_state"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[667,670],"MG":[667,670],"UP":[667,670]},"japanese":"「今のは銃声だぜ？！\n夏妃伯母さんが撃ったんだッ！！」\n誰を？\n犯人をだッ！！！","japanesePC":"「今のは銃声だぜ？！　夏妃伯母さんが撃ったんだッ！！」","japanesePS3":"「今のは銃声だぜ？！\n夏妃伯母さんが撃ったんだッ！！」\n誰を？\n犯人をだッ！！！","WH":"\"Was that the sound of a gun just now?!  Did Natsuhi oba-san shoot?!!\"","MG":"\"Was that the sound of a gun just now?!\nDid Aunt Natsuhi shoot?!!\"\nAt whom?\nAt the culprit!!!","UP":"\"That was the sound of a gun just now!!\nAunt Natsuhi just shot!!\"\nAt who?\nAt the culprit!!!","note":"MG retains questions Was that and Did Aunt Natsuhi shoot; UP restores declarative sound-of-gun and Natsuhi-shot assertions. Target identification remains Battler’s inference in all witnesses.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_16-L0667","readerRefs":{"WH":["umi1_16-L0667"],"MG":["umi1_16-L0667","umi1_16-L0669"],"UP":["umi1_16-L0667","umi1_16-L0669"]}}],"sourceReading":"Battler emphatically says that was a gunshot and that Natsuhi fired it. He then supplies his own confident answer that she shot at the culprit.","alternative":"The Japanese has excited interrogative punctuation, but its declarative predicates and the subsequent question-and-answer about the target establish assertions. The English following line retains his culprit inference.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-017","kind":"WH","description":"そこは becomes “We were,” relocating the observers to the portrait rather than identifying the place in the darkness toward which Maria ran.","categories":["linguistic.wrong_subject","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[747,756],"MG":[747,756],"UP":[747,756]},"japanese":"真里亞が突然、嬉しそうに叫び、暗がりへ駆けて行く。\nそれはまるで、……その暗がりの中に、ベアトリーチェがいて、駆け寄っていくみたいじゃないか。\n俺は銃口越しに、\n朱志香は母の屍を抱きながら、\n譲治の兄貴は呆然としながら、\n……その闇の向こうを見る…。\nそこは、ベアトリーチェの肖像画の前。\nそして、真里亞が飛びつくのは、\n……肖像画の、\n…人物。","japanesePC":"そこは、ベアトリーチェの肖像画の前。","japanesePS3":"真里亞が突然、嬉しそうに叫び、暗がりへ駆けて行く。\nそれはまるで、……その暗がりの中に、ベアトリーチェがいて、駆け寄っていくみたいじゃないか。\n俺は銃口越しに、\n朱志香は母の屍を抱きながら、\n譲治の兄貴は呆然としながら、\n……その闇の向こうを見る…。\nそこは、ベアトリーチェの肖像画の前。\nそして、真里亞が飛びつくのは、\n……肖像画の、\n…人物。","WH":"We were in front of Beatrice's portrait.","MG":"Maria suddenly called out happily and ran towards the darkness.\nIt was almost as though Beatrice was somewhere in that darkness, and Maria was running up to her.\nAs Jessica hugged her mother's corpse,\nas George-aniki stood there, confused,\nI looked down the barrel of the rifle,\n...gazing into the darkness...\nThe space in front of Beatrice's portrait lay in that direction.\nAnd...the thing Maria was running up to was...\nthe portrait's...\nsubject.","UP":"Maria suddenly called out happily, and ran towards the darkness.\nIt was almost as though......Beatrice was somewhere in that darkness, and Maria was running up to her.\nAs I looked down the barrel of the rifle,\nas Jessica hugged her mother's corpse,\nas George‐aniki stood there shocked,\n......we gazed into the darkness...\nOur eyes...fixed just in front of Beatrice's portrait.\nAnd there, Maria leapt into a hug...\n...with the portrait's...\nsubject.","note":"MG explicitly places portrait space in direction of gaze; UP fixes eyes on portrait destination. Neither relocates group there.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_16-L0747","readerRefs":{"WH":["umi1_16-L0753"],"MG":["umi1_16-L0747","umi1_16-L0749","umi1_16-L0753"],"UP":["umi1_16-L0747","umi1_16-L0749","umi1_16-L0753"]}}],"sourceReading":"The place they look toward, where Maria runs and clings to the portrait’s subject, is in front of Beatrice’s portrait.","alternative":"All are in the entrance hall and might be described loosely as in front of the portrait. The local referent nevertheless follows Maria’s movement into the darkness and their looking toward it, not a statement about the group’s position.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH16-018","kind":"WH","description":"“isn’t 24:00 is a strange time” contains both contracted and repeated finite “is.”","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[739,745],"MG":[739,745],"UP":[739,745]},"japanese":"その言葉に俺は自分の腕時計を見る。\n２本の針は頂点で交わろうとしている。\n……もうじき、午後１２時を迎える。\n…つまり、２４時だ。\n思えば、２４時とは何と奇妙な時間なのか。\n…２４時とも呼び、０時とも呼ぶ。\n一日の全てが満ちた時間にして、…同時に新しい一日が始まるゼロの時間でもある。","japanesePC":"思えば、２４時とは何と奇妙な時間なのか。","japanesePS3":"その言葉に俺は自分の腕時計を見る。\n２本の針は頂点で交わろうとしている。\n……もうじき、午後１２時を迎える。\n…つまり、２４時だ。\n思えば、２４時とは何と奇妙な時間なのか。\n…２４時とも呼び、０時とも呼ぶ。\n一日の全てが満ちた時間にして、…同時に新しい一日が始まるゼロの時間でもある。","WH":"When you think about it, isn't 24:00 is a strange time?","MG":"Hearing those words, I looked at my wristwatch.\nBoth needles were almost touching near the top.\n...Very soon, it will be 12:00 at night.\n...In other words, 24:00.\nWhen you think about it, isn't 24:00 is a strange time?\n...It can be called 24:00, and it can also be called 0:00.\nIt's the hour at the culmination of the previous day, ...and at the same time, it's hour zero as the next day begins.","UP":"Hearing those words, I looked at my wristwatch.\nBoth hands were almost touching near the top.\n......Very soon, it would be 12 a.m.\n...In other words, 24:00.\nWhen you think about it, isn't 24:00 a strange time?\n...It can be called 24:00, and it can also be called 0:00.\nIt's the hour at the culmination of the previous day, ...and at the same time, it is hour zero as the next day begins.","note":"MG retains isn’t 24:00 is a strange time; UP removes repeated finite is.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_16-L0737","readerRefs":{"WH":["umi1_16-L0743"],"MG":["umi1_16-L0737","umi1_16-L0743"],"UP":["umi1_16-L0737","umi1_16-L0743"]}}],"sourceReading":"Battler rhetorically reflects on how strange midnight is, both the culmination of a day and hour zero of the next.","alternative":"The intended question is readily understandable. This is a small grammatical defect with no change to the temporal explanation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-MARIA-INDIRECT-QUESTION-GRAMMAR-001","kind":"additional","description":"UP uses inverted direct-question word order inside an indirect question: “can you tell me why were you facing”. George is asking why Maria faced the wall; the embedded clause requires “why you were facing”. MG retains a grammatical direct question.","categories":["linguistic.grammar"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[538,538],"MG":[538,538],"UP":[538,538]},"japanese":"「…真里亞ちゃんは、……どうして壁を向いてお歌を歌っていたのかな…？」","japanesePC":"","japanesePS3":"「…真里亞ちゃんは、……どうして壁を向いてお歌を歌っていたのかな…？」","WH":"","MG":"\"...Maria-chan, ...why were you facing the wall and singing...?\"","UP":"\"...Maria‐chan, ......can you tell me why were you facing the wall and singing that song...?\"","note":"","dispositions":{"MG":"correct","UP":"introduced"},"readerRef":"umi1_16-L0538","readerRefs":{"WH":[],"MG":["umi1_16-L0538"],"UP":["umi1_16-L0538"]}}],"sourceReading":"","alternative":"Can you tell me why you were facing the wall and singing?","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-BEATRICE-GUN-FUTILITY-SCOPE-001","kind":"additional","description":"Maria says guns have no effect on Beatrice specifically. MG makes this a general claim that guns are useless against witches; UP preserves Beatrice as the target. The MG line broadens the asserted immunity beyond the source’s named individual.","categories":["linguistic.overinterpretation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[731,734],"MG":[731,734],"UP":[731,734]},"japanese":"「…………きひひひひひ。\nよしなよ戦人。\n…ベアトリーチェに銃なんて意味ないよ。\nそれに、生き残るも何も、もうおしまいなんだよ。","japanesePC":"","japanesePS3":"「…………きひひひひひ。\nよしなよ戦人。\n…ベアトリーチェに銃なんて意味ないよ。\nそれに、生き残るも何も、もうおしまいなんだよ。","WH":"","MG":"\"......Kihihihihihi.\nGive it up, Battler.\n...Guns are useless against witches.\nSurvival and all that stuff doesn't matter...because it's over.","UP":"\"............Kihihihihihi.\nGive it up, Battler.\n...Guns are meaningless against Beatrice.\nBesides, survival and everything else doesn't matter now, because it's over.","note":"","dispositions":{"MG":"introduced","UP":"correct"},"readerRef":"umi1_16-L0731","readerRefs":{"WH":[],"MG":["umi1_16-L0731"],"UP":["umi1_16-L0731"]}}],"sourceReading":"","alternative":"Guns are useless against Beatrice.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH17-121-240-001","kind":"additional","description":"MG rewrites the epitaph arrival clue and its solution as a treasure-power exponent puzzle.","categories":["linguistic.addition"],"severity":"major","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_16","episode":1,"rows":{"JP":[715,715],"MG":[715,715],"UP":[715,715]},"japanese":"……そして、第十の晩に旅は終わり、黄金の郷へ至るだろう」","japanesePC":"","japanesePS3":"……そして、第十の晩に旅は終わり、黄金の郷へ至るだろう」","WH":"","MG":"...and on the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.","UP":"......And on the tenth twilight, the journey ends, and you shall reach the Home of the Gold.\"","note":"Direct EP1 passage and original PC17242/17254 checked: English power/finality wording is an editorial adaptation, not Japanese-PC carryover.","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi1_16-L0714","readerRefs":{"WH":[],"MG":["umi1_16-L0714"],"UP":["umi1_16-L0714"]}}],"sourceReading":"The source concludes by reaching the Golden Land. CH16 explains 郷 read as kyou, then 京 interpreted as kei (10^16), one tenth giving quadrillion. MG adds treasure power and finality to the epitaph and replaces the Kyoto/kei reasoning with repeated exponentiation. Original PC163883/163977/164003 and164983/164985 preserve the Japanese chain and arrival; UP follows them.","alternative":"The English adaptation coordinates its altered epitaph with a solvable English mechanism. This explains the editorial choice but does not preserve the source clue, Rosa theory, or narrated arithmetic; it is one connected adaptation rather than multiple independent defects.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-CH16-001",
+      "kind": "WH",
+      "description": "Battler infers the others expect the circle to reveal an unpleasant message and separately says he agrees. WH asserts that we were sure to find such a message.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution",
+        "mystery.epistemic_status"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              35,
+              38
+            ],
+            "MG": [
+              35,
+              38
+            ],
+            "UP": [
+              35,
+              38
+            ]
+          },
+          "japanese": "みんなは、この魔法陣にはそれほどの興味を示さなかった。\n…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。\n……それについては俺も同意する。\n…だが、だからと言って放置もできず、こうして調べ物のふりをしながら時間を潰している…。",
+          "japanesePC": "…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。",
+          "japanesePS3": "みんなは、この魔法陣にはそれほどの興味を示さなかった。\n…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。\n……それについては俺も同意する。\n…だが、だからと言って放置もできず、こうして調べ物のふりをしながら時間を潰している…。",
+          "WH": "...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish.",
+          "MG": "No one else showed that much interest in this magic circle.\n...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish.\n...I felt the same way.\n...However, I couldn't just ignore it, so I killed time by going through the motions of researching it...",
+          "UP": "No one else showed that much interest in this magic circle.\n...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish.\n......I also agreed about this.\n...However, I still couldn't let it go, so I killed time pretending to research it...",
+          "note": "Both retain shared we were sure rather than Battler inference of others expectations followed by separate agreement.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_16-L0035",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0035"
+            ],
+            "MG": [
+              "umi1_16-L0035"
+            ],
+            "UP": [
+              "umi1_16-L0035"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "みんなは、この魔法陣にはそれほどの興味を示さなかった。…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。……それについては俺も同意する。…だが、だからと言って放置もできず、こうして調べ物のふりをしながら時間を潰している…。",
+              "translation": "No one else showed that much interest in this magic circle. ...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish. ...I felt the same way. ...However, I couldn't just ignore it, so I killed time by going through the motions of researching it... "
+            },
+            "UP": {
+              "japanese": "みんなは、この魔法陣にはそれほどの興味を示さなかった。…意味不明だし、わかったところで、余計に不快な思いをするメッセージが込められているのだろうと思ったに違いない。……それについては俺も同意する。…だが、だからと言って放置もできず、こうして調べ物のふりをしながら時間を潰している…。",
+              "translation": "No one else showed that much interest in this magic circle. ...Its meaning was unknown, and once we understood it, we were sure to find some message that would cause us unnecessary anguish. ......I also agreed about this. ...However, I still couldn't let it go, so I killed time pretending to research it..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0035"
+            ],
+            "MG": [
+              "umi1_16-L0035"
+            ],
+            "UP": [
+              "umi1_16-L0035"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "思ったに違いない attributes a probable thought to the others whose lack of interest was just described, not certainty about the message itself.",
+      "alternative": "Battler’s next agreement partly broadens the expectation to include him, but does not make the message’s content known.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-002",
+      "kind": "WH",
+      "description": "George says Natsuhi offers to keep night watch but her body cannot sustain it, so they should rotate. WH says she told us to stay vigilant all night and our bodies cannot handle it.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              45,
+              50
+            ],
+            "MG": [
+              45,
+              50
+            ],
+            "UP": [
+              45,
+              50
+            ]
+          },
+          "japanese": "「戦人くんは眠くないの？\n……誰かが起きていてくれてる内に休んだ方がいいよ。\n夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。\nローテーションで休んだ方がいいよ」\n「じゃあ、兄貴が先に休めよ。\n………俺は眠気が来るまで、ちょいと調べ物をしてるさ」",
+          "japanesePC": "夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。ローテーションで休んだ方がいいよ。」",
+          "japanesePS3": "「戦人くんは眠くないの？\n……誰かが起きていてくれてる内に休んだ方がいいよ。\n夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。\nローテーションで休んだ方がいいよ」\n「じゃあ、兄貴が先に休めよ。\n………俺は眠気が来るまで、ちょいと調べ物をしてるさ」",
+          "WH": "Natsuhi oba-san told us to stay vigilant all night, but there's no way our bodies can handle that.  We should take turns sleeping.\"",
+          "MG": "\"Aren't you tired, Battler-kun?\n...You should take a rest while someone else stays awake.\nAunt Natsuhi said she'd stay up all night for us, but there's no way her body can handle that.\nWe should take turns sleeping.\"\n\"Then you sleep first, Aniki.\n......I'll keep researching 'til I get sleepy.\"",
+          "UP": "\"Aren't you tired, Battler‐kun?\n......You should take a rest while someone else is staying awake for you.\nAunt Natsuhi may be saying she'll stay vigilant all night, but there's no way her body can handle that.\nWe should take turns sleeping.\"\n\"Then you sleep first, Aniki.\n.........I'm gonna keep on with my little research until the drowsiness hits.\"",
+          "note": "Both restore Natsuhi offering night watch and her bodily limit, motivating rotation.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0045",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0045"
+            ],
+            "MG": [
+              "umi1_16-L0045",
+              "umi1_16-L0049"
+            ],
+            "UP": [
+              "umi1_16-L0045",
+              "umi1_16-L0049"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「戦人くんは眠くないの？　……誰かが起きていてくれてる内に休んだ方がいいよ。夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。ローテーションで休んだ方がいいよ」",
+              "translation": "\"Aren't you tired, Battler-kun? ...You should take a rest while someone else stays awake. Aunt Natsuhi said she'd stay up all night for us, but there's no way her body can handle that. We should take turns sleeping.\" "
+            },
+            "UP": {
+              "japanese": "「戦人くんは眠くないの？　……誰かが起きていてくれてる内に休んだ方がいいよ。夏妃伯母さんは不寝番をしてくれると言ってるけど、体が持つわけない。ローテーションで休んだ方がいいよ」",
+              "translation": "\"Aren't you tired, Battler‐kun? ......You should take a rest while someone else is staying awake for you. Aunt Natsuhi may be saying she'll stay vigilant all night, but there's no way her body can handle that. We should take turns sleeping.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0045"
+            ],
+            "MG": [
+              "umi1_16-L0045"
+            ],
+            "UP": [
+              "umi1_16-L0045"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "不寝番をしてくれる assigns the service to Natsuhi, with her endurance as the concern.",
+      "alternative": "The shift proposal remains, and earlier narration still depicts her unsleeping guard, but the volunteered burden becomes an imposed group obligation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-003",
+      "kind": "WH",
+      "description": "Jessica warns Battler that researching this could get him possessed by something strange. WH warns that he will become obsessed with weird material.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_layer",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              55,
+              60
+            ],
+            "MG": [
+              55,
+              60
+            ],
+            "UP": [
+              55,
+              60
+            ]
+          },
+          "japanese": "「…………よせよ。\nそういうのやってると、妙なのに取り憑かれちまうぜ」\n「安心しろよ。\n俺は真里亞にお墨付きをもらってるぜ。\n…俺には霊的才能はからっきしなんだとよ。\nいっひっひ…！」",
+          "japanesePC": "「…………よせよ。そういうのやってると、妙なのに取り憑かれちまうぜ。」",
+          "japanesePS3": "「…………よせよ。\nそういうのやってると、妙なのに取り憑かれちまうぜ」\n「安心しろよ。\n俺は真里亞にお墨付きをもらってるぜ。\n…俺には霊的才能はからっきしなんだとよ。\nいっひっひ…！」",
+          "WH": "\"............Give it a rest.  If you do that, you'll start getting obsessed with all this weird stuff.\"",
+          "MG": "\"......Give it a rest.\nMess around with stuff like that, and you'll end up getting possessed by something weird.\"\n\"Don't worry.\nI've been certified by Maria.\n...She said I've got no spiritual talent at all.\nIhihi...!\"",
+          "UP": "\"............I wouldn't.\nKeep that up and you'll get possessed by something weird.\"\n\"Relax.\nI've been certified by Maria.\n...She said I'm utterly lacking any spiritual talent.\nIhihi...!\"",
+          "note": "Both restore supernatural possession warning rather than becoming obsessed with material.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0055",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0055"
+            ],
+            "MG": [
+              "umi1_16-L0055",
+              "umi1_16-L0057"
+            ],
+            "UP": [
+              "umi1_16-L0055",
+              "umi1_16-L0057"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………よせよ。そういうのやってると、妙なのに取り憑かれちまうぜ」",
+              "translation": "\"......Give it a rest. Mess around with stuff like that, and you'll end up getting possessed by something weird.\" "
+            },
+            "UP": {
+              "japanese": "「…………よせよ。そういうのやってると、妙なのに取り憑かれちまうぜ」",
+              "translation": "\"............I wouldn't. Keep that up and you'll get possessed by something weird.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0055"
+            ],
+            "MG": [
+              "umi1_16-L0055"
+            ],
+            "UP": [
+              "umi1_16-L0055"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "妙なのに取り憑かれる is possession by something uncanny in this occult exchange; Battler answers by citing his absence of spiritual talent.",
+      "alternative": "The phrase can figuratively mean becoming fixated, but the spiritual-talent answer favors the supernatural joking warning rather than mere intellectual obsession.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-004",
+      "kind": "WH",
+      "description": "George grounds his remarriage hypothesis in Rosa sometimes emotionally taking things out on Maria. WH specifies physical hitting.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              100,
+              111
+            ],
+            "MG": [
+              100,
+              111
+            ],
+            "UP": [
+              100,
+              111
+            ]
+          },
+          "japanese": "「…………右代宮家では、楼座さんたちに関わる話はタブーとされているところがあります」\n「叔母さんは再婚だって考えたと思うよ。\n……でも、真里亞ちゃんの存在が枷になって、非常に難しかったんじゃないかと思うんだ。\n…………だって叔母さんは時折、\n…ものすごく感情的に真里亞ちゃんに当たっていたから」\n「…………それについては同感だぜ。\n……楼座叔母さんは、真里亞を好きになろうと努力してるように見えた」\n「……ってことはつまり、\n……好きじゃないってことなんだよな。\n………再婚の妨げになっている真里亞に、思うところがあったんだろうよ…」\n「…母親の感情的な拒絶が、きっと彼女の幼い心に深い傷を残したと思うんだ。\n……そして、どこかでオカルト趣味と出会い、心の隙間を埋めるように没頭していく」",
+          "japanesePC": "…………だって叔母さんは時折、…ものすごく感情的に真里亞ちゃんに当たっていたから。」",
+          "japanesePS3": "「…………右代宮家では、楼座さんたちに関わる話はタブーとされているところがあります」\n「叔母さんは再婚だって考えたと思うよ。\n……でも、真里亞ちゃんの存在が枷になって、非常に難しかったんじゃないかと思うんだ。\n…………だって叔母さんは時折、\n…ものすごく感情的に真里亞ちゃんに当たっていたから」\n「…………それについては同感だぜ。\n……楼座叔母さんは、真里亞を好きになろうと努力してるように見えた」\n「……ってことはつまり、\n……好きじゃないってことなんだよな。\n………再婚の妨げになっている真里亞に、思うところがあったんだろうよ…」\n「…母親の感情的な拒絶が、きっと彼女の幼い心に深い傷を残したと思うんだ。\n……そして、どこかでオカルト趣味と出会い、心の隙間を埋めるように没頭していく」",
+          "WH": "............After all, she sometimes, ...got really emotional and hit Maria-chan.\"",
+          "MG": "\"......Talking about Rosa-san's family has become a kind of taboo in the Ushiromiya family.\"\n\"I think Aunt Rosa thought about remarrying.\n...But I also believe Maria-chan may have become her shackles and made that quite difficult.\n......After all, she sometimes...\ngot really emotional and hit Maria-chan.\"\n\"......I agree with you there.\n...It looked like Aunt Rosa was trying hard to like Maria.\n...Which means...\nthat she didn't really like her.\n......She might've thought of Maria as someone who stood in the way of her remarrying...\"\n\"...I think that emotional rejection from her mother must've left some deep scars on her young heart.\n...So, she learned about this occult hobby from somewhere and immersed herself in it to bury the holes in her heart.",
+          "UP": "\"............Talking about Rosa‐san's family has become a kind of taboo in the Ushiromiya family.\"\n\"I think Auntie even thought about remarrying.\n......But I also believe Maria‐chan may have become her shackles and made that quite difficult.\n............After all, she sometimes...\ngot incredibly emotional and took it all out on Maria‐chan.\"\n\"............I agree with you there.\n......It looked like Auntie Rosa was trying hard to like Maria.\"\n\"......Which means...\n...that she didn't really like her.\n.........I'll bet she had some strong thoughts about Maria, standing in the way of her getting remarried...\"\n\"...I think that the emotional rejection from her mother must have left some deep scars on her young heart.\n......So when she learned about this occult hobby from somewhere, she immersed herself in it so she could fill the holes in her heart.\"",
+          "note": "MG retains physical hitting for emotional taking-it-out-on Maria. UP restores emotional mistreatment without added specific physical act.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0100",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0101"
+            ],
+            "MG": [
+              "umi1_16-L0100",
+              "umi1_16-L0101",
+              "umi1_16-L0105",
+              "umi1_16-L0110"
+            ],
+            "UP": [
+              "umi1_16-L0100",
+              "umi1_16-L0101",
+              "umi1_16-L0105",
+              "umi1_16-L0110"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「叔母さんは再婚だって考えたと思うよ。……でも、真里亞ちゃんの存在が枷になって、非常に難しかったんじゃないかと思うんだ。…………だって叔母さんは時折、…ものすごく感情的に真里亞ちゃんに当たっていたから」",
+              "translation": "\"I think Aunt Rosa thought about remarrying. ...But I also believe Maria-chan may have become her shackles and made that quite difficult. ......After all, she sometimes... got really emotional and hit Maria-chan.\" "
+            },
+            "UP": {
+              "japanese": "「叔母さんは再婚だって考えたと思うよ。……でも、真里亞ちゃんの存在が枷になって、非常に難しかったんじゃないかと思うんだ。…………だって叔母さんは時折、…ものすごく感情的に真里亞ちゃんに当たっていたから」",
+              "translation": "\"I think Auntie even thought about remarrying. ......But I also believe Maria‐chan may have become her shackles and made that quite difficult. ............After all, she sometimes... got incredibly emotional and took it all out on Maria‐chan.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0101"
+            ],
+            "MG": [
+              "umi1_16-L0101"
+            ],
+            "UP": [
+              "umi1_16-L0101"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "感情的に ... 当たっていた describes venting or lashing out at someone; it does not by itself specify hitting.",
+      "alternative": "Other scenes may show physical violence and the source does not exclude it. This testimony still broadens emotional mistreatment into a specific physical act without a corresponding verb.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-005",
+      "kind": "WH",
+      "description": "Battler wonders whether Maria sought witches as beings who would rescue her from maternal rejection and make her happy. WH asks whether she saved herself while seeking their help.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              117,
+              129
+            ],
+            "MG": [
+              117,
+              129
+            ],
+            "UP": [
+              117,
+              129
+            ]
+          },
+          "japanese": "昨日、海岸で魔女の存在を疑った時。\n…真里亞は熱くなって魔女について説明を始めたっけ。\nそして開いたページには、醜悪な姿をした魔女の絵は一枚たりともなかった。\n色とりどりに描かれた美しく、可愛らしく、楽しそうな魔女たち。\n男が想像するような禍々しさはまったくなく、\n…美しいドレスを着飾って、人の夢を何でも叶えてくれる、不思議な魔法でみんなを幸せにしてくれる存在。\n……母に愛されないという悲しみ。\n…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。\nいつか魔女がやってきて、素敵な魔法で自分を幸せにしてくれる。\n……そう信じても、成長と共に淡い夢が少しずつ引き裂かれていく現実。\n………そんな彼女の前に、\n六軒島の魔女を名乗る存在が現れて、\n幸せになれる黄金郷へ連れて行ってあげようと囁いてくれたら。",
+          "japanesePC": "…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。",
+          "japanesePS3": "昨日、海岸で魔女の存在を疑った時。\n…真里亞は熱くなって魔女について説明を始めたっけ。\nそして開いたページには、醜悪な姿をした魔女の絵は一枚たりともなかった。\n色とりどりに描かれた美しく、可愛らしく、楽しそうな魔女たち。\n男が想像するような禍々しさはまったくなく、\n…美しいドレスを着飾って、人の夢を何でも叶えてくれる、不思議な魔法でみんなを幸せにしてくれる存在。\n……母に愛されないという悲しみ。\n…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。\nいつか魔女がやってきて、素敵な魔法で自分を幸せにしてくれる。\n……そう信じても、成長と共に淡い夢が少しずつ引き裂かれていく現実。\n………そんな彼女の前に、\n六軒島の魔女を名乗る存在が現れて、\n幸せになれる黄金郷へ連れて行ってあげようと囁いてくれたら。",
+          "WH": "...Had Maria saved herself from that, seeking help from witches as beings who could give her happiness?",
+          "MG": "Yesterday, when we were down by the beach, doubting the witch...\n...Maria got all riled up and started explaining about witches.\nAnd not one of the pages had shown a picture of an ugly witch.\nThey were all brightly colored, beautiful, cute witches who looked like they were having fun.\nThere was absolutely nothing sinister about them, like a boy might have imagined.\n...They were beings adorned with beautiful dresses, who could grant anyone's dreams with their mysterious magic and who made everyone happy.\n...The sorrow of not being loved by her mother.\n...Had Maria sought help from witches as beings who could give her happiness and save her?\nSomeday, a witch would come, and using her wonderful magic, would bring Maria happiness.\n...Even though she believed that,\nas she grew older, she had to face reality as her fleeting dreams were sliced to ribbons one by one.\n...If something claiming to be the witch of Rokkenjima appeared in front of a girl like that,\nwhispering that she'd take Maria to the Golden Land, where Maria could be happy...",
+          "UP": "Yesterday, when we had doubted the witch down by the beach...\n...Maria had gotten all riled up and started explaining about witches.\nAnd not one of the pages had shown a picture of an ugly witch.\nThey were all brightly colored, beautiful, cute witches who looked like they were having fun.\nThere was absolutely nothing sinister about them, like a boy might have imagined;\n...they were beings adorned with beautiful dresses, who could grant anyone's dreams with their mysterious magic and who made everyone happy.\n......The sorrow of not being loved by her mother.\n...Had Maria sought salvation from the witches as beings who could save her from that sorrow and make her happy?\nSomeday a witch would come, and using her wonderful magic, would bring Maria happiness.\n......Even though she believed that, as she grew older, she had to face reality as her fleeting dreams were sliced to ribbons one by one.\n.........If, in front of a girl like that,\nsomething claiming to be the witch of Rokkenjima appeared,\nand whispered that she would take Maria to the Golden Land, where Maria could be happy...",
+          "note": "Both restore witches as rescuing beings and Maria seeking their help, not Maria saving herself. UP explicitly links rescue to maternal sorrow.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0117",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0123"
+            ],
+            "MG": [
+              "umi1_16-L0117",
+              "umi1_16-L0123",
+              "umi1_16-L0127"
+            ],
+            "UP": [
+              "umi1_16-L0117",
+              "umi1_16-L0123",
+              "umi1_16-L0127"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……母に愛されないという悲しみ。…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。いつか魔女がやってきて、素敵な魔法で自分を幸せにしてくれる。……そう信じても、成長と共に淡い夢が少しずつ引き裂かれていく現実。",
+              "translation": "...The sorrow of not being loved by her mother. ...Had Maria sought help from witches as beings who could give her happiness and save her? Someday, a witch would come, and using her wonderful magic, would bring Maria happiness. ...Even though she believed that, "
+            },
+            "UP": {
+              "japanese": "……母に愛されないという悲しみ。…真里亞は、そこから自分を助けてくれて、幸せにしてくれる存在として、魔女に救いを求めたのか。いつか魔女がやってきて、素敵な魔法で自分を幸せにしてくれる。……そう信じても、成長と共に淡い夢が少しずつ引き裂かれていく現実。",
+              "translation": "......The sorrow of not being loved by her mother. ...Had Maria sought salvation from the witches as beings who could save her from that sorrow and make her happy? Someday a witch would come, and using her wonderful magic, would bring Maria happiness. ......Even though she believed that, as she grew older, she had to face reality as her fleeting dreams were sliced to ribbons one by one."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0123"
+            ],
+            "MG": [
+              "umi1_16-L0123"
+            ],
+            "UP": [
+              "umi1_16-L0123"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "自分を助けてくれて ... 存在として places saving agency with the imagined witch; 救いを求めた is seeking rescue, not achieving it.",
+      "alternative": "Seeking occult consolation can function as self-help, but the Japanese has not established successful self-rescue. The next hoped-for witch arrival reinforces the prospective rescue.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-006",
+      "kind": "WH",
+      "description": "A possible cruel aspect of Natsuhi’s expulsion becomes “a lot of brutal things have happened,” shifting the concession away from her action.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              187,
+              197
+            ],
+            "MG": [
+              187,
+              197
+            ],
+            "UP": [
+              187,
+              197
+            ]
+          },
+          "japanese": "「………なぁ、夏妃伯母さん。\nキツイこと聞くぜ？\n……もし、あの時、たまたま朱志香も伯母さんの後にいたなら、\n………伯母さんはこの部屋から朱志香も追い出してたかい？」\n「…………………………………」\n「確かに残酷なところはあったかもしれない。\n…でも、夏妃伯母さんは母として、娘を守りきろうと思った。\nその責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ」\n「…………俺は別にそれを責めてぇわけじゃねぇ。\nただ、その。\n………朱志香はいいお袋を持ったなって、そう思ったのさ」",
+          "japanesePC": "「確かに残酷なところはあったかもしれない。…でも、夏妃伯母さんは母として、娘を守りきろうと思った。その責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ。",
+          "japanesePS3": "「………なぁ、夏妃伯母さん。\nキツイこと聞くぜ？\n……もし、あの時、たまたま朱志香も伯母さんの後にいたなら、\n………伯母さんはこの部屋から朱志香も追い出してたかい？」\n「…………………………………」\n「確かに残酷なところはあったかもしれない。\n…でも、夏妃伯母さんは母として、娘を守りきろうと思った。\nその責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ」\n「…………俺は別にそれを責めてぇわけじゃねぇ。\nただ、その。\n………朱志香はいいお袋を持ったなって、そう思ったのさ」",
+          "WH": "\"It's true that a lot of brutal things have happened.  ...But as a mother, you thought you should protect your daughter no matter what.  Because of that duty, you chased them out, even though you knew that you would eventually be held responsible for it.",
+          "MG": "\"......Hey, Aunt Natsuhi.\nLet me say something a little harsh, okay?\n...At that time, ...what if, by coincidence, Jessica had also been standing behind you.\n......Would you have chased Jessica from the room too?\"\n\"..................\"\n\"It's true that a lot of brutal things have happened.\n...But as a mother, you thought you should protect your daughter no matter what.\nBecause of that duty, you chased them out, even though you knew that you'd eventually be held responsible for it.\n......It's not like I'm condemning that.\nBut, umm,\n......I was just thinking about what a great mother Jessica has.\"",
+          "UP": "\".........Hey, Aunt Natsuhi.\nLet me ask something a little difficult, alright?\n......If, by coincidence, Jessica had also been standing behind you at that time,\n.........would you have chased Jessica from the room too?\"\n\".......................................\"\n\"Sure, there may have been a degree of cruelty to it.\n...But, as a mother, you thought you should protect your daughter no matter what.\nAnd it was out of that duty that you sent them out, fully aware you'd eventually be held responsible for it.\"\n\"............I'm not trying to criticize you for it or anything.\nI just, umm.\n.........I was just thinking about what a great mother Jessica has.\"",
+          "note": "MG shifts cruelty concession to many brutal events. UP restores degree of cruelty in Natsuhi expulsion.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0187",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0192"
+            ],
+            "MG": [
+              "umi1_16-L0187",
+              "umi1_16-L0191",
+              "umi1_16-L0192",
+              "umi1_16-L0195"
+            ],
+            "UP": [
+              "umi1_16-L0187",
+              "umi1_16-L0191",
+              "umi1_16-L0192",
+              "umi1_16-L0195"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「確かに残酷なところはあったかもしれない。…でも、夏妃伯母さんは母として、娘を守りきろうと思った。その責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ」",
+              "translation": "\"It's true that a lot of brutal things have happened. ...But as a mother, you thought you should protect your daughter no matter what. Because of that duty, you chased them out, even though you knew that you'd eventually be held responsible for it. "
+            },
+            "UP": {
+              "japanese": "「確かに残酷なところはあったかもしれない。…でも、夏妃伯母さんは母として、娘を守りきろうと思った。その責務から、自分がやがては糾弾されることを覚悟で、彼らを追放したんだ」",
+              "translation": "\"Sure, there may have been a degree of cruelty to it. ...But, as a mother, you thought you should protect your daughter no matter what. And it was out of that duty that you sent them out, fully aware you'd eventually be held responsible for it.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0192"
+            ],
+            "MG": [
+              "umi1_16-L0192"
+            ],
+            "UP": [
+              "umi1_16-L0192"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler grants that her conduct may have had a cruel side, then explains her maternal duty and willingness to face condemnation.",
+      "alternative": "The following acknowledgment that she expelled them and would be held responsible retains much of the ethical argument, but does not restore the initial concession about her cruelty.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-007",
+      "kind": "WH",
+      "description": "手に掛かっていた is rendered as being “in the culprit’s grasp,” weakening the explicit counterfactual death that grounds George’s gratitude.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              198,
+              202
+            ],
+            "MG": [
+              198,
+              202
+            ],
+            "UP": [
+              198,
+              202
+            ]
+          },
+          "japanese": "「……そうだね。\n…夏妃伯母さんは、朝からずっと続いているこんな事件の中でも、冷静さを失わず、ずっとみんなを牽引してきてくれた」\n「……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。\n…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う」\n「……………………ありがとう」",
+          "japanesePC": "……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う。」",
+          "japanesePS3": "「……そうだね。\n…夏妃伯母さんは、朝からずっと続いているこんな事件の中でも、冷静さを失わず、ずっとみんなを牽引してきてくれた」\n「……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。\n…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う」\n「……………………ありがとう」",
+          "WH": "......If you were all confused too, the rest of us would probably be in the culprit's grasp by now.  ...So I think that we all have to thank you.\"",
+          "MG": "\"...That's right.\n...You've been dealing with these incidents since morning, and you've been pulling all of us along this whole time, without losing your composure.\n...If you were all confused too, the rest of us would probably be in the culprit's grasp by now.\n...So I think we all have to thank you.\"\n\"............Thank you.\"",
+          "UP": "\"......Yes.\n...You've been dealing with these incidents since morning, and you've been pulling all of us along this whole time, without losing your composure.\"\n\"......If you had been as confused as the rest of us, every last one of us may have been in the culprit's grasp by now.\n...So I think that we all have to thank you.\"\n\"........................Thank you.\"",
+          "note": "Both retain culprit grasp rather than counterfactual having been killed by culprit.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_16-L0198",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0198"
+            ],
+            "MG": [
+              "umi1_16-L0198",
+              "umi1_16-L0202"
+            ],
+            "UP": [
+              "umi1_16-L0198",
+              "umi1_16-L0202"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……そうだね。…夏妃伯母さんは、朝からずっと続いているこんな事件の中でも、冷静さを失わず、ずっとみんなを牽引してきてくれた」「……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う」",
+              "translation": "\"...That's right. ...You've been dealing with these incidents since morning, and you've been pulling all of us along this whole time, without losing your composure. ...If you were all confused too, the rest of us would probably be in the culprit's grasp by now. ...So I think we all have to thank you.\" "
+            },
+            "UP": {
+              "japanese": "「……そうだね。…夏妃伯母さんは、朝からずっと続いているこんな事件の中でも、冷静さを失わず、ずっとみんなを牽引してきてくれた」「……もし伯母さんまで混乱していたら、僕たちは今頃全員、犯人の手に掛かっていたかもしれない。…だから、僕たちは伯母さんに、感謝しなくちゃいけないと思う」",
+              "translation": "\"......Yes. ...You've been dealing with these incidents since morning, and you've been pulling all of us along this whole time, without losing your composure.\" \"......If you had been as confused as the rest of us, every last one of us may have been in the culprit's grasp by now. ...So I think that we all have to thank you.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0198"
+            ],
+            "MG": [
+              "umi1_16-L0198"
+            ],
+            "UP": [
+              "umi1_16-L0198"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George says that, had Natsuhi also lost her composure, they might all have been killed by the culprit by now.",
+      "alternative": "“In the culprit’s grasp” can suggest fatal danger in this murder context; it nevertheless describes control or capture rather than the source’s killing idiom. The English “probably” also strengthens the source possibility.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-008",
+      "kind": "WH",
+      "description": "綺麗事 is misread as Natsuhi recognizing that she is oversimplifying. This invents self-criticism of her reasoning.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              223,
+              229
+            ],
+            "MG": [
+              223,
+              229
+            ],
+            "UP": [
+              223,
+              229
+            ]
+          },
+          "japanese": "「……………………………。\n朱志香は、\n…………主人と結婚してから、１２年もかけてようやく授かった、……大切な娘です。\n私は、朱志香を守るためなら、どのような鬼にでもなります」\n少しだけ強い語尾…。\n綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。\n…………しかしそれは、罪の意識に苛むからゆえのもの。",
+          "japanesePC": "綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。",
+          "japanesePS3": "「……………………………。\n朱志香は、\n…………主人と結婚してから、１２年もかけてようやく授かった、……大切な娘です。\n私は、朱志香を守るためなら、どのような鬼にでもなります」\n少しだけ強い語尾…。\n綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。\n…………しかしそれは、罪の意識に苛むからゆえのもの。",
+          "WH": "She realized very well that she was oversimplifying, but even so, she was strongly resolved to protect her daughter even if she had to become a demon.",
+          "MG": "\".........\nYou are...\n...my precious daughter, ...the one I finally received a whole twelve years after I married my husband.\nI would become the worst kind of demon to protect you.\"\nThat was some pretty strong language at the end there...\nShe realized very well that her words were an idealized view of what a mother should be, but even so, she was strongly resolved to protect her daughter, even if she had to become a demon.\n......But that was her guilty conscience tormenting her.",
+          "UP": "\".................................\nJessica,\n.........you are my precious daughter, ......the daughter I was finally blessed with a whole twelve years after I married my husband.\nI would become the worst kind of demon to protect you.\"\nThat was some pretty strong language at the end there...\nShe realized very well that these were only words, but even so, she was strongly resolved to protect her daughter even if she had to become a demon.\n............But that was because she was tormented by guilt.",
+          "note": "MG retains self-criticism that own maternal words idealized. UP removes idealized maternal view but still says these were only words, attributing critique of her own statement rather than understanding others platitudes and choosing protection despite them.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partly_corrected"
+          },
+          "readerRef": "umi1_16-L0223",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0227"
+            ],
+            "MG": [
+              "umi1_16-L0223",
+              "umi1_16-L0227"
+            ],
+            "UP": [
+              "umi1_16-L0223",
+              "umi1_16-L0227"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "少しだけ強い語尾…。\n綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。…………しかしそれは、罪の意識に苛むからゆえのもの。",
+              "translation": "That was some pretty strong language at the end there... She realized very well that her words were an idealized view of what a mother should be, but even so, she was strongly resolved to protect her daughter, even if she had to become a demon. ......But that was her guilty conscience tormenting her. "
+            },
+            "UP": {
+              "japanese": "少しだけ強い語尾…。\n綺麗事は充分に理解している、その上でなお、自分は鬼となってでも娘を守りたいという強い決意。…………しかしそれは、罪の意識に苛むからゆえのもの。",
+              "translation": "That was some pretty strong language at the end there...\nShe realized very well that these were only words, but even so, she was strongly resolved to protect her daughter even if she had to become a demon. ............But that was because she was tormented by guilt."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0227"
+            ],
+            "MG": [
+              "umi1_16-L0227"
+            ],
+            "UP": [
+              "umi1_16-L0227"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler understands her forceful ending as a resolve to protect her daughter even as a demon despite fully understanding the morally attractive sentiments being urged on her.",
+      "alternative": "The general conflict between maternal protection and moral qualms remains clear, and guilt follows immediately. Neither supplies the invented admission of oversimplification.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-009",
+      "kind": "WH",
+      "description": "The description that the candlestick looks suited to a dubious ritual disappears.",
+      "categories": [
+        "linguistic.omission",
+        "world.world_layer"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              355,
+              358
+            ],
+            "MG": [
+              355,
+              358
+            ],
+            "UP": [
+              355,
+              358
+            ]
+          },
+          "japanese": "夏妃伯母さんはライフル銃を高々と構え、先頭に立つ。\n俺も素手というわけには行かない。\n怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。\n蝋燭を挿すトゲが短いながらもついているそれは、さながら三叉の槍のようだった。",
+          "japanesePC": "怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。",
+          "japanesePS3": "夏妃伯母さんはライフル銃を高々と構え、先頭に立つ。\n俺も素手というわけには行かない。\n怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。\n蝋燭を挿すトゲが短いながらもついているそれは、さながら三叉の槍のようだった。",
+          "WH": "I found a three-pronged candlestick and readied it.",
+          "MG": "Aunt Natsuhi raised the rifle high and took the lead.\nI couldn't go unarmed myself.\nI found a three-pronged candle stand and readied it.\nAlthough the pins on it used to fit candles were short, it was almost like a three-pronged spear.",
+          "UP": "Aunt Natsuhi raised the rifle high and took the lead.\nI needed a weapon myself as well.\nI found a three‐pronged candelabra, which looked like it could be used for some strange ritual, and armed myself with it.\nWith the spikes it had to fit the candles on, although they were short, it was almost like a three‐pronged spear.",
+          "note": "MG omits dubious ritual suitability of candelabra. UP explicitly restores it.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0355",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0355"
+            ],
+            "MG": [
+              "umi1_16-L0355"
+            ],
+            "UP": [
+              "umi1_16-L0355"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "夏妃伯母さんはライフル銃を高々と構え、先頭に立つ。俺も素手というわけには行かない。怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。蝋燭を挿すトゲが短いながらもついているそれは、さながら三叉の槍のようだった。",
+              "translation": "Aunt Natsuhi raised the rifle high and took the lead. I couldn't go unarmed myself. I found a three-pronged candle stand and readied it. Although the pins on it used to fit candles were short, it was almost like a three-pronged spear. "
+            },
+            "UP": {
+              "japanese": "夏妃伯母さんはライフル銃を高々と構え、先頭に立つ。俺も素手というわけには行かない。怪しげな儀式に使いそうな三叉の燭台を見つけ、得物とした。蝋燭を挿すトゲが短いながらもついているそれは、さながら三叉の槍のようだった。",
+              "translation": "Aunt Natsuhi raised the rifle high and took the lead. I needed a weapon myself as well. I found a three‐pronged candelabra, which looked like it could be used for some strange ritual, and armed myself with it. With the spikes it had to fit the candles on, although they were short, it was almost like a three‐pronged spear."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0355"
+            ],
+            "MG": [
+              "umi1_16-L0355"
+            ],
+            "UP": [
+              "umi1_16-L0355"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler finds a three-branched candlestick that looks as though it would be used in a suspicious ritual and takes it as a weapon.",
+      "alternative": "The surrounding occult study and the retained three-pronged shape still suggest the setting. This is a local loss of the explicit ritual association, not a lost weapon dimension or solution clue.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-010",
+      "kind": "WH",
+      "description": "The passive 引きずり出されている applied to 俺たち becomes “had thrown them out.” The source’s second stage of the trap is replaced by a repetition of its first stage.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              375,
+              380
+            ],
+            "MG": [
+              375,
+              380
+            ],
+            "UP": [
+              375,
+              380
+            ]
+          },
+          "japanese": "ライフル銃を構え、引き金に指を掛ける夏妃伯母さんを中心に、\n俺たちは背中を寄せ合うようにしながら、周囲を警戒しつつ一塊になって移動する……。\nさっきの不和を目論むという魔法陣が、まるでその魔力で成したように。\n…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。\n……ということはつまり、今この瞬間、犯人のシナリオに乗っかっているということになる。\n…ここからは突然何が起きてもおかしくない異空間なのだ…。",
+          "japanesePC": "さっきの不和を目論むという魔法陣が、まるでその魔力で成したように。…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。",
+          "japanesePS3": "ライフル銃を構え、引き金に指を掛ける夏妃伯母さんを中心に、\n俺たちは背中を寄せ合うようにしながら、周囲を警戒しつつ一塊になって移動する……。\nさっきの不和を目論むという魔法陣が、まるでその魔力で成したように。\n…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。\n……ということはつまり、今この瞬間、犯人のシナリオに乗っかっているということになる。\n…ここからは突然何が起きてもおかしくない異空間なのだ…。",
+          "WH": "It was just as though the magic of that magic circle designed to spread discord had worked.  ...We had split up, and furthermore, had thrown them out into dangerous territory.",
+          "MG": "With Aunt Natsuhi in the center, her rifle readied and her finger on the trigger,\nwe moved in a group, our backs together, checking our surroundings in all directions...\nIt was just as though the magic of that magic circle designed to spread discord had worked.\n...We had split up, and furthermore, had been dragged out into dangerous territory.\n...In other words, even now, we were doing just what the culprit wanted us to do.\n...This was a separate world where it wouldn't be odd for anything to suddenly occur...",
+          "UP": "With Aunt Natsuhi in the center, her rifle readied and her finger on the trigger,\nwe moved in a group, our backs together, checking our surroundings in all directions......\nAs though the power of that magic circle designed to spread discord had brought it all into being,\n...we had split up, and furthermore, had been dragged into dangerous territory.\n......In other words, even now in this very moment, we were doing just what the culprit wanted us to do.\n...This was now a strange space where it wouldn't be odd for anything to suddenly occur...",
+          "note": "Both restore we were divided and dragged into danger as second stage, not merely repeating expulsion of others.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0375",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0375"
+            ],
+            "MG": [
+              "umi1_16-L0375"
+            ],
+            "UP": [
+              "umi1_16-L0375"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ライフル銃を構え、引き金に指を掛ける夏妃伯母さんを中心に、俺たちは背中を寄せ合うようにしながら、周囲を警戒しつつ一塊になって移動する……。さっきの不和を目論むという魔法陣が、まるでその魔力で成したように。…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。……ということはつまり、今この瞬間、犯人のシナリオに乗っかっているということになる。…ここからは突然何が起きてもおかしくない異空間なのだ…。",
+              "translation": "With Aunt Natsuhi in the center, her rifle readied and her finger on the trigger, we moved in a group, our backs together, checking our surroundings in all directions... It was just as though the magic of that magic circle designed to spread discord had worked. ...We had split up, and furthermore, had been dragged out into dangerous territory. ...In other words, even now, we were doing just what the culprit wanted us to do. ...This was a separate world where it wouldn't be odd for anything to suddenly occur... "
+            },
+            "UP": {
+              "japanese": "ライフル銃を構え、引き金に指を掛ける夏妃伯母さんを中心に、俺たちは背中を寄せ合うようにしながら、周囲を警戒しつつ一塊になって移動する……。さっきの不和を目論むという魔法陣が、まるでその魔力で成したように。…俺たちは分裂し、しかもその上、危険地帯へ引きずり出されている。……ということはつまり、今この瞬間、犯人のシナリオに乗っかっているということになる。…ここからは突然何が起きてもおかしくない異空間なのだ…。",
+              "translation": "With Aunt Natsuhi in the center, her rifle readied and her finger on the trigger, we moved in a group, our backs together, checking our surroundings in all directions...... As though the power of that magic circle designed to spread discord had brought it all into being, ...we had split up, and furthermore, had been dragged into dangerous territory. ......In other words, even now in this very moment, we were doing just what the culprit wanted us to do. ...This was now a strange space where it wouldn't be odd for anything to suddenly occur..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0375"
+            ],
+            "MG": [
+              "umi1_16-L0375"
+            ],
+            "UP": [
+              "umi1_16-L0375"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The discord circle seems to have worked: the group has split, and now they themselves have additionally been dragged out into dangerous territory.",
+      "alternative": "Rows 38697–38698 correctly say they were lured out of their safe room, so the English reader can reconstruct the event. The present sentence nonetheless changes the causal summary and who is now endangered.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-011",
+      "kind": "WH",
+      "description": "The simile adds a graduation ceremony where the source describes being ordered to sing in a school lesson or similar setting.",
+      "categories": [
+        "linguistic.addition",
+        "world.culture_history",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              407,
+              412
+            ],
+            "MG": [
+              407,
+              412
+            ],
+            "UP": [
+              407,
+              412
+            ]
+          },
+          "japanese": "耳を凝らすと、………かすかに聞こえる。\n……真里亞の、不思議な歌声が。\nそれは、機嫌がよくて自然と口に出てしまうような歌い方ではない。\n………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。\n…歌っている歌は、誰もが学校で一度は歌ったことがあるに違いない平凡な民謡。\n……しかし、それを、なぜ、こんな深夜に、ひとりで、一生懸命に、ずっと、どうして…？！",
+          "japanesePC": "………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。",
+          "japanesePS3": "耳を凝らすと、………かすかに聞こえる。\n……真里亞の、不思議な歌声が。\nそれは、機嫌がよくて自然と口に出てしまうような歌い方ではない。\n………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。\n…歌っている歌は、誰もが学校で一度は歌ったことがあるに違いない平凡な民謡。\n……しかし、それを、なぜ、こんな深夜に、ひとりで、一生懸命に、ずっと、どうして…？！",
+          "WH": ".........She was singing mechanically, like she was at a graduation ceremony and she'd been ordered to.",
+          "MG": "When we listened carefully, ......we could hear it faintly.\n...Maria's eerie singing voice.\nShe wasn't singing naturally, as though she were in a good mood.\n......She was singing mechanically, like she was at a graduation ceremony and she'd been ordered to.\n...The song she sang was just a common folk song, one that everyone has probably sung in school at one time or another.\n...But why that, in the middle of the night, alone, with all her heart, over and over, why...?!",
+          "UP": "When we listened carefully, .........we could hear it faintly.\n......Maria's eerie singing voice.\nShe wasn't singing naturally, as though she were in a good mood.\n.........She was singing mechanically, as if she was in music class in school and had been ordered to sing.\n...The song she was singing was just a common folk song, one that everyone has probably sung in school at one time or another.\n......But why that, in the middle of the night, alone, with all her heart, over and over, why...?!",
+          "note": "MG retains added graduation ceremony; UP restores school music class.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0405",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0409"
+            ],
+            "MG": [
+              "umi1_16-L0405",
+              "umi1_16-L0409"
+            ],
+            "UP": [
+              "umi1_16-L0405",
+              "umi1_16-L0409"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "それは、機嫌がよくて自然と口に出てしまうような歌い方ではない。………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。…歌っている歌は、誰もが学校で一度は歌ったことがあるに違いない平凡な民謡。……しかし、それを、なぜ、こんな深夜に、ひとりで、一生懸命に、ずっと、どうして…？！",
+              "translation": "She wasn't singing naturally, as though she were in a good mood. ......She was singing mechanically, like she was at a graduation ceremony and she'd been ordered to. ...The song she sang was just a common folk song, one that everyone has probably sung in school at one time or another. ...But why that, in the middle of the night, alone, with all her heart, over and over, why...?! "
+            },
+            "UP": {
+              "japanese": "それは、機嫌がよくて自然と口に出てしまうような歌い方ではない。………それはまるで、学校の授業などで、歌うことを命じられて歌うような、無機質な歌い方。…歌っている歌は、誰もが学校で一度は歌ったことがあるに違いない平凡な民謡。……しかし、それを、なぜ、こんな深夜に、ひとりで、一生懸命に、ずっと、どうして…？！",
+              "translation": "She wasn't singing naturally, as though she were in a good mood. .........She was singing mechanically, as if she was in music class in school and had been ordered to sing. ...The song she was singing was just a common folk song, one that everyone has probably sung in school at one time or another. ......But why that, in the middle of the night, alone, with all her heart, over and over, why...?!"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0409"
+            ],
+            "MG": [
+              "umi1_16-L0409"
+            ],
+            "UP": [
+              "umi1_16-L0409"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria sings mechanically, like someone singing because a school class requires it, rather than spontaneously from good spirits.",
+      "alternative": "A graduation ceremony can also involve compulsory singing and retains the mechanical-performance comparison. It still supplies an unsupported ceremonial occasion and its associations.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-012",
+      "kind": "WH",
+      "description": "今朝からずっと becomes “In the morning ... the whole time,” contracting the retrospective duration.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              434,
+              439
+            ],
+            "MG": [
+              434,
+              439
+            ],
+            "UP": [
+              434,
+              439
+            ]
+          },
+          "japanese": "客間の中からは、同じ歌をいつまでも何度も繰り返す真里亞の声がずっと聞こえている。\n……それは例えるなら壊れた、イカれたカセットテープ…。\n今朝からずっとこの部屋の中にいた。\n…いつも恐ろしいことはこの部屋の外で起こった。\n…だから、この部屋だけは安全だと思い込んできた。\n………その、根拠なき思い込みが、あっさりと崩れ去っていく……。",
+          "japanesePC": "今朝からずっとこの部屋の中にいた。",
+          "japanesePS3": "客間の中からは、同じ歌をいつまでも何度も繰り返す真里亞の声がずっと聞こえている。\n……それは例えるなら壊れた、イカれたカセットテープ…。\n今朝からずっとこの部屋の中にいた。\n…いつも恐ろしいことはこの部屋の外で起こった。\n…だから、この部屋だけは安全だと思い込んできた。\n………その、根拠なき思い込みが、あっさりと崩れ去っていく……。",
+          "WH": "In the morning, we had been in that room the whole time.",
+          "MG": "The whole time, we could hear Maria's voice from the parlor, singing the same song over and over.\n...It was like a broken, crazy cassette tape...\nWe'd been in that room almost constantly since morning.\n...All the frightening things had occurred outside that room.\n...That had left us with the impression that only this room was safe.\n......That baseless impression was quickly falling apart...",
+          "UP": "The whole time, we could hear Maria's voice from the parlor, singing the same song over and over.\n......It was like a broken, crazy cassette tape...\nIn the morning, we had been in that room the whole time.\n...All of the frightening things had occurred outside that room.\n...So, we had convinced ourselves that even if nowhere else could be trusted, that room alone was safe.\n.........That baseless impression was quickly falling apart......",
+          "note": "MG restores almost constantly since morning. UP retains in the morning whole time, shortening retrospective duration.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_16-L0434",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0436"
+            ],
+            "MG": [
+              "umi1_16-L0434",
+              "umi1_16-L0436"
+            ],
+            "UP": [
+              "umi1_16-L0434",
+              "umi1_16-L0436"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "今朝からずっとこの部屋の中にいた。\n…いつも恐ろしいことはこの部屋の外で起こった。\n…だから、この部屋だけは安全だと思い込んできた。………その、根拠なき思い込みが、あっさりと崩れ去っていく……。",
+              "translation": "We'd been in that room almost constantly since morning. ...All the frightening things had occurred outside that room. ...That had left us with the impression that only this room was safe. ......That baseless impression was quickly falling apart... "
+            },
+            "UP": {
+              "japanese": "今朝からずっとこの部屋の中にいた。\n…いつも恐ろしいことはこの部屋の外で起こった。\n…だから、この部屋だけは安全だと思い込んできた。………その、根拠なき思い込みが、あっさりと崩れ去っていく……。",
+              "translation": "In the morning, we had been in that room the whole time.\n...All of the frightening things had occurred outside that room.\n...So, we had convinced ourselves that even if nowhere else could be trusted, that room alone was safe. .........That baseless impression was quickly falling apart......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0436"
+            ],
+            "MG": [
+              "umi1_16-L0436"
+            ],
+            "UP": [
+              "umi1_16-L0436"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "They had been in this room throughout the time since that morning; horrors occurring elsewhere had encouraged an unfounded belief that it was safe.",
+      "alternative": "Their excursions mean the Japanese itself is a rhetorical generalization rather than literal continuous occupancy. Rows 38938–38939 later correctly say they spent almost the entire day there, limiting the harm.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-013",
+      "kind": "WH",
+      "description": "“Like I’d quit now” reverses Battler’s expressed wish to say he does not want to go after all.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              443,
+              451
+            ],
+            "MG": [
+              443,
+              451
+            ],
+            "UP": [
+              443,
+              451
+            ]
+          },
+          "japanese": "「……伯母さん。\n一気に飛び込んで左右に分かれよう。\n扉を開けてぼさっとしてたら、例のアイスピックがど真ん中に飛んでくるかもしれねぇぜ…！」\n「承知しています。\n………いいですか…？」\n「いっひっひ…！\nやっぱ嫌だって言いてぇなぁ…！」\n俺は覚悟を決める。\n…向こうがアイスピックを投げてくるってんなら、俺だってこの燭台をお見舞いしてやるッ！！",
+          "japanesePC": "「いっひっひ…！　やっぱ嫌だって言いてぇなぁ…！」",
+          "japanesePS3": "「……伯母さん。\n一気に飛び込んで左右に分かれよう。\n扉を開けてぼさっとしてたら、例のアイスピックがど真ん中に飛んでくるかもしれねぇぜ…！」\n「承知しています。\n………いいですか…？」\n「いっひっひ…！\nやっぱ嫌だって言いてぇなぁ…！」\n俺は覚悟を決める。\n…向こうがアイスピックを投げてくるってんなら、俺だってこの燭台をお見舞いしてやるッ！！",
+          "WH": "\"Ihihi...!  Like I'd quit now...!\"",
+          "MG": "\"...Aunt Natsuhi,\nlet's jump in at the same time and split up in different directions.\nIf we just stand around after opening the door, those icepicks might fly right through the center...!\"\n\"I agree.\n......Ready...?\"\n\"Ihihi...!\nI really wish I could say \"no\"...!\"\nI readied myself.\n...If they're gonna be throwing icepicks, I'll whack 'em with this candle stand!!",
+          "UP": "\"......Auntie.\nLet's all jump in at once and split up in different directions.\nIf we just stand around after opening the door, those icepicks might fly right through the center...!\"\n\"I'm well aware.\n.........Ready...?\"\n\"Ihihi...!\nActually, I kinda wish I could call it quits...!\"\nI readied myself.\n...If they're going to throw icepicks at me, we'll see how they like my candlestick!!",
+          "note": "Both restore wish to decline/quit instead of defiant refusal to quit.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0443",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0448"
+            ],
+            "MG": [
+              "umi1_16-L0443",
+              "umi1_16-L0446",
+              "umi1_16-L0448",
+              "umi1_16-L0450"
+            ],
+            "UP": [
+              "umi1_16-L0443",
+              "umi1_16-L0446",
+              "umi1_16-L0448",
+              "umi1_16-L0450"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いっひっひ…！　やっぱ嫌だって言いてぇなぁ…！」",
+              "translation": "\"Ihihi...! I really wish I could say \"no\"...!\" "
+            },
+            "UP": {
+              "japanese": "「いっひっひ…！　やっぱ嫌だって言いてぇなぁ…！」",
+              "translation": "\"Ihihi...! Actually, I kinda wish I could call it quits...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0448"
+            ],
+            "MG": [
+              "umi1_16-L0448"
+            ],
+            "UP": [
+              "umi1_16-L0448"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "With a nervous laugh, Battler says he would like to say “actually, I don’t want to,” then steels himself and imagines striking back with the candlestick.",
+      "alternative": "His laugh and the following resolve still show him coping with danger. Nevertheless, the translated line makes him boast that he would never back out rather than admit his wish to do so.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-014",
+      "kind": "WH",
+      "description": "冗談も休み休み言いやがれ is rendered “Calmly joking at a time like this,” treating an idiomatic rebuke as an observation about the manner and timing of a joke.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              551,
+              554
+            ],
+            "MG": [
+              551,
+              554
+            ],
+            "UP": [
+              551,
+              554
+            ]
+          },
+          "japanese": "「はぁッ？！\n冗談も休み休み言いやがれッ！！！\nそんなわけねぇだろ？！\nお前は何を言ってやがるんだ？！」",
+          "japanesePC": "「はぁッ？！　冗談も休み休み言いやがれッ！！！　そんなわけねぇだろ？！　お前は何を言ってやがるんだ？！」",
+          "japanesePS3": "「はぁッ？！\n冗談も休み休み言いやがれッ！！！\nそんなわけねぇだろ？！\nお前は何を言ってやがるんだ？！」",
+          "WH": "\"Huuhh?!  Calmly joking at a time like this?!!!  Like hell that happened!  What are you saying?!\"",
+          "MG": "\"Huuhh?!\nCalmly joking at a time like this?!!!\nLike hell that happened!\nWhat are you saying?!\"",
+          "UP": "\"Huuhh?!\nGive it a rest with your goddamn jokes!!!\nLike hell that happened!\nWhat are you going on about?!\"",
+          "note": "MG retains Calmly joking at a time like this; UP correctly gives idiomatic imperative Give it a rest with your goddamn jokes.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0551",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0551"
+            ],
+            "MG": [
+              "umi1_16-L0551"
+            ],
+            "UP": [
+              "umi1_16-L0551"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はぁッ？！　冗談も休み休み言いやがれッ！！！　そんなわけねぇだろ？！　お前は何を言ってやがるんだ？！」",
+              "translation": "\"Huuhh?! Calmly joking at a time like this?!!! Like hell that happened! What are you saying?!\" "
+            },
+            "UP": {
+              "japanese": "「はぁッ？！　冗談も休み休み言いやがれッ！！！　そんなわけねぇだろ？！　お前は何を言ってやがるんだ？！」",
+              "translation": "\"Huuhh?! Give it a rest with your goddamn jokes!!! Like hell that happened! What are you going on about?!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0551"
+            ],
+            "MG": [
+              "umi1_16-L0551"
+            ],
+            "UP": [
+              "umi1_16-L0551"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler angrily dismisses the butterfly-entry account as absurd: roughly, give the nonsense a rest.",
+      "alternative": "The following “Like hell that happened” and “What are you saying” retain his disbelief. A rebuke about joking is contextually possible, but “calmly” does not convey the idiom’s force.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-015",
+      "kind": "WH",
+      "description": "自負する becomes “bearing the title,” giving formal-title language to her own proud claim of representation.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.relationship_power",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              642,
+              644
+            ],
+            "MG": [
+              642,
+              644
+            ],
+            "UP": [
+              642,
+              644
+            ]
+          },
+          "japanese": "「……右代宮家の代表であると自負する私と、\n右代宮家の当主を引き継いだと自称する貴女が、今この場にいる。\n……あなたが本当に魔女なのかどうかは、今となっては些細な問題です！」",
+          "japanesePC": "……右代宮家の代表であると自負する私と、",
+          "japanesePS3": "「……右代宮家の代表であると自負する私と、\n右代宮家の当主を引き継いだと自称する貴女が、今この場にいる。\n……あなたが本当に魔女なのかどうかは、今となっては些細な問題です！」",
+          "WH": "......Both I, bearing the title of representative to the Ushiromiya family,",
+          "MG": "\"...Both I who bear the title of representative to the Ushiromiya family...\nand you who claim to succeed the Headship of the Ushiromiya family...are here right now.\n...At this point, whether you are a witch or not is a trivial matter!\"",
+          "UP": "\"......Both I, bearing the title of representative to the Ushiromiya family,\nand you, claiming to have succeeded the head of the Ushiromiya family, are here right now.\n......At this point, whether you are a witch or not is a trivial problem!\"",
+          "note": "Both retain bearing the title rather than her self-professed pride in representation; Beatrice’s own claim remains distinguished.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_16-L0642",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0642"
+            ],
+            "MG": [
+              "umi1_16-L0642"
+            ],
+            "UP": [
+              "umi1_16-L0642"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……右代宮家の代表であると自負する私と、右代宮家の当主を引き継いだと自称する貴女が、今この場にいる。……あなたが本当に魔女なのかどうかは、今となっては些細な問題です！」",
+              "translation": "\"...Both I who bear the title of representative to the Ushiromiya family... and you who claim to succeed the Headship of the Ushiromiya family...are here right now. ...At this point, whether you are a witch or not is a trivial matter!\" "
+            },
+            "UP": {
+              "japanese": "「……右代宮家の代表であると自負する私と、右代宮家の当主を引き継いだと自称する貴女が、今この場にいる。……あなたが本当に魔女なのかどうかは、今となっては些細な問題です！」",
+              "translation": "\"......Both I, bearing the title of representative to the Ushiromiya family, and you, claiming to have succeeded the head of the Ushiromiya family, are here right now. ......At this point, whether you are a witch or not is a trivial problem!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0642"
+            ],
+            "MG": [
+              "umi1_16-L0642"
+            ],
+            "UP": [
+              "umi1_16-L0642"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Natsuhi describes herself as someone who takes pride in being the family’s representative, opposing Beatrice’s self-proclaimed succession.",
+      "alternative": "She has already introduced herself as the representative, and “bearing the title” can be loose rhetoric. It nevertheless omits the source’s explicit self-assessment and suggests an established designation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-016",
+      "kind": "WH",
+      "description": "The assertive 銃声だぜ and 撃ったんだ become “Was that ...?” and “Did ... shoot?”",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.epistemic_status",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              667,
+              670
+            ],
+            "MG": [
+              667,
+              670
+            ],
+            "UP": [
+              667,
+              670
+            ]
+          },
+          "japanese": "「今のは銃声だぜ？！\n夏妃伯母さんが撃ったんだッ！！」\n誰を？\n犯人をだッ！！！",
+          "japanesePC": "「今のは銃声だぜ？！　夏妃伯母さんが撃ったんだッ！！」",
+          "japanesePS3": "「今のは銃声だぜ？！\n夏妃伯母さんが撃ったんだッ！！」\n誰を？\n犯人をだッ！！！",
+          "WH": "\"Was that the sound of a gun just now?!  Did Natsuhi oba-san shoot?!!\"",
+          "MG": "\"Was that the sound of a gun just now?!\nDid Aunt Natsuhi shoot?!!\"\nAt whom?\nAt the culprit!!!",
+          "UP": "\"That was the sound of a gun just now!!\nAunt Natsuhi just shot!!\"\nAt who?\nAt the culprit!!!",
+          "note": "MG retains questions Was that and Did Aunt Natsuhi shoot; UP restores declarative sound-of-gun and Natsuhi-shot assertions. Target identification remains Battler’s inference in all witnesses.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0667",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0667"
+            ],
+            "MG": [
+              "umi1_16-L0667",
+              "umi1_16-L0669"
+            ],
+            "UP": [
+              "umi1_16-L0667",
+              "umi1_16-L0669"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「今のは銃声だぜ？！　夏妃伯母さんが撃ったんだッ！！」",
+              "translation": "\"Was that the sound of a gun just now?! Did Aunt Natsuhi shoot?!!\" "
+            },
+            "UP": {
+              "japanese": "「今のは銃声だぜ？！　夏妃伯母さんが撃ったんだッ！！」",
+              "translation": "\"That was the sound of a gun just now!! Aunt Natsuhi just shot!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0667"
+            ],
+            "MG": [
+              "umi1_16-L0667"
+            ],
+            "UP": [
+              "umi1_16-L0667"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler emphatically says that was a gunshot and that Natsuhi fired it. He then supplies his own confident answer that she shot at the culprit.",
+      "alternative": "The Japanese has excited interrogative punctuation, but its declarative predicates and the subsequent question-and-answer about the target establish assertions. The English following line retains his culprit inference.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-017",
+      "kind": "WH",
+      "description": "そこは becomes “We were,” relocating the observers to the portrait rather than identifying the place in the darkness toward which Maria ran.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              747,
+              756
+            ],
+            "MG": [
+              747,
+              756
+            ],
+            "UP": [
+              747,
+              756
+            ]
+          },
+          "japanese": "真里亞が突然、嬉しそうに叫び、暗がりへ駆けて行く。\nそれはまるで、……その暗がりの中に、ベアトリーチェがいて、駆け寄っていくみたいじゃないか。\n俺は銃口越しに、\n朱志香は母の屍を抱きながら、\n譲治の兄貴は呆然としながら、\n……その闇の向こうを見る…。\nそこは、ベアトリーチェの肖像画の前。\nそして、真里亞が飛びつくのは、\n……肖像画の、\n…人物。",
+          "japanesePC": "そこは、ベアトリーチェの肖像画の前。",
+          "japanesePS3": "真里亞が突然、嬉しそうに叫び、暗がりへ駆けて行く。\nそれはまるで、……その暗がりの中に、ベアトリーチェがいて、駆け寄っていくみたいじゃないか。\n俺は銃口越しに、\n朱志香は母の屍を抱きながら、\n譲治の兄貴は呆然としながら、\n……その闇の向こうを見る…。\nそこは、ベアトリーチェの肖像画の前。\nそして、真里亞が飛びつくのは、\n……肖像画の、\n…人物。",
+          "WH": "We were in front of Beatrice's portrait.",
+          "MG": "Maria suddenly called out happily and ran towards the darkness.\nIt was almost as though Beatrice was somewhere in that darkness, and Maria was running up to her.\nAs Jessica hugged her mother's corpse,\nas George-aniki stood there, confused,\nI looked down the barrel of the rifle,\n...gazing into the darkness...\nThe space in front of Beatrice's portrait lay in that direction.\nAnd...the thing Maria was running up to was...\nthe portrait's...\nsubject.",
+          "UP": "Maria suddenly called out happily, and ran towards the darkness.\nIt was almost as though......Beatrice was somewhere in that darkness, and Maria was running up to her.\nAs I looked down the barrel of the rifle,\nas Jessica hugged her mother's corpse,\nas George‐aniki stood there shocked,\n......we gazed into the darkness...\nOur eyes...fixed just in front of Beatrice's portrait.\nAnd there, Maria leapt into a hug...\n...with the portrait's...\nsubject.",
+          "note": "MG explicitly places portrait space in direction of gaze; UP fixes eyes on portrait destination. Neither relocates group there.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0747",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0753"
+            ],
+            "MG": [
+              "umi1_16-L0747",
+              "umi1_16-L0749",
+              "umi1_16-L0753"
+            ],
+            "UP": [
+              "umi1_16-L0747",
+              "umi1_16-L0749",
+              "umi1_16-L0753"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そこは、ベアトリーチェの肖像画の前。そして、真里亞が飛びつくのは、……肖像画の、…人物。",
+              "translation": "The space in front of Beatrice's portrait lay in that direction. And...the thing Maria was running up to was... the portrait's... subject. "
+            },
+            "UP": {
+              "japanese": "そこは、ベアトリーチェの肖像画の前。そして、真里亞が飛びつくのは、……肖像画の、…人物。",
+              "translation": "Our eyes...fixed just in front of Beatrice's portrait. And there, Maria leapt into a hug... ...with the portrait's... subject."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0753"
+            ],
+            "MG": [
+              "umi1_16-L0753"
+            ],
+            "UP": [
+              "umi1_16-L0753"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The place they look toward, where Maria runs and clings to the portrait’s subject, is in front of Beatrice’s portrait.",
+      "alternative": "All are in the entrance hall and might be described loosely as in front of the portrait. The local referent nevertheless follows Maria’s movement into the darkness and their looking toward it, not a statement about the group’s position.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH16-018",
+      "kind": "WH",
+      "description": "“isn’t 24:00 is a strange time” contains both contracted and repeated finite “is.”",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              739,
+              745
+            ],
+            "MG": [
+              739,
+              745
+            ],
+            "UP": [
+              739,
+              745
+            ]
+          },
+          "japanese": "その言葉に俺は自分の腕時計を見る。\n２本の針は頂点で交わろうとしている。\n……もうじき、午後１２時を迎える。\n…つまり、２４時だ。\n思えば、２４時とは何と奇妙な時間なのか。\n…２４時とも呼び、０時とも呼ぶ。\n一日の全てが満ちた時間にして、…同時に新しい一日が始まるゼロの時間でもある。",
+          "japanesePC": "思えば、２４時とは何と奇妙な時間なのか。",
+          "japanesePS3": "その言葉に俺は自分の腕時計を見る。\n２本の針は頂点で交わろうとしている。\n……もうじき、午後１２時を迎える。\n…つまり、２４時だ。\n思えば、２４時とは何と奇妙な時間なのか。\n…２４時とも呼び、０時とも呼ぶ。\n一日の全てが満ちた時間にして、…同時に新しい一日が始まるゼロの時間でもある。",
+          "WH": "When you think about it, isn't 24:00 is a strange time?",
+          "MG": "Hearing those words, I looked at my wristwatch.\nBoth needles were almost touching near the top.\n...Very soon, it will be 12:00 at night.\n...In other words, 24:00.\nWhen you think about it, isn't 24:00 is a strange time?\n...It can be called 24:00, and it can also be called 0:00.\nIt's the hour at the culmination of the previous day, ...and at the same time, it's hour zero as the next day begins.",
+          "UP": "Hearing those words, I looked at my wristwatch.\nBoth hands were almost touching near the top.\n......Very soon, it would be 12 a.m.\n...In other words, 24:00.\nWhen you think about it, isn't 24:00 a strange time?\n...It can be called 24:00, and it can also be called 0:00.\nIt's the hour at the culmination of the previous day, ...and at the same time, it is hour zero as the next day begins.",
+          "note": "MG retains isn’t 24:00 is a strange time; UP removes repeated finite is.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_16-L0737",
+          "readerRefs": {
+            "WH": [
+              "umi1_16-L0743"
+            ],
+            "MG": [
+              "umi1_16-L0737",
+              "umi1_16-L0743"
+            ],
+            "UP": [
+              "umi1_16-L0737",
+              "umi1_16-L0743"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "思えば、２４時とは何と奇妙な時間なのか。\n…２４時とも呼び、０時とも呼ぶ。一日の全てが満ちた時間にして、…同時に新しい一日が始まるゼロの時間でもある。",
+              "translation": "When you think about it, isn't 24:00 is a strange time? ...It can be called 24:00, and it can also be called 0:00. It's the hour at the culmination of the previous day, ...and at the same time, it's hour zero as the next day begins. "
+            },
+            "UP": {
+              "japanese": "思えば、２４時とは何と奇妙な時間なのか。\n…２４時とも呼び、０時とも呼ぶ。一日の全てが満ちた時間にして、…同時に新しい一日が始まるゼロの時間でもある。",
+              "translation": "When you think about it, isn't 24:00 a strange time?\n...It can be called 24:00, and it can also be called 0:00. It's the hour at the culmination of the previous day, ...and at the same time, it is hour zero as the next day begins."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_16-L0743"
+            ],
+            "MG": [
+              "umi1_16-L0743"
+            ],
+            "UP": [
+              "umi1_16-L0743"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler rhetorically reflects on how strange midnight is, both the culmination of a day and hour zero of the next.",
+      "alternative": "The intended question is readily understandable. This is a small grammatical defect with no change to the temporal explanation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-MARIA-INDIRECT-QUESTION-GRAMMAR-001",
+      "kind": "additional",
+      "description": "UP uses inverted direct-question word order inside an indirect question: “can you tell me why were you facing”. George is asking why Maria faced the wall; the embedded clause requires “why you were facing”. MG retains a grammatical direct question.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              538,
+              538
+            ],
+            "MG": [
+              538,
+              538
+            ],
+            "UP": [
+              538,
+              538
+            ]
+          },
+          "japanese": "「…真里亞ちゃんは、……どうして壁を向いてお歌を歌っていたのかな…？」",
+          "japanesePC": "",
+          "japanesePS3": "「…真里亞ちゃんは、……どうして壁を向いてお歌を歌っていたのかな…？」",
+          "WH": "",
+          "MG": "\"...Maria-chan, ...why were you facing the wall and singing...?\"",
+          "UP": "\"...Maria‐chan, ......can you tell me why were you facing the wall and singing that song...?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "introduced"
+          },
+          "readerRef": "umi1_16-L0538",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_16-L0538"
+            ],
+            "UP": [
+              "umi1_16-L0538"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…真里亞ちゃんは、……どうして壁を向いてお歌を歌っていたのかな…？」",
+              "translation": "\"...Maria-chan, ...why were you facing the wall and singing...?\" "
+            },
+            "UP": {
+              "japanese": "「…真里亞ちゃんは、……どうして壁を向いてお歌を歌っていたのかな…？」",
+              "translation": "\"...Maria‐chan, ......can you tell me why were you facing the wall and singing that song...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_16-L0538"
+            ],
+            "UP": [
+              "umi1_16-L0538"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Can you tell me why you were facing the wall and singing?",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-BEATRICE-GUN-FUTILITY-SCOPE-001",
+      "kind": "additional",
+      "description": "Maria says guns have no effect on Beatrice specifically. MG makes this a general claim that guns are useless against witches; UP preserves Beatrice as the target. The MG line broadens the asserted immunity beyond the source’s named individual.",
+      "categories": [
+        "linguistic.overinterpretation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              731,
+              734
+            ],
+            "MG": [
+              731,
+              734
+            ],
+            "UP": [
+              731,
+              734
+            ]
+          },
+          "japanese": "「…………きひひひひひ。\nよしなよ戦人。\n…ベアトリーチェに銃なんて意味ないよ。\nそれに、生き残るも何も、もうおしまいなんだよ。",
+          "japanesePC": "",
+          "japanesePS3": "「…………きひひひひひ。\nよしなよ戦人。\n…ベアトリーチェに銃なんて意味ないよ。\nそれに、生き残るも何も、もうおしまいなんだよ。",
+          "WH": "",
+          "MG": "\"......Kihihihihihi.\nGive it up, Battler.\n...Guns are useless against witches.\nSurvival and all that stuff doesn't matter...because it's over.",
+          "UP": "\"............Kihihihihihi.\nGive it up, Battler.\n...Guns are meaningless against Beatrice.\nBesides, survival and everything else doesn't matter now, because it's over.",
+          "note": "",
+          "dispositions": {
+            "MG": "introduced",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_16-L0731",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_16-L0731"
+            ],
+            "UP": [
+              "umi1_16-L0731"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………きひひひひひ。よしなよ戦人。…ベアトリーチェに銃なんて意味ないよ。それに、生き残るも何も、もうおしまいなんだよ。もう、旅は終わったんだよ。……ほら、時計を見てごらん」",
+              "translation": "\"......Kihihihihihi. Give it up, Battler. ...Guns are useless against witches. Survival and all that stuff doesn't matter...because it's over. The journey has already ended. ......See, look at the clock.\" "
+            },
+            "UP": {
+              "japanese": "「…………きひひひひひ。よしなよ戦人。…ベアトリーチェに銃なんて意味ないよ。それに、生き残るも何も、もうおしまいなんだよ。もう、旅は終わったんだよ。……ほら、時計を見てごらん」",
+              "translation": "\"............Kihihihihihi. Give it up, Battler. ...Guns are meaningless against Beatrice. Besides, survival and everything else doesn't matter now, because it's over. The journey has already ended. ......See, look at the clock.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_16-L0731"
+            ],
+            "UP": [
+              "umi1_16-L0731"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Guns are useless against Beatrice.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH17-121-240-001",
+      "kind": "additional",
+      "description": "MG rewrites the epitaph arrival clue and its solution as a treasure-power exponent puzzle.",
+      "categories": [
+        "linguistic.addition"
+      ],
+      "severity": "major",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_16",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              715,
+              715
+            ],
+            "MG": [
+              715,
+              715
+            ],
+            "UP": [
+              715,
+              715
+            ]
+          },
+          "japanese": "……そして、第十の晩に旅は終わり、黄金の郷へ至るだろう」",
+          "japanesePC": "",
+          "japanesePS3": "……そして、第十の晩に旅は終わり、黄金の郷へ至るだろう」",
+          "WH": "",
+          "MG": "...and on the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.",
+          "UP": "......And on the tenth twilight, the journey ends, and you shall reach the Home of the Gold.\"",
+          "note": "Direct EP1 passage and original PC17242/17254 checked: English power/finality wording is an editorial adaptation, not Japanese-PC carryover.",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi1_16-L0714",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_16-L0714"
+            ],
+            "UP": [
+              "umi1_16-L0714"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……第九の晩に、魔女は蘇り、誰も生き残れはしない。……そして、第十の晩に旅は終わり、黄金の郷へ至るだろう」",
+              "translation": "\"...On the ninth twilight, the witch shall revive, and none shall be left alive, ...and on the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time. "
+            },
+            "UP": {
+              "japanese": "「……第九の晩に、魔女は蘇り、誰も生き残れはしない。……そして、第十の晩に旅は終わり、黄金の郷へ至るだろう」",
+              "translation": "\"......On the ninth twilight, the witch revives, and none shall be left alive. ......And on the tenth twilight, the journey ends, and you shall reach the Home of the Gold.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_16-L0714"
+            ],
+            "UP": [
+              "umi1_16-L0714"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The source concludes by reaching the Golden Land. CH16 explains 郷 read as kyou, then 京 interpreted as kei (10^16), one tenth giving quadrillion. MG adds treasure power and finality to the epitaph and replaces the Kyoto/kei reasoning with repeated exponentiation. Original PC163883/163977/164003 and164983/164985 preserve the Japanese chain and arrival; UP follows them.",
+      "alternative": "The English adaptation coordinates its altered epitaph with a solvable English mechanism. This explains the editorial choice but does not preserve the source clue, Rosa theory, or narrated arithmetic; it is one connected adaptation rather than multiple independent defects.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-CH16-001": {
+      "umi1_16-L0035": {
+        "WH": [
+          "we were sure to find"
+        ],
+        "MG": [
+          "we were sure to find"
+        ],
+        "UP": [
+          "we were sure to find"
+        ]
+      }
+    },
+    "WH-EP01-CH16-002": {
+      "umi1_16-L0045": {
+        "WH": [
+          "Natsuhi oba-san told us to stay vigilant all night",
+          "our bodies can handle that"
+        ]
+      }
+    },
+    "WH-EP01-CH16-003": {
+      "umi1_16-L0055": {
+        "WH": [
+          "getting obsessed with all this weird stuff"
+        ]
+      }
+    },
+    "WH-EP01-CH16-004": {
+      "umi1_16-L0101": {
+        "WH": [
+          "hit Maria-chan"
+        ],
+        "MG": [
+          "hit Maria-chan"
+        ]
+      }
+    },
+    "WH-EP01-CH16-005": {
+      "umi1_16-L0123": {
+        "WH": [
+          "Had Maria saved herself from that"
+        ]
+      }
+    },
+    "WH-EP01-CH16-006": {
+      "umi1_16-L0192": {
+        "WH": [
+          "a lot of brutal things have happened"
+        ],
+        "MG": [
+          "a lot of brutal things have happened"
+        ]
+      }
+    },
+    "WH-EP01-CH16-007": {
+      "umi1_16-L0198": {
+        "WH": [
+          "in the culprit's grasp"
+        ],
+        "MG": [
+          "in the culprit's grasp"
+        ],
+        "UP": [
+          "in the culprit's grasp"
+        ]
+      }
+    },
+    "WH-EP01-CH16-008": {
+      "umi1_16-L0227": {
+        "WH": [
+          "she was oversimplifying"
+        ],
+        "MG": [
+          "her words were an idealized view of what a mother should be"
+        ],
+        "UP": [
+          "these were only words"
+        ]
+      }
+    },
+    "WH-EP01-CH16-009": {
+      "umi1_16-L0355": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Dubious ritual suitability is absent; the candlestick and prongs are retained correctly."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "Dubious ritual suitability is absent; the candlestick and prongs are retained correctly."
+        }
+      }
+    },
+    "WH-EP01-CH16-010": {
+      "umi1_16-L0375": {
+        "WH": [
+          "had thrown them out into dangerous territory"
+        ]
+      }
+    },
+    "WH-EP01-CH16-011": {
+      "umi1_16-L0409": {
+        "WH": [
+          "at a graduation ceremony"
+        ],
+        "MG": [
+          "at a graduation ceremony"
+        ]
+      }
+    },
+    "WH-EP01-CH16-012": {
+      "umi1_16-L0436": {
+        "WH": [
+          "In the morning"
+        ],
+        "UP": [
+          "In the morning"
+        ]
+      }
+    },
+    "WH-EP01-CH16-013": {
+      "umi1_16-L0448": {
+        "WH": [
+          "Like I'd quit now"
+        ]
+      }
+    },
+    "WH-EP01-CH16-014": {
+      "umi1_16-L0551": {
+        "WH": [
+          "Calmly joking at a time like this"
+        ],
+        "MG": [
+          "Calmly joking at a time like this"
+        ]
+      }
+    },
+    "WH-EP01-CH16-015": {
+      "umi1_16-L0642": {
+        "WH": [
+          "bearing the title of representative"
+        ],
+        "MG": [
+          "bear the title of representative"
+        ],
+        "UP": [
+          "bearing the title of representative"
+        ]
+      }
+    },
+    "WH-EP01-CH16-016": {
+      "umi1_16-L0667": {
+        "WH": [
+          "Was that the sound of a gun just now?!",
+          "Did Natsuhi oba-san shoot?!!"
+        ],
+        "MG": [
+          "Was that the sound of a gun just now?!",
+          "Did Aunt Natsuhi shoot?!!"
+        ]
+      }
+    },
+    "WH-EP01-CH16-017": {
+      "umi1_16-L0753": {
+        "WH": [
+          "We were in front of Beatrice's portrait"
+        ]
+      }
+    },
+    "WH-EP01-CH16-018": {
+      "umi1_16-L0743": {
+        "WH": [
+          "isn't 24:00 is a strange time"
+        ],
+        "MG": [
+          "isn't 24:00 is a strange time"
+        ]
+      }
+    },
+    "PAIR-EP01-MARIA-INDIRECT-QUESTION-GRAMMAR-001": {
+      "umi1_16-L0538": {
+        "UP": [
+          "why were you facing"
+        ]
+      }
+    },
+    "PAIR-EP01-BEATRICE-GUN-FUTILITY-SCOPE-001": {
+      "umi1_16-L0731": {
+        "MG": [
+          "Guns are useless against witches"
+        ]
+      }
+    },
+    "PAIR-EP07-CH17-121-240-001": {
+      "umi1_16-L0714": {
+        "MG": [
+          "attain to the power of the Golden Land's treasures, once and for the last time"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

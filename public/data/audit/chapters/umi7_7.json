@@ -1,1 +1,1307 @@
-{"findings":[{"id":"WH-EP07-CH07-001","kind":"WH","description":"Jessica’s apology for her own display becomes an apology for Lion’s conduct.","categories":["linguistic.wrong_subject","character.voice_state","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[2,2],"MG":[2,2],"UP":[2,2]},"japanese":"次期当主サマのせいでお見苦しいとこを見せちゃって……」","japanesePC":"「あ、えへへ、さっきはその、次期当主サマのせいでお見苦しいとこを見せちゃって......。」","japanesePS3":"次期当主サマのせいでお見苦しいとこを見せちゃって……」","WH":"\"Ah...heheh.  I apologize for our Successor-sama's lack of courtesy back there......\"","MG":"I apologize for our Successor-sama's lack of courtesy back there...\"","UP":"sorry you had to see me acting like that... I blame the future heir......\"","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_7-L0001","readerRefs":{"WH":["umi7_7-L0001"],"MG":["umi7_7-L0001"],"UP":["umi7_7-L0001"]}}],"sourceReading":"Jessica apologizes for showing an embarrassing side of herself, while blaming Successor-sama for causing it.","alternative":"The English apologizes for the successor’s lack of courtesy. It retains hostility toward Lion but removes Jessica’s acknowledgment that she herself made the embarrassing display. Her subsequent formal greeting again shows concern for her own manners.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-002","kind":"WH","description":"Lion’s election gains an unsupported landslide margin.","categories":["linguistic.addition","world.world_fact","character.relationship_power"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[22,22],"MG":[22,22],"UP":[22,22]},"japanese":"「でも翌年にちゃっかり立候補して当選しちゃいやがった！","japanesePC":"でも翌年にちゃっかり立候補して当選しちゃいやがった！　高校でもそう！　今度こそやめてくれって言ったのに、その時点でもまた副会長で！　また３年になるのと同時に会長になりやがったー！","japanesePS3":"「でも翌年にちゃっかり立候補して当選しちゃいやがった！","WH":"But the next year rolls around, and here comes the announcement of candidacy followed by a landslide election!","MG":"But the next year rolls around, and guess who announces their candidacy and wins by a landslide election?!","UP":"\"But the next year rolls around, and guess who signs up as a candidate and wins in a landslide?!","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_7-L0019","readerRefs":{"WH":["umi7_7-L0019"],"MG":["umi7_7-L0019"],"UP":["umi7_7-L0019"]}}],"sourceReading":"Lion quietly or cheekily runs for election and wins the following year, against Jessica’s request.","alternative":"Landslide establishes an overwhelming winning margin. 当選 says elected, and ちゃっかり characterizes the action rather than the size of electoral support. No margin is supplied.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-003","kind":"WH","description":"A resurrection proclamation becomes a report of completed revival.","categories":["linguistic.tense_aspect","mystery.epistemic_status","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[78,78],"MG":[78,78],"UP":[78,78]},"japanese":"……右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、","japanesePC":"......右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、一族の人間は“目下として”肯定的に話を合わせるのではないだろうか。","japanesePS3":"……右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、","WH":"......If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived, perhaps the other members of the family would positively go along with his story 'as his inferiors should'.","MG":"...If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived,","UP":"......If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived,","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_7-L0072","readerRefs":{"WH":["umi7_7-L0072"],"MG":["umi7_7-L0072"],"UP":["umi7_7-L0072"]}}],"sourceReading":"Will hypothesizes that if Kinzo proclaims Beatrice will rise again, exists, and will revive, the family will affirm it as subordinates.","alternative":"Had revived recasts the revival proclamation as a completed event. The source nonpast resurrection language and repeated proclamation concern bringing her back; the surrounding reasoning asks how family accommodation makes an imaginary existence recognized. This finding does not assert that Kinzo’s proclamation is objectively true.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-004","kind":"WH","description":"Probably being half asleep becomes sounding crazy.","categories":["linguistic.mistranslation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[143,143],"MG":[143,143],"UP":[143,143]},"japanese":"今にして思うとその、……きっと寝惚けてたんだと思うから」","japanesePC":"今にして思うとその、......きっと寝惚けてたんだと思うから。」","japanesePS3":"今にして思うとその、……きっと寝惚けてたんだと思うから」","WH":"Thinking about it now, ......it sounds more than a little crazy.\"","MG":"Thinking about it now, ...it sounds more than a little crazy.\"","UP":"Thinking about it now, ......it sounds more than a little crazy.\"","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_7-L0140","readerRefs":{"WH":["umi7_7-L0140"],"MG":["umi7_7-L0140"],"UP":["umi7_7-L0140"]}}],"sourceReading":"Jessica thinks now that she was probably sleep-befuddled or half asleep during the experience she is about to recount.","alternative":"Sounds more than a little crazy removes the proposed sleep-state explanation and replaces it with a general judgment about the story. 寝惚ける specifically supplies a possible perceptual explanation, while きっと...と思う marks her retrospective belief.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-005","kind":"WH","description":"A comparatively mild illness becomes children being cute when not vomiting.","categories":["linguistic.idiom_calque","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[225,225],"MG":[225,225],"UP":[225,225]},"japanese":"吐いたりしないだけ可愛いもんやで」","japanesePC":"「幼いうちはそんなもんや。吐いたりしないだけ可愛いもんやで。」","japanesePS3":"吐いたりしないだけ可愛いもんやで」","WH":"\"That's how it is when they're young.  They're cute, at least when they're not regurgitatin'.\"","MG":"They're cute, at least when they're not regurgitatin'.\"","UP":"They're cute, at least when they're not regurgitatin'.\"","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_7-L0224","readerRefs":{"WH":["umi7_7-L0224"],"MG":["umi7_7-L0224"],"UP":["umi7_7-L0224"]}}],"sourceReading":"Hideyoshi reassures Rudolf that such illness is normal in young children and that Ange’s case is mild or manageable at least because she is not vomiting.","alternative":"可愛いもん here means comparatively mild or not so bad. They’re cute ... when they’re not regurgitating reads it as literal attractiveness of children, changing the reassuring comparison to a joke about cuteness. Eva then recalls George’s vomiting.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-006","kind":"WH","description":"Creating a self one can truly like becomes creating a desired image.","categories":["linguistic.undertranslation","linguistic.imagery_rhythm_recurrence","character.motivation_emotion","mystery.mystery_character_link"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[276,276],"MG":[276,276],"UP":[276,276]},"japanese":"人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。","japanesePC":"人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。","japanesePS3":"人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。","WH":"She had been talking about how anyone can create another 'self' in the image of the person they want to be.","MG":"She had been talking about how anyone can create another \"self\" in the image of the person they want to be.","UP":"She had been talking about how anyone can create another self that they can really grow to like.","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_7-L0275","readerRefs":{"WH":["umi7_7-L0275"],"MG":["umi7_7-L0275"],"UP":["umi7_7-L0275"]}}],"sourceReading":"Jessica’s earlier idea is that anyone can create another self through which they can truly like themselves.","alternative":"The person they want to be is present in the surrounding discussion, but this retrospective summary explicitly supplies 本当に好きになれる, authentic self-liking. Replacing it with a desired image removes the self-acceptance aspect of the recalled principle.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-007","kind":"WH","description":"Maria acting as though the witch exists becomes consciously pretending.","categories":["linguistic.overinterpretation","character.agency_responsibility","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[386,386],"MG":[386,386],"UP":[386,386]},"japanese":"……それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった」","japanesePC":"「ベアトリーチェなんて、私たちが森へ行かないよう、大人がでっち上げた怪談だぜ。......それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった。」","japanesePS3":"……それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった」","WH":"\"Beatrice is just a ghost story created by the adults to stop us from wandering into the forest.  ......Maria just thought it was interesting one day and decided to pretend it was true.\"","MG":"...Maria just thought it was interesting one day and decided to act like it was true.\"","UP":"......Maria just thought it was interesting one day and decided to pretend it was true.\"","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi7_7-L0385","readerRefs":{"WH":["umi7_7-L0385"],"MG":["umi7_7-L0385"],"UP":["umi7_7-L0385"]}}],"sourceReading":"Jessica says Maria took an interest and began behaving as though Beatrice really existed. This describes her behavior from Jessica’s skeptical viewpoint.","alternative":"Decided to pretend it was true asserts conscious pretense and a decision to feign belief. 本当にいるかのように振舞い出した does not establish that Maria knows it to be false; the passage repeatedly explores genuine belief and self-interpretation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-008","kind":"WH","description":"Jessica’s visceral discomfort becomes knowledge shared with Kumasawa.","categories":["linguistic.mistranslation","character.motivation_emotion","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[390,390],"MG":[390,390],"UP":[390,390]},"japanese":"「だからさ、そういうの駄目なんだよ、生理的に。","japanesePC":"「だからさ、そういうの駄目なんだよ、生理的に。譲治兄さんの話じゃねぇけどさ、サンタなんかいるわけねぇとまで、騒ぎはしねぇぜ？　だからって、サンタが本当にいるわけじゃねぇ。」","japanesePS3":"「だからさ、そういうの駄目なんだよ、生理的に。","WH":"\"Come on, we both know that isn't true.  I don't need George nii-san to tell me not to make a fuss about Santa not existing.  But that doesn't mean Santa actually exists.\"","MG":"\"Again, when you say stuff like that, you're just freaking me out.","UP":"\"Come on, we both know that isn't true.","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi7_7-L0390","readerRefs":{"WH":["umi7_7-L0390"],"MG":["umi7_7-L0390"],"UP":["umi7_7-L0390"]}}],"sourceReading":"Jessica says that kind of talk is something she instinctively cannot stand, before distinguishing respecting a Santa story from Santa actually existing.","alternative":"We both know that isn’t true replaces Jessica’s 生理的に嫌な reaction with a proposition both speakers supposedly know. Kumasawa immediately says Jessica is mistaken and explains Beatrice as a resident presence requiring respect; the source does not concede her disbelief.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-009","kind":"WH","description":"Searching under the bed loses Jessica physically going underneath.","categories":["linguistic.omission","mystery.physical_constraint","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[763,763],"MG":[763,763],"UP":[763,763]},"japanese":"「……物陰からベッドの下まで探したさ。","japanesePC":"「......物陰からベッドの下まで探したさ。それこそ、中に入り込んでまで。......でも、見つからなかった。」","japanesePS3":"「……物陰からベッドの下まで探したさ。","WH":"\"......I looked everywhere, even under the bed.  ......But I didn't find it.\"","MG":"\"...I looked everywhere,","UP":"\"......I looked everywhere, even under the bed.","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_7-L0763","readerRefs":{"WH":["umi7_7-L0763"],"MG":["umi7_7-L0763"],"UP":["umi7_7-L0763"]}}],"sourceReading":"Jessica searched concealed spots and beneath the bed, even going in underneath, but found no doll.","alternative":"Looked everywhere, even under the bed retains the search location but not the explicit bodily entry 中に入り込んでまで. Later reasoning singles out the bed’s underside as a potential hiding place; physical access and inspection are therefore more than generic emphasis.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-010","kind":"WH","description":"Firmly asserting an event without proof becomes merely thinking it happened.","categories":["linguistic.undertranslation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[815,815],"MG":[815,815],"UP":[815,815]},"japanese":"………私が、確かにあったと言い張ってるだけで、","japanesePC":"「人形が消えた以外、何の変化も証拠もない。......真里亞にも後日聞いたけど、歌のことも電話のことも知らないと言われた。惚けたのか、本当に知らないのかはわからないけれど。\n......とにかく、あの晩のあの出来事は、\n.........私が、確かにあったと言い張ってるだけで、\n......何も証明することが出来ない。」","japanesePS3":"………私が、確かにあったと言い張ってるだけで、","WH":"\"Other than the doll disappearing, there was no other proof that anything had changed.  ......Later on, I talked to Maria, and she said she didn't know anything about that song or the phone call.  I don't know if she was lying or not, of course.\n......Anyway, what happened that night...\n...is just something I thought happened...\n...and there's no proof of any kind.\"","MG":"...is just something I thought happened,","UP":"...is just something I thought happened...","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_7-L0811","readerRefs":{"WH":["umi7_7-L0811"],"MG":["umi7_7-L0811"],"UP":["umi7_7-L0811"]}}],"sourceReading":"Jessica says she herself insists the night’s event definitely occurred, but cannot prove anything. Maria’s denial may be feigned or genuine; Jessica does not know.","alternative":"Just something I thought happened makes the proposition sound like her own uncertain impression. 確かにあったと言い張ってる separates a definite personal claim from inability to establish it for others. Her proposed rationalizations elsewhere remain qualified and do not erase this line’s contrast.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-011","kind":"WH","description":"Branches breaking and falling becomes a whole garden tree falling.","categories":["linguistic.mistranslation","world.world_fact","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[821,821],"MG":[821,821],"UP":[821,821]},"japanese":"……庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった」","japanesePC":"......庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった。」","japanesePS3":"……庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった」","WH":"......and maybe one of the trees in the garden had fallen, which I mistook for that slithering sound.\"","MG":"...and maybe one of the trees in the garden fell, which I mistook for that slithering sound.\"","UP":"......and maybe one of the trees in the garden fell while making rustling sounds, which I mistook for someone crawling out of bed because I was already scared.\"","note":"Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_7-L0819","readerRefs":{"WH":["umi7_7-L0819"],"MG":["umi7_7-L0819"],"UP":["umi7_7-L0819"]}}],"sourceReading":"Jessica later finds it possible that broken garden-tree branches fell with a fluttering/rustling noise which she misinterpreted.","alternative":"One of the trees ... had fallen changes 庭木の枝が千切れて, branches torn or broken off, into an entire fallen tree. The specific sound being rationalized is therefore explained by a different physical event.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH07-012","kind":"WH","description":"Explicit exasperation with self becomes generic pointlessness","categories":["linguistic.omission"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[642,642],"MG":[642,642],"UP":[642,642]},"japanese":"……馬鹿馬鹿しいを通り越して、自分に呆れる…。","japanesePC":"真里亞との喧嘩を、まだ引き摺ってて、こんな時間に貴賓室でぼんやりしてるなんて、......馬鹿馬鹿しいを通り越して、自分に呆れる...。","japanesePS3":"……馬鹿馬鹿しいを通り越して、自分に呆れる…。","WH":"Hanging about in the VIP room this late just because that fight with Maria is still eating at me...  This is totally pointless...","MG":"This is totally pointless...","UP":"......This is beyond stupid... I'm disappointed in myself.","note":"自分に呆れる explicitly turns exasperation on self and 馬鹿馬鹿しいを通り越して says beyond foolish. MG generic totally pointless omits the culminating self-directed emotional judgment; UP supplies it. Strongest alternative: 640 already self-reproaches and641 states cause, reducing character effect. Still distinct642 emotional predicate omitted. Minor undertranslation/voice, not altered physical fact.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_7-L0634","readerRefs":{"WH":["umi7_7-L0634"],"MG":["umi7_7-L0634"],"UP":["umi7_7-L0634"]}}],"sourceReading":"自分に呆れる explicitly turns exasperation on self and 馬鹿馬鹿しいを通り越して says beyond foolish. MG generic totally pointless omits the culminating self-directed emotional judgment; UP supplies it.","alternative":"640 already self-reproaches and641 states cause, reducing character effect. Still distinct642 emotional predicate omitted. Minor undertranslation/voice, not altered physical fact.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH07-601-720-001","kind":"additional","description":"MG duplicates auxiliaries in imagine it being been kept safe.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[631,631],"MG":[631,631],"UP":[631,631]},"japanese":"……こんなところに安置され、敬われているということそのものが、生理的に気持ち悪かった。","japanesePC":"","japanesePS3":"……こんなところに安置され、敬われているということそのものが、生理的に気持ち悪かった。","WH":"","MG":"...viscerally, it was even more unnerving to imagine it being been kept safe and worshiped in a place like this.","UP":"......psychologically, it was even more unnerving to think about how it must have been kept safe and worshiped in a place like this.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_7-L0614","readerRefs":{"WH":[],"MG":["umi7_7-L0614"],"UP":["umi7_7-L0614"]}}],"sourceReading":"MG being been is malformed. OriginalWH141579 and UP use grammatical passive constructions.","alternative":"Meaning is inferable, but being been is not a licensed passive sequence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-104","kind":"PC","description":"PC dokkyun song reference retained by MG; PS3 replaces it with sweets, followed by UP.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_7","episode":7,"rows":{"JP":[50,50],"MG":[50,50],"UP":[50,50]},"japanese":"スイーツスイーツとか」","japanesePC":"「俺は好きだぞ。ペッタンペッタンとか。どっきゅんどっきゅんとか。」","japanesePS3":"スイーツスイーツとか」","WH":"\"I loved it.  That 'pettan, pettan' song.  That 'dokkyun, dokkyun' song.\"","MG":"That \"dokkyun, dokkyun\" song.\"","UP":"\"Sweets, sweets\".\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_7-L0048","readerRefs":{"WH":[],"MG":["umi7_7-L0048"],"UP":["umi7_7-L0048"]}}],"sourceReading":"PC dokkyun song reference retained by MG; PS3 replaces it with sweets, followed by UP.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH07-001",
+      "kind": "WH",
+      "description": "Jessica’s apology for her own display becomes an apology for Lion’s conduct.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.voice_state",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              2,
+              2
+            ],
+            "MG": [
+              2,
+              2
+            ],
+            "UP": [
+              2,
+              2
+            ]
+          },
+          "japanese": "次期当主サマのせいでお見苦しいとこを見せちゃって……」",
+          "japanesePC": "「あ、えへへ、さっきはその、次期当主サマのせいでお見苦しいとこを見せちゃって......。」",
+          "japanesePS3": "次期当主サマのせいでお見苦しいとこを見せちゃって……」",
+          "WH": "\"Ah...heheh.  I apologize for our Successor-sama's lack of courtesy back there......\"",
+          "MG": "I apologize for our Successor-sama's lack of courtesy back there...\"",
+          "UP": "sorry you had to see me acting like that... I blame the future heir......\"",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_7-L0001",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0001"
+            ],
+            "MG": [
+              "umi7_7-L0001"
+            ],
+            "UP": [
+              "umi7_7-L0001"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あ、えへへ、さっきはその、次期当主サマのせいでお見苦しいとこを見せちゃって……」",
+              "translation": "\"Ah...heheh. I apologize for our Successor-sama's lack of courtesy back there...\" "
+            },
+            "UP": {
+              "japanese": "「あ、えへへ、さっきはその、次期当主サマのせいでお見苦しいとこを見せちゃって……」",
+              "translation": "\"So...heheh...about earlier, sorry you had to see me acting like that... I blame the future heir......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0001"
+            ],
+            "MG": [
+              "umi7_7-L0001"
+            ],
+            "UP": [
+              "umi7_7-L0001"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica apologizes for showing an embarrassing side of herself, while blaming Successor-sama for causing it.",
+      "alternative": "The English apologizes for the successor’s lack of courtesy. It retains hostility toward Lion but removes Jessica’s acknowledgment that she herself made the embarrassing display. Her subsequent formal greeting again shows concern for her own manners.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-002",
+      "kind": "WH",
+      "description": "Lion’s election gains an unsupported landslide margin.",
+      "categories": [
+        "linguistic.addition",
+        "world.world_fact",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              22,
+              22
+            ],
+            "MG": [
+              22,
+              22
+            ],
+            "UP": [
+              22,
+              22
+            ]
+          },
+          "japanese": "「でも翌年にちゃっかり立候補して当選しちゃいやがった！",
+          "japanesePC": "でも翌年にちゃっかり立候補して当選しちゃいやがった！　高校でもそう！　今度こそやめてくれって言ったのに、その時点でもまた副会長で！　また３年になるのと同時に会長になりやがったー！",
+          "japanesePS3": "「でも翌年にちゃっかり立候補して当選しちゃいやがった！",
+          "WH": "But the next year rolls around, and here comes the announcement of candidacy followed by a landslide election!",
+          "MG": "But the next year rolls around, and guess who announces their candidacy and wins by a landslide election?!",
+          "UP": "\"But the next year rolls around, and guess who signs up as a candidate and wins in a landslide?!",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0019",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0019"
+            ],
+            "MG": [
+              "umi7_7-L0019"
+            ],
+            "UP": [
+              "umi7_7-L0019"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私は中学に入って言ったぜ？　その時はもう副会長やってた。来年は生徒会長になる気だろう、私の肩身が狭くなるからやめてくれって！」「でも翌年にちゃっかり立候補して当選しちゃいやがった！　高校でもそう！　今度こそやめてくれって言ったのに、その時点でもまた副会長で！　また３年になるのと同時に会長になりやがったー！」「父さんはちやほやちやほや！　母さんは、あなたも妹として恥ずかしくないよう頑張りなさいって、ちくちくちくちく！！　むがぁあああああぁあぁ！」",
+              "translation": "\"I said it as soon as I got into middle school. Our Successor-sama was already the vice-president of the student council. I said \"if you're planning to become council president next year, that'll just put more pressure on me, so stop it!\" But the next year rolls around, and guess who announces their candidacy and wins by a landslide election?! \"Same thing again in high school! I said \"please, just give it a rest this time, you're already vice-president\"! But when year 3 rolls around, our Successor-sama gets the council president job again! Dad was oh-so-proud! Mom kept saying \"now you make sure you do your best as the little sister\", over and over and over again!! Nngyaaaaaaaaaaahhhh!\" "
+            },
+            "UP": {
+              "japanese": "「私は中学に入って言ったぜ？　その時はもう副会長やってた。来年は生徒会長になる気だろう、私の肩身が狭くなるからやめてくれって！」「でも翌年にちゃっかり立候補して当選しちゃいやがった！　高校でもそう！　今度こそやめてくれって言ったのに、その時点でもまた副会長で！　また３年になるのと同時に会長になりやがったー！」「父さんはちやほやちやほや！　母さんは、あなたも妹として恥ずかしくないよう頑張りなさいって、ちくちくちくちく！！　むがぁあああああぁあぁ！」",
+              "translation": "\"I said it as soon as I got into middle school. The future heir was already the vice‐president of the student council. I said \"if you're planning to become council president next year, that'll just put more pressure on me, so stop it!\"\" \"But the next year rolls around, and guess who signs up as a candidate and wins in a landslide?! Same thing happened when I started high school! I said \"please, just give it a rest this time\", but by that point, the future heir was already the vice‐president! Then, senior year? Immediately president of the student council!\" \"Dad was oh so proud! Mom kept saying \"now you make sure you do your best as the little sister\", over and over and over again!! Nngyaa{-a{-a{-a{-a{-a{-a{-a{-a{-ahhhh!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0019"
+            ],
+            "MG": [
+              "umi7_7-L0019"
+            ],
+            "UP": [
+              "umi7_7-L0019"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion quietly or cheekily runs for election and wins the following year, against Jessica’s request.",
+      "alternative": "Landslide establishes an overwhelming winning margin. 当選 says elected, and ちゃっかり characterizes the action rather than the size of electoral support. No margin is supplied.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-003",
+      "kind": "WH",
+      "description": "A resurrection proclamation becomes a report of completed revival.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "mystery.epistemic_status",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              78,
+              78
+            ],
+            "MG": [
+              78,
+              78
+            ],
+            "UP": [
+              78,
+              78
+            ]
+          },
+          "japanese": "……右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、",
+          "japanesePC": "......右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、一族の人間は“目下として”肯定的に話を合わせるのではないだろうか。",
+          "japanesePS3": "……右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、",
+          "WH": "......If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived, perhaps the other members of the family would positively go along with his story 'as his inferiors should'.",
+          "MG": "...If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived,",
+          "UP": "......If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived,",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0072",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0072"
+            ],
+            "MG": [
+              "umi7_7-L0072"
+            ],
+            "UP": [
+              "umi7_7-L0072"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベアトリーチェを、完全におとぎ話に過ぎないとするのが、譲治の立場だ。しかし、“子供の夢を尊重するのが大人だ”、という一言は、吟味する価値があるかもしれない。ベアトリーチェから魔法で飴をもらった真里亞は、それを譲治たちにも興奮して語っただろう。それを、彼を筆頭とした大人たちは、“大人として”肯定的に話を合わせた。しかしこれが、子供に対する大人としての対応以外にも、生じた可能性は考えられる。例えば、目上に対する目下としての対応、とか。……右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、一族の人間は“目下として”肯定的に話を合わせるのではないだろうか。ベアトリーチェが直接姿を現したのは、限られた人間の前でだけだが。……その存在は、姿を現さずとも、右代宮家にずっと深く浸透していたと見て間違いないだろう。しかし、どんなに浸透しても、それはおとぎ話の中の存在以上のものではない。おとぎ話の存在という虚構から、現実の存在に、格を上げさせなくてはならない。その為、魔法でやったとしか思えない何かが、必要になる。それこそが、……姉ベアトのしていた深夜の窓開けの悪戯から、……最後には密室殺人にまで至る、一連の魔女の事件。……そうして屋敷全体の反魔法力を少しずつ下げ、自分の存在をアピールしていると、姉ベアトは語っていたはず。ベアトリーチェ。お前はどうしてそんなにも、自分の存在を、自分以外の全員に認めさせたかったのか？全員が認めた虚構は、真実となるから？その時にこそ、ベアトリーチェという存在は認められ、ニンゲンになれるから？なら、全員に認められる以前のベアトリーチェは、ニンゲンに満たない。家具だ。家具は、どうしてニンゲンになりたがるのか？前回のゲームで、そのテーマが語られていた気がする。資格を、得たいからだ。家具には、＊が出来ない。\nだから、＊をする資格が欲しくて、ニンゲンになろうとする。………………………。非常にシンプルな話だ。……そもそも、雛ベアトが誕生した理由がそのまま直結する。",
+              "translation": "George's position was that Beatrice was nothing more than a fairy tale. However, that phrase, ...\"respecting a child's dreams is the adult thing to do\"... That might be worthy of further scrutiny. When she got candy from Beatrice by magic, Maria probably got excited and told George and the others. Then, the adults followed his lead and actively supported that story \"as adults should\". However, we can conceive of a similar situation coming up besides an adult interacting with a child. For example, what about a subordinate interacting with a superior? ...If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived, perhaps the other members of the family would actively support that story \"as his subordinates should\". Though Beatrice only appeared directly in front of a limited number of people, ...it's probably safe to say that the concept of her existence penetrated deeply within the Ushiromiya family, even among those who had never seen her. However, no matter how deeply that concept penetrated, she was only viewed as a sort of fairy tale character. It would be necessary to transform the concept of that character from an imaginary fairy tale into reality. So, a person attempting to do this would need to perform acts that no one could explain without magic. These acts...were the witch incidents, starting with the window-opening pranks played by Beato the Elder... and ending with the closed room murders. ...Beato the Elder talked about this, saying that the anti-magic power filling the mansion would be weakened bit by bit the more she made her existence known. Beatrice. Why were you willing to go so far to make everyone besides you accept your existence? Because that fiction will become the truth if everyone acknowledges it? Because at that moment, the being called Beatrice will be acknowledged and will become Human? In that case, until Beatrice is acknowledged by all people, she's less than Human. She's furniture. Why would furniture want to become Human? I seem to remember this being a theme in the previous game. It's because...they want to gain a right. Furniture cannot ****. So, they try to become Human because they want the right to ****. ......... It's extremely simple. ...After all, it's directly connected to the reason chick Beato was born in the first place. "
+            },
+            "UP": {
+              "japanese": "ベアトリーチェを、完全におとぎ話に過ぎないとするのが、譲治の立場だ。しかし、“子供の夢を尊重するのが大人だ”、という一言は、吟味する価値があるかもしれない。ベアトリーチェから魔法で飴をもらった真里亞は、それを譲治たちにも興奮して語っただろう。それを、彼を筆頭とした大人たちは、“大人として”肯定的に話を合わせた。しかしこれが、子供に対する大人としての対応以外にも、生じた可能性は考えられる。例えば、目上に対する目下としての対応、とか。……右代宮家の暴君、金蔵が、ベアトリーチェは蘇る、存在する復活するとのたまわったら、一族の人間は“目下として”肯定的に話を合わせるのではないだろうか。ベアトリーチェが直接姿を現したのは、限られた人間の前でだけだが。……その存在は、姿を現さずとも、右代宮家にずっと深く浸透していたと見て間違いないだろう。しかし、どんなに浸透しても、それはおとぎ話の中の存在以上のものではない。おとぎ話の存在という虚構から、現実の存在に、格を上げさせなくてはならない。その為、魔法でやったとしか思えない何かが、必要になる。それこそが、……姉ベアトのしていた深夜の窓開けの悪戯から、……最後には密室殺人にまで至る、一連の魔女の事件。……そうして屋敷全体の反魔法力を少しずつ下げ、自分の存在をアピールしていると、姉ベアトは語っていたはず。ベアトリーチェ。お前はどうしてそんなにも、自分の存在を、自分以外の全員に認めさせたかったのか？全員が認めた虚構は、真実となるから？その時にこそ、ベアトリーチェという存在は認められ、ニンゲンになれるから？なら、全員に認められる以前のベアトリーチェは、ニンゲンに満たない。家具だ。家具は、どうしてニンゲンになりたがるのか？前回のゲームで、そのテーマが語られていた気がする。資格を、得たいからだ。家具には、＊が出来ない。\nだから、＊をする資格が欲しくて、ニンゲンになろうとする。………………………。非常にシンプルな話だ。……そもそも、雛ベアトが誕生した理由がそのまま直結する。",
+              "translation": "George's position was that Beatrice was nothing more than a fairy tale. However, that phrase—“respecting a child's dreams is the adult thing to do”—that might be worthy of further scrutiny. When she got a candy from Beatrice by magic, Maria probably got excited and told George and the others. Then, the adults followed his lead and positively went along with her story \"as adults should\". However, there could be other ways this sort of reaction could occur, other than as an adult's response to a child's claims. For example, it could be an inferior's response to the claims of their superior. ......If Kinzo, tyrant of the Ushiromiya family, claimed that Beatrice existed and had revived, perhaps the other members of the family would positively go along with his story \"as his inferiors should\". Though Beatrice only appeared directly in front of a limited number of people, ......it's probably safe to say that the concept of her existence penetrated deeply within the Ushiromiya family, even among those who had never seen her. However, no matter how deeply that concept penetrated, she was only viewed as a sort of fairy tale character. It would be necessary to transform the concept of that character from an imaginary fairy tale into reality. So, a person attempting to do this would need to perform something that could only conceivably be done by magic. And that something......was the series of witch incidents that started with the nighttime window‐opening pranks played by Beato the Elder... ...and ultimately escalated to locked‐room murders. ......Beato the Elder referred to this, saying that the anti‐magic power filling the mansion would be weakened bit by bit the more she made her existence known. Beatrice. Why did you desire so greatly to make all others accept your existence? Because the imaginary becomes the truth if everyone accepts it? Because at that moment, the being called Beatrice will be acknowledged and will become Humanhuman? In that case, before Beatrice is acknowledged by all people, she's less than Humanhuman. She's furniture. Why would furniture want to become Humanhuman? It feels like this was the theme of the previous game. Because they want to gain the right. Furniture cannot ____.\nSo, they try to become Humanhuman for the right to ____. ........................... It really is quite simple. ......It's directly connected to the reason the chick Beato was born in the first place."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0072"
+            ],
+            "MG": [
+              "umi7_7-L0072"
+            ],
+            "UP": [
+              "umi7_7-L0072"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will hypothesizes that if Kinzo proclaims Beatrice will rise again, exists, and will revive, the family will affirm it as subordinates.",
+      "alternative": "Had revived recasts the revival proclamation as a completed event. The source nonpast resurrection language and repeated proclamation concern bringing her back; the surrounding reasoning asks how family accommodation makes an imaginary existence recognized. This finding does not assert that Kinzo’s proclamation is objectively true.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-004",
+      "kind": "WH",
+      "description": "Probably being half asleep becomes sounding crazy.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              143,
+              143
+            ],
+            "MG": [
+              143,
+              143
+            ],
+            "UP": [
+              143,
+              143
+            ]
+          },
+          "japanese": "今にして思うとその、……きっと寝惚けてたんだと思うから」",
+          "japanesePC": "今にして思うとその、......きっと寝惚けてたんだと思うから。」",
+          "japanesePS3": "今にして思うとその、……きっと寝惚けてたんだと思うから」",
+          "WH": "Thinking about it now, ......it sounds more than a little crazy.\"",
+          "MG": "Thinking about it now, ...it sounds more than a little crazy.\"",
+          "UP": "Thinking about it now, ......it sounds more than a little crazy.\"",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0140",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0140"
+            ],
+            "MG": [
+              "umi7_7-L0140"
+            ],
+            "UP": [
+              "umi7_7-L0140"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ベアトリーチェのこと、だっけ…？　は、話してもいいけどその、………約束してくれる？　絶対に笑わないって。今にして思うとその、……きっと寝惚けてたんだと思うから」",
+              "translation": "\"Beatrice, is it...? Well, I can tell you, ...but will you promise me something? Promise you won't laugh. Thinking about it now, ...it sounds more than a little crazy.\" "
+            },
+            "UP": {
+              "japanese": "「ベアトリーチェのこと、だっけ…？　は、話してもいいけどその、………約束してくれる？　絶対に笑わないって。今にして思うとその、……きっと寝惚けてたんだと思うから」",
+              "translation": "\"Beatrice, is it...? W‐well, I can tell you, .........but will you promise me something? Promise you won't laugh. Thinking about it now, ......it sounds more than a little crazy.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0140"
+            ],
+            "MG": [
+              "umi7_7-L0140"
+            ],
+            "UP": [
+              "umi7_7-L0140"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica thinks now that she was probably sleep-befuddled or half asleep during the experience she is about to recount.",
+      "alternative": "Sounds more than a little crazy removes the proposed sleep-state explanation and replaces it with a general judgment about the story. 寝惚ける specifically supplies a possible perceptual explanation, while きっと...と思う marks her retrospective belief.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-005",
+      "kind": "WH",
+      "description": "A comparatively mild illness becomes children being cute when not vomiting.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              225,
+              225
+            ],
+            "MG": [
+              225,
+              225
+            ],
+            "UP": [
+              225,
+              225
+            ]
+          },
+          "japanese": "吐いたりしないだけ可愛いもんやで」",
+          "japanesePC": "「幼いうちはそんなもんや。吐いたりしないだけ可愛いもんやで。」",
+          "japanesePS3": "吐いたりしないだけ可愛いもんやで」",
+          "WH": "\"That's how it is when they're young.  They're cute, at least when they're not regurgitatin'.\"",
+          "MG": "They're cute, at least when they're not regurgitatin'.\"",
+          "UP": "They're cute, at least when they're not regurgitatin'.\"",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0224",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0224"
+            ],
+            "MG": [
+              "umi7_7-L0224"
+            ],
+            "UP": [
+              "umi7_7-L0224"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「幼いうちはそんなもんや。吐いたりしないだけ可愛いもんやで」",
+              "translation": "\"That's how it is with young'uns. They're cute, at least when they're not regurgitatin'.\" "
+            },
+            "UP": {
+              "japanese": "「幼いうちはそんなもんや。吐いたりしないだけ可愛いもんやで」",
+              "translation": "\"That's how it is when they're young. They're cute, at least when they're not regurgitatin'.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0224"
+            ],
+            "MG": [
+              "umi7_7-L0224"
+            ],
+            "UP": [
+              "umi7_7-L0224"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Hideyoshi reassures Rudolf that such illness is normal in young children and that Ange’s case is mild or manageable at least because she is not vomiting.",
+      "alternative": "可愛いもん here means comparatively mild or not so bad. They’re cute ... when they’re not regurgitating reads it as literal attractiveness of children, changing the reassuring comparison to a joke about cuteness. Eva then recalls George’s vomiting.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-006",
+      "kind": "WH",
+      "description": "Creating a self one can truly like becomes creating a desired image.",
+      "categories": [
+        "linguistic.undertranslation",
+        "linguistic.imagery_rhythm_recurrence",
+        "character.motivation_emotion",
+        "mystery.mystery_character_link"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              276,
+              276
+            ],
+            "MG": [
+              276,
+              276
+            ],
+            "UP": [
+              276,
+              276
+            ]
+          },
+          "japanese": "人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。",
+          "japanesePC": "人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。",
+          "japanesePS3": "人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。",
+          "WH": "She had been talking about how anyone can create another 'self' in the image of the person they want to be.",
+          "MG": "She had been talking about how anyone can create another \"self\" in the image of the person they want to be.",
+          "UP": "She had been talking about how anyone can create another self that they can really grow to like.",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_7-L0275",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0275"
+            ],
+            "MG": [
+              "umi7_7-L0275"
+            ],
+            "UP": [
+              "umi7_7-L0275"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "それはかつて、朱志香が嘉音に語った話だ。人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。……確か、第２のゲームの冒頭で語られた言葉だったと思う。今にして思うと、ずいぶん面白いことが、ずいぶん早くから語られていたものだ…。",
+              "translation": "It was something Jessica once told Kanon. She had been talking about how anyone can create another \"self\" in the image of the person they want to be. ...I think we heard those words somewhere near the beginning of the second game. Now that I think about it, some very interesting stuff's been mentioned since very early on... "
+            },
+            "UP": {
+              "japanese": "それはかつて、朱志香が嘉音に語った話だ。人は誰でも、自分を本当に好きになれる、もう一人の自分を生み出すことが出来る、という話。……確か、第２のゲームの冒頭で語られた言葉だったと思う。今にして思うと、ずいぶん面白いことが、ずいぶん早くから語られていたものだ…。",
+              "translation": "That was something Jessica had once told Kanon. She had been talking about how anyone can create another self that they can really grow to like. ......I think we heard those words somewhere near the beginning of the second game. Now that I think about it, some very interesting topics have been talked about since very early on..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0275"
+            ],
+            "MG": [
+              "umi7_7-L0275"
+            ],
+            "UP": [
+              "umi7_7-L0275"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica’s earlier idea is that anyone can create another self through which they can truly like themselves.",
+      "alternative": "The person they want to be is present in the surrounding discussion, but this retrospective summary explicitly supplies 本当に好きになれる, authentic self-liking. Replacing it with a desired image removes the self-acceptance aspect of the recalled principle.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-007",
+      "kind": "WH",
+      "description": "Maria acting as though the witch exists becomes consciously pretending.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.agency_responsibility",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              386,
+              386
+            ],
+            "MG": [
+              386,
+              386
+            ],
+            "UP": [
+              386,
+              386
+            ]
+          },
+          "japanese": "……それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった」",
+          "japanesePC": "「ベアトリーチェなんて、私たちが森へ行かないよう、大人がでっち上げた怪談だぜ。......それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった。」",
+          "japanesePS3": "……それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった」",
+          "WH": "\"Beatrice is just a ghost story created by the adults to stop us from wandering into the forest.  ......Maria just thought it was interesting one day and decided to pretend it was true.\"",
+          "MG": "...Maria just thought it was interesting one day and decided to act like it was true.\"",
+          "UP": "......Maria just thought it was interesting one day and decided to pretend it was true.\"",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0385",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0385"
+            ],
+            "MG": [
+              "umi7_7-L0385"
+            ],
+            "UP": [
+              "umi7_7-L0385"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ベアトリーチェなんて、私たちが森へ行かないよう、大人がでっち上げた怪談だぜ。……それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった」",
+              "translation": "\"Beatrice is just a ghost story created by the adults to stop us from wandering into the forest. ...Maria just thought it was interesting one day and decided to act like it was true.\" "
+            },
+            "UP": {
+              "japanese": "「ベアトリーチェなんて、私たちが森へ行かないよう、大人がでっち上げた怪談だぜ。……それをいつの間にか真里亞が面白がって、本当にいるかのように振舞い出しやがった」",
+              "translation": "\"Beatrice is just a ghost story created by the adults to stop us from wandering into the forest. ......Maria just thought it was interesting one day and decided to pretend it was true.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0385"
+            ],
+            "MG": [
+              "umi7_7-L0385"
+            ],
+            "UP": [
+              "umi7_7-L0385"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica says Maria took an interest and began behaving as though Beatrice really existed. This describes her behavior from Jessica’s skeptical viewpoint.",
+      "alternative": "Decided to pretend it was true asserts conscious pretense and a decision to feign belief. 本当にいるかのように振舞い出した does not establish that Maria knows it to be false; the passage repeatedly explores genuine belief and self-interpretation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-008",
+      "kind": "WH",
+      "description": "Jessica’s visceral discomfort becomes knowledge shared with Kumasawa.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              390,
+              390
+            ],
+            "MG": [
+              390,
+              390
+            ],
+            "UP": [
+              390,
+              390
+            ]
+          },
+          "japanese": "「だからさ、そういうの駄目なんだよ、生理的に。",
+          "japanesePC": "「だからさ、そういうの駄目なんだよ、生理的に。譲治兄さんの話じゃねぇけどさ、サンタなんかいるわけねぇとまで、騒ぎはしねぇぜ？　だからって、サンタが本当にいるわけじゃねぇ。」",
+          "japanesePS3": "「だからさ、そういうの駄目なんだよ、生理的に。",
+          "WH": "\"Come on, we both know that isn't true.  I don't need George nii-san to tell me not to make a fuss about Santa not existing.  But that doesn't mean Santa actually exists.\"",
+          "MG": "\"Again, when you say stuff like that, you're just freaking me out.",
+          "UP": "\"Come on, we both know that isn't true.",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0390",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0390"
+            ],
+            "MG": [
+              "umi7_7-L0390"
+            ],
+            "UP": [
+              "umi7_7-L0390"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「だからさ、そういうの駄目なんだよ、生理的に。譲治兄さんの話じゃねぇけどさ、サンタなんかいるわけねぇとまで、騒ぎはしねぇぜ？　だからって、サンタが本当にいるわけじゃねぇ」",
+              "translation": "\"Again, when you say stuff like that, you're just freaking me out. I may not be George nii-san, but I'm not gonna go around shouting that Santa couldn't possibly exist. But that doesn't mean he actually exists.\" "
+            },
+            "UP": {
+              "japanese": "「だからさ、そういうの駄目なんだよ、生理的に。譲治兄さんの話じゃねぇけどさ、サンタなんかいるわけねぇとまで、騒ぎはしねぇぜ？　だからって、サンタが本当にいるわけじゃねぇ」",
+              "translation": "\"Come on, we both know that isn't true. I don't need George nii‐san to tell me not to make a fuss about Santa not existing. But that doesn't mean Santa actually exists.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0390"
+            ],
+            "MG": [
+              "umi7_7-L0390"
+            ],
+            "UP": [
+              "umi7_7-L0390"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica says that kind of talk is something she instinctively cannot stand, before distinguishing respecting a Santa story from Santa actually existing.",
+      "alternative": "We both know that isn’t true replaces Jessica’s 生理的に嫌な reaction with a proposition both speakers supposedly know. Kumasawa immediately says Jessica is mistaken and explains Beatrice as a resident presence requiring respect; the source does not concede her disbelief.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-009",
+      "kind": "WH",
+      "description": "Searching under the bed loses Jessica physically going underneath.",
+      "categories": [
+        "linguistic.omission",
+        "mystery.physical_constraint",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              763,
+              763
+            ],
+            "MG": [
+              763,
+              763
+            ],
+            "UP": [
+              763,
+              763
+            ]
+          },
+          "japanese": "「……物陰からベッドの下まで探したさ。",
+          "japanesePC": "「......物陰からベッドの下まで探したさ。それこそ、中に入り込んでまで。......でも、見つからなかった。」",
+          "japanesePS3": "「……物陰からベッドの下まで探したさ。",
+          "WH": "\"......I looked everywhere, even under the bed.  ......But I didn't find it.\"",
+          "MG": "\"...I looked everywhere,",
+          "UP": "\"......I looked everywhere, even under the bed.",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_7-L0763",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0763"
+            ],
+            "MG": [
+              "umi7_7-L0763"
+            ],
+            "UP": [
+              "umi7_7-L0763"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……物陰からベッドの下まで探したさ。それこそ、中に入り込んでまで。……でも、見つからなかった」",
+              "translation": "\"...I looked everywhere, even under the bed. ...But I didn't find it.\" "
+            },
+            "UP": {
+              "japanese": "「……物陰からベッドの下まで探したさ。それこそ、中に入り込んでまで。……でも、見つからなかった」",
+              "translation": "\"......I looked everywhere, even under the bed. I literally crawled in there looking for it. ......But I didn't find it.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0763"
+            ],
+            "MG": [
+              "umi7_7-L0763"
+            ],
+            "UP": [
+              "umi7_7-L0763"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica searched concealed spots and beneath the bed, even going in underneath, but found no doll.",
+      "alternative": "Looked everywhere, even under the bed retains the search location but not the explicit bodily entry 中に入り込んでまで. Later reasoning singles out the bed’s underside as a potential hiding place; physical access and inspection are therefore more than generic emphasis.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-010",
+      "kind": "WH",
+      "description": "Firmly asserting an event without proof becomes merely thinking it happened.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              815,
+              815
+            ],
+            "MG": [
+              815,
+              815
+            ],
+            "UP": [
+              815,
+              815
+            ]
+          },
+          "japanese": "………私が、確かにあったと言い張ってるだけで、",
+          "japanesePC": "「人形が消えた以外、何の変化も証拠もない。......真里亞にも後日聞いたけど、歌のことも電話のことも知らないと言われた。惚けたのか、本当に知らないのかはわからないけれど。\n......とにかく、あの晩のあの出来事は、\n.........私が、確かにあったと言い張ってるだけで、\n......何も証明することが出来ない。」",
+          "japanesePS3": "………私が、確かにあったと言い張ってるだけで、",
+          "WH": "\"Other than the doll disappearing, there was no other proof that anything had changed.  ......Later on, I talked to Maria, and she said she didn't know anything about that song or the phone call.  I don't know if she was lying or not, of course.\n......Anyway, what happened that night...\n...is just something I thought happened...\n...and there's no proof of any kind.\"",
+          "MG": "...is just something I thought happened,",
+          "UP": "...is just something I thought happened...",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0811",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0811"
+            ],
+            "MG": [
+              "umi7_7-L0811"
+            ],
+            "UP": [
+              "umi7_7-L0811"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「人形が消えた以外、何の変化も証拠もない。……真里亞にも後日聞いたけど、歌のことも電話のことも知らないと言われた。惚けたのか、本当に知らないのかはわからないけれど。……とにかく、あの晩のあの出来事は、………私が、確かにあったと言い張ってるだけで、……何も証明することが出来ない」",
+              "translation": "\"Other than the doll disappearing, there was no other proof that anything had changed. ...Later on, I talked to Maria, and she said she didn't know anything about that song or the phone call. I don't know if she was lying or not, of course. ...Anyway, what happened that night... ...is just something I thought happened, ...and there's no proof of any kind.\" "
+            },
+            "UP": {
+              "japanese": "「人形が消えた以外、何の変化も証拠もない。……真里亞にも後日聞いたけど、歌のことも電話のことも知らないと言われた。惚けたのか、本当に知らないのかはわからないけれど。……とにかく、あの晩のあの出来事は、………私が、確かにあったと言い張ってるだけで、……何も証明することが出来ない」",
+              "translation": "\"Other than the doll disappearing, there was no other proof that anything had changed. ......Later on, I talked to Maria, and she said she didn't know anything about that song or the phone call. I don't know if she was lying or not, of course. ......Anyway, what happened that night... ...is just something I thought happened... ...and there's no proof of any kind.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0811"
+            ],
+            "MG": [
+              "umi7_7-L0811"
+            ],
+            "UP": [
+              "umi7_7-L0811"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica says she herself insists the night’s event definitely occurred, but cannot prove anything. Maria’s denial may be feigned or genuine; Jessica does not know.",
+      "alternative": "Just something I thought happened makes the proposition sound like her own uncertain impression. 確かにあったと言い張ってる separates a definite personal claim from inability to establish it for others. Her proposed rationalizations elsewhere remain qualified and do not erase this line’s contrast.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-011",
+      "kind": "WH",
+      "description": "Branches breaking and falling becomes a whole garden tree falling.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              821,
+              821
+            ],
+            "MG": [
+              821,
+              821
+            ],
+            "UP": [
+              821,
+              821
+            ]
+          },
+          "japanese": "……庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった」",
+          "japanesePC": "......庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった。」",
+          "japanesePS3": "……庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった」",
+          "WH": "......and maybe one of the trees in the garden had fallen, which I mistook for that slithering sound.\"",
+          "MG": "...and maybe one of the trees in the garden fell, which I mistook for that slithering sound.\"",
+          "UP": "......and maybe one of the trees in the garden fell while making rustling sounds, which I mistook for someone crawling out of bed because I was already scared.\"",
+          "note": "Complete continuous source-first three-witness reading and boundary context in saved reports. Parent directly verified MG631 malformed being been and PC-derived song50 versus PS3 sweets. Inherited self-directed disappointment642 remains candidate pending. Holiday185 generalization, importance547 qualification, UP280 inability recovered282 and900 warning idiom held conservatively. No whole-work certification of character world/seating claims.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_7-L0819",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0819"
+            ],
+            "MG": [
+              "umi7_7-L0819"
+            ],
+            "UP": [
+              "umi7_7-L0819"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「しばらくはショックだったけど、……時間が経って。あれは臆病な私が、落雷か何かで一瞬だけ停電したのにびっくりして。……庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった」",
+              "translation": "\"The shock lasted for a while, ...but as time passed, I began to think that lightning or something must've shut off the power for a second, ...and maybe one of the trees in the garden fell, which I mistook for that slithering sound.\" "
+            },
+            "UP": {
+              "japanese": "「しばらくはショックだったけど、……時間が経って。あれは臆病な私が、落雷か何かで一瞬だけ停電したのにびっくりして。……庭木の枝が千切れて、ばさばさ落ちる音を誤解したんじゃないかなって思えるようになった」",
+              "translation": "\"For a while, I was pretty rattled about it, ......but as time went on, I began to think that lightning or something had shut off the power for a second and spooked me, ......and maybe one of the trees in the garden fell while making rustling sounds, which I mistook for someone crawling out of bed because I was already scared.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0819"
+            ],
+            "MG": [
+              "umi7_7-L0819"
+            ],
+            "UP": [
+              "umi7_7-L0819"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica later finds it possible that broken garden-tree branches fell with a fluttering/rustling noise which she misinterpreted.",
+      "alternative": "One of the trees ... had fallen changes 庭木の枝が千切れて, branches torn or broken off, into an entire fallen tree. The specific sound being rationalized is therefore explained by a different physical event.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH07-012",
+      "kind": "WH",
+      "description": "Explicit exasperation with self becomes generic pointlessness",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              642,
+              642
+            ],
+            "MG": [
+              642,
+              642
+            ],
+            "UP": [
+              642,
+              642
+            ]
+          },
+          "japanese": "……馬鹿馬鹿しいを通り越して、自分に呆れる…。",
+          "japanesePC": "真里亞との喧嘩を、まだ引き摺ってて、こんな時間に貴賓室でぼんやりしてるなんて、......馬鹿馬鹿しいを通り越して、自分に呆れる...。",
+          "japanesePS3": "……馬鹿馬鹿しいを通り越して、自分に呆れる…。",
+          "WH": "Hanging about in the VIP room this late just because that fight with Maria is still eating at me...  This is totally pointless...",
+          "MG": "This is totally pointless...",
+          "UP": "......This is beyond stupid... I'm disappointed in myself.",
+          "note": "自分に呆れる explicitly turns exasperation on self and 馬鹿馬鹿しいを通り越して says beyond foolish. MG generic totally pointless omits the culminating self-directed emotional judgment; UP supplies it. Strongest alternative: 640 already self-reproaches and641 states cause, reducing character effect. Still distinct642 emotional predicate omitted. Minor undertranslation/voice, not altered physical fact.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_7-L0634",
+          "readerRefs": {
+            "WH": [
+              "umi7_7-L0634"
+            ],
+            "MG": [
+              "umi7_7-L0634"
+            ],
+            "UP": [
+              "umi7_7-L0634"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "薄気味悪いその人形から、朱志香は無理やり目を逸らす。……自分のでないベッドに腰掛ける気にはなれない。\nかといってもはや、椅子に腰掛ける気にもなれない。この部屋の何かに、体を預けたいという気持ちには、もう、まったくなれなかった。私は所在なくうろつき、……カーテンの隙間から、風雨が濡らし続ける闇夜の窓ガラスをぼんやり眺めていた。……私は何をやってんだ。真里亞との喧嘩を、まだ引き摺ってて、こんな時間に貴賓室でぼんやりしてるなんて、……馬鹿馬鹿しいを通り越して、自分に呆れる…。ベアトリーチェ、か。一体、いつの頃から、このおかしな魔女はこの屋敷に住み込むようになったんだ…？………祖父さまが、いつもベアトリーチェ、ベアトリーチェと叫んでて。死んだ愛人の名前らしいから、きっとその亡霊が屋敷に出るんだろう、なんて話になって。森には魔女がいるから近寄ってはいけない、という子供のホラ話、もしくは子供が森に近付かないように大人が作った怪談があって。祖父さまが４月に掲げたあの肖像画はインパクト絶大だった。しかもあの、薄気味悪い碑文。……生贄の儀式を思わせる、その気持ち悪い内容が、ますますにベアトリーチェの名を不気味に装飾した。それらがいつの間にかミックスされて、魔女ベアトリーチェがいる、なんてことになってた。……私がベアトリーチェという存在を信じられないのは、そういったホラ話が融合していって生まれた、架空の存在だとわかっているからだ。ベアトリーチェっていう、祖父さまの愛人は実在しただろう。しかし、それは魔女じゃない。森の魔女の話は、子供が森に近付いて迷子にならないようにと、大人が作った怪談だ。しかし、それは作り話であって、実在などしない。いや、そもそも昔は、森に出るのは狼だって脅されてたらしい。狼なんて、いるわけないって子供たちが気付いたので、魔女に話を切り替えたらしい。そんな程度のあやふやな存在が、……あの肖像画が掛けられてから、一気に具現化し、さも大昔からいましたって感じに振舞うようになった。……そう、全ては作られた怪談、虚構の存在。それを真里亞は、一番の友達と呼び、使用人たちは、神棚に拝むみたいな感じで敬ってる。わけがわからなくて、気持ち悪い……。",
+              "translation": "Jessica forced herself to look away from the bizarre doll. ...She couldn't bring herself to sit on a bed that wasn't hers. Then again, she didn't really feel like sitting down on a chair either. She had lost any desire to sit on anything in this room. I wandered about aimlessly, ...then peeked out the window through the gaps in the curtains to stare at the dark, rainy night. ...What the hell am I doing? Hanging about in the VIP room this late just because that fight with Maria is still eating at me... This is totally pointless... Beatrice. Just when did that strange witch start living in this mansion...? ...Grandfather's always yelling about Beatrice. Since it's apparently the name of his dead mistress, people started talking about how her ghost must haunt this mansion. There's that kids' horror story about the witch in the forest, which might be a ghost story made by the adults to stop the kids from going in there. The portrait Grandfather had hung in April was really striking. And there was also that weird epitaph. ...The creepy words on that, which sounded like some sort of ceremony with human sacrifices, made the name of Beatrice seem all the more unnerving. At some point, those stories mixed together, and now people say that the witch, Beatrice, exists. ...I don't believe in Beatrice... because I know she's just a fictional person made by the fusion of a few horror stories. The Beatrice who was Grandfather's mistress probably did exist. But she wasn't a witch. The story of the witch of the forest was made up by the adults to prevent their kids from getting lost in the woods. But that was just a made-up story, not reality. In fact, I've heard that the adults here once scared the kids with stories about wolves living in the forest. Apparently, the kids realized that wolves couldn't possibly be there, so it was changed to the witch. When the portrait was hung, that once-vague character suddenly had a face, and people acted as though she'd been around since long ago. ...That's right, it's all a ghost story someone made, a fiction. And Maria calls Beatrice her best friend, and the servants worship her like a household shrine. I just don't get it, and it creeps me out... "
+            },
+            "UP": {
+              "japanese": "薄気味悪いその人形から、朱志香は無理やり目を逸らす。……自分のでないベッドに腰掛ける気にはなれない。\nかといってもはや、椅子に腰掛ける気にもなれない。この部屋の何かに、体を預けたいという気持ちには、もう、まったくなれなかった。私は所在なくうろつき、……カーテンの隙間から、風雨が濡らし続ける闇夜の窓ガラスをぼんやり眺めていた。……私は何をやってんだ。真里亞との喧嘩を、まだ引き摺ってて、こんな時間に貴賓室でぼんやりしてるなんて、……馬鹿馬鹿しいを通り越して、自分に呆れる…。ベアトリーチェ、か。一体、いつの頃から、このおかしな魔女はこの屋敷に住み込むようになったんだ…？………祖父さまが、いつもベアトリーチェ、ベアトリーチェと叫んでて。死んだ愛人の名前らしいから、きっとその亡霊が屋敷に出るんだろう、なんて話になって。森には魔女がいるから近寄ってはいけない、という子供のホラ話、もしくは子供が森に近付かないように大人が作った怪談があって。祖父さまが４月に掲げたあの肖像画はインパクト絶大だった。しかもあの、薄気味悪い碑文。……生贄の儀式を思わせる、その気持ち悪い内容が、ますますにベアトリーチェの名を不気味に装飾した。それらがいつの間にかミックスされて、魔女ベアトリーチェがいる、なんてことになってた。……私がベアトリーチェという存在を信じられないのは、そういったホラ話が融合していって生まれた、架空の存在だとわかっているからだ。ベアトリーチェっていう、祖父さまの愛人は実在しただろう。しかし、それは魔女じゃない。森の魔女の話は、子供が森に近付いて迷子にならないようにと、大人が作った怪談だ。しかし、それは作り話であって、実在などしない。いや、そもそも昔は、森に出るのは狼だって脅されてたらしい。狼なんて、いるわけないって子供たちが気付いたので、魔女に話を切り替えたらしい。そんな程度のあやふやな存在が、……あの肖像画が掛けられてから、一気に具現化し、さも大昔からいましたって感じに振舞うようになった。……そう、全ては作られた怪談、虚構の存在。それを真里亞は、一番の友達と呼び、使用人たちは、神棚に拝むみたいな感じで敬ってる。わけがわからなくて、気持ち悪い……。",
+              "translation": "Jessica forced herself to look away from the bizarre doll. ......She couldn't bring herself to sit on a bed that wasn't hers.\nThen again, she didn't really feel like sitting down on a chair either. She had lost any desire to sit on anything in this room. Wandering about aimlessly, ......I peeked out the window through the gaps in the curtains to stare at the dark, rainy night. ......What the hell am I doing? Hanging about in the VIP room this late just because that fight with Maria is still eating at me... ......This is beyond stupid... I'm disappointed in myself. Beatrice, huh... Just when did that strange witch start living in this mansion...? ......Grandfather's always yelling about Beatrice. Since it's apparently the name of his dead mistress, people started talking about how her ghost must haunt this mansion. There's that kids' horror story about the witch in the forest, which might be a ghost story made by the adults to stop the kids from going in there. The portrait Grandfather had hung in April was really striking. And there was also that weird epitaph. ......The creepy words on that, which sounded like some sort of ritual with human sacrifices, made the name of Beatrice seem all the more unnerving. At some point, those stories mixed together, and they now say that the witch Beatrice exists. ......I don't believe in Beatrice... because I know she's just a fictional person made by the fusion of a few horror stories. The \"Beatrice\" who was Grandfather's mistress probably did exist. But she wasn't a witch. The story of the witch of the forest was made up by the adults to prevent their kids from getting lost in the woods. But that was just a made‐up story, not reality. In fact, I've heard that kids were once threatened about wolves living in the forest. Apparently, the kids realized that wolves couldn't exist on the island, so it was changed to the witch. When the portrait was hung, ......that once‐vague character suddenly had a face, and people acted as though she'd been around since long ago. ......That's right, it's all a ghost story someone made, a fiction. And Maria calls Beatrice her best friend, and the servants worship her like a household shrine. I just don't get it, and it creeps me out......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_7-L0634"
+            ],
+            "MG": [
+              "umi7_7-L0634"
+            ],
+            "UP": [
+              "umi7_7-L0634"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "自分に呆れる explicitly turns exasperation on self and 馬鹿馬鹿しいを通り越して says beyond foolish. MG generic totally pointless omits the culminating self-directed emotional judgment; UP supplies it.",
+      "alternative": "640 already self-reproaches and641 states cause, reducing character effect. Still distinct642 emotional predicate omitted. Minor undertranslation/voice, not altered physical fact.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH07-601-720-001",
+      "kind": "additional",
+      "description": "MG duplicates auxiliaries in imagine it being been kept safe.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              631,
+              631
+            ],
+            "MG": [
+              631,
+              631
+            ],
+            "UP": [
+              631,
+              631
+            ]
+          },
+          "japanese": "……こんなところに安置され、敬われているということそのものが、生理的に気持ち悪かった。",
+          "japanesePC": "",
+          "japanesePS3": "……こんなところに安置され、敬われているということそのものが、生理的に気持ち悪かった。",
+          "WH": "",
+          "MG": "...viscerally, it was even more unnerving to imagine it being been kept safe and worshiped in a place like this.",
+          "UP": "......psychologically, it was even more unnerving to think about how it must have been kept safe and worshiped in a place like this.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_7-L0614",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_7-L0614"
+            ],
+            "UP": [
+              "umi7_7-L0614"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "それはまさに、お供えに見えた。サイドテーブルの上には、一体の小さめのフランス人形が座っている。その人形の髪は、黄金。……服は、黒いドレス。どこから誰がこんな人形を見つけてきたやら。ベアトリーチェを暗示して、誰かがここに置いたのは疑いようもなかった。ということは、この人形こそが、この部屋の主だとでも言うのか…。そして、その主にお供えするように、……小皿が置かれ、クッキーと包み紙で捻ったチョコがいくつか置かれていた。小綺麗に置かれ、人形には埃も積もっていない。……つまり、この人形もお供えも、日々、使用人たちによって手入れされ、部屋同様に維持されているということだ。手入れ？　……いや、これは手入れなんかじゃない。どうか、私たちを祟らないで下さいという、お供え、……いや、まるで崇拝にさえ見える。……だから、人形そのものも充分に不気味だったが、……こんなところに安置され、敬われているということそのものが、生理的に気持ち悪かった。",
+              "translation": "It really did look like an offering. A small French doll was sitting on the side table. The doll's hair...was gold. ...It was wearing a black dress. Just who managed to find this doll, and where? There's no doubt that someone placed the doll here to symbolize Beatrice. Does that mean...this doll is supposed to be the owner of this room, or something...? And, looking like an offering to that owner, ...there sat a small plate with several cookies and wrapped chocolates. It was all set out neatly, and there was no dust piled up on the doll. ...In other words, both the doll and the offering were taken care of on a regular basis by the servants, kept in good condition along with the rest of the room. Taken care of? ...No, it's more than that. It looked like an offering...no, like some sort of worship, a prayer saying \"please don't curse us\"... ...So, even though the doll was more than eerie enough by itself, ...viscerally, it was even more unnerving to imagine it being been kept safe and worshiped in a place like this. "
+            },
+            "UP": {
+              "japanese": "それはまさに、お供えに見えた。サイドテーブルの上には、一体の小さめのフランス人形が座っている。その人形の髪は、黄金。……服は、黒いドレス。どこから誰がこんな人形を見つけてきたやら。ベアトリーチェを暗示して、誰かがここに置いたのは疑いようもなかった。ということは、この人形こそが、この部屋の主だとでも言うのか…。そして、その主にお供えするように、……小皿が置かれ、クッキーと包み紙で捻ったチョコがいくつか置かれていた。小綺麗に置かれ、人形には埃も積もっていない。……つまり、この人形もお供えも、日々、使用人たちによって手入れされ、部屋同様に維持されているということだ。手入れ？　……いや、これは手入れなんかじゃない。どうか、私たちを祟らないで下さいという、お供え、……いや、まるで崇拝にさえ見える。……だから、人形そのものも充分に不気味だったが、……こんなところに安置され、敬われているということそのものが、生理的に気持ち悪かった。",
+              "translation": "It did look like an offering. A small French doll was sitting on the side table. The doll's hair...was gold. ......It was wearing a black dress. Just who managed to find this doll, and where? There's no doubt that someone placed the doll here to symbolize Beatrice. Does that mean...this doll is supposed to be the owner of this room, or something...? And, as though it was an offering to that owner, ......there sat a small plate with several cookies and wrapped chocolates. It was all set out neatly, and there was no dust piled up on the doll. ......In other words, both the doll and the offering were being taken care of on a regular basis by the servants, and kept in good condition along with the rest of the room. Taken care of? ......No, it was more than that. It looked like an offering...no, like some sort of worship, a prayer saying \"please don't curse us\"... ......So, while the doll was eerie enough by itself, ......psychologically, it was even more unnerving to think about how it must have been kept safe and worshiped in a place like this."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_7-L0614"
+            ],
+            "UP": [
+              "umi7_7-L0614"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG being been is malformed. OriginalWH141579 and UP use grammatical passive constructions.",
+      "alternative": "Meaning is inferable, but being been is not a licensed passive sequence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-104",
+      "kind": "PC",
+      "description": "PC dokkyun song reference retained by MG; PS3 replaces it with sweets, followed by UP.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_7",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              50,
+              50
+            ],
+            "MG": [
+              50,
+              50
+            ],
+            "UP": [
+              50,
+              50
+            ]
+          },
+          "japanese": "スイーツスイーツとか」",
+          "japanesePC": "「俺は好きだぞ。ペッタンペッタンとか。どっきゅんどっきゅんとか。」",
+          "japanesePS3": "スイーツスイーツとか」",
+          "WH": "\"I loved it.  That 'pettan, pettan' song.  That 'dokkyun, dokkyun' song.\"",
+          "MG": "That \"dokkyun, dokkyun\" song.\"",
+          "UP": "\"Sweets, sweets\".\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_7-L0048",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_7-L0048"
+            ],
+            "UP": [
+              "umi7_7-L0048"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「俺は好きだぞ。ペッタンペッタンとか。スイーツスイーツとか」",
+              "translation": "\"I loved it. That \"pettan, pettan\" song. That \"dokkyun, dokkyun\" song.\" "
+            },
+            "UP": {
+              "japanese": "「俺は好きだぞ。ペッタンペッタンとか。スイーツスイーツとか」",
+              "translation": "\"I love that kind of stuff. \"Pettan, pettan\". \"Sweets, sweets\".\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_7-L0048"
+            ],
+            "UP": [
+              "umi7_7-L0048"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC dokkyun song reference retained by MG; PS3 replaces it with sweets, followed by UP.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH07-001": {
+      "umi7_7-L0001": {
+        "WH": [
+          "our Successor-sama's lack of courtesy"
+        ],
+        "MG": [
+          "our Successor-sama's lack of courtesy"
+        ]
+      }
+    },
+    "WH-EP07-CH07-002": {
+      "umi7_7-L0019": {
+        "WH": [
+          "a landslide election"
+        ],
+        "MG": [
+          "wins by a landslide election"
+        ],
+        "UP": [
+          "wins in a landslide"
+        ]
+      }
+    },
+    "WH-EP07-CH07-003": {
+      "umi7_7-L0072": {
+        "WH": [
+          "Beatrice existed and had revived"
+        ],
+        "MG": [
+          "Beatrice existed and had revived"
+        ],
+        "UP": [
+          "Beatrice existed and had revived"
+        ]
+      }
+    },
+    "WH-EP07-CH07-004": {
+      "umi7_7-L0140": {
+        "WH": [
+          "it sounds more than a little crazy"
+        ],
+        "MG": [
+          "it sounds more than a little crazy"
+        ],
+        "UP": [
+          "it sounds more than a little crazy"
+        ]
+      }
+    },
+    "WH-EP07-CH07-005": {
+      "umi7_7-L0224": {
+        "WH": [
+          "They're cute, at least when they're not regurgitatin'"
+        ],
+        "MG": [
+          "They're cute, at least when they're not regurgitatin'"
+        ],
+        "UP": [
+          "They're cute, at least when they're not regurgitatin'"
+        ]
+      }
+    },
+    "WH-EP07-CH07-006": {
+      "umi7_7-L0275": {
+        "WH": [
+          "in the image of the person they want to be"
+        ],
+        "MG": [
+          "in the image of the person they want to be"
+        ]
+      }
+    },
+    "WH-EP07-CH07-007": {
+      "umi7_7-L0385": {
+        "WH": [
+          "decided to pretend it was true"
+        ],
+        "UP": [
+          "decided to pretend it was true"
+        ]
+      }
+    },
+    "WH-EP07-CH07-008": {
+      "umi7_7-L0390": {
+        "WH": [
+          "we both know that isn't true"
+        ],
+        "UP": [
+          "we both know that isn't true"
+        ]
+      }
+    },
+    "WH-EP07-CH07-009": {
+      "umi7_7-L0763": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Jessica physically crawling underneath to search is absent; only looking under the bed remains."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "Jessica physically crawling underneath to search is absent; only looking under the bed remains."
+        }
+      }
+    },
+    "WH-EP07-CH07-010": {
+      "umi7_7-L0811": {
+        "WH": [
+          "is just something I thought happened"
+        ],
+        "MG": [
+          "is just something I thought happened"
+        ],
+        "UP": [
+          "is just something I thought happened"
+        ]
+      }
+    },
+    "WH-EP07-CH07-011": {
+      "umi7_7-L0819": {
+        "WH": [
+          "one of the trees in the garden had fallen"
+        ],
+        "MG": [
+          "one of the trees in the garden fell"
+        ],
+        "UP": [
+          "one of the trees in the garden fell"
+        ]
+      }
+    },
+    "WH-EP07-CH07-012": {
+      "umi7_7-L0634": {
+        "WH": [
+          "This is totally pointless"
+        ],
+        "MG": [
+          "This is totally pointless"
+        ]
+      }
+    },
+    "PAIR-EP07-CH07-601-720-001": {
+      "umi7_7-L0614": {
+        "MG": [
+          "being been"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

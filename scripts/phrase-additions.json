@@ -1,0 +1,76 @@
+[
+  {
+    "id": "WH-EP01-CH14-009",
+    "contextIndex": 0,
+    "chapter": "umi1_14",
+    "ref": "umi1_14-L0244",
+    "japanese": "その様子に、闇の中に煌く黄金の蝶たちが蟲惑的に舞い踊る…。それは美しき美しき、ひとりの少年の克己への賛辞と嘲りと侮蔑と葬送の舞い。",
+    "reason": "The finding explicitly includes the later repeated 克己, but its inherited single-sentence anchor omitted this second occurrence. MG repairs the first occurrence only.",
+    "editions": {
+      "WH": {"text": "Around this scene, the glittering gold butterflies danced through the darkness, mesmerizing... It was a beautiful, beautiful dance...a funeral march of tribute, ridicule, and contempt for single boy's self-sacrifice.", "phrases": ["self-sacrifice"]},
+      "MG": {"text": "Around this scene, the glittering gold butterflies danced through the darkness, mesmerizing... It was a beautiful, beautiful dance...a funeral march of tribute, ridicule, and contempt for a single boy's self-sacrifice. ", "phrases": ["self-sacrifice"]},
+      "UP": {"text": "Around this scene, the glittering gold butterflies danced mesmerizingly through the darkness... It was a beautiful, beautiful dance—a funeral march of tribute, ridicule, and contempt for a single boy's self‐sacrifice.", "phrases": ["self‐sacrifice"]}
+    }
+  },
+  {
+    "id": "WH-EP02-CH02-014", "contextIndex": 0, "chapter": "umi2_2", "ref": "umi2_2-L0461",
+    "japanese": "嘉音の言葉が厳しくなる。…その言葉は紗音の心を抉るものなのだろう。紗音は下唇を噛みながら俯く。",
+    "reason": "Edition note expressly locates MG's remaining serious-for-stern defect at 461; WH and UP retain the same wording there. The earlier MG passage is corrected.",
+    "editions": {
+      "WH": {"text": "Kanon's words became more serious. ...Those words probably gouged at Shannon's heart.  Shannon bit her lower lip and hung her head.", "phrases": ["more serious"]},
+      "MG": {"text": "Kanon's words grew more serious. ...Those words probably gouged at Shannon's heart. She bit her lower lip and hung her head. ", "phrases": ["more serious"]},
+      "UP": {"text": "Kanon's words became more serious. ...Those words probably gouged at Shannon's heart. Shannon bit her lower lip and hung her head.", "phrases": ["more serious"]}
+    }
+  },
+  {
+    "id": "WH-EP03-HIDDEN-011", "contextIndex": 0, "chapter": "umi3_20", "ref": "umi3_20-L0318",
+    "japanese": "……私は同じ夢を見る度に、さらに力強く手を伸ばそうと、夢の中で無駄な努力を繰り返すのだ。せめて戦人兄さんだけでも、生きていてくれたなら。………私はこの冷たく寂しい現実を、せめて二人で支えあいながら生きていけるのではないか。でも、その手はいつも、届かない。",
+    "reason": "The finding identifies a repeated reversal of who reaches whom. The later occurrence at322 belongs to this grouped318 passage, not the corrected UP315 clause.",
+    "editions": {
+      "WH": {"text": "......Every time I saw the same dream, I tried to stretch out my hand even more forcefully, but my useless effort continued to repeat inside my dreams. Even if it had been only Battler nii-san, who lived... .........Then perhaps, at least we would be able to live by supporting each other in my cold and lonely reality. But his hand never reached me.", "phrases": ["his hand never reached me"]},
+      "MG": {"text": "...Every time I had that the same dream, I uselessly tried to stretch out my hand even more forcefully, over and over and over. Even if only Battler nii-san had lived... ......Then, perhaps, we'd at least be able to support each other in my cold and lonely reality. But his hand never reaches me. ", "phrases": ["his hand never reaches me"]},
+      "UP": {"text": "......Whenever I have that dream, I repeat my useless effort inside the dream, trying to stretch out my hand even more forcefully. If only Battler nii‐san at least could have lived... .........then perhaps, at least the two of us could have supported each other through life in this cold and lonely reality. But his hand never reaches me.", "phrases": ["his hand never reaches me"]}
+    }
+  },
+  {
+    "id": "WH-EP03-CH01-004", "contextIndex": 0, "chapter": "umi3_1", "ref": "umi3_1-L0067",
+    "japanese": "「……あほやなぁ…。何でそない敵愾心剥き出しで追い詰めるんや。そういうのは要領がいいとは言わん」",
+    "reason": "The description expressly includes Hideyoshi's rejection of Rudolf's praise. The inherited WH anchor contained only Rudolf's initial misuse of to the point.",
+    "editions": {
+      "WH": {"text": "\"......That idiot...  Why did she drive him into a corner with that frank hostility?  That won't accomplish anythin'.\"", "phrases": ["That won't accomplish anythin'"]}
+    }
+  },
+  {
+    "id": "PAIR-EP02-CH17-1-120-002", "contextIndex": 0, "chapter": "umi2_17", "ref": "umi2_17-L0007",
+    "japanese": "むしろ、鍵で拒む気などない。\n堂々と正面から来て欲しかった。…それが殺人犯なら、この素晴らしき密室トリックの数々を、冥土の土産に聞かせてもらおうと思った。そして魔女なら、せめて素晴らしき魔法で自分の命を奪ってもらおうと思った。",
+    "reason": "The initial Golden Witch wording is correct. The cited a-witch wording is in the following conditional within the same reviewed source context.",
+    "editions": {
+      "UP": {"text": "On the contrary, he had no intention of blocking the culprit with a lock.\nHe wanted that person to come at him openly, from the front. ...If it was a murderer, he thought he'd ask them to tell about some of those wonderful locked room tricks as a parting souvenir. And if it was a witch, he thought he'd ask her to at least take his life with some wonderful magic.", "phrases": ["a witch"]}
+    }
+  },
+  {
+    "id": "PAIR-EP08-CH12-601-720-001", "contextIndex": 0, "chapter": "umi8_12", "ref": "umi8_12-L0658",
+    "japanese": "「故に、全知の神は、それが出来ぬニンゲンに代わりて、知るべきことと、知らぬべきことを分け隔てているもの也」",
+    "reason": "The preceding cannot-unlearn sentence is correct. The anaphoric continuation at658 is where UP substitutes inability to know all.",
+    "editions": {
+      "UP": {"text": "\"And so, the all‐knowing god has stepped in for the sake of the Humanhumans who cannot know all, marking out things that should be learned and things that should not be learned.\"", "phrases": ["cannot know all"]}
+    }
+  },
+  {
+    "id": "WH-EP08-CH06-005", "contextIndex": 1, "chapter": "umi8_7", "ref": "umi8_7-L0488", "replace": true,
+    "japanese": "不機嫌な犬のように唸りながら、渋々とメダルを差し出す。それを引ったくり、私も犬のように大はしゃぎで喜ぶ。そんな私の後ろで微笑む真里亞お姉ちゃんの顔は、……お姉ちゃんと呼ぶに相応しい、朗らかなものだった。",
+    "reason": "The second grammar occurrence belongs to the medal narration. Its WH context copied the earlier other/others anchor; the actual article defect is a unhappy dog at488, retained in all three witnesses.",
+    "editions": {
+      "WH": {"text": "Whining like a unhappy dog, she reluctantly handed the medal over. I grabbed it, and started jumping around like a happy dog. As Maria onee-chan smiled at me from behind, ......her face was bright, just like a big sister's.", "phrases": ["a unhappy dog"]}
+    }
+  },
+  {
+    "id": "WH-EP08-CH11-001", "contextIndex": 0, "chapter": "umi8_12", "ref": "umi8_12-L0019",
+    "japanese": "「それを皮肉と気付き、人の子が自らの愚かさに苦笑する、そんな作品に書いたつもりが、まさか推理小説の扱いを受けるとは。我ながら文才のなさに呆れ果てるというものです」",
+    "reason": "Both edition notes retain the lost detective-novel classification in the second half of the speech. UP corrects the preceding shelf idiom, so its residual defect belongs at19.",
+    "editions": {
+      "MG": {"text": "I was hoping that you children of men would recognize the irony and laugh at your own mistake, but it looks like you've taken it seriously. Yes, I can say I'm ashamed at my own failure as a writer.\" ", "phrases": ["you've taken it seriously"]},
+      "UP": {"text": "\"I was hoping that they'd recognize the irony and laugh at their own foolishness, but it looks like you've taken it seriously. Yes, I can say I'm ashamed at my own failure as a writer.\"", "phrases": ["you've taken it seriously"]}
+    }
+  }
+]

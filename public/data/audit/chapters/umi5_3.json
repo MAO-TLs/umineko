@@ -1,1 +1,2127 @@
-{"findings":[{"id":"WH-EP05-CH03-001","kind":"WH","description":"Winning venture attracts investment without intervention becomes investment regardless of winning.","categories":["linguistic.logical_relation","world.world_fact"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[32,32],"MG":[32,32],"UP":[32,32]},"japanese":"勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。","japanesePC":"勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。","japanesePS3":"勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。","WH":"Whether it proved to be a winner or not, investors had gathered around it, and they were rapidly gaining funds.","MG":"Whether it would prove to be a winner or not, investors had gathered around it, and they were rapidly gaining funds.","UP":"Investors were gathering, jumping on the bandwagon of their own accord, and the business was rapidly gathering funds.","note":"Parent independently read1–120.001 UP bandwagon of own accord restores spontaneous winner attraction;002 both retain;003 both restore standard method. UP41 seeking paternal praise changes source showing Father with personal pride; original PC11669/11671 proves inherited, supplemental parent follows. MG41 restores showing Father, pride implicit in success. MG54 proven PC beggar reference retained against PS3 haste proverb: yellow excluded counts. Hold MG21 omitted relaxation courtesy,14 expenditure and the like broad financial documents,70 charts documents specificity,120 confidence embodies authoritative demeanor. No new independent defect.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_3-L0030","readerRefs":{"WH":["umi5_3-L0030"],"MG":["umi5_3-L0030"],"UP":["umi5_3-L0030"]}}],"sourceReading":"勝ち馬には放って置いても means investors gather around a winning horse even when left alone. The winning prospect explains the self-reinforcing influx of funds.","alternative":"The next money-summons-money sentence preserves self-reinforcement, but whether it proved a winner or not replaces the source’s condition with indifference to success.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-002","kind":"WH","description":"A small setback to good fortune becomes taking fortune for granted.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[53,53],"MG":[53,53],"UP":[53,53]},"japanese":"確かに、運気というのは小さなケチで転ぶこともある。","japanesePC":"確かに、運気というのは小さなケチで転ぶこともある。","japanesePS3":"確かに、運気というのは小さなケチで転ぶこともある。","WH":"Certainly, fortune tends to turn against people who take it for granted even in the slightest.","MG":"Certainly, fortune tends to turn against people who take it for granted even in the slightest.","UP":"Certainly, fortune tends to turn against people who take it for granted even in the slightest.","note":"Parent independently read1–120.001 UP bandwagon of own accord restores spontaneous winner attraction;002 both retain;003 both restore standard method. UP41 seeking paternal praise changes source showing Father with personal pride; original PC11669/11671 proves inherited, supplemental parent follows. MG41 restores showing Father, pride implicit in success. MG54 proven PC beggar reference retained against PS3 haste proverb: yellow excluded counts. Hold MG21 omitted relaxation courtesy,14 expenditure and the like broad financial documents,70 charts documents specificity,120 confidence embodies authoritative demeanor. No new independent defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0053","readerRefs":{"WH":["umi5_3-L0053"],"MG":["umi5_3-L0053"],"UP":["umi5_3-L0053"]}}],"sourceReading":"小さなケチ here is a small adverse incident or snag that can turn the course of good fortune. This follows concern that unusual fundraising might create mistrust.","alternative":"The surrounding caution could loosely support a moral warning, but the Japanese does not identify complacency or taking good luck for granted as the cause.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-003","kind":"WH","description":"Alchemy’s standard royal road becomes shortcuts.","categories":["linguistic.word_choice","world.terminology_recurrence"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[75,75],"MG":[75,75],"UP":[75,75]},"japanese":"錬金術の王道を見事に体現しているぞ」","japanesePC":"「......ふむ。妾から見てもなかなかのものよ。誰もが勝利を確信し、相当の魔力が集中している。その結果、さらに勝利が厚くなり、ますますに人と魔力を集め、黄金を生み出そうとしている。錬金術の王道を見事に体現しているぞ。」","japanesePS3":"錬金術の王道を見事に体現しているぞ」","WH":"\"......Hmmm.  They're pretty good even from my perspective.  Everyone is confident in victory and concentrating a significant quantity of magical power.  As a result, that victory is growing ever deeper, gathering more and more people and magical power, and beginning to create gold.  A perfect embodiment of alchemy's shortcuts.\"","MG":"A perfect embodiment of classic alchemy.\"","UP":"A perfect embodiment of the classic method of alchemy.\"","note":"Parent independently read1–120.001 UP bandwagon of own accord restores spontaneous winner attraction;002 both retain;003 both restore standard method. UP41 seeking paternal praise changes source showing Father with personal pride; original PC11669/11671 proves inherited, supplemental parent follows. MG41 restores showing Father, pride implicit in success. MG54 proven PC beggar reference retained against PS3 haste proverb: yellow excluded counts. Hold MG21 omitted relaxation courtesy,14 expenditure and the like broad financial documents,70 charts documents specificity,120 confidence embodies authoritative demeanor. No new independent defect.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_3-L0072","readerRefs":{"WH":["umi5_3-L0072"],"MG":["umi5_3-L0072"],"UP":["umi5_3-L0072"]}}],"sourceReading":"王道 describes the orthodox or exemplary route to alchemy: confidence draws power, people and gold.","alternative":"Royal road can connote an easy route in some contexts, but calling the exemplary mechanism shortcuts adds the idea of bypassing the normal route.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-004","kind":"WH","description":"Concentrating on the game becomes letting that part slide.","categories":["linguistic.mistranslation","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[163,163],"MG":[163,163],"UP":[163,163]},"japanese":"俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。","japanesePC":"「......誤解すんなよ。魔女の存在を認めたり、あるいは屈したつもりもねぇ。俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。ゲーム盤の外でまで、嫌がらせをするほど趣味は悪くねぇからな。」","japanesePS3":"俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。","WH":"\"......Don't get the wrong idea.  I don't plan on accepting the existence of witches or surrendering.  I just want to let that part slide and fight like a stoic so that I can win in this game against you.  I have no desire to bully you outside the game board as well.\"","MG":"I just want to let that part slide and fight stoically...so that I can win this game against you.","UP":"I just want to focus solely on that one time period and fight like a stoic so that I can win in this game against you.","note":"Parent independently read121–240.004 MG retains let slide versus strict focus; UP corrected. MG191 introduced recipient to me confirmedPC12113/12114; original passive alone held as incomplete agency rather than duplicate canonical finding. Hold185 not worried about: current scope prioritizes motive, without eliminating murder/trick inquiry which163/179/196 preserve; UP obvious less precise than surface but context186–188 retains deeper inquiry.159 question allows interpretive or;162つもり permits intent;173 spoken question follows175–176.224 future warning expresses habitual clumsiness;MG228 Kinzo death concealment recovered208–218. No yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_3-L0161","readerRefs":{"WH":["umi5_3-L0161"],"MG":["umi5_3-L0161"],"UP":["umi5_3-L0161"]}}],"sourceReading":"その部分だけに徹して means devote himself strictly to the game portion so as to win, while refraining from harassment outside the board.","alternative":"Let that part slide could intend the outside-board matters, but the source’s demonstrative refers to the portion he focuses on, and WH substitutes overlooking it for concentrating on it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-005","kind":"WH","description":"Nobunaga’s death becomes Nobuyuki’s death.","categories":["linguistic.name_address","world.culture_history"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[262,262],"MG":[262,262],"UP":[262,262]},"japanese":"敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、","japanesePC":"「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや。」","japanesePS3":"敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、","WH":"\"On the other hand, Shibata Katsuie failed at this.  The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down.  That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"","MG":"The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and got slowed down.","UP":"The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down.","note":"Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0261","readerRefs":{"WH":["umi5_3-L0261"],"MG":["umi5_3-L0261"],"UP":["umi5_3-L0261"]}}],"sourceReading":"信長 is the same Nobunaga named in the preceding account of concealing his death; WH changes this occurrence to Nobuyuki.","alternative":"The preceding English correctly names Oda Nobunaga and allows recovery of the intended reference, but the new proper name is unsupported by this Japanese.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-006","kind":"WH","description":"Named rapid return march is replaced with a battle label.","categories":["linguistic.omission","world.culture_history"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[260,260],"MG":[260,260],"UP":[260,260]},"japanese":"素早く毛利と和解して、中国大返しを行い明智を討ったんやないか」","japanesePC":"「当時、武田は織田や徳川との戦の真っ最中だった。そこで信玄が死んだなんて話になったら、戦況に悪影響が出るやろ。そやから、自分の死を３年隠すように遺言したんや。......秀吉かてそうやで？　主君、織田信長の死を敵方に知られんように、徹底的に情報規制を行い、素早く毛利と和解して、中国大返しを行い明智を討ったんやないか。」","japanesePS3":"素早く毛利と和解して、中国大返しを行い明智を討ったんやないか」","WH":"\"At the time, Takeda was in the middle of a war with Oda and Tokugawa.  If his death had become known at a time like that, it would probably have had a negative effect on the war.  'Cause of this, he left a will sayin' that his death should be kept hidden for three years.  ......Hideyoshi did the same thing, right?  He completely suppressed information about the death of his master, Oda Nobunaga, so that the enemy wouldn't find out, quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\"","MG":"quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\"","UP":"quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\"","note":"Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0255","readerRefs":{"WH":["umi5_3-L0255"],"MG":["umi5_3-L0255"],"UP":["umi5_3-L0255"]}}],"sourceReading":"The Japanese explicitly includes 中国大返し between making peace with Mouri and defeating Akechi; the sequence includes the return movement itself.","alternative":"The English battle label may identify the endpoint of defeating Akechi, but it does not render the named return march. No external historical factual verdict is being made here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-007","kind":"WH","description":"Falling behind in succession struggle becomes suffering a great loss.","categories":["linguistic.mistranslation","world.culture_history"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[263,263],"MG":[263,263],"UP":[263,263]},"japanese":"その後の秀吉との後継者争いで大きく遅れを取ることになったんや」","japanesePC":"「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや。」","japanesePS3":"その後の秀吉との後継者争いで大きく遅れを取ることになったんや」","WH":"\"On the other hand, Shibata Katsuie failed at this.  The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down.  That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"","MG":"That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"","UP":"That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"","note":"Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0261","readerRefs":{"WH":["umi5_3-L0261"],"MG":["umi5_3-L0261"],"UP":["umi5_3-L0261"]}}],"sourceReading":"大きく遅れを取る means the delay put Shibata far behind in the subsequent succession struggle with Hideyoshi.","alternative":"A great loss can loosely mean a disadvantage, but suffered a great loss against Hideyoshi in a fight suggests a defeat rather than the source’s explicit loss of ground caused by delay.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-008","kind":"WH","description":"Investors being well funded becomes investors having a keen eye.","categories":["linguistic.mistranslation","world.world_fact"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[302,302],"MG":[302,302],"UP":[302,302]},"japanese":"………そりゃ、投資家は肥えてるから投資家なんだぜ。","japanesePC":"「弱み？　.........そりゃ、投資家は肥えてるから投資家なんだぜ。実は金欠だなんてことになったら、誰も見向きもしねぇ。」","japanesePS3":"………そりゃ、投資家は肥えてるから投資家なんだぜ。","WH":"\"A weakness?  .........Well, investors tend to have a keen eye.  If they were to hear that Krauss is actually low on funds, none would want to have anything to do with him.\"","MG":"...Well, investors tend to have a keen eye.","UP":".........Well, investors tend to have a keen eye.","note":"Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0301","readerRefs":{"WH":["umi5_3-L0301"],"MG":["umi5_3-L0301"],"UP":["umi5_3-L0301"]}}],"sourceReading":"投資家は肥えてるから投資家 says investors are investors because they are well fed or financially substantial; the following 金欠 contrasts their apparent resources with running out of funds.","alternative":"Eye being discerning is expressed as 目が肥えている, but the Japanese does not mention eyes. The money contrast supports financial substance rather than perceptiveness.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-009","kind":"WH","description":"Future need for reputation becomes past need.","categories":["linguistic.tense_aspect","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[310,311],"MG":[310,311],"UP":[310,311]},"japanese":"「……蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。\n私たちのこれからには必要ないわ」","japanesePC":"「......蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。私たちのこれからには必要ないわ。」","japanesePS3":"「……蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。\n私たちのこれからには必要ないわ」","WH":"\"......Krauss-san's trustworthiness might have been necessary in his businesses in the past, but it isn't something we need now.\"","MG":"\"...Confidence in Krauss-san's abilities might be a requirement for his own businesses in the future,\nbut it isn't necessary for our future.\"","UP":"\"......Krauss‐san's credibility might be something he needs for his future work,\nbut we won't have any use for it.\"","note":"Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_3-L0310","readerRefs":{"WH":["umi5_3-L0310"],"MG":["umi5_3-L0310"],"UP":["umi5_3-L0310"]}}],"sourceReading":"これからのお仕事 and 私たちのこれから contrast Krauss’s future work, which needs his credit, with the couple’s future, which does not need his credit.","alternative":"The next extortion question makes the intended leverage recoverable, but past work reverses the stated reason he still has something to lose.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-010","kind":"WH","description":"Wasting one’s life worrying becomes being pathetic.","categories":["linguistic.word_choice","character.voice_state","character.relationship_power"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[321,321],"MG":[321,321],"UP":[321,321]},"japanese":"「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」","japanesePC":"「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」","japanesePS3":"「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」","WH":"\"Don't you think worrying about a problem when you have no other options is a bit pathetic?\"","MG":"\"Don't you think it's a bit pathetic to waste time worrying about a problem...when you have no other options?\"","UP":"\"Don't you think worrying about a problem when you have no other options is a waste of time?\"","note":"Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.","dispositions":{"MG":"partially_corrected","UP":"corrected"},"readerRef":"umi5_3-L0321","readerRefs":{"WH":["umi5_3-L0321"],"MG":["umi5_3-L0321"],"UP":["umi5_3-L0321"]}}],"sourceReading":"人生の無駄 judges worry over a choice-less problem as a waste of life, reinforcing Kyrie’s practical pressure to act.","alternative":"Pathetic also dismisses worry, but replaces an efficiency judgment with a belittling personal evaluation as she pushes a husband facing childhood trauma.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-011","kind":"WH","description":"Payment by fiscal-year end becomes payment within a year.","categories":["linguistic.mistranslation","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[374,374],"MG":[374,374],"UP":[374,374]},"japanese":"「もちろん、年度内だ。","japanesePC":"「もちろん、年度内だ。俺も助かる。姉貴も助かる。そして楼座も助かるってわけだ。三方丸く収まる。」","japanesePS3":"「もちろん、年度内だ。","WH":"\"Of course, it'll be within a year.  I need it.  Aneki needs it.  And you need it too, Rosa.  All three of our problems'll be settled.\"","MG":"\"Of course, it'll be within a year.","UP":"\"Within this fiscal year, of course.","note":"Parent independently read361–480.011 MG retained UP corrected fiscal year.012 both retain weekend forecast.013 MG restores mature man but youngish retains youth for voice vigor, partial; UP retains not-deepened error. UP441 independently broadens suspicious-contact restriction, verifiedPC12882/84. MG386 drops greeting to Maria, inheritedPC12699/12702, supplement follows. HoldUP413 omitted unhappy recovered414 horrible weather and415 wish;UP443 comparative intensity plausible concurrent curiosity emphasis;MG365 always idiomatic frequent pattern.385 next Sunday valid upcoming day;399–400 recover daughter trip. No yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_3-L0374","readerRefs":{"WH":["umi5_3-L0372","umi5_3-L0374","umi5_3-L0379"],"MG":["umi5_3-L0374"],"UP":["umi5_3-L0374"]}}],"sourceReading":"年度内 specifies the current fiscal-year boundary, rather than a rolling year from the conversation.","alternative":"A year could loosely mean the relevant yearly cycle, but within a year does not identify the explicit fiscal-year cutoff. No exact calendar date is inferred here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-012","kind":"WH","description":"Weekly forecast becomes weekend forecast.","categories":["linguistic.word_choice","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[412,412],"MG":[412,412],"UP":[412,412]},"japanese":"週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。","japanesePC":"週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。","japanesePS3":"週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。","WH":"The weekend forecast had said that there was a high likelihood of a tropical cyclone growing into a large typhoon.","MG":"According to the weekend forecast, a certain tropical cyclone would likely grow into a large typhoon.","UP":"The weekend forecast had said that there was a high likelihood of a tropical cyclone growing into a large typhoon.","note":"Parent independently read361–480.011 MG retained UP corrected fiscal year.012 both retain weekend forecast.013 MG restores mature man but youngish retains youth for voice vigor, partial; UP retains not-deepened error. UP441 independently broadens suspicious-contact restriction, verifiedPC12882/84. MG386 drops greeting to Maria, inheritedPC12699/12702, supplement follows. HoldUP413 omitted unhappy recovered414 horrible weather and415 wish;UP443 comparative intensity plausible concurrent curiosity emphasis;MG365 always idiomatic frequent pattern.385 next Sunday valid upcoming day;399–400 recover daughter trip. No yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0411","readerRefs":{"WH":["umi5_3-L0411"],"MG":["umi5_3-L0411"],"UP":["umi5_3-L0411"]}}],"sourceReading":"週間予報 is the forecast for the week, not specifically the weekend.","alternative":"The family conference may take place over a weekend, but that does not change the forecast label in this sentence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-013","kind":"WH","description":"Mature man with a still vigorous voice becomes man whose voice has not deepened.","categories":["linguistic.mistranslation","mystery.physical_constraint","character.knowledge_boundary"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[475,475],"MG":[475,475],"UP":[475,475]},"japanese":"まだまだ声に張りを持つ壮年男性かもしれない。","japanesePC":"青年くらいの男に感じられるが、案外、中学生くらいの男子かもしれないし、まだまだ声に張りを持つ壮年男性かもしれない。","japanesePS3":"まだまだ声に張りを持つ壮年男性かもしれない。","WH":"It sounded like a young man, but it might actually be a middle school-aged boy or an adult man whose voice still hadn't deepened.","MG":"...or a man in his prime who still had a youngish voice.","UP":"or an adult whose voice still hadn't deepened.","note":"Parent independently read361–480.011 MG retained UP corrected fiscal year.012 both retain weekend forecast.013 MG restores mature man but youngish retains youth for voice vigor, partial; UP retains not-deepened error. UP441 independently broadens suspicious-contact restriction, verifiedPC12882/84. MG386 drops greeting to Maria, inheritedPC12699/12702, supplement follows. HoldUP413 omitted unhappy recovered414 horrible weather and415 wish;UP443 comparative intensity plausible concurrent curiosity emphasis;MG365 always idiomatic frequent pattern.385 next Sunday valid upcoming day;399–400 recover daughter trip. No yellow.","dispositions":{"MG":"partially_corrected","UP":"retained"},"readerRef":"umi5_3-L0472","readerRefs":{"WH":["umi5_3-L0472"],"MG":["umi5_3-L0472"],"UP":["umi5_3-L0472"]}}],"sourceReading":"壮年男性 with 声に張り is a mature man whose voice still has strength or resonance, one alternative to the apparent young man.","alternative":"An older man’s youthful-sounding voice could motivate either description, but had not deepened invents a different vocal property and loses the mature age category.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-014","kind":"WH","description":"No grounds to call her Mother becomes no memory of being called Mother.","categories":["linguistic.idiom_calque","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[499,499],"MG":[499,499],"UP":[499,499]},"japanese":"「あ、……ぁ、あなたに母と呼ばれる覚えはありません！","japanesePC":"「あ、......ぁ、あなたに母と呼ばれる覚えはありません！　何のつもりか知りませんが、もう切りますよ...！！」","japanesePS3":"「あ、……ぁ、あなたに母と呼ばれる覚えはありません！","WH":"\"I, ......I, I don't remember someone like you ever calling me Mother!  I don't know what you're thinking, but I'm hanging up...!!\"","MG":"\"I...I-I have no idea what you're talking about!","UP":"\"I, ......I, I have no idea why you think you have the right to call me \"Mother\"!","note":"Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.","dispositions":{"MG":"partially_corrected","UP":"corrected"},"readerRef":"umi5_3-L0499","readerRefs":{"WH":["umi5_3-L0499"],"MG":["umi5_3-L0499"],"UP":["umi5_3-L0499"]}}],"sourceReading":"あなたに母と呼ばれる覚えはありません rejects any grounds or relationship entitling this person to call her Mother.","alternative":"覚え can refer to memory, but this formula rejects the basis for the address, rather than reporting whether this address was previously uttered.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-015","kind":"WH","description":"Mind filled with a flash becomes mind going blank.","categories":["linguistic.imagery_rhythm_recurrence","character.voice_state","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[503,503],"MG":[503,503],"UP":[503,503]},"japanese":"夏妃の頭が、閃光で満たされる……。","japanesePC":"夏妃の頭が、閃光で満たされる......。","japanesePS3":"夏妃の頭が、閃光で満たされる……。","WH":"Natsuhi's mind went blank......","MG":"Natsuhi's mind went blank...","UP":"Natsuhi's mind went blank......","note":"Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0503","readerRefs":{"WH":["umi5_3-L0503"],"MG":["umi5_3-L0503"],"UP":["umi5_3-L0503"]}}],"sourceReading":"Her head fills with a flash, followed by hearing the sea from that day: an intrusive sensory impact at the nineteen-year accusation.","alternative":"Going blank can express shock and the next sea-memory image survives, but it replaces the positive flash image with absence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-016","kind":"WH","description":"Caller claiming to be her child becomes claiming to be her son.","categories":["linguistic.overinterpretation","mystery.epistemic_status","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[513,513],"MG":[513,513],"UP":[513,513]},"japanese":"……俺もカアサンの子どもだからね。","japanesePC":"「１９年前にあんたがした仕打ちを、......俺は忘れない。......だからあんたを呪うために、あえてそれでも、いや、だからこそ、俺はあんたをカアサンと呼ぶよ。.........もうすぐ、親族会議じゃないか。......俺もカアサンの子どもだからね。会議の日に帰るよ。...１９年ぶりにね。......あんたに復讐するために。」","japanesePS3":"……俺もカアサンの子どもだからね。","WH":"\"I haven't forgotten how you treated me 19 years ago.........To curse you, I still call you Mother despite that, no, because of that.  .........It'll be the family conference very soon, won't it?  ......I am your son, Mother.  I'll come on the day of the conference.  ...After 19 years.  ......So that I can have my revenge on you.\"","MG":"...I am your son, Mother.","UP":"......I am your son, Mother, after all.","note":"Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_3-L0509","readerRefs":{"WH":["umi5_3-L0509"],"MG":["umi5_3-L0509"],"UP":["umi5_3-L0509"]}}],"sourceReading":"俺もカアサンの子ども says I too am your child. The narrator explicitly cautions that even classifying the voice as male may be premature.","alternative":"俺 and the apparently male voice support a masculine presentation, but son adds a sex-specific relationship claim where the Japanese maintains child. It is an added claim by the caller, not confirmation by the narrator.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-017","kind":"WH","description":"Playing a card face down becomes leaving without turning it over.","categories":["linguistic.mistranslation","world.literary_reference","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[559,559],"MG":[559,559],"UP":[559,559]},"japanese":"このカードを伏せたまま場に出すゥ、ってヤツね〜。","japanesePC":"「うっふふふふふふふふふふふふふふふ.........。このカードを伏せたまま場に出すゥ、ってヤツね～。","japanesePS3":"このカードを伏せたまま場に出すゥ、ってヤツね〜。","WH":"\"Ehheheheheheheheheheheheheheheheh.........  So, you'll leave without turning the card over.","MG":"So, you'll leave without turning the card over.","UP":"I place this card face‐down onto the field, hehe~.","note":"Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_3-L0558","readerRefs":{"WH":["umi5_3-L0558"],"MG":["umi5_3-L0558"],"UP":["umi5_3-L0558"]}}],"sourceReading":"このカードを伏せたまま場に出す describes putting this card into play face down, keeping its content unrevealed.","alternative":"Leaving the card unturned retains concealment, but omits putting it into play and introduces departure. The subsequent direct attack and turn sequence make the card-game action consequential to the metaphor.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-018","kind":"WH","description":"WH changes Krauss wishing to show his success to Father with pride into wishing to receive praise from Father.","categories":["character.motivation_emotion"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[41,41],"MG":[41,41],"UP":[41,41]},"japanese":"親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ…！」","japanesePC":"「必ず釣り上げられる魚だ。何も焦る必要はないのだよ。親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ...！」","japanesePS3":"親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ…！」","WH":"\"We'll definitely be able to reel this fish in.  There's no need to rush.  It's such a success that I wish I could show it to Father to be praised, if he were still alive...!\"","MG":"It's such a success that I wish I could show it to Father, if he were still alive...!\"","UP":"It's such a success that I wish I could show it to Dad to be praised, if he were still alive...!\"","note":"Original PC and coherent paired context verified under ep05-ch03-supplement-a-2026-10-13; chapter prefix corrected through recorded withdrawal and re-registration.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi5_3-L0039","readerRefs":{"WH":["umi5_3-L0039"],"MG":["umi5_3-L0039"],"UP":["umi5_3-L0039"]}}],"sourceReading":"見せて誇りたい expresses showing the success and taking pride in it; it does not state receiving praise.","alternative":"Paternal approval is a plausible implied wish, but replaces the expressed action and orientation of pride.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH03-019","kind":"WH","description":"WH omits Rudolf asking Rosa to pass his greeting to Maria, replacing it with an unfinished topic shift.","categories":["linguistic.omission"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[386,386],"MG":[386,386],"UP":[386,386]},"japanese":"「真里亞ちゃんによろしくな。","japanesePC":"「真里亞ちゃんによろしくな。連れて来てもいいんだぜ。」","japanesePS3":"「真里亞ちゃんによろしくな。","WH":"\"And Maria-chan.  You can bring her too if you want.\"","MG":"\"And Maria-chan.","UP":"\"Say hi to Maria‐chan for me.","note":"Original PC and coherent paired context verified under ep05-ch03-supplement-b-2026-10-13; chapter prefix corrected through recorded withdrawal and re-registration.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_3-L0386","readerRefs":{"WH":["umi5_3-L0384","umi5_3-L0386","umi5_3-L0388"],"MG":["umi5_3-L0386"],"UP":["umi5_3-L0386"]}}],"sourceReading":"真里亞ちゃんによろしくな asks Rosa to say hello to Maria for him.","alternative":"And Maria-chan can introduce the invitation that follows, but does not convey the separate greeting request.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH03-121-240-001","kind":"additional","description":"MG makes Battler the recipient of the method he has proclaimed since the start.","categories":["linguistic.wrong_subject"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[190,194],"MG":[190,194],"UP":[190,194]},"japanese":"俺はその旅路を辿るための方法を、もう知っている。\nそして最初から、それを掲げている。\n「……今こそ、チェス盤を引っ繰り返そう。\nこの物語を、俺側からじゃなく、\n……お前側からの目線で、物語を紐解く」","japanesePC":"","japanesePS3":"俺はその旅路を辿るための方法を、もう知っている。\nそして最初から、それを掲げている。\n「……今こそ、チェス盤を引っ繰り返そう。\nこの物語を、俺側からじゃなく、\n……お前側からの目線で、物語を紐解く」","WH":"","MG":"I already know how I can reach the end of that journey.\nIt's been made clear to me since the very beginning.\n\"...This time, I'll spin the chessboard around.\nI'll read this tale not from my side,\n...but from yours.\"","UP":"I already know the method for reaching the end of that journey.\nAnd I've been shouting it since the very beginning.\n\"......This time, I really will flip over the chessboard.\nI'll untangle this tale not from my side,\n......but from yours.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi5_3-L0189","readerRefs":{"WH":[],"MG":["umi5_3-L0189","umi5_3-L0192"],"UP":["umi5_3-L0189","umi5_3-L0192"]}}],"sourceReading":"そして最初から、それを掲げている continues Battler as subject: he has upheld/proclaimed the method. MG adds to me to the passive, turning him into its recipient; PC12113–12114 has passive shown without that added recipient. UP restores active proclamation.","alternative":"Knowing the method is stated in190, but191 is a separate claim about his displaying it; made clear to me changes that predicate and agent.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH03-361-480-001","kind":"additional","description":"UP broadens Natsuhi's prohibition on suspicious contacts into a prohibition on connections with other men.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[441,441],"MG":[441,441],"UP":[441,441]},"japanese":"妻たるもの、夫以外の、それも若い男性と、疑われるような接点があるべきではない。","japanesePC":"","japanesePS3":"妻たるもの、夫以外の、それも若い男性と、疑われるような接点があるべきではない。","WH":"","MG":"As a wife, she must avoid any contact that might be considered suspicious with anyone other than her husband, much less a young man.","UP":"Natsuhi thought that as a wife, it wasn't right for her to have connections with men other than her husband, much less a young man; it might be considered suspicious.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi5_3-L0441","readerRefs":{"WH":[],"MG":["umi5_3-L0441"],"UP":["umi5_3-L0441"]}}],"sourceReading":"疑われるような接点 restricts the forbidden contacts to ones inviting suspicion. UP prohibits connections with men other than her husband and then gives suspicion as a reason. PC12882–12884 and MG retain the restricted scope.","alternative":"Suspicion remains an explicit reason, but the semicolon clause does not restrict the preceding categorical prohibition to suspicious connections.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-062","kind":"PC","description":"PC 慌てる乞食は何とやら uses the beggar proverb. Maintained PS3 JP 急いては事を何とやら uses the haste proverb. MG Anxious beggars never prosper preserves the PC reference.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[54,54],"MG":[54,54],"UP":[54,54]},"japanese":"急いては事を何とやら……。","japanesePC":"慌てる乞食は何とやら......。","japanesePS3":"急いては事を何とやら……。","WH":"Like by anxiously begging for money......","MG":"Anxious beggars never prosper...","UP":"There's a saying about hasty anglers......","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"no_PC_only_material_confirmed"},"readerRef":"umi5_3-L0053","readerRefs":{"WH":[],"MG":["umi5_3-L0053"],"UP":["umi5_3-L0053"]}}],"sourceReading":"PC 慌てる乞食は何とやら uses the beggar proverb. Maintained PS3 JP 急いては事を何とやら uses the haste proverb. MG Anxious beggars never prosper preserves the PC reference.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-063","kind":"PC","description":"Original PC アンタップ、アップキープ、ドロー and WH Untap, upkeep, draw match MG. Maintained PS3 JP スタート、クリンナップ、ドロー and UP Start, cleanup, draw use revised sequence.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi5_3","episode":5,"rows":{"JP":[576,576],"MG":[576,576],"UP":[576,576]},"japanese":"スタート、クリンナップ、ドロー！！」","japanesePC":"「ターンエンドね？　アンタップ、アップキープ、ドロー！！","japanesePS3":"スタート、クリンナップ、ドロー！！」","WH":"\"<Turn end>, right?  <Untap, upkeep, draw>!!","MG":"<Untap, upkeep, draw>!!","UP":"<Start, cleanup, draw>!!\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3_derived_Japanese"},"readerRef":"umi5_3-L0575","readerRefs":{"WH":[],"MG":["umi5_3-L0575"],"UP":["umi5_3-L0575"]}}],"sourceReading":"Original PC アンタップ、アップキープ、ドロー and WH Untap, upkeep, draw match MG. Maintained PS3 JP スタート、クリンナップ、ドロー and UP Start, cleanup, draw use revised sequence.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP05-CH03-001",
+      "kind": "WH",
+      "description": "Winning venture attracts investment without intervention becomes investment regardless of winning.",
+      "categories": [
+        "linguistic.logical_relation",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              32,
+              32
+            ],
+            "MG": [
+              32,
+              32
+            ],
+            "UP": [
+              32,
+              32
+            ]
+          },
+          "japanese": "勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。",
+          "japanesePC": "勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。",
+          "japanesePS3": "勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。",
+          "WH": "Whether it proved to be a winner or not, investors had gathered around it, and they were rapidly gaining funds.",
+          "MG": "Whether it would prove to be a winner or not, investors had gathered around it, and they were rapidly gaining funds.",
+          "UP": "Investors were gathering, jumping on the bandwagon of their own accord, and the business was rapidly gathering funds.",
+          "note": "Parent independently read1–120.001 UP bandwagon of own accord restores spontaneous winner attraction;002 both retain;003 both restore standard method. UP41 seeking paternal praise changes source showing Father with personal pride; original PC11669/11671 proves inherited, supplemental parent follows. MG41 restores showing Father, pride implicit in success. MG54 proven PC beggar reference retained against PS3 haste proverb: yellow excluded counts. Hold MG21 omitted relaxation courtesy,14 expenditure and the like broad financial documents,70 charts documents specificity,120 confidence embodies authoritative demeanor. No new independent defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0030",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0030"
+            ],
+            "MG": [
+              "umi5_3-L0030"
+            ],
+            "UP": [
+              "umi5_3-L0030"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "確かに蔵臼が豪語した事業は、この一年でさらに規模が大きくなり、当初の見込みを大幅に上回る利益を約束しつつあった。勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。カネがカネを呼ぶとはまさにこのことだろう。",
+              "translation": "Certainly, this business Krauss boasted of had expanded in scope over the last year... and was promising an even greater payoff than had been anticipated initially. Whether it would prove to be a winner or not, investors had gathered around it, and they were rapidly gaining funds. This must be what they mean when they say money summons money. "
+            },
+            "UP": {
+              "japanese": "確かに蔵臼が豪語した事業は、この一年でさらに規模が大きくなり、当初の見込みを大幅に上回る利益を約束しつつあった。勝ち馬には放って置いても出資者が集まり、資金が見る見る集まる。カネがカネを呼ぶとはまさにこのことだろう。",
+              "translation": "Certainly, this business Krauss boasted of had expanded in scope over the last year, and was promising an even greater payoff than had been anticipated in the beginning. Investors were gathering, jumping on the bandwagon of their own accord, and the business was rapidly gathering funds. It was a perfect example of the saying \"money makes money\"."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0030"
+            ],
+            "MG": [
+              "umi5_3-L0030"
+            ],
+            "UP": [
+              "umi5_3-L0030"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "勝ち馬には放って置いても means investors gather around a winning horse even when left alone. The winning prospect explains the self-reinforcing influx of funds.",
+      "alternative": "The next money-summons-money sentence preserves self-reinforcement, but whether it proved a winner or not replaces the source’s condition with indifference to success.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-002",
+      "kind": "WH",
+      "description": "A small setback to good fortune becomes taking fortune for granted.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              53,
+              53
+            ],
+            "MG": [
+              53,
+              53
+            ],
+            "UP": [
+              53,
+              53
+            ]
+          },
+          "japanese": "確かに、運気というのは小さなケチで転ぶこともある。",
+          "japanesePC": "確かに、運気というのは小さなケチで転ぶこともある。",
+          "japanesePS3": "確かに、運気というのは小さなケチで転ぶこともある。",
+          "WH": "Certainly, fortune tends to turn against people who take it for granted even in the slightest.",
+          "MG": "Certainly, fortune tends to turn against people who take it for granted even in the slightest.",
+          "UP": "Certainly, fortune tends to turn against people who take it for granted even in the slightest.",
+          "note": "Parent independently read1–120.001 UP bandwagon of own accord restores spontaneous winner attraction;002 both retain;003 both restore standard method. UP41 seeking paternal praise changes source showing Father with personal pride; original PC11669/11671 proves inherited, supplemental parent follows. MG41 restores showing Father, pride implicit in success. MG54 proven PC beggar reference retained against PS3 haste proverb: yellow excluded counts. Hold MG21 omitted relaxation courtesy,14 expenditure and the like broad financial documents,70 charts documents specificity,120 confidence embodies authoritative demeanor. No new independent defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0053",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0053"
+            ],
+            "MG": [
+              "umi5_3-L0053"
+            ],
+            "UP": [
+              "umi5_3-L0053"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "確かに、運気というのは小さなケチで転ぶこともある。\n急いては事を何とやら……。蔵臼はこれまで、じっくり待てば必ず利益が上げられた事業を、いくつも焦って清算し、自ら勝ち馬を降りるような真似をしてきた。",
+              "translation": "Certainly, fortune tends to turn against people who take it for granted even in the slightest. Anxious beggars never prosper... On many occasions before now, Krauss had gotten cold feet and sold off businesses that would surely have brought in a profit had he just waited, and had, in effect, given away his winning picks. "
+            },
+            "UP": {
+              "japanese": "確かに、運気というのは小さなケチで転ぶこともある。\n急いては事を何とやら……。蔵臼はこれまで、じっくり待てば必ず利益が上げられた事業を、いくつも焦って清算し、自ら勝ち馬を降りるような真似をしてきた。",
+              "translation": "Certainly, fortune tends to turn against people who take it for granted even in the slightest.\nThere's a saying about hasty anglers...... On many occasions before now, Krauss had gotten cold feet and sold businesses that would surely have brought in a profit had he just waited, and had, in effect, given away his winning picks."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0053"
+            ],
+            "MG": [
+              "umi5_3-L0053"
+            ],
+            "UP": [
+              "umi5_3-L0053"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "小さなケチ here is a small adverse incident or snag that can turn the course of good fortune. This follows concern that unusual fundraising might create mistrust.",
+      "alternative": "The surrounding caution could loosely support a moral warning, but the Japanese does not identify complacency or taking good luck for granted as the cause.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-003",
+      "kind": "WH",
+      "description": "Alchemy’s standard royal road becomes shortcuts.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.terminology_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              75,
+              75
+            ],
+            "MG": [
+              75,
+              75
+            ],
+            "UP": [
+              75,
+              75
+            ]
+          },
+          "japanese": "錬金術の王道を見事に体現しているぞ」",
+          "japanesePC": "「......ふむ。妾から見てもなかなかのものよ。誰もが勝利を確信し、相当の魔力が集中している。その結果、さらに勝利が厚くなり、ますますに人と魔力を集め、黄金を生み出そうとしている。錬金術の王道を見事に体現しているぞ。」",
+          "japanesePS3": "錬金術の王道を見事に体現しているぞ」",
+          "WH": "\"......Hmmm.  They're pretty good even from my perspective.  Everyone is confident in victory and concentrating a significant quantity of magical power.  As a result, that victory is growing ever deeper, gathering more and more people and magical power, and beginning to create gold.  A perfect embodiment of alchemy's shortcuts.\"",
+          "MG": "A perfect embodiment of classic alchemy.\"",
+          "UP": "A perfect embodiment of the classic method of alchemy.\"",
+          "note": "Parent independently read1–120.001 UP bandwagon of own accord restores spontaneous winner attraction;002 both retain;003 both restore standard method. UP41 seeking paternal praise changes source showing Father with personal pride; original PC11669/11671 proves inherited, supplemental parent follows. MG41 restores showing Father, pride implicit in success. MG54 proven PC beggar reference retained against PS3 haste proverb: yellow excluded counts. Hold MG21 omitted relaxation courtesy,14 expenditure and the like broad financial documents,70 charts documents specificity,120 confidence embodies authoritative demeanor. No new independent defect.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0072",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0072"
+            ],
+            "MG": [
+              "umi5_3-L0072"
+            ],
+            "UP": [
+              "umi5_3-L0072"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……ふむ。妾から見てもなかなかのものよ。誰もが勝利を確信し、相当の魔力が集中している。その結果、さらに勝利が厚くなり、ますますに人と魔力を集め、黄金を生み出そうとしている。錬金術の王道を見事に体現しているぞ」",
+              "translation": "\"...Hmmm. They're pretty good even from my perspective. Everyone is confident in victory, gathering together a significant quantity of magical power. As a result, that victory is growing ever deeper, involving more and more people and magic, beginning to create gold. A perfect embodiment of classic alchemy.\" "
+            },
+            "UP": {
+              "japanese": "「……ふむ。妾から見てもなかなかのものよ。誰もが勝利を確信し、相当の魔力が集中している。その結果、さらに勝利が厚くなり、ますますに人と魔力を集め、黄金を生み出そうとしている。錬金術の王道を見事に体現しているぞ」",
+              "translation": "\"......Hmmm. They're pretty good even from my perspective. Everyone is confident in his victory and concentrating a significant quantity of magical power. As a result, that victory is growing ever deeper, gathering more and more people and magical power, and beginning to create gold. A perfect embodiment of the classic method of alchemy.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0072"
+            ],
+            "MG": [
+              "umi5_3-L0072"
+            ],
+            "UP": [
+              "umi5_3-L0072"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "王道 describes the orthodox or exemplary route to alchemy: confidence draws power, people and gold.",
+      "alternative": "Royal road can connote an easy route in some contexts, but calling the exemplary mechanism shortcuts adds the idea of bypassing the normal route.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-004",
+      "kind": "WH",
+      "description": "Concentrating on the game becomes letting that part slide.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              163,
+              163
+            ],
+            "MG": [
+              163,
+              163
+            ],
+            "UP": [
+              163,
+              163
+            ]
+          },
+          "japanese": "俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。",
+          "japanesePC": "「......誤解すんなよ。魔女の存在を認めたり、あるいは屈したつもりもねぇ。俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。ゲーム盤の外でまで、嫌がらせをするほど趣味は悪くねぇからな。」",
+          "japanesePS3": "俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。",
+          "WH": "\"......Don't get the wrong idea.  I don't plan on accepting the existence of witches or surrendering.  I just want to let that part slide and fight like a stoic so that I can win in this game against you.  I have no desire to bully you outside the game board as well.\"",
+          "MG": "I just want to let that part slide and fight stoically...so that I can win this game against you.",
+          "UP": "I just want to focus solely on that one time period and fight like a stoic so that I can win in this game against you.",
+          "note": "Parent independently read121–240.004 MG retains let slide versus strict focus; UP corrected. MG191 introduced recipient to me confirmedPC12113/12114; original passive alone held as incomplete agency rather than duplicate canonical finding. Hold185 not worried about: current scope prioritizes motive, without eliminating murder/trick inquiry which163/179/196 preserve; UP obvious less precise than surface but context186–188 retains deeper inquiry.159 question allows interpretive or;162つもり permits intent;173 spoken question follows175–176.224 future warning expresses habitual clumsiness;MG228 Kinzo death concealment recovered208–218. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0161",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0161"
+            ],
+            "MG": [
+              "umi5_3-L0161"
+            ],
+            "UP": [
+              "umi5_3-L0161"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……誤解すんなよ。魔女の存在を認めたり、あるいは屈したつもりもねぇ。俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。ゲーム盤の外でまで、嫌がらせをするほど趣味は悪くねぇからな」",
+              "translation": "\"...Don't get the wrong idea. I don't plan on accepting the existence of witches or surrendering. I just want to let that part slide and fight stoically...so that I can win this game against you. I have no desire to bully you outside the game board as well.\" "
+            },
+            "UP": {
+              "japanese": "「……誤解すんなよ。魔女の存在を認めたり、あるいは屈したつもりもねぇ。俺はお前とのゲームに勝つ為に、その部分だけに徹してストイックに戦いたいだけだぜ。ゲーム盤の外でまで、嫌がらせをするほど趣味は悪くねぇからな」",
+              "translation": "\"......Don't get the wrong idea. I don't plan on accepting the existence of witches or surrendering. I just want to focus solely on that one time period and fight like a stoic so that I can win in this game against you. I have no desire to bully you outside the game board as well.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0161"
+            ],
+            "MG": [
+              "umi5_3-L0161"
+            ],
+            "UP": [
+              "umi5_3-L0161"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "その部分だけに徹して means devote himself strictly to the game portion so as to win, while refraining from harassment outside the board.",
+      "alternative": "Let that part slide could intend the outside-board matters, but the source’s demonstrative refers to the portion he focuses on, and WH substitutes overlooking it for concentrating on it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-005",
+      "kind": "WH",
+      "description": "Nobunaga’s death becomes Nobuyuki’s death.",
+      "categories": [
+        "linguistic.name_address",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              262,
+              262
+            ],
+            "MG": [
+              262,
+              262
+            ],
+            "UP": [
+              262,
+              262
+            ]
+          },
+          "japanese": "敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、",
+          "japanesePC": "「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや。」",
+          "japanesePS3": "敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、",
+          "WH": "\"On the other hand, Shibata Katsuie failed at this.  The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down.  That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"",
+          "MG": "The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and got slowed down.",
+          "UP": "The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down.",
+          "note": "Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0261",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0261"
+            ],
+            "MG": [
+              "umi5_3-L0261"
+            ],
+            "UP": [
+              "umi5_3-L0261"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや」",
+              "translation": "\"On the other hand, Shibata Katsuie failed at this. The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and got slowed down. That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\" "
+            },
+            "UP": {
+              "japanese": "「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや」",
+              "translation": "\"Shibata Katsuie, on the other hand... That was where he failed. The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down. That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0261"
+            ],
+            "MG": [
+              "umi5_3-L0261"
+            ],
+            "UP": [
+              "umi5_3-L0261"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "信長 is the same Nobunaga named in the preceding account of concealing his death; WH changes this occurrence to Nobuyuki.",
+      "alternative": "The preceding English correctly names Oda Nobunaga and allows recovery of the intended reference, but the new proper name is unsupported by this Japanese.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-006",
+      "kind": "WH",
+      "description": "Named rapid return march is replaced with a battle label.",
+      "categories": [
+        "linguistic.omission",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              260,
+              260
+            ],
+            "MG": [
+              260,
+              260
+            ],
+            "UP": [
+              260,
+              260
+            ]
+          },
+          "japanese": "素早く毛利と和解して、中国大返しを行い明智を討ったんやないか」",
+          "japanesePC": "「当時、武田は織田や徳川との戦の真っ最中だった。そこで信玄が死んだなんて話になったら、戦況に悪影響が出るやろ。そやから、自分の死を３年隠すように遺言したんや。......秀吉かてそうやで？　主君、織田信長の死を敵方に知られんように、徹底的に情報規制を行い、素早く毛利と和解して、中国大返しを行い明智を討ったんやないか。」",
+          "japanesePS3": "素早く毛利と和解して、中国大返しを行い明智を討ったんやないか」",
+          "WH": "\"At the time, Takeda was in the middle of a war with Oda and Tokugawa.  If his death had become known at a time like that, it would probably have had a negative effect on the war.  'Cause of this, he left a will sayin' that his death should be kept hidden for three years.  ......Hideyoshi did the same thing, right?  He completely suppressed information about the death of his master, Oda Nobunaga, so that the enemy wouldn't find out, quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\"",
+          "MG": "quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\"",
+          "UP": "quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\"",
+          "note": "Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0255",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0255"
+            ],
+            "MG": [
+              "umi5_3-L0255"
+            ],
+            "UP": [
+              "umi5_3-L0255"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「当時、武田は織田や徳川との戦の真っ最中だった。そこで信玄が死んだなんて話になったら、戦況に悪影響が出るやろ。そやから、自分の死を３年隠すように遺言したんや。……秀吉かてそうやで？　主君、織田信長の死を敵方に知られんように、徹底的に情報規制を行い、素早く毛利と和解して、中国大返しを行い明智を討ったんやないか」",
+              "translation": "\"At the time, Takeda was in the middle of a war with Oda and Tokugawa. If people learned about his death at a time like that, it'd probably have had a bad impact on the war. 'Cause of that, he left a will sayin' that his death should be kept hidden for three years. ...Hideyoshi did the same thing, right? He totally suppressed information about the death of his master, Oda Nobunaga, so that the enemy wouldn't find out, quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\" "
+            },
+            "UP": {
+              "japanese": "「当時、武田は織田や徳川との戦の真っ最中だった。そこで信玄が死んだなんて話になったら、戦況に悪影響が出るやろ。そやから、自分の死を３年隠すように遺言したんや。……秀吉かてそうやで？　主君、織田信長の死を敵方に知られんように、徹底的に情報規制を行い、素早く毛利と和解して、中国大返しを行い明智を討ったんやないか」",
+              "translation": "\"At the time, Takeda was in the middle of a war with Oda and Tokugawa. If his death had become known at a time like that, it would probably have had a negative effect on the war. 'Cause of this, he left a will sayin' that his death should be kept hidden for three years. ......Hideyoshi did the same thing, right? He completely suppressed information about the death of his master, Oda Nobunaga, so that the enemy wouldn't find out, quickly made peace with Mouri, and defeated Akechi in the Battle of Yamazaki.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0255"
+            ],
+            "MG": [
+              "umi5_3-L0255"
+            ],
+            "UP": [
+              "umi5_3-L0255"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The Japanese explicitly includes 中国大返し between making peace with Mouri and defeating Akechi; the sequence includes the return movement itself.",
+      "alternative": "The English battle label may identify the endpoint of defeating Akechi, but it does not render the named return march. No external historical factual verdict is being made here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-007",
+      "kind": "WH",
+      "description": "Falling behind in succession struggle becomes suffering a great loss.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.culture_history"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              263,
+              263
+            ],
+            "MG": [
+              263,
+              263
+            ],
+            "UP": [
+              263,
+              263
+            ]
+          },
+          "japanese": "その後の秀吉との後継者争いで大きく遅れを取ることになったんや」",
+          "japanesePC": "「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや。」",
+          "japanesePS3": "その後の秀吉との後継者争いで大きく遅れを取ることになったんや」",
+          "WH": "\"On the other hand, Shibata Katsuie failed at this.  The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down.  That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"",
+          "MG": "That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"",
+          "UP": "That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\"",
+          "note": "Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0261",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0261"
+            ],
+            "MG": [
+              "umi5_3-L0261"
+            ],
+            "UP": [
+              "umi5_3-L0261"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや」",
+              "translation": "\"On the other hand, Shibata Katsuie failed at this. The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and got slowed down. That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\" "
+            },
+            "UP": {
+              "japanese": "「一方の柴田勝家はそこで失敗したんや。敵の上杉に信長の死を知られ、思わぬ反撃を受けて足止めを食らい、その後の秀吉との後継者争いで大きく遅れを取ることになったんや」",
+              "translation": "\"Shibata Katsuie, on the other hand... That was where he failed. The enemy, Uesugi, learned of Nobuyuki's death, so Shibata had to deal with an unexpected counterattack and was slowed down. That's why, later on, he suffered a great loss against Hideyoshi in the fight for the succession.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0261"
+            ],
+            "MG": [
+              "umi5_3-L0261"
+            ],
+            "UP": [
+              "umi5_3-L0261"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "大きく遅れを取る means the delay put Shibata far behind in the subsequent succession struggle with Hideyoshi.",
+      "alternative": "A great loss can loosely mean a disadvantage, but suffered a great loss against Hideyoshi in a fight suggests a defeat rather than the source’s explicit loss of ground caused by delay.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-008",
+      "kind": "WH",
+      "description": "Investors being well funded becomes investors having a keen eye.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              302,
+              302
+            ],
+            "MG": [
+              302,
+              302
+            ],
+            "UP": [
+              302,
+              302
+            ]
+          },
+          "japanese": "………そりゃ、投資家は肥えてるから投資家なんだぜ。",
+          "japanesePC": "「弱み？　.........そりゃ、投資家は肥えてるから投資家なんだぜ。実は金欠だなんてことになったら、誰も見向きもしねぇ。」",
+          "japanesePS3": "………そりゃ、投資家は肥えてるから投資家なんだぜ。",
+          "WH": "\"A weakness?  .........Well, investors tend to have a keen eye.  If they were to hear that Krauss is actually low on funds, none would want to have anything to do with him.\"",
+          "MG": "...Well, investors tend to have a keen eye.",
+          "UP": ".........Well, investors tend to have a keen eye.",
+          "note": "Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0301",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0301"
+            ],
+            "MG": [
+              "umi5_3-L0301"
+            ],
+            "UP": [
+              "umi5_3-L0301"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「弱み？　………そりゃ、投資家は肥えてるから投資家なんだぜ。実は金欠だなんてことになったら、誰も見向きもしねぇ」",
+              "translation": "\"Weaken his position? ...Well, investors tend to have a keen eye. If they hear that he's actually low on funds, they won't wanna have anything to do with him.\" "
+            },
+            "UP": {
+              "japanese": "「弱み？　………そりゃ、投資家は肥えてるから投資家なんだぜ。実は金欠だなんてことになったら、誰も見向きもしねぇ」",
+              "translation": "\"A weakness? .........Well, investors tend to have a keen eye. If they were to hear that Aniki is actually low on funds, no one would give him the time of day.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0301"
+            ],
+            "MG": [
+              "umi5_3-L0301"
+            ],
+            "UP": [
+              "umi5_3-L0301"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "投資家は肥えてるから投資家 says investors are investors because they are well fed or financially substantial; the following 金欠 contrasts their apparent resources with running out of funds.",
+      "alternative": "Eye being discerning is expressed as 目が肥えている, but the Japanese does not mention eyes. The money contrast supports financial substance rather than perceptiveness.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-009",
+      "kind": "WH",
+      "description": "Future need for reputation becomes past need.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              310,
+              311
+            ],
+            "MG": [
+              310,
+              311
+            ],
+            "UP": [
+              310,
+              311
+            ]
+          },
+          "japanese": "「……蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。\n私たちのこれからには必要ないわ」",
+          "japanesePC": "「......蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。私たちのこれからには必要ないわ。」",
+          "japanesePS3": "「……蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。\n私たちのこれからには必要ないわ」",
+          "WH": "\"......Krauss-san's trustworthiness might have been necessary in his businesses in the past, but it isn't something we need now.\"",
+          "MG": "\"...Confidence in Krauss-san's abilities might be a requirement for his own businesses in the future,\nbut it isn't necessary for our future.\"",
+          "UP": "\"......Krauss‐san's credibility might be something he needs for his future work,\nbut we won't have any use for it.\"",
+          "note": "Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0310",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0310"
+            ],
+            "MG": [
+              "umi5_3-L0310"
+            ],
+            "UP": [
+              "umi5_3-L0310"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。私たちのこれからには必要ないわ」",
+              "translation": "\"...Confidence in Krauss-san's abilities might be a requirement for his own businesses in the future, but it isn't necessary for our future.\" "
+            },
+            "UP": {
+              "japanese": "「……蔵臼さんの信用は、蔵臼さんのこれからのお仕事に必要だろうけれど。私たちのこれからには必要ないわ」",
+              "translation": "\"......Krauss‐san's credibility might be something he needs for his future work, but we won't have any use for it.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0310"
+            ],
+            "MG": [
+              "umi5_3-L0310"
+            ],
+            "UP": [
+              "umi5_3-L0310"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "これからのお仕事 and 私たちのこれから contrast Krauss’s future work, which needs his credit, with the couple’s future, which does not need his credit.",
+      "alternative": "The next extortion question makes the intended leverage recoverable, but past work reverses the stated reason he still has something to lose.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-010",
+      "kind": "WH",
+      "description": "Wasting one’s life worrying becomes being pathetic.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              321,
+              321
+            ],
+            "MG": [
+              321,
+              321
+            ],
+            "UP": [
+              321,
+              321
+            ]
+          },
+          "japanese": "「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」",
+          "japanesePC": "「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」",
+          "japanesePS3": "「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」",
+          "WH": "\"Don't you think worrying about a problem when you have no other options is a bit pathetic?\"",
+          "MG": "\"Don't you think it's a bit pathetic to waste time worrying about a problem...when you have no other options?\"",
+          "UP": "\"Don't you think worrying about a problem when you have no other options is a waste of time?\"",
+          "note": "Parent independently read241–360.005–008 both retain;009 both restore future need for credibility;010 MG restores wasted time but retains pathetic judgement, UP corrected. Hold MG287–288 omission of actively: attempt itself denotes deliberate seeking, no established incidental contact ruled out. Hold both264 habitual formulation: immediate preceding lecture and265 Eva redirecting establish current showing-off, no material action lost.250 possibility preserves illustrative death hypothesis in272–277.352 coordination purpose recovered361–362;310 MG abilities narrows credit but329–335 preserve business trust. No independent firm defect or yellow material.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0321",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0321"
+            ],
+            "MG": [
+              "umi5_3-L0321"
+            ],
+            "UP": [
+              "umi5_3-L0321"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」",
+              "translation": "\"Don't you think it's a bit pathetic to waste time worrying about a problem...when you have no other options?\" "
+            },
+            "UP": {
+              "japanese": "「選択の余地のない問題で悩むのは、人生の無駄だと思わない？」",
+              "translation": "\"Don't you think worrying about a problem when you have no other options is a waste of time?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0321"
+            ],
+            "MG": [
+              "umi5_3-L0321"
+            ],
+            "UP": [
+              "umi5_3-L0321"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "人生の無駄 judges worry over a choice-less problem as a waste of life, reinforcing Kyrie’s practical pressure to act.",
+      "alternative": "Pathetic also dismisses worry, but replaces an efficiency judgment with a belittling personal evaluation as she pushes a husband facing childhood trauma.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-011",
+      "kind": "WH",
+      "description": "Payment by fiscal-year end becomes payment within a year.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              374,
+              374
+            ],
+            "MG": [
+              374,
+              374
+            ],
+            "UP": [
+              374,
+              374
+            ]
+          },
+          "japanese": "「もちろん、年度内だ。",
+          "japanesePC": "「もちろん、年度内だ。俺も助かる。姉貴も助かる。そして楼座も助かるってわけだ。三方丸く収まる。」",
+          "japanesePS3": "「もちろん、年度内だ。",
+          "WH": "\"Of course, it'll be within a year.  I need it.  Aneki needs it.  And you need it too, Rosa.  All three of our problems'll be settled.\"",
+          "MG": "\"Of course, it'll be within a year.",
+          "UP": "\"Within this fiscal year, of course.",
+          "note": "Parent independently read361–480.011 MG retained UP corrected fiscal year.012 both retain weekend forecast.013 MG restores mature man but youngish retains youth for voice vigor, partial; UP retains not-deepened error. UP441 independently broadens suspicious-contact restriction, verifiedPC12882/84. MG386 drops greeting to Maria, inheritedPC12699/12702, supplement follows. HoldUP413 omitted unhappy recovered414 horrible weather and415 wish;UP443 comparative intensity plausible concurrent curiosity emphasis;MG365 always idiomatic frequent pattern.385 next Sunday valid upcoming day;399–400 recover daughter trip. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0374",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0372",
+              "umi5_3-L0374",
+              "umi5_3-L0379"
+            ],
+            "MG": [
+              "umi5_3-L0374"
+            ],
+            "UP": [
+              "umi5_3-L0374"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「もちろん、年度内だ。俺も助かる。姉貴も助かる。そして楼座も助かるってわけだ。三方丸く収まる」",
+              "translation": "\"Of course, it'll be within a year. I need it. Aneki needs it. And you need it too, Rosa. All three of our problems will be settled.\" "
+            },
+            "UP": {
+              "japanese": "「もちろん、年度内だ。俺も助かる。姉貴も助かる。そして楼座も助かるってわけだ。三方丸く収まる」",
+              "translation": "\"Within this fiscal year, of course. I need it. Aneki needs it. And you need it too, Rosa. All three of our problems'll be settled.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0372",
+              "umi5_3-L0374",
+              "umi5_3-L0379"
+            ],
+            "MG": [
+              "umi5_3-L0374"
+            ],
+            "UP": [
+              "umi5_3-L0374"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "年度内 specifies the current fiscal-year boundary, rather than a rolling year from the conversation.",
+      "alternative": "A year could loosely mean the relevant yearly cycle, but within a year does not identify the explicit fiscal-year cutoff. No exact calendar date is inferred here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-012",
+      "kind": "WH",
+      "description": "Weekly forecast becomes weekend forecast.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              412,
+              412
+            ],
+            "MG": [
+              412,
+              412
+            ],
+            "UP": [
+              412,
+              412
+            ]
+          },
+          "japanese": "週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。",
+          "japanesePC": "週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。",
+          "japanesePS3": "週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。",
+          "WH": "The weekend forecast had said that there was a high likelihood of a tropical cyclone growing into a large typhoon.",
+          "MG": "According to the weekend forecast, a certain tropical cyclone would likely grow into a large typhoon.",
+          "UP": "The weekend forecast had said that there was a high likelihood of a tropical cyclone growing into a large typhoon.",
+          "note": "Parent independently read361–480.011 MG retained UP corrected fiscal year.012 both retain weekend forecast.013 MG restores mature man but youngish retains youth for voice vigor, partial; UP retains not-deepened error. UP441 independently broadens suspicious-contact restriction, verifiedPC12882/84. MG386 drops greeting to Maria, inheritedPC12699/12702, supplement follows. HoldUP413 omitted unhappy recovered414 horrible weather and415 wish;UP443 comparative intensity plausible concurrent curiosity emphasis;MG365 always idiomatic frequent pattern.385 next Sunday valid upcoming day;399–400 recover daughter trip. No yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0411",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0411"
+            ],
+            "MG": [
+              "umi5_3-L0411"
+            ],
+            "UP": [
+              "umi5_3-L0411"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "空模様はあまりよくない。週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。不愉快な予感が大抵当たるのなら。……恐らく、今年の親族会議は、最悪の天気の中で行なわれることになるだろう。",
+              "translation": "The weather wasn't that great. According to the weekend forecast, a certain tropical cyclone would likely grow into a large typhoon. If unhappy premonitions tend to be right... ...This year's family conference will probably take place in absolutely horrible weather. "
+            },
+            "UP": {
+              "japanese": "空模様はあまりよくない。週間予報では、熱帯低気圧が大きな台風に成長する可能性が高いと伝えていた。不愉快な予感が大抵当たるのなら。……恐らく、今年の親族会議は、最悪の天気の中で行なわれることになるだろう。",
+              "translation": "The weather wasn't looking very good. The weekend forecast had said that there was a high likelihood of a tropical cyclone growing into a large typhoon. If it was true that premonitions tended to be right... ......then this year's family conference would probably take place in absolutely horrible weather."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0411"
+            ],
+            "MG": [
+              "umi5_3-L0411"
+            ],
+            "UP": [
+              "umi5_3-L0411"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "週間予報 is the forecast for the week, not specifically the weekend.",
+      "alternative": "The family conference may take place over a weekend, but that does not change the forecast label in this sentence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-013",
+      "kind": "WH",
+      "description": "Mature man with a still vigorous voice becomes man whose voice has not deepened.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.physical_constraint",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              475,
+              475
+            ],
+            "MG": [
+              475,
+              475
+            ],
+            "UP": [
+              475,
+              475
+            ]
+          },
+          "japanese": "まだまだ声に張りを持つ壮年男性かもしれない。",
+          "japanesePC": "青年くらいの男に感じられるが、案外、中学生くらいの男子かもしれないし、まだまだ声に張りを持つ壮年男性かもしれない。",
+          "japanesePS3": "まだまだ声に張りを持つ壮年男性かもしれない。",
+          "WH": "It sounded like a young man, but it might actually be a middle school-aged boy or an adult man whose voice still hadn't deepened.",
+          "MG": "...or a man in his prime who still had a youngish voice.",
+          "UP": "or an adult whose voice still hadn't deepened.",
+          "note": "Parent independently read361–480.011 MG retained UP corrected fiscal year.012 both retain weekend forecast.013 MG restores mature man but youngish retains youth for voice vigor, partial; UP retains not-deepened error. UP441 independently broadens suspicious-contact restriction, verifiedPC12882/84. MG386 drops greeting to Maria, inheritedPC12699/12702, supplement follows. HoldUP413 omitted unhappy recovered414 horrible weather and415 wish;UP443 comparative intensity plausible concurrent curiosity emphasis;MG365 always idiomatic frequent pattern.385 next Sunday valid upcoming day;399–400 recover daughter trip. No yellow.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0472",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0472"
+            ],
+            "MG": [
+              "umi5_3-L0472"
+            ],
+            "UP": [
+              "umi5_3-L0472"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その声は、確かに青年くらいの男の声に聞こえた。しかし、電話の向こうの声だけで相手の正体を見破るのは難しい…。青年くらいの男に感じられるが、案外、中学生くらいの男子かもしれないし、まだまだ声に張りを持つ壮年男性かもしれない。",
+              "translation": "The voice certainly did sound like a young man's. But it's hard to learn much about someone just by their voice over the phone... It sounded like a young man, but it might actually be a middle school-aged boy, ...or a man in his prime who still had a youngish voice. "
+            },
+            "UP": {
+              "japanese": "その声は、確かに青年くらいの男の声に聞こえた。しかし、電話の向こうの声だけで相手の正体を見破るのは難しい…。青年くらいの男に感じられるが、案外、中学生くらいの男子かもしれないし、まだまだ声に張りを持つ壮年男性かもしれない。",
+              "translation": "The voice certainly did sound like that of a young man. But it was a bit hard to figure out much about a person just by their voice over the phone... He sounded like a young adult, but he might actually have been of middle‐school age, or an adult whose voice still hadn't deepened."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0472"
+            ],
+            "MG": [
+              "umi5_3-L0472"
+            ],
+            "UP": [
+              "umi5_3-L0472"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "壮年男性 with 声に張り is a mature man whose voice still has strength or resonance, one alternative to the apparent young man.",
+      "alternative": "An older man’s youthful-sounding voice could motivate either description, but had not deepened invents a different vocal property and loses the mature age category.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-014",
+      "kind": "WH",
+      "description": "No grounds to call her Mother becomes no memory of being called Mother.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              499,
+              499
+            ],
+            "MG": [
+              499,
+              499
+            ],
+            "UP": [
+              499,
+              499
+            ]
+          },
+          "japanese": "「あ、……ぁ、あなたに母と呼ばれる覚えはありません！",
+          "japanesePC": "「あ、......ぁ、あなたに母と呼ばれる覚えはありません！　何のつもりか知りませんが、もう切りますよ...！！」",
+          "japanesePS3": "「あ、……ぁ、あなたに母と呼ばれる覚えはありません！",
+          "WH": "\"I, ......I, I don't remember someone like you ever calling me Mother!  I don't know what you're thinking, but I'm hanging up...!!\"",
+          "MG": "\"I...I-I have no idea what you're talking about!",
+          "UP": "\"I, ......I, I have no idea why you think you have the right to call me \"Mother\"!",
+          "note": "Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0499",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0499"
+            ],
+            "MG": [
+              "umi5_3-L0499"
+            ],
+            "UP": [
+              "umi5_3-L0499"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あ、……ぁ、あなたに母と呼ばれる覚えはありません！　何のつもりか知りませんが、もう切りますよ…！！」",
+              "translation": "\"I...I-I have no idea what you're talking about! I don't know what you're planning, but I'm hanging up...!!\" "
+            },
+            "UP": {
+              "japanese": "「あ、……ぁ、あなたに母と呼ばれる覚えはありません！　何のつもりか知りませんが、もう切りますよ…！！」",
+              "translation": "\"I, ......I, I have no idea why you think you have the right to call me \"Mother\"! I don't know what you're thinking, but I'm hanging up...!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0499"
+            ],
+            "MG": [
+              "umi5_3-L0499"
+            ],
+            "UP": [
+              "umi5_3-L0499"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "あなたに母と呼ばれる覚えはありません rejects any grounds or relationship entitling this person to call her Mother.",
+      "alternative": "覚え can refer to memory, but this formula rejects the basis for the address, rather than reporting whether this address was previously uttered.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-015",
+      "kind": "WH",
+      "description": "Mind filled with a flash becomes mind going blank.",
+      "categories": [
+        "linguistic.imagery_rhythm_recurrence",
+        "character.voice_state",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              503,
+              503
+            ],
+            "MG": [
+              503,
+              503
+            ],
+            "UP": [
+              503,
+              503
+            ]
+          },
+          "japanese": "夏妃の頭が、閃光で満たされる……。",
+          "japanesePC": "夏妃の頭が、閃光で満たされる......。",
+          "japanesePS3": "夏妃の頭が、閃光で満たされる……。",
+          "WH": "Natsuhi's mind went blank......",
+          "MG": "Natsuhi's mind went blank...",
+          "UP": "Natsuhi's mind went blank......",
+          "note": "Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0503",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0503"
+            ],
+            "MG": [
+              "umi5_3-L0503"
+            ],
+            "UP": [
+              "umi5_3-L0503"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "夏妃の頭が、閃光で満たされる……。そして窓の外で唸っている風の音の向こうに、確かにあの日の潮騒を聞いていた……。",
+              "translation": "Natsuhi's mind went blank... And from beyond the wind howling outside the window, she most certainly heard the roar of the sea from that day... "
+            },
+            "UP": {
+              "japanese": "夏妃の頭が、閃光で満たされる……。そして窓の外で唸っている風の音の向こうに、確かにあの日の潮騒を聞いていた……。",
+              "translation": "Natsuhi's mind went blank...... And beyond the sound of the wind howling outside the window, she most certainly heard the roar of the sea from that day......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0503"
+            ],
+            "MG": [
+              "umi5_3-L0503"
+            ],
+            "UP": [
+              "umi5_3-L0503"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Her head fills with a flash, followed by hearing the sea from that day: an intrusive sensory impact at the nineteen-year accusation.",
+      "alternative": "Going blank can express shock and the next sea-memory image survives, but it replaces the positive flash image with absence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-016",
+      "kind": "WH",
+      "description": "Caller claiming to be her child becomes claiming to be her son.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              513,
+              513
+            ],
+            "MG": [
+              513,
+              513
+            ],
+            "UP": [
+              513,
+              513
+            ]
+          },
+          "japanese": "……俺もカアサンの子どもだからね。",
+          "japanesePC": "「１９年前にあんたがした仕打ちを、......俺は忘れない。......だからあんたを呪うために、あえてそれでも、いや、だからこそ、俺はあんたをカアサンと呼ぶよ。.........もうすぐ、親族会議じゃないか。......俺もカアサンの子どもだからね。会議の日に帰るよ。...１９年ぶりにね。......あんたに復讐するために。」",
+          "japanesePS3": "……俺もカアサンの子どもだからね。",
+          "WH": "\"I haven't forgotten how you treated me 19 years ago.........To curse you, I still call you Mother despite that, no, because of that.  .........It'll be the family conference very soon, won't it?  ......I am your son, Mother.  I'll come on the day of the conference.  ...After 19 years.  ......So that I can have my revenge on you.\"",
+          "MG": "...I am your son, Mother.",
+          "UP": "......I am your son, Mother, after all.",
+          "note": "Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0509",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0509"
+            ],
+            "MG": [
+              "umi5_3-L0509"
+            ],
+            "UP": [
+              "umi5_3-L0509"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「１９年前にあんたがした仕打ちを、……俺は忘れない。……だからあんたを呪うために、あえてそれでも、いや、だからこそ、俺はあんたをカアサンと呼ぶよ。………もうすぐ、親族会議じゃないか。……俺もカアサンの子どもだからね。会議の日に帰るよ。…１９年ぶりにね。……あんたに復讐するために」",
+              "translation": "\"I have not forgotten how you treated me 19 years ago... ...To curse you, I still call you Mother despite that... no, because of that. ...The family conference will be here very soon, right? ...I am your son, Mother. I will come on the day of the conference. ...After 19 years. ...So that I can have my revenge on you.\" "
+            },
+            "UP": {
+              "japanese": "「１９年前にあんたがした仕打ちを、……俺は忘れない。……だからあんたを呪うために、あえてそれでも、いや、だからこそ、俺はあんたをカアサンと呼ぶよ。………もうすぐ、親族会議じゃないか。……俺もカアサンの子どもだからね。会議の日に帰るよ。…１９年ぶりにね。……あんたに復讐するために」",
+              "translation": "\"I haven't forgotten what you did to me 19 years ago... ......So I will call you Mother despite what you did, no, because of what you did, to curse you. .........It'll be the family conference very soon, won't it? ......I am your son, Mother, after all. I'll come on the day of the conference. ...After 19 years. ......So that I can have my revenge on you.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0509"
+            ],
+            "MG": [
+              "umi5_3-L0509"
+            ],
+            "UP": [
+              "umi5_3-L0509"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "俺もカアサンの子ども says I too am your child. The narrator explicitly cautions that even classifying the voice as male may be premature.",
+      "alternative": "俺 and the apparently male voice support a masculine presentation, but son adds a sex-specific relationship claim where the Japanese maintains child. It is an added claim by the caller, not confirmation by the narrator.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-017",
+      "kind": "WH",
+      "description": "Playing a card face down becomes leaving without turning it over.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.literary_reference",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              559,
+              559
+            ],
+            "MG": [
+              559,
+              559
+            ],
+            "UP": [
+              559,
+              559
+            ]
+          },
+          "japanese": "このカードを伏せたまま場に出すゥ、ってヤツね〜。",
+          "japanesePC": "「うっふふふふふふふふふふふふふふふ.........。このカードを伏せたまま場に出すゥ、ってヤツね～。",
+          "japanesePS3": "このカードを伏せたまま場に出すゥ、ってヤツね〜。",
+          "WH": "\"Ehheheheheheheheheheheheheheheheh.........  So, you'll leave without turning the card over.",
+          "MG": "So, you'll leave without turning the card over.",
+          "UP": "I place this card face‐down onto the field, hehe~.",
+          "note": "Parent independently read481–578/end.014 MG removes false memory but loses specific Mother-address grounds denial, partial; UP corrected.015016 both retained;017 MG retained UP corrected. MG576 proven PC card-phase terminology retained: yellow excluded count. Hold MG541 teasing for request omits delayed mechanism but540–545 enact and state delay; UP restores precise mechanism.519 violent phone strike/off-hook state consistent;525 unfinished headache fragment appropriately incomplete.555 outside-game authenticity limitation intact; presentation is not certified physical history. No independent defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0558",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0558"
+            ],
+            "MG": [
+              "umi5_3-L0558"
+            ],
+            "UP": [
+              "umi5_3-L0558"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うっふふふふふふふふふふふふふふふ………。このカードを伏せたまま場に出すゥ、ってヤツね〜。あ痛ッ、な、何？！」",
+              "translation": "\"Ehheheheheheheheheheheheheheh...... So, you'll leave without turning the card over. Ouch, wh-what?!\" "
+            },
+            "UP": {
+              "japanese": "「うっふふふふふふふふふふふふふふふ………。このカードを伏せたまま場に出すゥ、ってヤツね〜。あ痛ッ、な、何？！」",
+              "translation": "\"Ehheheh{0eh{0eh{0eh{0eh{0eh{0eh{0eh{0eh{0eh{0eh{0eheheh......... I place this card face‐down onto the field, hehe~. Ouch, wh‐what?!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0558"
+            ],
+            "MG": [
+              "umi5_3-L0558"
+            ],
+            "UP": [
+              "umi5_3-L0558"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "このカードを伏せたまま場に出す describes putting this card into play face down, keeping its content unrevealed.",
+      "alternative": "Leaving the card unturned retains concealment, but omits putting it into play and introduces departure. The subsequent direct attack and turn sequence make the card-game action consequential to the metaphor.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-018",
+      "kind": "WH",
+      "description": "WH changes Krauss wishing to show his success to Father with pride into wishing to receive praise from Father.",
+      "categories": [
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              41,
+              41
+            ],
+            "MG": [
+              41,
+              41
+            ],
+            "UP": [
+              41,
+              41
+            ]
+          },
+          "japanese": "親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ…！」",
+          "japanesePC": "「必ず釣り上げられる魚だ。何も焦る必要はないのだよ。親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ...！」",
+          "japanesePS3": "親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ…！」",
+          "WH": "\"We'll definitely be able to reel this fish in.  There's no need to rush.  It's such a success that I wish I could show it to Father to be praised, if he were still alive...!\"",
+          "MG": "It's such a success that I wish I could show it to Father, if he were still alive...!\"",
+          "UP": "It's such a success that I wish I could show it to Dad to be praised, if he were still alive...!\"",
+          "note": "Original PC and coherent paired context verified under ep05-ch03-supplement-a-2026-10-13; chapter prefix corrected through recorded withdrawal and re-registration.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_3-L0039",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0039"
+            ],
+            "MG": [
+              "umi5_3-L0039"
+            ],
+            "UP": [
+              "umi5_3-L0039"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「必ず釣り上げられる魚だ。何も焦る必要はないのだよ。親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ…！」",
+              "translation": "\"We'll definitely be able to reel this fish in. There's no need to rush. It's such a success that I wish I could show it to Father, if he were still alive...!\" "
+            },
+            "UP": {
+              "japanese": "「必ず釣り上げられる魚だ。何も焦る必要はないのだよ。親父が生きていたなら、ぜひ見せて誇りたいほどの大成功なのだ…！」",
+              "translation": "\"We'll definitely be able to reel this fish in. There's no need to rush. It's such a success that I wish I could show it to Dad to be praised, if he were still alive...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0039"
+            ],
+            "MG": [
+              "umi5_3-L0039"
+            ],
+            "UP": [
+              "umi5_3-L0039"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "見せて誇りたい expresses showing the success and taking pride in it; it does not state receiving praise.",
+      "alternative": "Paternal approval is a plausible implied wish, but replaces the expressed action and orientation of pride.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH03-019",
+      "kind": "WH",
+      "description": "WH omits Rudolf asking Rosa to pass his greeting to Maria, replacing it with an unfinished topic shift.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              386,
+              386
+            ],
+            "MG": [
+              386,
+              386
+            ],
+            "UP": [
+              386,
+              386
+            ]
+          },
+          "japanese": "「真里亞ちゃんによろしくな。",
+          "japanesePC": "「真里亞ちゃんによろしくな。連れて来てもいいんだぜ。」",
+          "japanesePS3": "「真里亞ちゃんによろしくな。",
+          "WH": "\"And Maria-chan.  You can bring her too if you want.\"",
+          "MG": "\"And Maria-chan.",
+          "UP": "\"Say hi to Maria‐chan for me.",
+          "note": "Original PC and coherent paired context verified under ep05-ch03-supplement-b-2026-10-13; chapter prefix corrected through recorded withdrawal and re-registration.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_3-L0386",
+          "readerRefs": {
+            "WH": [
+              "umi5_3-L0384",
+              "umi5_3-L0386",
+              "umi5_3-L0388"
+            ],
+            "MG": [
+              "umi5_3-L0386"
+            ],
+            "UP": [
+              "umi5_3-L0386"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「真里亞ちゃんによろしくな。連れて来てもいいんだぜ」",
+              "translation": "\"And Maria-chan. You can bring her too if you want.\" "
+            },
+            "UP": {
+              "japanese": "「真里亞ちゃんによろしくな。連れて来てもいいんだぜ」",
+              "translation": "\"Say hi to Maria‐chan for me. You can bring her too if you want.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_3-L0384",
+              "umi5_3-L0386",
+              "umi5_3-L0388"
+            ],
+            "MG": [
+              "umi5_3-L0386"
+            ],
+            "UP": [
+              "umi5_3-L0386"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "真里亞ちゃんによろしくな asks Rosa to say hello to Maria for him.",
+      "alternative": "And Maria-chan can introduce the invitation that follows, but does not convey the separate greeting request.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH03-121-240-001",
+      "kind": "additional",
+      "description": "MG makes Battler the recipient of the method he has proclaimed since the start.",
+      "categories": [
+        "linguistic.wrong_subject"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              190,
+              194
+            ],
+            "MG": [
+              190,
+              194
+            ],
+            "UP": [
+              190,
+              194
+            ]
+          },
+          "japanese": "俺はその旅路を辿るための方法を、もう知っている。\nそして最初から、それを掲げている。\n「……今こそ、チェス盤を引っ繰り返そう。\nこの物語を、俺側からじゃなく、\n……お前側からの目線で、物語を紐解く」",
+          "japanesePC": "",
+          "japanesePS3": "俺はその旅路を辿るための方法を、もう知っている。\nそして最初から、それを掲げている。\n「……今こそ、チェス盤を引っ繰り返そう。\nこの物語を、俺側からじゃなく、\n……お前側からの目線で、物語を紐解く」",
+          "WH": "",
+          "MG": "I already know how I can reach the end of that journey.\nIt's been made clear to me since the very beginning.\n\"...This time, I'll spin the chessboard around.\nI'll read this tale not from my side,\n...but from yours.\"",
+          "UP": "I already know the method for reaching the end of that journey.\nAnd I've been shouting it since the very beginning.\n\"......This time, I really will flip over the chessboard.\nI'll untangle this tale not from my side,\n......but from yours.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi5_3-L0189",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0189",
+              "umi5_3-L0192"
+            ],
+            "UP": [
+              "umi5_3-L0189",
+              "umi5_3-L0192"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そうさ。俺はその旅路を辿るための方法を、もう知っている。そして最初から、それを掲げている。",
+              "translation": "That's right. I already know how I can reach the end of that journey. It's been made clear to me since the very beginning. "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0189"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "そして最初から、それを掲げている continues Battler as subject: he has upheld/proclaimed the method. MG adds to me to the passive, turning him into its recipient; PC12113–12114 has passive shown without that added recipient. UP restores active proclamation.",
+      "alternative": "Knowing the method is stated in190, but191 is a separate claim about his displaying it; made clear to me changes that predicate and agent.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH03-361-480-001",
+      "kind": "additional",
+      "description": "UP broadens Natsuhi's prohibition on suspicious contacts into a prohibition on connections with other men.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              441,
+              441
+            ],
+            "MG": [
+              441,
+              441
+            ],
+            "UP": [
+              441,
+              441
+            ]
+          },
+          "japanese": "妻たるもの、夫以外の、それも若い男性と、疑われるような接点があるべきではない。",
+          "japanesePC": "",
+          "japanesePS3": "妻たるもの、夫以外の、それも若い男性と、疑われるような接点があるべきではない。",
+          "WH": "",
+          "MG": "As a wife, she must avoid any contact that might be considered suspicious with anyone other than her husband, much less a young man.",
+          "UP": "Natsuhi thought that as a wife, it wasn't right for her to have connections with men other than her husband, much less a young man; it might be considered suspicious.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi5_3-L0441",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0441"
+            ],
+            "UP": [
+              "umi5_3-L0441"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "妻たるもの、夫以外の、それも若い男性と、疑われるような接点があるべきではない。そう思うと、急に汚らわしい電話のように思えてきた。",
+              "translation": "As a wife, she must avoid any contact that might be considered suspicious with anyone other than her husband, much less a young man. As soon as she thought this, the phone call suddenly seemed like something dirty. "
+            },
+            "UP": {
+              "japanese": "妻たるもの、夫以外の、それも若い男性と、疑われるような接点があるべきではない。そう思うと、急に汚らわしい電話のように思えてきた。",
+              "translation": "Natsuhi thought that as a wife, it wasn't right for her to have connections with men other than her husband, much less a young man; it might be considered suspicious. The phone call suddenly seemed like something dirty."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0441"
+            ],
+            "UP": [
+              "umi5_3-L0441"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "疑われるような接点 restricts the forbidden contacts to ones inviting suspicion. UP prohibits connections with men other than her husband and then gives suspicion as a reason. PC12882–12884 and MG retain the restricted scope.",
+      "alternative": "Suspicion remains an explicit reason, but the semicolon clause does not restrict the preceding categorical prohibition to suspicious connections.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-062",
+      "kind": "PC",
+      "description": "PC 慌てる乞食は何とやら uses the beggar proverb. Maintained PS3 JP 急いては事を何とやら uses the haste proverb. MG Anxious beggars never prosper preserves the PC reference.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              54,
+              54
+            ],
+            "MG": [
+              54,
+              54
+            ],
+            "UP": [
+              54,
+              54
+            ]
+          },
+          "japanese": "急いては事を何とやら……。",
+          "japanesePC": "慌てる乞食は何とやら......。",
+          "japanesePS3": "急いては事を何とやら……。",
+          "WH": "Like by anxiously begging for money......",
+          "MG": "Anxious beggars never prosper...",
+          "UP": "There's a saying about hasty anglers......",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "no_PC_only_material_confirmed"
+          },
+          "readerRef": "umi5_3-L0053",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0053"
+            ],
+            "UP": [
+              "umi5_3-L0053"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "確かに、運気というのは小さなケチで転ぶこともある。\n急いては事を何とやら……。蔵臼はこれまで、じっくり待てば必ず利益が上げられた事業を、いくつも焦って清算し、自ら勝ち馬を降りるような真似をしてきた。",
+              "translation": "Certainly, fortune tends to turn against people who take it for granted even in the slightest. Anxious beggars never prosper... On many occasions before now, Krauss had gotten cold feet and sold off businesses that would surely have brought in a profit had he just waited, and had, in effect, given away his winning picks. "
+            },
+            "UP": {
+              "japanese": "確かに、運気というのは小さなケチで転ぶこともある。\n急いては事を何とやら……。蔵臼はこれまで、じっくり待てば必ず利益が上げられた事業を、いくつも焦って清算し、自ら勝ち馬を降りるような真似をしてきた。",
+              "translation": "Certainly, fortune tends to turn against people who take it for granted even in the slightest.\nThere's a saying about hasty anglers...... On many occasions before now, Krauss had gotten cold feet and sold businesses that would surely have brought in a profit had he just waited, and had, in effect, given away his winning picks."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0053"
+            ],
+            "UP": [
+              "umi5_3-L0053"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC 慌てる乞食は何とやら uses the beggar proverb. Maintained PS3 JP 急いては事を何とやら uses the haste proverb. MG Anxious beggars never prosper preserves the PC reference.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-063",
+      "kind": "PC",
+      "description": "Original PC アンタップ、アップキープ、ドロー and WH Untap, upkeep, draw match MG. Maintained PS3 JP スタート、クリンナップ、ドロー and UP Start, cleanup, draw use revised sequence.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_3",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              576,
+              576
+            ],
+            "MG": [
+              576,
+              576
+            ],
+            "UP": [
+              576,
+              576
+            ]
+          },
+          "japanese": "スタート、クリンナップ、ドロー！！」",
+          "japanesePC": "「ターンエンドね？　アンタップ、アップキープ、ドロー！！",
+          "japanesePS3": "スタート、クリンナップ、ドロー！！」",
+          "WH": "\"<Turn end>, right?  <Untap, upkeep, draw>!!",
+          "MG": "<Untap, upkeep, draw>!!",
+          "UP": "<Start, cleanup, draw>!!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3_derived_Japanese"
+          },
+          "readerRef": "umi5_3-L0575",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0575"
+            ],
+            "UP": [
+              "umi5_3-L0575"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ターンエンドね？　スタート、クリンナップ、ドロー！！」",
+              "translation": "\"<Turn end>, right? <Untap, upkeep, draw>!! "
+            },
+            "UP": {
+              "japanese": "「ターンエンドね？　スタート、クリンナップ、ドロー！！」",
+              "translation": "\"<Turn end>, then? <Start, cleanup, draw>!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_3-L0575"
+            ],
+            "UP": [
+              "umi5_3-L0575"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Original PC アンタップ、アップキープ、ドロー and WH Untap, upkeep, draw match MG. Maintained PS3 JP スタート、クリンナップ、ドロー and UP Start, cleanup, draw use revised sequence.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP05-CH03-001": {
+      "umi5_3-L0030": {
+        "WH": [
+          "Whether it proved to be a winner or not"
+        ],
+        "MG": [
+          "Whether it would prove to be a winner or not"
+        ]
+      }
+    },
+    "WH-EP05-CH03-002": {
+      "umi5_3-L0053": {
+        "WH": [
+          "against people who take it for granted even in the slightest"
+        ],
+        "MG": [
+          "against people who take it for granted even in the slightest"
+        ],
+        "UP": [
+          "against people who take it for granted even in the slightest"
+        ]
+      }
+    },
+    "WH-EP05-CH03-003": {
+      "umi5_3-L0072": {
+        "WH": [
+          "alchemy's shortcuts"
+        ]
+      }
+    },
+    "WH-EP05-CH03-004": {
+      "umi5_3-L0161": {
+        "WH": [
+          "let that part slide"
+        ],
+        "MG": [
+          "let that part slide"
+        ]
+      }
+    },
+    "WH-EP05-CH03-005": {
+      "umi5_3-L0261": {
+        "WH": [
+          "Nobuyuki's death"
+        ],
+        "MG": [
+          "Nobuyuki's death"
+        ],
+        "UP": [
+          "Nobuyuki's death"
+        ]
+      }
+    },
+    "WH-EP05-CH03-006": {
+      "umi5_3-L0255": {
+        "WH": [
+          "in the Battle of Yamazaki"
+        ],
+        "MG": [
+          "in the Battle of Yamazaki"
+        ],
+        "UP": [
+          "in the Battle of Yamazaki"
+        ]
+      }
+    },
+    "WH-EP05-CH03-007": {
+      "umi5_3-L0261": {
+        "WH": [
+          "suffered a great loss"
+        ],
+        "MG": [
+          "suffered a great loss"
+        ],
+        "UP": [
+          "suffered a great loss"
+        ]
+      }
+    },
+    "WH-EP05-CH03-008": {
+      "umi5_3-L0301": {
+        "WH": [
+          "investors tend to have a keen eye"
+        ],
+        "MG": [
+          "investors tend to have a keen eye"
+        ],
+        "UP": [
+          "investors tend to have a keen eye"
+        ]
+      }
+    },
+    "WH-EP05-CH03-009": {
+      "umi5_3-L0310": {
+        "WH": [
+          "might have been necessary in his businesses in the past"
+        ]
+      }
+    },
+    "WH-EP05-CH03-010": {
+      "umi5_3-L0321": {
+        "WH": [
+          "a bit pathetic"
+        ],
+        "MG": [
+          "a bit pathetic"
+        ]
+      }
+    },
+    "WH-EP05-CH03-011": {
+      "umi5_3-L0372": {
+        "WH": [
+          "within a year"
+        ]
+      },
+      "umi5_3-L0374": {
+        "WH": [
+          "within a year"
+        ],
+        "MG": [
+          "within a year"
+        ]
+      },
+      "umi5_3-L0379": {
+        "WH": [
+          "within a year"
+        ]
+      }
+    },
+    "WH-EP05-CH03-012": {
+      "umi5_3-L0411": {
+        "WH": [
+          "weekend forecast"
+        ],
+        "MG": [
+          "weekend forecast"
+        ],
+        "UP": [
+          "weekend forecast"
+        ]
+      }
+    },
+    "WH-EP05-CH03-013": {
+      "umi5_3-L0472": {
+        "WH": [
+          "an adult man whose voice still hadn't deepened"
+        ],
+        "MG": [
+          "a man in his prime who still had a youngish voice"
+        ],
+        "UP": [
+          "an adult whose voice still hadn't deepened"
+        ]
+      }
+    },
+    "WH-EP05-CH03-014": {
+      "umi5_3-L0499": {
+        "WH": [
+          "I don't remember someone like you ever calling me Mother"
+        ],
+        "MG": [
+          "I have no idea what you're talking about"
+        ]
+      }
+    },
+    "WH-EP05-CH03-015": {
+      "umi5_3-L0503": {
+        "WH": [
+          "mind went blank"
+        ],
+        "MG": [
+          "mind went blank"
+        ],
+        "UP": [
+          "mind went blank"
+        ]
+      }
+    },
+    "WH-EP05-CH03-016": {
+      "umi5_3-L0509": {
+        "WH": [
+          "your son"
+        ],
+        "MG": [
+          "your son"
+        ],
+        "UP": [
+          "your son"
+        ]
+      }
+    },
+    "WH-EP05-CH03-017": {
+      "umi5_3-L0558": {
+        "WH": [
+          "you'll leave without turning the card over"
+        ],
+        "MG": [
+          "you'll leave without turning the card over"
+        ]
+      }
+    },
+    "WH-EP05-CH03-018": {
+      "umi5_3-L0039": {
+        "WH": [
+          "to be praised"
+        ],
+        "UP": [
+          "to be praised"
+        ]
+      }
+    },
+    "WH-EP05-CH03-019": {
+      "umi5_3-L0384": {
+        "WH": [
+          "And Maria-chan."
+        ]
+      },
+      "umi5_3-L0386": {
+        "WH": [
+          "And Maria-chan."
+        ],
+        "MG": [
+          "And Maria-chan."
+        ]
+      },
+      "umi5_3-L0388": {
+        "WH": [
+          "And Maria-chan."
+        ]
+      }
+    },
+    "PAIR-EP05-CH03-121-240-001": {
+      "umi5_3-L0189": {
+        "MG": [
+          "It's been made clear to me"
+        ]
+      }
+    },
+    "PAIR-EP05-CH03-361-480-001": {
+      "umi5_3-L0441": {
+        "UP": [
+          "it wasn't right for her to have connections with men other than her husband, much less a young man"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

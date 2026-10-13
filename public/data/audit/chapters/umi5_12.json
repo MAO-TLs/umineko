@@ -1,1 +1,1566 @@
-{"findings":[{"id":"WH-EP05-CH12-001","kind":"WH","description":"Magic wrapping the process becomes governing the process.","categories":["linguistic.word_choice","world.world_layer","mystery.category_flattening"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[120,120],"MG":[120,120],"UP":[120,120]},"japanese":"しかし、過程を包む魔法は邪悪とは限りマセン。","japanesePC":"「結果を闇に閉ざす魔法は邪悪デス。私たちは許さナイ。しかし、過程を包む魔法は邪悪とは限りマセン。私の敵は邪悪であって、魔法そのものではないのデス。」","japanesePS3":"しかし、過程を包む魔法は邪悪とは限りマセン。","WH":"\"Magic that hides the result in darkness is EVIL.  I will not permit IT.  However, magic that governs the process is not necessarily EVIL.  My foe is evil itself, not MAGIC.\"","MG":"However, magic that enshrouds the process is not necessarily evil.","UP":"However, magic that conceals the process is not necessarily evil.","note":"Documented complete1–130 three-witness reading; parent verified104–120 and PC39373–39377. Register inherited article115 and conditional depiction116–117 becoming completed disclosure. Hold119 I as institutional representative stance and12/14 visitor ability as maze-context expectation. No firm independent error or proven yellow.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_12-L0118","readerRefs":{"WH":["umi5_12-L0118"],"MG":["umi5_12-L0118"],"UP":["umi5_12-L0118"]}}],"sourceReading":"Dlanor contrasts evil magic closing off results in darkness with magic enveloping/embellishing the process, which is not necessarily evil.","alternative":"Governs can suggest overseeing, but assigns control of the process rather than the concealing or decorating presentation expressed by 包む. Tea and candy examples restore much of the intended embellishment distinction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-002","kind":"WH","description":"Dispensable pity becomes preferably absent pity.","categories":["linguistic.overinterpretation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[170,170],"MG":[170,170],"UP":[170,170]},"japanese":"なら、なくてもイイ……」","japanesePC":"「......結果において、私が魔女たちを処刑するのに変わりはナイ。......私の憐れみなど、所詮は無駄な修飾に過ぎマセン。あってもなくても、何も変わらナイ。なら、なくてもイイ......。」","japanesePS3":"なら、なくてもイイ……」","WH":"\"......In the end, that doesn't change the fact that I sentence witches to DEATH.  ......In the end, my pity is nothing more than a useless EMBELLISHMENT.  Whether I have it or not, nothing CHANGES.  So, it would be better if I DIDN'T......\"","MG":"So, it would be better if I didn't...\"","UP":"So it is better if I do not......\"","note":"Complete documented111–250 review. Parent checked229–243 and PC39763–39765. Register MG232 obscured refusal to leave outcome to chance, with let it be antecedent alternative retained. Hold MG173 clearly more delicious as confident generic inference about remembered baking, not proof of new knowledge. No proven yellow or firm independent defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_12-L0164","readerRefs":{"WH":["umi5_12-L0164"],"MG":["umi5_12-L0164"],"UP":["umi5_12-L0164"]}}],"sourceReading":"Dlanor says pity makes no difference to executing witches; if so, it would be all right to have none.","alternative":"It would be better if I did not elevates acceptance of absence into a preference for absence. Her doubt and sadness remain, but her self-dismissal is made more categorical.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-003","kind":"WH","description":"Dlanor promises not to be bested next time; English instead promises unrestrained effort.","categories":["linguistic.idiom_calque","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[216,216],"MG":[216,216],"UP":[216,216]},"japanese":"次に太刀を交える時は、遅れは取りマセン」","japanesePC":"「私も同じデス。次に太刀を交える時は、遅れは取りマセン。」","japanesePS3":"次に太刀を交える時は、遅れは取りマセン」","WH":"\"It's the same with ME.  The next time we cross swords, I won't hold BACK.\"","MG":"The next time we cross swords, I won't hold back.\"","UP":"I will not be caught unawares in our next bout.\"","note":"Complete documented111–250 review. Parent checked229–243 and PC39763–39765. Register MG232 obscured refusal to leave outcome to chance, with let it be antecedent alternative retained. Hold MG173 clearly more delicious as confident generic inference about remembered baking, not proof of new knowledge. No proven yellow or firm independent defect.","dispositions":{"MG":"retained","UP":"modified_but_unresolved"},"readerRef":"umi5_12-L0215","readerRefs":{"WH":["umi5_12-L0215"],"MG":["umi5_12-L0215"],"UP":["umi5_12-L0215"]}}],"sourceReading":"遅れを取る means to fall behind or be bested. Dlanor responds competitively that the next sword encounter will not end with her at a disadvantage.","alternative":"The preceding mercy discussion and subsequent full-power promise make holding back contextually plausible, but the idiom states a competitive outcome rather than restraint. The following separate full-power promise is accurately retained.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-004","kind":"WH","description":"Dlanor specific need to coordinate the upcoming game with Erika is replaced by a general duty to aid her during play.","categories":["linguistic.undertranslation","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[302,302],"MG":[302,302],"UP":[302,302]},"japanese":"ヱリカと、今後のゲームを打ち合わせねばなりませんノデ」","japanesePC":"「ハイ。......ですので私はもう、用事を終えマシタ。これにて、失礼しようと思いマス。ゲームも、じきに再開するでショウ。ヱリカと、今後のゲームを打ち合わせねばなりませんノデ。」","japanesePS3":"ヱリカと、今後のゲームを打ち合わせねばなりませんノデ」","WH":"\"YES.  ......Which means that my business here is FINISHED.  I think I will leave NOW.  The game will probably resume SHORTLY.  I must aid Erika during the rest of this GAME.\"","MG":"I must aid Erika during the rest of this game.\"","UP":"I need to have a discussion with Erika about the future.\"","note":"Full documented231–370 review. UP302 restores discussion/planning; future game is implicit in301/304. Hold278/284 null-subject assessments with multiple plausible experiencers; hold310 appositive hierarchy because335 already explicitly identifies Dlanor player and her piece status; hold312 permanent neutrality as heart/role distinction. No proven yellow or firm new finding.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0298","readerRefs":{"WH":["umi5_12-L0298"],"MG":["umi5_12-L0298"],"UP":["umi5_12-L0298"]}}],"sourceReading":"打ち合わせねば states that she must discuss or arrange the forthcoming game with Erika, explaining her departure before play resumes.","alternative":"Planning is a form of assistance, but aid during the rest of this game neither identifies the consultation nor retains its preparatory timing. Later piece/subordinate discussion retains her allegiance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-005","kind":"WH","description":"The mansion locked before the family conference becomes a mansion locked while the conference was proceeding.","categories":["linguistic.tense_aspect","world.space_time_continuity","mystery.physical_constraint"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[504,504],"MG":[504,504],"UP":[504,504]},"japanese":"「屋敷は、親族会議に先んじて、全て施錠されていた為、","japanesePC":"「屋敷は、親族会議に先んじて、全て施錠されていた為、それ以外の人間は屋敷に入ることが出来マセン。」","japanesePS3":"「屋敷は、親族会議に先んじて、全て施錠されていた為、","WH":"\"Because the family conference was proceeding and the mansion was entirely locked, all other humans were unable to enter the MANSION.\"","MG":"\"Because the family conference was proceeding and the mansion was completely locked,","UP":"\"Because the mansion had been entirely locked in advance of the family conference,","note":"Documented complete471–610 review; parent checked584–586. Hold585 missing internal negative because584 and586 correctly provide full restriction, though local lead-in is less precise. MG547 parlor follows both Japanese witnesses 客間: source-internal terminology variation, not PC-only addition or introduced location error. No firm independent finding or yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0504","readerRefs":{"WH":["umi5_12-L0504"],"MG":["umi5_12-L0504"],"UP":["umi5_12-L0504"]}}],"sourceReading":"親族会議に先んじて explicitly places completion of all locking before the conference, forming the entry-exclusion premise for the midnight letter puzzle.","alternative":"English still establishes a locked mansion and exclusion of outsiders; it can be consistent with earlier locking but does not state the source temporal priority. Subsequent hidden-person blue remains intact, so no claim of unsolvability is made.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-006","kind":"WH","description":"Sudden letter appearance becomes unexpected touching.","categories":["linguistic.logical_relation","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[577,577],"MG":[577,577],"UP":[577,577]},"japanese":"“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」","japanesePC":"「......おぉ、グッド！　食堂の中ならば、ずいぶんと素敵ですね。全員の監視の中、突然、床に手紙が現れる。“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」","japanesePS3":"“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」","WH":"\"......Oh, <good>!  If it had happened inside the dining hall, that would have been even more wonderful.  Within everyone's sight, a letter would suddenly appear on the floor.  And that wouldn't even violate a red truth saying 'no one in the closed room of the dining hall touched the letter unexpectedly'!\"","MG":"And that wouldn't even violate a red truth saying \"no one in the closed room of the dining hall touched the letter unexpectedly\"!\"","UP":"And a red stating \"it appeared suddenly in the locked room of the dining hall and was not touched by anyone there\" wouldn't even be violated!\"","note":"Documented complete471–610 review; parent checked584–586. Hold585 missing internal negative because584 and586 correctly provide full restriction, though local lead-in is less precise. MG547 parlor follows both Japanese witnesses 客間: source-internal terminology variation, not PC-only addition or introduced location error. No firm independent finding or yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0574","readerRefs":{"WH":["umi5_12-L0574"],"MG":["umi5_12-L0574"],"UP":["umi5_12-L0574"]}}],"sourceReading":"Erika imagines a letter appearing abruptly in the closed dining hall while retaining a red that no one present has touched it. 忽然と belongs to the appearance, not touching.","alternative":"The preceding sentence preserves sudden appearance, but the hypothetical red now excludes only unexpected touching rather than touching itself. This is an imagined red, not an actual new authoritative pronouncement.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-007","kind":"WH","description":"After conference start becomes around conference time.","categories":["linguistic.tense_aspect","mystery.scope_quantifier_negation","world.space_time_continuity"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[673,673],"MG":[673,673],"UP":[673,673]},"japanese":"屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり」","japanesePC":"屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり。」","japanesePS3":"屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり」","WH":"It was impossible for anyone outside the mansion to influence anything inside the mansion around the time of the family conference.\"","MG":"It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference.\"","UP":"It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference.\"","note":"Full documented591–730 review; parent checked700–709 and PC41493–41497. Register MG704 future promise instead of completed knock attack, noting705/709 recover the completed claim. Hold610 precise midnight as clock-chime/red-context constraint; source itself gives eight658 despite seven-name lists, so no English count error. No firm independent defect or proven yellow.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_12-L0672","readerRefs":{"WH":["umi5_12-L0672"],"MG":["umi5_12-L0672"],"UP":["umi5_12-L0672"]}}],"sourceReading":"Red says all outsiders cannot do anything within the mansion after the family conference begins.","alternative":"Around the time is temporally vague and can extend before the start or cease later. Erika next explicitly proposes a pre-conference device, preserving the intended before/after contrast in dialogue.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-008","kind":"WH","description":"Mocked earnestness becomes liveliness.","categories":["linguistic.word_choice","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[708,708],"MG":[708,708],"UP":[708,708]},"japanese":"本当に健気だわ。","japanesePC":"本当に可愛い子ね、ベルンの駒は。本当に健気だわ。とりあえず、２つの謎のうち、１つは降参だけど、１つは解けたからお許しをって叫んでる。どうする、許してあげる......？」","japanesePS3":"本当に健気だわ。","WH":"You really are a cute kid, piece of Bern's.  Very lively.  Anyway, she's yelling that you forgive her because she's solved one of the two riddles, even though she resigned on the other.  So, will you forgive her......?\"","MG":"Very lively.","UP":"Very lively.","note":"Full documented591–730 review; parent checked700–709 and PC41493–41497. Register MG704 future promise instead of completed knock attack, noting705/709 recover the completed claim. Hold610 precise midnight as clock-chime/red-context constraint; source itself gives eight658 despite seven-name lists, so no English count error. No firm independent defect or proven yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_12-L0706","readerRefs":{"WH":["umi5_12-L0706"],"MG":["umi5_12-L0706"],"UP":["umi5_12-L0706"]}}],"sourceReading":"Lambda mockingly calls Erika 健気: earnest, plucky or bravely trying despite adversity, in her plea for forgiveness.","alternative":"Lively can describe energy but loses the appraisal of dutiful effort and pitiable determination. The surrounding plea and cute-child taunt retain the power imbalance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-009","kind":"WH","description":"Erika ugly smile becomes an unspecified hideous expression.","categories":["linguistic.omission","character.irony_performance","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[790,790],"MG":[790,790],"UP":[790,790]},"japanese":"ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。","japanesePC":"ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。","japanesePS3":"ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。","WH":"Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her.","MG":"Erika endured this with a hideous expression, looking with shame at the back of the master who ignored her.","UP":"Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her.","note":"Complete documented711–850 review; parent checked718–725 and PC41576–41577. Register omitted negative in721 introductory definition, narrowly: preceding718 and subsequent722–728 retain the true no-misidentification rule, so not a wholesale rule reversal. Hold809 relief/invention lexical paraphrase and793 servant as previously identified envoy. No independent new defect or proven yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_12-L0785","readerRefs":{"WH":["umi5_12-L0785"],"MG":["umi5_12-L0785"],"UP":["umi5_12-L0785"]}}],"sourceReading":"Erika endures humiliation while forcing or wearing an ugly smile at the back of her ignoring master.","alternative":"Hideous expression retains unpleasantness but omits that she is smiling; nearby witch giggling belongs to other characters and does not supply her performed smile.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-010","kind":"WH","description":"Vindicated I-told-you-so taunt becomes literal seeing question.","categories":["linguistic.idiom_calque","character.voice_state"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[829,829],"MG":[829,829],"UP":[829,829]},"japanese":"ほら見たことか！","japanesePC":"ほら見たことか！","japanesePS3":"ほら見たことか！","WH":"Hey, did you see that?!","MG":"Hey, did you see that?!","UP":"There, you see?!","note":"Complete documented711–850 review; parent checked718–725 and PC41576–41577. Register omitted negative in721 introductory definition, narrowly: preceding718 and subsequent722–728 retain the true no-misidentification rule, so not a wholesale rule reversal. Hold809 relief/invention lexical paraphrase and793 servant as previously identified envoy. No independent new defect or proven yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0827","readerRefs":{"WH":["umi5_12-L0827"],"MG":["umi5_12-L0827"],"UP":["umi5_12-L0827"]}},{"chapter":"umi5_12","episode":5,"rows":{"JP":[839,839],"MG":[839,839],"UP":[839,839]},"japanese":"それ見たことかそれ見たことか…！！","japanesePC":"ほら見たことか！","japanesePS3":"それ見たことかそれ見たことか…！！","WH":"Hey, did you see that?!","MG":"Did you see that, did you see that...?!!","UP":"How do you like that, how do you like that...?!!","note":"Complete documented711–850 review; parent checked718–725 and PC41576–41577. Register omitted negative in721 introductory definition, narrowly: preceding718 and subsequent722–728 retain the true no-misidentification rule, so not a wholesale rule reversal. Hold809 relief/invention lexical paraphrase and793 servant as previously identified envoy. No independent new defect or proven yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0837","readerRefs":{"WH":["umi5_12-L0827"],"MG":["umi5_12-L0837"],"UP":["umi5_12-L0837"]}}],"sourceReading":"ほら見たことか is a vindicated taunt: see, I told you so. Erika claims her theory has won, rather than requesting visual observation.","alternative":"Did you see that can function as triumph, but here converts an idiomatic claim of vindication into an observation question. The repeated English Did you see that repeats the same shift.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-011","kind":"WH","description":"Landing without a waist impact becomes landing on his feet.","categories":["linguistic.overinterpretation","world.world_fact"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[846,846],"MG":[846,846],"UP":[846,846]},"japanese":"うまいこと着地でき、腰を打たずには済んだ。","japanesePC":"途中で手が滑り、結構な高さを飛び降りてしまったが、うまいこと着地でき、腰を打たずには済んだ。","japanesePS3":"うまいこと着地でき、腰を打たずには済んだ。","WH":"His hand had slipped halfway, and he had fallen from a considerable height, but he had managed to land on his feet.","MG":"but he had managed to land on his feet.","UP":"but he managed to land on his feet without injuring himself.","note":"Full documented831–885 tail review; parent checked844–847. UP846 keeps unsupported feet and broadens specific no-waist-impact to absence of all injury, hence modified but unresolved rather than full correction. Hold UP841 sleep cause as uncertain fatigue taunt in disturbed-night context; hold871 reaction as immediately recovered872–873. No proven yellow. All11 original canonical parents linked with separate outcomes; additional inherited supplements follow.","dispositions":{"MG":"retained","UP":"modified_but_unresolved"},"readerRef":"umi5_12-L0843","readerRefs":{"WH":["umi5_12-L0843"],"MG":["umi5_12-L0843"],"UP":["umi5_12-L0843"]}}],"sourceReading":"Battler slips from considerable height, lands successfully and avoids hitting his waist/lower back. The source does not specify that he lands on his feet.","alternative":"Landing on feet plausibly explains avoiding the waist impact, but selects an unstated landing posture and drops the explicit avoided injury.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-012","kind":"WH","description":"WH writes in a instant instead of in an instant.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[115,115],"MG":[115,115],"UP":[115,115]},"japanese":"……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。","japanesePC":"......きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。","japanesePS3":"……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。","WH":"......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.","MG":"...If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.","UP":"......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.","note":"Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_12-L0114","readerRefs":{"WH":["umi5_12-L0114"],"MG":["umi5_12-L0114"],"UP":["umi5_12-L0114"]}}],"sourceReading":"Instant begins with a vowel sound and requires an.","alternative":"The sentence is otherwise intelligible; local typo only.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-013","kind":"WH","description":"WH changes if ordinary tea preparation were shown into since its possibility had already been presented.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[116,116],"MG":[116,116],"UP":[116,116]},"japanese":"しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、","japanesePC":"しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、結果的に、ワルギリアが紅茶を淹れた事実に変わりはない。","japanesePS3":"しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、","WH":"However, since the possibility had been presented that a tea set existed and had been used to make the tea normally, the fact that Virgilia had made tea was, in the end, undisputed.","MG":"However, the possibility had been presented that a tea set existed and had been used to make the tea normally,","UP":"However, even if it was depicted that a tea set existed here and Virgilia had used it to make the tea normally,","note":"Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0114","readerRefs":{"WH":["umi5_12-L0114"],"MG":["umi5_12-L0114"],"UP":["umi5_12-L0114"]}}],"sourceReading":"示されるなら makes preservation of the tea-serving result conditional on depicting ordinary preparation.","alternative":"Dlanor104–105 has already proposed a mundane account, but that does not erase the explicit conditional form of this narration.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-014","kind":"WH","description":"WH replaces inability to leave the outcome to chance with the vague inability to let it be.","categories":["linguistic.undertranslation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[232,232],"MG":[232,232],"UP":[232,232]},"japanese":"…それに任せられなかったから、私は謝罪に訪れたのデス」","japanesePC":"「いいえ、時の運ではありマセン。...それに任せられなかったから、私は謝罪に訪れたのデス。」","japanesePS3":"…それに任せられなかったから、私は謝罪に訪れたのデス」","WH":"\"No, it wasn't luck of the DRAW.  ...I couldn't just let it be, so I came here to APOLOGIZE.\"","MG":"...I couldn't just let it be, so I came here to apologize.\"","UP":"...We were unable to let the outcome be decided naturally by chance, so I came here to apologize.\"","note":"Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0231","readerRefs":{"WH":["umi5_12-L0231"],"MG":["umi5_12-L0231"],"UP":["umi5_12-L0231"]}}],"sourceReading":"それ refers directly to 時の運: the speakers deliberately did not leave victory to chance, explaining the apology.","alternative":"Let it be can refer back to luck, and235–243 explicitly recover the thrown match; the defect is loss of the explicit controlled-outcome explanation, not elimination of that revelation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-015","kind":"WH","description":"WH changes Erika emphatically presenting her completed attack on the knock mystery into promising to figure it out.","categories":["linguistic.tense_aspect"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[704,704],"MG":[704,704],"UP":[704,704]},"japanese":"「しかし、ノックの謎については、確かにここに！","japanesePC":"しかし、ノックの謎については、確かにここに！","japanesePS3":"「しかし、ノックの謎については、確かにここに！","WH":"However, I will definitely figure out the riddle of the knock here!","MG":"However, I will definitely figure out the riddle of the knock here!","UP":"\"However, on the mystery of the knock, I've produced results!","note":"Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_12-L0700","readerRefs":{"WH":["umi5_12-L0700"],"MG":["umi5_12-L0700"],"UP":["umi5_12-L0700"]}}],"sourceReading":"704 continues into705 青き楔で穿ちました, a completed attack contrasted with the deferred letter mystery702–703.","alternative":"705 and709 recover the completed claim, but704 independently introduces an unresolved future undertaking. No whole-work truth of her solution is certified.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH12-016","kind":"WH","description":"WH begins the definition with misidentifying a knocking sound rather than not misidentifying it.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_12","episode":5,"rows":{"JP":[721,721],"MG":[721,721],"UP":[721,721]},"japanese":"「ノック音を誤認しない、ということはつまり。","japanesePC":"「ノック音を誤認しない、ということはつまり。ノック音によく似た他の音を、ノック音と勘違いしたりはしない、ということよ。柱を叩くとノックに似た音がする、なんてのもアウト。ノック音をカセットテープに録音したとしても、それはもはや“ノック音を録音したテープの音”であって、ノック音ではない。だからこれもアウト！」","japanesePS3":"「ノック音を誤認しない、ということはつまり。","WH":"\"Misidentifying a knocking sound means this: they would not mistake a sound very similar to a knocking sound for a real knocking sound.  Hitting a pillar to make something similar to a knocking sound is no good.  When you record a knocking sound on a cassette tape and play it back, it becomes 'the sound of the tape with a knocking sound on it', and not a knocking sound.  So that's no good either!\"","MG":"\"Misidentifying a knocking sound means this:","UP":"\"Misidentifying a knocking sound means this:","note":"Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_12-L0721","readerRefs":{"WH":["umi5_12-L0721"],"MG":["umi5_12-L0721"],"UP":["umi5_12-L0721"]}}],"sourceReading":"ノック音を誤認しない explicitly negates misidentification in the introductory definition.","alternative":"A gerund might introduce the topic loosely, but means this defines the positive as negative;718 and722 onward retain the correct rule, so the whole rule is not reversed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP05-CH12-001",
+      "kind": "WH",
+      "description": "Magic wrapping the process becomes governing the process.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_layer",
+        "mystery.category_flattening"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              120,
+              120
+            ],
+            "MG": [
+              120,
+              120
+            ],
+            "UP": [
+              120,
+              120
+            ]
+          },
+          "japanese": "しかし、過程を包む魔法は邪悪とは限りマセン。",
+          "japanesePC": "「結果を闇に閉ざす魔法は邪悪デス。私たちは許さナイ。しかし、過程を包む魔法は邪悪とは限りマセン。私の敵は邪悪であって、魔法そのものではないのデス。」",
+          "japanesePS3": "しかし、過程を包む魔法は邪悪とは限りマセン。",
+          "WH": "\"Magic that hides the result in darkness is EVIL.  I will not permit IT.  However, magic that governs the process is not necessarily EVIL.  My foe is evil itself, not MAGIC.\"",
+          "MG": "However, magic that enshrouds the process is not necessarily evil.",
+          "UP": "However, magic that conceals the process is not necessarily evil.",
+          "note": "Documented complete1–130 three-witness reading; parent verified104–120 and PC39373–39377. Register inherited article115 and conditional depiction116–117 becoming completed disclosure. Hold119 I as institutional representative stance and12/14 visitor ability as maze-context expectation. No firm independent error or proven yellow.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0118",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0118"
+            ],
+            "MG": [
+              "umi5_12-L0118"
+            ],
+            "UP": [
+              "umi5_12-L0118"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「結果を闇に閉ざす魔法は邪悪デス。私たちは許さナイ。しかし、過程を包む魔法は邪悪とは限りマセン。私の敵は邪悪であって、魔法そのものではないのデス」",
+              "translation": "\"Magic that hides the result in darkness is evil. I will not permit it. However, magic that enshrouds the process is not necessarily evil. My foe is evil itself, not magic.\" "
+            },
+            "UP": {
+              "japanese": "「結果を闇に閉ざす魔法は邪悪デス。私たちは許さナイ。しかし、過程を包む魔法は邪悪とは限りマセン。私の敵は邪悪であって、魔法そのものではないのデス」",
+              "translation": "\"Magic that hides the result in darkness is evil. We will not permit it. However, magic that conceals the process is not necessarily evil. My foe is the evil, not the magic itself.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0118"
+            ],
+            "MG": [
+              "umi5_12-L0118"
+            ],
+            "UP": [
+              "umi5_12-L0118"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Dlanor contrasts evil magic closing off results in darkness with magic enveloping/embellishing the process, which is not necessarily evil.",
+      "alternative": "Governs can suggest overseeing, but assigns control of the process rather than the concealing or decorating presentation expressed by 包む. Tea and candy examples restore much of the intended embellishment distinction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-002",
+      "kind": "WH",
+      "description": "Dispensable pity becomes preferably absent pity.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              170,
+              170
+            ],
+            "MG": [
+              170,
+              170
+            ],
+            "UP": [
+              170,
+              170
+            ]
+          },
+          "japanese": "なら、なくてもイイ……」",
+          "japanesePC": "「......結果において、私が魔女たちを処刑するのに変わりはナイ。......私の憐れみなど、所詮は無駄な修飾に過ぎマセン。あってもなくても、何も変わらナイ。なら、なくてもイイ......。」",
+          "japanesePS3": "なら、なくてもイイ……」",
+          "WH": "\"......In the end, that doesn't change the fact that I sentence witches to DEATH.  ......In the end, my pity is nothing more than a useless EMBELLISHMENT.  Whether I have it or not, nothing CHANGES.  So, it would be better if I DIDN'T......\"",
+          "MG": "So, it would be better if I didn't...\"",
+          "UP": "So it is better if I do not......\"",
+          "note": "Complete documented111–250 review. Parent checked229–243 and PC39763–39765. Register MG232 obscured refusal to leave outcome to chance, with let it be antecedent alternative retained. Hold MG173 clearly more delicious as confident generic inference about remembered baking, not proof of new knowledge. No proven yellow or firm independent defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_12-L0164",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0164"
+            ],
+            "MG": [
+              "umi5_12-L0164"
+            ],
+            "UP": [
+              "umi5_12-L0164"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「異端審問官として、魔女を狩るのは仕事デス。……しかし、一個人としては魔女を憐れんでいマス。しかし、異端審問官としては、無慈悲に断罪しマス」「……結果において、私が魔女たちを処刑するのに変わりはナイ。……私の憐れみなど、所詮は無駄な修飾に過ぎマセン。あってもなくても、何も変わらナイ。なら、なくてもイイ……」",
+              "translation": "\"As an Inquisitor of Heresy, hunting witches is my job. ...However, I personally find witches pitiable. Despite this, I carry out judgment mercilessly as an Inquisitor.\" \"...In the end, that doesn't change the fact that I sentence witches to death. ...In the end, my pity is nothing more than a useless embellishment. Whether I have it or not, nothing changes. So, it would be better if I didn't...\" "
+            },
+            "UP": {
+              "japanese": "「異端審問官として、魔女を狩るのは仕事デス。……しかし、一個人としては魔女を憐れんでいマス。しかし、異端審問官としては、無慈悲に断罪しマス」「……結果において、私が魔女たちを処刑するのに変わりはナイ。……私の憐れみなど、所詮は無駄な修飾に過ぎマセン。あってもなくても、何も変わらナイ。なら、なくてもイイ……」",
+              "translation": "\"As an Inquisitor, hunting witches is my job. ......Personally, I find witches pitiable. However, I condemn them mercilessly as an Inquisitor.\" \"......The result that I execute witches is unchanged. ......In the end, my pity is nothing more than a useless embellishment. Whether I have it or not, nothing changes. So it is better if I do not......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0164"
+            ],
+            "MG": [
+              "umi5_12-L0164"
+            ],
+            "UP": [
+              "umi5_12-L0164"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Dlanor says pity makes no difference to executing witches; if so, it would be all right to have none.",
+      "alternative": "It would be better if I did not elevates acceptance of absence into a preference for absence. Her doubt and sadness remain, but her self-dismissal is made more categorical.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-003",
+      "kind": "WH",
+      "description": "Dlanor promises not to be bested next time; English instead promises unrestrained effort.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              216,
+              216
+            ],
+            "MG": [
+              216,
+              216
+            ],
+            "UP": [
+              216,
+              216
+            ]
+          },
+          "japanese": "次に太刀を交える時は、遅れは取りマセン」",
+          "japanesePC": "「私も同じデス。次に太刀を交える時は、遅れは取りマセン。」",
+          "japanesePS3": "次に太刀を交える時は、遅れは取りマセン」",
+          "WH": "\"It's the same with ME.  The next time we cross swords, I won't hold BACK.\"",
+          "MG": "The next time we cross swords, I won't hold back.\"",
+          "UP": "I will not be caught unawares in our next bout.\"",
+          "note": "Complete documented111–250 review. Parent checked229–243 and PC39763–39765. Register MG232 obscured refusal to leave outcome to chance, with let it be antecedent alternative retained. Hold MG173 clearly more delicious as confident generic inference about remembered baking, not proof of new knowledge. No proven yellow or firm independent defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "modified_but_unresolved"
+          },
+          "readerRef": "umi5_12-L0215",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0215"
+            ],
+            "MG": [
+              "umi5_12-L0215"
+            ],
+            "UP": [
+              "umi5_12-L0215"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私も同じデス。次に太刀を交える時は、遅れは取りマセン」",
+              "translation": "\"It's the same with me. The next time we cross swords, I won't hold back.\" "
+            },
+            "UP": {
+              "japanese": "「私も同じデス。次に太刀を交える時は、遅れは取りマセン」",
+              "translation": "\"The same goes for me. I will not be caught unawares in our next bout.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0215"
+            ],
+            "MG": [
+              "umi5_12-L0215"
+            ],
+            "UP": [
+              "umi5_12-L0215"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "遅れを取る means to fall behind or be bested. Dlanor responds competitively that the next sword encounter will not end with her at a disadvantage.",
+      "alternative": "The preceding mercy discussion and subsequent full-power promise make holding back contextually plausible, but the idiom states a competitive outcome rather than restraint. The following separate full-power promise is accurately retained.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-004",
+      "kind": "WH",
+      "description": "Dlanor specific need to coordinate the upcoming game with Erika is replaced by a general duty to aid her during play.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              302,
+              302
+            ],
+            "MG": [
+              302,
+              302
+            ],
+            "UP": [
+              302,
+              302
+            ]
+          },
+          "japanese": "ヱリカと、今後のゲームを打ち合わせねばなりませんノデ」",
+          "japanesePC": "「ハイ。......ですので私はもう、用事を終えマシタ。これにて、失礼しようと思いマス。ゲームも、じきに再開するでショウ。ヱリカと、今後のゲームを打ち合わせねばなりませんノデ。」",
+          "japanesePS3": "ヱリカと、今後のゲームを打ち合わせねばなりませんノデ」",
+          "WH": "\"YES.  ......Which means that my business here is FINISHED.  I think I will leave NOW.  The game will probably resume SHORTLY.  I must aid Erika during the rest of this GAME.\"",
+          "MG": "I must aid Erika during the rest of this game.\"",
+          "UP": "I need to have a discussion with Erika about the future.\"",
+          "note": "Full documented231–370 review. UP302 restores discussion/planning; future game is implicit in301/304. Hold278/284 null-subject assessments with multiple plausible experiencers; hold310 appositive hierarchy because335 already explicitly identifies Dlanor player and her piece status; hold312 permanent neutrality as heart/role distinction. No proven yellow or firm new finding.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0298",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0298"
+            ],
+            "MG": [
+              "umi5_12-L0298"
+            ],
+            "UP": [
+              "umi5_12-L0298"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ハイ。……ですので私はもう、用事を終えマシタ。これにて、失礼しようと思いマス。ゲームも、じきに再開するでショウ。ヱリカと、今後のゲームを打ち合わせねばなりませんノデ」",
+              "translation": "\"Yes. ...Which means that my business here is finished. I think I will leave now. The game will probably resume shortly. I must aid Erika during the rest of this game.\" "
+            },
+            "UP": {
+              "japanese": "「ハイ。……ですので私はもう、用事を終えマシタ。これにて、失礼しようと思いマス。ゲームも、じきに再開するでショウ。ヱリカと、今後のゲームを打ち合わせねばなりませんノデ」",
+              "translation": "\"Yes. ......Which means that my business here is finished. I think I will leave now. The game will probably resume shortly. I need to have a discussion with Erika about the future.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0298"
+            ],
+            "MG": [
+              "umi5_12-L0298"
+            ],
+            "UP": [
+              "umi5_12-L0298"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "打ち合わせねば states that she must discuss or arrange the forthcoming game with Erika, explaining her departure before play resumes.",
+      "alternative": "Planning is a form of assistance, but aid during the rest of this game neither identifies the consultation nor retains its preparatory timing. Later piece/subordinate discussion retains her allegiance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-005",
+      "kind": "WH",
+      "description": "The mansion locked before the family conference becomes a mansion locked while the conference was proceeding.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              504,
+              504
+            ],
+            "MG": [
+              504,
+              504
+            ],
+            "UP": [
+              504,
+              504
+            ]
+          },
+          "japanese": "「屋敷は、親族会議に先んじて、全て施錠されていた為、",
+          "japanesePC": "「屋敷は、親族会議に先んじて、全て施錠されていた為、それ以外の人間は屋敷に入ることが出来マセン。」",
+          "japanesePS3": "「屋敷は、親族会議に先んじて、全て施錠されていた為、",
+          "WH": "\"Because the family conference was proceeding and the mansion was entirely locked, all other humans were unable to enter the MANSION.\"",
+          "MG": "\"Because the family conference was proceeding and the mansion was completely locked,",
+          "UP": "\"Because the mansion had been entirely locked in advance of the family conference,",
+          "note": "Documented complete471–610 review; parent checked584–586. Hold585 missing internal negative because584 and586 correctly provide full restriction, though local lead-in is less precise. MG547 parlor follows both Japanese witnesses 客間: source-internal terminology variation, not PC-only addition or introduced location error. No firm independent finding or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0504",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0504"
+            ],
+            "MG": [
+              "umi5_12-L0504"
+            ],
+            "UP": [
+              "umi5_12-L0504"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「屋敷は、親族会議に先んじて、全て施錠されていた為、それ以外の人間は屋敷に入ることが出来マセン」",
+              "translation": "\"Because the family conference was proceeding and the mansion was completely locked, all other humans were unable to enter the mansion.\" "
+            },
+            "UP": {
+              "japanese": "「屋敷は、親族会議に先んじて、全て施錠されていた為、それ以外の人間は屋敷に入ることが出来マセン」",
+              "translation": "\"Because the mansion had been entirely locked in advance of the family conference, everyone else was unable to enter the mansion.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0504"
+            ],
+            "MG": [
+              "umi5_12-L0504"
+            ],
+            "UP": [
+              "umi5_12-L0504"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "親族会議に先んじて explicitly places completion of all locking before the conference, forming the entry-exclusion premise for the midnight letter puzzle.",
+      "alternative": "English still establishes a locked mansion and exclusion of outsiders; it can be consistent with earlier locking but does not state the source temporal priority. Subsequent hidden-person blue remains intact, so no claim of unsolvability is made.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-006",
+      "kind": "WH",
+      "description": "Sudden letter appearance becomes unexpected touching.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              577,
+              577
+            ],
+            "MG": [
+              577,
+              577
+            ],
+            "UP": [
+              577,
+              577
+            ]
+          },
+          "japanese": "“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」",
+          "japanesePC": "「......おぉ、グッド！　食堂の中ならば、ずいぶんと素敵ですね。全員の監視の中、突然、床に手紙が現れる。“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」",
+          "japanesePS3": "“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」",
+          "WH": "\"......Oh, <good>!  If it had happened inside the dining hall, that would have been even more wonderful.  Within everyone's sight, a letter would suddenly appear on the floor.  And that wouldn't even violate a red truth saying 'no one in the closed room of the dining hall touched the letter unexpectedly'!\"",
+          "MG": "And that wouldn't even violate a red truth saying \"no one in the closed room of the dining hall touched the letter unexpectedly\"!\"",
+          "UP": "And a red stating \"it appeared suddenly in the locked room of the dining hall and was not touched by anyone there\" wouldn't even be violated!\"",
+          "note": "Documented complete471–610 review; parent checked584–586. Hold585 missing internal negative because584 and586 correctly provide full restriction, though local lead-in is less precise. MG547 parlor follows both Japanese witnesses 客間: source-internal terminology variation, not PC-only addition or introduced location error. No firm independent finding or yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0574",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0574"
+            ],
+            "MG": [
+              "umi5_12-L0574"
+            ],
+            "UP": [
+              "umi5_12-L0574"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……おぉ、グッド！　食堂の中ならば、ずいぶんと素敵ですね。全員の監視の中、突然、床に手紙が現れる。“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」",
+              "translation": "\"...Oh, <good>! If it had happened inside the dining hall, that would've been even more wonderful. Within everyone's sight, a letter would suddenly appear on the floor. And that wouldn't even violate a red truth saying \"no one in the closed room of the dining hall touched the letter unexpectedly\"!\" "
+            },
+            "UP": {
+              "japanese": "「……おぉ、グッド！　食堂の中ならば、ずいぶんと素敵ですね。全員の監視の中、突然、床に手紙が現れる。“食堂という密室に忽然と、その場の誰も触れていないという赤”を維持したまま！」",
+              "translation": "\"......Oh, <good>! If it had happened inside the dining hall, that would have been even more wonderful. Within everyone's sight, a letter would suddenly appear on the floor. And a red stating \"it appeared suddenly in the locked room of the dining hall and was not touched by anyone there\" wouldn't even be violated!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0574"
+            ],
+            "MG": [
+              "umi5_12-L0574"
+            ],
+            "UP": [
+              "umi5_12-L0574"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Erika imagines a letter appearing abruptly in the closed dining hall while retaining a red that no one present has touched it. 忽然と belongs to the appearance, not touching.",
+      "alternative": "The preceding sentence preserves sudden appearance, but the hypothetical red now excludes only unexpected touching rather than touching itself. This is an imagined red, not an actual new authoritative pronouncement.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-007",
+      "kind": "WH",
+      "description": "After conference start becomes around conference time.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "mystery.scope_quantifier_negation",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              673,
+              673
+            ],
+            "MG": [
+              673,
+              673
+            ],
+            "UP": [
+              673,
+              673
+            ]
+          },
+          "japanese": "屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり」",
+          "japanesePC": "屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり。」",
+          "japanesePS3": "屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり」",
+          "WH": "It was impossible for anyone outside the mansion to influence anything inside the mansion around the time of the family conference.\"",
+          "MG": "It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference.\"",
+          "UP": "It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference.\"",
+          "note": "Full documented591–730 review; parent checked700–709 and PC41493–41497. Register MG704 future promise instead of completed knock attack, noting705/709 recover the completed claim. Hold610 precise midnight as clock-chime/red-context constraint; source itself gives eight658 despite seven-name lists, so no English count error. No firm independent defect or proven yellow.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0672",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0672"
+            ],
+            "MG": [
+              "umi5_12-L0672"
+            ],
+            "UP": [
+              "umi5_12-L0672"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「謹啓、謹んで申し上げる。屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり」",
+              "translation": "\"Please, allow me to speak. It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference.\" "
+            },
+            "UP": {
+              "japanese": "「謹啓、謹んで申し上げる。屋敷以外の全員は、親族会議開始後、屋敷内にて何を行なうことも不可能なり」",
+              "translation": "\"For your attention: I beg to inform you of the following. It was impossible for anyone outside the mansion to influence anything inside the mansion after the start of the family conference.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0672"
+            ],
+            "MG": [
+              "umi5_12-L0672"
+            ],
+            "UP": [
+              "umi5_12-L0672"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Red says all outsiders cannot do anything within the mansion after the family conference begins.",
+      "alternative": "Around the time is temporally vague and can extend before the start or cease later. Erika next explicitly proposes a pre-conference device, preserving the intended before/after contrast in dialogue.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-008",
+      "kind": "WH",
+      "description": "Mocked earnestness becomes liveliness.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              708,
+              708
+            ],
+            "MG": [
+              708,
+              708
+            ],
+            "UP": [
+              708,
+              708
+            ]
+          },
+          "japanese": "本当に健気だわ。",
+          "japanesePC": "本当に可愛い子ね、ベルンの駒は。本当に健気だわ。とりあえず、２つの謎のうち、１つは降参だけど、１つは解けたからお許しをって叫んでる。どうする、許してあげる......？」",
+          "japanesePS3": "本当に健気だわ。",
+          "WH": "You really are a cute kid, piece of Bern's.  Very lively.  Anyway, she's yelling that you forgive her because she's solved one of the two riddles, even though she resigned on the other.  So, will you forgive her......?\"",
+          "MG": "Very lively.",
+          "UP": "Very lively.",
+          "note": "Full documented591–730 review; parent checked700–709 and PC41493–41497. Register MG704 future promise instead of completed knock attack, noting705/709 recover the completed claim. Hold610 precise midnight as clock-chime/red-context constraint; source itself gives eight658 despite seven-name lists, so no English count error. No firm independent defect or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_12-L0706",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0706"
+            ],
+            "MG": [
+              "umi5_12-L0706"
+            ],
+            "UP": [
+              "umi5_12-L0706"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うっふふふふふふふふふふ…！　本当に可愛い子ね、ベルンの駒は。本当に健気だわ。とりあえず、２つの謎のうち、１つは降参だけど、１つは解けたからお許しをって叫んでる。どうする、許してあげる……？」",
+              "translation": "\"Heheheheheheheheheheh...! You really are a cute kid, piece of Bern's. Very lively. Anyway, Erika's yelling that you forgive her because she's solved one of the two riddles, even though she resigned on the other. So, will you forgive her...?\" "
+            },
+            "UP": {
+              "japanese": "「うっふふふふふふふふふふ…！　本当に可愛い子ね、ベルンの駒は。本当に健気だわ。とりあえず、２つの謎のうち、１つは降参だけど、１つは解けたからお許しをって叫んでる。どうする、許してあげる……？」",
+              "translation": "\"Eheheheheheheheheheheh...! Bern, your piece really is a cute kid. Very lively. She's shouting for your forgiveness, saying she may have resigned on one of the riddles, but she did solve the other. What are you going to do? Will you forgive her......?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0706"
+            ],
+            "MG": [
+              "umi5_12-L0706"
+            ],
+            "UP": [
+              "umi5_12-L0706"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lambda mockingly calls Erika 健気: earnest, plucky or bravely trying despite adversity, in her plea for forgiveness.",
+      "alternative": "Lively can describe energy but loses the appraisal of dutiful effort and pitiable determination. The surrounding plea and cute-child taunt retain the power imbalance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-009",
+      "kind": "WH",
+      "description": "Erika ugly smile becomes an unspecified hideous expression.",
+      "categories": [
+        "linguistic.omission",
+        "character.irony_performance",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              790,
+              790
+            ],
+            "MG": [
+              790,
+              790
+            ],
+            "UP": [
+              790,
+              790
+            ]
+          },
+          "japanese": "ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。",
+          "japanesePC": "ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。",
+          "japanesePS3": "ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。",
+          "WH": "Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her.",
+          "MG": "Erika endured this with a hideous expression, looking with shame at the back of the master who ignored her.",
+          "UP": "Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her.",
+          "note": "Complete documented711–850 review; parent checked718–725 and PC41576–41577. Register omitted negative in721 introductory definition, narrowly: preceding718 and subsequent722–728 retain the true no-misidentification rule, so not a wholesale rule reversal. Hold809 relief/invention lexical paraphrase and793 servant as previously identified envoy. No independent new defect or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_12-L0785",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0785"
+            ],
+            "MG": [
+              "umi5_12-L0785"
+            ],
+            "UP": [
+              "umi5_12-L0785"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "二人の魔女はくすくすと笑いながら、再び、手紙とノックの謎のやり取りを続ける。そこに、ヱリカの入り込む余地はない。それに甘んじたなら、……居場所は文字通り失われ、……永遠の忘却に葬り去られる。ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。そして、何かの手柄が得られないか、両拳を握り締め、ぐるぐると思考した。我こそは探偵、我こそは古戸ヱリカ。\n大ベルンカステル卿の駒にして分身にして使者…！！必ずや主にご満足を、ご満足を、絶対絶対、く、ぐぐぐぐぐぐぐ、……右代宮戦人め、……よくも、……この私に、恥を…ぉ…………ッ。魔女たちに無視され、暗闇で立ち尽くすヱリカの姿はまるで、廊下か何かにひとりぼっちで立たされているかのように見えた…。",
+              "translation": "As the two witches giggled, they continued discussing the letter and the knock. There was no room for Erika to step in. If she contented herself with that, ...she would literally have no place to go... ...and would be buried in an eternal oblivion. Erika endured this with a hideous expression, looking with shame at the back of the master who ignored her. And with both fists clenched, she thought frantically in search of some kind of breakthrough. I am the detective, I am Furudo Erika. I am the piece and double and servant of the Great Lady Bernkastel...!! I'll definitely make her satisfied... satisfied... definitely, definitely, gah, ggghggghhhhhh, ...Ushiromiya Battler... ...how dare you... ...humiliate me so......... As she stood there, ignored by the witches and shrouded in darkness, it looked like someone had told her to go stand all alone in the hallway... "
+            },
+            "UP": {
+              "japanese": "二人の魔女はくすくすと笑いながら、再び、手紙とノックの謎のやり取りを続ける。そこに、ヱリカの入り込む余地はない。それに甘んじたなら、……居場所は文字通り失われ、……永遠の忘却に葬り去られる。ヱリカは、自分を無視する主の背中の屈辱に、醜い笑顔を浮かべながら耐える。そして、何かの手柄が得られないか、両拳を握り締め、ぐるぐると思考した。我こそは探偵、我こそは古戸ヱリカ。\n大ベルンカステル卿の駒にして分身にして使者…！！必ずや主にご満足を、ご満足を、絶対絶対、く、ぐぐぐぐぐぐぐ、……右代宮戦人め、……よくも、……この私に、恥を…ぉ…………ッ。魔女たちに無視され、暗闇で立ち尽くすヱリカの姿はまるで、廊下か何かにひとりぼっちで立たされているかのように見えた…。",
+              "translation": "As the two witches giggled, they continued discussing the letter and the knock. There was no room for Erika to step in. If she resigned herself to that, ......she would literally have no place to go, ......and would be buried in an eternal oblivion. Erika endured with a hideous expression, looking with shame at the back of the master who was ignoring her. And with both fists clenched, she thought frantically for some kind of breakthrough. I am the detective, I am Furudo Erika.\nI am the piece and double and servant of the great Lady Bernkastel...!! I'll definitely make her satisfied... satisfied... definitely, definitely, gah, ggghggghhhhhh, ......Ushiromiya Battler... ...how dare you... ...humiliate me so............ As she stood there, ignored by the witches and shrouded in darkness, it looked like she had been made to go stand on her own in the hallway..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0785"
+            ],
+            "MG": [
+              "umi5_12-L0785"
+            ],
+            "UP": [
+              "umi5_12-L0785"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Erika endures humiliation while forcing or wearing an ugly smile at the back of her ignoring master.",
+      "alternative": "Hideous expression retains unpleasantness but omits that she is smiling; nearby witch giggling belongs to other characters and does not supply her performed smile.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-010",
+      "kind": "WH",
+      "description": "Vindicated I-told-you-so taunt becomes literal seeing question.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              829,
+              829
+            ],
+            "MG": [
+              829,
+              829
+            ],
+            "UP": [
+              829,
+              829
+            ]
+          },
+          "japanese": "ほら見たことか！",
+          "japanesePC": "ほら見たことか！",
+          "japanesePS3": "ほら見たことか！",
+          "WH": "Hey, did you see that?!",
+          "MG": "Hey, did you see that?!",
+          "UP": "There, you see?!",
+          "note": "Complete documented711–850 review; parent checked718–725 and PC41576–41577. Register omitted negative in721 introductory definition, narrowly: preceding718 and subsequent722–728 retain the true no-misidentification rule, so not a wholesale rule reversal. Hold809 relief/invention lexical paraphrase and793 servant as previously identified envoy. No independent new defect or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0827",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0827"
+            ],
+            "MG": [
+              "umi5_12-L0827"
+            ],
+            "UP": [
+              "umi5_12-L0827"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「反論はない？　ならば私の真実は有効ですね？！　ほら見たことか！　かっこつけて飛び降りたように見えたのは全て幻想！　あんたはかっこつけて飛び出し、雨どいにしがみ付いただけなんです…！！」",
+              "translation": "\"You don't have a counterargument? Then my truth is valid, right?! Hey, did you see that?! It may have looked like you jumped down all dramatically, but it was all an illusion! All you actually did was jump out and grab desperately onto the rain gutter...!!\" "
+            },
+            "UP": {
+              "japanese": "「反論はない？　ならば私の真実は有効ですね？！　ほら見たことか！　かっこつけて飛び降りたように見えたのは全て幻想！　あんたはかっこつけて飛び出し、雨どいにしがみ付いただけなんです…！！」",
+              "translation": "\"You have no rebuttal? Then my truth is valid, yes?! There, you see?! It may have looked like you jumped down all dramatically, but it was all an illusion! All you actually did was jump out and grab desperately onto the rain gutter...!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0827"
+            ],
+            "MG": [
+              "umi5_12-L0827"
+            ],
+            "UP": [
+              "umi5_12-L0827"
+            ]
+          }
+        },
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              839,
+              839
+            ],
+            "MG": [
+              839,
+              839
+            ],
+            "UP": [
+              839,
+              839
+            ]
+          },
+          "japanese": "それ見たことかそれ見たことか…！！",
+          "japanesePC": "ほら見たことか！",
+          "japanesePS3": "それ見たことかそれ見たことか…！！",
+          "WH": "Hey, did you see that?!",
+          "MG": "Did you see that, did you see that...?!!",
+          "UP": "How do you like that, how do you like that...?!!",
+          "note": "Complete documented711–850 review; parent checked718–725 and PC41576–41577. Register omitted negative in721 introductory definition, narrowly: preceding718 and subsequent722–728 retain the true no-misidentification rule, so not a wholesale rule reversal. Hold809 relief/invention lexical paraphrase and793 servant as previously identified envoy. No independent new defect or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0837",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0827"
+            ],
+            "MG": [
+              "umi5_12-L0837"
+            ],
+            "UP": [
+              "umi5_12-L0837"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はぐらかさないで下さい！！　ニンゲン風情が３階から飛び降りられるはずがないんです…！！　それ見たことかそれ見たことか…！！　如何です、我が主、我が推理…！！」",
+              "translation": "\"Don't try to change the subject!! A mere Human can't jump down from the third floor...!! Did you see that, did you see that...?!! What do you think of my reasoning, my master...?!!\" "
+            },
+            "UP": {
+              "japanese": "「はぐらかさないで下さい！！　ニンゲン風情が３階から飛び降りられるはずがないんです…！！　それ見たことかそれ見たことか…！！　如何です、我が主、我が推理…！！」",
+              "translation": "\"Don't try to change the subject!! A mere Humanhuman can't jump down from the third floor...!! How do you like that, how do you like that...?!! What do you think of my reasoning, my master...?!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0827"
+            ],
+            "MG": [
+              "umi5_12-L0837"
+            ],
+            "UP": [
+              "umi5_12-L0837"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ほら見たことか is a vindicated taunt: see, I told you so. Erika claims her theory has won, rather than requesting visual observation.",
+      "alternative": "Did you see that can function as triumph, but here converts an idiomatic claim of vindication into an observation question. The repeated English Did you see that repeats the same shift.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-011",
+      "kind": "WH",
+      "description": "Landing without a waist impact becomes landing on his feet.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              846,
+              846
+            ],
+            "MG": [
+              846,
+              846
+            ],
+            "UP": [
+              846,
+              846
+            ]
+          },
+          "japanese": "うまいこと着地でき、腰を打たずには済んだ。",
+          "japanesePC": "途中で手が滑り、結構な高さを飛び降りてしまったが、うまいこと着地でき、腰を打たずには済んだ。",
+          "japanesePS3": "うまいこと着地でき、腰を打たずには済んだ。",
+          "WH": "His hand had slipped halfway, and he had fallen from a considerable height, but he had managed to land on his feet.",
+          "MG": "but he had managed to land on his feet.",
+          "UP": "but he managed to land on his feet without injuring himself.",
+          "note": "Full documented831–885 tail review; parent checked844–847. UP846 keeps unsupported feet and broadens specific no-waist-impact to absence of all injury, hence modified but unresolved rather than full correction. Hold UP841 sleep cause as uncertain fatigue taunt in disturbed-night context; hold871 reaction as immediately recovered872–873. No proven yellow. All11 original canonical parents linked with separate outcomes; additional inherited supplements follow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "modified_but_unresolved"
+          },
+          "readerRef": "umi5_12-L0843",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0843"
+            ],
+            "MG": [
+              "umi5_12-L0843"
+            ],
+            "UP": [
+              "umi5_12-L0843"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "窓から中庭に脱出して見せた時。ヱリカの言う通り、実際に戦人は、雨どいを伝いながら壁を這い下りた。途中で手が滑り、結構な高さを飛び降りてしまったが、うまいこと着地でき、腰を打たずには済んだ。……それには目撃者などないが、この食堂の、多分、ヱリカを除く全員が、きっとそうだったろうと理解している。３階の窓から飛び降りたなんて、誰も最初から信じていないのだ。……それを直接、目撃していなくても。だから、ヱリカが何を言い出し、何に拘っているのかわかりかね、怪訝な顔と白い目、そしてひそひそとした囁きを聞こえさせる……。",
+              "translation": "When he escaped to the courtyard through the window... Battler really did use the rain gutter to crawl down the wall, just like Erika said. His hand had slipped halfway, and he had fallen from a considerable height, but he had managed to land on his feet. ...No one had witnessed this, but most likely, everyone in the dining hall now except Erika had realized that something like this had happened. Since the very beginning, no one had believed that he'd jumped down from the third floor window. ...Even if they hadn't witnessed that directly. So they had no clue what Erika was complaining about all of a sudden... and started to whisper, staring at her with cold eyes and dubious faces... "
+            },
+            "UP": {
+              "japanese": "窓から中庭に脱出して見せた時。ヱリカの言う通り、実際に戦人は、雨どいを伝いながら壁を這い下りた。途中で手が滑り、結構な高さを飛び降りてしまったが、うまいこと着地でき、腰を打たずには済んだ。……それには目撃者などないが、この食堂の、多分、ヱリカを除く全員が、きっとそうだったろうと理解している。３階の窓から飛び降りたなんて、誰も最初から信じていないのだ。……それを直接、目撃していなくても。だから、ヱリカが何を言い出し、何に拘っているのかわかりかね、怪訝な顔と白い目、そしてひそひそとした囁きを聞こえさせる……。",
+              "translation": "When he escaped to the courtyard through the window... Battler really did use the rain gutter to crawl down the wall, just like Erika said. His hand slipped halfway, and he fell from a considerable height, but he managed to land on his feet without injuring himself. ......No one witnessed this, but most likely, everyone except Erika currently in the dining hall had realized that something like this had happened. No one had believed that he'd jumped down from the third‐floor window in the first place. ......Even if they hadn't witnessed it directly. So they had no clue what Erika was complaining about and obsessing over all of a sudden, and started to whisper, glancing at her with cold eyes and dubious faces......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0843"
+            ],
+            "MG": [
+              "umi5_12-L0843"
+            ],
+            "UP": [
+              "umi5_12-L0843"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler slips from considerable height, lands successfully and avoids hitting his waist/lower back. The source does not specify that he lands on his feet.",
+      "alternative": "Landing on feet plausibly explains avoiding the waist impact, but selects an unstated landing posture and drops the explicit avoided injury.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-012",
+      "kind": "WH",
+      "description": "WH writes in a instant instead of in an instant.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              115,
+              115
+            ],
+            "MG": [
+              115,
+              115
+            ],
+            "UP": [
+              115,
+              115
+            ]
+          },
+          "japanese": "……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。",
+          "japanesePC": "......きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。",
+          "japanesePS3": "……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。",
+          "WH": "......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.",
+          "MG": "...If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.",
+          "UP": "......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant.",
+          "note": "Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_12-L0114",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0114"
+            ],
+            "MG": [
+              "umi5_12-L0114"
+            ],
+            "UP": [
+              "umi5_12-L0114"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "冷酷そうに見えて、……案外、空気の読めるヤツらしかった。……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、結果的に、ワルギリアが紅茶を淹れた事実に変わりはない。",
+              "translation": "Though she looked cold, ...she was a surprisingly tactful person. ...If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant. However, the possibility had been presented that a tea set existed and had been used to make the tea normally, so the fact that Virgilia had made tea was, in the end, undisputed. "
+            },
+            "UP": {
+              "japanese": "冷酷そうに見えて、……案外、空気の読めるヤツらしかった。……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、結果的に、ワルギリアが紅茶を淹れた事実に変わりはない。",
+              "translation": "Though she looked cold, ......she was a surprisingly tactful person. ......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant. However, even if it was depicted that a tea set existed here and Virgilia had used it to make the tea normally, the result, that Virgilia had made tea, would still remain unchanged."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0114"
+            ],
+            "MG": [
+              "umi5_12-L0114"
+            ],
+            "UP": [
+              "umi5_12-L0114"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Instant begins with a vowel sound and requires an.",
+      "alternative": "The sentence is otherwise intelligible; local typo only.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-013",
+      "kind": "WH",
+      "description": "WH changes if ordinary tea preparation were shown into since its possibility had already been presented.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              116,
+              116
+            ],
+            "MG": [
+              116,
+              116
+            ],
+            "UP": [
+              116,
+              116
+            ]
+          },
+          "japanese": "しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、",
+          "japanesePC": "しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、結果的に、ワルギリアが紅茶を淹れた事実に変わりはない。",
+          "japanesePS3": "しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、",
+          "WH": "However, since the possibility had been presented that a tea set existed and had been used to make the tea normally, the fact that Virgilia had made tea was, in the end, undisputed.",
+          "MG": "However, the possibility had been presented that a tea set existed and had been used to make the tea normally,",
+          "UP": "However, even if it was depicted that a tea set existed here and Virgilia had used it to make the tea normally,",
+          "note": "Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0114",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0114"
+            ],
+            "MG": [
+              "umi5_12-L0114"
+            ],
+            "UP": [
+              "umi5_12-L0114"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "冷酷そうに見えて、……案外、空気の読めるヤツらしかった。……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、結果的に、ワルギリアが紅茶を淹れた事実に変わりはない。",
+              "translation": "Though she looked cold, ...she was a surprisingly tactful person. ...If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant. However, the possibility had been presented that a tea set existed and had been used to make the tea normally, so the fact that Virgilia had made tea was, in the end, undisputed. "
+            },
+            "UP": {
+              "japanese": "冷酷そうに見えて、……案外、空気の読めるヤツらしかった。……きっと、ドラノールが、魔法で紅茶を点てることを否定すれば、すぐにこの魔法は砕け散るだろう。しかし、ここに紅茶の道具が存在し、それを使って普通に紅茶を淹れていたことが示されるなら、結果的に、ワルギリアが紅茶を淹れた事実に変わりはない。",
+              "translation": "Though she looked cold, ......she was a surprisingly tactful person. ......If Dlanor were to deny that the black tea had been prepared with magic, this magic would surely be crushed in a instant. However, even if it was depicted that a tea set existed here and Virgilia had used it to make the tea normally, the result, that Virgilia had made tea, would still remain unchanged."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0114"
+            ],
+            "MG": [
+              "umi5_12-L0114"
+            ],
+            "UP": [
+              "umi5_12-L0114"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "示されるなら makes preservation of the tea-serving result conditional on depicting ordinary preparation.",
+      "alternative": "Dlanor104–105 has already proposed a mundane account, but that does not erase the explicit conditional form of this narration.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-014",
+      "kind": "WH",
+      "description": "WH replaces inability to leave the outcome to chance with the vague inability to let it be.",
+      "categories": [
+        "linguistic.undertranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              232,
+              232
+            ],
+            "MG": [
+              232,
+              232
+            ],
+            "UP": [
+              232,
+              232
+            ]
+          },
+          "japanese": "…それに任せられなかったから、私は謝罪に訪れたのデス」",
+          "japanesePC": "「いいえ、時の運ではありマセン。...それに任せられなかったから、私は謝罪に訪れたのデス。」",
+          "japanesePS3": "…それに任せられなかったから、私は謝罪に訪れたのデス」",
+          "WH": "\"No, it wasn't luck of the DRAW.  ...I couldn't just let it be, so I came here to APOLOGIZE.\"",
+          "MG": "...I couldn't just let it be, so I came here to apologize.\"",
+          "UP": "...We were unable to let the outcome be decided naturally by chance, so I came here to apologize.\"",
+          "note": "Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0231",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0231"
+            ],
+            "MG": [
+              "umi5_12-L0231"
+            ],
+            "UP": [
+              "umi5_12-L0231"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いいえ、時の運ではありマセン。…それに任せられなかったから、私は謝罪に訪れたのデス」",
+              "translation": "\"No, it wasn't luck of the draw. ...I couldn't just let it be, so I came here to apologize.\" "
+            },
+            "UP": {
+              "japanese": "「いいえ、時の運ではありマセン。…それに任せられなかったから、私は謝罪に訪れたのデス」",
+              "translation": "\"No, it was not luck of the draw. ...We were unable to let the outcome be decided naturally by chance, so I came here to apologize.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0231"
+            ],
+            "MG": [
+              "umi5_12-L0231"
+            ],
+            "UP": [
+              "umi5_12-L0231"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "それ refers directly to 時の運: the speakers deliberately did not leave victory to chance, explaining the apology.",
+      "alternative": "Let it be can refer back to luck, and235–243 explicitly recover the thrown match; the defect is loss of the explicit controlled-outcome explanation, not elimination of that revelation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-015",
+      "kind": "WH",
+      "description": "WH changes Erika emphatically presenting her completed attack on the knock mystery into promising to figure it out.",
+      "categories": [
+        "linguistic.tense_aspect"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              704,
+              704
+            ],
+            "MG": [
+              704,
+              704
+            ],
+            "UP": [
+              704,
+              704
+            ]
+          },
+          "japanese": "「しかし、ノックの謎については、確かにここに！",
+          "japanesePC": "しかし、ノックの謎については、確かにここに！",
+          "japanesePS3": "「しかし、ノックの謎については、確かにここに！",
+          "WH": "However, I will definitely figure out the riddle of the knock here!",
+          "MG": "However, I will definitely figure out the riddle of the knock here!",
+          "UP": "\"However, on the mystery of the knock, I've produced results!",
+          "note": "Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_12-L0700",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0700"
+            ],
+            "MG": [
+              "umi5_12-L0700"
+            ],
+            "UP": [
+              "umi5_12-L0700"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうです、ノックについては私の青き真実、未だ有効なはずです…！　全てを否定されてなんていません…！！　我が主！　手紙の謎は必ずや解いて見せますッ。お時間の猶予をお許し下さい…！！」「しかし、ノックの謎については、確かにここに！　“屋敷以外の人物が、カセットテープなどでノック音を聞かせる仕掛けを施した”とする青き楔で穿ちました…！」",
+              "translation": "\"That's right, my blue truth regarding the knock is still valid...! It's not true that everything's been denied...!! My master! I will solve the riddle of the letter without fail. Please allow me to postpone that for now...!! However, I will definitely figure out the riddle of the knock here! I've hit you with the blue stake that \"someone outside the mansion set things up with a cassette tape or something to make a knock sound play\"...!\" "
+            },
+            "UP": {
+              "japanese": "「そうです、ノックについては私の青き真実、未だ有効なはずです…！　全てを否定されてなんていません…！！　我が主！　手紙の謎は必ずや解いて見せますッ。お時間の猶予をお許し下さい…！！」「しかし、ノックの謎については、確かにここに！　“屋敷以外の人物が、カセットテープなどでノック音を聞かせる仕掛けを施した”とする青き楔で穿ちました…！」",
+              "translation": "\"That's right, my blue truth regarding the knock is still valid...! It's not true that everything's been denied...!! My master! I will solve the mystery of the letter without fail! Please allow me more time...!!\" \"However, on the mystery of the knock, I've produced results! I've driven in the blue stake that \"someone outside the mansion set things up with a cassette tape or something to make a knock sound play\"...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0700"
+            ],
+            "MG": [
+              "umi5_12-L0700"
+            ],
+            "UP": [
+              "umi5_12-L0700"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "704 continues into705 青き楔で穿ちました, a completed attack contrasted with the deferred letter mystery702–703.",
+      "alternative": "705 and709 recover the completed claim, but704 independently introduces an unresolved future undertaking. No whole-work truth of her solution is certified.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH12-016",
+      "kind": "WH",
+      "description": "WH begins the definition with misidentifying a knocking sound rather than not misidentifying it.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_12",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              721,
+              721
+            ],
+            "MG": [
+              721,
+              721
+            ],
+            "UP": [
+              721,
+              721
+            ]
+          },
+          "japanese": "「ノック音を誤認しない、ということはつまり。",
+          "japanesePC": "「ノック音を誤認しない、ということはつまり。ノック音によく似た他の音を、ノック音と勘違いしたりはしない、ということよ。柱を叩くとノックに似た音がする、なんてのもアウト。ノック音をカセットテープに録音したとしても、それはもはや“ノック音を録音したテープの音”であって、ノック音ではない。だからこれもアウト！」",
+          "japanesePS3": "「ノック音を誤認しない、ということはつまり。",
+          "WH": "\"Misidentifying a knocking sound means this: they would not mistake a sound very similar to a knocking sound for a real knocking sound.  Hitting a pillar to make something similar to a knocking sound is no good.  When you record a knocking sound on a cassette tape and play it back, it becomes 'the sound of the tape with a knocking sound on it', and not a knocking sound.  So that's no good either!\"",
+          "MG": "\"Misidentifying a knocking sound means this:",
+          "UP": "\"Misidentifying a knocking sound means this:",
+          "note": "Original PC and coherent paired context verified under ep05-ch12-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_12-L0721",
+          "readerRefs": {
+            "WH": [
+              "umi5_12-L0721"
+            ],
+            "MG": [
+              "umi5_12-L0721"
+            ],
+            "UP": [
+              "umi5_12-L0721"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ノック音を誤認しない、ということはつまり。ノック音によく似た他の音を、ノック音と勘違いしたりはしない、ということよ。柱を叩くとノックに似た音がする、なんてのもアウト。ノック音をカセットテープに録音したとしても、それはもはや“ノック音を録音したテープの音”であって、ノック音ではない。だからこれもアウト！」「つまり、実際にあの扉を叩いたノック音を、全員は正確に識別し、絶対に聞き間違えないということよ。あの扉を直接叩く以外のあらゆる音を、ノックと誤解することは絶対にありえないということ！！」",
+              "translation": "\"Misidentifying a knocking sound means this: they would not mistake a sound very similar to a knocking sound for a real knocking sound. Hitting a pillar to make something similar to a knocking sound is no good. When you record a knocking sound on a cassette tape and play it back, it becomes \"the sound of a tape with a knocking sound on it\", and not a knocking sound. So that's no good either!\" \"In other words, all of them would correctly distinguish a knocking sound of something truly hitting the door, and they definitely wouldn't mishear it. It's totally impossible that any sounds except hitting that door directly would be misinterpreted as a knock!!\" "
+            },
+            "UP": {
+              "japanese": "「ノック音を誤認しない、ということはつまり。ノック音によく似た他の音を、ノック音と勘違いしたりはしない、ということよ。柱を叩くとノックに似た音がする、なんてのもアウト。ノック音をカセットテープに録音したとしても、それはもはや“ノック音を録音したテープの音”であって、ノック音ではない。だからこれもアウト！」「つまり、実際にあの扉を叩いたノック音を、全員は正確に識別し、絶対に聞き間違えないということよ。あの扉を直接叩く以外のあらゆる音を、ノックと誤解することは絶対にありえないということ！！」",
+              "translation": "\"Misidentifying a knocking sound means this: they would not mistake a sound very similar to a knocking sound for a real knocking sound. Hitting a pillar to make something similar to a knocking sound is no good. When you record a knocking sound on a cassette tape and play it back, it becomes \"the sound of a tape with a knocking sound on it\", and not a knocking sound. So that's no good either!\" \"In other words, all of them would correctly distinguish a knocking sound of something truly hitting the door, and they definitely wouldn't mishear it. It's totally impossible that any sounds except hitting that door directly would be misinterpreted as a knock!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_12-L0721"
+            ],
+            "MG": [
+              "umi5_12-L0721"
+            ],
+            "UP": [
+              "umi5_12-L0721"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ノック音を誤認しない explicitly negates misidentification in the introductory definition.",
+      "alternative": "A gerund might introduce the topic loosely, but means this defines the positive as negative;718 and722 onward retain the correct rule, so the whole rule is not reversed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP05-CH12-001": {
+      "umi5_12-L0118": {
+        "WH": [
+          "governs the process"
+        ]
+      }
+    },
+    "WH-EP05-CH12-002": {
+      "umi5_12-L0164": {
+        "WH": [
+          "it would be better if I DIDN'T"
+        ],
+        "MG": [
+          "it would be better if I didn't"
+        ],
+        "UP": [
+          "it is better if I do not"
+        ]
+      }
+    },
+    "WH-EP05-CH12-003": {
+      "umi5_12-L0215": {
+        "WH": [
+          "I won't hold BACK"
+        ],
+        "MG": [
+          "I won't hold back"
+        ],
+        "UP": [
+          "I will not be caught unawares"
+        ]
+      }
+    },
+    "WH-EP05-CH12-004": {
+      "umi5_12-L0298": {
+        "WH": [
+          "I must aid Erika during the rest of this GAME"
+        ],
+        "MG": [
+          "I must aid Erika during the rest of this game"
+        ]
+      }
+    },
+    "WH-EP05-CH12-005": {
+      "umi5_12-L0504": {
+        "WH": [
+          "the family conference was proceeding and the mansion was entirely locked"
+        ],
+        "MG": [
+          "the family conference was proceeding and the mansion was completely locked"
+        ]
+      }
+    },
+    "WH-EP05-CH12-006": {
+      "umi5_12-L0574": {
+        "WH": [
+          "touched the letter unexpectedly"
+        ],
+        "MG": [
+          "touched the letter unexpectedly"
+        ]
+      }
+    },
+    "WH-EP05-CH12-007": {
+      "umi5_12-L0672": {
+        "WH": [
+          "around the time of the family conference"
+        ]
+      }
+    },
+    "WH-EP05-CH12-008": {
+      "umi5_12-L0706": {
+        "WH": [
+          "Very lively"
+        ],
+        "MG": [
+          "Very lively"
+        ],
+        "UP": [
+          "Very lively"
+        ]
+      }
+    },
+    "WH-EP05-CH12-009": {
+      "umi5_12-L0785": {
+        "WH": [
+          "a hideous expression"
+        ],
+        "MG": [
+          "a hideous expression"
+        ],
+        "UP": [
+          "a hideous expression"
+        ]
+      }
+    },
+    "WH-EP05-CH12-010": {
+      "umi5_12-L0827": {
+        "WH": [
+          "Hey, did you see that?!"
+        ],
+        "MG": [
+          "Hey, did you see that?!"
+        ]
+      },
+      "umi5_12-L0837": {
+        "MG": [
+          "Did you see that, did you see that...?!"
+        ]
+      }
+    },
+    "WH-EP05-CH12-011": {
+      "umi5_12-L0843": {
+        "WH": [
+          "land on his feet"
+        ],
+        "MG": [
+          "land on his feet"
+        ],
+        "UP": [
+          "land on his feet without injuring himself"
+        ]
+      }
+    },
+    "WH-EP05-CH12-012": {
+      "umi5_12-L0114": {
+        "WH": [
+          "a instant"
+        ],
+        "MG": [
+          "a instant"
+        ],
+        "UP": [
+          "a instant"
+        ]
+      }
+    },
+    "WH-EP05-CH12-013": {
+      "umi5_12-L0114": {
+        "WH": [
+          "since the possibility had been presented"
+        ],
+        "MG": [
+          "the possibility had been presented"
+        ]
+      }
+    },
+    "WH-EP05-CH12-014": {
+      "umi5_12-L0231": {
+        "WH": [
+          "couldn't just let it be"
+        ],
+        "MG": [
+          "couldn't just let it be"
+        ]
+      }
+    },
+    "WH-EP05-CH12-015": {
+      "umi5_12-L0700": {
+        "WH": [
+          "I will definitely figure out the riddle of the knock here"
+        ],
+        "MG": [
+          "I will definitely figure out the riddle of the knock here"
+        ]
+      }
+    },
+    "WH-EP05-CH12-016": {
+      "umi5_12-L0721": {
+        "WH": [
+          "Misidentifying a knocking sound"
+        ],
+        "MG": [
+          "Misidentifying a knocking sound"
+        ],
+        "UP": [
+          "Misidentifying a knocking sound"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

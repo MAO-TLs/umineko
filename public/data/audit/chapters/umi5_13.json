@@ -1,1 +1,1463 @@
-{"findings":[{"id":"WH-EP05-CH13-001","kind":"WH","description":"Truly knowing the enemy becomes knowing the truth.","categories":["linguistic.wrong_subject","world.literary_reference"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[31,31],"MG":[31,31],"UP":[31,31]},"japanese":"「真に知れば、百戦も戦わずに勝てるわ」","japanesePC":"「真に知れば、百戦も戦わずに勝てるわ。」","japanesePS3":"「真に知れば、百戦も戦わずに勝てるわ」","WH":"\"If you know the truth, you can win a hundred battles without fighting.\"","MG":"\"If you know the truth, you can win a hundred battles without fighting.\"","UP":"\"If you know the truth, you can win a hundred battles without fighting.\"","note":"Complete documented1–130 reading; parent checked88 and PC42439–42440. Register inherited had hid grammar. Hold23 next world as broad metaphysical otherworld idiom; hold113–114 corpses as death-status shorthand immediately clarified115–116. No firm independent error or proven yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_13-L0031","readerRefs":{"WH":["umi5_13-L0031"],"MG":["umi5_13-L0031"],"UP":["umi5_13-L0031"]}}],"sourceReading":"Following Ronove knowing the enemy prevents peril in a hundred battles, Beato says if one truly knows, one can win a hundred without fighting. 真に modifies knowing, with enemy understanding supplied by the preceding line.","alternative":"Knowing the truth is thematically plausible but turns the adverb 真に into an object truth, replacing the immediate enemy-knowledge rejoinder.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-002","kind":"WH","description":"Repelling an attacker whenever needed becomes holding one off indefinitely.","categories":["linguistic.word_choice","character.voice_state","world.world_fact"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[291,291],"MG":[291,291],"UP":[291,291]},"japanese":"絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。","japanesePC":"絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。","japanesePS3":"絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。","WH":"Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.","MG":"Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.","UP":"Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.","note":"Documented full231–370 review. Hold249 reduced victim-priority rhetoric because explicit forced compliance remains; hold276 grip/twist because unlocked resistance check implies operating knob. UP350 folded legs supported subsequent knees-to-chest sitting; generic crouch outside353 does not undo canonical posture correction. No independent firm error or proven yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_13-L0290","readerRefs":{"WH":["umi5_13-L0290"],"MG":["umi5_13-L0290"],"UP":["umi5_13-L0290"]}}],"sourceReading":"Eva can boast she would repel a ruffian any time; いつでも marks readiness and 撃退 the successful driving off of an attacker.","alternative":"Hold off may imply repelling, but indefinitely specifies prolonged resistance instead of anytime readiness. Contrast with Natsuhi inability to win remains clear.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-003","kind":"WH","description":"Knees-up sitting becomes a PE crouch.","categories":["linguistic.word_choice","world.culture_history","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[353,353],"MG":[353,353],"UP":[353,353]},"japanese":"小学生の頃は、体育の時間の度に体育座りをさせられたというのに、","japanesePC":"小学生の頃は、体育の時間の度に体育座りをさせられたというのに、今では、腰一つ下ろすにも、体を騙している自分がいる。","japanesePS3":"小学生の頃は、体育の時間の度に体育座りをさせられたというのに、","WH":"Even though I was made to do a PE crouch in every PE class as a grade schooler, I now have to struggle just to sit down.","MG":"Even though I was made to sit on the floor holding my knees in every PE class as a grade schooler,","UP":"Even though I and the rest of my class were made to sit on the floor clasping our knees in every PE class as grade schoolers,","note":"Documented full231–370 review. Hold249 reduced victim-priority rhetoric because explicit forced compliance remains; hold276 grip/twist because unlocked resistance check implies operating knob. UP350 folded legs supported subsequent knees-to-chest sitting; generic crouch outside353 does not undo canonical posture correction. No independent firm error or proven yellow.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi5_13-L0351","readerRefs":{"WH":["umi5_13-L0351"],"MG":["umi5_13-L0351"],"UP":["umi5_13-L0351"]}}],"sourceReading":"体育座り is sitting on the floor with knees drawn up; she recalls being made to sit that way during elementary-school PE, contrasting current discomfort sitting and hugging knees.","alternative":"PE crouch is not that seated posture. Earlier English clutching knees and struggle to sit down partly reconstruct the action, but crouching recurs and changes the physical image.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-004","kind":"WH","description":"Receiving the family care becomes serving the family.","categories":["linguistic.logical_relation","character.relationship_power","character.motivation_emotion"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[400,400],"MG":[400,400],"UP":[400,400]},"japanese":"１０年にもわたり、当家の世話になりながらッ………」","japanesePC":"「私が秋を好きだというのは、紗音しか知りえないこと...。......なら、......これは紗音がかかわっているという明白な証拠ではありませんか...！　それを、あの秋というカードが証明しています...！　......何と言うこと...。１０年にもわたり、当家の世話になりながらッ.........。」","japanesePS3":"１０年にもわたり、当家の世話になりながらッ………」","WH":"\"The fact that I like Fall can only be known by Shannon...  ......In that case, ......this is clear proof that Shannon is involved...!  That card with Fall on it is proof...!  ......Incredible...  Even though she's served the family for 10 years.........\"","MG":"Even though she's served the family for 10 years......\"","UP":"After ten years of being provided for by our family.........\"","note":"Complete documented351–490 review; parent checked385–390/433–445. Hold MG387 heard versus asked because 聞かれる permits both and subsequent husband inquiry does not decisively eliminate heard reading. Hold UP445 may only as concessive merely/current interior lock, not necessarily an exclusive mechanical capability; outside key action433–435 retained. Hold409 vital as major clue415/420 context. No proven yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_13-L0396","readerRefs":{"WH":["umi5_13-L0396"],"MG":["umi5_13-L0396"],"UP":["umi5_13-L0396"]}}],"sourceReading":"当家の世話になりながら accuses Shannon of betrayal despite having benefited from the household care for ten years.","alternative":"Shannon has served the family, but that reverses the recipient of care and changes Natsuhi appeal to indebtedness into an appeal to service tenure. The accusation and ten years remain.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-005","kind":"WH","description":"Farther inside the room becomes its center.","categories":["linguistic.word_choice","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[454,454],"MG":[454,454],"UP":[454,454]},"japanese":"どうかそのまま奥へ行って……！","japanesePC":"だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。","japanesePS3":"どうかそのまま奥へ行って……！","WH":"So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet, and was deeply relieved.","MG":"Please keep going into the center of the room...!","UP":"Please keep going into the center of the room......!","note":"Complete documented351–490 review; parent checked385–390/433–445. Hold MG387 heard versus asked because 聞かれる permits both and subsequent husband inquiry does not decisively eliminate heard reading. Hold UP445 may only as concessive merely/current interior lock, not necessarily an exclusive mechanical capability; outside key action433–435 retained. Hold409 vital as major clue415/420 context. No proven yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_13-L0440","readerRefs":{"WH":["umi5_13-L0440"],"MG":["umi5_13-L0440"],"UP":["umi5_13-L0440"]}},{"chapter":"umi5_13","episode":5,"rows":{"JP":[456,457],"MG":[456,457],"UP":[456,457]},"japanese":"だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、\n彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。","japanesePC":"だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。","japanesePS3":"だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、\n彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。","WH":"So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet, and was deeply relieved.","MG":"So when I heard a clunking sound coming from the center of the room,\nI finally realized that he'd passed by the closet...and was deeply relieved.","UP":"So when I heard a clunking sound coming from the center of the room,\nI finally realized that he'd passed by the closet, and was deeply relieved.","note":"Complete documented351–490 review; parent checked385–390/433–445. Hold MG387 heard versus asked because 聞かれる permits both and subsequent husband inquiry does not decisively eliminate heard reading. Hold UP445 may only as concessive merely/current interior lock, not necessarily an exclusive mechanical capability; outside key action433–435 retained. Hold409 vital as major clue415/420 context. No proven yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_13-L0440","readerRefs":{"WH":["umi5_13-L0440"],"MG":["umi5_13-L0440"],"UP":["umi5_13-L0440"]}}],"sourceReading":"Natsuhi hears clunking from deeper within the room beyond the closet near the entrance. 奥の方 describes depth from that entrance, not the geometric center.","alternative":"Center could lie beyond the closet, so her inference that he passed it survives. English nevertheless specifies a midpoint where source gives depth/interior direction; the preceding plea also shifts 奥 to center.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-006","kind":"WH","description":"Feared mistreatment of corpses becomes unspecified action.","categories":["linguistic.undertranslation","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[681,681],"MG":[681,681],"UP":[681,681]},"japanese":"犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない…！！","japanesePC":"「譲治たちの死体はそうしたらどうなったの？！　犯人にどこかへ持っていかれちゃったのよ？！　犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない...！！","japanesePS3":"犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない…！！","WH":"\"What happened to the other corpses?!  The culprit carried them off somewhere, right?!  It may be that the culprit isn't satisfied with just killing, but intends to do something with the corpses...!!","MG":"It may be that the culprit isn't satisfied with just killing, but intends to do something with the corpses...!!","UP":"It may be that the culprit isn't satisfied with just killing, but intends to do something with the bodies as well...!!","note":"Documented full591–730 review. Hold MG667 just like usual as contextual stock mystery scenario with668 preserving irritation; hold679 causal omission because678/680 recover it. Number-neutral windows allow singular/plural and explicit all-windows673 remains. No new firm independent error or proven yellow.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi5_13-L0679","readerRefs":{"WH":["umi5_13-L0679"],"MG":["umi5_13-L0679"],"UP":["umi5_13-L0679"]}}],"sourceReading":"Eva fears the killer may do something abusive or outrageous even to the corpses: 無体なこと. This motivates refusal to leave her husband body unattended.","alternative":"Something with the corpses retains unknown purpose and the surrounding killer framing implies menace, but drops the explicitly abusive nature of Eva fear.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-007","kind":"WH","description":"Explicitly fatal wounds become terrible wounds.","categories":["linguistic.omission","mystery.information_timing_salience"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[685,685],"MG":[685,685],"UP":[685,685]},"japanese":"これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。","japanesePC":"これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。","japanesePS3":"これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。","WH":"After all, the victims before now have all been carried away after we were shown their terrible wounds.","MG":"After all, the victims before now have all been carried away after we were shown their terrible wounds.","UP":"After all, the prior victims were all carried away after we were shown their terrible and fatal wounds.","note":"Documented full591–730 review. Hold MG667 just like usual as contextual stock mystery scenario with668 preserving irritation; hold679 causal omission because678/680 recover it. Number-neutral windows allow singular/plural and explicit all-windows673 remains. No new firm independent error or proven yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_13-L0684","readerRefs":{"WH":["umi5_13-L0684"],"MG":["umi5_13-L0684"],"UP":["umi5_13-L0684"]}}],"sourceReading":"The narration says previous victims were shown with gruesome fatal wounds before always being carried away. 致命傷 expressly marks lethality.","alternative":"Victims and corpses nearby imply death, and earlier death reds are preserved. Terrible alone nevertheless omits the explicit fatal characterization in the local explanation for Eva concern.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-008","kind":"WH","description":"Important announcement after review becomes already completed review.","categories":["linguistic.tense_aspect","linguistic.logical_relation","mystery.information_timing_salience"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[860,860],"MG":[860,860],"UP":[860,860]},"japanese":"「整理した上で、重要なお話があるのです。","japanesePC":"「整理した上で、重要なお話があるのです。あなたにも誰にも、断る権利はありません。」","japanesePS3":"「整理した上で、重要なお話があるのです。","WH":"\"Since I have it all laid out, this is a very important thing to discuss.  Neither you nor anyone else has the right to refuse.\"","MG":"\"Since I have it all laid out, this is a very important thing to discuss.","UP":"\"I have something very important to say once I've cleared everything up.","note":"Complete documented831–970 review. Hold UP955 tribulations as mental anguish supported hesitation945–949 and hope958–962; hold942 recognizing mistake as contextual self-reflection. Hundred919 is rhetorical repetition with hundreds924 retained. No firm independent new defect or proven yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_13-L0860","readerRefs":{"WH":["umi5_13-L0860"],"MG":["umi5_13-L0860"],"UP":["umi5_13-L0860"]}}],"sourceReading":"Erika has an important announcement to make after organizing or reviewing the events with everyone. 整理した上で specifies the procedural prerequisite.","alternative":"Since I have it all laid out asserts preparation already complete and changes the relation to an explanation of importance. Earlier proposal to lay everything out still preserves the coming review.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-009","kind":"WH","description":"Battler taking over his piece becomes control of the pieces.","categories":["linguistic.overinterpretation","world.world_layer","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[903,903],"MG":[903,903],"UP":[903,903]},"japanese":"駒のコントロールが戦人に引き継がれる。","japanesePC":"もうじき、戦人が第５のゲームに参加した時間になるので、駒のコントロールが戦人に引き継がれる。","japanesePS3":"駒のコントロールが戦人に引き継がれる。","WH":"It would very soon reach the time that Battler had joined in on the 5th game, and control of the pieces would be passed on to Battler.","MG":"and control of the pieces would be passed on to Battler.","UP":"and control of his piece would be passed on to him.","note":"Complete documented831–970 review. Hold UP955 tribulations as mental anguish supported hesitation945–949 and hope958–962; hold942 recognizing mistake as contextual self-reflection. Hundred919 is rhetorical repetition with hundreds924 retained. No firm independent new defect or proven yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_13-L0900","readerRefs":{"WH":["umi5_13-L0900"],"MG":["umi5_13-L0900"],"UP":["umi5_13-L0900"]}}],"sourceReading":"At the point when Battler joined game5, control of the Battler piece passes to him, continuing the explicit own-piece discussion at396xx. Japanese number is unstated but the personal participation context identifies the piece.","alternative":"Japanese 駒 can be plural in isolation. Here English definite pieces broadens to a group without qualification, unlike the established personal piece transfer. It does not explicitly say all pieces, so that maximal claim is not assigned.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-010","kind":"WH","description":"Embracing him in descent becomes grabbing him.","categories":["linguistic.word_choice","character.relationship_power","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[954,954],"MG":[954,954],"UP":[954,954]},"japanese":"彼の手を取って天国へ昇るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない」","japanesePC":"「私はワルギリア。彼を煉獄山に案内し、頂上のあなたのところまで連れて来ました。......そしてあなたはベアトリーチェ。彼の手を取って天国へ登るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない。」","japanesePS3":"彼の手を取って天国へ昇るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない」","WH":"\"I am Virgilia.  I have guided him through Purgatory and brought him to you at its peak.  ......And you are Beatrice.  You must choose whether to take his hand and rise up to heaven or grab him and fall into hell.\"","MG":"You must choose whether to take his hand and rise up to heaven or grab him and fall into hell.\"","UP":"You must choose whether to take his hand and rise up to heaven, or embrace him and fall into hell.\"","note":"Complete documented831–970 review. Hold UP955 tribulations as mental anguish supported hesitation945–949 and hope958–962; hold942 recognizing mistake as contextual self-reflection. Hundred919 is rhetorical repetition with hundreds924 retained. No firm independent new defect or proven yellow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_13-L0951","readerRefs":{"WH":["umi5_13-L0951"],"MG":["umi5_13-L0951"],"UP":["umi5_13-L0951"]}}],"sourceReading":"Virgilia asks Beatrice to choose between taking his hand into heaven and holding or embracing him while falling into hell. 抱いて supplies an intimate bodily image.","alternative":"Grab can mean hold, but ordinarily expresses seizing rather than embracing. The shared descent remains; intimate contrast with taking his hand is reduced.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-011","kind":"WH","description":"Lingering attachment to hope becomes regrets caused by hope.","categories":["linguistic.word_choice","character.motivation_emotion","world.literary_reference"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[965,965],"MG":[965,965],"UP":[965,965]},"japanese":"……淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。","japanesePC":"「飛びなさい。煉獄の崖より。......淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。怖いでしょう？　箱を開けるのは。」","japanesePS3":"……淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。","WH":"\"Fly.  Fly from the cliffs of Purgatory.  ......Take with you the regrets caused by your fleeting, fragile, foolish hopes and open up Pandora's box.  Are you scared?  Scared of opening the box?\"","MG":"...Take with you the regrets caused by your fleeting, fragile, foolish hopes and open up Pandora's box.","UP":"......Cast open Pandora's box, and cast aside your fleeting, fragile, foolish hope and all the longing it brings.","note":"Full documented951–981 tail review. UP965 restores longing rather than regret, with cast aside as contextual relinquishing attachment before leap/opening cat box. Funeral972 broadly conveys memorial rite; ellipsis979–981 is grammatical rhetorical wish. No firm new defect or proven yellow. All11 original parents independently linked; supplements follow.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_13-L0963","readerRefs":{"WH":["umi5_13-L0963"],"MG":["umi5_13-L0963"],"UP":["umi5_13-L0963"]}}],"sourceReading":"希望の未練 is lingering attachment to fragile hope; she is urged to open Pandora box with that attachment implicated. It is not remorse produced by having hoped.","alternative":"Regrets can sometimes denote reluctance to part, but caused by hopes gives a retrospective regret relation instead of continued inability to let hope go. Previous hope-as-torture explanation partly restores the intended state.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-012","kind":"WH","description":"WH uses had hid instead of had hidden for hiding the corpses.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[88,88],"MG":[88,88],"UP":[88,88]},"japanese":"赤を使わせないために、こうして死体を隠したはずなのに…。","japanesePC":"赤を使わせないために、こうして死体を隠したはずなのに...。","japanesePS3":"赤を使わせないために、こうして死体を隠したはずなのに…。","WH":"But they had hid the corpses here so that no one could use the red...","MG":"But they'd hid the corpses here...specifically so that no one would be able to use the red...","UP":"But they had hidden the corpses here so that no one could use the red...","note":"Original PC and coherent paired context verified under ep05-ch13-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi5_13-L0088","readerRefs":{"WH":["umi5_13-L0088"],"MG":["umi5_13-L0088"],"UP":["umi5_13-L0088"]}}],"sourceReading":"Past perfect hide requires participle hidden.","alternative":"The action remains clear; local standard grammar defect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-013","kind":"WH","description":"WH changes someone who has not obtained victory into someone who cannot achieve victory.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[128,128],"MG":[128,128],"UP":[128,128]},"japanese":"勝利を得ぬ者が欲すれば毒にしかなりませんよ」","japanesePC":"「ですな。しかし、美しさとは勝利の先に望むもの。勝利を得ぬ者が欲すれば毒にしかなりませんよ。」","japanesePS3":"勝利を得ぬ者が欲すれば毒にしかなりませんよ」","WH":"\"True.  However, beauty is something to be found after we win.  If someone who cannot achieve victory seeks it, it is nothing but a poison to them.\"","MG":"When those without victory seek it, it is naught but poison.\"","UP":"If someone who cannot achieve victory seeks it, it is nothing but a poison to them.\"","note":"Original PC and coherent paired context verified under ep05-ch13-supplement-a-2026-10-13","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi5_13-L0126","readerRefs":{"WH":["umi5_13-L0126"],"MG":["umi5_13-L0126"],"UP":["umi5_13-L0126"]}}],"sourceReading":"勝利を得ぬ者 denotes absence of victory in the warning to seek beauty after winning, not inherent incapacity.","alternative":"Lack of victory and inability to win can overlap practically, but the source status does not assert inability.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP05-CH13-014","kind":"WH","description":"WH leaves Perhaps it would be better if you unfinished without the source explicit staying here with everyone.","categories":["linguistic.omission"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[220,220],"MG":[220,220],"UP":[220,220]},"japanese":"ここにみんなで一緒にいた方が……」","japanesePC":"「......夏妃さん、ひとりになるのは危険だ...。ここにみんなで一緒にいた方が......。」","japanesePS3":"ここにみんなで一緒にいた方が……」","WH":"\"......Natsuhi-san, it's dangerous to be alone...  Perhaps it would be better if you......\"","MG":"Perhaps it would be better if we all stayed here...\"","UP":"Perhaps it would be better if you......\"","note":"Original PC and coherent paired context verified under ep05-ch13-supplement-a-2026-10-13","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi5_13-L0219","readerRefs":{"WH":["umi5_13-L0219"],"MG":["umi5_13-L0219"],"UP":["umi5_13-L0219"]}}],"sourceReading":"ここにみんなで一緒にいた方が explicitly proposes collective presence here before the trailing hesitation.","alternative":"Danger of being alone219 implies some company, but does not replace the explicit location and proposed group action.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP05-CH13-481-600-001","kind":"additional","description":"UP changes Natsuhi unwary emergence from hiding into shameless emergence.","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi5_13","episode":5,"rows":{"JP":[582,582],"MG":[582,582],"UP":[582,582]},"japanese":"…私がのこのこと出てくるのを待ち受けているのでは……。","japanesePC":"","japanesePS3":"…私がのこのこと出てくるのを待ち受けているのでは……。","WH":"","MG":"...waiting for me to stumble out...?","UP":"waiting for me to shamelessly come out......?","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi5_13-L0571","readerRefs":{"WH":[],"MG":["umi5_13-L0571"],"UP":["umi5_13-L0571"]}}],"sourceReading":"のこのこと出てくる here describes walking unsuspectingly into the feared killer waiting outside her closet. PC44070–44071 and MG use stumble out; UP shamelessly supplies a lack-of-shame assessment.","alternative":"のこのこ can connote brazenly showing up in other contexts. Here578–585 emphasize concealed danger and fear of leaving, favoring unwary movement over shame; no actual killer presence or emotional diagnosis is certified.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP05-CH13-001",
+      "kind": "WH",
+      "description": "Truly knowing the enemy becomes knowing the truth.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "world.literary_reference"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              31,
+              31
+            ],
+            "MG": [
+              31,
+              31
+            ],
+            "UP": [
+              31,
+              31
+            ]
+          },
+          "japanese": "「真に知れば、百戦も戦わずに勝てるわ」",
+          "japanesePC": "「真に知れば、百戦も戦わずに勝てるわ。」",
+          "japanesePS3": "「真に知れば、百戦も戦わずに勝てるわ」",
+          "WH": "\"If you know the truth, you can win a hundred battles without fighting.\"",
+          "MG": "\"If you know the truth, you can win a hundred battles without fighting.\"",
+          "UP": "\"If you know the truth, you can win a hundred battles without fighting.\"",
+          "note": "Complete documented1–130 reading; parent checked88 and PC42439–42440. Register inherited had hid grammar. Hold23 next world as broad metaphysical otherworld idiom; hold113–114 corpses as death-status shorthand immediately clarified115–116. No firm independent error or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_13-L0031",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0031"
+            ],
+            "MG": [
+              "umi5_13-L0031"
+            ],
+            "UP": [
+              "umi5_13-L0031"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「真に知れば、百戦も戦わずに勝てるわ」",
+              "translation": "\"If you know the truth, you can win a hundred battles without fighting.\" "
+            },
+            "UP": {
+              "japanese": "「真に知れば、百戦も戦わずに勝てるわ」",
+              "translation": "\"If you know the truth, you can win a hundred battles without fighting.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0031"
+            ],
+            "MG": [
+              "umi5_13-L0031"
+            ],
+            "UP": [
+              "umi5_13-L0031"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Following Ronove knowing the enemy prevents peril in a hundred battles, Beato says if one truly knows, one can win a hundred without fighting. 真に modifies knowing, with enemy understanding supplied by the preceding line.",
+      "alternative": "Knowing the truth is thematically plausible but turns the adverb 真に into an object truth, replacing the immediate enemy-knowledge rejoinder.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-002",
+      "kind": "WH",
+      "description": "Repelling an attacker whenever needed becomes holding one off indefinitely.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              291,
+              291
+            ],
+            "MG": [
+              291,
+              291
+            ],
+            "UP": [
+              291,
+              291
+            ]
+          },
+          "japanese": "絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。",
+          "japanesePC": "絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。",
+          "japanesePS3": "絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。",
+          "WH": "Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.",
+          "MG": "Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.",
+          "UP": "Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely.",
+          "note": "Documented full231–370 review. Hold249 reduced victim-priority rhetoric because explicit forced compliance remains; hold276 grip/twist because unlocked resistance check implies operating knob. UP350 folded legs supported subsequent knees-to-chest sitting; generic crouch outside353 does not undo canonical posture correction. No independent firm error or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_13-L0290",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0290"
+            ],
+            "MG": [
+              "umi5_13-L0290"
+            ],
+            "UP": [
+              "umi5_13-L0290"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "夏妃には薙刀の経験があるが、あくまでも習い事としてだ。絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。今の夏妃には、悪意ある男と一対一で対峙して、打ち勝てる武器も道理もなかった。",
+              "translation": "Natsuhi had some experience with using a naginata, though only casually. Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely. As she was now, she had no realistic chance of challenging a man with malicious intent and winning. "
+            },
+            "UP": {
+              "japanese": "夏妃には薙刀の経験があるが、あくまでも習い事としてだ。絵羽のように、暴漢の一人くらいいつでも撃退してやると豪語できるようなものではない。今の夏妃には、悪意ある男と一対一で対峙して、打ち勝てる武器も道理もなかった。",
+              "translation": "Natsuhi had some experience with using a {ruby:Japanese polearm:naginata, but only from casual lessons. Unlike Eva, she couldn't brag about being able to hold off any single ruffian indefinitely. As she was now, she had no realistic chance of prevailing over a man with malicious intent on her own, and no weapons that could make that possible."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0290"
+            ],
+            "MG": [
+              "umi5_13-L0290"
+            ],
+            "UP": [
+              "umi5_13-L0290"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva can boast she would repel a ruffian any time; いつでも marks readiness and 撃退 the successful driving off of an attacker.",
+      "alternative": "Hold off may imply repelling, but indefinitely specifies prolonged resistance instead of anytime readiness. Contrast with Natsuhi inability to win remains clear.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-003",
+      "kind": "WH",
+      "description": "Knees-up sitting becomes a PE crouch.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.culture_history",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              353,
+              353
+            ],
+            "MG": [
+              353,
+              353
+            ],
+            "UP": [
+              353,
+              353
+            ]
+          },
+          "japanese": "小学生の頃は、体育の時間の度に体育座りをさせられたというのに、",
+          "japanesePC": "小学生の頃は、体育の時間の度に体育座りをさせられたというのに、今では、腰一つ下ろすにも、体を騙している自分がいる。",
+          "japanesePS3": "小学生の頃は、体育の時間の度に体育座りをさせられたというのに、",
+          "WH": "Even though I was made to do a PE crouch in every PE class as a grade schooler, I now have to struggle just to sit down.",
+          "MG": "Even though I was made to sit on the floor holding my knees in every PE class as a grade schooler,",
+          "UP": "Even though I and the rest of my class were made to sit on the floor clasping our knees in every PE class as grade schoolers,",
+          "note": "Documented full231–370 review. Hold249 reduced victim-priority rhetoric because explicit forced compliance remains; hold276 grip/twist because unlocked resistance check implies operating knob. UP350 folded legs supported subsequent knees-to-chest sitting; generic crouch outside353 does not undo canonical posture correction. No independent firm error or proven yellow.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0351",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0351"
+            ],
+            "MG": [
+              "umi5_13-L0351"
+            ],
+            "UP": [
+              "umi5_13-L0351"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "膝を抱こうかと思ったが、それをしようとすると背中が苦痛だった。もうとっくに若くない。小学生の頃は、体育の時間の度に体育座りをさせられたというのに、今では、腰一つ下ろすにも、体を騙している自分がいる。こうして、ただうずくまって座っているだけの１時間でも、相当の苦痛になるだろう……。",
+              "translation": "I thought about clutching my knees, but it hurt my back when I tried. I'm not as young as I used to be. Even though I was made to sit on the floor holding my knees in every PE class as a grade schooler, I now have to struggle just to sit down. Just crouching down here for an hour will probably hurt a lot... "
+            },
+            "UP": {
+              "japanese": "膝を抱こうかと思ったが、それをしようとすると背中が苦痛だった。もうとっくに若くない。小学生の頃は、体育の時間の度に体育座りをさせられたというのに、今では、腰一つ下ろすにも、体を騙している自分がいる。こうして、ただうずくまって座っているだけの１時間でも、相当の苦痛になるだろう……。",
+              "translation": "I thought about holding my knees to my chest, but it hurt my back when I tried. I'm not as young as I used to be. Even though I and the rest of my class were made to sit on the floor clasping our knees in every PE class as grade schoolers, I now have to struggle just to sit down. Just sitting down here for an hour... will probably hurt a lot......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0351"
+            ],
+            "MG": [
+              "umi5_13-L0351"
+            ],
+            "UP": [
+              "umi5_13-L0351"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "体育座り is sitting on the floor with knees drawn up; she recalls being made to sit that way during elementary-school PE, contrasting current discomfort sitting and hugging knees.",
+      "alternative": "PE crouch is not that seated posture. Earlier English clutching knees and struggle to sit down partly reconstruct the action, but crouching recurs and changes the physical image.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-004",
+      "kind": "WH",
+      "description": "Receiving the family care becomes serving the family.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.relationship_power",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              400,
+              400
+            ],
+            "MG": [
+              400,
+              400
+            ],
+            "UP": [
+              400,
+              400
+            ]
+          },
+          "japanese": "１０年にもわたり、当家の世話になりながらッ………」",
+          "japanesePC": "「私が秋を好きだというのは、紗音しか知りえないこと...。......なら、......これは紗音がかかわっているという明白な証拠ではありませんか...！　それを、あの秋というカードが証明しています...！　......何と言うこと...。１０年にもわたり、当家の世話になりながらッ.........。」",
+          "japanesePS3": "１０年にもわたり、当家の世話になりながらッ………」",
+          "WH": "\"The fact that I like Fall can only be known by Shannon...  ......In that case, ......this is clear proof that Shannon is involved...!  That card with Fall on it is proof...!  ......Incredible...  Even though she's served the family for 10 years.........\"",
+          "MG": "Even though she's served the family for 10 years......\"",
+          "UP": "After ten years of being provided for by our family.........\"",
+          "note": "Complete documented351–490 review; parent checked385–390/433–445. Hold MG387 heard versus asked because 聞かれる permits both and subsequent husband inquiry does not decisively eliminate heard reading. Hold UP445 may only as concessive merely/current interior lock, not necessarily an exclusive mechanical capability; outside key action433–435 retained. Hold409 vital as major clue415/420 context. No proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0396",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0396"
+            ],
+            "MG": [
+              "umi5_13-L0396"
+            ],
+            "UP": [
+              "umi5_13-L0396"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私が秋を好きだというのは、紗音しか知りえないこと…。……なら、……これは紗音がかかわっているという明白な証拠ではありませんか…！　それを、あの秋というカードが証明しています…！　……何と言うこと…。１０年にもわたり、当家の世話になりながらッ………」",
+              "translation": "\"The fact that I like autumn can only be known by Shannon... ...In that case, ...this is clear proof that Shannon is involved...! That card with autumn on it is proof...! ...Outrageous... Even though she's served the family for 10 years......\" "
+            },
+            "UP": {
+              "japanese": "「私が秋を好きだというのは、紗音しか知りえないこと…。……なら、……これは紗音がかかわっているという明白な証拠ではありませんか…！　それを、あの秋というカードが証明しています…！　……何と言うこと…。１０年にもわたり、当家の世話になりながらッ………」",
+              "translation": "\"Only Shannon could know that I like autumn... ......In that case, ......this is clear proof that Shannon is involved...! That card with \"autumn\" on it is proof...! ......Incredible... After ten years of being provided for by our family.........\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0396"
+            ],
+            "MG": [
+              "umi5_13-L0396"
+            ],
+            "UP": [
+              "umi5_13-L0396"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "当家の世話になりながら accuses Shannon of betrayal despite having benefited from the household care for ten years.",
+      "alternative": "Shannon has served the family, but that reverses the recipient of care and changes Natsuhi appeal to indebtedness into an appeal to service tenure. The accusation and ten years remain.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-005",
+      "kind": "WH",
+      "description": "Farther inside the room becomes its center.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              454,
+              454
+            ],
+            "MG": [
+              454,
+              454
+            ],
+            "UP": [
+              454,
+              454
+            ]
+          },
+          "japanese": "どうかそのまま奥へ行って……！",
+          "japanesePC": "だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+          "japanesePS3": "どうかそのまま奥へ行って……！",
+          "WH": "So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet, and was deeply relieved.",
+          "MG": "Please keep going into the center of the room...!",
+          "UP": "Please keep going into the center of the room......!",
+          "note": "Complete documented351–490 review; parent checked385–390/433–445. Hold MG387 heard versus asked because 聞かれる permits both and subsequent husband inquiry does not decisively eliminate heard reading. Hold UP445 may only as concessive merely/current interior lock, not necessarily an exclusive mechanical capability; outside key action433–435 retained. Hold409 vital as major clue415/420 context. No proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_13-L0440",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0440"
+            ],
+            "MG": [
+              "umi5_13-L0440"
+            ],
+            "UP": [
+              "umi5_13-L0440"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "………まさか、…秀吉さんが、……黒幕…？！\nあるいは、その一味…？！私にこの部屋で危害を加えるつもりだろうか…？こちら側からの施錠とはいえ、チェーンロックを外すのに手間取る。……もし秀吉さんが私を逃すつもりがないのなら、私がもたもたとチェーンを外す時間を与えるわけがない…。ならば………、……今にもこのクローゼットをがばっと開き、……みすぼらしく座り込んだ私を見下ろし、……一体、どんな恐ろしい言葉を投げかけてくるというのか…。見つかりたくない見つかりたくない…。\nお願いだからクローゼットの前をそのまま通り過ぎて…。\nどうかそのまま奥へ行って……！彼の賑やかな足音を聞き逃すくらいに、頭の中は爆発しそうな鼓動音でいっぱいだった。だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+              "translation": "......Don't tell me... Hideyoshi-san... is the mastermind...?! Or else, an accomplice...?! Is he planning to do something to me in this room...? It would take some time to unlock the door from this side, much less remove the chain. ...If Hideyoshi-san doesn't intend to let me escape from here, he won't give me enough time to undo the chain... In that case, ...if he opens the closet door... and sees me crouching here pathetically, ...just what kind of fearsome words will he say...? I don't want to be found, I don't want to be found... I beg you, pass right on by the closet door... Please keep going into the center of the room...! My head was so filled with a throbbing sound that it felt like it was about to explode, and I almost missed hearing his noisy footsteps. So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet...and was deeply relieved. "
+            },
+            "UP": {
+              "japanese": "………まさか、…秀吉さんが、……黒幕…？！\nあるいは、その一味…？！私にこの部屋で危害を加えるつもりだろうか…？こちら側からの施錠とはいえ、チェーンロックを外すのに手間取る。……もし秀吉さんが私を逃すつもりがないのなら、私がもたもたとチェーンを外す時間を与えるわけがない…。ならば………、……今にもこのクローゼットをがばっと開き、……みすぼらしく座り込んだ私を見下ろし、……一体、どんな恐ろしい言葉を投げかけてくるというのか…。見つかりたくない見つかりたくない…。\nお願いだからクローゼットの前をそのまま通り過ぎて…。\nどうかそのまま奥へ行って……！彼の賑やかな足音を聞き逃すくらいに、頭の中は爆発しそうな鼓動音でいっぱいだった。だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+              "translation": ".........Don't tell me... ...Hideyoshi‐san... ...is the mastermind...?!\nOr else, an accomplice...?! Is he planning to do something to me in this room...? The door may only be locked from the inside, but it will still take some time to remove the chain. ......If Hideyoshi‐san doesn't intend to let me escape from here, there's no chance he'll give me time to fumble around with the chain... In that case......... ......when he opens the closet door wide in just a moment... ...and looks down upon me sitting here pathetically, ......just what kind of horrifying words will he say...? I don't want to be found, I don't want to be found...\nI beg you, pass right on by the closet door...\nPlease keep going into the center of the room......! My head was filled almost to bursting with a throbbing sound so loud that I almost missed hearing his noisy footsteps. So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet, and was deeply relieved."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0440"
+            ],
+            "MG": [
+              "umi5_13-L0440"
+            ],
+            "UP": [
+              "umi5_13-L0440"
+            ]
+          }
+        },
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              456,
+              457
+            ],
+            "MG": [
+              456,
+              457
+            ],
+            "UP": [
+              456,
+              457
+            ]
+          },
+          "japanese": "だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、\n彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+          "japanesePC": "だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+          "japanesePS3": "だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、\n彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+          "WH": "So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet, and was deeply relieved.",
+          "MG": "So when I heard a clunking sound coming from the center of the room,\nI finally realized that he'd passed by the closet...and was deeply relieved.",
+          "UP": "So when I heard a clunking sound coming from the center of the room,\nI finally realized that he'd passed by the closet, and was deeply relieved.",
+          "note": "Complete documented351–490 review; parent checked385–390/433–445. Hold MG387 heard versus asked because 聞かれる permits both and subsequent husband inquiry does not decisively eliminate heard reading. Hold UP445 may only as concessive merely/current interior lock, not necessarily an exclusive mechanical capability; outside key action433–435 retained. Hold409 vital as major clue415/420 context. No proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_13-L0440",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0440"
+            ],
+            "MG": [
+              "umi5_13-L0440"
+            ],
+            "UP": [
+              "umi5_13-L0440"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "………まさか、…秀吉さんが、……黒幕…？！\nあるいは、その一味…？！私にこの部屋で危害を加えるつもりだろうか…？こちら側からの施錠とはいえ、チェーンロックを外すのに手間取る。……もし秀吉さんが私を逃すつもりがないのなら、私がもたもたとチェーンを外す時間を与えるわけがない…。ならば………、……今にもこのクローゼットをがばっと開き、……みすぼらしく座り込んだ私を見下ろし、……一体、どんな恐ろしい言葉を投げかけてくるというのか…。見つかりたくない見つかりたくない…。\nお願いだからクローゼットの前をそのまま通り過ぎて…。\nどうかそのまま奥へ行って……！彼の賑やかな足音を聞き逃すくらいに、頭の中は爆発しそうな鼓動音でいっぱいだった。だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+              "translation": "......Don't tell me... Hideyoshi-san... is the mastermind...?! Or else, an accomplice...?! Is he planning to do something to me in this room...? It would take some time to unlock the door from this side, much less remove the chain. ...If Hideyoshi-san doesn't intend to let me escape from here, he won't give me enough time to undo the chain... In that case, ...if he opens the closet door... and sees me crouching here pathetically, ...just what kind of fearsome words will he say...? I don't want to be found, I don't want to be found... I beg you, pass right on by the closet door... Please keep going into the center of the room...! My head was so filled with a throbbing sound that it felt like it was about to explode, and I almost missed hearing his noisy footsteps. So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet...and was deeply relieved. "
+            },
+            "UP": {
+              "japanese": "………まさか、…秀吉さんが、……黒幕…？！\nあるいは、その一味…？！私にこの部屋で危害を加えるつもりだろうか…？こちら側からの施錠とはいえ、チェーンロックを外すのに手間取る。……もし秀吉さんが私を逃すつもりがないのなら、私がもたもたとチェーンを外す時間を与えるわけがない…。ならば………、……今にもこのクローゼットをがばっと開き、……みすぼらしく座り込んだ私を見下ろし、……一体、どんな恐ろしい言葉を投げかけてくるというのか…。見つかりたくない見つかりたくない…。\nお願いだからクローゼットの前をそのまま通り過ぎて…。\nどうかそのまま奥へ行って……！彼の賑やかな足音を聞き逃すくらいに、頭の中は爆発しそうな鼓動音でいっぱいだった。だから、ガタンガタンという音が、部屋の奥の方から聞こえてきた時、彼がクローゼットの前を無事に通り過ぎたものだと知り、深く安堵した。",
+              "translation": ".........Don't tell me... ...Hideyoshi‐san... ...is the mastermind...?!\nOr else, an accomplice...?! Is he planning to do something to me in this room...? The door may only be locked from the inside, but it will still take some time to remove the chain. ......If Hideyoshi‐san doesn't intend to let me escape from here, there's no chance he'll give me time to fumble around with the chain... In that case......... ......when he opens the closet door wide in just a moment... ...and looks down upon me sitting here pathetically, ......just what kind of horrifying words will he say...? I don't want to be found, I don't want to be found...\nI beg you, pass right on by the closet door...\nPlease keep going into the center of the room......! My head was filled almost to bursting with a throbbing sound so loud that I almost missed hearing his noisy footsteps. So when I heard a clunking sound coming from the center of the room, I finally realized that he'd passed by the closet, and was deeply relieved."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0440"
+            ],
+            "MG": [
+              "umi5_13-L0440"
+            ],
+            "UP": [
+              "umi5_13-L0440"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Natsuhi hears clunking from deeper within the room beyond the closet near the entrance. 奥の方 describes depth from that entrance, not the geometric center.",
+      "alternative": "Center could lie beyond the closet, so her inference that he passed it survives. English nevertheless specifies a midpoint where source gives depth/interior direction; the preceding plea also shifts 奥 to center.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-006",
+      "kind": "WH",
+      "description": "Feared mistreatment of corpses becomes unspecified action.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              681,
+              681
+            ],
+            "MG": [
+              681,
+              681
+            ],
+            "UP": [
+              681,
+              681
+            ]
+          },
+          "japanese": "犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない…！！",
+          "japanesePC": "「譲治たちの死体はそうしたらどうなったの？！　犯人にどこかへ持っていかれちゃったのよ？！　犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない...！！",
+          "japanesePS3": "犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない…！！",
+          "WH": "\"What happened to the other corpses?!  The culprit carried them off somewhere, right?!  It may be that the culprit isn't satisfied with just killing, but intends to do something with the corpses...!!",
+          "MG": "It may be that the culprit isn't satisfied with just killing, but intends to do something with the corpses...!!",
+          "UP": "It may be that the culprit isn't satisfied with just killing, but intends to do something with the bodies as well...!!",
+          "note": "Documented full591–730 review. Hold MG667 just like usual as contextual stock mystery scenario with668 preserving irritation; hold679 causal omission because678/680 recover it. Number-neutral windows allow singular/plural and explicit all-windows673 remains. No new firm independent error or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_13-L0679",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0679"
+            ],
+            "MG": [
+              "umi5_13-L0679"
+            ],
+            "UP": [
+              "umi5_13-L0679"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「譲治たちの死体はそうしたらどうなったの？！　犯人にどこかへ持っていかれちゃったのよ？！　犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない…！！　だから駄目ッ！　ここへ主人をひとりぼっちで残していくなんて絶対駄目！！」",
+              "translation": "\"What happened to the other corpses?! The culprit carried them off somewhere, right?! It may be that the culprit isn't satisfied with just killing, but intends to do something with the corpses...!! So no way! No way we're leaving my husband all alone here!!\" "
+            },
+            "UP": {
+              "japanese": "「譲治たちの死体はそうしたらどうなったの？！　犯人にどこかへ持っていかれちゃったのよ？！　犯人は、殺すだけじゃ飽き足らず、遺体にまで何か無体なことをするつもりなのかもしれない…！！　だから駄目ッ！　ここへ主人をひとりぼっちで残していくなんて絶対駄目！！」",
+              "translation": "\"What happened to the other corpses when we did that?! The culprit carried them off somewhere! It may be that the culprit isn't satisfied with just killing, but intends to do something with the bodies as well...!! So no way! No way we're leaving my husband all alone here!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0679"
+            ],
+            "MG": [
+              "umi5_13-L0679"
+            ],
+            "UP": [
+              "umi5_13-L0679"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva fears the killer may do something abusive or outrageous even to the corpses: 無体なこと. This motivates refusal to leave her husband body unattended.",
+      "alternative": "Something with the corpses retains unknown purpose and the surrounding killer framing implies menace, but drops the explicitly abusive nature of Eva fear.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-007",
+      "kind": "WH",
+      "description": "Explicitly fatal wounds become terrible wounds.",
+      "categories": [
+        "linguistic.omission",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              685,
+              685
+            ],
+            "MG": [
+              685,
+              685
+            ],
+            "UP": [
+              685,
+              685
+            ]
+          },
+          "japanese": "これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。",
+          "japanesePC": "これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。",
+          "japanesePS3": "これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。",
+          "WH": "After all, the victims before now have all been carried away after we were shown their terrible wounds.",
+          "MG": "After all, the victims before now have all been carried away after we were shown their terrible wounds.",
+          "UP": "After all, the prior victims were all carried away after we were shown their terrible and fatal wounds.",
+          "note": "Documented full591–730 review. Hold MG667 just like usual as contextual stock mystery scenario with668 preserving irritation; hold679 causal omission because678/680 recover it. Number-neutral windows allow singular/plural and explicit all-windows673 remains. No new firm independent error or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0684",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0684"
+            ],
+            "MG": [
+              "umi5_13-L0684"
+            ],
+            "UP": [
+              "umi5_13-L0684"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "確かに、絵羽の言い分もある。これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。",
+              "translation": "Eva does have a point. After all, the victims before now have all been carried away after we were shown their terrible wounds. "
+            },
+            "UP": {
+              "japanese": "確かに、絵羽の言い分もある。これまでの犠牲者は、無残な致命傷を与えた遺体を見せ付けた後、必ず運び去られているからだ。",
+              "translation": "Eva did have a point. After all, the prior victims were all carried away after we were shown their terrible and fatal wounds."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0684"
+            ],
+            "MG": [
+              "umi5_13-L0684"
+            ],
+            "UP": [
+              "umi5_13-L0684"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narration says previous victims were shown with gruesome fatal wounds before always being carried away. 致命傷 expressly marks lethality.",
+      "alternative": "Victims and corpses nearby imply death, and earlier death reds are preserved. Terrible alone nevertheless omits the explicit fatal characterization in the local explanation for Eva concern.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-008",
+      "kind": "WH",
+      "description": "Important announcement after review becomes already completed review.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "linguistic.logical_relation",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              860,
+              860
+            ],
+            "MG": [
+              860,
+              860
+            ],
+            "UP": [
+              860,
+              860
+            ]
+          },
+          "japanese": "「整理した上で、重要なお話があるのです。",
+          "japanesePC": "「整理した上で、重要なお話があるのです。あなたにも誰にも、断る権利はありません。」",
+          "japanesePS3": "「整理した上で、重要なお話があるのです。",
+          "WH": "\"Since I have it all laid out, this is a very important thing to discuss.  Neither you nor anyone else has the right to refuse.\"",
+          "MG": "\"Since I have it all laid out, this is a very important thing to discuss.",
+          "UP": "\"I have something very important to say once I've cleared everything up.",
+          "note": "Complete documented831–970 review. Hold UP955 tribulations as mental anguish supported hesitation945–949 and hope958–962; hold942 recognizing mistake as contextual self-reflection. Hundred919 is rhetorical repetition with hundreds924 retained. No firm independent new defect or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0860",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0860"
+            ],
+            "MG": [
+              "umi5_13-L0860"
+            ],
+            "UP": [
+              "umi5_13-L0860"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「整理した上で、重要なお話があるのです。あなたにも誰にも、断る権利はありません」",
+              "translation": "\"Since I have it all laid out, this is a very important thing to discuss. Neither you nor anyone else has the right to refuse.\" "
+            },
+            "UP": {
+              "japanese": "「整理した上で、重要なお話があるのです。あなたにも誰にも、断る権利はありません」",
+              "translation": "\"I have something very important to say once I've cleared everything up. Neither you nor anyone else has the right to refuse.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0860"
+            ],
+            "MG": [
+              "umi5_13-L0860"
+            ],
+            "UP": [
+              "umi5_13-L0860"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Erika has an important announcement to make after organizing or reviewing the events with everyone. 整理した上で specifies the procedural prerequisite.",
+      "alternative": "Since I have it all laid out asserts preparation already complete and changes the relation to an explanation of importance. Earlier proposal to lay everything out still preserves the coming review.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-009",
+      "kind": "WH",
+      "description": "Battler taking over his piece becomes control of the pieces.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.world_layer",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              903,
+              903
+            ],
+            "MG": [
+              903,
+              903
+            ],
+            "UP": [
+              903,
+              903
+            ]
+          },
+          "japanese": "駒のコントロールが戦人に引き継がれる。",
+          "japanesePC": "もうじき、戦人が第５のゲームに参加した時間になるので、駒のコントロールが戦人に引き継がれる。",
+          "japanesePS3": "駒のコントロールが戦人に引き継がれる。",
+          "WH": "It would very soon reach the time that Battler had joined in on the 5th game, and control of the pieces would be passed on to Battler.",
+          "MG": "and control of the pieces would be passed on to Battler.",
+          "UP": "and control of his piece would be passed on to him.",
+          "note": "Complete documented831–970 review. Hold UP955 tribulations as mental anguish supported hesitation945–949 and hope958–962; hold942 recognizing mistake as contextual self-reflection. Hundred919 is rhetorical repetition with hundreds924 retained. No firm independent new defect or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0900",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0900"
+            ],
+            "MG": [
+              "umi5_13-L0900"
+            ],
+            "UP": [
+              "umi5_13-L0900"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……黄金郷は、いつまでも終わらない雨が、降り続いている。戦人の姿はない。もうじき、戦人が第５のゲームに参加した時間になるので、駒のコントロールが戦人に引き継がれる。つまり、ベルンカステルが、犯人を特定したというこの終局の段階になって、ようやくゲームへの参加が認められたというわけだ。だからついさっき、この東屋を出て行った。今、姿があるのは、黙々と編み物を続けるワルギリアと、……カップに口も付けずに、…ただぼんやりと紅茶の香りの中、まどろむような表情を浮かべるベアトだけだ……。",
+              "translation": "...In the Golden Land, the endless rain continued to fall. Battler was nowhere to be seen. It would very soon reach the time that Battler had joined in on the 5th game, and control of the pieces would be passed on to Battler. In other words, he would only be officially added to the game now, in this final stage, where Bernkastel had pinpointed the culprit. So, he had left the arbor a short while ago. Now, the only ones in sight were Virgilia, who continued to knit silently, ......and Beato, ...who just sat there blankly amidst the smell of her black tea, not even putting the cup to her lips...... "
+            },
+            "UP": {
+              "japanese": "……黄金郷は、いつまでも終わらない雨が、降り続いている。戦人の姿はない。もうじき、戦人が第５のゲームに参加した時間になるので、駒のコントロールが戦人に引き継がれる。つまり、ベルンカステルが、犯人を特定したというこの終局の段階になって、ようやくゲームへの参加が認められたというわけだ。だからついさっき、この東屋を出て行った。今、姿があるのは、黙々と編み物を続けるワルギリアと、……カップに口も付けずに、…ただぼんやりと紅茶の香りの中、まどろむような表情を浮かべるベアトだけだ……。",
+              "translation": "......In the Golden Land, the endless rain continued to fall. Battler was nowhere to be seen. It would very soon reach the time when Battler had joined in on the fifth game, and control of his piece would be passed on to him. In other words, only now, in this final stage of the game when Bernkastel had pinpointed the culprit, was Battler finally going to be allowed to participate. He had left the arbor a short while ago for that reason. Now, the only ones in sight were Virgilia, who continued to knit silently, ......and Beato, ...who just sat there blankly amidst the smell of her black tea, not even putting the cup to her lips......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0900"
+            ],
+            "MG": [
+              "umi5_13-L0900"
+            ],
+            "UP": [
+              "umi5_13-L0900"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "At the point when Battler joined game5, control of the Battler piece passes to him, continuing the explicit own-piece discussion at396xx. Japanese number is unstated but the personal participation context identifies the piece.",
+      "alternative": "Japanese 駒 can be plural in isolation. Here English definite pieces broadens to a group without qualification, unlike the established personal piece transfer. It does not explicitly say all pieces, so that maximal claim is not assigned.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-010",
+      "kind": "WH",
+      "description": "Embracing him in descent becomes grabbing him.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.relationship_power",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              954,
+              954
+            ],
+            "MG": [
+              954,
+              954
+            ],
+            "UP": [
+              954,
+              954
+            ]
+          },
+          "japanese": "彼の手を取って天国へ昇るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない」",
+          "japanesePC": "「私はワルギリア。彼を煉獄山に案内し、頂上のあなたのところまで連れて来ました。......そしてあなたはベアトリーチェ。彼の手を取って天国へ登るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない。」",
+          "japanesePS3": "彼の手を取って天国へ昇るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない」",
+          "WH": "\"I am Virgilia.  I have guided him through Purgatory and brought him to you at its peak.  ......And you are Beatrice.  You must choose whether to take his hand and rise up to heaven or grab him and fall into hell.\"",
+          "MG": "You must choose whether to take his hand and rise up to heaven or grab him and fall into hell.\"",
+          "UP": "You must choose whether to take his hand and rise up to heaven, or embrace him and fall into hell.\"",
+          "note": "Complete documented831–970 review. Hold UP955 tribulations as mental anguish supported hesitation945–949 and hope958–962; hold942 recognizing mistake as contextual self-reflection. Hundred919 is rhetorical repetition with hundreds924 retained. No firm independent new defect or proven yellow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0951",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0951"
+            ],
+            "MG": [
+              "umi5_13-L0951"
+            ],
+            "UP": [
+              "umi5_13-L0951"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私はワルギリア。彼を煉獄山に案内し、頂上のあなたのところまで連れて来ました。……そしてあなたはベアトリーチェ。彼の手を取って天国へ昇るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない」",
+              "translation": "\"I am Virgilia. I have guided him through Purgatory and brought him to you at its peak. ...And you are Beatrice. You must choose whether to take his hand and rise up to heaven or grab him and fall into hell.\" "
+            },
+            "UP": {
+              "japanese": "「私はワルギリア。彼を煉獄山に案内し、頂上のあなたのところまで連れて来ました。……そしてあなたはベアトリーチェ。彼の手を取って天国へ昇るか、彼を抱いて地獄へ堕ちるか、選ばなくてはならない」",
+              "translation": "\"I am Virgilia. I have guided him through Purgatory and brought him to you at its peak. ......And you are Beatrice. You must choose whether to take his hand and rise up to heaven, or embrace him and fall into hell.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0951"
+            ],
+            "MG": [
+              "umi5_13-L0951"
+            ],
+            "UP": [
+              "umi5_13-L0951"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Virgilia asks Beatrice to choose between taking his hand into heaven and holding or embracing him while falling into hell. 抱いて supplies an intimate bodily image.",
+      "alternative": "Grab can mean hold, but ordinarily expresses seizing rather than embracing. The shared descent remains; intimate contrast with taking his hand is reduced.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-011",
+      "kind": "WH",
+      "description": "Lingering attachment to hope becomes regrets caused by hope.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "world.literary_reference"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              965,
+              965
+            ],
+            "MG": [
+              965,
+              965
+            ],
+            "UP": [
+              965,
+              965
+            ]
+          },
+          "japanese": "……淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。",
+          "japanesePC": "「飛びなさい。煉獄の崖より。......淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。怖いでしょう？　箱を開けるのは。」",
+          "japanesePS3": "……淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。",
+          "WH": "\"Fly.  Fly from the cliffs of Purgatory.  ......Take with you the regrets caused by your fleeting, fragile, foolish hopes and open up Pandora's box.  Are you scared?  Scared of opening the box?\"",
+          "MG": "...Take with you the regrets caused by your fleeting, fragile, foolish hopes and open up Pandora's box.",
+          "UP": "......Cast open Pandora's box, and cast aside your fleeting, fragile, foolish hope and all the longing it brings.",
+          "note": "Full documented951–981 tail review. UP965 restores longing rather than regret, with cast aside as contextual relinquishing attachment before leap/opening cat box. Funeral972 broadly conveys memorial rite; ellipsis979–981 is grammatical rhetorical wish. No firm new defect or proven yellow. All11 original parents independently linked; supplements follow.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0963",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0963"
+            ],
+            "MG": [
+              "umi5_13-L0963"
+            ],
+            "UP": [
+              "umi5_13-L0963"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「飛びなさい。煉獄の崖より。……淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。怖いでしょう？　箱を開けるのは」",
+              "translation": "\"Fly. Fly from the cliffs of Purgatory. ...Take with you the regrets caused by your fleeting, fragile, foolish hopes and open up Pandora's box. Are you scared? Scared of opening the box?\" "
+            },
+            "UP": {
+              "japanese": "「飛びなさい。煉獄の崖より。……淡く脆くて下らない希望の未練ごと、パンドラの箱を開け放ってしまいなさい。怖いでしょう？　箱を開けるのは」",
+              "translation": "\"Leap. Leap from the cliff of Purgatory. ......Cast open Pandora's box, and cast aside your fleeting, fragile, foolish hope and all the longing it brings. You're afraid, aren't you? Of opening the box.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0963"
+            ],
+            "MG": [
+              "umi5_13-L0963"
+            ],
+            "UP": [
+              "umi5_13-L0963"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "希望の未練 is lingering attachment to fragile hope; she is urged to open Pandora box with that attachment implicated. It is not remorse produced by having hoped.",
+      "alternative": "Regrets can sometimes denote reluctance to part, but caused by hopes gives a retrospective regret relation instead of continued inability to let hope go. Previous hope-as-torture explanation partly restores the intended state.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-012",
+      "kind": "WH",
+      "description": "WH uses had hid instead of had hidden for hiding the corpses.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              88,
+              88
+            ],
+            "MG": [
+              88,
+              88
+            ],
+            "UP": [
+              88,
+              88
+            ]
+          },
+          "japanese": "赤を使わせないために、こうして死体を隠したはずなのに…。",
+          "japanesePC": "赤を使わせないために、こうして死体を隠したはずなのに...。",
+          "japanesePS3": "赤を使わせないために、こうして死体を隠したはずなのに…。",
+          "WH": "But they had hid the corpses here so that no one could use the red...",
+          "MG": "But they'd hid the corpses here...specifically so that no one would be able to use the red...",
+          "UP": "But they had hidden the corpses here so that no one could use the red...",
+          "note": "Original PC and coherent paired context verified under ep05-ch13-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi5_13-L0088",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0088"
+            ],
+            "MG": [
+              "umi5_13-L0088"
+            ],
+            "UP": [
+              "umi5_13-L0088"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "赤を使わせないために、こうして死体を隠したはずなのに…。しかし、ロノウェの言うとおり、ワルギリアは常にベアトリーチェのことを第一にしている。せっかくの消失死体を赤で確定されてしまい、ガァプはわずかに不満そうな表情を見せる。だが、最後には客人の分を弁え、肩を竦めるのだった。",
+              "translation": "But they'd hid the corpses here...specifically so that no one would be able to use the red... However, Ronove was right. Virgilia always thought of Beatrice first. A slightly displeased expression rose to Gaap's face as she saw that the corpses she'd gone to such lengths to hide had now been confirmed dead in red. However, in the end, she remembered that she was only a guest and shrugged. "
+            },
+            "UP": {
+              "japanese": "赤を使わせないために、こうして死体を隠したはずなのに…。しかし、ロノウェの言うとおり、ワルギリアは常にベアトリーチェのことを第一にしている。せっかくの消失死体を赤で確定されてしまい、ガァプはわずかに不満そうな表情を見せる。だが、最後には客人の分を弁え、肩を竦めるのだった。",
+              "translation": "But they had hidden the corpses here so that no one could use the red... Despite that, however, Ronove was right—Virgilia always thought of Beatrice first. The way that these corpses, which Gaap had gone to all the trouble of erasing, had now been confirmed with the red made a slightly displeased expression rise to Gaap's face. However, in the end she remembered that she was only a guest and shrugged."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0088"
+            ],
+            "MG": [
+              "umi5_13-L0088"
+            ],
+            "UP": [
+              "umi5_13-L0088"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Past perfect hide requires participle hidden.",
+      "alternative": "The action remains clear; local standard grammar defect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-013",
+      "kind": "WH",
+      "description": "WH changes someone who has not obtained victory into someone who cannot achieve victory.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              128,
+              128
+            ],
+            "MG": [
+              128,
+              128
+            ],
+            "UP": [
+              128,
+              128
+            ]
+          },
+          "japanese": "勝利を得ぬ者が欲すれば毒にしかなりませんよ」",
+          "japanesePC": "「ですな。しかし、美しさとは勝利の先に望むもの。勝利を得ぬ者が欲すれば毒にしかなりませんよ。」",
+          "japanesePS3": "勝利を得ぬ者が欲すれば毒にしかなりませんよ」",
+          "WH": "\"True.  However, beauty is something to be found after we win.  If someone who cannot achieve victory seeks it, it is nothing but a poison to them.\"",
+          "MG": "When those without victory seek it, it is naught but poison.\"",
+          "UP": "If someone who cannot achieve victory seeks it, it is nothing but a poison to them.\"",
+          "note": "Original PC and coherent paired context verified under ep05-ch13-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_13-L0126",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0126"
+            ],
+            "MG": [
+              "umi5_13-L0126"
+            ],
+            "UP": [
+              "umi5_13-L0126"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ですな。しかし、美しさとは勝利の先に望むもの。勝利を得ぬ者が欲すれば毒にしかなりませんよ」",
+              "translation": "\"True. However, beauty is something to be sought only after victory. When those without victory seek it, it is naught but poison.\" "
+            },
+            "UP": {
+              "japanese": "「ですな。しかし、美しさとは勝利の先に望むもの。勝利を得ぬ者が欲すれば毒にしかなりませんよ」",
+              "translation": "\"True. However, beauty is secondary to victory. If someone who cannot achieve victory seeks it, it is nothing but a poison to them.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0126"
+            ],
+            "MG": [
+              "umi5_13-L0126"
+            ],
+            "UP": [
+              "umi5_13-L0126"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "勝利を得ぬ者 denotes absence of victory in the warning to seek beauty after winning, not inherent incapacity.",
+      "alternative": "Lack of victory and inability to win can overlap practically, but the source status does not assert inability.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP05-CH13-014",
+      "kind": "WH",
+      "description": "WH leaves Perhaps it would be better if you unfinished without the source explicit staying here with everyone.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              220,
+              220
+            ],
+            "MG": [
+              220,
+              220
+            ],
+            "UP": [
+              220,
+              220
+            ]
+          },
+          "japanese": "ここにみんなで一緒にいた方が……」",
+          "japanesePC": "「......夏妃さん、ひとりになるのは危険だ...。ここにみんなで一緒にいた方が......。」",
+          "japanesePS3": "ここにみんなで一緒にいた方が……」",
+          "WH": "\"......Natsuhi-san, it's dangerous to be alone...  Perhaps it would be better if you......\"",
+          "MG": "Perhaps it would be better if we all stayed here...\"",
+          "UP": "Perhaps it would be better if you......\"",
+          "note": "Original PC and coherent paired context verified under ep05-ch13-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi5_13-L0219",
+          "readerRefs": {
+            "WH": [
+              "umi5_13-L0219"
+            ],
+            "MG": [
+              "umi5_13-L0219"
+            ],
+            "UP": [
+              "umi5_13-L0219"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……夏妃さん、ひとりになるのは危険だ…。ここにみんなで一緒にいた方が……」",
+              "translation": "\"...Natsuhi-san, it's dangerous to go alone... Perhaps it would be better if we all stayed here...\" "
+            },
+            "UP": {
+              "japanese": "「……夏妃さん、ひとりになるのは危険だ…。ここにみんなで一緒にいた方が……」",
+              "translation": "\"......Natsuhi‐san, it's dangerous to be alone... Perhaps it would be better if you......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi5_13-L0219"
+            ],
+            "MG": [
+              "umi5_13-L0219"
+            ],
+            "UP": [
+              "umi5_13-L0219"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ここにみんなで一緒にいた方が explicitly proposes collective presence here before the trailing hesitation.",
+      "alternative": "Danger of being alone219 implies some company, but does not replace the explicit location and proposed group action.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP05-CH13-481-600-001",
+      "kind": "additional",
+      "description": "UP changes Natsuhi unwary emergence from hiding into shameless emergence.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi5_13",
+          "episode": 5,
+          "rows": {
+            "JP": [
+              582,
+              582
+            ],
+            "MG": [
+              582,
+              582
+            ],
+            "UP": [
+              582,
+              582
+            ]
+          },
+          "japanese": "…私がのこのこと出てくるのを待ち受けているのでは……。",
+          "japanesePC": "",
+          "japanesePS3": "…私がのこのこと出てくるのを待ち受けているのでは……。",
+          "WH": "",
+          "MG": "...waiting for me to stumble out...?",
+          "UP": "waiting for me to shamelessly come out......?",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi5_13-L0571",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_13-L0571"
+            ],
+            "UP": [
+              "umi5_13-L0571"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その時には、もう部屋は静まり返っていて、……さきほどまでの、取っ組み合うような秀吉の賑やかな気配は、一切消え去っていた。これは、………どういうこと……？！今、私は、……秀吉さんを殺した、殺人者と同じ部屋に一緒にいるということ……？！なら、犯人は早くこの部屋から逃げ出せばいいのに、……どうして息を殺しているの…？！秀吉さんを襲った犯人が、慌しく逃げ出していくらしい音は、……まるで何も聞こえない。……どんなに耳を凝らしても、室内に何かの気配はない。それどころか、今の出来事が全て、幻だったのではないかと思うほどに、……静寂。それはつまり、………まさか犯人が、……息を殺したまま、…このクローゼットの前に立ちはだかり、…私がのこのこと出てくるのを待ち受けているのでは……。もはや私は、何に怯えていいのかわからない。いっそこのクローゼットの暗闇に、溶け込むようにして消えてしまえればいいのに…！これ以上、この部屋に留まってはいけない。\n身の危険だけでなく、色々とまずい気がする…。でも、どうすれば？！私には、このクローゼットを出てよいのかさえわからない…！！",
+              "translation": "By this time, the room had settled back into silence, ...and that earlier sense of Hideyoshi being in a noisy struggle had disappeared completely. What's......going on here...?! So, right now, ...I'm in the same room as the murderer who killed Hideyoshi-san...?! In that case, the culprit should try to escape from the room as soon as possible, ...so why are they hiding in here...?! I haven't heard anything... Nothing that might've been the culprit who attacked Hideyoshi-san rushing away. ...No matter how much I strain my ears, I can't sense anyone in the room. In fact, ...it's so silent that it makes what happened just a second ago feel like an illusion. In other words, ......does this mean...that the culprit is hiding his breath, ...standing just outside this closet, ...waiting for me to stumble out...? I don't even know what I should be scared of anymore. If only I could just melt away into the darkness of this closet...! I mustn't remain in this room any longer. I get the feeling I have more to worry about than just my personal safety... But what should I do?! I don't even know if it's a good idea to leave this closet...!! "
+            },
+            "UP": {
+              "japanese": "その時には、もう部屋は静まり返っていて、……さきほどまでの、取っ組み合うような秀吉の賑やかな気配は、一切消え去っていた。これは、………どういうこと……？！今、私は、……秀吉さんを殺した、殺人者と同じ部屋に一緒にいるということ……？！なら、犯人は早くこの部屋から逃げ出せばいいのに、……どうして息を殺しているの…？！秀吉さんを襲った犯人が、慌しく逃げ出していくらしい音は、……まるで何も聞こえない。……どんなに耳を凝らしても、室内に何かの気配はない。それどころか、今の出来事が全て、幻だったのではないかと思うほどに、……静寂。それはつまり、………まさか犯人が、……息を殺したまま、…このクローゼットの前に立ちはだかり、…私がのこのこと出てくるのを待ち受けているのでは……。もはや私は、何に怯えていいのかわからない。いっそこのクローゼットの暗闇に、溶け込むようにして消えてしまえればいいのに…！これ以上、この部屋に留まってはいけない。\n身の危険だけでなく、色々とまずい気がする…。でも、どうすれば？！私には、このクローゼットを出てよいのかさえわからない…！！",
+              "translation": "By this time, the room had settled back into silence, ......and that earlier feeling of Hideyoshi being in a noisy struggle had disappeared completely. What's.........going on here......?! So, right now, ......I'm in the same room as the murderer who killed Hideyoshi‐san......?! In that case, the culprit should try to escape from the room as soon as possible, ......so why are they staying so quiet in here...?! I haven't heard anything, ......nothing that might have been the culprit who attacked Hideyoshi‐san rushing away. ......No matter how much I strain my ears, I can't sense anyone in the room. In fact, ......it's so silent that it makes what happened just a second ago feel like an illusion. In other words, .........does this mean......that the culprit is holding his breath, standing right in front of this closet... waiting for me to shamelessly come out......? I don't even know what to be scared of anymore. If only I could just melt away into the darkness of this closet...! I mustn't remain in this room any longer.\nI get the feeling I have more to worry about than just my personal safety... But what should I do?! I don't even know if it's a good idea to leave this closet...!!"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi5_13-L0571"
+            ],
+            "UP": [
+              "umi5_13-L0571"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "のこのこと出てくる here describes walking unsuspectingly into the feared killer waiting outside her closet. PC44070–44071 and MG use stumble out; UP shamelessly supplies a lack-of-shame assessment.",
+      "alternative": "のこのこ can connote brazenly showing up in other contexts. Here578–585 emphasize concealed danger and fear of leaving, favoring unwary movement over shame; no actual killer presence or emotional diagnosis is certified.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP05-CH13-001": {
+      "umi5_13-L0031": {
+        "WH": [
+          "know the truth"
+        ],
+        "UP": [
+          "know the truth"
+        ],
+        "MG": [
+          "know the truth"
+        ]
+      }
+    },
+    "WH-EP05-CH13-002": {
+      "umi5_13-L0290": {
+        "WH": [
+          "hold off any single ruffian indefinitely"
+        ],
+        "MG": [
+          "hold off any single ruffian indefinitely"
+        ],
+        "UP": [
+          "hold off any single ruffian indefinitely"
+        ]
+      }
+    },
+    "WH-EP05-CH13-003": {
+      "umi5_13-L0351": {
+        "WH": [
+          "a PE crouch"
+        ]
+      }
+    },
+    "WH-EP05-CH13-004": {
+      "umi5_13-L0396": {
+        "WH": [
+          "she's served the family for 10 years"
+        ],
+        "MG": [
+          "she's served the family for 10 years"
+        ]
+      }
+    },
+    "WH-EP05-CH13-005": {
+      "umi5_13-L0440": {
+        "WH": [
+          "going into the center of the room",
+          "coming from the center of the room"
+        ],
+        "MG": [
+          "going into the center of the room",
+          "coming from the center of the room"
+        ],
+        "UP": [
+          "going into the center of the room",
+          "coming from the center of the room"
+        ]
+      }
+    },
+    "WH-EP05-CH13-006": {
+      "umi5_13-L0679": {
+        "WH": [
+          "do something with the corpses"
+        ],
+        "MG": [
+          "do something with the corpses"
+        ],
+        "UP": [
+          "do something with the bodies"
+        ]
+      }
+    },
+    "WH-EP05-CH13-007": {
+      "umi5_13-L0684": {
+        "WH": [
+          "terrible wounds"
+        ],
+        "MG": [
+          "terrible wounds"
+        ]
+      }
+    },
+    "WH-EP05-CH13-008": {
+      "umi5_13-L0860": {
+        "WH": [
+          "Since I have it all laid out"
+        ],
+        "MG": [
+          "Since I have it all laid out"
+        ]
+      }
+    },
+    "WH-EP05-CH13-009": {
+      "umi5_13-L0900": {
+        "WH": [
+          "control of the pieces"
+        ],
+        "MG": [
+          "control of the pieces"
+        ]
+      }
+    },
+    "WH-EP05-CH13-010": {
+      "umi5_13-L0951": {
+        "WH": [
+          "grab him"
+        ],
+        "MG": [
+          "grab him"
+        ]
+      }
+    },
+    "WH-EP05-CH13-011": {
+      "umi5_13-L0963": {
+        "WH": [
+          "the regrets caused by your fleeting, fragile, foolish hopes"
+        ],
+        "MG": [
+          "the regrets caused by your fleeting, fragile, foolish hopes"
+        ]
+      }
+    },
+    "WH-EP05-CH13-012": {
+      "umi5_13-L0088": {
+        "WH": [
+          "had hid"
+        ],
+        "MG": [
+          "they'd hid"
+        ]
+      }
+    },
+    "WH-EP05-CH13-013": {
+      "umi5_13-L0126": {
+        "WH": [
+          "cannot achieve victory"
+        ],
+        "UP": [
+          "cannot achieve victory"
+        ]
+      }
+    },
+    "WH-EP05-CH13-014": {
+      "umi5_13-L0219": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Proposal to stay here together with everyone is absent after the unfinished if you."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "Proposal to stay here together with everyone is absent after the unfinished if you."
+        }
+      }
+    },
+    "PAIR-EP05-CH13-481-600-001": {
+      "umi5_13-L0571": {
+        "UP": [
+          "shamelessly come out"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

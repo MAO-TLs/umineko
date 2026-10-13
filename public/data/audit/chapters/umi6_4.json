@@ -1,1 +1,1206 @@
-{"findings":[{"id":"WH-EP06-CH04-001","kind":"WH","description":"WH makes Krauss say Erika sounds as though she wants a bizarre crime to occur.","categories":["linguistic.wrong_subject","character.motivation_emotion","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[16,16],"MG":[16,16],"UP":[16,16]},"japanese":"むしろ何か、怪事件が起こって欲しいものだね。","japanesePC":"「頼もしいじゃないか。むしろ何か、怪事件が起こって欲しいものだね。犠牲者役は御免被るが。」","japanesePS3":"むしろ何か、怪事件が起こって欲しいものだね。","WH":"\"How reassuring.  It almost sounds as though you want a bizarre crime to occur.  I hope I don't have to play the part of the victim.\"","MG":"It almost sounds as though you want a bizarre crime to occur.","UP":"In fact, I would quite enjoy it if some kind of bizarre incident were to occur now.","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_4-L0015","readerRefs":{"WH":["umi6_4-L0015"],"MG":["umi6_4-L0015"],"UP":["umi6_4-L0015"]}}],"sourceReading":"むしろ何か、怪事件が起こって欲しいものだね expresses Krauss’s own joking wish, immediately qualified by not wanting the victim role. Natsuhi then rebukes him.","alternative":"He is replying to Erika’s assurance, but the desire predicate belongs to his own playful statement, not a report of her intentions. The wife’s rebuke particularly supports that reading.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-002","kind":"WH","description":"WH has Erika state that she does not read as much as Battler.","categories":["linguistic.logical_relation","character.knowledge_boundary","character.irony_performance"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[46,46],"MG":[46,46],"UP":[46,46]},"japanese":"私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです」","japanesePC":"私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです。」","japanesePS3":"私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです」","WH":"I don't read as much as you, so I get the feeling you'd beat me in an argument.\"","MG":"I guess I'll need to read at least as much as you, or else I'd probably lose in an argument.\"","UP":"It seems I need to read at least as much as you before I'll be able to beat you in an argument.\"","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_4-L0044","readerRefs":{"WH":["umi6_4-L0044"],"MG":["umi6_4-L0044"],"UP":["umi6_4-L0044"]}}],"sourceReading":"戦人さん程度には本を読まないと is unless I read at least as much as someone of your level, I may be argued down; it does not assert her actual lower reading volume.","alternative":"The conditional may insinuate the need to read more, but in a sarcastic concession does not establish an objective comparison. Her subsequent irritation depends on recognizing Battler as an avid reader despite his denial.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-003","kind":"WH","description":"WH omits equal from Ange’s challenge about eight-way division.","categories":["linguistic.omission","mystery.argument_reconstruction","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[205,205],"MG":[205,205],"UP":[205,205]},"japanese":"３回未満でどうやって８等分するのよ」","japanesePC":"「出来るわけないわ。お兄ちゃんの勘違いでしょ。３回未満でどうやって８等分するのよ。」","japanesePS3":"３回未満でどうやって８等分するのよ」","WH":"\"That's impossible.  Onii-chan got it wrong, didn't he?  How could you cut it into eight pieces with less than three slices?\"","MG":"How could you cut it into eight pieces with less than three slices?\"","UP":"How could you cut it into eight pieces with less than three slices?\"","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_4-L0203","readerRefs":{"WH":["umi6_4-L0203"],"MG":["umi6_4-L0203"],"UP":["umi6_4-L0203"]}}],"sourceReading":"８等分 explicitly demands eight equal parts; Featherine then corrects her for adding equality to the stated eight-pieces problem.","alternative":"Readers may normally assume equal portions, but omitting it from the actual objection makes the next correction respond to a claim Ange has not stated.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-004","kind":"WH","description":"WH blames the people who made the book rather than the questioner.","categories":["linguistic.wrong_subject","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[219,219],"MG":[219,219],"UP":[219,219]},"japanese":"出題者のミスです。","japanesePC":"「......チーズの形状に条件は示されませんでした。出題者のミスです。","japanesePS3":"出題者のミスです。","WH":"\"......The shape of the cheese isn't specified in the rules.  A mistake by the ones who made the book.","MG":"A mistake by the ones who made the book.","UP":"A mistake by the ones who made the book.","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_4-L0218","readerRefs":{"WH":["umi6_4-L0218"],"MG":["umi6_4-L0218"],"UP":["umi6_4-L0218"]}},{"chapter":"umi6_4","episode":6,"rows":{"JP":[261,261],"MG":[261,261],"UP":[261,261]},"japanese":"その双方の答えをすでに用意し、出題者の粗まで着目していたヱリカ。","japanesePC":"「......チーズの形状に条件は示されませんでした。出題者のミスです。","japanesePS3":"その双方の答えをすでに用意し、出題者の粗まで着目していたヱリカ。","WH":"\"......The shape of the cheese isn't specified in the rules.  A mistake by the ones who made the book.","MG":"Erika had already known both answers and had even spotted a mistake made by the book.","UP":"Erika had already known both answers and had even spotted a mistake made by the book.","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_4-L0259","readerRefs":{"WH":["umi6_4-L0218"],"MG":["umi6_4-L0259"],"UP":["umi6_4-L0259"]}}],"sourceReading":"出題者のミス identifies the questioner’s mistake in posing the problem without shape. The book then proves to contain the specifying cylinder illustration, which was not shown.","alternative":"Questioner may denote an original puzzle author in other settings, but the immediate contrast here is between the oral presentation and the book’s explicitly present illustration.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-005","kind":"WH","description":"WH calls the method constructing gaps in closed rooms.","categories":["linguistic.idiom_calque","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[270,270],"MG":[270,270],"UP":[270,270]},"japanese":"……魔女の密室の間隙を縫う基本中の基本」","japanesePC":"......条件なき問題、即ち赤き真実の外側は全て、観測者の自由自在。......魔女の密室の間隙を縫う基本中の基本。」","japanesePS3":"……魔女の密室の間隙を縫う基本中の基本」","WH":"......Puzzles without specified rules--in other words, all things not covered by the red truth--are left to the observer's interpretation.  ......It's the most basic of methods for constructing gaps in the witch's closed rooms.\"","MG":"...It's the most basic of methods for constructing gaps in the witch's closed rooms.\"","UP":"......It's the most basic of methods for constructing gaps in the witch's locked rooms.\"","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_4-L0268","readerRefs":{"WH":["umi6_4-L0268"],"MG":["umi6_4-L0268"],"UP":["umi6_4-L0268"]}}],"sourceReading":"魔女の密室の間隙を縫う means threading through or exploiting gaps in the witch’s closed rooms; the observer exercises freedom outside red constraints.","alternative":"An interpretation can construct a counterexample, but this does not mean constructing gaps in the rooms themselves, and the source describes exploiting an opening.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-006","kind":"WH","description":"WH turns my chopstick handling is art into for me using chopsticks is an art.","categories":["linguistic.wrong_subject","character.voice_state","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[302,302],"MG":[302,302],"UP":[302,302]},"japanese":"私の箸使いこそが芸術ッ」","japanesePC":"えぇそうです、お箸です。お箸は世界でもっとも優雅な食器です。突き刺し、引き千切って口に運ぶナイフとフォークなんて野蛮の極み！　お箸こそが最高です。私の箸使いこそが芸術ッ。」","japanesePS3":"私の箸使いこそが芸術ッ」","WH":"Yes, chopsticks, that's right.  Chopsticks are the most elegant utensil on the planet.  Poking things and chopping them up with forks and knives is so barbaric!  Chopsticks are the best.  For me, using chopsticks is truly an art.\"","MG":"For me, using chopsticks is truly an art.\"","UP":"For me, using chopsticks is truly an art.\"","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_4-L0297","readerRefs":{"WH":["umi6_4-L0297"],"MG":["umi6_4-L0297"],"UP":["umi6_4-L0297"]}}],"sourceReading":"私の箸使いこそが芸術 boasts about her own manner and skill, after praising chopsticks generally.","alternative":"Using chopsticks for me can indirectly suggest her skill, but grammatically gives her opinion of the activity instead of the explicit boast about her performance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-007","kind":"WH","description":"WH attributes the window’s creaking to wind and rain instead of the narrator’s attempted manipulation.","categories":["linguistic.wrong_subject","character.agency_responsibility","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[381,381],"MG":[382,382],"UP":[381,381]},"japanese":"風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。","japanesePC":"風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。","japanesePS3":"風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。","WH":"The wind and rain slammed against and shook the window frame, making it creak loudly.","MG":"The wind and rain slammed against the window frame, shaking it and making it creak loudly.","UP":"The wind and rain slammed against and shook the window frame, making it creak loudly.","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_4-L0381","readerRefs":{"WH":["umi6_4-L0381"],"MG":["umi6_4-L0381"],"UP":["umi6_4-L0381"]}}],"sourceReading":"風雨にガタつくように provides the comparison: if he strikes or shakes it, the frame creaks as it does in the storm; despite that it will not permit even a gap.","alternative":"Earlier storm rattling is established, but the current conditional 叩いたり揺すったりすれば describes a manual test, not another observation of weather.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-008","kind":"WH","description":"WH preserves crushing but does not explicitly say the finger is torn off and removed.","categories":["linguistic.undertranslation","world.world_fact","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[472,472],"MG":[472,472],"UP":[472,472]},"japanese":"…………肉と骨を一度に噛み砕き、千切り取った……。","japanesePC":"............肉と骨を一度に噛み砕き、千切り取った......。","japanesePS3":"…………肉と骨を一度に噛み砕き、千切り取った……。","WH":".........Flesh and bone were crushed and torn apart in an instant......","MG":"......Flesh and bone were crushed and torn apart in an instant...","UP":".........it bit down hard, crushing bone and tearing away flesh all at once, ......and bit it off......","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_4-L0469","readerRefs":{"WH":["umi6_4-L0469"],"MG":["umi6_4-L0469"],"UP":["umi6_4-L0469"]}}],"sourceReading":"After gently biting his finger, the attacker 噛み砕き、千切り取った crushes flesh and bone and tears it off.","alternative":"Torn apart conveys severe injury and can suggest dismemberment, but does not state removal from the hand as torn off does. The graphic and sound may reinforce it but text alone loses the distinction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-009","kind":"WH","description":"WH specifies a rage when Jessica recalls Kinzo calling for his beloved witch.","categories":["linguistic.overinterpretation","character.motivation_emotion"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[568,568],"MG":[568,568],"UP":[568,568]},"japanese":"我が最愛の魔女ベアトリーチェ〜って、よく取り乱して叫んでたから。","japanesePC":"「祖父さまだぜ。我が最愛の魔女ベアトリーチェ～って、よく取り乱して叫んでたから。この肖像画が出てくるまでは、顔の想像も付かなかったけど。」","japanesePS3":"我が最愛の魔女ベアトリーチェ〜って、よく取り乱して叫んでたから。","WH":"\"Grandfather.  He would get in a rage and start yelling about 'my beloved witch Beatri~ce'.  Though until we saw that portrait, we had no idea what she looked like.\"","MG":"He'd always start freaking out and yelling \"my beloved witch Beatriiice\".","UP":"He'd get in a rage and start yelling about \"my beloved witch Beatrice~\".","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi6_4-L0567","readerRefs":{"WH":["umi6_4-L0567"],"MG":["umi6_4-L0567"],"UP":["umi6_4-L0567"]}}],"sourceReading":"取り乱して describes losing composure or becoming distraught, not specifically anger.","alternative":"Yelling can accompany rage, but beloved-witch cries are compatible with distress or longing; the source does not choose anger.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-010","kind":"WH","description":"WH gives the butterfly-incarnation explanation but drops Maria’s explicit claim that Beato is also weak against spiders.","categories":["linguistic.omission","world.world_fact","mystery.clue_erasure"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[604,604],"MG":[604,604],"UP":[604,604]},"japanese":"ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね」","japanesePC":"「うー。ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね。」","japanesePS3":"ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね」","WH":"\"Uu-.  That's probably because Beato is the incarnation of a butterfly.\"","MG":"That's probably because Beato is the incarnation of a butterfly.\"","UP":"Beato's avatar is a butterfly, so that's probably why she doesn't like spiders.\"","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_4-L0603","readerRefs":{"WH":["umi6_4-L0603"],"MG":["umi6_4-L0603"],"UP":["umi6_4-L0603"]}}],"sourceReading":"蝶の化身だから、蜘蛛も苦手 links the conjectured butterfly nature to spider aversion; the next question distinguishes the Akujikishima spirits’ weakness.","alternative":"The preceding spiderweb-ward statement allows inference of spider vulnerability, but it does not replace Maria’s explicit spider claim. The connective that in English keeps some linkage.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-011","kind":"WH","description":"WH makes the two Beatrices one and the same rather than two making one existence together.","categories":["linguistic.logical_relation","world.world_layer","mystery.category_flattening"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[721,721],"MG":[721,721],"UP":[721,721]},"japanese":"「私たちは、きっと二人で一人の存在なんです。","japanesePC":"「私たちは、きっと二人で一人の存在なんです。......双子みたいなものだと思います。」","japanesePS3":"「私たちは、きっと二人で一人の存在なんです。","WH":"\"The two of us are surely one and the same.  ......Almost like twins.\"","MG":"\"We must be two and yet one single person.","UP":"\"We must be one person in two.","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_4-L0721","readerRefs":{"WH":["umi6_4-L0721"],"MG":["umi6_4-L0721"],"UP":["umi6_4-L0721"]}}],"sourceReading":"二人で一人の存在 specifies a composite relationship: the two together constitute one person or existence. Each has something the other lacks.","alternative":"One and the same can loosely refer to shared identity, but collapses the stated complementary two-to-one relation into identity. Subsequent sisters language retains separateness but does not repair the proposition itself.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH04-012","kind":"WH","description":"WH says her current form was no longer her real self after meeting the other.","categories":["linguistic.tense_aspect","character.viewpoint_attribution","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_4","episode":6,"rows":{"JP":[746,746],"MG":[746,746],"UP":[746,746]},"japanese":"……彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。","japanesePC":"......彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。","japanesePS3":"……彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。","WH":"......This was probably because she understood that, after meeting me, her current form was no longer her real self.","MG":"...She probably realized that, after meeting me, her current form was no longer her real self.","UP":"......This was probably because she understood, after meeting me, that her current form was not her real self.","note":"Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_4-L0744","readerRefs":{"WH":["umi6_4-L0744"],"MG":["umi6_4-L0744"],"UP":["umi6_4-L0744"]}}],"sourceReading":"私に出会って ... 理解できた means the meeting enabled her to understand that her true self differs from her present existence. It does not state she ceased to be her true self at that moment.","alternative":"The preceding complete-until-you-born claim gives a transition elsewhere, but this sentence describes the realization, not a no-longer temporal loss of authenticity caused by the meeting.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-CH04-001",
+      "kind": "WH",
+      "description": "WH makes Krauss say Erika sounds as though she wants a bizarre crime to occur.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.motivation_emotion",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              16,
+              16
+            ],
+            "MG": [
+              16,
+              16
+            ],
+            "UP": [
+              16,
+              16
+            ]
+          },
+          "japanese": "むしろ何か、怪事件が起こって欲しいものだね。",
+          "japanesePC": "「頼もしいじゃないか。むしろ何か、怪事件が起こって欲しいものだね。犠牲者役は御免被るが。」",
+          "japanesePS3": "むしろ何か、怪事件が起こって欲しいものだね。",
+          "WH": "\"How reassuring.  It almost sounds as though you want a bizarre crime to occur.  I hope I don't have to play the part of the victim.\"",
+          "MG": "It almost sounds as though you want a bizarre crime to occur.",
+          "UP": "In fact, I would quite enjoy it if some kind of bizarre incident were to occur now.",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_4-L0015",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0015"
+            ],
+            "MG": [
+              "umi6_4-L0015"
+            ],
+            "UP": [
+              "umi6_4-L0015"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「頼もしいじゃないか。むしろ何か、怪事件が起こって欲しいものだね。犠牲者役は御免蒙るが」",
+              "translation": "\"How reassuring. It almost sounds as though you want a bizarre crime to occur. I hope I don't have to play the part of the victim.\" "
+            },
+            "UP": {
+              "japanese": "「頼もしいじゃないか。むしろ何か、怪事件が起こって欲しいものだね。犠牲者役は御免蒙るが」",
+              "translation": "\"How reassuring. In fact, I would quite enjoy it if some kind of bizarre incident were to occur now. I just hope I don't have to play the part of the victim.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0015"
+            ],
+            "MG": [
+              "umi6_4-L0015"
+            ],
+            "UP": [
+              "umi6_4-L0015"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "むしろ何か、怪事件が起こって欲しいものだね expresses Krauss’s own joking wish, immediately qualified by not wanting the victim role. Natsuhi then rebukes him.",
+      "alternative": "He is replying to Erika’s assurance, but the desire predicate belongs to his own playful statement, not a report of her intentions. The wife’s rebuke particularly supports that reading.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-002",
+      "kind": "WH",
+      "description": "WH has Erika state that she does not read as much as Battler.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.knowledge_boundary",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              46,
+              46
+            ],
+            "MG": [
+              46,
+              46
+            ],
+            "UP": [
+              46,
+              46
+            ]
+          },
+          "japanese": "私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです」",
+          "japanesePC": "私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです。」",
+          "japanesePS3": "私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです」",
+          "WH": "I don't read as much as you, so I get the feeling you'd beat me in an argument.\"",
+          "MG": "I guess I'll need to read at least as much as you, or else I'd probably lose in an argument.\"",
+          "UP": "It seems I need to read at least as much as you before I'll be able to beat you in an argument.\"",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_4-L0044",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0044"
+            ],
+            "MG": [
+              "umi6_4-L0044"
+            ],
+            "UP": [
+              "umi6_4-L0044"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………………。……そうですね。私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです」",
+              "translation": "\"...... ...I see. I guess I'll need to read at least as much as you, or else I'd probably lose in an argument.\" "
+            },
+            "UP": {
+              "japanese": "「…………………。……そうですね。私も、戦人さん程度には本を読まないと、言い負かされちゃいそうです」",
+              "translation": "\"..................... ......That's fair. It seems I need to read at least as much as you before I'll be able to beat you in an argument.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0044"
+            ],
+            "MG": [
+              "umi6_4-L0044"
+            ],
+            "UP": [
+              "umi6_4-L0044"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "戦人さん程度には本を読まないと is unless I read at least as much as someone of your level, I may be argued down; it does not assert her actual lower reading volume.",
+      "alternative": "The conditional may insinuate the need to read more, but in a sarcastic concession does not establish an objective comparison. Her subsequent irritation depends on recognizing Battler as an avid reader despite his denial.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-003",
+      "kind": "WH",
+      "description": "WH omits equal from Ange’s challenge about eight-way division.",
+      "categories": [
+        "linguistic.omission",
+        "mystery.argument_reconstruction",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              205,
+              205
+            ],
+            "MG": [
+              205,
+              205
+            ],
+            "UP": [
+              205,
+              205
+            ]
+          },
+          "japanese": "３回未満でどうやって８等分するのよ」",
+          "japanesePC": "「出来るわけないわ。お兄ちゃんの勘違いでしょ。３回未満でどうやって８等分するのよ。」",
+          "japanesePS3": "３回未満でどうやって８等分するのよ」",
+          "WH": "\"That's impossible.  Onii-chan got it wrong, didn't he?  How could you cut it into eight pieces with less than three slices?\"",
+          "MG": "How could you cut it into eight pieces with less than three slices?\"",
+          "UP": "How could you cut it into eight pieces with less than three slices?\"",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_4-L0203",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0203"
+            ],
+            "MG": [
+              "umi6_4-L0203"
+            ],
+            "UP": [
+              "umi6_4-L0203"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「出来るわけないわ。お兄ちゃんの勘違いでしょ。３回未満でどうやって８等分するのよ」",
+              "translation": "\"That's impossible. Onii-chan got it wrong, didn't he? How could you cut it into eight pieces with less than three slices?\" "
+            },
+            "UP": {
+              "japanese": "「出来るわけないわ。お兄ちゃんの勘違いでしょ。３回未満でどうやって８等分するのよ」",
+              "translation": "\"That's impossible. Onii‐chan got it wrong, didn't he? How could you cut it into eight pieces with less than three slices?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0203"
+            ],
+            "MG": [
+              "umi6_4-L0203"
+            ],
+            "UP": [
+              "umi6_4-L0203"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "８等分 explicitly demands eight equal parts; Featherine then corrects her for adding equality to the stated eight-pieces problem.",
+      "alternative": "Readers may normally assume equal portions, but omitting it from the actual objection makes the next correction respond to a claim Ange has not stated.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-004",
+      "kind": "WH",
+      "description": "WH blames the people who made the book rather than the questioner.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              219,
+              219
+            ],
+            "MG": [
+              219,
+              219
+            ],
+            "UP": [
+              219,
+              219
+            ]
+          },
+          "japanese": "出題者のミスです。",
+          "japanesePC": "「......チーズの形状に条件は示されませんでした。出題者のミスです。",
+          "japanesePS3": "出題者のミスです。",
+          "WH": "\"......The shape of the cheese isn't specified in the rules.  A mistake by the ones who made the book.",
+          "MG": "A mistake by the ones who made the book.",
+          "UP": "A mistake by the ones who made the book.",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_4-L0218",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0218"
+            ],
+            "MG": [
+              "umi6_4-L0218"
+            ],
+            "UP": [
+              "umi6_4-L0218"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……チーズの形状に条件は示されませんでした。出題者のミスです。恐らく、真里亞さんのその本には、いわゆる平べったい円筒状チーズの図面があるはずです」",
+              "translation": "\"...The shape of the cheese isn't specified in the rules. A mistake by the ones who made the book. I imagine that there's a picture of a flat cylinder of cheese there in Maria-san's book.\" "
+            },
+            "UP": {
+              "japanese": "「……チーズの形状に条件は示されませんでした。出題者のミスです。恐らく、真里亞さんのその本には、いわゆる平べったい円筒状チーズの図面があるはずです」",
+              "translation": "\"......The shape of the cheese isn't specified in the rules. A mistake by the ones who made the book. I imagine that there's a picture of a flat cylinder of cheese there in Maria‐san's book.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0218"
+            ],
+            "MG": [
+              "umi6_4-L0218"
+            ],
+            "UP": [
+              "umi6_4-L0218"
+            ]
+          }
+        },
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              261,
+              261
+            ],
+            "MG": [
+              261,
+              261
+            ],
+            "UP": [
+              261,
+              261
+            ]
+          },
+          "japanese": "その双方の答えをすでに用意し、出題者の粗まで着目していたヱリカ。",
+          "japanesePC": "「......チーズの形状に条件は示されませんでした。出題者のミスです。",
+          "japanesePS3": "その双方の答えをすでに用意し、出題者の粗まで着目していたヱリカ。",
+          "WH": "\"......The shape of the cheese isn't specified in the rules.  A mistake by the ones who made the book.",
+          "MG": "Erika had already known both answers and had even spotted a mistake made by the book.",
+          "UP": "Erika had already known both answers and had even spotted a mistake made by the book.",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_4-L0259",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0218"
+            ],
+            "MG": [
+              "umi6_4-L0259"
+            ],
+            "UP": [
+              "umi6_4-L0259"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しばらくの間、一同は呆然とする……。問題をなぞなぞ的に考え、３回という答えをはるかに超えた１回という答えに行き着いた戦人と。その双方の答えをすでに用意し、出題者の粗まで着目していたヱリカ。……その二人に、驚愕の眼差しを向ける他なかった。",
+              "translation": "For a while, everyone was stunned... Battler had reached a far better answer than three by thinking of the problem as a riddle. Erika had already known both answers and had even spotted a mistake made by the book. ...The others could do nothing but stare at those two in surprise. "
+            },
+            "UP": {
+              "japanese": "しばらくの間、一同は呆然とする……。問題をなぞなぞ的に考え、３回という答えをはるかに超えた１回という答えに行き着いた戦人と。その双方の答えをすでに用意し、出題者の粗まで着目していたヱリカ。……その二人に、驚愕の眼差しを向ける他なかった。",
+              "translation": "For a while, everyone was stunned...... Battler had reached a far better answer than \"three\" by thinking of the problem as a riddle. Erika had already known both answers and had even spotted a mistake made by the book. ......The others could do nothing but stare at those two in surprise."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0218"
+            ],
+            "MG": [
+              "umi6_4-L0259"
+            ],
+            "UP": [
+              "umi6_4-L0259"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "出題者のミス identifies the questioner’s mistake in posing the problem without shape. The book then proves to contain the specifying cylinder illustration, which was not shown.",
+      "alternative": "Questioner may denote an original puzzle author in other settings, but the immediate contrast here is between the oral presentation and the book’s explicitly present illustration.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-005",
+      "kind": "WH",
+      "description": "WH calls the method constructing gaps in closed rooms.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              270,
+              270
+            ],
+            "MG": [
+              270,
+              270
+            ],
+            "UP": [
+              270,
+              270
+            ]
+          },
+          "japanese": "……魔女の密室の間隙を縫う基本中の基本」",
+          "japanesePC": "......条件なき問題、即ち赤き真実の外側は全て、観測者の自由自在。......魔女の密室の間隙を縫う基本中の基本。」",
+          "japanesePS3": "……魔女の密室の間隙を縫う基本中の基本」",
+          "WH": "......Puzzles without specified rules--in other words, all things not covered by the red truth--are left to the observer's interpretation.  ......It's the most basic of methods for constructing gaps in the witch's closed rooms.\"",
+          "MG": "...It's the most basic of methods for constructing gaps in the witch's closed rooms.\"",
+          "UP": "......It's the most basic of methods for constructing gaps in the witch's locked rooms.\"",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_4-L0268",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0268"
+            ],
+            "MG": [
+              "umi6_4-L0268"
+            ],
+            "UP": [
+              "umi6_4-L0268"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……だいぶ、魔女とのゲームで鍛えられたようじゃないですか。……条件なき問題、即ち赤き真実の外側は全て、観測者の自由自在。……魔女の密室の間隙を縫う基本中の基本」",
+              "translation": "\"...It seems the game with the witch has toughened you up quite a lot. ...Puzzles without specified rules—in other words, all things not covered by the red truth—are left to the observer's interpretation. ...It's the most basic of methods for constructing gaps in the witch's closed rooms.\" "
+            },
+            "UP": {
+              "japanese": "「……だいぶ、魔女とのゲームで鍛えられたようじゃないですか。……条件なき問題、即ち赤き真実の外側は全て、観測者の自由自在。……魔女の密室の間隙を縫う基本中の基本」",
+              "translation": "\"......It seems the game with the witch has toughened you up quite a lot. ......Puzzles without specified rules—in other words, all things not covered by the red truth—are left to the observer's interpretation. ......It's the most basic of methods for constructing gaps in the witch's locked rooms.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0268"
+            ],
+            "MG": [
+              "umi6_4-L0268"
+            ],
+            "UP": [
+              "umi6_4-L0268"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "魔女の密室の間隙を縫う means threading through or exploiting gaps in the witch’s closed rooms; the observer exercises freedom outside red constraints.",
+      "alternative": "An interpretation can construct a counterexample, but this does not mean constructing gaps in the rooms themselves, and the source describes exploiting an opening.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-006",
+      "kind": "WH",
+      "description": "WH turns my chopstick handling is art into for me using chopsticks is an art.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.voice_state",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              302,
+              302
+            ],
+            "MG": [
+              302,
+              302
+            ],
+            "UP": [
+              302,
+              302
+            ]
+          },
+          "japanese": "私の箸使いこそが芸術ッ」",
+          "japanesePC": "えぇそうです、お箸です。お箸は世界でもっとも優雅な食器です。突き刺し、引き千切って口に運ぶナイフとフォークなんて野蛮の極み！　お箸こそが最高です。私の箸使いこそが芸術ッ。」",
+          "japanesePS3": "私の箸使いこそが芸術ッ」",
+          "WH": "Yes, chopsticks, that's right.  Chopsticks are the most elegant utensil on the planet.  Poking things and chopping them up with forks and knives is so barbaric!  Chopsticks are the best.  For me, using chopsticks is truly an art.\"",
+          "MG": "For me, using chopsticks is truly an art.\"",
+          "UP": "For me, using chopsticks is truly an art.\"",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_4-L0297",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0297"
+            ],
+            "MG": [
+              "umi6_4-L0297"
+            ],
+            "UP": [
+              "umi6_4-L0297"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「お箸ッ！　えぇそうです、お箸です。お箸は世界でもっとも優雅な食器です。突き刺し、引き千切って口に運ぶナイフとフォークなんて野蛮の極み！　お箸こそが最高です。私の箸使いこそが芸術ッ」",
+              "translation": "\"Chopsticks! Yes, chopsticks, that's right. Chopsticks are the most elegant utensil on the planet. Poking things and chopping them up with forks and knives is so barbaric! Chopsticks are the best. For me, using chopsticks is truly an art.\" "
+            },
+            "UP": {
+              "japanese": "「お箸ッ！　えぇそうです、お箸です。お箸は世界でもっとも優雅な食器です。突き刺し、引き千切って口に運ぶナイフとフォークなんて野蛮の極み！　お箸こそが最高です。私の箸使いこそが芸術ッ」",
+              "translation": "\"Chopsticks! Yes, chopsticks, that's right. Chopsticks are the most elegant utensil on the planet. Poking things and chopping them up with forks and knives is so barbaric! Chopsticks are the best. For me, using chopsticks is truly an art.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0297"
+            ],
+            "MG": [
+              "umi6_4-L0297"
+            ],
+            "UP": [
+              "umi6_4-L0297"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "私の箸使いこそが芸術 boasts about her own manner and skill, after praising chopsticks generally.",
+      "alternative": "Using chopsticks for me can indirectly suggest her skill, but grammatically gives her opinion of the activity instead of the explicit boast about her performance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-007",
+      "kind": "WH",
+      "description": "WH attributes the window’s creaking to wind and rain instead of the narrator’s attempted manipulation.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              381,
+              381
+            ],
+            "MG": [
+              382,
+              382
+            ],
+            "UP": [
+              381,
+              381
+            ]
+          },
+          "japanese": "風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。",
+          "japanesePC": "風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。",
+          "japanesePS3": "風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。",
+          "WH": "The wind and rain slammed against and shook the window frame, making it creak loudly.",
+          "MG": "The wind and rain slammed against the window frame, shaking it and making it creak loudly.",
+          "UP": "The wind and rain slammed against and shook the window frame, making it creak loudly.",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_4-L0381",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0381"
+            ],
+            "MG": [
+              "umi6_4-L0381"
+            ],
+            "UP": [
+              "umi6_4-L0381"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。しかし、扉のように隙間さえ許してはくれなかった。",
+              "translation": "It was even more unnerving than the chain on the door, like a rough operation scar on some bizarre monster. The wind and rain slammed against the window frame, shaking it and making it creak loudly. "
+            },
+            "UP": {
+              "japanese": "風雨にガタつくように、叩いたり揺すったりすれば窓枠はぎしぎしと音を立てる。しかし、扉のように隙間さえ許してはくれなかった。",
+              "translation": "The wind and rain slammed against and shook the window frame, making it creak loudly. However, unlike the door, this wouldn't open even a crack."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0381"
+            ],
+            "MG": [
+              "umi6_4-L0381"
+            ],
+            "UP": [
+              "umi6_4-L0381"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "風雨にガタつくように provides the comparison: if he strikes or shakes it, the frame creaks as it does in the storm; despite that it will not permit even a gap.",
+      "alternative": "Earlier storm rattling is established, but the current conditional 叩いたり揺すったりすれば describes a manual test, not another observation of weather.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-008",
+      "kind": "WH",
+      "description": "WH preserves crushing but does not explicitly say the finger is torn off and removed.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.world_fact",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              472,
+              472
+            ],
+            "MG": [
+              472,
+              472
+            ],
+            "UP": [
+              472,
+              472
+            ]
+          },
+          "japanese": "…………肉と骨を一度に噛み砕き、千切り取った……。",
+          "japanesePC": "............肉と骨を一度に噛み砕き、千切り取った......。",
+          "japanesePS3": "…………肉と骨を一度に噛み砕き、千切り取った……。",
+          "WH": ".........Flesh and bone were crushed and torn apart in an instant......",
+          "MG": "......Flesh and bone were crushed and torn apart in an instant...",
+          "UP": ".........it bit down hard, crushing bone and tearing away flesh all at once, ......and bit it off......",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_4-L0469",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0469"
+            ],
+            "MG": [
+              "umi6_4-L0469"
+            ],
+            "UP": [
+              "umi6_4-L0469"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして俺の指を、…………、甘く噛んでから。…………肉と骨を一度に噛み砕き、千切り取った……。",
+              "translation": "And then, ...... it gently bit my finger. ......Flesh and bone were crushed and torn apart in an instant... "
+            },
+            "UP": {
+              "japanese": "そして俺の指を、…………、甘く噛んでから。…………肉と骨を一度に噛み砕き、千切り取った……。",
+              "translation": "And then, ......... after giving my finger a playful nibble... .........it bit down hard, crushing bone and tearing away flesh all at once, ......and bit it off......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0469"
+            ],
+            "MG": [
+              "umi6_4-L0469"
+            ],
+            "UP": [
+              "umi6_4-L0469"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After gently biting his finger, the attacker 噛み砕き、千切り取った crushes flesh and bone and tears it off.",
+      "alternative": "Torn apart conveys severe injury and can suggest dismemberment, but does not state removal from the hand as torn off does. The graphic and sound may reinforce it but text alone loses the distinction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-009",
+      "kind": "WH",
+      "description": "WH specifies a rage when Jessica recalls Kinzo calling for his beloved witch.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              568,
+              568
+            ],
+            "MG": [
+              568,
+              568
+            ],
+            "UP": [
+              568,
+              568
+            ]
+          },
+          "japanese": "我が最愛の魔女ベアトリーチェ〜って、よく取り乱して叫んでたから。",
+          "japanesePC": "「祖父さまだぜ。我が最愛の魔女ベアトリーチェ～って、よく取り乱して叫んでたから。この肖像画が出てくるまでは、顔の想像も付かなかったけど。」",
+          "japanesePS3": "我が最愛の魔女ベアトリーチェ〜って、よく取り乱して叫んでたから。",
+          "WH": "\"Grandfather.  He would get in a rage and start yelling about 'my beloved witch Beatri~ce'.  Though until we saw that portrait, we had no idea what she looked like.\"",
+          "MG": "He'd always start freaking out and yelling \"my beloved witch Beatriiice\".",
+          "UP": "He'd get in a rage and start yelling about \"my beloved witch Beatrice~\".",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_4-L0567",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0567"
+            ],
+            "MG": [
+              "umi6_4-L0567"
+            ],
+            "UP": [
+              "umi6_4-L0567"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「祖父さまだぜ。我が最愛の魔女ベアトリーチェ〜って、よく取り乱して叫んでたから。この肖像画が出てくるまでは、顔の想像も付かなかったけど」",
+              "translation": "\"Grandfather. He'd always start freaking out and yelling \"my beloved witch Beatriiice\". Though until we saw that portrait, we had no idea what she looked like.\" "
+            },
+            "UP": {
+              "japanese": "「祖父さまだぜ。我が最愛の魔女ベアトリーチェ〜って、よく取り乱して叫んでたから。この肖像画が出てくるまでは、顔の想像も付かなかったけど」",
+              "translation": "\"Grandfather. He'd get in a rage and start yelling about \"my beloved witch Beatrice~\". Though until we saw that portrait, we had no idea what she looked like.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0567"
+            ],
+            "MG": [
+              "umi6_4-L0567"
+            ],
+            "UP": [
+              "umi6_4-L0567"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "取り乱して describes losing composure or becoming distraught, not specifically anger.",
+      "alternative": "Yelling can accompany rage, but beloved-witch cries are compatible with distress or longing; the source does not choose anger.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-010",
+      "kind": "WH",
+      "description": "WH gives the butterfly-incarnation explanation but drops Maria’s explicit claim that Beato is also weak against spiders.",
+      "categories": [
+        "linguistic.omission",
+        "world.world_fact",
+        "mystery.clue_erasure"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              604,
+              604
+            ],
+            "MG": [
+              604,
+              604
+            ],
+            "UP": [
+              604,
+              604
+            ]
+          },
+          "japanese": "ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね」",
+          "japanesePC": "「うー。ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね。」",
+          "japanesePS3": "ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね」",
+          "WH": "\"Uu-.  That's probably because Beato is the incarnation of a butterfly.\"",
+          "MG": "That's probably because Beato is the incarnation of a butterfly.\"",
+          "UP": "Beato's avatar is a butterfly, so that's probably why she doesn't like spiders.\"",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_4-L0603",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0603"
+            ],
+            "MG": [
+              "umi6_4-L0603"
+            ],
+            "UP": [
+              "umi6_4-L0603"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うー。ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね」",
+              "translation": "\"Uu-. That's probably because Beato is the incarnation of a butterfly.\" "
+            },
+            "UP": {
+              "japanese": "「うー。ベアトはきっと蝶の化身だから、蜘蛛も苦手なんだね」",
+              "translation": "\"Uu. Beato's avatar is a butterfly, so that's probably why she doesn't like spiders.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0603"
+            ],
+            "MG": [
+              "umi6_4-L0603"
+            ],
+            "UP": [
+              "umi6_4-L0603"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "蝶の化身だから、蜘蛛も苦手 links the conjectured butterfly nature to spider aversion; the next question distinguishes the Akujikishima spirits’ weakness.",
+      "alternative": "The preceding spiderweb-ward statement allows inference of spider vulnerability, but it does not replace Maria’s explicit spider claim. The connective that in English keeps some linkage.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-011",
+      "kind": "WH",
+      "description": "WH makes the two Beatrices one and the same rather than two making one existence together.",
+      "categories": [
+        "linguistic.logical_relation",
+        "world.world_layer",
+        "mystery.category_flattening"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              721,
+              721
+            ],
+            "MG": [
+              721,
+              721
+            ],
+            "UP": [
+              721,
+              721
+            ]
+          },
+          "japanese": "「私たちは、きっと二人で一人の存在なんです。",
+          "japanesePC": "「私たちは、きっと二人で一人の存在なんです。......双子みたいなものだと思います。」",
+          "japanesePS3": "「私たちは、きっと二人で一人の存在なんです。",
+          "WH": "\"The two of us are surely one and the same.  ......Almost like twins.\"",
+          "MG": "\"We must be two and yet one single person.",
+          "UP": "\"We must be one person in two.",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_4-L0721",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0721"
+            ],
+            "MG": [
+              "umi6_4-L0721"
+            ],
+            "UP": [
+              "umi6_4-L0721"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私たちは、きっと二人で一人の存在なんです。……双子みたいなものだと思います」",
+              "translation": "\"We must be two and yet one single person. ...I think we're something like twins.\" "
+            },
+            "UP": {
+              "japanese": "「私たちは、きっと二人で一人の存在なんです。……双子みたいなものだと思います」",
+              "translation": "\"We must be one person in two. ......I think we're something like twins.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0721"
+            ],
+            "MG": [
+              "umi6_4-L0721"
+            ],
+            "UP": [
+              "umi6_4-L0721"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "二人で一人の存在 specifies a composite relationship: the two together constitute one person or existence. Each has something the other lacks.",
+      "alternative": "One and the same can loosely refer to shared identity, but collapses the stated complementary two-to-one relation into identity. Subsequent sisters language retains separateness but does not repair the proposition itself.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH04-012",
+      "kind": "WH",
+      "description": "WH says her current form was no longer her real self after meeting the other.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.viewpoint_attribution",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_4",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              746,
+              746
+            ],
+            "MG": [
+              746,
+              746
+            ],
+            "UP": [
+              746,
+              746
+            ]
+          },
+          "japanese": "……彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。",
+          "japanesePC": "......彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。",
+          "japanesePS3": "……彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。",
+          "WH": "......This was probably because she understood that, after meeting me, her current form was no longer her real self.",
+          "MG": "...She probably realized that, after meeting me, her current form was no longer her real self.",
+          "UP": "......This was probably because she understood, after meeting me, that her current form was not her real self.",
+          "note": "Durable reports contain full continuous source-first readings; parent adjudicated canonical and flagged passages. No firm independent introduced defect or proven PC addition. Conservative inherited candidates remain pending. MG379–394 reflows JP clauses; equal file counts do not establish individual row identity. Canonical007 JP/UP381 corresponds to MG382.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_4-L0744",
+          "readerRefs": {
+            "WH": [
+              "umi6_4-L0744"
+            ],
+            "MG": [
+              "umi6_4-L0744"
+            ],
+            "UP": [
+              "umi6_4-L0744"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "姉を自称するだけあり、魔女のベアトは少しだけ口調が横柄だった。でも、互いがそれぞれ自分であることを理解しているため、何の意地悪の必要もなかった。……彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。",
+              "translation": "The witch Beato's tone was very slightly arrogant, which fitted her self-proclaimed status as the older sister. However, since we both realized that we were the same person, there was no need for her to be a bully. ...She probably realized that, after meeting me, her current form was no longer her real self. "
+            },
+            "UP": {
+              "japanese": "姉を自称するだけあり、魔女のベアトは少しだけ口調が横柄だった。でも、互いがそれぞれ自分であることを理解しているため、何の意地悪の必要もなかった。……彼女もまた、私に出会って、本当の自分が今とは異なる存在であることを理解できたからに違いない。",
+              "translation": "The witch Beato's tone was very slightly arrogant, matching with her self‐proclaimed status as the older sister. However, since we both realized that we were the same person, there was no need to be unkind. ......This was probably because she understood, after meeting me, that her current form was not her real self."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_4-L0744"
+            ],
+            "MG": [
+              "umi6_4-L0744"
+            ],
+            "UP": [
+              "umi6_4-L0744"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "私に出会って ... 理解できた means the meeting enabled her to understand that her true self differs from her present existence. It does not state she ceased to be her true self at that moment.",
+      "alternative": "The preceding complete-until-you-born claim gives a transition elsewhere, but this sentence describes the realization, not a no-longer temporal loss of authenticity caused by the meeting.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-CH04-001": {
+      "umi6_4-L0015": {
+        "WH": [
+          "It almost sounds as though you want a bizarre crime to occur"
+        ],
+        "MG": [
+          "It almost sounds as though you want a bizarre crime to occur"
+        ]
+      }
+    },
+    "WH-EP06-CH04-002": {
+      "umi6_4-L0044": {
+        "WH": [
+          "I don't read as much as you, so I get the feeling you'd beat me in an argument"
+        ]
+      }
+    },
+    "WH-EP06-CH04-003": {
+      "umi6_4-L0203": {
+        "WH": [
+          "eight pieces"
+        ],
+        "MG": [
+          "eight pieces"
+        ],
+        "UP": [
+          "eight pieces"
+        ]
+      }
+    },
+    "WH-EP06-CH04-004": {
+      "umi6_4-L0218": {
+        "WH": [
+          "the ones who made the book"
+        ],
+        "MG": [
+          "the ones who made the book"
+        ],
+        "UP": [
+          "the ones who made the book"
+        ]
+      },
+      "umi6_4-L0259": {
+        "MG": [
+          "a mistake made by the book"
+        ],
+        "UP": [
+          "a mistake made by the book"
+        ]
+      }
+    },
+    "WH-EP06-CH04-005": {
+      "umi6_4-L0268": {
+        "WH": [
+          "constructing gaps"
+        ],
+        "MG": [
+          "constructing gaps"
+        ],
+        "UP": [
+          "constructing gaps"
+        ]
+      }
+    },
+    "WH-EP06-CH04-006": {
+      "umi6_4-L0297": {
+        "WH": [
+          "For me, using chopsticks is truly an art"
+        ],
+        "MG": [
+          "For me, using chopsticks is truly an art"
+        ],
+        "UP": [
+          "For me, using chopsticks is truly an art"
+        ]
+      }
+    },
+    "WH-EP06-CH04-007": {
+      "umi6_4-L0381": {
+        "WH": [
+          "The wind and rain slammed against and shook the window frame"
+        ],
+        "UP": [
+          "The wind and rain slammed against and shook the window frame"
+        ],
+        "MG": [
+          "The wind and rain slammed against the window frame, shaking it"
+        ]
+      }
+    },
+    "WH-EP06-CH04-008": {
+      "umi6_4-L0469": {
+        "WH": [
+          "torn apart"
+        ],
+        "MG": [
+          "torn apart"
+        ]
+      }
+    },
+    "WH-EP06-CH04-009": {
+      "umi6_4-L0567": {
+        "WH": [
+          "get in a rage"
+        ],
+        "UP": [
+          "get in a rage"
+        ]
+      }
+    },
+    "WH-EP06-CH04-010": {
+      "umi6_4-L0603": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Maria's explicit claim that Beato is weak against spiders is absent; only the butterfly explanation remains."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "Maria's explicit claim that Beato is weak against spiders is absent; only the butterfly explanation remains."
+        }
+      }
+    },
+    "WH-EP06-CH04-011": {
+      "umi6_4-L0721": {
+        "WH": [
+          "one and the same"
+        ]
+      }
+    },
+    "WH-EP06-CH04-012": {
+      "umi6_4-L0744": {
+        "WH": [
+          "after meeting me, her current form was no longer her real self"
+        ],
+        "MG": [
+          "after meeting me, her current form was no longer her real self"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

@@ -1,1 +1,863 @@
-{"findings":[{"id":"WH-EP01-CH01-001","kind":"WH","description":"Kumasawa’s お迎え待ち is a death euphemism in her self-deprecating reply: the decrepit woman awaiting her own final summons is welcoming the guests. WH makes her merely the woman waiting to greet them. The repeated お迎え loses the collision of guest pickup and death’s arrival, following Rudolf’s one-foot-in-the-coffin joke.","categories":["linguistic.wordplay","character.irony_performance"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[142,155],"MG":[142,155],"UP":[142,155]},"japanese":"「おいおい、よせよ熊沢さん。\n棺桶に半分足突っ込んだ人がはしゃいじゃいけねぇぜ」\n「若い方とじゃれるのが、何よりの若返りの薬ですよ。\nほっほっほ！」\n「熊沢さんが迎えに来るなんて珍しいじゃない。\nどういう風の吹き回しかしらぁ？\n用事を頼まれるといつも腰痛になるあなたが。\nくすくす」\n「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。\n急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。\nもっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。\nほっほっほ…！」\nさらりと嫌味を言う絵羽伯母さんだが、熊沢の婆ちゃんはさすがに年季が入ってる。\nさらりと涼しげに受け流して見せるぜ。","japanesePC":"「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。もっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。ほっほっほ…！」","japanesePS3":"「おいおい、よせよ熊沢さん。\n棺桶に半分足突っ込んだ人がはしゃいじゃいけねぇぜ」\n「若い方とじゃれるのが、何よりの若返りの薬ですよ。\nほっほっほ！」\n「熊沢さんが迎えに来るなんて珍しいじゃない。\nどういう風の吹き回しかしらぁ？\n用事を頼まれるといつも腰痛になるあなたが。\nくすくす」\n「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。\n急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。\nもっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。\nほっほっほ…！」\nさらりと嫌味を言う絵羽伯母さんだが、熊沢の婆ちゃんはさすがに年季が入ってる。\nさらりと涼しげに受け流して見せるぜ。","WH":"\"Hoh-hoh-ho, Eva-sama, you are harsh as usual.  I found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all.  Although, it does give a bad impression if the one waiting to greet you is a decrepit old woman.  Hoh-hoh-ho...!\"","MG":"\"Kumasawa-san, stop that now.\nPeople with one foot in the coffin shouldn't jump around.\"\n\"To sport with the young is the most rejuvenating medicine.\nHohohoh!\"\n\"It's rare for you to come pick us up, Kumasawa-san.\nI wonder what's gotten into you.\nUsually, your lumbago kicks in whenever someone gives you a job to do.\n*giggle*.\"\n\"Hohohoh, Eva-sama, you're as harsh as ever.\nI found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all.\nAlthough, it does give a bad impression if the one waiting to greet you is a decrepit old woman.\nHohohoh...!\"\nAunt Eva spoke sarcastically, but Kumasawa baa-chan's years of experience were nothing to sneeze at.\nShe was more than capable of smoothly and coolly deflecting that comment.","UP":"\"Kumasawa‐san, stop that now.\nPeople with one foot in the coffin shouldn't jump around.\"\n\"To sport with the young is the best rejuvenation medicine.\nHoh‐hoh‐ho!\"\n\"It's rare for you to come pick us up, Kumasawa‐san.\nWhat curious turn of events is this?\nNormally whenever you're entrusted with something to do, your lumbago always kicks in.\n*snicker*.\"\n\"Hoh‐hoh‐ho, Eva‐sama, you are harsh as usual.\nI found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all.\nAlthough, it does give a bad impression if the one waiting to greet you is a decrepit old woman.\nHoh‐hoh‐ho...!\"\nAuntie Eva spoke sarcastically, but Kumasawa baa‐chan's years of experience were nothing to sneeze at.\nShe was more than capable of smoothly and coolly letting that comment slide.","note":"Both use one waiting to greet you, losing awaiting death/final summons pun. Preceding coffin joke establishes source function.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_1-L0142","readerRefs":{"WH":["umi1_1-L0150"],"MG":["umi1_1-L0142","umi1_1-L0144","umi1_1-L0146","umi1_1-L0150","umi1_1-L0154"],"UP":["umi1_1-L0142","umi1_1-L0144","umi1_1-L0146","umi1_1-L0150","umi1_1-L0154"]}}],"sourceReading":"The greeting sense belongs to お迎えでは; お迎え待ちの老いぼれ qualifies the old woman as awaiting death.","alternative":"Both occurrences use the same greeting word, making a literal greeting reading tempting. The coffin remark and 老いぼれ make the death euphemism operative; WH retains decrepitude but loses that double meaning.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-002","kind":"WH","description":"Rosa has remembered last year’s promise and bought the tea. Kumasawa is touched not only by that remembered promise but by Rosa bringing a gift even for a servant. WH says ‘Whether or not Kumasawa ... remembered’ the promise. It assigns the remembering to the recipient and replaces the additive ばかりか construction with uncertainty.","categories":["linguistic.wrong_subject","linguistic.logical_relation","character.relationship_power"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[162,171],"MG":[162,171],"UP":[162,171]},"japanese":"「ますますにお元気なようで。\nそうだ、これ。\n前に話してたお茶です。\nほら、買ってきました。\n後で飲んでみてください」\n楼座叔母さんは荷物からお土産の入った袋を出して見せる。\n昨年に会った時にしたらしい約束をちゃんと覚えていて律儀にそれを買ってくるとは。\n…こういう辺りの律儀さは楼座叔母さんらしい。\n約束は忘れず、そして破らない人だ。\n熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。","japanesePC":"熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。","japanesePS3":"「ますますにお元気なようで。\nそうだ、これ。\n前に話してたお茶です。\nほら、買ってきました。\n後で飲んでみてください」\n楼座叔母さんは荷物からお土産の入った袋を出して見せる。\n昨年に会った時にしたらしい約束をちゃんと覚えていて律儀にそれを買ってくるとは。\n…こういう辺りの律儀さは楼座叔母さんらしい。\n約束は忘れず、そして破らない人だ。\n熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。","WH":"Whether or not Kumasawa baa-chan remembered this year-old promise, she seemed deeply touched by the fact that someone would bring a gift to a simple servant like her.","MG":"\"You just seem to get more and more lively.\nOh, that's right, here you are.\nIt's the tea I told you about before.\nLook, I bought you some.\nPlease do try it later on.\"\nAunt Rosa took a souvenir bag out from her suitcase.\nTo think that she remembered a promise that she'd apparently made last year and faithfully bought it.\n...This sort of thoughtfulness was just like Aunt Rosa.\nShe wasn't the kind of person who would forget or break a promise.\nKumasawa baa-chan seemed deeply touched, not only that Aunt Rosa had remembered this year-old promise, but that she would bring a gift to a simple servant like her.","UP":"\"You just seem to get more and more lively.\nOh, that's right, here you are.\nIt's the tea I was talking about before.\nLook, I bought some.\nPlease do try it later on.\"\nAuntie Rosa showed her the souvenir bag she'd taken out of her suitcase.\nTo think that she had remembered the promise that she had apparently made last year and faithfully bought it.\n...This sort of thoughtfulness was just like Auntie Rosa.\nShe wasn't the kind of person who would forget or break a promise.\nAs for Kumasawa baa‐chan, she seemed deeply touched by the fact that not only had Auntie Rosa remembered that year‐old promise, she had brought that gift for a simple servant like her.","note":"Both correctly assign remembered promise to Rosa and retain not only/but gift to servant. WH recipient/uncertainty error no longer applies; do not copy it into error counts.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_1-L0162","readerRefs":{"WH":["umi1_1-L0171"],"MG":["umi1_1-L0162","umi1_1-L0167","umi1_1-L0171"],"UP":["umi1_1-L0162","umi1_1-L0167","umi1_1-L0171"]}}],"sourceReading":"The preceding narration explicitly identifies Rosa as the person faithfully remembering and fulfilling her promise. Kumasawa is the experiencer of 感激, while the remembered promise and gift are the reasons.","alternative":"The Japanese topic remains Kumasawa and the embedded subject is unstated, so the raw clause can tempt a subject error. Even on that reading, ばかりか is not ‘whether or not’; the continuous context establishes Rosa’s thoughtfulness.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-003","kind":"WH","description":"Jessica says the boat has four high-performance propellers. WH describes ‘four-base high efficiency propellers,’ treating the machine counter 基 as part of the apparatus description and losing the explicit count of four individual propellers.","categories":["linguistic.mistranslation","world.world_fact"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[238,246],"MG":[238,246],"UP":[238,246]},"japanese":"「何しろ、船長自慢の改造高速艇らしいぜ？\nだいぶいじってるらしく、\nプロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。\nいつも自慢されるんで覚えちまったぜ」\n「僕も毎年聞かされるんで覚えちゃったよ。\n船長は昔、外国の漁船と速度比べをして負けて以来、スピード改造に取り憑かれちゃったんだってさ。\nその時の相手は漁船なのに３０ノット以上も出せたんだってね」\n「その雪辱の念が結実して、スカっと爽快な超高速改造艇の誕生となったわけさ。\n戦人もきっと気に入るぜー」","japanesePC":"「何しろ、船長自慢の改造高速艇らしいぜ？　だいぶいじってるらしく、プロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。いつも自慢されるんで覚えちまったぜ。」","japanesePS3":"「何しろ、船長自慢の改造高速艇らしいぜ？\nだいぶいじってるらしく、\nプロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。\nいつも自慢されるんで覚えちまったぜ」\n「僕も毎年聞かされるんで覚えちゃったよ。\n船長は昔、外国の漁船と速度比べをして負けて以来、スピード改造に取り憑かれちゃったんだってさ。\nその時の相手は漁船なのに３０ノット以上も出せたんだってね」\n「その雪辱の念が結実して、スカっと爽快な超高速改造艇の誕生となったわけさ。\n戦人もきっと気に入るぜー」","WH":"\"Anyway, it's the captain's pride and joy, and it's a kinda modded high-speed boat.  Seems he tinkers with big parts of it.  He was bragging about how he attached four-base high efficiency propellers to it so that he could break 40 knots or something like that.  I just remember how he's always bragging.\"","MG":"\"Anyway, it's the captain's pride and joy, a kind of modded high-speed boat.\nSeems he's got it pretty souped up.\nHe was bragging about how he attached four-base high efficiency propellers to make it break 40 knots, or something like that.\nHe talks about it all the time, so I've sorta memorized the spiel.\"\n\"Yeah, I've got it memorized too, since we hear about it every year.\nThe captain says he's been obsessed with modding ever since he lost a speed contest with a foreign boat ages ago.\nAccording to him, that opponent managed to break 30 knots with just a fishing boat.\"\n\"And his thirst for a revenge match got him to build an awesome, all-new, super high-speed modded boat.\nI'm sure you'll just love it, Battler.\"","UP":"\"You know, it's apparently a modded high‐speed boat, the captain's pride and joy!\nSeems he's tinkered with it quite a lot—\nhe was going on about how he attached four high efficiency propellers to it, and now it can break 40 knots, or something like that.\nHe bragged to me so much I ended up memorizing it.\"\n\"Me too; I remember since we're told about it every year.\nThe captain said that since he lost a speed contest with a foreign fishing boat a long time ago, he became obsessed with modding.\nHe told us how his opponent back then could go at over 30 knots, even though it was only in a fishing boat.\"\n\"To fulfill his thirst for a revenge match, he created an awesome whole new super high‐speed modded boat.\nI'm sure you'll just love it, Battler.\"","note":"MG retains four-base; UP explicitly four propellers. Count, speed and reported captain boast considered together.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_1-L0238","readerRefs":{"WH":["umi1_1-L0238"],"MG":["umi1_1-L0238","umi1_1-L0242","umi1_1-L0245"],"UP":["umi1_1-L0238","umi1_1-L0242","umi1_1-L0245"]}}],"sourceReading":"４基 counts four installed units; it does not describe a four-base design. The exceeding-40-knots boast remains separately expressed.","alternative":"Readers might guess four-base implies four, but it supplies no intelligible count or established apparatus configuration. The numerical statement in Japanese is straightforward.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-004","kind":"WH","description":"George and Kumasawa bring one well-chilled can of juice per person, with droplets on the cans. WH supplies both glasses with floating ice cubes and canned drinks. It changes surface condensation into ice and adds drinking vessels.","categories":["linguistic.mistranslation","linguistic.addition","world.world_fact"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[321,325],"MG":[321,325],"UP":[321,325]},"japanese":"「戦人くん、船長が罪滅ぼしにって、ドリンクをサービスしてくれたよ。\n飲んで一服しないかい。\n落ち着くよ」\n譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。\n熊沢さんのニヤニヤ笑いを見る限り、船内では親たちが俺の大騒ぎをゲラゲラ笑い合っている真っ最中なんだろう。","japanesePC":"譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。","japanesePS3":"「戦人くん、船長が罪滅ぼしにって、ドリンクをサービスしてくれたよ。\n飲んで一服しないかい。\n落ち着くよ」\n譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。\n熊沢さんのニヤニヤ笑いを見る限り、船内では親たちが俺の大騒ぎをゲラゲラ笑い合っている真っ最中なんだろう。","WH":"George-aniki and Kumasawa baa-chan brought us all glasses with floating ice cubes and canned drinks.","MG":"\"Battler-kun, the captain's throwing in drinks to make up for this.\nWould you like one\nto calm yourself down?\"\nGeorge-aniki and Kumasawa baa-chan brought us all ice-cold cans of soft drinks covered with beads of water.\nJudging from Kumasawa-san's big grin, our parents inside the boat were probably all rolling around laughing at my moment of pure terror.","UP":"\"Battler‐kun, the captain is throwing in drinks to make up for this.\nHave a drink and take a break, why don't you?\nTo calm yourself down.\"\nGeorge‐aniki and Kumasawa baa‐chan brought us each an ice‐cold drink with drops of moisture on the can.\nJudging from Kumasawa‐san's big grin, our parents inside the boat were probably all rolling around laughing at my moment of pure terror.","note":"Both preserve cans with condensation; invented glasses/ice cubes gone.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_1-L0321","readerRefs":{"WH":["umi1_1-L0324"],"MG":["umi1_1-L0321","umi1_1-L0324","umi1_1-L0325"],"UP":["umi1_1-L0321","umi1_1-L0324","umi1_1-L0325"]}}],"sourceReading":"雫の浮く modifies the chilled 缶ジュース: droplets beading on the cans. 人数分 supplies enough cans for the group.","alternative":"浮く can describe floating, but 雫 are droplets, not ice cubes; the source names cans and no glasses.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-005","kind":"WH","description":"George says his parents repeatedly urged him about entrance exams when those exams were approaching. WH says ‘When I was slacking off during exams,’ inventing neglect and moving the pressure into the exam period. This changes his account of his parents’ insistence and his own younger conduct.","categories":["linguistic.mistranslation","linguistic.tense_aspect","character.motivation_emotion"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[330,337],"MG":[330,337],"UP":[330,337]},"japanese":"「親父とお袋ぉ？\n残念ながら元気だぜー。\n二言目には勉強しろ勉強しろってうるせーけどよ。\n秀吉叔父さんとか留弗夫叔父さんとか、そういうこと言わなそうだから羨ましいぜー？」\n「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。","japanesePC":"「はっはは、とんでもない。僕も受験を控えてた頃はいっつも受験受験って言われてたよ。うるさくも思ったけど、今は感謝してるよ。」","japanesePS3":"「親父とお袋ぉ？\n残念ながら元気だぜー。\n二言目には勉強しろ勉強しろってうるせーけどよ。\n秀吉叔父さんとか留弗夫叔父さんとか、そういうこと言わなそうだから羨ましいぜー？」\n「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。","WH":"\"Hahaha, oh no.  When I was slacking off during exams, I was always getting told 'exams, exams'.  I thought it was annoying, but now I'm grateful.\"","MG":"\"My old man and Mom?\nUnfortunately, they're fine.\nThough every other word out of their mouths is \"study, study\", which pisses me off.\nI'm so jealous, since it doesn't look like Uncle Hideyoshi or Uncle Rudolf would say stuff like that.\"\n\"Hahaha, oh no.\nBefore I had my exams, my parents kept pressing me about it over and over.\nI thought it was annoying then, but now I'm grateful.\"\n\"Hah, I knew it. You really are awesome, Aniki...","UP":"\"My old man and my mom?\nUnfortunately, they're fine.\nThough every other word out of their mouths is \"study, study\", which pisses me off.\nI'm so jealous, 'cause it doesn't look like Uncle Hideyoshi or Uncle Rudolf say those kinds of things.\"\n\"Hahaha, oh no.\nWhen I was slacking off during exams, I was always getting told \"exams, exams\".\nI thought it was annoying, but now I'm grateful.\"\n\"Hah, I knew it, George‐aniki is magnanimous as ever...","note":"MG before exams removes slacking and preserves upcoming timing. UP retains during/slacking claim. Both express eventual gratitude; defect affects George’s earlier conduct.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi1_1-L0330","readerRefs":{"WH":["umi1_1-L0334"],"MG":["umi1_1-L0330","umi1_1-L0334","umi1_1-L0337"],"UP":["umi1_1-L0330","umi1_1-L0334","umi1_1-L0337"]}}],"sourceReading":"受験を控えてた頃 means when entrance examinations were ahead of him; 控える does not mean slacking off here.","alternative":"Parental nagging could accompany inadequate studying, but no such inadequacy is stated. George only acknowledges past annoyance and present gratitude.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-006","kind":"WH","description":"After George expresses gratitude for his parents’ pressure, Battler calls him 人間が出来てる, praising his mature character. WH has ‘George-aniki can be human too,’ which reads as discovering human vulnerability or ordinary humanity rather than admiring maturity. It breaks Battler’s impressed response to George’s gratitude.","categories":["linguistic.idiom_calque","character.relationship_power"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[334,340],"MG":[334,340],"UP":[334,340]},"japanese":"「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。\nちなみにウチは絶賛放任中だからな。\nなぁんにも言われないぜぇ？\nまー言われたって聞かねぇけどなー、ひっひっひ！」","japanesePC":"「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。ちなみにウチは絶賛放任中だからな。なぁんにも言われないぜぇ？　まー言われたって聞かねぇけどなー、ひっひっひ！」","japanesePS3":"「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。\nちなみにウチは絶賛放任中だからな。\nなぁんにも言われないぜぇ？\nまー言われたって聞かねぇけどなー、ひっひっひ！」","WH":"\"Hah, I knew it, George-aniki can be human too...  Anyway, I have to look after myself.  No one tells me what to do!  Well, it's not like I'd listen if they did, hihihi!\"","MG":"\"Hahaha, oh no.\nBefore I had my exams, my parents kept pressing me about it over and over.\nI thought it was annoying then, but now I'm grateful.\"\n\"Hah, I knew it. You really are awesome, Aniki...\nAnyway, I have to look after myself.\nNo one tells me what to do!\nWell, it's not like I'd listen if they did, hihihi!\"","UP":"\"Hahaha, oh no.\nWhen I was slacking off during exams, I was always getting told \"exams, exams\".\nI thought it was annoying, but now I'm grateful.\"\n\"Hah, I knew it, George‐aniki is magnanimous as ever...\nAs for me, I have to look after myself.\nNo one says a thing to me!\nWell, it's not like I'd listen if they did, hihihi!\"","note":"Awesome/magnanimous express praise for George’s character; can be human too error gone. Magnanimous captures generous gratitude, though mature would be closer.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_1-L0334","readerRefs":{"WH":["umi1_1-L0337"],"MG":["umi1_1-L0334","umi1_1-L0337"],"UP":["umi1_1-L0334","umi1_1-L0337"]}}],"sourceReading":"人間が出来ている is well-developed character or maturity, not the ability to be human. やっぱり reinforces Battler’s established admiration.","alternative":"‘Human too’ might be read as a friendly observation, but it answers a different characterization: fallibility or relatability rather than mature gratitude.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-007","kind":"WH","description":"Kumasawa asks whether Battler has not yet returned to the parental home. WH asks whether he still ‘cannot return,’ introducing an obstacle or inability. His reply describes occasional visits and belongings still at the previous house; subsequent narration says he has had to return after his maternal grandparents died.","categories":["linguistic.mistranslation","character.agency_responsibility","world.space_time_continuity"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[341,373],"MG":[341,373],"UP":[341,373]},"japanese":"「戦人さんは、まだご実家には戻られておられないのですか？」\n「…まー、ちょくちょく戻るようには。\nまだ服とかだいぶ前の家に残してるんで」\n「……うー？\n戦人、お家が２つある？」\n「ん、\n………んー。\n……まぁな」\n「どうして？\nどうしてお家が２つ？\nうー？\nうー？」\n真里亞だけがよく事情が飲み込めず、素朴な疑問を口にする。\nだが、みんな俺をちらちらと見て、知りながらも答えはしなかった。\n「真里亞ぁ！\nほら、船着場が見えてきたぜ…！\nほら、あれ！\n見えるか？！」\n「うー！\n船着場見えた、船着場見えた！」\n朱志香が気を利かせてくれたつもりらしい。\n……やれやれ。\n好んで語りたいことじゃないが、変にタブー扱いされるのも気持ち悪いな。\n……俺はもうそんなに気にしちゃいねぇんだが。\n俺は右代宮の人間だが、\n実はこの６年ほど、死んだ母方の祖父母宅に身を寄せ、母方の姓を名乗っていた。\nその祖父母が相次いで亡くなったため、仕方なくクソ親父のところへ戻らざるを得なくなったわけだ。\n言っとくが家出とかじゃないぜ。\n一方的に非があるのは親父の方さ。\n……霧江さんのことはそんなに気にしてない。\nあのクソ親父の手綱を握ってうまく乗りこなせるなんて大したもんさ。\n…だが、あのクソ親父が母さんに働いた裏切りだけは、\n……悪ぃが、未だ心の整理がつかない。","japanesePC":"「戦人さんは、まだご実家には戻られておられないのですか？」","japanesePS3":"「戦人さんは、まだご実家には戻られておられないのですか？」\n「…まー、ちょくちょく戻るようには。\nまだ服とかだいぶ前の家に残してるんで」\n「……うー？\n戦人、お家が２つある？」\n「ん、\n………んー。\n……まぁな」\n「どうして？\nどうしてお家が２つ？\nうー？\nうー？」\n真里亞だけがよく事情が飲み込めず、素朴な疑問を口にする。\nだが、みんな俺をちらちらと見て、知りながらも答えはしなかった。\n「真里亞ぁ！\nほら、船着場が見えてきたぜ…！\nほら、あれ！\n見えるか？！」\n「うー！\n船着場見えた、船着場見えた！」\n朱志香が気を利かせてくれたつもりらしい。\n……やれやれ。\n好んで語りたいことじゃないが、変にタブー扱いされるのも気持ち悪いな。\n……俺はもうそんなに気にしちゃいねぇんだが。\n俺は右代宮の人間だが、\n実はこの６年ほど、死んだ母方の祖父母宅に身を寄せ、母方の姓を名乗っていた。\nその祖父母が相次いで亡くなったため、仕方なくクソ親父のところへ戻らざるを得なくなったわけだ。\n言っとくが家出とかじゃないぜ。\n一方的に非があるのは親父の方さ。\n……霧江さんのことはそんなに気にしてない。\nあのクソ親父の手綱を握ってうまく乗りこなせるなんて大したもんさ。\n…だが、あのクソ親父が母さんに働いた裏切りだけは、\n……悪ぃが、未だ心の整理がつかない。","WH":"\"Battler-san, you still cannot return to your home?\"","MG":"\"Battler-san, have you still not returned to your parents' home?\"\n\"...Well, I kinda go back now and then.\nI've got lots of clothes and stuff left at the house I was living in until recently.\"\n\"......Uu-?\nBattler has two houses?\"\n\"Uh,\n.........hmmm.\n......Something like that.\"\n\"Why?\nWhy do you have two houses?\nUu-?\nUu-?\"\nOnly Maria, who couldn't really grasp the situation, voiced this naive question.\nHowever, the others just shot nervous glances at me, choosing not to respond even though they knew the answer.\n\"Maria!\nLook, you can see the harbor now...!\nLook, over there!\nCan you see it?!\"\n\"Uu-!\nSaw the harbor, saw the harbor!\"\nApparently, Jessica was trying to be nice by changing the subject.\n......Ah, well.\nI'd rather not talk about it if I can help it, but it's uncomfortable to have it treated like some kind of weird taboo.\n......I don't mind it that much myself anymore.\nI may be a member of the Ushiromiya family,\nbut the truth is that, for these last six years, I've been living with my grandparents on my late mother's side, and I've even been using her family name.\nWhen those grandparents passed away one after the other, I basically had no choice but to go back and live with the old bastard.\nDon't get me wrong.\nI didn't just run away from home or anything like that.\nThe only one at fault here is my dad.\n......I don't really blame Kyrie-san.\nBeing able to hold that old bastard's reins and ride him out is no mean feat. ...Still, the way that old bastard betrayed my mom...\n......Well, unfortunately, I still haven't fully gotten over that.","UP":"\"Battler‐san, have you still not returned to your birth home?\"\n\"...Well, I kinda go back now and then.\nI still have lots of clothes and stuff left at the previous house.\"\n\"......Uu?\nBattler has two homes?\"\n\"Uh,\n.........hmmm.\n......Something like that.\"\n\"Why?\nWhy do you have two homes?\nUu?\nUu?\"\nOnly Maria, who couldn't really grasp the situation, voiced her naive question.\nHowever, the others just shot nervous glances at me, choosing not to respond even though they knew the answer.\n\"Maria!\nLook, you can see the harbor now...!\nLook, over there!\nCan you see it?!\"\n\"Uu!\nSaw the harbor, saw the harbor!\"\nApparently, Jessica was trying to be nice by changing the subject.\n......Ah, well.\nI'd rather not talk about it if I can help it, but it's uncomfortable to have it treated like some kind of weird taboo.\n......I don't mind that much myself anymore.\nI am an Ushiromiya,\nbut the truth is that, for the past six years, I've been living with my grandparents on my late mother's side, and I've even been using her family name.\nWhen those grandparents passed away one after the other, I'd basically had no choice except to go back and live with the old bastard.\nDon't get me wrong. I didn't just run away from home or anything like that.\nThe only one at fault here is my dad.\n......I don't really blame Kyrie‐san.\nBeing able to hold that old bastard's reins and ride him out is no mean feat.\n...But as for the betrayal that the old bastard inflicted on my mom...\n......Well, unfortunately, I still haven't fully gotten over that.","note":"Both ask not yet returned, not cannot return. Subsequent residence account preserves maternal name and forced return after grandparents deaths.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_1-L0341","readerRefs":{"WH":["umi1_1-L0341"],"MG":["umi1_1-L0341","umi1_1-L0342","umi1_1-L0344","umi1_1-L0346","umi1_1-L0349","umi1_1-L0353","umi1_1-L0355","umi1_1-L0359","umi1_1-L0361","umi1_1-L0365","umi1_1-L0368","umi1_1-L0370"],"UP":["umi1_1-L0341","umi1_1-L0342","umi1_1-L0344","umi1_1-L0346","umi1_1-L0349","umi1_1-L0353","umi1_1-L0355","umi1_1-L0359","umi1_1-L0361","umi1_1-L0365","umi1_1-L0368","umi1_1-L0370"]}}],"sourceReading":"まだ ... 戻られておられない asks about the state of not yet having returned; the honorific passive-form 戻られる is not an inability construction.","alternative":"The awkward family circumstances explain delicacy, but they do not establish a prohibition or inability to return. The English question introduces one as its premise.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-008","kind":"WH","description":"Jessica agrees with Battler’s proposed natural cause, but then states that the shrine disappeared this summer. WH carries uncertainty into the separate date statement: ‘It probably disappeared during the summer.’ Readers lose the definite seasonal anchor supplied by the island resident, independently of whether the proposed cause is true.","categories":["linguistic.mistranslation","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[459,466],"MG":[459,466],"UP":[459,466]},"japanese":"「大方、波か何かでさらわれちまったんだろー？\n小さい岩だったしな、だいぶ風化で脆くなってたんだろさ」\n「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」","japanesePC":"「私もそうだと思ってるんだけどよ。なくなっちゃったのはこの夏のことなんだよ。何でもよぅ、」","japanesePS3":"「大方、波か何かでさらわれちまったんだろー？\n小さい岩だったしな、だいぶ風化で脆くなってたんだろさ」\n「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」","WH":"\"I think so too.  It probably disappeared during the summer.  Whatever.\"","MG":"\"Maybe they were washed away by the waves or something.\nIt was a small crag, so it probably got worn away over time.\"\n\"Well, that's my theory too.\nIt was last summer that it disappeared.\nBut they say-\"\n\"They say an enormous lightning bolt came crashing down one evening and smashed the shrine...\n...The fishermen whisper that having a thunderbolt fall upon our honored tutelary god must be a portent of approaching misfortune.\n...Kuwabara, kuwabara...\"","UP":"\"Maybe they were washed away by the waves or something?\nIt was a small crag, it probably got brittle because of its exposure.\"\n\"I think so too.\nIt actually disappeared during the summer.\nApparently—\"\n\"A huge lightning bolt fell one evening and smashed the shrine, or some such...\n......The fishermen whisper that it must undoubtedly be an ominous sign, to have a thunderbolt fall upon our tutelary god.\n...Lightning begone, lightning begone...\"","note":"Both give unhedged summer disappearance separately from agreement with wave explanation. WH probable-date error gone. MG last summer refers most recent summer in October setting, not necessarily previous calendar year.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_1-L0459","readerRefs":{"WH":["umi1_1-L0461"],"MG":["umi1_1-L0459","umi1_1-L0461","umi1_1-L0464"],"UP":["umi1_1-L0459","umi1_1-L0461","umi1_1-L0464"]}}],"sourceReading":"私もそうだと思ってる qualifies agreement with the wave explanation. なくなっちゃったのはこの夏のことなんだよ then asserts the season without a probability marker.","alternative":"The prior と思ってる concerns the proposed cause; extending it over the date conflates separate assertions. Kumasawa’s subsequent hearsay explanation does not make Jessica’s date a guess.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-CH01-009","kind":"WH","description":"Jessica’s 何でもよぅ introduces something heard, continued by Kumasawa’s だとか report of lightning destroying the shrine. WH has Jessica dismiss it with ‘Whatever,’ then makes Kumasawa propose ‘Or perhaps’ lightning. The reported account becomes an alternative she is speculating about rather than an account circulating independently of her suggestion.","categories":["linguistic.logical_relation","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_1","episode":1,"rows":{"JP":[461,467],"MG":[461,467],"UP":[461,467]},"japanese":"「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」\n熊沢さんはからかうように悪戯っぽく笑いながら、両手を揉み合せるような仕草をする。","japanesePC":"「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。……鎮守様に落雷があるなど、これは不吉の徴に違いないと、漁民たちは囁いておりますねぇ。…くわばらくわばら…。」","japanesePS3":"「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」\n熊沢さんはからかうように悪戯っぽく笑いながら、両手を揉み合せるような仕草をする。","WH":"\"Or perhaps a huge lightning bolt fell one evening and smashed the shrine...  ......The fisherman whisper that having a thunderbolt fall upon our honored tutelary God would be a certain sign of misfortune.  ...Lightning begone, lightning begone...\"","MG":"\"Well, that's my theory too.\nIt was last summer that it disappeared.\nBut they say-\"\n\"They say an enormous lightning bolt came crashing down one evening and smashed the shrine...\n...The fishermen whisper that having a thunderbolt fall upon our honored tutelary god must be a portent of approaching misfortune.\n...Kuwabara, kuwabara...\"\nKumasawa-san smiled impishly as if teasing us, rubbing her hands together while entoning a Japanese phrase meant to ward off lightning.","UP":"\"I think so too.\nIt actually disappeared during the summer.\nApparently—\"\n\"A huge lightning bolt fell one evening and smashed the shrine, or some such...\n......The fishermen whisper that it must undoubtedly be an ominous sign, to have a thunderbolt fall upon our tutelary god.\n...Lightning begone, lightning begone...\"\nKumasawa‐san smiled impishly as if teasing us, rubbing her hands together.","note":"MG they say / UP apparently and or some such preserve reported lightning account, rather than proposed speculative alternative. Fishermen whispering omen remains distinct from verified cause.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_1-L0461","readerRefs":{"WH":["umi1_1-L0464"],"MG":["umi1_1-L0461","umi1_1-L0464","umi1_1-L0467"],"UP":["umi1_1-L0461","umi1_1-L0464","umi1_1-L0467"]}}],"sourceReading":"何でも and だとか mark hearsay; they do not certify lightning as fact. The following fishermen’s ominous interpretation is another explicitly attributed report.","alternative":"The English still reports fishermen’s beliefs about an omen, and Japanese hearsay is uncertain. But uncertainty about a reported event is different from inventing a possible explanation; the original neither asserts certainty nor frames a personal alternative hypothesis.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-CH01-001",
+      "kind": "WH",
+      "description": "Kumasawa’s お迎え待ち is a death euphemism in her self-deprecating reply: the decrepit woman awaiting her own final summons is welcoming the guests. WH makes her merely the woman waiting to greet them. The repeated お迎え loses the collision of guest pickup and death’s arrival, following Rudolf’s one-foot-in-the-coffin joke.",
+      "categories": [
+        "linguistic.wordplay",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              142,
+              155
+            ],
+            "MG": [
+              142,
+              155
+            ],
+            "UP": [
+              142,
+              155
+            ]
+          },
+          "japanese": "「おいおい、よせよ熊沢さん。\n棺桶に半分足突っ込んだ人がはしゃいじゃいけねぇぜ」\n「若い方とじゃれるのが、何よりの若返りの薬ですよ。\nほっほっほ！」\n「熊沢さんが迎えに来るなんて珍しいじゃない。\nどういう風の吹き回しかしらぁ？\n用事を頼まれるといつも腰痛になるあなたが。\nくすくす」\n「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。\n急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。\nもっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。\nほっほっほ…！」\nさらりと嫌味を言う絵羽伯母さんだが、熊沢の婆ちゃんはさすがに年季が入ってる。\nさらりと涼しげに受け流して見せるぜ。",
+          "japanesePC": "「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。もっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。ほっほっほ…！」",
+          "japanesePS3": "「おいおい、よせよ熊沢さん。\n棺桶に半分足突っ込んだ人がはしゃいじゃいけねぇぜ」\n「若い方とじゃれるのが、何よりの若返りの薬ですよ。\nほっほっほ！」\n「熊沢さんが迎えに来るなんて珍しいじゃない。\nどういう風の吹き回しかしらぁ？\n用事を頼まれるといつも腰痛になるあなたが。\nくすくす」\n「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。\n急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。\nもっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。\nほっほっほ…！」\nさらりと嫌味を言う絵羽伯母さんだが、熊沢の婆ちゃんはさすがに年季が入ってる。\nさらりと涼しげに受け流して見せるぜ。",
+          "WH": "\"Hoh-hoh-ho, Eva-sama, you are harsh as usual.  I found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all.  Although, it does give a bad impression if the one waiting to greet you is a decrepit old woman.  Hoh-hoh-ho...!\"",
+          "MG": "\"Kumasawa-san, stop that now.\nPeople with one foot in the coffin shouldn't jump around.\"\n\"To sport with the young is the most rejuvenating medicine.\nHohohoh!\"\n\"It's rare for you to come pick us up, Kumasawa-san.\nI wonder what's gotten into you.\nUsually, your lumbago kicks in whenever someone gives you a job to do.\n*giggle*.\"\n\"Hohohoh, Eva-sama, you're as harsh as ever.\nI found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all.\nAlthough, it does give a bad impression if the one waiting to greet you is a decrepit old woman.\nHohohoh...!\"\nAunt Eva spoke sarcastically, but Kumasawa baa-chan's years of experience were nothing to sneeze at.\nShe was more than capable of smoothly and coolly deflecting that comment.",
+          "UP": "\"Kumasawa‐san, stop that now.\nPeople with one foot in the coffin shouldn't jump around.\"\n\"To sport with the young is the best rejuvenation medicine.\nHoh‐hoh‐ho!\"\n\"It's rare for you to come pick us up, Kumasawa‐san.\nWhat curious turn of events is this?\nNormally whenever you're entrusted with something to do, your lumbago always kicks in.\n*snicker*.\"\n\"Hoh‐hoh‐ho, Eva‐sama, you are harsh as usual.\nI found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all.\nAlthough, it does give a bad impression if the one waiting to greet you is a decrepit old woman.\nHoh‐hoh‐ho...!\"\nAuntie Eva spoke sarcastically, but Kumasawa baa‐chan's years of experience were nothing to sneeze at.\nShe was more than capable of smoothly and coolly letting that comment slide.",
+          "note": "Both use one waiting to greet you, losing awaiting death/final summons pun. Preceding coffin joke establishes source function.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_1-L0142",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0150"
+            ],
+            "MG": [
+              "umi1_1-L0142",
+              "umi1_1-L0144",
+              "umi1_1-L0146",
+              "umi1_1-L0150",
+              "umi1_1-L0154"
+            ],
+            "UP": [
+              "umi1_1-L0142",
+              "umi1_1-L0144",
+              "umi1_1-L0146",
+              "umi1_1-L0150",
+              "umi1_1-L0154"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。もっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。ほっほっほ…！」",
+              "translation": "\"Hohohoh, Eva-sama, you're as harsh as ever. I found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all. Although, it does give a bad impression if the one waiting to greet you is a decrepit old woman. Hohohoh...!\" "
+            },
+            "UP": {
+              "japanese": "「ほっほっほ、絵羽さまは相変わらず手厳しゅうございます。急なお買い物がありましたもので、そのついでに皆様のお迎えをしようと思いまして。もっともお迎え待ちの老いぼれのお迎えでは景気もお悪いでしょうが。ほっほっほ…！」",
+              "translation": "\"Hoh‐hoh‐ho, Eva‐sama, you are harsh as usual. I found myself with some urgent purchases to make, and while I was at it, I thought I would come welcome you all. Although, it does give a bad impression if the one waiting to greet you is a decrepit old woman. Hoh‐hoh‐ho...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0150"
+            ],
+            "MG": [
+              "umi1_1-L0150"
+            ],
+            "UP": [
+              "umi1_1-L0150"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The greeting sense belongs to お迎えでは; お迎え待ちの老いぼれ qualifies the old woman as awaiting death.",
+      "alternative": "Both occurrences use the same greeting word, making a literal greeting reading tempting. The coffin remark and 老いぼれ make the death euphemism operative; WH retains decrepitude but loses that double meaning.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-002",
+      "kind": "WH",
+      "description": "Rosa has remembered last year’s promise and bought the tea. Kumasawa is touched not only by that remembered promise but by Rosa bringing a gift even for a servant. WH says ‘Whether or not Kumasawa ... remembered’ the promise. It assigns the remembering to the recipient and replaces the additive ばかりか construction with uncertainty.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.logical_relation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              162,
+              171
+            ],
+            "MG": [
+              162,
+              171
+            ],
+            "UP": [
+              162,
+              171
+            ]
+          },
+          "japanese": "「ますますにお元気なようで。\nそうだ、これ。\n前に話してたお茶です。\nほら、買ってきました。\n後で飲んでみてください」\n楼座叔母さんは荷物からお土産の入った袋を出して見せる。\n昨年に会った時にしたらしい約束をちゃんと覚えていて律儀にそれを買ってくるとは。\n…こういう辺りの律儀さは楼座叔母さんらしい。\n約束は忘れず、そして破らない人だ。\n熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。",
+          "japanesePC": "熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。",
+          "japanesePS3": "「ますますにお元気なようで。\nそうだ、これ。\n前に話してたお茶です。\nほら、買ってきました。\n後で飲んでみてください」\n楼座叔母さんは荷物からお土産の入った袋を出して見せる。\n昨年に会った時にしたらしい約束をちゃんと覚えていて律儀にそれを買ってくるとは。\n…こういう辺りの律儀さは楼座叔母さんらしい。\n約束は忘れず、そして破らない人だ。\n熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。",
+          "WH": "Whether or not Kumasawa baa-chan remembered this year-old promise, she seemed deeply touched by the fact that someone would bring a gift to a simple servant like her.",
+          "MG": "\"You just seem to get more and more lively.\nOh, that's right, here you are.\nIt's the tea I told you about before.\nLook, I bought you some.\nPlease do try it later on.\"\nAunt Rosa took a souvenir bag out from her suitcase.\nTo think that she remembered a promise that she'd apparently made last year and faithfully bought it.\n...This sort of thoughtfulness was just like Aunt Rosa.\nShe wasn't the kind of person who would forget or break a promise.\nKumasawa baa-chan seemed deeply touched, not only that Aunt Rosa had remembered this year-old promise, but that she would bring a gift to a simple servant like her.",
+          "UP": "\"You just seem to get more and more lively.\nOh, that's right, here you are.\nIt's the tea I was talking about before.\nLook, I bought some.\nPlease do try it later on.\"\nAuntie Rosa showed her the souvenir bag she'd taken out of her suitcase.\nTo think that she had remembered the promise that she had apparently made last year and faithfully bought it.\n...This sort of thoughtfulness was just like Auntie Rosa.\nShe wasn't the kind of person who would forget or break a promise.\nAs for Kumasawa baa‐chan, she seemed deeply touched by the fact that not only had Auntie Rosa remembered that year‐old promise, she had brought that gift for a simple servant like her.",
+          "note": "Both correctly assign remembered promise to Rosa and retain not only/but gift to servant. WH recipient/uncertainty error no longer applies; do not copy it into error counts.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_1-L0162",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0171"
+            ],
+            "MG": [
+              "umi1_1-L0162",
+              "umi1_1-L0167",
+              "umi1_1-L0171"
+            ],
+            "UP": [
+              "umi1_1-L0162",
+              "umi1_1-L0167",
+              "umi1_1-L0171"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。",
+              "translation": "Kumasawa baa-chan seemed deeply touched, not only that Aunt Rosa had remembered this year-old promise, but that she would bring a gift to a simple servant like her. "
+            },
+            "UP": {
+              "japanese": "熊沢の婆ちゃんは一年前の約束を覚えていたばかりか、使用人である自分にまで土産を持ってきてくれたことにとても感激しているようだった。",
+              "translation": "As for Kumasawa baa‐chan, she seemed deeply touched by the fact that not only had Auntie Rosa remembered that year‐old promise, she had brought that gift for a simple servant like her."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0171"
+            ],
+            "MG": [
+              "umi1_1-L0171"
+            ],
+            "UP": [
+              "umi1_1-L0171"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The preceding narration explicitly identifies Rosa as the person faithfully remembering and fulfilling her promise. Kumasawa is the experiencer of 感激, while the remembered promise and gift are the reasons.",
+      "alternative": "The Japanese topic remains Kumasawa and the embedded subject is unstated, so the raw clause can tempt a subject error. Even on that reading, ばかりか is not ‘whether or not’; the continuous context establishes Rosa’s thoughtfulness.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-003",
+      "kind": "WH",
+      "description": "Jessica says the boat has four high-performance propellers. WH describes ‘four-base high efficiency propellers,’ treating the machine counter 基 as part of the apparatus description and losing the explicit count of four individual propellers.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              238,
+              246
+            ],
+            "MG": [
+              238,
+              246
+            ],
+            "UP": [
+              238,
+              246
+            ]
+          },
+          "japanese": "「何しろ、船長自慢の改造高速艇らしいぜ？\nだいぶいじってるらしく、\nプロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。\nいつも自慢されるんで覚えちまったぜ」\n「僕も毎年聞かされるんで覚えちゃったよ。\n船長は昔、外国の漁船と速度比べをして負けて以来、スピード改造に取り憑かれちゃったんだってさ。\nその時の相手は漁船なのに３０ノット以上も出せたんだってね」\n「その雪辱の念が結実して、スカっと爽快な超高速改造艇の誕生となったわけさ。\n戦人もきっと気に入るぜー」",
+          "japanesePC": "「何しろ、船長自慢の改造高速艇らしいぜ？　だいぶいじってるらしく、プロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。いつも自慢されるんで覚えちまったぜ。」",
+          "japanesePS3": "「何しろ、船長自慢の改造高速艇らしいぜ？\nだいぶいじってるらしく、\nプロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。\nいつも自慢されるんで覚えちまったぜ」\n「僕も毎年聞かされるんで覚えちゃったよ。\n船長は昔、外国の漁船と速度比べをして負けて以来、スピード改造に取り憑かれちゃったんだってさ。\nその時の相手は漁船なのに３０ノット以上も出せたんだってね」\n「その雪辱の念が結実して、スカっと爽快な超高速改造艇の誕生となったわけさ。\n戦人もきっと気に入るぜー」",
+          "WH": "\"Anyway, it's the captain's pride and joy, and it's a kinda modded high-speed boat.  Seems he tinkers with big parts of it.  He was bragging about how he attached four-base high efficiency propellers to it so that he could break 40 knots or something like that.  I just remember how he's always bragging.\"",
+          "MG": "\"Anyway, it's the captain's pride and joy, a kind of modded high-speed boat.\nSeems he's got it pretty souped up.\nHe was bragging about how he attached four-base high efficiency propellers to make it break 40 knots, or something like that.\nHe talks about it all the time, so I've sorta memorized the spiel.\"\n\"Yeah, I've got it memorized too, since we hear about it every year.\nThe captain says he's been obsessed with modding ever since he lost a speed contest with a foreign boat ages ago.\nAccording to him, that opponent managed to break 30 knots with just a fishing boat.\"\n\"And his thirst for a revenge match got him to build an awesome, all-new, super high-speed modded boat.\nI'm sure you'll just love it, Battler.\"",
+          "UP": "\"You know, it's apparently a modded high‐speed boat, the captain's pride and joy!\nSeems he's tinkered with it quite a lot—\nhe was going on about how he attached four high efficiency propellers to it, and now it can break 40 knots, or something like that.\nHe bragged to me so much I ended up memorizing it.\"\n\"Me too; I remember since we're told about it every year.\nThe captain said that since he lost a speed contest with a foreign fishing boat a long time ago, he became obsessed with modding.\nHe told us how his opponent back then could go at over 30 knots, even though it was only in a fishing boat.\"\n\"To fulfill his thirst for a revenge match, he created an awesome whole new super high‐speed modded boat.\nI'm sure you'll just love it, Battler.\"",
+          "note": "MG retains four-base; UP explicitly four propellers. Count, speed and reported captain boast considered together.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_1-L0238",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0238"
+            ],
+            "MG": [
+              "umi1_1-L0238",
+              "umi1_1-L0242",
+              "umi1_1-L0245"
+            ],
+            "UP": [
+              "umi1_1-L0238",
+              "umi1_1-L0242",
+              "umi1_1-L0245"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「何しろ、船長自慢の改造高速艇らしいぜ？　だいぶいじってるらしく、プロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。いつも自慢されるんで覚えちまったぜ」",
+              "translation": "\"Anyway, it's the captain's pride and joy, a kind of modded high-speed boat. Seems he's got it pretty souped up. He was bragging about how he attached four-base high efficiency propellers to make it break 40 knots, or something like that. He talks about it all the time, so I've sorta memorized the spiel.\" "
+            },
+            "UP": {
+              "japanese": "「何しろ、船長自慢の改造高速艇らしいぜ？　だいぶいじってるらしく、プロペラは高性能のが４基も付いてて最高速度は４０ノットを超えるとか何とか自慢してたなー。いつも自慢されるんで覚えちまったぜ」",
+              "translation": "\"You know, it's apparently a modded high‐speed boat, the captain's pride and joy! Seems he's tinkered with it quite a lot— he was going on about how he attached four high efficiency propellers to it, and now it can break 40 knots, or something like that. He bragged to me so much I ended up memorizing it.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0238"
+            ],
+            "MG": [
+              "umi1_1-L0238"
+            ],
+            "UP": [
+              "umi1_1-L0238"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "４基 counts four installed units; it does not describe a four-base design. The exceeding-40-knots boast remains separately expressed.",
+      "alternative": "Readers might guess four-base implies four, but it supplies no intelligible count or established apparatus configuration. The numerical statement in Japanese is straightforward.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-004",
+      "kind": "WH",
+      "description": "George and Kumasawa bring one well-chilled can of juice per person, with droplets on the cans. WH supplies both glasses with floating ice cubes and canned drinks. It changes surface condensation into ice and adds drinking vessels.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.addition",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              321,
+              325
+            ],
+            "MG": [
+              321,
+              325
+            ],
+            "UP": [
+              321,
+              325
+            ]
+          },
+          "japanese": "「戦人くん、船長が罪滅ぼしにって、ドリンクをサービスしてくれたよ。\n飲んで一服しないかい。\n落ち着くよ」\n譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。\n熊沢さんのニヤニヤ笑いを見る限り、船内では親たちが俺の大騒ぎをゲラゲラ笑い合っている真っ最中なんだろう。",
+          "japanesePC": "譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。",
+          "japanesePS3": "「戦人くん、船長が罪滅ぼしにって、ドリンクをサービスしてくれたよ。\n飲んで一服しないかい。\n落ち着くよ」\n譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。\n熊沢さんのニヤニヤ笑いを見る限り、船内では親たちが俺の大騒ぎをゲラゲラ笑い合っている真っ最中なんだろう。",
+          "WH": "George-aniki and Kumasawa baa-chan brought us all glasses with floating ice cubes and canned drinks.",
+          "MG": "\"Battler-kun, the captain's throwing in drinks to make up for this.\nWould you like one\nto calm yourself down?\"\nGeorge-aniki and Kumasawa baa-chan brought us all ice-cold cans of soft drinks covered with beads of water.\nJudging from Kumasawa-san's big grin, our parents inside the boat were probably all rolling around laughing at my moment of pure terror.",
+          "UP": "\"Battler‐kun, the captain is throwing in drinks to make up for this.\nHave a drink and take a break, why don't you?\nTo calm yourself down.\"\nGeorge‐aniki and Kumasawa baa‐chan brought us each an ice‐cold drink with drops of moisture on the can.\nJudging from Kumasawa‐san's big grin, our parents inside the boat were probably all rolling around laughing at my moment of pure terror.",
+          "note": "Both preserve cans with condensation; invented glasses/ice cubes gone.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_1-L0321",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0324"
+            ],
+            "MG": [
+              "umi1_1-L0321",
+              "umi1_1-L0324",
+              "umi1_1-L0325"
+            ],
+            "UP": [
+              "umi1_1-L0321",
+              "umi1_1-L0324",
+              "umi1_1-L0325"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。",
+              "translation": "George-aniki and Kumasawa baa-chan brought us all ice-cold cans of soft drinks covered with beads of water. "
+            },
+            "UP": {
+              "japanese": "譲治の兄貴と熊沢の婆ちゃんが、よく冷えた雫の浮く缶ジュースを人数分、持ってきてくれた。",
+              "translation": "George‐aniki and Kumasawa baa‐chan brought us each an ice‐cold drink with drops of moisture on the can."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0324"
+            ],
+            "MG": [
+              "umi1_1-L0324"
+            ],
+            "UP": [
+              "umi1_1-L0324"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "雫の浮く modifies the chilled 缶ジュース: droplets beading on the cans. 人数分 supplies enough cans for the group.",
+      "alternative": "浮く can describe floating, but 雫 are droplets, not ice cubes; the source names cans and no glasses.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-005",
+      "kind": "WH",
+      "description": "George says his parents repeatedly urged him about entrance exams when those exams were approaching. WH says ‘When I was slacking off during exams,’ inventing neglect and moving the pressure into the exam period. This changes his account of his parents’ insistence and his own younger conduct.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.tense_aspect",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              330,
+              337
+            ],
+            "MG": [
+              330,
+              337
+            ],
+            "UP": [
+              330,
+              337
+            ]
+          },
+          "japanese": "「親父とお袋ぉ？\n残念ながら元気だぜー。\n二言目には勉強しろ勉強しろってうるせーけどよ。\n秀吉叔父さんとか留弗夫叔父さんとか、そういうこと言わなそうだから羨ましいぜー？」\n「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。",
+          "japanesePC": "「はっはは、とんでもない。僕も受験を控えてた頃はいっつも受験受験って言われてたよ。うるさくも思ったけど、今は感謝してるよ。」",
+          "japanesePS3": "「親父とお袋ぉ？\n残念ながら元気だぜー。\n二言目には勉強しろ勉強しろってうるせーけどよ。\n秀吉叔父さんとか留弗夫叔父さんとか、そういうこと言わなそうだから羨ましいぜー？」\n「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。",
+          "WH": "\"Hahaha, oh no.  When I was slacking off during exams, I was always getting told 'exams, exams'.  I thought it was annoying, but now I'm grateful.\"",
+          "MG": "\"My old man and Mom?\nUnfortunately, they're fine.\nThough every other word out of their mouths is \"study, study\", which pisses me off.\nI'm so jealous, since it doesn't look like Uncle Hideyoshi or Uncle Rudolf would say stuff like that.\"\n\"Hahaha, oh no.\nBefore I had my exams, my parents kept pressing me about it over and over.\nI thought it was annoying then, but now I'm grateful.\"\n\"Hah, I knew it. You really are awesome, Aniki...",
+          "UP": "\"My old man and my mom?\nUnfortunately, they're fine.\nThough every other word out of their mouths is \"study, study\", which pisses me off.\nI'm so jealous, 'cause it doesn't look like Uncle Hideyoshi or Uncle Rudolf say those kinds of things.\"\n\"Hahaha, oh no.\nWhen I was slacking off during exams, I was always getting told \"exams, exams\".\nI thought it was annoying, but now I'm grateful.\"\n\"Hah, I knew it, George‐aniki is magnanimous as ever...",
+          "note": "MG before exams removes slacking and preserves upcoming timing. UP retains during/slacking claim. Both express eventual gratitude; defect affects George’s earlier conduct.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_1-L0330",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0334"
+            ],
+            "MG": [
+              "umi1_1-L0330",
+              "umi1_1-L0334",
+              "umi1_1-L0337"
+            ],
+            "UP": [
+              "umi1_1-L0330",
+              "umi1_1-L0334",
+              "umi1_1-L0337"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はっはは、とんでもない。僕も受験を控えてた頃はいっつも受験受験って言われてたよ。うるさくも思ったけど、今は感謝してるよ」",
+              "translation": "\"Hahaha, oh no. Before I had my exams, my parents kept pressing me about it over and over. I thought it was annoying then, but now I'm grateful.\" "
+            },
+            "UP": {
+              "japanese": "「はっはは、とんでもない。僕も受験を控えてた頃はいっつも受験受験って言われてたよ。うるさくも思ったけど、今は感謝してるよ」",
+              "translation": "\"Hahaha, oh no. When I was slacking off during exams, I was always getting told \"exams, exams\". I thought it was annoying, but now I'm grateful.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0334"
+            ],
+            "MG": [
+              "umi1_1-L0334"
+            ],
+            "UP": [
+              "umi1_1-L0334"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "受験を控えてた頃 means when entrance examinations were ahead of him; 控える does not mean slacking off here.",
+      "alternative": "Parental nagging could accompany inadequate studying, but no such inadequacy is stated. George only acknowledges past annoyance and present gratitude.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-006",
+      "kind": "WH",
+      "description": "After George expresses gratitude for his parents’ pressure, Battler calls him 人間が出来てる, praising his mature character. WH has ‘George-aniki can be human too,’ which reads as discovering human vulnerability or ordinary humanity rather than admiring maturity. It breaks Battler’s impressed response to George’s gratitude.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              334,
+              340
+            ],
+            "MG": [
+              334,
+              340
+            ],
+            "UP": [
+              334,
+              340
+            ]
+          },
+          "japanese": "「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。\nちなみにウチは絶賛放任中だからな。\nなぁんにも言われないぜぇ？\nまー言われたって聞かねぇけどなー、ひっひっひ！」",
+          "japanesePC": "「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。ちなみにウチは絶賛放任中だからな。なぁんにも言われないぜぇ？　まー言われたって聞かねぇけどなー、ひっひっひ！」",
+          "japanesePS3": "「はっはは、とんでもない。\n僕も受験を控えてた頃はいっつも受験受験って言われてたよ。\nうるさくも思ったけど、今は感謝してるよ」\n「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。\nちなみにウチは絶賛放任中だからな。\nなぁんにも言われないぜぇ？\nまー言われたって聞かねぇけどなー、ひっひっひ！」",
+          "WH": "\"Hah, I knew it, George-aniki can be human too...  Anyway, I have to look after myself.  No one tells me what to do!  Well, it's not like I'd listen if they did, hihihi!\"",
+          "MG": "\"Hahaha, oh no.\nBefore I had my exams, my parents kept pressing me about it over and over.\nI thought it was annoying then, but now I'm grateful.\"\n\"Hah, I knew it. You really are awesome, Aniki...\nAnyway, I have to look after myself.\nNo one tells me what to do!\nWell, it's not like I'd listen if they did, hihihi!\"",
+          "UP": "\"Hahaha, oh no.\nWhen I was slacking off during exams, I was always getting told \"exams, exams\".\nI thought it was annoying, but now I'm grateful.\"\n\"Hah, I knew it, George‐aniki is magnanimous as ever...\nAs for me, I have to look after myself.\nNo one says a thing to me!\nWell, it's not like I'd listen if they did, hihihi!\"",
+          "note": "Awesome/magnanimous express praise for George’s character; can be human too error gone. Magnanimous captures generous gratitude, though mature would be closer.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_1-L0334",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0337"
+            ],
+            "MG": [
+              "umi1_1-L0334",
+              "umi1_1-L0337"
+            ],
+            "UP": [
+              "umi1_1-L0334",
+              "umi1_1-L0337"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。ちなみにウチは絶賛放任中だからな。なぁんにも言われないぜぇ？　まー言われたって聞かねぇけどなー、ひっひっひ！」",
+              "translation": "\"Hah, I knew it. You really are awesome, Aniki... Anyway, I have to look after myself. No one tells me what to do! Well, it's not like I'd listen if they did, hihihi!\" "
+            },
+            "UP": {
+              "japanese": "「はー、やっぱり譲治兄貴は人間が出来てるなぁ…。ちなみにウチは絶賛放任中だからな。なぁんにも言われないぜぇ？　まー言われたって聞かねぇけどなー、ひっひっひ！」",
+              "translation": "\"Hah, I knew it, George‐aniki is magnanimous as ever... As for me, I have to look after myself. No one says a thing to me! Well, it's not like I'd listen if they did, hihihi!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0337"
+            ],
+            "MG": [
+              "umi1_1-L0337"
+            ],
+            "UP": [
+              "umi1_1-L0337"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "人間が出来ている is well-developed character or maturity, not the ability to be human. やっぱり reinforces Battler’s established admiration.",
+      "alternative": "‘Human too’ might be read as a friendly observation, but it answers a different characterization: fallibility or relatability rather than mature gratitude.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-007",
+      "kind": "WH",
+      "description": "Kumasawa asks whether Battler has not yet returned to the parental home. WH asks whether he still ‘cannot return,’ introducing an obstacle or inability. His reply describes occasional visits and belongings still at the previous house; subsequent narration says he has had to return after his maternal grandparents died.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              341,
+              373
+            ],
+            "MG": [
+              341,
+              373
+            ],
+            "UP": [
+              341,
+              373
+            ]
+          },
+          "japanese": "「戦人さんは、まだご実家には戻られておられないのですか？」\n「…まー、ちょくちょく戻るようには。\nまだ服とかだいぶ前の家に残してるんで」\n「……うー？\n戦人、お家が２つある？」\n「ん、\n………んー。\n……まぁな」\n「どうして？\nどうしてお家が２つ？\nうー？\nうー？」\n真里亞だけがよく事情が飲み込めず、素朴な疑問を口にする。\nだが、みんな俺をちらちらと見て、知りながらも答えはしなかった。\n「真里亞ぁ！\nほら、船着場が見えてきたぜ…！\nほら、あれ！\n見えるか？！」\n「うー！\n船着場見えた、船着場見えた！」\n朱志香が気を利かせてくれたつもりらしい。\n……やれやれ。\n好んで語りたいことじゃないが、変にタブー扱いされるのも気持ち悪いな。\n……俺はもうそんなに気にしちゃいねぇんだが。\n俺は右代宮の人間だが、\n実はこの６年ほど、死んだ母方の祖父母宅に身を寄せ、母方の姓を名乗っていた。\nその祖父母が相次いで亡くなったため、仕方なくクソ親父のところへ戻らざるを得なくなったわけだ。\n言っとくが家出とかじゃないぜ。\n一方的に非があるのは親父の方さ。\n……霧江さんのことはそんなに気にしてない。\nあのクソ親父の手綱を握ってうまく乗りこなせるなんて大したもんさ。\n…だが、あのクソ親父が母さんに働いた裏切りだけは、\n……悪ぃが、未だ心の整理がつかない。",
+          "japanesePC": "「戦人さんは、まだご実家には戻られておられないのですか？」",
+          "japanesePS3": "「戦人さんは、まだご実家には戻られておられないのですか？」\n「…まー、ちょくちょく戻るようには。\nまだ服とかだいぶ前の家に残してるんで」\n「……うー？\n戦人、お家が２つある？」\n「ん、\n………んー。\n……まぁな」\n「どうして？\nどうしてお家が２つ？\nうー？\nうー？」\n真里亞だけがよく事情が飲み込めず、素朴な疑問を口にする。\nだが、みんな俺をちらちらと見て、知りながらも答えはしなかった。\n「真里亞ぁ！\nほら、船着場が見えてきたぜ…！\nほら、あれ！\n見えるか？！」\n「うー！\n船着場見えた、船着場見えた！」\n朱志香が気を利かせてくれたつもりらしい。\n……やれやれ。\n好んで語りたいことじゃないが、変にタブー扱いされるのも気持ち悪いな。\n……俺はもうそんなに気にしちゃいねぇんだが。\n俺は右代宮の人間だが、\n実はこの６年ほど、死んだ母方の祖父母宅に身を寄せ、母方の姓を名乗っていた。\nその祖父母が相次いで亡くなったため、仕方なくクソ親父のところへ戻らざるを得なくなったわけだ。\n言っとくが家出とかじゃないぜ。\n一方的に非があるのは親父の方さ。\n……霧江さんのことはそんなに気にしてない。\nあのクソ親父の手綱を握ってうまく乗りこなせるなんて大したもんさ。\n…だが、あのクソ親父が母さんに働いた裏切りだけは、\n……悪ぃが、未だ心の整理がつかない。",
+          "WH": "\"Battler-san, you still cannot return to your home?\"",
+          "MG": "\"Battler-san, have you still not returned to your parents' home?\"\n\"...Well, I kinda go back now and then.\nI've got lots of clothes and stuff left at the house I was living in until recently.\"\n\"......Uu-?\nBattler has two houses?\"\n\"Uh,\n.........hmmm.\n......Something like that.\"\n\"Why?\nWhy do you have two houses?\nUu-?\nUu-?\"\nOnly Maria, who couldn't really grasp the situation, voiced this naive question.\nHowever, the others just shot nervous glances at me, choosing not to respond even though they knew the answer.\n\"Maria!\nLook, you can see the harbor now...!\nLook, over there!\nCan you see it?!\"\n\"Uu-!\nSaw the harbor, saw the harbor!\"\nApparently, Jessica was trying to be nice by changing the subject.\n......Ah, well.\nI'd rather not talk about it if I can help it, but it's uncomfortable to have it treated like some kind of weird taboo.\n......I don't mind it that much myself anymore.\nI may be a member of the Ushiromiya family,\nbut the truth is that, for these last six years, I've been living with my grandparents on my late mother's side, and I've even been using her family name.\nWhen those grandparents passed away one after the other, I basically had no choice but to go back and live with the old bastard.\nDon't get me wrong.\nI didn't just run away from home or anything like that.\nThe only one at fault here is my dad.\n......I don't really blame Kyrie-san.\nBeing able to hold that old bastard's reins and ride him out is no mean feat. ...Still, the way that old bastard betrayed my mom...\n......Well, unfortunately, I still haven't fully gotten over that.",
+          "UP": "\"Battler‐san, have you still not returned to your birth home?\"\n\"...Well, I kinda go back now and then.\nI still have lots of clothes and stuff left at the previous house.\"\n\"......Uu?\nBattler has two homes?\"\n\"Uh,\n.........hmmm.\n......Something like that.\"\n\"Why?\nWhy do you have two homes?\nUu?\nUu?\"\nOnly Maria, who couldn't really grasp the situation, voiced her naive question.\nHowever, the others just shot nervous glances at me, choosing not to respond even though they knew the answer.\n\"Maria!\nLook, you can see the harbor now...!\nLook, over there!\nCan you see it?!\"\n\"Uu!\nSaw the harbor, saw the harbor!\"\nApparently, Jessica was trying to be nice by changing the subject.\n......Ah, well.\nI'd rather not talk about it if I can help it, but it's uncomfortable to have it treated like some kind of weird taboo.\n......I don't mind that much myself anymore.\nI am an Ushiromiya,\nbut the truth is that, for the past six years, I've been living with my grandparents on my late mother's side, and I've even been using her family name.\nWhen those grandparents passed away one after the other, I'd basically had no choice except to go back and live with the old bastard.\nDon't get me wrong. I didn't just run away from home or anything like that.\nThe only one at fault here is my dad.\n......I don't really blame Kyrie‐san.\nBeing able to hold that old bastard's reins and ride him out is no mean feat.\n...But as for the betrayal that the old bastard inflicted on my mom...\n......Well, unfortunately, I still haven't fully gotten over that.",
+          "note": "Both ask not yet returned, not cannot return. Subsequent residence account preserves maternal name and forced return after grandparents deaths.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_1-L0341",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0341"
+            ],
+            "MG": [
+              "umi1_1-L0341",
+              "umi1_1-L0342",
+              "umi1_1-L0344",
+              "umi1_1-L0346",
+              "umi1_1-L0349",
+              "umi1_1-L0353",
+              "umi1_1-L0355",
+              "umi1_1-L0359",
+              "umi1_1-L0361",
+              "umi1_1-L0365",
+              "umi1_1-L0368",
+              "umi1_1-L0370"
+            ],
+            "UP": [
+              "umi1_1-L0341",
+              "umi1_1-L0342",
+              "umi1_1-L0344",
+              "umi1_1-L0346",
+              "umi1_1-L0349",
+              "umi1_1-L0353",
+              "umi1_1-L0355",
+              "umi1_1-L0359",
+              "umi1_1-L0361",
+              "umi1_1-L0365",
+              "umi1_1-L0368",
+              "umi1_1-L0370"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「戦人さんは、まだご実家には戻られておられないのですか？」",
+              "translation": "\"Battler-san, have you still not returned to your parents' home?\" "
+            },
+            "UP": {
+              "japanese": "「戦人さんは、まだご実家には戻られておられないのですか？」",
+              "translation": "\"Battler‐san, have you still not returned to your birth home?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0341"
+            ],
+            "MG": [
+              "umi1_1-L0341"
+            ],
+            "UP": [
+              "umi1_1-L0341"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "まだ ... 戻られておられない asks about the state of not yet having returned; the honorific passive-form 戻られる is not an inability construction.",
+      "alternative": "The awkward family circumstances explain delicacy, but they do not establish a prohibition or inability to return. The English question introduces one as its premise.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-008",
+      "kind": "WH",
+      "description": "Jessica agrees with Battler’s proposed natural cause, but then states that the shrine disappeared this summer. WH carries uncertainty into the separate date statement: ‘It probably disappeared during the summer.’ Readers lose the definite seasonal anchor supplied by the island resident, independently of whether the proposed cause is true.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              459,
+              466
+            ],
+            "MG": [
+              459,
+              466
+            ],
+            "UP": [
+              459,
+              466
+            ]
+          },
+          "japanese": "「大方、波か何かでさらわれちまったんだろー？\n小さい岩だったしな、だいぶ風化で脆くなってたんだろさ」\n「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」",
+          "japanesePC": "「私もそうだと思ってるんだけどよ。なくなっちゃったのはこの夏のことなんだよ。何でもよぅ、」",
+          "japanesePS3": "「大方、波か何かでさらわれちまったんだろー？\n小さい岩だったしな、だいぶ風化で脆くなってたんだろさ」\n「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」",
+          "WH": "\"I think so too.  It probably disappeared during the summer.  Whatever.\"",
+          "MG": "\"Maybe they were washed away by the waves or something.\nIt was a small crag, so it probably got worn away over time.\"\n\"Well, that's my theory too.\nIt was last summer that it disappeared.\nBut they say-\"\n\"They say an enormous lightning bolt came crashing down one evening and smashed the shrine...\n...The fishermen whisper that having a thunderbolt fall upon our honored tutelary god must be a portent of approaching misfortune.\n...Kuwabara, kuwabara...\"",
+          "UP": "\"Maybe they were washed away by the waves or something?\nIt was a small crag, it probably got brittle because of its exposure.\"\n\"I think so too.\nIt actually disappeared during the summer.\nApparently—\"\n\"A huge lightning bolt fell one evening and smashed the shrine, or some such...\n......The fishermen whisper that it must undoubtedly be an ominous sign, to have a thunderbolt fall upon our tutelary god.\n...Lightning begone, lightning begone...\"",
+          "note": "Both give unhedged summer disappearance separately from agreement with wave explanation. WH probable-date error gone. MG last summer refers most recent summer in October setting, not necessarily previous calendar year.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_1-L0459",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0461"
+            ],
+            "MG": [
+              "umi1_1-L0459",
+              "umi1_1-L0461",
+              "umi1_1-L0464"
+            ],
+            "UP": [
+              "umi1_1-L0459",
+              "umi1_1-L0461",
+              "umi1_1-L0464"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私もそうだと思ってるんだけどよ。なくなっちゃったのはこの夏のことなんだよ。何でもよぅ、」",
+              "translation": "\"Well, that's my theory too. It was last summer that it disappeared. But they say-\" "
+            },
+            "UP": {
+              "japanese": "「私もそうだと思ってるんだけどよ。なくなっちゃったのはこの夏のことなんだよ。何でもよぅ、」",
+              "translation": "\"I think so too. It actually disappeared during the summer. Apparently—\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0461"
+            ],
+            "MG": [
+              "umi1_1-L0461"
+            ],
+            "UP": [
+              "umi1_1-L0461"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "私もそうだと思ってる qualifies agreement with the wave explanation. なくなっちゃったのはこの夏のことなんだよ then asserts the season without a probability marker.",
+      "alternative": "The prior と思ってる concerns the proposed cause; extending it over the date conflates separate assertions. Kumasawa’s subsequent hearsay explanation does not make Jessica’s date a guess.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-CH01-009",
+      "kind": "WH",
+      "description": "Jessica’s 何でもよぅ introduces something heard, continued by Kumasawa’s だとか report of lightning destroying the shrine. WH has Jessica dismiss it with ‘Whatever,’ then makes Kumasawa propose ‘Or perhaps’ lightning. The reported account becomes an alternative she is speculating about rather than an account circulating independently of her suggestion.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_1",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              461,
+              467
+            ],
+            "MG": [
+              461,
+              467
+            ],
+            "UP": [
+              461,
+              467
+            ]
+          },
+          "japanese": "「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」\n熊沢さんはからかうように悪戯っぽく笑いながら、両手を揉み合せるような仕草をする。",
+          "japanesePC": "「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。……鎮守様に落雷があるなど、これは不吉の徴に違いないと、漁民たちは囁いておりますねぇ。…くわばらくわばら…。」",
+          "japanesePS3": "「私もそうだと思ってるんだけどよ。\nなくなっちゃったのはこの夏のことなんだよ。\n何でもよぅ、」\n「ある晩に大きな稲妻が落ちて、御社を砕いてしまったんだとか…。\n……鎮守様に落雷があるなど、これは不吉の兆しに違いないと、漁民たちは囁いておりますねぇ。\n…くわばらくわばら…」\n熊沢さんはからかうように悪戯っぽく笑いながら、両手を揉み合せるような仕草をする。",
+          "WH": "\"Or perhaps a huge lightning bolt fell one evening and smashed the shrine...  ......The fisherman whisper that having a thunderbolt fall upon our honored tutelary God would be a certain sign of misfortune.  ...Lightning begone, lightning begone...\"",
+          "MG": "\"Well, that's my theory too.\nIt was last summer that it disappeared.\nBut they say-\"\n\"They say an enormous lightning bolt came crashing down one evening and smashed the shrine...\n...The fishermen whisper that having a thunderbolt fall upon our honored tutelary god must be a portent of approaching misfortune.\n...Kuwabara, kuwabara...\"\nKumasawa-san smiled impishly as if teasing us, rubbing her hands together while entoning a Japanese phrase meant to ward off lightning.",
+          "UP": "\"I think so too.\nIt actually disappeared during the summer.\nApparently—\"\n\"A huge lightning bolt fell one evening and smashed the shrine, or some such...\n......The fishermen whisper that it must undoubtedly be an ominous sign, to have a thunderbolt fall upon our tutelary god.\n...Lightning begone, lightning begone...\"\nKumasawa‐san smiled impishly as if teasing us, rubbing her hands together.",
+          "note": "MG they say / UP apparently and or some such preserve reported lightning account, rather than proposed speculative alternative. Fishermen whispering omen remains distinct from verified cause.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_1-L0461",
+          "readerRefs": {
+            "WH": [
+              "umi1_1-L0464"
+            ],
+            "MG": [
+              "umi1_1-L0461",
+              "umi1_1-L0464",
+              "umi1_1-L0467"
+            ],
+            "UP": [
+              "umi1_1-L0461",
+              "umi1_1-L0464",
+              "umi1_1-L0467"
+            ]
+          },
+          "findingEvidence": {},
+          "findingRefs": {
+            "WH": [
+              "umi1_1-L0464"
+            ],
+            "MG": [],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "何でも and だとか mark hearsay; they do not certify lightning as fact. The following fishermen’s ominous interpretation is another explicitly attributed report.",
+      "alternative": "The English still reports fishermen’s beliefs about an omen, and Japanese hearsay is uncertain. But uncertainty about a reported event is different from inventing a possible explanation; the original neither asserts certainty nor frames a personal alternative hypothesis.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-CH01-001": {
+      "umi1_1-L0150": {
+        "WH": [
+          "the one waiting to greet you"
+        ],
+        "MG": [
+          "the one waiting to greet you"
+        ],
+        "UP": [
+          "the one waiting to greet you"
+        ]
+      }
+    },
+    "WH-EP01-CH01-002": {
+      "umi1_1-L0171": {
+        "WH": [
+          "Whether or not Kumasawa baa-chan remembered"
+        ]
+      }
+    },
+    "WH-EP01-CH01-003": {
+      "umi1_1-L0238": {
+        "WH": [
+          "four-base high efficiency propellers"
+        ],
+        "MG": [
+          "four-base high efficiency propellers"
+        ]
+      }
+    },
+    "WH-EP01-CH01-004": {
+      "umi1_1-L0324": {
+        "WH": [
+          "glasses with floating ice cubes"
+        ]
+      }
+    },
+    "WH-EP01-CH01-005": {
+      "umi1_1-L0334": {
+        "WH": [
+          "When I was slacking off during exams"
+        ],
+        "UP": [
+          "When I was slacking off during exams"
+        ]
+      }
+    },
+    "WH-EP01-CH01-006": {
+      "umi1_1-L0337": {
+        "WH": [
+          "George-aniki can be human too"
+        ]
+      }
+    },
+    "WH-EP01-CH01-007": {
+      "umi1_1-L0341": {
+        "WH": [
+          "still cannot return"
+        ]
+      }
+    },
+    "WH-EP01-CH01-008": {
+      "umi1_1-L0461": {
+        "WH": [
+          "probably disappeared during the summer"
+        ]
+      }
+    },
+    "WH-EP01-CH01-009": {
+      "umi1_1-L0464": {
+        "WH": [
+          "Or perhaps"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

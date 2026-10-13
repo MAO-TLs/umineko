@@ -1,1 +1,1531 @@
-{"findings":[{"id":"WH-EP07-CH05-001","kind":"WH","description":"Possible future support becomes apparent current agreement.","categories":["linguistic.tense_aspect","mystery.epistemic_status","character.knowledge_boundary"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[173,173],"MG":[173,173],"UP":[173,173]},"japanese":"……何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど……。","japanesePC":"『断っても、どうせ黄金は誰かの手に渡るわ。......何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど......。","japanesePS3":"……何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど……。","WH":"\"<Even if they do, the gold will just fall into someone else's hands.  ......If nothing is going to be left anyway, Ensign Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but......","MG":"...If nothing is going to be left anyway, Lieutenant Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but...","UP":"......If nothing is going to be left anyway, Ensign Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but......","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0172","readerRefs":{"WH":["umi7_5-L0172"],"MG":["umi7_5-L0172"],"UP":["umi7_5-L0172"]}}],"sourceReading":"Bice thinks some supporters may emerge for Angelo’s proposal to take an ingot apiece, but cannot predict how the men will act.","alternative":"Some of the others seem to agree reports apparent agreement already present; 同調者も出そう predicts that supporters may emerge. Her later inability to guess their behavior remains, but does not restore that temporal distinction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-002","kind":"WH","description":"The senior officer’s rescue request becomes the ensign’s.","categories":["linguistic.wrong_subject","world.world_fact","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[205,205],"MG":[205,205],"UP":[205,205]},"japanese":"“どうしてあの時、少佐は日本軍に救援要請を？","japanesePC":"“どうしてあの時、少佐は日本軍に救援要請を？　日本軍にこの黄金のことを知られたら、少佐はどう任務を遂行するつもりだったんだ？”","japanesePS3":"“どうしてあの時、少佐は日本軍に救援要請を？","WH":"'Why did the ensign contact the Japanese military and ask for help?  How was he planning to carry out the mission if they found out about the gold?'","MG":"\"Why did the lieutenant commander contact the Japanese military and ask for help?","UP":"«Why did you ask the Japanese military for help, Ensign?","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi7_5-L0189","readerRefs":{"WH":["umi7_5-L0189"],"MG":["umi7_5-L0189"],"UP":["umi7_5-L0189"]}}],"sourceReading":"The crew asks why the 少佐 requested Japanese assistance at that earlier time and how that officer intended to accomplish the mission if Japan learned about the gold.","alternative":"The English explicitly names the ensign as the decision maker. The Japanese distinguishes 少佐 here from the repeated 少尉 addressing Angelo elsewhere. A source typo is possible, but there is no textual authority to silently replace the rank and assign the earlier request to Angelo. The verdict is against the embedded Japanese, not an assertion about independent retail text.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-003","kind":"WH","description":"Gathering everyone for one sweeping kill is omitted.","categories":["linguistic.omission","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[265,267],"MG":[265,267],"UP":[265,267]},"japanese":"いや、ひょっとすると、全員で決を採らねばならないように仕向け、\n集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。\n六軒島は彼らの島だ。","japanesePC":"いや、ひょっとすると、全員で決を採らねばならないように仕向け、集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。","japanesePS3":"いや、ひょっとすると、全員で決を採らねばならないように仕向け、\n集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。\n六軒島は彼らの島だ。","WH":"Or else, maybe he had been planning from the beginning to put them in a position where they would be gathered in one place to discuss his offer.","MG":"Or, maybe he'd been planning from the beginning to put them in a position\nwhere they'd be gathered in one place to discuss his offer.\nRokkenjima was their island.","UP":"Or else, maybe he had been planning from the beginning to put them in the position of having to take a vote...\nin order to gather them all in one place.\nRokkenjima belonged to the Japanese.","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi7_5-L0263","readerRefs":{"WH":["PC-CANDIDATE-EP07-05-V003"],"MG":["umi7_5-L0263"],"UP":["umi7_5-L0263"]}}],"sourceReading":"The narration proposes that Yamamoto may have intended from the start to force an all-person vote and wipe everyone out together once they assembled.","alternative":"The English preserves possible advance planning to gather them for discussion, but omits 集まったところを一網打尽にしよう, the hypothesized purpose of exterminating them together. The surrounding attack makes that purpose inferable; the source explicitly states it within this alternative hypothesis.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-004","kind":"WH","description":"The gouged-out chest wound is omitted.","categories":["linguistic.omission","linguistic.presentation","world.world_fact","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[300,303],"MG":[300,303],"UP":[300,303]},"japanese":"……しかし、医者などいないこの島で、\n……いや、医者がいたとしても、\nこんな、何発も撃たれて、胸が抉れて、\n……助かるはずなどあるものか…。","japanesePC":"......しかし、医者などいないこの島で、\n......いや、医者がいたとしても、\nこんな、何発も撃たれて、胸が抉れて、\n......助かるはずなどあるものか...。","japanesePS3":"……しかし、医者などいないこの島で、\n……いや、医者がいたとしても、\nこんな、何発も撃たれて、胸が抉れて、\n……助かるはずなどあるものか…。","WH":"......But, on this island without a doctor...\nhow could anyone possibly...\n...save a man who had been shot this many times in the chest...","MG":"...But, on this island without a doctor...\n...no, even if we had a doctor,\nwho could possibly...\nsave a man who had been shot this many times in the chest...","UP":"......But, on this island without a doctor—\nno, even if we had a doctor...\nhow could anyone possibly...\n...save a man who had been shot this many times in the chest...","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0296","readerRefs":{"WH":["umi7_5-L0296"],"MG":["umi7_5-L0296"],"UP":["umi7_5-L0296"]}}],"sourceReading":"Kinzo thinks that even a doctor could not save Hiraoka after repeated gunshots with his chest gouged out.","alternative":"Repeated shots to the chest are retained, but 胸が抉れて supplies a separate graphic description of the wound’s physical result. Mentioning many bullet wounds does not reproduce that detail.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-005","kind":"WH","description":"A fight with meaning to its participants becomes a proper gunfight.","categories":["linguistic.word_choice","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[457,457],"MG":[457,457],"UP":[457,457]},"japanese":"最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。","japanesePC":"最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。","japanesePS3":"最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。","WH":"At first, it had probably been a proper gunfight.","MG":"At first, it had probably been a proper gunfight.","UP":"At first, it had probably been a proper gunfight.","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0441","readerRefs":{"WH":["PC-CANDIDATE-EP07-05-V005"],"MG":["umi7_5-L0441"],"UP":["umi7_5-L0441"]}}],"sourceReading":"At first, the gunfight may at least have had meaning according to the participants’ own reasoning; then it turns into indiscriminate slaughter.","alternative":"Proper can suggest an ordinary exchange of fire, but omits 彼らなりに意味のある, the qualified subjective purpose. Nothing in the source grants propriety or legitimacy to the first stage.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-006","kind":"WH","description":"Gratitude for today becomes gratitude to the Japanese attackers.","categories":["linguistic.wrong_subject","character.motivation_emotion","character.viewpoint_attribution"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[480,480],"MG":[480,480],"UP":[480,480]},"japanese":"だから、とりあえず今日に、感謝することにした。","japanesePC":"だから、とりあえず今日に、感謝することにした。","japanesePS3":"だから、とりあえず今日に、感謝することにした。","WH":"So, perhaps we should be grateful to them.","MG":"So, perhaps we should be grateful for this day.","UP":"So, perhaps I should be grateful for today.","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_5-L0478","readerRefs":{"WH":["PC-CANDIDATE-EP07-05-V006"],"MG":["umi7_5-L0478"],"UP":["umi7_5-L0478"]}}],"sourceReading":"Angelo decides for now to be grateful for today, since the encounter may let him die armed as a soldier rather than face dishonorable mission failure.","alternative":"The Japanese attack supplies the circumstances, but 今日 is today, not the Japanese men. Them explicitly redirects gratitude to those attackers; perhaps we should also replaces his stated decision with a suggestion. A possible source typo cannot establish authority for replacing the written object.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-007","kind":"WH","description":"Holding her chest and groaning becomes doubling over and coughing.","categories":["linguistic.mistranslation","world.world_fact","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[603,603],"MG":[603,603],"UP":[603,603]},"japanese":"そう言いながら立ち上がろうとした時、ベアトリーチェが胸を押さえて呻く。","japanesePC":"そう言いながら立ち上がろうとした時、ベアトリーチェが胸を抑えて呻く。","japanesePS3":"そう言いながら立ち上がろうとした時、ベアトリーチェが胸を押さえて呻く。","WH":"Beatrice tried to stand up, but then doubled over and started coughing.","MG":"Beatrice tried to stand up, but then doubled over and started coughing.","UP":"Beatrice tried to stand up, but then doubled over and started coughing.","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0603","readerRefs":{"WH":["umi7_5-L0603"],"MG":["umi7_5-L0603"],"UP":["umi7_5-L0603"]}}],"sourceReading":"Bice tries to stand, holds her chest and groans, revealing pain after Yamamoto’s stomping.","alternative":"Doubling over and coughing are plausible consequences of injury, but neither is the described action 胸を抑えて呻く. The next dialogue identifies rib pain, not a cough.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-008","kind":"WH","description":"Kinzo’s personal risk of incidental prosecution becomes a shared court-martial risk.","categories":["linguistic.wrong_subject","linguistic.undertranslation","character.agency_responsibility","world.world_fact"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[629,629],"MG":[629,629],"UP":[629,629]},"japanese":"私は、この島での出来事をうまく片付けないと、……とばっちりで軍法会議ものだ』","japanesePC":"『ない。隣の島へ船で運ぶ。......君は病院へ。私は、この島での出来事をうまく片付けないと、......とばっちりで軍法会議ものだ。』","japanesePS3":"私は、この島での出来事をうまく片付けないと、……とばっちりで軍法会議ものだ』","WH":"\"<There isn't.  I'll use a boat to take you to the next island.  ......To a hospital.  If we don't clean up the mess on this island, ......it'll mean a court-martial.>\"","MG":"As for me, ...unless I cleverly cover up what happened on this island, ...I might end up getting court-martialed just for being here.>\"","UP":"but I need to return here and clean up the mess on this island, ......or it'll mean a court‐martial.>\"","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_5-L0626","readerRefs":{"WH":["umi7_5-L0626"],"MG":["umi7_5-L0626"],"UP":["umi7_5-L0626"]}}],"sourceReading":"Bice is to go to hospital; Kinzo must handle the island incident appropriately or he will be caught up in its consequences and face court-martial.","alternative":"If we don’t clean up makes responsibility collective, whereas 私は explicitly switches from her treatment to his exposure. とばっちり also specifies being caught in the fallout, rather than simply being answerable for a jointly caused mess.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-009","kind":"WH","description":"An enemy submarine becomes enemy ships in the proposed cover story.","categories":["linguistic.undertranslation","world.world_fact","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[697,697],"MG":[697,697],"UP":[697,697]},"japanese":"要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。","japanesePC":"要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。","japanesePS3":"要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。","WH":"I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships.","MG":"I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships.","UP":"I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships.","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0695","readerRefs":{"WH":["umi7_5-L0695"],"MG":["umi7_5-L0695"],"UP":["umi7_5-L0695"]}}],"sourceReading":"Kinzo plans to explain that a VIP escort vessel was sunk by an enemy submarine and its survivors escaped in a boat.","alternative":"Enemy ships generalizes 敵潜, specifically an enemy submarine. The story is a contemplated deception, not an established account of what happened; that status remains protected.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-010","kind":"WH","description":"Not knowing the Odawara years becomes not knowing their duration.","categories":["linguistic.mistranslation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[770,770],"MG":[770,770],"UP":[770,770]},"japanese":"「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。","japanesePC":"「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。.........しかし、その後の、今日までの金蔵さんを見れば、ほんの数年間であっても、彼が如何に彼女を深く愛したか、うかがい知ることが出来るでしょう。」","japanesePS3":"「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。","WH":"\"I don't know how many years Kinzo-san spent with her in Odawara.  .........However, judging by Kinzo-san as we know him afterwards...  Even if it was only a few years, one can tell how deeply he loved her.\"","MG":"\"I don't know how many years Kinzo-san spent with her in Odawara.","UP":"\"I don't know how many years Kinzo‐san spent with her in Odawara.","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0770","readerRefs":{"WH":["PC-CANDIDATE-EP07-05-V009"],"MG":["umi7_5-L0770"],"UP":["umi7_5-L0770"]}}],"sourceReading":"Nanjo does not know the few years Kinzo spent with Bice in Odawara; from Kinzo’s subsequent life through the present he can infer how deeply he loved her.","alternative":"How many years substitutes uncertainty about duration for lack of knowledge of that period. 数年間を知りません takes the years themselves as the object; it is contrasted with knowledge of Kinzo afterwards, not an unknown numerical count.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-011","kind":"WH","description":"A diagonally missing half of the stamp gains a definite slanted-press cause.","categories":["linguistic.overinterpretation","world.world_fact","mystery.clue_invention"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[798,798],"MG":[798,798],"UP":[798,798]},"japanese":"それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです」","japanesePC":"「そうです。.........戦時下の粗雑な刻印でした。本来は翼を広げた鷲の紋章が刻印されるべきだったのでしょう。それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです。」","japanesePS3":"それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです」","WH":"\"Correct.  .........They used a rough, wartime press.  It was probably supposed to look like the crest of an eagle spreading its wings.  It was pressed in at a slight slant, so half of it was too light to see.\"","MG":"It was pressed in at a slight slant, so half of it was too light to see.\"","UP":"But half of it, cut off at a diagonal, was too faded to see.\"","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_5-L0795","readerRefs":{"WH":["umi7_5-L0795","umi7_5-L0799"],"MG":["umi7_5-L0795"],"UP":["umi7_5-L0795"]}}],"sourceReading":"The rough wartime stamp had half faded away, looking as though it had been cut off diagonally. Its intended spread-wing crest is qualified as probable.","alternative":"The English retains uncertainty about the intended crest but asserts it was pressed at a slight slant, so half was invisible. 斜めに断ち切ったように describes the appearance of the missing half, not a proven angle of application or its causal mechanism.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-012","kind":"WH","description":"Apparently replacing the exported gold’s stamp becomes certain replacement.","categories":["linguistic.overinterpretation","mystery.epistemic_status","world.world_fact"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[807,807],"MG":[807,807],"UP":[807,807]},"japanese":"外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが」","japanesePC":"「もっとも、金蔵さんはその刻印から、黄金の出所を探られることを嫌いましてな。外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが。」","japanesePS3":"外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが」","WH":"\"However, Kinzo-san didn't want people using that seal to figure out where the gold had come from.  The gold he took outside was all re-pressed with the One-winged Eagle design he had created.\"","MG":"The gold he took outside was all re-pressed with the One-Winged Eagle design he had created.\"","UP":"The gold he took outside was all re‐pressed with the One‐winged Eagle design he had created.\"","note":"Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0802","readerRefs":{"WH":["umi7_5-L0802"],"MG":["umi7_5-L0802"],"UP":["umi7_5-L0802"]}}],"sourceReading":"Nanjo says Kinzo apparently re-stamped gold taken outside with a separate stamp bearing his own one-winged eagle design to prevent its origin being traced.","alternative":"The gold ... was all re-pressed states the action as fact. 打ち直していたようですが explicitly qualifies Nanjo’s report; the suspicion about provenance is retained, but certainty about the replacement is raised. The finding does not treat all as an independent quantifier defect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-HIRAOKA-RANK-001","kind":"WH","description":"Japanese addresses Hiraoka as 兵曹; WH moves the rank to narration and specifies Warrant Officer. The transfer is unobjectionable, but the historical rank is changed.","categories":["linguistic.mistranslation","world.culture_history"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[295,296],"MG":[295,296],"UP":[295,296]},"japanese":"「……ひ、平岡兵曹？！」\n彼は血で全身を濡らして、うつ伏せに倒れていた。","japanesePC":"「......ひ、平岡兵曹？！」","japanesePS3":"「……ひ、平岡兵曹？！」\n彼は血で全身を濡らして、うつ伏せに倒れていた。","WH":"Warrant Officer Hiraoka was lying face down, his entire body drenched in blood.","MG":"\"...H-Hiraoka?!\"\nWarrant Officer Hiraoka was lying face down, his entire body drenched in blood.","UP":"\"......H‐Hiraoka?!\"\nWarrant Officer Hiraoka was lying face down, his entire body drenched in blood.","note":"Both warrant officer retains changed rank, source兵曹; rank moved from address to narration unobjectionable.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0295","readerRefs":{"WH":["umi7_5-L0296"],"MG":["umi7_5-L0295","umi7_5-L0296"],"UP":["umi7_5-L0295","umi7_5-L0296"]}}],"sourceReading":"Petty Officer Hiraoka; the precise petty-officer grade is unspecified. Japan Aeronautic Association's historical table distinguishes the NCO petty-officer grades from warrant-officer 兵曹長. Reference: https://www.aero.or.jp/culture/aviationand-culture/20071215-8265/; research evidence: source/evidence/hiraoka-rank-research.json.","alternative":"兵曹 might be used informally as a shortened title, but no 兵曹長 or warrant-officer qualification is supplied anywhere in the answer script. Selecting that distinct higher category therefore exceeds the source; retain the generic petty-officer designation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-013","kind":"WH","description":"WH reduces many Japanese men being caught up one after another to several men stumbling into the fight.","categories":["linguistic.undertranslation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[448,448],"MG":[448,448],"UP":[448,448]},"japanese":"そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。","japanesePC":"そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。","japanesePS3":"そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。","WH":"In the midst of all this were several Japanese men who had stumbled into the fight, wondering what was going on.","MG":"In the midst of all this were several Japanese men who had stumbled into the fight, wondering what was going on.","UP":"And in the midst of all this, large numbers of Japanese men who had no idea what was going on ran towards the noise and became victims one after another.","note":"Original PC and coherent paired context verified under ep07-ch05-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_5-L0441","readerRefs":{"WH":["PC-CANDIDATE-EP07-05-V005"],"MG":["umi7_5-L0441"],"UP":["umi7_5-L0441"]}}],"sourceReading":"大勢 and 次々 describe a large number being drawn in successively during indiscriminate killing. MG loses both numerical scale and sequence; UP restores them.","alternative":"Several can sometimes denote an indefinite group, but does not preserve the explicit large number or one-after-another sequence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH05-014","kind":"WH","description":"WH changes Kinzo gently laying Beato down in the boat into sitting her there.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[680,680],"MG":[680,680],"UP":[680,680]},"japanese":"金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。","japanesePC":"金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。","japanesePS3":"金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。","WH":"Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat.","MG":"Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat.","UP":"Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat.","note":"Original PC and coherent paired context verified under ep07-ch05-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_5-L0680","readerRefs":{"WH":["umi7_5-L0680"],"MG":["umi7_5-L0680"],"UP":["umi7_5-L0680"]}}],"sourceReading":"船に寝せる specifies laying her down after lifting her; both MG and UP retain sat.","alternative":"Both actions place her in the boat, but the explicitly described posture differs; no medical consequence is inferred.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-103","kind":"PC","description":"Original PC 黄色猿 and WH yellow monkeys retained by MG; PS3 東洋人 is followed by UP Asians.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_5","episode":7,"rows":{"JP":[416,416],"MG":[416,416],"UP":[416,416]},"japanese":"“くそったれ、東洋人め！！”","japanesePC":"“くそったれ、黄色猿め！！”","japanesePS3":"“くそったれ、東洋人め！！”","WH":"'Damn yellow monkeys!!'","MG":"\"Damn yellow monkeys!!'","UP":"«Goddamn Asians!!»","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_5-L0411","readerRefs":{"WH":[],"MG":["umi7_5-L0411"],"UP":["umi7_5-L0411"]}}],"sourceReading":"Original PC 黄色猿 and WH yellow monkeys retained by MG; PS3 東洋人 is followed by UP Asians.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH05-001",
+      "kind": "WH",
+      "description": "Possible future support becomes apparent current agreement.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "mystery.epistemic_status",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              173,
+              173
+            ],
+            "MG": [
+              173,
+              173
+            ],
+            "UP": [
+              173,
+              173
+            ]
+          },
+          "japanese": "……何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど……。",
+          "japanesePC": "『断っても、どうせ黄金は誰かの手に渡るわ。......何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど......。",
+          "japanesePS3": "……何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど……。",
+          "WH": "\"<Even if they do, the gold will just fall into someone else's hands.  ......If nothing is going to be left anyway, Ensign Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but......",
+          "MG": "...If nothing is going to be left anyway, Lieutenant Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but...",
+          "UP": "......If nothing is going to be left anyway, Ensign Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but......",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0172",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0172"
+            ],
+            "MG": [
+              "umi7_5-L0172"
+            ],
+            "UP": [
+              "umi7_5-L0172"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "『断っても、どうせ黄金は誰かの手に渡るわ。……何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど……。こういう時の男って、勢いだけが迷走するわ。私も見当が付かない…』",
+              "translation": "\"<Even if they do, the gold will just fall into someone else's hands. ...If nothing is going to be left anyway, Lieutenant Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but... Men always get carried away at times like this. Even I can't guess what they'll do...>\" "
+            },
+            "UP": {
+              "japanese": "『断っても、どうせ黄金は誰かの手に渡るわ。……何も残らないなら、せめてインゴットの１本ずつでも密かに持ち帰ろうという少尉の言い分に、同調者も出そうだけど……。こういう時の男って、勢いだけが迷走するわ。私も見当が付かない…』",
+              "translation": "\"<Even if they do, the gold will just fall into someone else's hands. ......If nothing is going to be left anyway, Ensign Angelo suggests that they each sneak at least one ingot back with them, and some of the others seem to agree, but...... Men always get carried away at times like this. Even I can't guess what they'll do...>\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0172"
+            ],
+            "MG": [
+              "umi7_5-L0172"
+            ],
+            "UP": [
+              "umi7_5-L0172"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bice thinks some supporters may emerge for Angelo’s proposal to take an ingot apiece, but cannot predict how the men will act.",
+      "alternative": "Some of the others seem to agree reports apparent agreement already present; 同調者も出そう predicts that supporters may emerge. Her later inability to guess their behavior remains, but does not restore that temporal distinction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-002",
+      "kind": "WH",
+      "description": "The senior officer’s rescue request becomes the ensign’s.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "world.world_fact",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              205,
+              205
+            ],
+            "MG": [
+              205,
+              205
+            ],
+            "UP": [
+              205,
+              205
+            ]
+          },
+          "japanese": "“どうしてあの時、少佐は日本軍に救援要請を？",
+          "japanesePC": "“どうしてあの時、少佐は日本軍に救援要請を？　日本軍にこの黄金のことを知られたら、少佐はどう任務を遂行するつもりだったんだ？”",
+          "japanesePS3": "“どうしてあの時、少佐は日本軍に救援要請を？",
+          "WH": "'Why did the ensign contact the Japanese military and ask for help?  How was he planning to carry out the mission if they found out about the gold?'",
+          "MG": "\"Why did the lieutenant commander contact the Japanese military and ask for help?",
+          "UP": "«Why did you ask the Japanese military for help, Ensign?",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0189",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0189"
+            ],
+            "MG": [
+              "umi7_5-L0189"
+            ],
+            "UP": [
+              "umi7_5-L0189"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "“反対です！　死んだ戦友たちのためにも、断固、軍人魂を貫くべきです！”“貫くとはどういうことか。この島に黄金を隠せということか。東洋人たちの申し出を受けろということか！”“東洋人たちは信用できません！　特にあのヤマモトという男！　断じて油断できません！”“黄金を荷揚げして日本人たちに見られたのはやはり失敗でした！　艦と共に沈めるべきでした！”“日本人の基地で沈めてどうする？！　やがていつかは引き上げられる。隠したことにはならない！”“いずれにせよ、この島から黄金を誰にも知られずに運び出す方法はない”“洋上で名誉ある自沈を選んでいたらこんなことには…！！”“艦のダメージが致命的だったことが、あの時点でわかっていたら……”“どうしてあの時、少佐は日本軍に救援要請を？　日本軍にこの黄金のことを知られたら、少佐はどう任務を遂行するつもりだったんだ？”“少佐が救援要請を出した時点で、我々の任務はもう、失敗していたんだ！”“諸君にも、祖国で待つ家族がいるはずだ。そして極東の島国まで、よく航海に耐えた。それに対する、これは正当な報酬なのだという、考え方もあるっ”“ざわざわざわ！　ざわざわざわざわ！！”",
+              "translation": "\"I don't like it! We must remain true to our soldier spirit until the end, for the sake of our fallen comrades!' \"And how do you define \"remaining true\"? By hiding the gold on this island? By accepting the proposal of those Asians?!' \"We can't trust them! Especially that Yamamoto person! We mustn't let our guards down!' \"Unloading the gold and letting the Japanese see it was a huge mistake! We should've let it sink with the sub!' \"Oh, wonderful idea, let's just sink it right inside a Japanese base! It would've been pulled up eventually. That wouldn't hide anything!' \"It doesn't matter. There's no way to get the gold off this island without anyone knowing.' \"If we had just taken the honorable path and scuttled the sub, none of this would've happened...!!' \"If we had known then that the sub would be broken beyond repair...' \"Why did the lieutenant commander contact the Japanese military and ask for help? How was he planning to carry out our mission if they found out about the gold?' \"Our mission was a failure from the moment he asked them for help!' \"All of us have families waiting for us back home. And we've more than done our part, I'd say, voyaging all the way to this island country in the Far East. You might call this fair and just payment for our services.' \"*chatter*chatter*! *chatter*chatter*chatter*!!' "
+            },
+            "UP": {
+              "japanese": "“反対です！　死んだ戦友たちのためにも、断固、軍人魂を貫くべきです！”“貫くとはどういうことか。この島に黄金を隠せということか。東洋人たちの申し出を受けろということか！”“東洋人たちは信用できません！　特にあのヤマモトという男！　断じて油断できません！”“黄金を荷揚げして日本人たちに見られたのはやはり失敗でした！　艦と共に沈めるべきでした！”“日本人の基地で沈めてどうする？！　やがていつかは引き上げられる。隠したことにはならない！”“いずれにせよ、この島から黄金を誰にも知られずに運び出す方法はない”“洋上で名誉ある自沈を選んでいたらこんなことには…！！”“艦のダメージが致命的だったことが、あの時点でわかっていたら……”“どうしてあの時、少佐は日本軍に救援要請を？　日本軍にこの黄金のことを知られたら、少佐はどう任務を遂行するつもりだったんだ？”“少佐が救援要請を出した時点で、我々の任務はもう、失敗していたんだ！”“諸君にも、祖国で待つ家族がいるはずだ。そして極東の島国まで、よく航海に耐えた。それに対する、これは正当な報酬なのだという、考え方もあるっ”“ざわざわざわ！　ざわざわざわざわ！！”",
+              "translation": "«I don't like it! We must remain true to our soldier spirit until the end, for the sake of our fallen comrades!» «And how do you define \"remaining true\"? By hiding the gold on this island? By accepting the proposal of those Asians?!» «We can't trust them! Especially that Yamamoto person! We must not let our guards down!» «Unloading the gold and letting the Japanese see it was a huge mistake! We should have let it sink with the sub!» «Oh, wonderful idea, let's just sink it right inside a Japanese base! It would have been pulled up eventually. That wouldn't hide anything!» «There's no way to get the gold off this island without anyone knowing in any case.» «If we had just taken the honorable path and scuttled the sub, none of this would have happened...!!» «If we had known back then that the sub was already broken beyond repair......» «Why did you ask the Japanese military for help, Ensign? How were you planning to carry out the mission if they found out about the gold?» «Our mission was a failure from the moment you asked them for help!» «All of us have families waiting for us back home. And we've more than done our part, I'd say, voyaging all the way to this island country in the Far East. You could call this a fair and just payment for our services.» «*chatter*chatter*! *chatter*chatter*chatter*!!»"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0189"
+            ],
+            "MG": [
+              "umi7_5-L0189"
+            ],
+            "UP": [
+              "umi7_5-L0189"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The crew asks why the 少佐 requested Japanese assistance at that earlier time and how that officer intended to accomplish the mission if Japan learned about the gold.",
+      "alternative": "The English explicitly names the ensign as the decision maker. The Japanese distinguishes 少佐 here from the repeated 少尉 addressing Angelo elsewhere. A source typo is possible, but there is no textual authority to silently replace the rank and assign the earlier request to Angelo. The verdict is against the embedded Japanese, not an assertion about independent retail text.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-003",
+      "kind": "WH",
+      "description": "Gathering everyone for one sweeping kill is omitted.",
+      "categories": [
+        "linguistic.omission",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              265,
+              267
+            ],
+            "MG": [
+              265,
+              267
+            ],
+            "UP": [
+              265,
+              267
+            ]
+          },
+          "japanese": "いや、ひょっとすると、全員で決を採らねばならないように仕向け、\n集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。\n六軒島は彼らの島だ。",
+          "japanesePC": "いや、ひょっとすると、全員で決を採らねばならないように仕向け、集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。",
+          "japanesePS3": "いや、ひょっとすると、全員で決を採らねばならないように仕向け、\n集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。\n六軒島は彼らの島だ。",
+          "WH": "Or else, maybe he had been planning from the beginning to put them in a position where they would be gathered in one place to discuss his offer.",
+          "MG": "Or, maybe he'd been planning from the beginning to put them in a position\nwhere they'd be gathered in one place to discuss his offer.\nRokkenjima was their island.",
+          "UP": "Or else, maybe he had been planning from the beginning to put them in the position of having to take a vote...\nin order to gather them all in one place.\nRokkenjima belonged to the Japanese.",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi7_5-L0263",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V003"
+            ],
+            "MG": [
+              "umi7_5-L0263"
+            ],
+            "UP": [
+              "umi7_5-L0263"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "奇襲だった。……恐らく山本中尉は、アンジェロ少尉たちとの交渉で、彼らが言いなりにならないとの感触を得て先手を打ってきたのだ。いや、ひょっとすると、全員で決を採らねばならないように仕向け、集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。六軒島は彼らの島だ。イタリア人を皆殺しにすれば、黄金は五分五分どころか、その全てが日本人のものなのだ。手榴弾が遅れて爆発しないとも限らない。\n彼らは廊下へ飛び出る。彼方より銃声が聞こえる。潜水艦ドックの方だ。黄金の山を警備させている兵士たちが襲われているのは明白だ。",
+              "translation": "It had been a surprise attack. ...Lieutenant Yamamoto had probably judged that the negotiations wouldn't go his way and had decided to make the first move. Or, maybe he'd been planning from the beginning to put them in a position where they'd be gathered in one place to discuss his offer. Rokkenjima was their island. If they killed all the Italians, then not half, but all of the gold would go to the Japanese. There was a chance the grenade might go off late. The Italians rushed out into the corridor. They heard gunfire from down the hallway. It was coming from the direction of the submarine dock. Clearly, the troops guarding the pile of gold were being attacked. "
+            },
+            "UP": {
+              "japanese": "奇襲だった。……恐らく山本中尉は、アンジェロ少尉たちとの交渉で、彼らが言いなりにならないとの感触を得て先手を打ってきたのだ。いや、ひょっとすると、全員で決を採らねばならないように仕向け、集まったところを一網打尽にしようと、初めから狙っていたのかもしれない。六軒島は彼らの島だ。イタリア人を皆殺しにすれば、黄金は五分五分どころか、その全てが日本人のものなのだ。手榴弾が遅れて爆発しないとも限らない。\n彼らは廊下へ飛び出る。彼方より銃声が聞こえる。潜水艦ドックの方だ。黄金の山を警備させている兵士たちが襲われているのは明白だ。",
+              "translation": "It had been a surprise attack. ......Lieutenant Yamamoto had probably judged that the negotiations would not go his way and had decided to make the first move. Or else, maybe he had been planning from the beginning to put them in the position of having to take a vote... in order to gather them all in one place. Rokkenjima belonged to the Japanese. If they killed all of the Italians, then not half, but all of the gold would go to them. There was still a chance the grenade might go off late.\nThe Italians rushed out into the corridor. They heard gunfire from down the hallway. It was coming from the direction of the submarine dock. Clearly, the troops guarding the pile of gold were being attacked."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V003"
+            ],
+            "MG": [
+              "umi7_5-L0263"
+            ],
+            "UP": [
+              "umi7_5-L0263"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narration proposes that Yamamoto may have intended from the start to force an all-person vote and wipe everyone out together once they assembled.",
+      "alternative": "The English preserves possible advance planning to gather them for discussion, but omits 集まったところを一網打尽にしよう, the hypothesized purpose of exterminating them together. The surrounding attack makes that purpose inferable; the source explicitly states it within this alternative hypothesis.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-004",
+      "kind": "WH",
+      "description": "The gouged-out chest wound is omitted.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.presentation",
+        "world.world_fact",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              300,
+              303
+            ],
+            "MG": [
+              300,
+              303
+            ],
+            "UP": [
+              300,
+              303
+            ]
+          },
+          "japanese": "……しかし、医者などいないこの島で、\n……いや、医者がいたとしても、\nこんな、何発も撃たれて、胸が抉れて、\n……助かるはずなどあるものか…。",
+          "japanesePC": "......しかし、医者などいないこの島で、\n......いや、医者がいたとしても、\nこんな、何発も撃たれて、胸が抉れて、\n......助かるはずなどあるものか...。",
+          "japanesePS3": "……しかし、医者などいないこの島で、\n……いや、医者がいたとしても、\nこんな、何発も撃たれて、胸が抉れて、\n……助かるはずなどあるものか…。",
+          "WH": "......But, on this island without a doctor...\nhow could anyone possibly...\n...save a man who had been shot this many times in the chest...",
+          "MG": "...But, on this island without a doctor...\n...no, even if we had a doctor,\nwho could possibly...\nsave a man who had been shot this many times in the chest...",
+          "UP": "......But, on this island without a doctor—\nno, even if we had a doctor...\nhow could anyone possibly...\n...save a man who had been shot this many times in the chest...",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0296",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0296"
+            ],
+            "MG": [
+              "umi7_5-L0296"
+            ],
+            "UP": [
+              "umi7_5-L0296"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "彼は血で全身を濡らして、うつ伏せに倒れていた。血の跡がべっとりと続き、部屋から何とかここまで這いずってきて、絶命したことが見て取れた。いや、まだ痙攣している。絶命はしていないのかもしれない。……しかし、医者などいないこの島で、……いや、医者がいたとしても、こんな、何発も撃たれて、胸が抉れて、……助かるはずなどあるものか…。這い出てきたに違いない室内を見ると、荒れ果て、他にも２人の日本人の血塗れの死体があった。",
+              "translation": "Warrant Officer Hiraoka was lying face down, his entire body drenched in blood. Judging by the trail of blood behind him, it was clear that he had somehow managed to crawl here from a different room before dying. No, he was still twitching. He might not be dead yet. ...But, on this island without a doctor... ...no, even if we had a doctor, who could possibly... save a man who had been shot this many times in the chest... When I looked into the room he must have crawled out of, I saw two more bloodstained Japanese corpses. "
+            },
+            "UP": {
+              "japanese": "彼は血で全身を濡らして、うつ伏せに倒れていた。血の跡がべっとりと続き、部屋から何とかここまで這いずってきて、絶命したことが見て取れた。いや、まだ痙攣している。絶命はしていないのかもしれない。……しかし、医者などいないこの島で、……いや、医者がいたとしても、こんな、何発も撃たれて、胸が抉れて、……助かるはずなどあるものか…。這い出てきたに違いない室内を見ると、荒れ果て、他にも２人の日本人の血塗れの死体があった。",
+              "translation": "Warrant Officer Hiraoka was lying face down, his entire body drenched in blood. Judging by the trail of blood behind him, it was clear that he had somehow managed to crawl here from a different room before dying. No, he was still twitching. He might not be dead yet. ......But, on this island without a doctor— no, even if we had a doctor... how could anyone possibly... ...save a man who had been shot this many times in the chest... When I looked into the room he must have crawled out of, I saw two more blood‐stained Japanese corpses."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0296"
+            ],
+            "MG": [
+              "umi7_5-L0296"
+            ],
+            "UP": [
+              "umi7_5-L0296"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo thinks that even a doctor could not save Hiraoka after repeated gunshots with his chest gouged out.",
+      "alternative": "Repeated shots to the chest are retained, but 胸が抉れて supplies a separate graphic description of the wound’s physical result. Mentioning many bullet wounds does not reproduce that detail.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-005",
+      "kind": "WH",
+      "description": "A fight with meaning to its participants becomes a proper gunfight.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              457,
+              457
+            ],
+            "MG": [
+              457,
+              457
+            ],
+            "UP": [
+              457,
+              457
+            ]
+          },
+          "japanese": "最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。",
+          "japanesePC": "最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。",
+          "japanesePS3": "最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。",
+          "WH": "At first, it had probably been a proper gunfight.",
+          "MG": "At first, it had probably been a proper gunfight.",
+          "UP": "At first, it had probably been a proper gunfight.",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0441",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V005"
+            ],
+            "MG": [
+              "umi7_5-L0441"
+            ],
+            "UP": [
+              "umi7_5-L0441"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかし、無理もないことだった。そしてそれは、ここの撃ち合いだけではない。この、狭く入り組んだ壕内では、ほとんどが出会い頭となる。互いに銃弾を無闇やたらに撃ち込み合えば、転がる骸は二つになる。だから、人の気配さえ感じたら直ちに引き金を引いた方が早い。それが唯一、自分の胸に鉛弾を喰らわない生き残りの方法だ。そんなだから、日本人もイタリア人も、異邦人を容赦なく殺したし、時に出会い頭の同胞にさえ引き金を引いた。そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。相手が銃を持っていようと持っていまいと関係ない。自分が生きるために自分以外の人影に対し、反射的に引き金を引く。そんな殺人劇が、基地内を飲み込んでいった……。潜水艦ドックでは激しい銃撃戦が。そして基地内では狩猟のような惨劇が繰り広げられた。軍属の非戦闘員のほとんどは、何事かもわからない内に撃ち殺された。イタリア人は確かに精兵揃いだったが、少しずつ犠牲者を増やしていった。基地内のそこかしこに、血塗れの死体がごろごろと横たわった……。最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。しかし次第に、彼らの感覚は麻痺し、理解できぬ異邦人は全て殺せという、人類が戦争を起こす理由の、最も根源的なものにすり替わっていった…。自分に理解できない言葉を聞けば、構わず引き金を引いた。異邦人の悲鳴はもはや、人型のケモノのそれと同じに聞こえた。異国の言葉の命乞いなど、理解も出来ないのだから。だからそれはもうとっくに、ただの殺人劇と成り果てていたのだ……。",
+              "translation": "However, what had happened to them wasn't particularly surprising. It wasn't the first time it had happened either. In this tiny, cramped tunnel, nearly everyone had met head on. When both sides shot recklessly in such a situation, the result was two corpses. So, whoever sensed another person and pulled the trigger quickest \"won\". That was the only way to survive this battle without a bullet in your chest. Because of this, both Japanese and Italians had killed each other without hesitation, and they sometimes even pulled the trigger on oncoming allies. In the midst of all this were several Japanese men who had stumbled into the fight, wondering what was going on. It didn't matter whether the other person was holding a gun or not. Everyone had reflexively pulled the trigger at the sight of anyone other than themselves, trying to stay alive. The entire base had been wrapped up in this slaughter... There was a fierce gun battle taking place on the submarine dock. And a massacre resembling a hunt was taking place inside the base. Most of the non-combatants assigned to this base were killed before they knew what was going on. The Italians were indeed quite seasoned troops, but their numbers began to drop bit by bit. Bloodstained corpses were scattered everywhere... At first, it had probably been a proper gunfight. However, as their minds began to grow weary and numb, it devolved into that most basic cause of wars throughout humanity, the desire to kill all foreigners you don't understand... Whenever they heard words they didn't understand, they pulled the trigger. By that point, the screams of foreigners sounded no different from those of man-shaped beasts. After all, they couldn't understand pleading in another language. So, it had long ago turned into a mere massacre... "
+            },
+            "UP": {
+              "japanese": "しかし、無理もないことだった。そしてそれは、ここの撃ち合いだけではない。この、狭く入り組んだ壕内では、ほとんどが出会い頭となる。互いに銃弾を無闇やたらに撃ち込み合えば、転がる骸は二つになる。だから、人の気配さえ感じたら直ちに引き金を引いた方が早い。それが唯一、自分の胸に鉛弾を喰らわない生き残りの方法だ。そんなだから、日本人もイタリア人も、異邦人を容赦なく殺したし、時に出会い頭の同胞にさえ引き金を引いた。そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。相手が銃を持っていようと持っていまいと関係ない。自分が生きるために自分以外の人影に対し、反射的に引き金を引く。そんな殺人劇が、基地内を飲み込んでいった……。潜水艦ドックでは激しい銃撃戦が。そして基地内では狩猟のような惨劇が繰り広げられた。軍属の非戦闘員のほとんどは、何事かもわからない内に撃ち殺された。イタリア人は確かに精兵揃いだったが、少しずつ犠牲者を増やしていった。基地内のそこかしこに、血塗れの死体がごろごろと横たわった……。最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。しかし次第に、彼らの感覚は麻痺し、理解できぬ異邦人は全て殺せという、人類が戦争を起こす理由の、最も根源的なものにすり替わっていった…。自分に理解できない言葉を聞けば、構わず引き金を引いた。異邦人の悲鳴はもはや、人型のケモノのそれと同じに聞こえた。異国の言葉の命乞いなど、理解も出来ないのだから。だからそれはもうとっくに、ただの殺人劇と成り果てていたのだ……。",
+              "translation": "However, it wasn't particularly surprising. And this wasn't the only place it was happening. Nearly everyone met head on in these tiny, cramped tunnels. When both sides shot recklessly in a situation like that, the result was two corpses. So the way to be fastest was to pull the trigger immediately the moment you sensed another person. That was the only way to make it through this battle without ending up with a bullet in your chest. Because of this, both Japanese and Italians killed each other without hesitation, and they sometimes even pulled the trigger on their own countrymen when they unexpectedly ran into each other. And in the midst of all this, large numbers of Japanese men who had no idea what was going on ran towards the noise and became victims one after another. It didn't matter whether the other person was holding a gun or not. Everyone reflexively pulled the trigger at the sight of anyone other than themselves, trying to stay alive. The slaughter engulfed the entire base...... There was a fierce gun battle taking place in the submarine dock. And a massacre resembling a hunt was taking place inside the base. Most of the non‐combatants assigned to this base were killed before they knew what was going on. The Italians were indeed quite seasoned troops, but their numbers began to drop bit by bit. Blood‐stained corpses lay scattered all across the base...... At first, it had probably been a proper gunfight. However, as they gradually became desensitized, it devolved into that most basic cause of wars throughout humanity, the desire to kill all foreigners you don't understand... Whenever they heard words they didn't understand, they pulled the trigger. By that point, the screams of foreigners sounded no different from those of man‐shaped beasts. After all, they couldn't understand pleading in another language. So, it had long ago turned into a mere massacre......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V005"
+            ],
+            "MG": [
+              "umi7_5-L0441"
+            ],
+            "UP": [
+              "umi7_5-L0441"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "At first, the gunfight may at least have had meaning according to the participants’ own reasoning; then it turns into indiscriminate slaughter.",
+      "alternative": "Proper can suggest an ordinary exchange of fire, but omits 彼らなりに意味のある, the qualified subjective purpose. Nothing in the source grants propriety or legitimacy to the first stage.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-006",
+      "kind": "WH",
+      "description": "Gratitude for today becomes gratitude to the Japanese attackers.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.motivation_emotion",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              480,
+              480
+            ],
+            "MG": [
+              480,
+              480
+            ],
+            "UP": [
+              480,
+              480
+            ]
+          },
+          "japanese": "だから、とりあえず今日に、感謝することにした。",
+          "japanesePC": "だから、とりあえず今日に、感謝することにした。",
+          "japanesePS3": "だから、とりあえず今日に、感謝することにした。",
+          "WH": "So, perhaps we should be grateful to them.",
+          "MG": "So, perhaps we should be grateful for this day.",
+          "UP": "So, perhaps I should be grateful for today.",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_5-L0478",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V006"
+            ],
+            "MG": [
+              "umi7_5-L0478"
+            ],
+            "UP": [
+              "umi7_5-L0478"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "日本人が先に仕掛けて来たが、あの時、我々もまた、日本人を殺すことを相談していた。彼らは軍人として、機先を制しただけのことだ。\nだから、とりあえず今日に、感謝することにした。迎えの船が来たところで、自分たちにはもう名誉など与えられはしない。死んだ戦友たちに顔向け出来ない、哀れな任務失敗を思い知るだけ。この極東の地で銃を抱いて死ねるのは、………軍人として本懐かもしれないのだ。",
+              "translation": "The Japanese struck first, but at that time, we were also talking about killing them. They simply made the first move as military men. So, perhaps we should be grateful for this day. Even if the boat had come to pick us up, there would've been no honor left for us. We would've been mere failures in our mission, unfit to face our dead comrades. Perhaps dying here in the Far East alongside my gun...is a more fitting end for a soldier. "
+            },
+            "UP": {
+              "japanese": "日本人が先に仕掛けて来たが、あの時、我々もまた、日本人を殺すことを相談していた。彼らは軍人として、機先を制しただけのことだ。\nだから、とりあえず今日に、感謝することにした。迎えの船が来たところで、自分たちにはもう名誉など与えられはしない。死んだ戦友たちに顔向け出来ない、哀れな任務失敗を思い知るだけ。この極東の地で銃を抱いて死ねるのは、………軍人として本懐かもしれないのだ。",
+              "translation": "The Japanese struck first, but at that time, we were also talking about killing them. They simply made the first move as military men.\nSo, perhaps I should be grateful for today. Even if the boat had come to take us away, there would have been no honor for us. We would have been mere failures in our mission, unfit to face our dead comrades. Perhaps dying here in the Far East alongside my gun......is a more fitting end for a soldier."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V006"
+            ],
+            "MG": [
+              "umi7_5-L0478"
+            ],
+            "UP": [
+              "umi7_5-L0478"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Angelo decides for now to be grateful for today, since the encounter may let him die armed as a soldier rather than face dishonorable mission failure.",
+      "alternative": "The Japanese attack supplies the circumstances, but 今日 is today, not the Japanese men. Them explicitly redirects gratitude to those attackers; perhaps we should also replaces his stated decision with a suggestion. A possible source typo cannot establish authority for replacing the written object.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-007",
+      "kind": "WH",
+      "description": "Holding her chest and groaning becomes doubling over and coughing.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              603,
+              603
+            ],
+            "MG": [
+              603,
+              603
+            ],
+            "UP": [
+              603,
+              603
+            ]
+          },
+          "japanese": "そう言いながら立ち上がろうとした時、ベアトリーチェが胸を押さえて呻く。",
+          "japanesePC": "そう言いながら立ち上がろうとした時、ベアトリーチェが胸を抑えて呻く。",
+          "japanesePS3": "そう言いながら立ち上がろうとした時、ベアトリーチェが胸を押さえて呻く。",
+          "WH": "Beatrice tried to stand up, but then doubled over and started coughing.",
+          "MG": "Beatrice tried to stand up, but then doubled over and started coughing.",
+          "UP": "Beatrice tried to stand up, but then doubled over and started coughing.",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0603",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0603"
+            ],
+            "MG": [
+              "umi7_5-L0603"
+            ],
+            "UP": [
+              "umi7_5-L0603"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そう言いながら立ち上がろうとした時、ベアトリーチェが胸を押さえて呻く。",
+              "translation": "Beatrice tried to stand up, but then doubled over and started coughing. "
+            },
+            "UP": {
+              "japanese": "そう言いながら立ち上がろうとした時、ベアトリーチェが胸を押さえて呻く。",
+              "translation": "Beatrice tried to stand up, but then doubled over and started coughing."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0603"
+            ],
+            "MG": [
+              "umi7_5-L0603"
+            ],
+            "UP": [
+              "umi7_5-L0603"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bice tries to stand, holds her chest and groans, revealing pain after Yamamoto’s stomping.",
+      "alternative": "Doubling over and coughing are plausible consequences of injury, but neither is the described action 胸を抑えて呻く. The next dialogue identifies rib pain, not a cough.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-008",
+      "kind": "WH",
+      "description": "Kinzo’s personal risk of incidental prosecution becomes a shared court-martial risk.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.undertranslation",
+        "character.agency_responsibility",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              629,
+              629
+            ],
+            "MG": [
+              629,
+              629
+            ],
+            "UP": [
+              629,
+              629
+            ]
+          },
+          "japanese": "私は、この島での出来事をうまく片付けないと、……とばっちりで軍法会議ものだ』",
+          "japanesePC": "『ない。隣の島へ船で運ぶ。......君は病院へ。私は、この島での出来事をうまく片付けないと、......とばっちりで軍法会議ものだ。』",
+          "japanesePS3": "私は、この島での出来事をうまく片付けないと、……とばっちりで軍法会議ものだ』",
+          "WH": "\"<There isn't.  I'll use a boat to take you to the next island.  ......To a hospital.  If we don't clean up the mess on this island, ......it'll mean a court-martial.>\"",
+          "MG": "As for me, ...unless I cleverly cover up what happened on this island, ...I might end up getting court-martialed just for being here.>\"",
+          "UP": "but I need to return here and clean up the mess on this island, ......or it'll mean a court‐martial.>\"",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_5-L0626",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0626"
+            ],
+            "MG": [
+              "umi7_5-L0626"
+            ],
+            "UP": [
+              "umi7_5-L0626"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "『ない。隣の島へ船で運ぶ。……君は病院へ。私は、この島での出来事をうまく片付けないと、……とばっちりで軍法会議ものだ』",
+              "translation": "\"<There isn't. A boat should get us to the next island over. ...We'll get you to a hospital. As for me, ...unless I cleverly cover up what happened on this island, ...I might end up getting court-martialed just for being here.>\" "
+            },
+            "UP": {
+              "japanese": "『ない。隣の島へ船で運ぶ。……君は病院へ。私は、この島での出来事をうまく片付けないと、……とばっちりで軍法会議ものだ』",
+              "translation": "\"<There isn't. I'll use a boat to take you to the next island. ......I'll take you to a hospital, but I need to return here and clean up the mess on this island, ......or it'll mean a court‐martial.>\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0626"
+            ],
+            "MG": [
+              "umi7_5-L0626"
+            ],
+            "UP": [
+              "umi7_5-L0626"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bice is to go to hospital; Kinzo must handle the island incident appropriately or he will be caught up in its consequences and face court-martial.",
+      "alternative": "If we don’t clean up makes responsibility collective, whereas 私は explicitly switches from her treatment to his exposure. とばっちり also specifies being caught in the fallout, rather than simply being answerable for a jointly caused mess.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-009",
+      "kind": "WH",
+      "description": "An enemy submarine becomes enemy ships in the proposed cover story.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.world_fact",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              697,
+              697
+            ],
+            "MG": [
+              697,
+              697
+            ],
+            "UP": [
+              697,
+              697
+            ]
+          },
+          "japanese": "要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。",
+          "japanesePC": "要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。",
+          "japanesePS3": "要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。",
+          "WH": "I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships.",
+          "MG": "I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships.",
+          "UP": "I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships.",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0695",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0695"
+            ],
+            "MG": [
+              "umi7_5-L0695"
+            ],
+            "UP": [
+              "umi7_5-L0695"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "新島にだって、医者はあるだろう。海軍の服を着てるんだ。要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。その医者が欲深であったなら、さらに好都合だ。……ここには、相手を言い成りに出来る、黄金の魔法があるのだから。死人同然だった私に、魂を与えてくれた、遥か異国よりの、……魔女。黄金と共にやって来た彼女は、……その魔法で私を蘇らせてくれた。",
+              "translation": "There has to be a doctor on Niijima. I'm wearing a Navy uniform. I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships. If the doctor happens to be of the greedy sort, all the better. ...After all, I have right here the golden magic to make people do what I say. A witch...from a distant country...took my lifeless body and gave me a soul. A woman came to me with the gold...and revived me with her magic. "
+            },
+            "UP": {
+              "japanese": "新島にだって、医者はあるだろう。海軍の服を着てるんだ。要人護送の船が、敵潜に沈められてボートで云々と、いくらでも誤魔化せる。その医者が欲深であったなら、さらに好都合だ。……ここには、相手を言い成りに出来る、黄金の魔法があるのだから。死人同然だった私に、魂を与えてくれた、遥か異国よりの、……魔女。黄金と共にやって来た彼女は、……その魔法で私を蘇らせてくれた。",
+              "translation": "There has to be a doctor on Niijima. I'm wearing a Navy uniform. I should be able to pass myself off as a survivor of a boat carrying a VIP that was sunk by enemy ships. If the doctor happens to be of the greedy sort, all the better. ......After all, I have right here the golden magic to make people do what I say. She came from a distant country, took my lifeless body, and gave me a soul. The witch......who came bearing gold......revived me with her magic."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0695"
+            ],
+            "MG": [
+              "umi7_5-L0695"
+            ],
+            "UP": [
+              "umi7_5-L0695"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo plans to explain that a VIP escort vessel was sunk by an enemy submarine and its survivors escaped in a boat.",
+      "alternative": "Enemy ships generalizes 敵潜, specifically an enemy submarine. The story is a contemplated deception, not an established account of what happened; that status remains protected.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-010",
+      "kind": "WH",
+      "description": "Not knowing the Odawara years becomes not knowing their duration.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              770,
+              770
+            ],
+            "MG": [
+              770,
+              770
+            ],
+            "UP": [
+              770,
+              770
+            ]
+          },
+          "japanese": "「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。",
+          "japanesePC": "「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。.........しかし、その後の、今日までの金蔵さんを見れば、ほんの数年間であっても、彼が如何に彼女を深く愛したか、うかがい知ることが出来るでしょう。」",
+          "japanesePS3": "「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。",
+          "WH": "\"I don't know how many years Kinzo-san spent with her in Odawara.  .........However, judging by Kinzo-san as we know him afterwards...  Even if it was only a few years, one can tell how deeply he loved her.\"",
+          "MG": "\"I don't know how many years Kinzo-san spent with her in Odawara.",
+          "UP": "\"I don't know how many years Kinzo‐san spent with her in Odawara.",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0770",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V009"
+            ],
+            "MG": [
+              "umi7_5-L0770"
+            ],
+            "UP": [
+              "umi7_5-L0770"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。………しかし、その後の、今日までの金蔵さんを見れば、ほんの数年間であっても、彼が如何に彼女を深く愛したか、うかがい知ることが出来るでしょう」",
+              "translation": "\"I don't know how many years Kinzo-san spent with her in Odawara. ......However, judging by the Kinzo-san we grew to know afterwards, one can tell how deeply he loved her, even if they only had a few years together.\" "
+            },
+            "UP": {
+              "japanese": "「私は、金蔵さんが彼女と過ごされた小田原の数年間を知りません。………しかし、その後の、今日までの金蔵さんを見れば、ほんの数年間であっても、彼が如何に彼女を深く愛したか、うかがい知ることが出来るでしょう」",
+              "translation": "\"I don't know how many years Kinzo‐san spent with her in Odawara. .........However, judging by Kinzo‐san as we know him afterwards... Even if it was only a few years, one can tell how deeply he loved her.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V009"
+            ],
+            "MG": [
+              "umi7_5-L0770"
+            ],
+            "UP": [
+              "umi7_5-L0770"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Nanjo does not know the few years Kinzo spent with Bice in Odawara; from Kinzo’s subsequent life through the present he can infer how deeply he loved her.",
+      "alternative": "How many years substitutes uncertainty about duration for lack of knowledge of that period. 数年間を知りません takes the years themselves as the object; it is contrasted with knowledge of Kinzo afterwards, not an unknown numerical count.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-011",
+      "kind": "WH",
+      "description": "A diagonally missing half of the stamp gains a definite slanted-press cause.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.world_fact",
+        "mystery.clue_invention"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              798,
+              798
+            ],
+            "MG": [
+              798,
+              798
+            ],
+            "UP": [
+              798,
+              798
+            ]
+          },
+          "japanese": "それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです」",
+          "japanesePC": "「そうです。.........戦時下の粗雑な刻印でした。本来は翼を広げた鷲の紋章が刻印されるべきだったのでしょう。それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです。」",
+          "japanesePS3": "それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです」",
+          "WH": "\"Correct.  .........They used a rough, wartime press.  It was probably supposed to look like the crest of an eagle spreading its wings.  It was pressed in at a slight slant, so half of it was too light to see.\"",
+          "MG": "It was pressed in at a slight slant, so half of it was too light to see.\"",
+          "UP": "But half of it, cut off at a diagonal, was too faded to see.\"",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_5-L0795",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0795",
+              "umi7_5-L0799"
+            ],
+            "MG": [
+              "umi7_5-L0795"
+            ],
+            "UP": [
+              "umi7_5-L0795"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうです。………戦時下の粗雑な刻印でした。本来は翼を広げた鷲の紋章が刻印されるべきだったのでしょう。それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです」",
+              "translation": "\"Correct. ......They used a rough, wartime press. It was probably supposed to look like the crest of an eagle spreading its wings. It was pressed in at a slight slant, so half of it was too light to see.\" "
+            },
+            "UP": {
+              "japanese": "「そうです。………戦時下の粗雑な刻印でした。本来は翼を広げた鷲の紋章が刻印されるべきだったのでしょう。それが、ちょうど斜めに断ち切ったように半分、薄れて消えていたのです」",
+              "translation": "\"Correct. .........It was a hasty, wartime stamping. It was probably supposed to look like the crest of an eagle spreading its wings. But half of it, cut off at a diagonal, was too faded to see.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0795",
+              "umi7_5-L0799"
+            ],
+            "MG": [
+              "umi7_5-L0795"
+            ],
+            "UP": [
+              "umi7_5-L0795"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The rough wartime stamp had half faded away, looking as though it had been cut off diagonally. Its intended spread-wing crest is qualified as probable.",
+      "alternative": "The English retains uncertainty about the intended crest but asserts it was pressed at a slight slant, so half was invisible. 斜めに断ち切ったように describes the appearance of the missing half, not a proven angle of application or its causal mechanism.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-012",
+      "kind": "WH",
+      "description": "Apparently replacing the exported gold’s stamp becomes certain replacement.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              807,
+              807
+            ],
+            "MG": [
+              807,
+              807
+            ],
+            "UP": [
+              807,
+              807
+            ]
+          },
+          "japanese": "外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが」",
+          "japanesePC": "「もっとも、金蔵さんはその刻印から、黄金の出所を探られることを嫌いましてな。外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが。」",
+          "japanesePS3": "外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが」",
+          "WH": "\"However, Kinzo-san didn't want people using that seal to figure out where the gold had come from.  The gold he took outside was all re-pressed with the One-winged Eagle design he had created.\"",
+          "MG": "The gold he took outside was all re-pressed with the One-Winged Eagle design he had created.\"",
+          "UP": "The gold he took outside was all re‐pressed with the One‐winged Eagle design he had created.\"",
+          "note": "Full continuous three-witness source-first review with boundary context in durable reports. Separate MG/UP canonical verdicts;008 personal attribution repaired, remaining incidental-fallout compression held. MG416 PC-specific insult verified against PS3 generic Asian reference, yellow only. MG448 victim numbers and both680 laid/sat action remain inherited candidates pending. Rank terminology and clots589–591 conservative holds. No firm independently introduced defects.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0802",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0802"
+            ],
+            "MG": [
+              "umi7_5-L0802"
+            ],
+            "UP": [
+              "umi7_5-L0802"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……果たして正しく刻印されていたなら、それは共和国旗の鷹だったのか、……それともまさか、双頭の……」「……いやいや、そんなまさか。あの莫大な黄金の山の前で、金蔵さんと杯を傾け合いながら、黄金ロマンで夜を明かすのは、なかなかに楽しいことでした」「もっとも、金蔵さんはその刻印から、黄金の出所を探られることを嫌いましてな。外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが」",
+              "translation": "\"...If the imprint had been made correctly, it would have been the eagle of the Salo Republic's flag, ...or could it have been the two-headed...\" \"...No, no, of course not. Passing the night away with Kinzo-san in front of that massive pile of gold, drinking and wondering, was truly an enjoyable experience.\" \"However, Kinzo-san didn't want people using that seal to figure out where the gold had come from. The gold he took outside was all re-pressed with the One-Winged Eagle design he had created.\" "
+            },
+            "UP": {
+              "japanese": "「……果たして正しく刻印されていたなら、それは共和国旗の鷹だったのか、……それともまさか、双頭の……」「……いやいや、そんなまさか。あの莫大な黄金の山の前で、金蔵さんと杯を傾け合いながら、黄金ロマンで夜を明かすのは、なかなかに楽しいことでした」「もっとも、金蔵さんはその刻印から、黄金の出所を探られることを嫌いましてな。外部に持ち出す黄金には、わざわざ自分の片翼の鷲をデザインした、別の刻印を打ち直していたようですが」",
+              "translation": "\"......If the imprint had been made correctly, it would have been the eagle of the Salò Republic's flag, ......or could it have been the two‐headed......\" \"......No, no, that would be ridiculous. At any rate, passing the night away with Kinzo‐san in front of that massive pile of gold, drinking and dreaming, was truly an enjoyable experience.\" \"However, Kinzo‐san didn't want anyone using that stamp to figure out where the gold had come from. The gold he took outside was all re‐pressed with the One‐winged Eagle design he had created.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0802"
+            ],
+            "MG": [
+              "umi7_5-L0802"
+            ],
+            "UP": [
+              "umi7_5-L0802"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Nanjo says Kinzo apparently re-stamped gold taken outside with a separate stamp bearing his own one-winged eagle design to prevent its origin being traced.",
+      "alternative": "The gold ... was all re-pressed states the action as fact. 打ち直していたようですが explicitly qualifies Nanjo’s report; the suspicion about provenance is retained, but certainty about the replacement is raised. The finding does not treat all as an independent quantifier defect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-HIRAOKA-RANK-001",
+      "kind": "WH",
+      "description": "Japanese addresses Hiraoka as 兵曹; WH moves the rank to narration and specifies Warrant Officer. The transfer is unobjectionable, but the historical rank is changed.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              295,
+              296
+            ],
+            "MG": [
+              295,
+              296
+            ],
+            "UP": [
+              295,
+              296
+            ]
+          },
+          "japanese": "「……ひ、平岡兵曹？！」\n彼は血で全身を濡らして、うつ伏せに倒れていた。",
+          "japanesePC": "「......ひ、平岡兵曹？！」",
+          "japanesePS3": "「……ひ、平岡兵曹？！」\n彼は血で全身を濡らして、うつ伏せに倒れていた。",
+          "WH": "Warrant Officer Hiraoka was lying face down, his entire body drenched in blood.",
+          "MG": "\"...H-Hiraoka?!\"\nWarrant Officer Hiraoka was lying face down, his entire body drenched in blood.",
+          "UP": "\"......H‐Hiraoka?!\"\nWarrant Officer Hiraoka was lying face down, his entire body drenched in blood.",
+          "note": "Both warrant officer retains changed rank, source兵曹; rank moved from address to narration unobjectionable.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0295",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0296"
+            ],
+            "MG": [
+              "umi7_5-L0295",
+              "umi7_5-L0296"
+            ],
+            "UP": [
+              "umi7_5-L0295",
+              "umi7_5-L0296"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "彼は血で全身を濡らして、うつ伏せに倒れていた。血の跡がべっとりと続き、部屋から何とかここまで這いずってきて、絶命したことが見て取れた。いや、まだ痙攣している。絶命はしていないのかもしれない。……しかし、医者などいないこの島で、……いや、医者がいたとしても、こんな、何発も撃たれて、胸が抉れて、……助かるはずなどあるものか…。這い出てきたに違いない室内を見ると、荒れ果て、他にも２人の日本人の血塗れの死体があった。",
+              "translation": "Warrant Officer Hiraoka was lying face down, his entire body drenched in blood. Judging by the trail of blood behind him, it was clear that he had somehow managed to crawl here from a different room before dying. No, he was still twitching. He might not be dead yet. ...But, on this island without a doctor... ...no, even if we had a doctor, who could possibly... save a man who had been shot this many times in the chest... When I looked into the room he must have crawled out of, I saw two more bloodstained Japanese corpses. "
+            },
+            "UP": {
+              "japanese": "彼は血で全身を濡らして、うつ伏せに倒れていた。血の跡がべっとりと続き、部屋から何とかここまで這いずってきて、絶命したことが見て取れた。いや、まだ痙攣している。絶命はしていないのかもしれない。……しかし、医者などいないこの島で、……いや、医者がいたとしても、こんな、何発も撃たれて、胸が抉れて、……助かるはずなどあるものか…。這い出てきたに違いない室内を見ると、荒れ果て、他にも２人の日本人の血塗れの死体があった。",
+              "translation": "Warrant Officer Hiraoka was lying face down, his entire body drenched in blood. Judging by the trail of blood behind him, it was clear that he had somehow managed to crawl here from a different room before dying. No, he was still twitching. He might not be dead yet. ......But, on this island without a doctor— no, even if we had a doctor... how could anyone possibly... ...save a man who had been shot this many times in the chest... When I looked into the room he must have crawled out of, I saw two more blood‐stained Japanese corpses."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0296"
+            ],
+            "MG": [
+              "umi7_5-L0296"
+            ],
+            "UP": [
+              "umi7_5-L0296"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Petty Officer Hiraoka; the precise petty-officer grade is unspecified. Japan Aeronautic Association's historical table distinguishes the NCO petty-officer grades from warrant-officer 兵曹長. Reference: https://www.aero.or.jp/culture/aviationand-culture/20071215-8265/; research evidence: source/evidence/hiraoka-rank-research.json.",
+      "alternative": "兵曹 might be used informally as a shortened title, but no 兵曹長 or warrant-officer qualification is supplied anywhere in the answer script. Selecting that distinct higher category therefore exceeds the source; retain the generic petty-officer designation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-013",
+      "kind": "WH",
+      "description": "WH reduces many Japanese men being caught up one after another to several men stumbling into the fight.",
+      "categories": [
+        "linguistic.undertranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              448,
+              448
+            ],
+            "MG": [
+              448,
+              448
+            ],
+            "UP": [
+              448,
+              448
+            ]
+          },
+          "japanese": "そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。",
+          "japanesePC": "そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。",
+          "japanesePS3": "そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。",
+          "WH": "In the midst of all this were several Japanese men who had stumbled into the fight, wondering what was going on.",
+          "MG": "In the midst of all this were several Japanese men who had stumbled into the fight, wondering what was going on.",
+          "UP": "And in the midst of all this, large numbers of Japanese men who had no idea what was going on ran towards the noise and became victims one after another.",
+          "note": "Original PC and coherent paired context verified under ep07-ch05-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_5-L0441",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V005"
+            ],
+            "MG": [
+              "umi7_5-L0441"
+            ],
+            "UP": [
+              "umi7_5-L0441"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかし、無理もないことだった。そしてそれは、ここの撃ち合いだけではない。この、狭く入り組んだ壕内では、ほとんどが出会い頭となる。互いに銃弾を無闇やたらに撃ち込み合えば、転がる骸は二つになる。だから、人の気配さえ感じたら直ちに引き金を引いた方が早い。それが唯一、自分の胸に鉛弾を喰らわない生き残りの方法だ。そんなだから、日本人もイタリア人も、異邦人を容赦なく殺したし、時に出会い頭の同胞にさえ引き金を引いた。そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。相手が銃を持っていようと持っていまいと関係ない。自分が生きるために自分以外の人影に対し、反射的に引き金を引く。そんな殺人劇が、基地内を飲み込んでいった……。潜水艦ドックでは激しい銃撃戦が。そして基地内では狩猟のような惨劇が繰り広げられた。軍属の非戦闘員のほとんどは、何事かもわからない内に撃ち殺された。イタリア人は確かに精兵揃いだったが、少しずつ犠牲者を増やしていった。基地内のそこかしこに、血塗れの死体がごろごろと横たわった……。最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。しかし次第に、彼らの感覚は麻痺し、理解できぬ異邦人は全て殺せという、人類が戦争を起こす理由の、最も根源的なものにすり替わっていった…。自分に理解できない言葉を聞けば、構わず引き金を引いた。異邦人の悲鳴はもはや、人型のケモノのそれと同じに聞こえた。異国の言葉の命乞いなど、理解も出来ないのだから。だからそれはもうとっくに、ただの殺人劇と成り果てていたのだ……。",
+              "translation": "However, what had happened to them wasn't particularly surprising. It wasn't the first time it had happened either. In this tiny, cramped tunnel, nearly everyone had met head on. When both sides shot recklessly in such a situation, the result was two corpses. So, whoever sensed another person and pulled the trigger quickest \"won\". That was the only way to survive this battle without a bullet in your chest. Because of this, both Japanese and Italians had killed each other without hesitation, and they sometimes even pulled the trigger on oncoming allies. In the midst of all this were several Japanese men who had stumbled into the fight, wondering what was going on. It didn't matter whether the other person was holding a gun or not. Everyone had reflexively pulled the trigger at the sight of anyone other than themselves, trying to stay alive. The entire base had been wrapped up in this slaughter... There was a fierce gun battle taking place on the submarine dock. And a massacre resembling a hunt was taking place inside the base. Most of the non-combatants assigned to this base were killed before they knew what was going on. The Italians were indeed quite seasoned troops, but their numbers began to drop bit by bit. Bloodstained corpses were scattered everywhere... At first, it had probably been a proper gunfight. However, as their minds began to grow weary and numb, it devolved into that most basic cause of wars throughout humanity, the desire to kill all foreigners you don't understand... Whenever they heard words they didn't understand, they pulled the trigger. By that point, the screams of foreigners sounded no different from those of man-shaped beasts. After all, they couldn't understand pleading in another language. So, it had long ago turned into a mere massacre... "
+            },
+            "UP": {
+              "japanese": "しかし、無理もないことだった。そしてそれは、ここの撃ち合いだけではない。この、狭く入り組んだ壕内では、ほとんどが出会い頭となる。互いに銃弾を無闇やたらに撃ち込み合えば、転がる骸は二つになる。だから、人の気配さえ感じたら直ちに引き金を引いた方が早い。それが唯一、自分の胸に鉛弾を喰らわない生き残りの方法だ。そんなだから、日本人もイタリア人も、異邦人を容赦なく殺したし、時に出会い頭の同胞にさえ引き金を引いた。そんな中に、何事か何事かと、突然の騒ぎに駆けつけた大勢の日本人たちは次々に巻き込まれていった。相手が銃を持っていようと持っていまいと関係ない。自分が生きるために自分以外の人影に対し、反射的に引き金を引く。そんな殺人劇が、基地内を飲み込んでいった……。潜水艦ドックでは激しい銃撃戦が。そして基地内では狩猟のような惨劇が繰り広げられた。軍属の非戦闘員のほとんどは、何事かもわからない内に撃ち殺された。イタリア人は確かに精兵揃いだったが、少しずつ犠牲者を増やしていった。基地内のそこかしこに、血塗れの死体がごろごろと横たわった……。最初は、少なくとも彼らなりに意味のある銃撃戦だったかもしれない。しかし次第に、彼らの感覚は麻痺し、理解できぬ異邦人は全て殺せという、人類が戦争を起こす理由の、最も根源的なものにすり替わっていった…。自分に理解できない言葉を聞けば、構わず引き金を引いた。異邦人の悲鳴はもはや、人型のケモノのそれと同じに聞こえた。異国の言葉の命乞いなど、理解も出来ないのだから。だからそれはもうとっくに、ただの殺人劇と成り果てていたのだ……。",
+              "translation": "However, it wasn't particularly surprising. And this wasn't the only place it was happening. Nearly everyone met head on in these tiny, cramped tunnels. When both sides shot recklessly in a situation like that, the result was two corpses. So the way to be fastest was to pull the trigger immediately the moment you sensed another person. That was the only way to make it through this battle without ending up with a bullet in your chest. Because of this, both Japanese and Italians killed each other without hesitation, and they sometimes even pulled the trigger on their own countrymen when they unexpectedly ran into each other. And in the midst of all this, large numbers of Japanese men who had no idea what was going on ran towards the noise and became victims one after another. It didn't matter whether the other person was holding a gun or not. Everyone reflexively pulled the trigger at the sight of anyone other than themselves, trying to stay alive. The slaughter engulfed the entire base...... There was a fierce gun battle taking place in the submarine dock. And a massacre resembling a hunt was taking place inside the base. Most of the non‐combatants assigned to this base were killed before they knew what was going on. The Italians were indeed quite seasoned troops, but their numbers began to drop bit by bit. Blood‐stained corpses lay scattered all across the base...... At first, it had probably been a proper gunfight. However, as they gradually became desensitized, it devolved into that most basic cause of wars throughout humanity, the desire to kill all foreigners you don't understand... Whenever they heard words they didn't understand, they pulled the trigger. By that point, the screams of foreigners sounded no different from those of man‐shaped beasts. After all, they couldn't understand pleading in another language. So, it had long ago turned into a mere massacre......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-05-V005"
+            ],
+            "MG": [
+              "umi7_5-L0441"
+            ],
+            "UP": [
+              "umi7_5-L0441"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "大勢 and 次々 describe a large number being drawn in successively during indiscriminate killing. MG loses both numerical scale and sequence; UP restores them.",
+      "alternative": "Several can sometimes denote an indefinite group, but does not preserve the explicit large number or one-after-another sequence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH05-014",
+      "kind": "WH",
+      "description": "WH changes Kinzo gently laying Beato down in the boat into sitting her there.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              680,
+              680
+            ],
+            "MG": [
+              680,
+              680
+            ],
+            "UP": [
+              680,
+              680
+            ]
+          },
+          "japanese": "金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。",
+          "japanesePC": "金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。",
+          "japanesePS3": "金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。",
+          "WH": "Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat.",
+          "MG": "Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat.",
+          "UP": "Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat.",
+          "note": "Original PC and coherent paired context verified under ep07-ch05-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_5-L0680",
+          "readerRefs": {
+            "WH": [
+              "umi7_5-L0680"
+            ],
+            "MG": [
+              "umi7_5-L0680"
+            ],
+            "UP": [
+              "umi7_5-L0680"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。",
+              "translation": "Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat. "
+            },
+            "UP": {
+              "japanese": "金蔵は残念そうにそう言いながら、ベアトを抱え上げ、やさしく船に寝せる。",
+              "translation": "Looking apologetic, Kinzo lifted Beato up and gently sat her in the boat."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_5-L0680"
+            ],
+            "MG": [
+              "umi7_5-L0680"
+            ],
+            "UP": [
+              "umi7_5-L0680"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "船に寝せる specifies laying her down after lifting her; both MG and UP retain sat.",
+      "alternative": "Both actions place her in the boat, but the explicitly described posture differs; no medical consequence is inferred.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-103",
+      "kind": "PC",
+      "description": "Original PC 黄色猿 and WH yellow monkeys retained by MG; PS3 東洋人 is followed by UP Asians.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_5",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              416,
+              416
+            ],
+            "MG": [
+              416,
+              416
+            ],
+            "UP": [
+              416,
+              416
+            ]
+          },
+          "japanese": "“くそったれ、東洋人め！！”",
+          "japanesePC": "“くそったれ、黄色猿め！！”",
+          "japanesePS3": "“くそったれ、東洋人め！！”",
+          "WH": "'Damn yellow monkeys!!'",
+          "MG": "\"Damn yellow monkeys!!'",
+          "UP": "«Goddamn Asians!!»",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_5-L0411",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_5-L0411"
+            ],
+            "UP": [
+              "umi7_5-L0411"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "“君は知らなくていい。そこにじっと隠れていろ。同胞が呼び掛けるまで出てくるんじゃない！”「イタリア人の声が聞こえたッ！！　そこにいるぞ！！」“くそったれ、東洋人め！！”",
+              "translation": "\"There's no need for you to know. Just stay hidden there. Don't come out until one of your fellow countrymen calls for you!' \"I heard an Italian voice!! He's over there!!\" \"Damn yellow monkeys!!' "
+            },
+            "UP": {
+              "japanese": "“君は知らなくていい。そこにじっと隠れていろ。同胞が呼び掛けるまで出てくるんじゃない！”「イタリア人の声が聞こえたッ！！　そこにいるぞ！！」“くそったれ、東洋人め！！”",
+              "translation": "«There's no need for you to know. Just stay hidden there. Don't come out until one of your fellow countrymen calls for you!» \"I heard an Italian voice!! He's over there!!\" «Goddamn Asians!!»"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_5-L0411"
+            ],
+            "UP": [
+              "umi7_5-L0411"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Original PC 黄色猿 and WH yellow monkeys retained by MG; PS3 東洋人 is followed by UP Asians.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH05-001": {
+      "umi7_5-L0172": {
+        "WH": [
+          "some of the others seem to agree"
+        ],
+        "MG": [
+          "some of the others seem to agree"
+        ],
+        "UP": [
+          "some of the others seem to agree"
+        ]
+      }
+    },
+    "WH-EP07-CH05-002": {
+      "umi7_5-L0189": {
+        "WH": [
+          "Why did the ensign contact the Japanese military and ask for help"
+        ],
+        "UP": [
+          "Why did you ask the Japanese military for help, Ensign",
+          "Our mission was a failure from the moment you asked them for help"
+        ]
+      }
+    },
+    "WH-EP07-CH05-003": {
+      "PC-CANDIDATE-EP07-05-V003": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The purpose of wiping out the Italians together once gathered and the all-person vote are absent."
+        }
+      },
+      "umi7_5-L0263": {
+        "MG": {
+          "kind": "omission",
+          "reason": "The purpose of wiping out the Italians together once gathered and the all-person vote are absent."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "The vote and gathering are restored, but the intended single sweeping extermination remains absent."
+        }
+      }
+    },
+    "WH-EP07-CH05-004": {
+      "umi7_5-L0296": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Hiraoka's chest being gouged out is absent after the repeated-gunshot description."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "Hiraoka's chest being gouged out is absent after the repeated-gunshot description."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "Hiraoka's chest being gouged out is absent after the repeated-gunshot description."
+        }
+      }
+    },
+    "WH-EP07-CH05-005": {
+      "PC-CANDIDATE-EP07-05-V005": {
+        "WH": [
+          "it had probably been a proper gunfight"
+        ]
+      },
+      "umi7_5-L0441": {
+        "MG": [
+          "it had probably been a proper gunfight"
+        ],
+        "UP": [
+          "it had probably been a proper gunfight"
+        ]
+      }
+    },
+    "WH-EP07-CH05-006": {
+      "PC-CANDIDATE-EP07-05-V006": {
+        "WH": [
+          "perhaps we should be grateful to them"
+        ]
+      }
+    },
+    "WH-EP07-CH05-007": {
+      "umi7_5-L0603": {
+        "WH": [
+          "doubled over and started coughing"
+        ],
+        "UP": [
+          "doubled over and started coughing"
+        ],
+        "MG": [
+          "doubled over and started coughing"
+        ]
+      }
+    },
+    "WH-EP07-CH05-008": {
+      "umi7_5-L0626": {
+        "WH": [
+          "If we don't clean up the mess on this island"
+        ]
+      }
+    },
+    "WH-EP07-CH05-009": {
+      "umi7_5-L0695": {
+        "WH": [
+          "sunk by enemy ships"
+        ],
+        "MG": [
+          "sunk by enemy ships"
+        ],
+        "UP": [
+          "sunk by enemy ships"
+        ]
+      }
+    },
+    "WH-EP07-CH05-010": {
+      "PC-CANDIDATE-EP07-05-V009": {
+        "WH": [
+          "I don't know how many years Kinzo-san spent with her in Odawara"
+        ]
+      },
+      "umi7_5-L0770": {
+        "MG": [
+          "I don't know how many years Kinzo-san spent with her in Odawara"
+        ],
+        "UP": [
+          "I don't know how many years Kinzo‐san spent with her in Odawara"
+        ]
+      }
+    },
+    "WH-EP07-CH05-011": {
+      "umi7_5-L0795": {
+        "WH": [
+          "It was pressed in at a slight slant, so half of it was too light to see"
+        ],
+        "MG": [
+          "It was pressed in at a slight slant, so half of it was too light to see"
+        ]
+      },
+      "umi7_5-L0799": {
+        "WH": [
+          "It was pressed in at a slight slant, so half of it was too light to see"
+        ]
+      }
+    },
+    "WH-EP07-CH05-012": {
+      "umi7_5-L0802": {
+        "WH": [
+          "was all re-pressed"
+        ],
+        "MG": [
+          "was all re-pressed"
+        ],
+        "UP": [
+          "was all re‐pressed"
+        ]
+      }
+    },
+    "WH-EP07-HIRAOKA-RANK-001": {
+      "umi7_5-L0296": {
+        "WH": [
+          "Warrant Officer"
+        ],
+        "MG": [
+          "Warrant Officer"
+        ],
+        "UP": [
+          "Warrant Officer"
+        ]
+      }
+    },
+    "WH-EP07-CH05-013": {
+      "PC-CANDIDATE-EP07-05-V005": {
+        "WH": [
+          "several Japanese men who had stumbled into the fight"
+        ]
+      },
+      "umi7_5-L0441": {
+        "MG": [
+          "several Japanese men who had stumbled into the fight"
+        ]
+      }
+    },
+    "WH-EP07-CH05-014": {
+      "umi7_5-L0680": {
+        "WH": [
+          "sat her in the boat"
+        ],
+        "UP": [
+          "sat her in the boat"
+        ],
+        "MG": [
+          "sat her in the boat"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

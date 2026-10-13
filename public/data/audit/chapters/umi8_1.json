@@ -1,1 +1,1485 @@
-{"findings":[{"id":"WH-EP08-CH01-001","kind":"WH","description":"A guess about nervousness affecting health becomes an asserted general pressure response","categories":["linguistic.undertranslation","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[53,53],"MG":[53,53],"UP":[53,53]},"japanese":"「緊張が体調に出るタイプなんやろな！","japanesePC":"「緊張が体調に出るタイプなんやろな！　そういうのは、いざ当日を迎えるとけろっと治ることもあるもんや。」","japanesePS3":"「緊張が体調に出るタイプなんやろな！","WH":"\"She's the kind of person who lets it show when she's under pressure!  It's not that strange for people like that to get all better when the big day finally comes.\"","MG":"\"She's the kind of person whose health takes a hit when she's stressed!","UP":"\"I'll bet she's the type to get sick when she's stressed or overexcited!","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_1-L0053","readerRefs":{"WH":["umi8_1-L0053"],"MG":["umi8_1-L0053"],"UP":["umi8_1-L0053"]}}],"sourceReading":"Hideyoshi guesses she is probably the type whose nervousness affects her physical condition. He explains that such symptoms can disappear on the actual day.","alternative":"Lets it show under pressure may refer back to the health discussion, preserving a possible somatic reading. But the wording broadens physical condition to visible reaction and omits the tentative やろな, making his inferred explanation an assertion.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-002","kind":"WH","description":"Enjoying the current play becomes having looked forward to it","categories":["linguistic.tense_aspect","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[55,55],"MG":[55,55],"UP":[55,55]},"japanese":"「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね」","japanesePC":"「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね。」","japanesePS3":"「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね」","WH":"\"She must really have been looking forward to playing with all five of the cousins together.\"","MG":"\"She must really have been looking forward to playing with all five of the cousins together.\"","UP":"\"She must really have been looking forward to playing with all five of the cousins together.\"","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_1-L0055","readerRefs":{"WH":["umi8_1-L0055"],"MG":["umi8_1-L0055"],"UP":["umi8_1-L0055"]}}],"sourceReading":"Rosa surmises that playing excitedly with all five cousins is so much fun she cannot help herself. The comment describes the current enjoyment.","alternative":"Anticipation could help explain nervousness, and the preceding discussion makes that inference plausible. The source instead locates the inferred feeling in the ongoing fun, so looking forward changes the time and emotional explanation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-003","kind":"WH","description":"Dressing for the occasion becomes matching fate whims","categories":["linguistic.mistranslation","character.voice_state"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[142,142],"MG":[142,142],"UP":[142,142]},"japanese":"今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ」","japanesePC":"「金蔵さん、その引き出しはさっき調べたでしょうが......。それに、素晴らしいネクタイピンをいくつもお持ちのはずだ。今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ。」","japanesePS3":"今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ」","WH":"\"Kinzo-san, you already looked in that drawer five seconds ago......  Besides, you own several splendid necktie pins.  Is it not stylish to select something fitting to match fate's whims?\"","MG":"Is it not stylish to select something fitting to match fate's whims?\"","UP":"It would be stylish to select one befitting this auspicious occasion.\"","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_1-L0140","readerRefs":{"WH":["umi8_1-L0140"],"MG":["umi8_1-L0140"],"UP":["umi8_1-L0140"]}}],"sourceReading":"Nanjo suggests selecting a suitable pin to match the occasion of this day, demonstrating style. 今日というお日柄 concerns the day or occasion.","alternative":"The day can carry auspicious associations, and fate whims may sound like a playful recommendation to accept a different pin. It adds an agency of fate absent from the source and loses the stated occasion as the selection criterion.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-004","kind":"WH","description":"Looking impeccable in public becomes making a decision with pride","categories":["linguistic.idiom_calque","character.irony_performance"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[149,149],"MG":[149,149],"UP":[149,149]},"japanese":"こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。","japanesePC":"こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。","japanesePS3":"こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。","WH":"He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride.","MG":"He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride.","UP":"He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride.","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_1-L0148","readerRefs":{"WH":["umi8_1-L0148"],"MG":["umi8_1-L0148"],"UP":["umi8_1-L0148"]}}],"sourceReading":"He fusses behind the scenes but nails the performance when it is time to appear publicly: バッチリ決めてみせる contrasts backstage fuss with polished public presentation.","alternative":"The scene includes deciding on attire, so makes his decision refers to a nearby action. But 本番 and the backstage contrast make the source public performance the point, not the eventual choice; pride is also added.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-005","kind":"WH","description":"A job perk becomes a household role","categories":["linguistic.word_choice","character.irony_performance"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[173,173],"MG":[173,173],"UP":[173,173]},"japanese":"「役得であり、仕事であるわけです。","japanesePC":"「役得であり、仕事であるわけです。わかりましたか？」","japanesePS3":"「役得であり、仕事であるわけです。","WH":"\"It's our role in the household as well as our job.  Do you understand?\"","MG":"\"It's a perk as well as our job.","UP":"\"It's both a perk and a part of the job.","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi8_1-L0173","readerRefs":{"WH":["umi8_1-L0173"],"MG":["umi8_1-L0173"],"UP":["umi8_1-L0173"]}}],"sourceReading":"Sampling is both a perk of the job (役得) and work. Gohda caps Kumasawa joking justification with the benefit/duty pairing.","alternative":"Role in the household may describe a servants position broadly, but it does not convey a benefit enjoyed through that position, collapsing both sides into duties and removing the joke.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-006","kind":"WH","description":"Acknowledging preparation work becomes asserting that everything proceeds smoothly","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[176,176],"MG":[176,176],"UP":[176,176]},"japanese":"「……準備ご苦労。","japanesePC":"「......準備ご苦労。お茶の方は問題ないか。」","japanesePS3":"「……準備ご苦労。","WH":"\"......Everything is proceeding smoothly.  Are there any problems with the tea?\"","MG":"\"...Everything is proceeding smoothly.","UP":"\"......Everything is proceeding smoothly.","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_1-L0176","readerRefs":{"WH":["umi8_1-L0176"],"MG":["umi8_1-L0176"],"UP":["umi8_1-L0176"]}}],"sourceReading":"Genji acknowledges their preparation effort with ご苦労, then asks whether the tea presents any problems.","alternative":"Everything is proceeding smoothly can sound like positive recognition of their work. It nonetheless asserts an assessment instead of thanking or acknowledging the workers; that assessment precedes his actual question.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-007","kind":"WH","description":"Possible absence because of illness becomes being too sick to come","categories":["linguistic.overinterpretation","character.knowledge_boundary"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[209,209],"MG":[209,209],"UP":[209,209]},"japanese":"体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ」","japanesePC":"「縁寿ちゃん。来られて良かったですね。体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ。」","japanesePS3":"体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ」","WH":"\"I'm so glad Ange-chan made it.  I was so worried when I heard she was too sick to come.\"","MG":"I was so worried when I heard she was too sick to come.\"","UP":"I was so worried when I heard that you might be too sick to make it today.\"","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_1-L0207","readerRefs":{"WH":["umi8_1-L0207"],"MG":["umi8_1-L0207"],"UP":["umi8_1-L0207"]}}],"sourceReading":"Natsuhi had heard Ange might be absent because she was unwell. The reported absence is explicitly uncertain.","alternative":"Her subsequent arrival and recovery make either formulation intelligible, but too sick to come asserts inability where the report only states possible absence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-008","kind":"WH","description":"Battler being taken aback becomes physically drawing back","categories":["linguistic.addition","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[364,364],"MG":[364,364],"UP":[364,364]},"japanese":"戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。","japanesePC":"戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。","japanesePS3":"戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。","WH":"Battler drew back at first, but he then understood Kinzo's feelings and hugged him back.","MG":"Battler drew back at first, but then he understood Kinzo's feelings and hugged him back.","UP":"Battler drew back at first, but he then understood Kinzo's feelings and hugged him back.","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_1-L0363","readerRefs":{"WH":["umi8_1-L0363"],"MG":["umi8_1-L0363"],"UP":["umi8_1-L0363"]}}],"sourceReading":"Battler is initially surprised or taken aback, then understands Kinzo feelings and hugs him back. No withdrawal movement is specified.","alternative":"Drew back can figuratively convey surprise, and a recoil would be plausible during a hug. In this bodily embrace scene it supplies a specific withdrawal action absent from 面食らった.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-009","kind":"WH","description":"Ange perceived sternness becomes a factual facial change","categories":["linguistic.overinterpretation","character.viewpoint_attribution","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[374,374],"MG":[374,374],"UP":[374,374]},"japanese":"なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。","japanesePC":"......それまで、あんなにも上機嫌に顔を綻ばせていた金蔵の顔が、なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。","japanesePS3":"なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。","WH":"......Kinzo's face, which had been looking so cheery a second ago, suddenly became stern as soon as Ange stepped forward.","MG":"suddenly became stern as soon as Ange stepped forward.","UP":"seemed to become much sterner the moment Ange stepped forward.","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_1-L0373","readerRefs":{"WH":["umi8_1-L0373"],"MG":["umi8_1-L0373"],"UP":["umi8_1-L0373"]}}],"sourceReading":"As Ange steps forward, Kinzo face somehow seems to her to have become especially stern. なぜか and ように感じられた mark subjective perception, followed by correction and the expression expected of the Kinzo in her mind.","alternative":"The surrounding viewpoint and immediate No correction help recover subjectivity. Nevertheless suddenly became stern asserts the change directly, removing the explicit seeming that prepares the contrast between memory and present experience.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-010","kind":"WH","description":"Hideyoshi food motive becomes everyone sole motive","categories":["linguistic.overinterpretation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[440,440],"MG":[440,440],"UP":[440,440]},"japanese":"これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。","japanesePC":"これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。","japanesePS3":"これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。","WH":"When Hideyoshi said that the lunches were the only reason anyone ever came to these family conferences, everyone laughed and nodded.","MG":"When Hideyoshi said that these meals were the only reason anyone ever came to these family conferences, everyone laughed and nodded.","UP":"When Hideyoshi said that the lunches were the only reason anyone ever came to these family conferences, everyone laughed and nodded.","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_1-L0439","readerRefs":{"WH":["umi8_1-L0439"],"MG":["umi8_1-L0439"],"UP":["umi8_1-L0439"]}}],"sourceReading":"Hideyoshi jokes that he comes to the family conference looking forward to this meal. Everyone laughs and nods. The source does not expressly universalize the motive or call it the only reason.","alternative":"The shared laughter and nodding invite humorous collective agreement, and the food remark can be hyperbolic. Even so only reason anyone ever came explicitly extends the scope and exclusivity beyond the source remark.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-011","kind":"WH","description":"Feeling drowsy in spring sunlight becomes waking from a daydream","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence","character.voice_state"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[471,471],"MG":[471,471],"UP":[471,471]},"japanese":"……まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。","japanesePC":"......まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。","japanesePS3":"……まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。","WH":"......It felt like waking up from a daydream to be greeted by the rays of the springtime sun.","MG":"...It felt like waking up from a daydream to be greeted by the rays of the springtime sun.","UP":"......It felt like I was enjoying a pleasant doze in the rays of the springtime sun.","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_1-L0468","readerRefs":{"WH":["umi8_1-L0468"],"MG":["umi8_1-L0468"],"UP":["umi8_1-L0468"]}}],"sourceReading":"The naturally happy meal makes her feel as though she is experiencing drowsiness or dozing in spring sunshine. まどろみを覚える means feeling drowsy, not awakening.","alternative":"覚える can mean awakening in other expressions, and the English preserves sunlight and dreamy imagery. Here its object まどろみ and the construction を覚える describe feeling drowsiness, so waking reverses the state.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-012","kind":"WH","description":"Island life beginning to take its toll becomes having had enough of it","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[481,481],"MG":[481,481],"UP":[481,481]},"japanese":"風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」","japanesePC":"「はっははは。確かに。風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」","japanesePS3":"風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」","WH":"\"Hahhahaha, true.  Living on a remote island may have a sense of majesty, but haven't you had enough of it?\"","MG":"Living on a remote island may have a sense of majesty, but haven't you had your fill of it?\"","UP":"Living on a remote island may have a sense of majesty, but haven't you had enough of it?\"","note":"Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi8_1-L0480","readerRefs":{"WH":["umi8_1-L0480"],"MG":["umi8_1-L0480"],"UP":["umi8_1-L0480"]}}],"sourceReading":"Krauss asks whether remote-island living is beginning to be hard on Kinzo, despite its charm. 堪える concerns taking a toll; the following discussion names doctor access and age.","alternative":"Had enough can sometimes suggest exhaustion from hardship. In this reply it primarily asks whether he is tired of the lifestyle, shifting the concern toward preference or patience rather than whether it is becoming burdensome to an aging person.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-013","kind":"WH","description":"WH omits to in was about get in a bad mood.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[286,286],"MG":[286,286],"UP":[286,286]},"japanese":"機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。","japanesePC":"機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。","japanesePS3":"機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。","WH":"Just when it looked like she was about get in a bad mood and start grumbling, Maria started teaching her a 'cookie game', and Ange immediately became engrossed with that distraction.","MG":"Just when it looked like she was about get in a bad mood and start grumbling, Maria started teaching her a \"cookie game\", and Ange immediately became engrossed with that distraction.","UP":"Just when it looked like she was about to get in a bad mood and start grumbling, Maria started teaching her a \"cookie game\", and Ange immediately became engrossed with that distraction.","note":"Exact active originalPC and paired prose directly checked under ep07-ep08-inherited-grammar-supplement-2026-10-13","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_1-L0286","readerRefs":{"WH":["umi8_1-L0286"],"MG":["umi8_1-L0286"],"UP":["umi8_1-L0286"]}}],"sourceReading":"The active original-PC English contains this grammatical or typographical defect. MG retains it; UP repairs the construction without changing the source action.","alternative":"Meaning remains clear; the finding is limited to standard prose grammar or typography.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP08-CH01-014","kind":"WH","description":"WH misspells body press as body-plex.","categories":["linguistic.typography"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[91,91],"MG":[91,91],"UP":[91,91]},"japanese":"最後のトップロープからのボディプレスは強烈だったな」","japanesePC":"「ストンピングからフライングエルボー。最後のトップロープからのボディプレスは強烈だったな。」","japanesePS3":"最後のトップロープからのボディプレスは強烈だったな」","WH":"\"A stomp followed by a flying elbow.  And that body-plex from the top rope at the end there just about finished me.\"","MG":"And that body-plex from the top rope at the end there just about finished me.\"","UP":"And that body press from the top rope at the end there just about finished me.\"","note":"ボディプレス is body press; UP restores the move name. Strongest alternative: The joke remains clear, but body-plex is malformed rather than a source-specified different move.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi8_1-L0090","readerRefs":{"WH":["umi8_1-L0090"],"MG":["umi8_1-L0090"],"UP":["umi8_1-L0090"]}}],"sourceReading":"ボディプレス is body press; UP restores the move name.","alternative":"The joke remains clear, but body-plex is malformed rather than a source-specified different move.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP08-CH01-241-360-001","kind":"additional","description":"MG adds a normality judgment and a Halloween rationale to Maria’s word preference","categories":["linguistic.addition","character.voice_state"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[283,284],"MG":[283,284],"UP":[283,284]},"japanese":"真里亞はニュアンスの違いにこだわって言ったようだが、\n縁寿の方は心の底から、パンプキンとカボチャは別の存在だと思っているようだ。","japanesePC":"","japanesePS3":"真里亞はニュアンスの違いにこだわって言ったようだが、\n縁寿の方は心の底から、パンプキンとカボチャは別の存在だと思っているようだ。","WH":"","MG":"Maria was apparently speaking in English, but Ange, being normal, was not. Maria seemed to think the English word was more fitting for Halloween,\nbut it looked like Ange thought kabocha and pumpkins were entirely different things.","UP":"Maria seemed to be complaining about the difference of nuance between the Japanese and English words,\nbut it looked like Ange thought kabocha and pumpkins were entirely different things.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi8_1-L0283","readerRefs":{"WH":[],"MG":["umi8_1-L0283"],"UP":["umi8_1-L0283"]}}],"sourceReading":"Japanese says Maria insists on a difference in nuance, while Ange treats the words as different things. Active original PC171218/171221 follows that distinction. MG imports obsolete commented English171219 and adds a Halloween rationale.","alternative":"The English/Japanese word contrast is a reasonable explanatory adaptation. Being normal and a Halloween motive add judgments not expressed by the source; a discarded English comment is not original-PC Japanese edition material.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP08-CH01-361-480-001","kind":"additional","description":"MG truncates the nose-blowing narration and leaves a lowercase sentence opening","categories":["linguistic.omission","linguistic.typography"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi8_1","episode":8,"rows":{"JP":[403,403],"MG":[403,403],"UP":[403,403]},"japanese":"ハンカチで鼻をかむその姿は、孫たちからの贈り物に感涙を浮かべる、ただの好々爺にしか見えない。","japanesePC":"","japanesePS3":"ハンカチで鼻をかむその姿は、孫たちからの贈り物に感涙を浮かべる、ただの好々爺にしか見えない。","WH":"","MG":"he didn't look like he could possibly be anyone other than a kindly grandpa overcome with tears at his grandchildren's gifts.","UP":"As the old man blew his nose, he didn't look like he could possibly be anyone other than a kindly grandpa overcome with tears at his grandchildren's gifts.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi8_1-L0403","readerRefs":{"WH":[],"MG":["umi8_1-L0403"],"UP":["umi8_1-L0403"]}}],"sourceReading":"Source explicitly describes blowing his nose with a handkerchief. Original PC171676/171677 and UP retain the introductory action; MG drops it and begins he in lowercase.","alternative":"Running nose398 and sniffle402 make the nasal action inferable, limiting the omission impact; the narration is still visibly truncated.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP08-CH01-001",
+      "kind": "WH",
+      "description": "A guess about nervousness affecting health becomes an asserted general pressure response",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              53,
+              53
+            ],
+            "MG": [
+              53,
+              53
+            ],
+            "UP": [
+              53,
+              53
+            ]
+          },
+          "japanese": "「緊張が体調に出るタイプなんやろな！",
+          "japanesePC": "「緊張が体調に出るタイプなんやろな！　そういうのは、いざ当日を迎えるとけろっと治ることもあるもんや。」",
+          "japanesePS3": "「緊張が体調に出るタイプなんやろな！",
+          "WH": "\"She's the kind of person who lets it show when she's under pressure!  It's not that strange for people like that to get all better when the big day finally comes.\"",
+          "MG": "\"She's the kind of person whose health takes a hit when she's stressed!",
+          "UP": "\"I'll bet she's the type to get sick when she's stressed or overexcited!",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0053",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0053"
+            ],
+            "MG": [
+              "umi8_1-L0053"
+            ],
+            "UP": [
+              "umi8_1-L0053"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「緊張が体調に出るタイプなんやろな！　そういうのは、いざ当日を迎えるとけろっと治ることもあるもんや」",
+              "translation": "\"She's the kind of person whose health takes a hit when she's stressed! It's not that strange for people like that to get all better when the big day finally comes.\" "
+            },
+            "UP": {
+              "japanese": "「緊張が体調に出るタイプなんやろな！　そういうのは、いざ当日を迎えるとけろっと治ることもあるもんや」",
+              "translation": "\"I'll bet she's the type to get sick when she's stressed or overexcited! It's not that strange for people like that to get all better when the big day finally comes.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0053"
+            ],
+            "MG": [
+              "umi8_1-L0053"
+            ],
+            "UP": [
+              "umi8_1-L0053"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Hideyoshi guesses she is probably the type whose nervousness affects her physical condition. He explains that such symptoms can disappear on the actual day.",
+      "alternative": "Lets it show under pressure may refer back to the health discussion, preserving a possible somatic reading. But the wording broadens physical condition to visible reaction and omits the tentative やろな, making his inferred explanation an assertion.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-002",
+      "kind": "WH",
+      "description": "Enjoying the current play becomes having looked forward to it",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              55,
+              55
+            ],
+            "MG": [
+              55,
+              55
+            ],
+            "UP": [
+              55,
+              55
+            ]
+          },
+          "japanese": "「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね」",
+          "japanesePC": "「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね。」",
+          "japanesePS3": "「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね」",
+          "WH": "\"She must really have been looking forward to playing with all five of the cousins together.\"",
+          "MG": "\"She must really have been looking forward to playing with all five of the cousins together.\"",
+          "UP": "\"She must really have been looking forward to playing with all five of the cousins together.\"",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_1-L0055",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0055"
+            ],
+            "MG": [
+              "umi8_1-L0055"
+            ],
+            "UP": [
+              "umi8_1-L0055"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね」",
+              "translation": "\"She must really have been looking forward to playing with all five of the cousins together.\" "
+            },
+            "UP": {
+              "japanese": "「いとこ５人ではしゃぐのが、楽しくて楽しくて仕方ないんでしょうね」",
+              "translation": "\"She must really have been looking forward to playing with all five of the cousins together.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0055"
+            ],
+            "MG": [
+              "umi8_1-L0055"
+            ],
+            "UP": [
+              "umi8_1-L0055"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rosa surmises that playing excitedly with all five cousins is so much fun she cannot help herself. The comment describes the current enjoyment.",
+      "alternative": "Anticipation could help explain nervousness, and the preceding discussion makes that inference plausible. The source instead locates the inferred feeling in the ongoing fun, so looking forward changes the time and emotional explanation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-003",
+      "kind": "WH",
+      "description": "Dressing for the occasion becomes matching fate whims",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              142,
+              142
+            ],
+            "MG": [
+              142,
+              142
+            ],
+            "UP": [
+              142,
+              142
+            ]
+          },
+          "japanese": "今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ」",
+          "japanesePC": "「金蔵さん、その引き出しはさっき調べたでしょうが......。それに、素晴らしいネクタイピンをいくつもお持ちのはずだ。今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ。」",
+          "japanesePS3": "今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ」",
+          "WH": "\"Kinzo-san, you already looked in that drawer five seconds ago......  Besides, you own several splendid necktie pins.  Is it not stylish to select something fitting to match fate's whims?\"",
+          "MG": "Is it not stylish to select something fitting to match fate's whims?\"",
+          "UP": "It would be stylish to select one befitting this auspicious occasion.\"",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0140",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0140"
+            ],
+            "MG": [
+              "umi8_1-L0140"
+            ],
+            "UP": [
+              "umi8_1-L0140"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「金蔵さん、その引き出しはさっき調べたでしょうが……。それに、素晴らしいネクタイピンをいくつもお持ちのはずだ。今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ」",
+              "translation": "\"Kinzo-san, you already looked in that drawer five seconds ago... Besides, you own several splendid necktie pins. Is it not stylish to select something fitting to match fate's whims?\" "
+            },
+            "UP": {
+              "japanese": "「金蔵さん、その引き出しはさっき調べたでしょうが……。それに、素晴らしいネクタイピンをいくつもお持ちのはずだ。今日というお日柄に合わせて、相応しいものをセレクトするのも、お洒落の見せ所ですぞ」",
+              "translation": "\"Kinzo‐san, you already looked in that drawer five seconds ago...... Besides, you own several splendid necktie pins. It would be stylish to select one befitting this auspicious occasion.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0140"
+            ],
+            "MG": [
+              "umi8_1-L0140"
+            ],
+            "UP": [
+              "umi8_1-L0140"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Nanjo suggests selecting a suitable pin to match the occasion of this day, demonstrating style. 今日というお日柄 concerns the day or occasion.",
+      "alternative": "The day can carry auspicious associations, and fate whims may sound like a playful recommendation to accept a different pin. It adds an agency of fate absent from the source and loses the stated occasion as the selection criterion.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-004",
+      "kind": "WH",
+      "description": "Looking impeccable in public becomes making a decision with pride",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              149,
+              149
+            ],
+            "MG": [
+              149,
+              149
+            ],
+            "UP": [
+              149,
+              149
+            ]
+          },
+          "japanese": "こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。",
+          "japanesePC": "こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。",
+          "japanesePS3": "こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。",
+          "WH": "He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride.",
+          "MG": "He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride.",
+          "UP": "He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride.",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_1-L0148",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0148"
+            ],
+            "MG": [
+              "umi8_1-L0148"
+            ],
+            "UP": [
+              "umi8_1-L0148"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "まぁ、いつものことだ。こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。遅くともランチまでには必ず降りてくるようにお願いしますと南條に伝え、蔵臼はそっと書斎を出る…。",
+              "translation": "Well, it was always like this. He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride. After asking Nanjo to come down by lunch at the latest, Krauss snuck out of the study... "
+            },
+            "UP": {
+              "japanese": "まぁ、いつものことだ。こうして、見えないところでは大騒ぎしながらも、本番になればバッチリ決めてみせる。遅くともランチまでには必ず降りてくるようにお願いしますと南條に伝え、蔵臼はそっと書斎を出る…。",
+              "translation": "Well, it was always like this. He always makes a fuss when no one's looking, but when the time comes, he makes his decision with pride. After asking Nanjo to come down by lunch at the latest, Krauss snuck out of the study..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0148"
+            ],
+            "MG": [
+              "umi8_1-L0148"
+            ],
+            "UP": [
+              "umi8_1-L0148"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "He fusses behind the scenes but nails the performance when it is time to appear publicly: バッチリ決めてみせる contrasts backstage fuss with polished public presentation.",
+      "alternative": "The scene includes deciding on attire, so makes his decision refers to a nearby action. But 本番 and the backstage contrast make the source public performance the point, not the eventual choice; pride is also added.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-005",
+      "kind": "WH",
+      "description": "A job perk becomes a household role",
+      "categories": [
+        "linguistic.word_choice",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              173,
+              173
+            ],
+            "MG": [
+              173,
+              173
+            ],
+            "UP": [
+              173,
+              173
+            ]
+          },
+          "japanese": "「役得であり、仕事であるわけです。",
+          "japanesePC": "「役得であり、仕事であるわけです。わかりましたか？」",
+          "japanesePS3": "「役得であり、仕事であるわけです。",
+          "WH": "\"It's our role in the household as well as our job.  Do you understand?\"",
+          "MG": "\"It's a perk as well as our job.",
+          "UP": "\"It's both a perk and a part of the job.",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0173",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0173"
+            ],
+            "MG": [
+              "umi8_1-L0173"
+            ],
+            "UP": [
+              "umi8_1-L0173"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「役得であり、仕事であるわけです。わかりましたか？」",
+              "translation": "\"It's a perk as well as our job. Do you understand?\" "
+            },
+            "UP": {
+              "japanese": "「役得であり、仕事であるわけです。わかりましたか？」",
+              "translation": "\"It's both a perk and a part of the job. Do you understand?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0173"
+            ],
+            "MG": [
+              "umi8_1-L0173"
+            ],
+            "UP": [
+              "umi8_1-L0173"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Sampling is both a perk of the job (役得) and work. Gohda caps Kumasawa joking justification with the benefit/duty pairing.",
+      "alternative": "Role in the household may describe a servants position broadly, but it does not convey a benefit enjoyed through that position, collapsing both sides into duties and removing the joke.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-006",
+      "kind": "WH",
+      "description": "Acknowledging preparation work becomes asserting that everything proceeds smoothly",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              176,
+              176
+            ],
+            "MG": [
+              176,
+              176
+            ],
+            "UP": [
+              176,
+              176
+            ]
+          },
+          "japanese": "「……準備ご苦労。",
+          "japanesePC": "「......準備ご苦労。お茶の方は問題ないか。」",
+          "japanesePS3": "「……準備ご苦労。",
+          "WH": "\"......Everything is proceeding smoothly.  Are there any problems with the tea?\"",
+          "MG": "\"...Everything is proceeding smoothly.",
+          "UP": "\"......Everything is proceeding smoothly.",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_1-L0176",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0176"
+            ],
+            "MG": [
+              "umi8_1-L0176"
+            ],
+            "UP": [
+              "umi8_1-L0176"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……準備ご苦労。お茶の方は問題ないか」",
+              "translation": "\"...Everything is proceeding smoothly. Are there any problems with the tea?\" "
+            },
+            "UP": {
+              "japanese": "「……準備ご苦労。お茶の方は問題ないか」",
+              "translation": "\"......Everything is proceeding smoothly. Are there any problems with the tea?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0176"
+            ],
+            "MG": [
+              "umi8_1-L0176"
+            ],
+            "UP": [
+              "umi8_1-L0176"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Genji acknowledges their preparation effort with ご苦労, then asks whether the tea presents any problems.",
+      "alternative": "Everything is proceeding smoothly can sound like positive recognition of their work. It nonetheless asserts an assessment instead of thanking or acknowledging the workers; that assessment precedes his actual question.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-007",
+      "kind": "WH",
+      "description": "Possible absence because of illness becomes being too sick to come",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              209,
+              209
+            ],
+            "MG": [
+              209,
+              209
+            ],
+            "UP": [
+              209,
+              209
+            ]
+          },
+          "japanese": "体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ」",
+          "japanesePC": "「縁寿ちゃん。来られて良かったですね。体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ。」",
+          "japanesePS3": "体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ」",
+          "WH": "\"I'm so glad Ange-chan made it.  I was so worried when I heard she was too sick to come.\"",
+          "MG": "I was so worried when I heard she was too sick to come.\"",
+          "UP": "I was so worried when I heard that you might be too sick to make it today.\"",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0207",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0207"
+            ],
+            "MG": [
+              "umi8_1-L0207"
+            ],
+            "UP": [
+              "umi8_1-L0207"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「縁寿ちゃん。来られて良かったですね。体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ」",
+              "translation": "\"I'm glad Ange-chan made it. I was so worried when I heard she was too sick to come.\" "
+            },
+            "UP": {
+              "japanese": "「縁寿ちゃん。来られて良かったですね。体調が悪いから欠席するかもしれないと聞いて、心配していたのですよ」",
+              "translation": "\"Ange‐chan, isn't it lucky that you could come? I was so worried when I heard that you might be too sick to make it today.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0207"
+            ],
+            "MG": [
+              "umi8_1-L0207"
+            ],
+            "UP": [
+              "umi8_1-L0207"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Natsuhi had heard Ange might be absent because she was unwell. The reported absence is explicitly uncertain.",
+      "alternative": "Her subsequent arrival and recovery make either formulation intelligible, but too sick to come asserts inability where the report only states possible absence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-008",
+      "kind": "WH",
+      "description": "Battler being taken aback becomes physically drawing back",
+      "categories": [
+        "linguistic.addition",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              364,
+              364
+            ],
+            "MG": [
+              364,
+              364
+            ],
+            "UP": [
+              364,
+              364
+            ]
+          },
+          "japanese": "戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。",
+          "japanesePC": "戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。",
+          "japanesePS3": "戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。",
+          "WH": "Battler drew back at first, but he then understood Kinzo's feelings and hugged him back.",
+          "MG": "Battler drew back at first, but then he understood Kinzo's feelings and hugged him back.",
+          "UP": "Battler drew back at first, but he then understood Kinzo's feelings and hugged him back.",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_1-L0363",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0363"
+            ],
+            "MG": [
+              "umi8_1-L0363"
+            ],
+            "UP": [
+              "umi8_1-L0363"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "金蔵はゆっくりと、……戦人を抱き締める。戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。",
+              "translation": "Slowly, ...Kinzo moved forward and hugged Battler. Battler drew back at first, but then he understood Kinzo's feelings and hugged him back. "
+            },
+            "UP": {
+              "japanese": "金蔵はゆっくりと、……戦人を抱き締める。戦人は最初、面食らったが、やがて金蔵の気持ちを理解し、同じように抱き締めた。",
+              "translation": "Slowly, ......Kinzo moved forward and hugged Battler. Battler drew back at first, but he then understood Kinzo's feelings and hugged him back."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0363"
+            ],
+            "MG": [
+              "umi8_1-L0363"
+            ],
+            "UP": [
+              "umi8_1-L0363"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler is initially surprised or taken aback, then understands Kinzo feelings and hugs him back. No withdrawal movement is specified.",
+      "alternative": "Drew back can figuratively convey surprise, and a recoil would be plausible during a hug. In this bodily embrace scene it supplies a specific withdrawal action absent from 面食らった.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-009",
+      "kind": "WH",
+      "description": "Ange perceived sternness becomes a factual facial change",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.viewpoint_attribution",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              374,
+              374
+            ],
+            "MG": [
+              374,
+              374
+            ],
+            "UP": [
+              374,
+              374
+            ]
+          },
+          "japanese": "なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。",
+          "japanesePC": "......それまで、あんなにも上機嫌に顔を綻ばせていた金蔵の顔が、なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。",
+          "japanesePS3": "なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。",
+          "WH": "......Kinzo's face, which had been looking so cheery a second ago, suddenly became stern as soon as Ange stepped forward.",
+          "MG": "suddenly became stern as soon as Ange stepped forward.",
+          "UP": "seemed to become much sterner the moment Ange stepped forward.",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0373",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0373"
+            ],
+            "MG": [
+              "umi8_1-L0373"
+            ],
+            "UP": [
+              "umi8_1-L0373"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……それまで、あんなにも上機嫌に顔を綻ばせていた金蔵の顔が、なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。",
+              "translation": "...Kinzo's face, which had looked so cheery a second ago, suddenly became stern as soon as Ange stepped forward. "
+            },
+            "UP": {
+              "japanese": "……それまで、あんなにも上機嫌に顔を綻ばせていた金蔵の顔が、なぜか縁寿が歩み出た途端に、一際険しくなったように感じられた。",
+              "translation": "......Kinzo's face, which had been looking so cheery a second ago, seemed to become much sterner the moment Ange stepped forward."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0373"
+            ],
+            "MG": [
+              "umi8_1-L0373"
+            ],
+            "UP": [
+              "umi8_1-L0373"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "As Ange steps forward, Kinzo face somehow seems to her to have become especially stern. なぜか and ように感じられた mark subjective perception, followed by correction and the expression expected of the Kinzo in her mind.",
+      "alternative": "The surrounding viewpoint and immediate No correction help recover subjectivity. Nevertheless suddenly became stern asserts the change directly, removing the explicit seeming that prepares the contrast between memory and present experience.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-010",
+      "kind": "WH",
+      "description": "Hideyoshi food motive becomes everyone sole motive",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              440,
+              440
+            ],
+            "MG": [
+              440,
+              440
+            ],
+            "UP": [
+              440,
+              440
+            ]
+          },
+          "japanese": "これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。",
+          "japanesePC": "これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。",
+          "japanesePS3": "これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。",
+          "WH": "When Hideyoshi said that the lunches were the only reason anyone ever came to these family conferences, everyone laughed and nodded.",
+          "MG": "When Hideyoshi said that these meals were the only reason anyone ever came to these family conferences, everyone laughed and nodded.",
+          "UP": "When Hideyoshi said that the lunches were the only reason anyone ever came to these family conferences, everyone laughed and nodded.",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_1-L0439",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0439"
+            ],
+            "MG": [
+              "umi8_1-L0439"
+            ],
+            "UP": [
+              "umi8_1-L0439"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "郷田のランチは、一度だってその期待を裏切ったことはない。これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。",
+              "translation": "Gohda's lunches had never betrayed expectations before. When Hideyoshi said that these meals were the only reason anyone ever came to these family conferences, everyone laughed and nodded. "
+            },
+            "UP": {
+              "japanese": "郷田のランチは、一度だってその期待を裏切ったことはない。これが楽しみで親族会議に来ているんだと秀吉が言うと、みんなも大笑いしながら頷きあった。",
+              "translation": "Never once had Gohda's lunches betrayed expectations. When Hideyoshi said that the lunches were the only reason anyone ever came to these family conferences, everyone laughed and nodded."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0439"
+            ],
+            "MG": [
+              "umi8_1-L0439"
+            ],
+            "UP": [
+              "umi8_1-L0439"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Hideyoshi jokes that he comes to the family conference looking forward to this meal. Everyone laughs and nods. The source does not expressly universalize the motive or call it the only reason.",
+      "alternative": "The shared laughter and nodding invite humorous collective agreement, and the food remark can be hyperbolic. Even so only reason anyone ever came explicitly extends the scope and exclusivity beyond the source remark.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-011",
+      "kind": "WH",
+      "description": "Feeling drowsy in spring sunlight becomes waking from a daydream",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              471,
+              471
+            ],
+            "MG": [
+              471,
+              471
+            ],
+            "UP": [
+              471,
+              471
+            ]
+          },
+          "japanese": "……まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。",
+          "japanesePC": "......まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。",
+          "japanesePS3": "……まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。",
+          "WH": "......It felt like waking up from a daydream to be greeted by the rays of the springtime sun.",
+          "MG": "...It felt like waking up from a daydream to be greeted by the rays of the springtime sun.",
+          "UP": "......It felt like I was enjoying a pleasant doze in the rays of the springtime sun.",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0468",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0468"
+            ],
+            "MG": [
+              "umi8_1-L0468"
+            ],
+            "UP": [
+              "umi8_1-L0468"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "私が望めば、その輪には自然に加われ、私がデザートに興味を移せば、自然と輪から抜けることが出来る。そんな、……楽しくて、それがとても当り前に感じられる幸せ。……まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。",
+              "translation": "If I wanted, I could easily join in on that conversation, and if the dessert caught my attention, I could easily slip out of the conversation too. It was...happiness, both fun and natural. ...It felt like waking up from a daydream to be greeted by the rays of the springtime sun. "
+            },
+            "UP": {
+              "japanese": "私が望めば、その輪には自然に加われ、私がデザートに興味を移せば、自然と輪から抜けることが出来る。そんな、……楽しくて、それがとても当り前に感じられる幸せ。……まるで、春の日差しの中でまどろみを覚えているかのような気持ちにさせられた。",
+              "translation": "If I wanted, I could easily join in on the conversation, and I could easily slip out of it too by shifting my attention to the dessert. It was......happiness, both fun and natural. ......It felt like I was enjoying a pleasant doze in the rays of the springtime sun."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0468"
+            ],
+            "MG": [
+              "umi8_1-L0468"
+            ],
+            "UP": [
+              "umi8_1-L0468"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The naturally happy meal makes her feel as though she is experiencing drowsiness or dozing in spring sunshine. まどろみを覚える means feeling drowsy, not awakening.",
+      "alternative": "覚える can mean awakening in other expressions, and the English preserves sunlight and dreamy imagery. Here its object まどろみ and the construction を覚える describe feeling drowsiness, so waking reverses the state.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-012",
+      "kind": "WH",
+      "description": "Island life beginning to take its toll becomes having had enough of it",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              481,
+              481
+            ],
+            "MG": [
+              481,
+              481
+            ],
+            "UP": [
+              481,
+              481
+            ]
+          },
+          "japanese": "風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」",
+          "japanesePC": "「はっははは。確かに。風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」",
+          "japanesePS3": "風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」",
+          "WH": "\"Hahhahaha, true.  Living on a remote island may have a sense of majesty, but haven't you had enough of it?\"",
+          "MG": "Living on a remote island may have a sense of majesty, but haven't you had your fill of it?\"",
+          "UP": "Living on a remote island may have a sense of majesty, but haven't you had enough of it?\"",
+          "note": "Continuous independent three-witness reading, actual counts529 verified by parent (agent all3529 notation meant all3witnesses529, not3529rows). Parent checks283 discarded-versus-active PC English and403 clause truncation. MG283 commentary is newly reintroduced relative active WH, no yellow PC-Japanese justification. Canonical statuses independent. Both150 Nanjo coming/getting Kinzo ready held as elliptical request. Both490 satisfaction/fortunate held in happiness context; UP511 gem recurrence held. MG91 body-plex and286 missing to are inherited candidates preserved for canonical supplement, not new introductions. MG475–476 reflows stay within combined semantic unit. No proven yellow material.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi8_1-L0480",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0480"
+            ],
+            "MG": [
+              "umi8_1-L0480"
+            ],
+            "UP": [
+              "umi8_1-L0480"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はっははは。確かに。風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」",
+              "translation": "\"Hahhahaha, true. Living on a remote island may have a sense of majesty, but haven't you had your fill of it?\" "
+            },
+            "UP": {
+              "japanese": "「はっははは。確かに。風情はあるが、離島の暮らしはそろそろ堪えるんじゃありませんか？」",
+              "translation": "\"Hahhahaha, true. Living on a remote island may have a sense of majesty, but haven't you had enough of it?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0480"
+            ],
+            "MG": [
+              "umi8_1-L0480"
+            ],
+            "UP": [
+              "umi8_1-L0480"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Krauss asks whether remote-island living is beginning to be hard on Kinzo, despite its charm. 堪える concerns taking a toll; the following discussion names doctor access and age.",
+      "alternative": "Had enough can sometimes suggest exhaustion from hardship. In this reply it primarily asks whether he is tired of the lifestyle, shifting the concern toward preference or patience rather than whether it is becoming burdensome to an aging person.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-013",
+      "kind": "WH",
+      "description": "WH omits to in was about get in a bad mood.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              286,
+              286
+            ],
+            "MG": [
+              286,
+              286
+            ],
+            "UP": [
+              286,
+              286
+            ]
+          },
+          "japanese": "機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。",
+          "japanesePC": "機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。",
+          "japanesePS3": "機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。",
+          "WH": "Just when it looked like she was about get in a bad mood and start grumbling, Maria started teaching her a 'cookie game', and Ange immediately became engrossed with that distraction.",
+          "MG": "Just when it looked like she was about get in a bad mood and start grumbling, Maria started teaching her a \"cookie game\", and Ange immediately became engrossed with that distraction.",
+          "UP": "Just when it looked like she was about to get in a bad mood and start grumbling, Maria started teaching her a \"cookie game\", and Ange immediately became engrossed with that distraction.",
+          "note": "Exact active originalPC and paired prose directly checked under ep07-ep08-inherited-grammar-supplement-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0286",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0286"
+            ],
+            "MG": [
+              "umi8_1-L0286"
+            ],
+            "UP": [
+              "umi8_1-L0286"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。",
+              "translation": "Just when it looked like she was about get in a bad mood and start grumbling, Maria started teaching her a \"cookie game\", and Ange immediately became engrossed with that distraction. "
+            },
+            "UP": {
+              "japanese": "機嫌を損ねてグズるかと思ったが、真里亞がクッキーゲームなる遊びを教えると、すぐにそれに夢中になってしまった。",
+              "translation": "Just when it looked like she was about to get in a bad mood and start grumbling, Maria started teaching her a \"cookie game\", and Ange immediately became engrossed with that distraction."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0286"
+            ],
+            "MG": [
+              "umi8_1-L0286"
+            ],
+            "UP": [
+              "umi8_1-L0286"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The active original-PC English contains this grammatical or typographical defect. MG retains it; UP repairs the construction without changing the source action.",
+      "alternative": "Meaning remains clear; the finding is limited to standard prose grammar or typography.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP08-CH01-014",
+      "kind": "WH",
+      "description": "WH misspells body press as body-plex.",
+      "categories": [
+        "linguistic.typography"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              91,
+              91
+            ],
+            "MG": [
+              91,
+              91
+            ],
+            "UP": [
+              91,
+              91
+            ]
+          },
+          "japanese": "最後のトップロープからのボディプレスは強烈だったな」",
+          "japanesePC": "「ストンピングからフライングエルボー。最後のトップロープからのボディプレスは強烈だったな。」",
+          "japanesePS3": "最後のトップロープからのボディプレスは強烈だったな」",
+          "WH": "\"A stomp followed by a flying elbow.  And that body-plex from the top rope at the end there just about finished me.\"",
+          "MG": "And that body-plex from the top rope at the end there just about finished me.\"",
+          "UP": "And that body press from the top rope at the end there just about finished me.\"",
+          "note": "ボディプレス is body press; UP restores the move name. Strongest alternative: The joke remains clear, but body-plex is malformed rather than a source-specified different move.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi8_1-L0090",
+          "readerRefs": {
+            "WH": [
+              "umi8_1-L0090"
+            ],
+            "MG": [
+              "umi8_1-L0090"
+            ],
+            "UP": [
+              "umi8_1-L0090"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ストンピングからフライングエルボー。最後のトップロープからのボディプレスは強烈だったな」",
+              "translation": "\"A stomp followed by a flying elbow. And that body-plex from the top rope at the end there just about finished me.\" "
+            },
+            "UP": {
+              "japanese": "「ストンピングからフライングエルボー。最後のトップロープからのボディプレスは強烈だったな」",
+              "translation": "\"A stomp followed by a flying elbow. And that body press from the top rope at the end there just about finished me.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi8_1-L0090"
+            ],
+            "MG": [
+              "umi8_1-L0090"
+            ],
+            "UP": [
+              "umi8_1-L0090"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ボディプレス is body press; UP restores the move name.",
+      "alternative": "The joke remains clear, but body-plex is malformed rather than a source-specified different move.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP08-CH01-241-360-001",
+      "kind": "additional",
+      "description": "MG adds a normality judgment and a Halloween rationale to Maria’s word preference",
+      "categories": [
+        "linguistic.addition",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              283,
+              284
+            ],
+            "MG": [
+              283,
+              284
+            ],
+            "UP": [
+              283,
+              284
+            ]
+          },
+          "japanese": "真里亞はニュアンスの違いにこだわって言ったようだが、\n縁寿の方は心の底から、パンプキンとカボチャは別の存在だと思っているようだ。",
+          "japanesePC": "",
+          "japanesePS3": "真里亞はニュアンスの違いにこだわって言ったようだが、\n縁寿の方は心の底から、パンプキンとカボチャは別の存在だと思っているようだ。",
+          "WH": "",
+          "MG": "Maria was apparently speaking in English, but Ange, being normal, was not. Maria seemed to think the English word was more fitting for Halloween,\nbut it looked like Ange thought kabocha and pumpkins were entirely different things.",
+          "UP": "Maria seemed to be complaining about the difference of nuance between the Japanese and English words,\nbut it looked like Ange thought kabocha and pumpkins were entirely different things.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi8_1-L0283",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_1-L0283"
+            ],
+            "UP": [
+              "umi8_1-L0283"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "真里亞はニュアンスの違いにこだわって言ったようだが、縁寿の方は心の底から、パンプキンとカボチャは別の存在だと思っているようだ。一同は大笑いするが、縁寿にはなぜ笑われたのかわからず、納得いかない顔で小首を傾げている。",
+              "translation": "Maria was apparently speaking in English, but Ange, being normal, was not. Maria seemed to think the English word was more fitting for Halloween, but it looked like Ange thought kabocha and pumpkins were entirely different things. Everyone laughed, but Ange, not knowing why she was being laughed at, cocked her head to one side discontentedly. "
+            },
+            "UP": {
+              "japanese": "真里亞はニュアンスの違いにこだわって言ったようだが、縁寿の方は心の底から、パンプキンとカボチャは別の存在だと思っているようだ。一同は大笑いするが、縁寿にはなぜ笑われたのかわからず、納得いかない顔で小首を傾げている。",
+              "translation": "Maria seemed to be complaining about the difference of nuance between the Japanese and English words, but it looked like Ange thought kabocha and pumpkins were entirely different things. Everyone laughed, but Ange cocked her head to one side discontentedly, not understanding what was so funny."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_1-L0283"
+            ],
+            "UP": [
+              "umi8_1-L0283"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Japanese says Maria insists on a difference in nuance, while Ange treats the words as different things. Active original PC171218/171221 follows that distinction. MG imports obsolete commented English171219 and adds a Halloween rationale.",
+      "alternative": "The English/Japanese word contrast is a reasonable explanatory adaptation. Being normal and a Halloween motive add judgments not expressed by the source; a discarded English comment is not original-PC Japanese edition material.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP08-CH01-361-480-001",
+      "kind": "additional",
+      "description": "MG truncates the nose-blowing narration and leaves a lowercase sentence opening",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.typography"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi8_1",
+          "episode": 8,
+          "rows": {
+            "JP": [
+              403,
+              403
+            ],
+            "MG": [
+              403,
+              403
+            ],
+            "UP": [
+              403,
+              403
+            ]
+          },
+          "japanese": "ハンカチで鼻をかむその姿は、孫たちからの贈り物に感涙を浮かべる、ただの好々爺にしか見えない。",
+          "japanesePC": "",
+          "japanesePS3": "ハンカチで鼻をかむその姿は、孫たちからの贈り物に感涙を浮かべる、ただの好々爺にしか見えない。",
+          "WH": "",
+          "MG": "he didn't look like he could possibly be anyone other than a kindly grandpa overcome with tears at his grandchildren's gifts.",
+          "UP": "As the old man blew his nose, he didn't look like he could possibly be anyone other than a kindly grandpa overcome with tears at his grandchildren's gifts.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi8_1-L0403",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_1-L0403"
+            ],
+            "UP": [
+              "umi8_1-L0403"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ハンカチで鼻をかむその姿は、孫たちからの贈り物に感涙を浮かべる、ただの好々爺にしか見えない。",
+              "translation": "he didn't look like he could possibly be anyone other than a kindly grandpa overcome with tears at his grandchildren's gifts. "
+            },
+            "UP": {
+              "japanese": "ハンカチで鼻をかむその姿は、孫たちからの贈り物に感涙を浮かべる、ただの好々爺にしか見えない。",
+              "translation": "As the old man blew his nose, he didn't look like he could possibly be anyone other than a kindly grandpa overcome with tears at his grandchildren's gifts."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi8_1-L0403"
+            ],
+            "UP": [
+              "umi8_1-L0403"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Source explicitly describes blowing his nose with a handkerchief. Original PC171676/171677 and UP retain the introductory action; MG drops it and begins he in lowercase.",
+      "alternative": "Running nose398 and sniffle402 make the nasal action inferable, limiting the omission impact; the narration is still visibly truncated.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP08-CH01-001": {
+      "umi8_1-L0053": {
+        "WH": [
+          "She's the kind of person who lets it show when she's under pressure"
+        ],
+        "MG": [
+          "She's the kind of person whose health takes a hit when she's stressed"
+        ]
+      }
+    },
+    "WH-EP08-CH01-002": {
+      "umi8_1-L0055": {
+        "WH": [
+          "have been looking forward to playing"
+        ],
+        "UP": [
+          "have been looking forward to playing"
+        ],
+        "MG": [
+          "have been looking forward to playing"
+        ]
+      }
+    },
+    "WH-EP08-CH01-003": {
+      "umi8_1-L0140": {
+        "WH": [
+          "to match fate's whims"
+        ],
+        "MG": [
+          "to match fate's whims"
+        ]
+      }
+    },
+    "WH-EP08-CH01-004": {
+      "umi8_1-L0148": {
+        "WH": [
+          "he makes his decision with pride"
+        ],
+        "UP": [
+          "he makes his decision with pride"
+        ],
+        "MG": [
+          "he makes his decision with pride"
+        ]
+      }
+    },
+    "WH-EP08-CH01-005": {
+      "umi8_1-L0173": {
+        "WH": [
+          "our role in the household"
+        ]
+      }
+    },
+    "WH-EP08-CH01-006": {
+      "umi8_1-L0176": {
+        "WH": [
+          "Everything is proceeding smoothly"
+        ],
+        "MG": [
+          "Everything is proceeding smoothly"
+        ],
+        "UP": [
+          "Everything is proceeding smoothly"
+        ]
+      }
+    },
+    "WH-EP08-CH01-007": {
+      "umi8_1-L0207": {
+        "WH": [
+          "she was too sick to come"
+        ],
+        "MG": [
+          "she was too sick to come"
+        ]
+      }
+    },
+    "WH-EP08-CH01-008": {
+      "umi8_1-L0363": {
+        "WH": [
+          "Battler drew back at first"
+        ],
+        "UP": [
+          "Battler drew back at first"
+        ],
+        "MG": [
+          "Battler drew back at first"
+        ]
+      }
+    },
+    "WH-EP08-CH01-009": {
+      "umi8_1-L0373": {
+        "WH": [
+          "suddenly became stern as soon as Ange stepped forward"
+        ],
+        "MG": [
+          "suddenly became stern as soon as Ange stepped forward"
+        ]
+      }
+    },
+    "WH-EP08-CH01-010": {
+      "umi8_1-L0439": {
+        "WH": [
+          "the only reason anyone ever came to these family conferences"
+        ],
+        "MG": [
+          "the only reason anyone ever came to these family conferences"
+        ],
+        "UP": [
+          "the only reason anyone ever came to these family conferences"
+        ]
+      }
+    },
+    "WH-EP08-CH01-011": {
+      "umi8_1-L0468": {
+        "WH": [
+          "waking up from a daydream to be greeted by the rays of the springtime sun"
+        ],
+        "MG": [
+          "waking up from a daydream to be greeted by the rays of the springtime sun"
+        ]
+      }
+    },
+    "WH-EP08-CH01-012": {
+      "umi8_1-L0480": {
+        "WH": [
+          "haven't you had enough of it"
+        ],
+        "MG": [
+          "haven't you had your fill of it"
+        ],
+        "UP": [
+          "haven't you had enough of it"
+        ]
+      }
+    },
+    "WH-EP08-CH01-013": {
+      "umi8_1-L0286": {
+        "WH": [
+          "was about get"
+        ],
+        "MG": [
+          "was about get"
+        ]
+      }
+    },
+    "WH-EP08-CH01-014": {
+      "umi8_1-L0090": {
+        "WH": [
+          "body-plex"
+        ],
+        "MG": [
+          "body-plex"
+        ]
+      }
+    },
+    "PAIR-EP08-CH01-241-360-001": {
+      "umi8_1-L0283": {
+        "MG": [
+          "Ange, being normal",
+          "the English word was more fitting for Halloween"
+        ]
+      }
+    },
+    "PAIR-EP08-CH01-361-480-001": {
+      "umi8_1-L0403": {
+        "MG": [
+          "he didn't look"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

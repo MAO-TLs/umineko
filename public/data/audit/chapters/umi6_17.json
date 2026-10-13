@@ -1,1 +1,1658 @@
-{"findings":[{"id":"WH-EP06-CH16-023","kind":"WH","description":"Endless Sorcerer title becomes Golden Sorcerer.","categories":["linguistic.mistranslation","world.terminology_recurrence"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[545,547],"MG":[545,547],"UP":[545,547]},"japanese":"地獄の悪魔も平伏して絶句する、\n最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、\nそろそろ連中も思い出してもいい頃だ…！」","japanesePC":"「領主にして無限の魔術師であらせられるバトラ卿と、真実の魔女であらせられるヱリカ卿の婚儀に、ようこそご参列をッ！！」","japanesePS3":"地獄の悪魔も平伏して絶句する、\n最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、\nそろそろ連中も思い出してもいい頃だ…！」","WH":"\"Welcome to the wedding of Lord BATTLER, territory lord and Golden Sorcerer, and Lady Erika, the Witch of Truth!!\"","MG":"It's about time they learned the true terror of the Golden Witch Beatrice,\nthe one who can create endless closed room tricks of the most horrific kind,\ntricks that can make even the demons of hell prostrate themselves in shock...!\"","UP":"It's about time they recalled the true terror...\n...of Beatrice the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind,\ntricks that can make even the demons of hell prostrate themselves in shock...!\"","note":"Parent checked PC117274/117276 and all paired clauses; repeated epithet substitution grouped with canonical CH16 parent.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0544","readerRefs":{"WH":[],"MG":["umi6_17-L0544"],"UP":["umi6_17-L0544"]}}],"sourceReading":"Furfur announces Lord Battler as territory lord and Endless Sorcerer, 無限の魔術師, alongside Erika as Witch of Truth.","alternative":"Golden Sorcerer is a plausible other designation in the work, but cannot translate 無限 here. The source deliberately names the Endless title in the formal announcement.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-001","kind":"WH","description":"Right to love becomes worthiness of receiving love.","categories":["linguistic.mistranslation","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[94,94],"MG":[94,94],"UP":[94,94]},"japanese":"……そのような男に、愛する資格はない」","japanesePC":"「.........あるわけがない。二人の女を愛せば、その愛情は一人分に満たない。......そのような男に、愛する資格はない。」","japanesePS3":"……そのような男に、愛する資格はない」","WH":"\".........Of course not.  If he loved two women, neither would get a full person's worth of love.  ......A man such as that would be unworthy of love.\"","MG":"...A man such as that would be unworthy of love.\"","UP":"......A man such as that would not be qualified to love.\"","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0092","readerRefs":{"WH":["umi6_17-L0092"],"MG":["umi6_17-L0092"],"UP":["umi6_17-L0092"]}}],"sourceReading":"The elder says a man loving two women gives less than one person’s share of love and lacks the qualification to love.","alternative":"Unworthy of love commonly means undeserving of being loved, not unqualified to love another. The following demons explicitly return to the latter, so the source argument’s direction is available but this response reverses it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-002","kind":"WH","description":"Referee seeing both fairly becomes both seeing the referee.","categories":["linguistic.wrong_subject","world.space_time_continuity","character.viewpoint_attribution"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[107,107],"MG":[107,107],"UP":[107,107]},"japanese":"ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。","japanesePC":"ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。","japanesePS3":"ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。","WH":"Zepar nodded silently, then walked to a place that could be seen by both of them.","MG":"Zepar nodded silently, then walked to a place that could be seen by both of them.","UP":"Zepar nodded silently, then walked to a place that could be seen by both of them.","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_17-L0106","readerRefs":{"WH":["umi6_17-L0106"],"MG":["umi6_17-L0106"],"UP":["umi6_17-L0106"]}}],"sourceReading":"Zepar moves to a position from which he can see the two fairly or equally.","alternative":"A position visible to both makes practical sense for signaling, but reverses 見られる’s observer here and omits 公平に. The source specifies his impartial viewing position.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-003","kind":"WH","description":"One bullet settling a duel becomes first-round settlement.","categories":["linguistic.word_choice","mystery.physical_constraint"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[132,132],"MG":[132,132],"UP":[132,132]},"japanese":"「ほとんどの場合、弾丸一発で決着がつくよ」","japanesePC":"「ほとんどの場合、弾丸一発で決着がつくよ。」","japanesePS3":"「ほとんどの場合、弾丸一発で決着がつくよ」","WH":"\"In almost all cases, it is decided in the first round.\"","MG":"\"In almost all cases, it's decided in the first round.\"","UP":"\"In almost all cases, it is decided in the first round.\"","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_17-L0132","readerRefs":{"WH":["umi6_17-L0132"],"MG":["umi6_17-L0132"],"UP":["umi6_17-L0132"]}}],"sourceReading":"Zepar says almost all such duels are settled by a single bullet.","alternative":"First round can describe a quick settlement, but a round permits both duelists to fire and is not the same unit as 弾丸一発. George next explains that a missed initial shot can be followed by the opponent cornering and shooting.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-004","kind":"WH","description":"Possible loss before shooting becomes certain loss.","categories":["linguistic.mistranslation","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[173,173],"MG":[173,173],"UP":[173,173]},"japanese":"引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。","japanesePC":"紗音は臆病だろうから、先に引き金を引かせてもらえるという甘い思い込みが、引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。","japanesePS3":"引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。","WH":"He was fully aware that hoping Shannon would be timid enough to let him shoot first......would result in him losing before even pulling the trigger.","MG":"he would lose before even pulling the trigger.","UP":"...could result in him losing before even pulling the trigger.","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0170","readerRefs":{"WH":["umi6_17-L0170"],"MG":["umi6_17-L0170"],"UP":["umi6_17-L0170"]}}],"sourceReading":"Kanon fully understands the possibility that naively assuming Shannon’s timidity will let him shoot first could instead end the duel before he even pulls his trigger.","alternative":"The next conditional illustrates just such a loss, but would result changes the explicit 可能性 into a guaranteed consequence rather than a risk motivating his tactical gamble.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-005","kind":"WH","description":"Outwitting shared expectations becomes merely being wrong.","categories":["linguistic.mistranslation","mystery.argument_reconstruction","character.agency_responsibility"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[192,193],"MG":[192,193],"UP":[192,193]},"japanese":"………お互いがそう思ってるなら、\n………ならばこれは、裏をかくということ。","japanesePC":".........お互いがそう思ってるなら、\n.........ならばこれは、裏をかくということ。","japanesePS3":"………お互いがそう思ってるなら、\n………ならばこれは、裏をかくということ。","WH":".........If they both thought this,\n......then they were wrong.","MG":"......If they both thought this,\n...then what happened next would turn that assumption on its head.","UP":".........They both had that same view of the situation,\n.........which meant one could be taken by surprise.","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"corrected","UP":"partially_corrected"},"readerRef":"umi6_17-L0192","readerRefs":{"WH":["umi6_17-L0192"],"MG":["umi6_17-L0192"],"UP":["umi6_17-L0192"]}}],"sourceReading":"If both think the only remaining route is dodging and a second round, what follows means going behind or outwitting those expectations. Kanon then charges to seize the loaded gun.","alternative":"Then they were wrong acknowledges that the prior expectation fails, but removes 裏をかく, the active tactical exploitation introducing Kanon’s maneuver. The adjacent translator placeholder comment is evidence of draft residue, not an instruction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-006","kind":"WH","description":"Pale face becomes pale forehead.","categories":["linguistic.word_choice","world.world_fact"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[283,283],"MG":[283,283],"UP":[283,283]},"japanese":"嘉音の顔は真っ白で、……目は開かれていたが、すでに生ける者の見せる光はない。","japanesePC":"嘉音の顔は真っ白で、......目は開かれていたが、すでに生ける者の見せる光はない。","japanesePS3":"嘉音の顔は真っ白で、……目は開かれていたが、すでに生ける者の見せる光はない。","WH":"Kanon's forehead was pale, ......and though his eyes were open, they had lost the light of the living.","MG":"Kanon's forehead was pale, ...and though his eyes were open, they had lost the light of the living.","UP":"Kanon's face was pale, ......and though his eyes were open, they had lost the light of the living.","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0283","readerRefs":{"WH":["umi6_17-L0283"],"MG":["umi6_17-L0283"],"UP":["umi6_17-L0283"]}}],"sourceReading":"Kanon’s whole face is white, with open eyes lacking the light of life.","alternative":"The forehead is the focus of the preceding blood inspection, but 顔 names his face. Forehead narrows the visual sign of death.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-007","kind":"WH","description":"Qualification to love becomes general ability.","categories":["linguistic.undertranslation","world.terminology_recurrence","mystery.information_timing_salience"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[298,302],"MG":[298,302],"UP":[298,302]},"japanese":"……私が、……勝ちました。\n………これで、\n……私には、\n………あなたを愛する資格が、\n…………やっと………」","japanesePC":"「......譲治さん。......私が、......勝ちました。\n.........これで、\n......私には、\n.........あなたを愛する資格が、","japanesePS3":"……私が、……勝ちました。\n………これで、\n……私には、\n………あなたを愛する資格が、\n…………やっと………」","WH":"\"......George-san.  ......We've......won.\n......Now...\n......I am finally able...\n...to love you......\"","MG":"...we've...won.\n...Now,\n...I finally have the right...\n...to love you...\"\nFinally...","UP":"......I......won.\n......And now,\n......I have...\n......the right to love you...\n.........at last........\"","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_17-L0297","readerRefs":{"WH":["umi6_17-L0297"],"MG":["umi6_17-L0297"],"UP":["umi6_17-L0297"]}}],"sourceReading":"Shannon says she has finally gained the qualification or right to love George, repeating the key 資格 discussed by the demons before the duel.","alternative":"Able to love can imply eligibility in context, but it omits the explicit recurring qualification term and can sound like newly acquired emotional capacity.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-008","kind":"WH","description":"Unendurable feelings become unrestrained feelings.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[400,400],"MG":[400,400],"UP":[400,400]},"japanese":"……私には堪えられなかった想いを、","japanesePC":"どうか、私には遂げられなかった想いを、......私には堪えられなかった想いを、\n......あなたが遂げて。","japanesePS3":"……私には堪えられなかった想いを、","WH":"Please, take my feelings that went unfulfilled, ......my feelings that I couldn't hold back,\n......and make my wish come true.","MG":"...my feelings that I couldn't hold back,","UP":"......these feelings too great for me to bear,","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0398","readerRefs":{"WH":["umi6_17-L0398"],"MG":["umi6_17-L0398"],"UP":["umi6_17-L0398"]}}],"sourceReading":"The speaker asks Beato to fulfill feelings she herself could neither realize nor endure.","alternative":"Couldn’t hold back describes inability to restrain expression, whereas 堪えられなかった is inability to bear or withstand those feelings. The surrounding transfer of suffering and pursuit of separate happiness supports endurance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-009","kind":"WH","description":"Fetching Nanjo becomes instructing someone to call him.","categories":["linguistic.wrong_subject","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[433,434],"MG":[433,434],"UP":[433,434]},"japanese":"「ななッ、南條先生を！！\n南條先生を呼んできます…！！」","japanesePC":"「ななッ、南條先生を！！　南條先生を呼んできます...！！」","japanesePS3":"「ななッ、南條先生を！！\n南條先生を呼んできます…！！」","WH":"\"G, g, get Doctor Nanjo!!  Call Doctor Nanjo here...!!\"","MG":"\"G-G-Get Doctor Nanjo!!\nCall Doctor Nanjo here...!!\"","UP":"\"D‐D‐Doctor Nanjo!!\nI'll go call Doctor Nanjo...!!\"","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0433","readerRefs":{"WH":["umi6_17-L0433"],"MG":["umi6_17-L0433"],"UP":["umi6_17-L0433"]}}],"sourceReading":"Gohda says he will go and fetch Doctor Nanjo.","alternative":"Call Doctor Nanjo here preserves the proposed medical response but replaces 呼んできます, the speaker’s intended trip, with an imperative. Genji then stops Gohda.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-010","kind":"WH","description":"Spring snow image becomes summer snow.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[443,444],"MG":[443,444],"UP":[443,444]},"japanese":"………嘉音の姿は、\n……まるで、春の日を迎えた、残雪のように。","japanesePC":".........嘉音の姿は、\n......まるで、春の日を迎えた、残雪のように。","japanesePS3":"………嘉音の姿は、\n……まるで、春の日を迎えた、残雪のように。","WH":"......Like the leftover snow on a summer day,\n...Kanon's form was...","MG":"...Like leftover snow on a spring day,\n...Kanon's form had been...","UP":"......Like the last unmelted snow greeting the warm sun of spring,\n...Kanon's form...","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_17-L0441","readerRefs":{"WH":["umi6_17-L0441"],"MG":["umi6_17-L0441"],"UP":["umi6_17-L0441"]}}],"sourceReading":"Kanon’s form vanishes like residual snow meeting a spring day.","alternative":"Summer snow also suggests melting, but 春 explicitly specifies spring and its seasonal thaw image.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-011","kind":"WH","description":"Equivalent absence becomes literal removal from their world.","categories":["linguistic.overinterpretation","mystery.category_flattening","world.world_layer"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[459,460],"MG":[459,460],"UP":[459,460]},"japanese":"……それはつまり、彼らの世界ではいないのと同じことだけれども。\n……でもこうして、僕たちはここにいる」","japanesePC":"「僕たちはもう、誰の目にも触れられない。......それはつまり、彼らの世界ではいないのと同じことだけれども。......でもこうして、僕たちはここにいる。」","japanesePS3":"……それはつまり、彼らの世界ではいないのと同じことだけれども。\n……でもこうして、僕たちはここにいる」","WH":"\"By now, no one's eyes can see us.  ......That means that we are no longer in their world.  ......However, we are right here.\"","MG":"...That means that we're no longer in their world.\n...However, we are right here.\"","UP":"......That means that we are no longer in their world.\n......However, we are right here.\"","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_17-L0458","readerRefs":{"WH":["umi6_17-L0458"],"MG":["umi6_17-L0458"],"UP":["umi6_17-L0458"]}}],"sourceReading":"No one can see them anymore, which is the same as being absent in those people’s world, although they are still here.","alternative":"No longer in their world may express perceived absence loosely, but removes いないのと同じ, the equivalence explicitly anchored to invisibility. The source distinguishes not being seen from their continued presence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-012","kind":"WH","description":"Rescue to be devised becomes an escape already accomplished.","categories":["linguistic.tense_aspect","mystery.premature_resolution"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[537,537],"MG":[537,537],"UP":[537,537]},"japanese":"「右代宮戦人をどうやって密室から出すかを悩むんじゃない。","japanesePC":"「右代宮戦人をどうやって密室から出すかを悩むんじゃない。......チェーンロックの密室？　馬鹿馬鹿しいね。......なら君は、そんなのより、もっともっと飛びっきりの、最高の密室を作ってやって、あいつらを悩ませてやろうじゃないか。.........僕も手を貸すよ。」","japanesePS3":"「右代宮戦人をどうやって密室から出すかを悩むんじゃない。","WH":"\"Don't worry about how Ushiromiya Battler got out of the closed room.  ......A chain lock closed room?  How trivial.  ......You need to create a much more spectacular, ultimate closed room...and make it so that they're the ones worrying.  .........I'll even lend a hand.\"","MG":"\"Don't worry about how Ushiromiya Battler got out of the closed room.","UP":"\"Don't worry about how to get Ushiromiya Battler out of the locked room.","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0537","readerRefs":{"WH":["umi6_17-L0537"],"MG":["umi6_17-L0537"],"UP":["umi6_17-L0537"]}}],"sourceReading":"Kanon tells Beato not to agonize over how to get Battler out of the closed room, but to create a more formidable room for the opponents to solve.","alternative":"How Battler got out could invite retrospective reconstruction, but Battler remains trapped at this point and 出す is prospective causative rescue, not a past completed exit.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-013","kind":"WH","description":"Returning floor plans become generic remembered images.","categories":["linguistic.undertranslation","mystery.information_timing_salience"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[554,555],"MG":[554,555],"UP":[554,555]},"japanese":"………屋敷の、ゲストハウスの、薔薇庭園の、\n……図面が次々に蘇っていく……。","japanesePC":"ベアトの脳裏に、\n.........屋敷の、ゲストハウスの、薔薇庭園の、\n......図面が次々に蘇っていく......。","japanesePS3":"………屋敷の、ゲストハウスの、薔薇庭園の、\n……図面が次々に蘇っていく……。","WH":"In the back of Beato's mind,\n......images she remembered began to flit by, one after another...\n...the mansion, the guesthouse, the rose garden......","MG":"...images she remembered began to flit by, one after another...\n...The mansion, the guesthouse, the rose garden...","UP":"......images she remembered began to flit by, one after another—\nthe layout of the mansion, the guesthouse, the rose garden......","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0553","readerRefs":{"WH":["umi6_17-L0553"],"MG":["umi6_17-L0553"],"UP":["umi6_17-L0553"]}}],"sourceReading":"Floor plans of the mansion, guesthouse and rose garden return one after another to Beato’s mind.","alternative":"The subsequent MAP montage can restore the visual specificity in play, but images she remembered omits 図面 from the English prose. The graphics remain a separate unresolved verification dependency.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-014","kind":"WH","description":"Lights drawn into the eyes become lights engulfing Beato.","categories":["linguistic.wrong_subject","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[562,563],"MG":[562,563],"UP":[562,563]},"japanese":"ベアトの瞳が、どんどん見開かれていく……。\nそこには無数の光が、渦を巻いて飲み込まれていく。","japanesePC":"そこには無数の光が、渦を巻いて飲み込まれていく。","japanesePS3":"ベアトの瞳が、どんどん見開かれていく……。\nそこには無数の光が、渦を巻いて飲み込まれていく。","WH":"Countless lights circled around her, swallowing her up.","MG":"Beato's eyes opened wider and wider...\nCountless lights circled around her, swallowing her up.","UP":"Beato's eyes opened wider and wider......\nCountless lights circled around her, swallowing her up.","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_17-L0562","readerRefs":{"WH":["umi6_17-L0562"],"MG":["umi6_17-L0562"],"UP":["umi6_17-L0562"]}}],"sourceReading":"Her eyes open wider, and countless lights swirl and are drawn into them; そこ refers back to the eyes and the lights are what is swallowed.","alternative":"Swallowing her up also conveys overwhelming illumination, but makes the lights the engulfing agent around her rather than the things drawn into her widened eyes.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-015","kind":"WH","description":"Pronoun correction becomes a cackle substitution.","categories":["linguistic.wordplay","linguistic.register_voice","character.voice_state"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[568,568],"MG":[568,568],"UP":[568,568]},"japanese":"「妾でなくっちゃ」","japanesePC":"「妾でなくっちゃ。」","japanesePS3":"「妾でなくっちゃ」","WH":"*cackle*cackle*, me.","MG":"\"Go for \"{ruby:warawa:I\" instead.","UP":"\"Go for \"warawa\".\"","note":"Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_17-L0568","readerRefs":{"WH":["umi6_17-L0568"],"MG":["umi6_17-L0568"],"UP":["umi6_17-L0568"]}}],"sourceReading":"Kanon corrects Beato’s 私 to 妾, the archaic imperious self-reference appropriate to her restored witch voice.","alternative":"Adding her recognizable cackle compensates for English lacking distinct first-person pronouns and does signal the familiar persona, but replaces the explicit self-address/register correction with a laugh and leaves the unfinished So after all I must be followed by cackle me rather than the source’s corrected phrasing.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH17-016","kind":"WH","description":"WH changes recalling Beatrice’s true terror into learning it.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[547,547],"MG":[547,547],"UP":[547,547]},"japanese":"そろそろ連中も思い出してもいい頃だ…！」","japanesePC":"「あいつらの方さ。地獄の悪魔も平伏して絶句する、最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、そろそろ連中も思い出してもいい頃だ...！」","japanesePS3":"そろそろ連中も思い出してもいい頃だ…！」","WH":"\"That's for them to do.  It's about time they learned the true terror of the Golden Witch Beatrice, the one who can create endless closed room tricks of the most horrific kind, tricks that can make even the demons of hell prostrate themselves in shock...!\"","MG":"tricks that can make even the demons of hell prostrate themselves in shock...!\"","UP":"tricks that can make even the demons of hell prostrate themselves in shock...!\"","note":"Original PC and coherent paired context verified under ep06-ch17-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_17-L0544","readerRefs":{"WH":["umi6_17-L0544"],"MG":["umi6_17-L0544"],"UP":["umi6_17-L0544"]}}],"sourceReading":"思い出して refers to remembering already known terror. MG retains learned, while UP restores recalled across545–547.","alternative":"Learning can encompass coming to appreciate something anew, but the source explicitly frames this as recollection.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH17-361-480-001","kind":"additional","description":"UP reverses being seen through love into being able to see.","categories":["linguistic.wrong_subject"],"severity":"moderate","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi6_17","episode":6,"rows":{"JP":[425,425],"MG":[425,425],"UP":[425,425]},"japanese":"愛があれば、私たちは視えるよ……。","japanesePC":"","japanesePS3":"愛があれば、私たちは視えるよ……。","WH":"","MG":"With love, they will be able to \"see\" us...","UP":"We can all ‘see’see...if we have love......","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi6_17-L0425","readerRefs":{"WH":[],"MG":["umi6_17-L0425"],"UP":["umi6_17-L0425"]}}],"sourceReading":"421–424 discuss others coming to see the loved person. 私たちは視える continues we become visible; UP We can all see makes them perceivers. MG and originalPC116771–116772 preserve others seeing us.","alternative":"Japanese topic marking allows omitted perceivers, but the immediately preceding visibility sequence establishes the object reading.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-CH16-023",
+      "kind": "WH",
+      "description": "Endless Sorcerer title becomes Golden Sorcerer.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.terminology_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              545,
+              547
+            ],
+            "MG": [
+              545,
+              547
+            ],
+            "UP": [
+              545,
+              547
+            ]
+          },
+          "japanese": "地獄の悪魔も平伏して絶句する、\n最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、\nそろそろ連中も思い出してもいい頃だ…！」",
+          "japanesePC": "「領主にして無限の魔術師であらせられるバトラ卿と、真実の魔女であらせられるヱリカ卿の婚儀に、ようこそご参列をッ！！」",
+          "japanesePS3": "地獄の悪魔も平伏して絶句する、\n最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、\nそろそろ連中も思い出してもいい頃だ…！」",
+          "WH": "\"Welcome to the wedding of Lord BATTLER, territory lord and Golden Sorcerer, and Lady Erika, the Witch of Truth!!\"",
+          "MG": "It's about time they learned the true terror of the Golden Witch Beatrice,\nthe one who can create endless closed room tricks of the most horrific kind,\ntricks that can make even the demons of hell prostrate themselves in shock...!\"",
+          "UP": "It's about time they recalled the true terror...\n...of Beatrice the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind,\ntricks that can make even the demons of hell prostrate themselves in shock...!\"",
+          "note": "Parent checked PC117274/117276 and all paired clauses; repeated epithet substitution grouped with canonical CH16 parent.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0544",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_17-L0544"
+            ],
+            "UP": [
+              "umi6_17-L0544"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あいつらの方さ。地獄の悪魔も平伏して絶句する、最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、そろそろ連中も思い出してもいい頃だ…！」",
+              "translation": "\"That's for them to do. It's about time they learned the true terror of the Golden Witch Beatrice, the one who can create endless closed room tricks of the most horrific kind, tricks that can make even the demons of hell prostrate themselves in shock...!\" "
+            },
+            "UP": {
+              "japanese": "「あいつらの方さ。地獄の悪魔も平伏して絶句する、最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、そろそろ連中も思い出してもいい頃だ…！」",
+              "translation": "\"That's for them to do. It's about time they recalled the true terror... ...of Beatrice the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind, tricks that can make even the demons of hell prostrate themselves in shock...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_17-L0544"
+            ],
+            "UP": [
+              "umi6_17-L0544"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Furfur announces Lord Battler as territory lord and Endless Sorcerer, 無限の魔術師, alongside Erika as Witch of Truth.",
+      "alternative": "Golden Sorcerer is a plausible other designation in the work, but cannot translate 無限 here. The source deliberately names the Endless title in the formal announcement.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-001",
+      "kind": "WH",
+      "description": "Right to love becomes worthiness of receiving love.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              94,
+              94
+            ],
+            "MG": [
+              94,
+              94
+            ],
+            "UP": [
+              94,
+              94
+            ]
+          },
+          "japanese": "……そのような男に、愛する資格はない」",
+          "japanesePC": "「.........あるわけがない。二人の女を愛せば、その愛情は一人分に満たない。......そのような男に、愛する資格はない。」",
+          "japanesePS3": "……そのような男に、愛する資格はない」",
+          "WH": "\".........Of course not.  If he loved two women, neither would get a full person's worth of love.  ......A man such as that would be unworthy of love.\"",
+          "MG": "...A man such as that would be unworthy of love.\"",
+          "UP": "......A man such as that would not be qualified to love.\"",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0092",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0092"
+            ],
+            "MG": [
+              "umi6_17-L0092"
+            ],
+            "UP": [
+              "umi6_17-L0092"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………あるわけがない。二人の女を愛せば、その愛情は一人分に満たない。……そのような男に、愛する資格はない」",
+              "translation": "\"......Of course not. If he loved two women, neither would get a full person's worth of love. ...A man such as that would be unworthy of love.\" "
+            },
+            "UP": {
+              "japanese": "「………あるわけがない。二人の女を愛せば、その愛情は一人分に満たない。……そのような男に、愛する資格はない」",
+              "translation": "\".........Of course not. If he loved two women, neither would get a full person's worth of love. ......A man such as that would not be qualified to love.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0092"
+            ],
+            "MG": [
+              "umi6_17-L0092"
+            ],
+            "UP": [
+              "umi6_17-L0092"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The elder says a man loving two women gives less than one person’s share of love and lacks the qualification to love.",
+      "alternative": "Unworthy of love commonly means undeserving of being loved, not unqualified to love another. The following demons explicitly return to the latter, so the source argument’s direction is available but this response reverses it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-002",
+      "kind": "WH",
+      "description": "Referee seeing both fairly becomes both seeing the referee.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "world.space_time_continuity",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              107,
+              107
+            ],
+            "MG": [
+              107,
+              107
+            ],
+            "UP": [
+              107,
+              107
+            ]
+          },
+          "japanese": "ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。",
+          "japanesePC": "ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。",
+          "japanesePS3": "ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。",
+          "WH": "Zepar nodded silently, then walked to a place that could be seen by both of them.",
+          "MG": "Zepar nodded silently, then walked to a place that could be seen by both of them.",
+          "UP": "Zepar nodded silently, then walked to a place that could be seen by both of them.",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_17-L0106",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0106"
+            ],
+            "MG": [
+              "umi6_17-L0106"
+            ],
+            "UP": [
+              "umi6_17-L0106"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "決別の二人は、静かに合図を求める。ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。フルフルは、決闘の二人を邪魔しない小さな声で、言う。",
+              "translation": "The pair bidding farewell quietly asked for the signal to be given. Zepar nodded silently, then walked to a place that could be seen by both of them. Furfur spoke in a voice quiet enough to avoid distracting the two duelists. "
+            },
+            "UP": {
+              "japanese": "決別の二人は、静かに合図を求める。ゼパルは静かに頷き、二人を公平に見られる位置に歩み出た。フルフルは、決闘の二人を邪魔しない小さな声で、言う。",
+              "translation": "The pair bidding farewell quietly asked for the signal to be given. Zepar nodded silently, then walked to a place that could be seen by both of them. Furfur spoke in a voice quiet enough to avoid distracting the two duelists."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0106"
+            ],
+            "MG": [
+              "umi6_17-L0106"
+            ],
+            "UP": [
+              "umi6_17-L0106"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Zepar moves to a position from which he can see the two fairly or equally.",
+      "alternative": "A position visible to both makes practical sense for signaling, but reverses 見られる’s observer here and omits 公平に. The source specifies his impartial viewing position.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-003",
+      "kind": "WH",
+      "description": "One bullet settling a duel becomes first-round settlement.",
+      "categories": [
+        "linguistic.word_choice",
+        "mystery.physical_constraint"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              132,
+              132
+            ],
+            "MG": [
+              132,
+              132
+            ],
+            "UP": [
+              132,
+              132
+            ]
+          },
+          "japanese": "「ほとんどの場合、弾丸一発で決着がつくよ」",
+          "japanesePC": "「ほとんどの場合、弾丸一発で決着がつくよ。」",
+          "japanesePS3": "「ほとんどの場合、弾丸一発で決着がつくよ」",
+          "WH": "\"In almost all cases, it is decided in the first round.\"",
+          "MG": "\"In almost all cases, it's decided in the first round.\"",
+          "UP": "\"In almost all cases, it is decided in the first round.\"",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_17-L0132",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0132"
+            ],
+            "MG": [
+              "umi6_17-L0132"
+            ],
+            "UP": [
+              "umi6_17-L0132"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ほとんどの場合、弾丸一発で決着がつくよ」",
+              "translation": "\"In almost all cases, it's decided in the first round.\" "
+            },
+            "UP": {
+              "japanese": "「ほとんどの場合、弾丸一発で決着がつくよ」",
+              "translation": "\"In almost all cases, it is decided in the first round.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0132"
+            ],
+            "MG": [
+              "umi6_17-L0132"
+            ],
+            "UP": [
+              "umi6_17-L0132"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Zepar says almost all such duels are settled by a single bullet.",
+      "alternative": "First round can describe a quick settlement, but a round permits both duelists to fire and is not the same unit as 弾丸一発. George next explains that a missed initial shot can be followed by the opponent cornering and shooting.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-004",
+      "kind": "WH",
+      "description": "Possible loss before shooting becomes certain loss.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              173,
+              173
+            ],
+            "MG": [
+              173,
+              173
+            ],
+            "UP": [
+              173,
+              173
+            ]
+          },
+          "japanese": "引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。",
+          "japanesePC": "紗音は臆病だろうから、先に引き金を引かせてもらえるという甘い思い込みが、引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。",
+          "japanesePS3": "引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。",
+          "WH": "He was fully aware that hoping Shannon would be timid enough to let him shoot first......would result in him losing before even pulling the trigger.",
+          "MG": "he would lose before even pulling the trigger.",
+          "UP": "...could result in him losing before even pulling the trigger.",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0170",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0170"
+            ],
+            "MG": [
+              "umi6_17-L0170"
+            ],
+            "UP": [
+              "umi6_17-L0170"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "嘉音も賭けだった。彼は紗音の射撃の腕を決して侮っていなかった。紗音は臆病だろうから、先に引き金を引かせてもらえるという甘い思い込みが、引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。",
+              "translation": "Kanon had also made a bet. He did not underestimate Shannon's skill with a firearm. He was fully aware that, if he assumed Shannon would be timid enough to let him shoot first, he would lose before even pulling the trigger. "
+            },
+            "UP": {
+              "japanese": "嘉音も賭けだった。彼は紗音の射撃の腕を決して侮っていなかった。紗音は臆病だろうから、先に引き金を引かせてもらえるという甘い思い込みが、引き金さえ引かせずに決着をつけてしまう可能性を、充分に理解していた。",
+              "translation": "Kanon had also gambled. He did not underestimate Shannon's skill with a firearm. He was fully aware that hoping Shannon would be timid enough to let him shoot first... ...could result in him losing before even pulling the trigger."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0170"
+            ],
+            "MG": [
+              "umi6_17-L0170"
+            ],
+            "UP": [
+              "umi6_17-L0170"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kanon fully understands the possibility that naively assuming Shannon’s timidity will let him shoot first could instead end the duel before he even pulls his trigger.",
+      "alternative": "The next conditional illustrates just such a loss, but would result changes the explicit 可能性 into a guaranteed consequence rather than a risk motivating his tactical gamble.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-005",
+      "kind": "WH",
+      "description": "Outwitting shared expectations becomes merely being wrong.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.argument_reconstruction",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              192,
+              193
+            ],
+            "MG": [
+              192,
+              193
+            ],
+            "UP": [
+              192,
+              193
+            ]
+          },
+          "japanese": "………お互いがそう思ってるなら、\n………ならばこれは、裏をかくということ。",
+          "japanesePC": ".........お互いがそう思ってるなら、\n.........ならばこれは、裏をかくということ。",
+          "japanesePS3": "………お互いがそう思ってるなら、\n………ならばこれは、裏をかくということ。",
+          "WH": ".........If they both thought this,\n......then they were wrong.",
+          "MG": "......If they both thought this,\n...then what happened next would turn that assumption on its head.",
+          "UP": ".........They both had that same view of the situation,\n.........which meant one could be taken by surprise.",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi6_17-L0192",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0192"
+            ],
+            "MG": [
+              "umi6_17-L0192"
+            ],
+            "UP": [
+              "umi6_17-L0192"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "………お互いがそう思ってるなら、………ならばこれは、裏をかくということ。",
+              "translation": "......If they both thought this, ...then what happened next would turn that assumption on its head. "
+            },
+            "UP": {
+              "japanese": "………お互いがそう思ってるなら、………ならばこれは、裏をかくということ。",
+              "translation": ".........They both had that same view of the situation, .........which meant one could be taken by surprise."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0192"
+            ],
+            "MG": [
+              "umi6_17-L0192"
+            ],
+            "UP": [
+              "umi6_17-L0192"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "If both think the only remaining route is dodging and a second round, what follows means going behind or outwitting those expectations. Kanon then charges to seize the loaded gun.",
+      "alternative": "Then they were wrong acknowledges that the prior expectation fails, but removes 裏をかく, the active tactical exploitation introducing Kanon’s maneuver. The adjacent translator placeholder comment is evidence of draft residue, not an instruction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-006",
+      "kind": "WH",
+      "description": "Pale face becomes pale forehead.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              283,
+              283
+            ],
+            "MG": [
+              283,
+              283
+            ],
+            "UP": [
+              283,
+              283
+            ]
+          },
+          "japanese": "嘉音の顔は真っ白で、……目は開かれていたが、すでに生ける者の見せる光はない。",
+          "japanesePC": "嘉音の顔は真っ白で、......目は開かれていたが、すでに生ける者の見せる光はない。",
+          "japanesePS3": "嘉音の顔は真っ白で、……目は開かれていたが、すでに生ける者の見せる光はない。",
+          "WH": "Kanon's forehead was pale, ......and though his eyes were open, they had lost the light of the living.",
+          "MG": "Kanon's forehead was pale, ...and though his eyes were open, they had lost the light of the living.",
+          "UP": "Kanon's face was pale, ......and though his eyes were open, they had lost the light of the living.",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0283",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0283"
+            ],
+            "MG": [
+              "umi6_17-L0283"
+            ],
+            "UP": [
+              "umi6_17-L0283"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "嘉音の顔は真っ白で、……目は開かれていたが、すでに生ける者の見せる光はない。……まるで、……操り人形の糸が、ぷつんと切れるように、………彼は絶命しているのだ……。",
+              "translation": "Kanon's forehead was pale, ...and though his eyes were open, they had lost the light of the living. ...Just like... ...a puppet whose strings had been cut, ...he had passed away... "
+            },
+            "UP": {
+              "japanese": "嘉音の顔は真っ白で、……目は開かれていたが、すでに生ける者の見せる光はない。……まるで、……操り人形の糸が、ぷつんと切れるように、………彼は絶命しているのだ……。",
+              "translation": "Kanon's face was pale, ......and though his eyes were open, they had lost the light of the living. ......Just as though... ...he was a puppet whose strings had been cut, .........he passed away......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0283"
+            ],
+            "MG": [
+              "umi6_17-L0283"
+            ],
+            "UP": [
+              "umi6_17-L0283"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kanon’s whole face is white, with open eyes lacking the light of life.",
+      "alternative": "The forehead is the focus of the preceding blood inspection, but 顔 names his face. Forehead narrows the visual sign of death.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-007",
+      "kind": "WH",
+      "description": "Qualification to love becomes general ability.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.terminology_recurrence",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              298,
+              302
+            ],
+            "MG": [
+              298,
+              302
+            ],
+            "UP": [
+              298,
+              302
+            ]
+          },
+          "japanese": "……私が、……勝ちました。\n………これで、\n……私には、\n………あなたを愛する資格が、\n…………やっと………」",
+          "japanesePC": "「......譲治さん。......私が、......勝ちました。\n.........これで、\n......私には、\n.........あなたを愛する資格が、",
+          "japanesePS3": "……私が、……勝ちました。\n………これで、\n……私には、\n………あなたを愛する資格が、\n…………やっと………」",
+          "WH": "\"......George-san.  ......We've......won.\n......Now...\n......I am finally able...\n...to love you......\"",
+          "MG": "...we've...won.\n...Now,\n...I finally have the right...\n...to love you...\"\nFinally...",
+          "UP": "......I......won.\n......And now,\n......I have...\n......the right to love you...\n.........at last........\"",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0297",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0297"
+            ],
+            "MG": [
+              "umi6_17-L0297"
+            ],
+            "UP": [
+              "umi6_17-L0297"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……譲治さん。……私が、……勝ちました。………これで、……私には、………あなたを愛する資格が、…………やっと………」",
+              "translation": "\"...George-san, ...we've...won. ...Now, ...I finally have the right... ...to love you...\" Finally... "
+            },
+            "UP": {
+              "japanese": "「……譲治さん。……私が、……勝ちました。………これで、……私には、………あなたを愛する資格が、…………やっと………」",
+              "translation": "\"......George‐san. ......I......won. ......And now, ......I have... ......the right to love you... .........at last........\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0297"
+            ],
+            "MG": [
+              "umi6_17-L0297"
+            ],
+            "UP": [
+              "umi6_17-L0297"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Shannon says she has finally gained the qualification or right to love George, repeating the key 資格 discussed by the demons before the duel.",
+      "alternative": "Able to love can imply eligibility in context, but it omits the explicit recurring qualification term and can sound like newly acquired emotional capacity.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-008",
+      "kind": "WH",
+      "description": "Unendurable feelings become unrestrained feelings.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              400,
+              400
+            ],
+            "MG": [
+              400,
+              400
+            ],
+            "UP": [
+              400,
+              400
+            ]
+          },
+          "japanese": "……私には堪えられなかった想いを、",
+          "japanesePC": "どうか、私には遂げられなかった想いを、......私には堪えられなかった想いを、\n......あなたが遂げて。",
+          "japanesePS3": "……私には堪えられなかった想いを、",
+          "WH": "Please, take my feelings that went unfulfilled, ......my feelings that I couldn't hold back,\n......and make my wish come true.",
+          "MG": "...my feelings that I couldn't hold back,",
+          "UP": "......these feelings too great for me to bear,",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0398",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0398"
+            ],
+            "MG": [
+              "umi6_17-L0398"
+            ],
+            "UP": [
+              "umi6_17-L0398"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "私には、………もう彼を愛することが、出来ないのです。\nどうか、私には遂げられなかった想いを、\n……私には堪えられなかった想いを、……あなたが遂げて。",
+              "translation": "I...can no longer love him. \nPlease, take my feelings that went unfulfilled, \n ...my feelings that I couldn't hold back, \n...and make my wish come true. "
+            },
+            "UP": {
+              "japanese": "私には、………もう彼を愛することが、出来ないのです。\nどうか、私には遂げられなかった想いを、\n……私には堪えられなかった想いを、……あなたが遂げて。",
+              "translation": "I.........can no longer love him.\nPlease, take these desires I couldn't bring to fruition,\n......these feelings too great for me to bear,\n......and see them through yourself."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0398"
+            ],
+            "MG": [
+              "umi6_17-L0398"
+            ],
+            "UP": [
+              "umi6_17-L0398"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The speaker asks Beato to fulfill feelings she herself could neither realize nor endure.",
+      "alternative": "Couldn’t hold back describes inability to restrain expression, whereas 堪えられなかった is inability to bear or withstand those feelings. The surrounding transfer of suffering and pursuit of separate happiness supports endurance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-009",
+      "kind": "WH",
+      "description": "Fetching Nanjo becomes instructing someone to call him.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              433,
+              434
+            ],
+            "MG": [
+              433,
+              434
+            ],
+            "UP": [
+              433,
+              434
+            ]
+          },
+          "japanese": "「ななッ、南條先生を！！\n南條先生を呼んできます…！！」",
+          "japanesePC": "「ななッ、南條先生を！！　南條先生を呼んできます...！！」",
+          "japanesePS3": "「ななッ、南條先生を！！\n南條先生を呼んできます…！！」",
+          "WH": "\"G, g, get Doctor Nanjo!!  Call Doctor Nanjo here...!!\"",
+          "MG": "\"G-G-Get Doctor Nanjo!!\nCall Doctor Nanjo here...!!\"",
+          "UP": "\"D‐D‐Doctor Nanjo!!\nI'll go call Doctor Nanjo...!!\"",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0433",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0433"
+            ],
+            "MG": [
+              "umi6_17-L0433"
+            ],
+            "UP": [
+              "umi6_17-L0433"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ななッ、南條先生を！！　南條先生を呼んできます…！！」",
+              "translation": "\"G-G-Get Doctor Nanjo!! Call Doctor Nanjo here...!!\" "
+            },
+            "UP": {
+              "japanese": "「ななッ、南條先生を！！　南條先生を呼んできます…！！」",
+              "translation": "\"D‐D‐Doctor Nanjo!! I'll go call Doctor Nanjo...!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0433"
+            ],
+            "MG": [
+              "umi6_17-L0433"
+            ],
+            "UP": [
+              "umi6_17-L0433"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Gohda says he will go and fetch Doctor Nanjo.",
+      "alternative": "Call Doctor Nanjo here preserves the proposed medical response but replaces 呼んできます, the speaker’s intended trip, with an imperative. Genji then stops Gohda.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-010",
+      "kind": "WH",
+      "description": "Spring snow image becomes summer snow.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              443,
+              444
+            ],
+            "MG": [
+              443,
+              444
+            ],
+            "UP": [
+              443,
+              444
+            ]
+          },
+          "japanese": "………嘉音の姿は、\n……まるで、春の日を迎えた、残雪のように。",
+          "japanesePC": ".........嘉音の姿は、\n......まるで、春の日を迎えた、残雪のように。",
+          "japanesePS3": "………嘉音の姿は、\n……まるで、春の日を迎えた、残雪のように。",
+          "WH": "......Like the leftover snow on a summer day,\n...Kanon's form was...",
+          "MG": "...Like leftover snow on a spring day,\n...Kanon's form had been...",
+          "UP": "......Like the last unmelted snow greeting the warm sun of spring,\n...Kanon's form...",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0441",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0441"
+            ],
+            "MG": [
+              "umi6_17-L0441"
+            ],
+            "UP": [
+              "umi6_17-L0441"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "脈を取る腕どころか、………熱を測る額さえ。………嘉音の姿は、……まるで、春の日を迎えた、残雪のように。……もう、跡形さえ、………何も。",
+              "translation": "Not only was there no arm to take the pulse of, ...there wasn't even a forehead to feel the heat of. ...Like leftover snow on a spring day, ...Kanon's form had been... ...By now, ...not even a trace remained. "
+            },
+            "UP": {
+              "japanese": "脈を取る腕どころか、………熱を測る額さえ。………嘉音の姿は、……まるで、春の日を迎えた、残雪のように。……もう、跡形さえ、………何も。",
+              "translation": "Not only was there no arm to take the pulse of, .........there wasn't even a forehead to feel the heat of. ......Like the last unmelted snow greeting the warm sun of spring, ...Kanon's form... ......There was no longer... ......even a trace."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0441"
+            ],
+            "MG": [
+              "umi6_17-L0441"
+            ],
+            "UP": [
+              "umi6_17-L0441"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kanon’s form vanishes like residual snow meeting a spring day.",
+      "alternative": "Summer snow also suggests melting, but 春 explicitly specifies spring and its seasonal thaw image.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-011",
+      "kind": "WH",
+      "description": "Equivalent absence becomes literal removal from their world.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.category_flattening",
+        "world.world_layer"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              459,
+              460
+            ],
+            "MG": [
+              459,
+              460
+            ],
+            "UP": [
+              459,
+              460
+            ]
+          },
+          "japanese": "……それはつまり、彼らの世界ではいないのと同じことだけれども。\n……でもこうして、僕たちはここにいる」",
+          "japanesePC": "「僕たちはもう、誰の目にも触れられない。......それはつまり、彼らの世界ではいないのと同じことだけれども。......でもこうして、僕たちはここにいる。」",
+          "japanesePS3": "……それはつまり、彼らの世界ではいないのと同じことだけれども。\n……でもこうして、僕たちはここにいる」",
+          "WH": "\"By now, no one's eyes can see us.  ......That means that we are no longer in their world.  ......However, we are right here.\"",
+          "MG": "...That means that we're no longer in their world.\n...However, we are right here.\"",
+          "UP": "......That means that we are no longer in their world.\n......However, we are right here.\"",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_17-L0458",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0458"
+            ],
+            "MG": [
+              "umi6_17-L0458"
+            ],
+            "UP": [
+              "umi6_17-L0458"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「僕たちはもう、誰の目にも触れられない。……それはつまり、彼らの世界ではいないのと同じことだけれども。……でもこうして、僕たちはここにいる」",
+              "translation": "\"By now, no one's eyes can see us. ...That means that we're no longer in their world. ...However, we are right here.\" "
+            },
+            "UP": {
+              "japanese": "「僕たちはもう、誰の目にも触れられない。……それはつまり、彼らの世界ではいないのと同じことだけれども。……でもこうして、僕たちはここにいる」",
+              "translation": "\"No one's eyes can see us any longer. ......That means that we are no longer in their world. ......However, we are right here.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0458"
+            ],
+            "MG": [
+              "umi6_17-L0458"
+            ],
+            "UP": [
+              "umi6_17-L0458"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "No one can see them anymore, which is the same as being absent in those people’s world, although they are still here.",
+      "alternative": "No longer in their world may express perceived absence loosely, but removes いないのと同じ, the equivalence explicitly anchored to invisibility. The source distinguishes not being seen from their continued presence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-012",
+      "kind": "WH",
+      "description": "Rescue to be devised becomes an escape already accomplished.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "mystery.premature_resolution"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              537,
+              537
+            ],
+            "MG": [
+              537,
+              537
+            ],
+            "UP": [
+              537,
+              537
+            ]
+          },
+          "japanese": "「右代宮戦人をどうやって密室から出すかを悩むんじゃない。",
+          "japanesePC": "「右代宮戦人をどうやって密室から出すかを悩むんじゃない。......チェーンロックの密室？　馬鹿馬鹿しいね。......なら君は、そんなのより、もっともっと飛びっきりの、最高の密室を作ってやって、あいつらを悩ませてやろうじゃないか。.........僕も手を貸すよ。」",
+          "japanesePS3": "「右代宮戦人をどうやって密室から出すかを悩むんじゃない。",
+          "WH": "\"Don't worry about how Ushiromiya Battler got out of the closed room.  ......A chain lock closed room?  How trivial.  ......You need to create a much more spectacular, ultimate closed room...and make it so that they're the ones worrying.  .........I'll even lend a hand.\"",
+          "MG": "\"Don't worry about how Ushiromiya Battler got out of the closed room.",
+          "UP": "\"Don't worry about how to get Ushiromiya Battler out of the locked room.",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0537",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0537"
+            ],
+            "MG": [
+              "umi6_17-L0537"
+            ],
+            "UP": [
+              "umi6_17-L0537"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「右代宮戦人をどうやって密室から出すかを悩むんじゃない。……チェーンロックの密室？　馬鹿馬鹿しいね。……なら君は、そんなのより、もっともっと飛びっきりの、最高の密室を作ってやって、あいつらを悩ませてやろうじゃないか。………僕も手を貸すよ」",
+              "translation": "\"Don't worry about how Ushiromiya Battler got out of the closed room. ...A chain lock closed room? How trivial. ...You need to create a much more spectacular, ultimate closed room... and make it so that they're the ones worrying. ......I'll even lend a hand.\" "
+            },
+            "UP": {
+              "japanese": "「右代宮戦人をどうやって密室から出すかを悩むんじゃない。……チェーンロックの密室？　馬鹿馬鹿しいね。……なら君は、そんなのより、もっともっと飛びっきりの、最高の密室を作ってやって、あいつらを悩ませてやろうじゃないか。………僕も手を貸すよ」",
+              "translation": "\"Don't worry about how to get Ushiromiya Battler out of the locked room. ......A room locked by a chain? What a joke. ......You need to create a much more spectacular, ultimate locked room... and make it so that they're the ones agonizing. .........I'll even lend a hand.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0537"
+            ],
+            "MG": [
+              "umi6_17-L0537"
+            ],
+            "UP": [
+              "umi6_17-L0537"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kanon tells Beato not to agonize over how to get Battler out of the closed room, but to create a more formidable room for the opponents to solve.",
+      "alternative": "How Battler got out could invite retrospective reconstruction, but Battler remains trapped at this point and 出す is prospective causative rescue, not a past completed exit.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-013",
+      "kind": "WH",
+      "description": "Returning floor plans become generic remembered images.",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              554,
+              555
+            ],
+            "MG": [
+              554,
+              555
+            ],
+            "UP": [
+              554,
+              555
+            ]
+          },
+          "japanese": "………屋敷の、ゲストハウスの、薔薇庭園の、\n……図面が次々に蘇っていく……。",
+          "japanesePC": "ベアトの脳裏に、\n.........屋敷の、ゲストハウスの、薔薇庭園の、\n......図面が次々に蘇っていく......。",
+          "japanesePS3": "………屋敷の、ゲストハウスの、薔薇庭園の、\n……図面が次々に蘇っていく……。",
+          "WH": "In the back of Beato's mind,\n......images she remembered began to flit by, one after another...\n...the mansion, the guesthouse, the rose garden......",
+          "MG": "...images she remembered began to flit by, one after another...\n...The mansion, the guesthouse, the rose garden...",
+          "UP": "......images she remembered began to flit by, one after another—\nthe layout of the mansion, the guesthouse, the rose garden......",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0553",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0553"
+            ],
+            "MG": [
+              "umi6_17-L0553"
+            ],
+            "UP": [
+              "umi6_17-L0553"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベアトの脳裏に、………屋敷の、ゲストハウスの、薔薇庭園の、……図面が次々に蘇っていく……。",
+              "translation": "In the back of Beato's mind, ...images she remembered began to flit by, one after another... ...The mansion, the guesthouse, the rose garden... "
+            },
+            "UP": {
+              "japanese": "ベアトの脳裏に、………屋敷の、ゲストハウスの、薔薇庭園の、……図面が次々に蘇っていく……。",
+              "translation": "In the back of Beato's mind, ......images she remembered began to flit by, one after another— the layout of the mansion, the guesthouse, the rose garden......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0553"
+            ],
+            "MG": [
+              "umi6_17-L0553"
+            ],
+            "UP": [
+              "umi6_17-L0553"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Floor plans of the mansion, guesthouse and rose garden return one after another to Beato’s mind.",
+      "alternative": "The subsequent MAP montage can restore the visual specificity in play, but images she remembered omits 図面 from the English prose. The graphics remain a separate unresolved verification dependency.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-014",
+      "kind": "WH",
+      "description": "Lights drawn into the eyes become lights engulfing Beato.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              562,
+              563
+            ],
+            "MG": [
+              562,
+              563
+            ],
+            "UP": [
+              562,
+              563
+            ]
+          },
+          "japanese": "ベアトの瞳が、どんどん見開かれていく……。\nそこには無数の光が、渦を巻いて飲み込まれていく。",
+          "japanesePC": "そこには無数の光が、渦を巻いて飲み込まれていく。",
+          "japanesePS3": "ベアトの瞳が、どんどん見開かれていく……。\nそこには無数の光が、渦を巻いて飲み込まれていく。",
+          "WH": "Countless lights circled around her, swallowing her up.",
+          "MG": "Beato's eyes opened wider and wider...\nCountless lights circled around her, swallowing her up.",
+          "UP": "Beato's eyes opened wider and wider......\nCountless lights circled around her, swallowing her up.",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_17-L0562",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0562"
+            ],
+            "MG": [
+              "umi6_17-L0562"
+            ],
+            "UP": [
+              "umi6_17-L0562"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベアトの瞳が、どんどん見開かれていく……。そこには無数の光が、渦を巻いて飲み込まれていく。",
+              "translation": "Beato's eyes opened wider and wider... Countless lights circled around her, swallowing her up. "
+            },
+            "UP": {
+              "japanese": "ベアトの瞳が、どんどん見開かれていく……。そこには無数の光が、渦を巻いて飲み込まれていく。",
+              "translation": "Beato's eyes opened wider and wider...... Countless lights circled around her, swallowing her up."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0562"
+            ],
+            "MG": [
+              "umi6_17-L0562"
+            ],
+            "UP": [
+              "umi6_17-L0562"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Her eyes open wider, and countless lights swirl and are drawn into them; そこ refers back to the eyes and the lights are what is swallowed.",
+      "alternative": "Swallowing her up also conveys overwhelming illumination, but makes the lights the engulfing agent around her rather than the things drawn into her widened eyes.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-015",
+      "kind": "WH",
+      "description": "Pronoun correction becomes a cackle substitution.",
+      "categories": [
+        "linguistic.wordplay",
+        "linguistic.register_voice",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              568,
+              568
+            ],
+            "MG": [
+              568,
+              568
+            ],
+            "UP": [
+              568,
+              568
+            ]
+          },
+          "japanese": "「妾でなくっちゃ」",
+          "japanesePC": "「妾でなくっちゃ。」",
+          "japanesePS3": "「妾でなくっちゃ」",
+          "WH": "*cackle*cackle*, me.",
+          "MG": "\"Go for \"{ruby:warawa:I\" instead.",
+          "UP": "\"Go for \"warawa\".\"",
+          "note": "Full continuous source-first three-witness reading in saved agent reports; parent verified425 against421–424: others seeing the loved person is the subject relation. Reflows6–7,17–18,147–153,161–163,221–223,241–244,298–302,345–361 checked. MG136 categorical rhetoric,153 prone orientation recoverable165,298 collective celebration,495 hearsay/inference and mixed conditional472–474 held conservatively. Inherited545–547 title/recall remains pending canonical adjudication; no proven PC additions.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0568",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0568"
+            ],
+            "MG": [
+              "umi6_17-L0568"
+            ],
+            "UP": [
+              "umi6_17-L0568"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「妾でなくっちゃ」",
+              "translation": "\"Go for \"{ruby:warawa:I\" instead. "
+            },
+            "UP": {
+              "japanese": "「妾でなくっちゃ」",
+              "translation": "\"Go for \"warawa\".\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0568"
+            ],
+            "MG": [
+              "umi6_17-L0568"
+            ],
+            "UP": [
+              "umi6_17-L0568"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kanon corrects Beato’s 私 to 妾, the archaic imperious self-reference appropriate to her restored witch voice.",
+      "alternative": "Adding her recognizable cackle compensates for English lacking distinct first-person pronouns and does signal the familiar persona, but replaces the explicit self-address/register correction with a laugh and leaves the unfinished So after all I must be followed by cackle me rather than the source’s corrected phrasing.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH17-016",
+      "kind": "WH",
+      "description": "WH changes recalling Beatrice’s true terror into learning it.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              547,
+              547
+            ],
+            "MG": [
+              547,
+              547
+            ],
+            "UP": [
+              547,
+              547
+            ]
+          },
+          "japanese": "そろそろ連中も思い出してもいい頃だ…！」",
+          "japanesePC": "「あいつらの方さ。地獄の悪魔も平伏して絶句する、最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、そろそろ連中も思い出してもいい頃だ...！」",
+          "japanesePS3": "そろそろ連中も思い出してもいい頃だ…！」",
+          "WH": "\"That's for them to do.  It's about time they learned the true terror of the Golden Witch Beatrice, the one who can create endless closed room tricks of the most horrific kind, tricks that can make even the demons of hell prostrate themselves in shock...!\"",
+          "MG": "tricks that can make even the demons of hell prostrate themselves in shock...!\"",
+          "UP": "tricks that can make even the demons of hell prostrate themselves in shock...!\"",
+          "note": "Original PC and coherent paired context verified under ep06-ch17-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_17-L0544",
+          "readerRefs": {
+            "WH": [
+              "umi6_17-L0544"
+            ],
+            "MG": [
+              "umi6_17-L0544"
+            ],
+            "UP": [
+              "umi6_17-L0544"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あいつらの方さ。地獄の悪魔も平伏して絶句する、最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、そろそろ連中も思い出してもいい頃だ…！」",
+              "translation": "\"That's for them to do. It's about time they learned the true terror of the Golden Witch Beatrice, the one who can create endless closed room tricks of the most horrific kind, tricks that can make even the demons of hell prostrate themselves in shock...!\" "
+            },
+            "UP": {
+              "japanese": "「あいつらの方さ。地獄の悪魔も平伏して絶句する、最悪の密室トリックを無限に使いこなす、無限の魔女ベアトリーチェの本当の恐ろしさを、そろそろ連中も思い出してもいい頃だ…！」",
+              "translation": "\"That's for them to do. It's about time they recalled the true terror... ...of Beatrice the Endless Witch, the one who can create endless locked‐room tricks of the most horrific kind, tricks that can make even the demons of hell prostrate themselves in shock...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_17-L0544"
+            ],
+            "MG": [
+              "umi6_17-L0544"
+            ],
+            "UP": [
+              "umi6_17-L0544"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "思い出して refers to remembering already known terror. MG retains learned, while UP restores recalled across545–547.",
+      "alternative": "Learning can encompass coming to appreciate something anew, but the source explicitly frames this as recollection.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH17-361-480-001",
+      "kind": "additional",
+      "description": "UP reverses being seen through love into being able to see.",
+      "categories": [
+        "linguistic.wrong_subject"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_17",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              425,
+              425
+            ],
+            "MG": [
+              425,
+              425
+            ],
+            "UP": [
+              425,
+              425
+            ]
+          },
+          "japanese": "愛があれば、私たちは視えるよ……。",
+          "japanesePC": "",
+          "japanesePS3": "愛があれば、私たちは視えるよ……。",
+          "WH": "",
+          "MG": "With love, they will be able to \"see\" us...",
+          "UP": "We can all ‘see’see...if we have love......",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi6_17-L0425",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_17-L0425"
+            ],
+            "UP": [
+              "umi6_17-L0425"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "愛があれば、私たちは視えるよ……。",
+              "translation": "With love, they will be able to \"see\" us... "
+            },
+            "UP": {
+              "japanese": "愛があれば、私たちは視えるよ……。",
+              "translation": "We can all ‘see’see...if we have love......"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_17-L0425"
+            ],
+            "UP": [
+              "umi6_17-L0425"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "421–424 discuss others coming to see the loved person. 私たちは視える continues we become visible; UP We can all see makes them perceivers. MG and originalPC116771–116772 preserve others seeing us.",
+      "alternative": "Japanese topic marking allows omitted perceivers, but the immediately preceding visibility sequence establishes the object reading.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-CH16-023": {
+      "umi6_17-L0544": {
+        "MG": [
+          "the Golden Witch Beatrice"
+        ]
+      }
+    },
+    "WH-EP06-CH17-001": {
+      "umi6_17-L0092": {
+        "WH": [
+          "would be unworthy of love"
+        ],
+        "MG": [
+          "would be unworthy of love"
+        ]
+      }
+    },
+    "WH-EP06-CH17-002": {
+      "umi6_17-L0106": {
+        "WH": [
+          "a place that could be seen by both of them"
+        ],
+        "UP": [
+          "a place that could be seen by both of them"
+        ],
+        "MG": [
+          "a place that could be seen by both of them"
+        ]
+      }
+    },
+    "WH-EP06-CH17-003": {
+      "umi6_17-L0132": {
+        "WH": [
+          "decided in the first round"
+        ],
+        "UP": [
+          "decided in the first round"
+        ],
+        "MG": [
+          "decided in the first round"
+        ]
+      }
+    },
+    "WH-EP06-CH17-004": {
+      "umi6_17-L0170": {
+        "WH": [
+          "would result in him losing before even pulling the trigger"
+        ],
+        "MG": [
+          "he would lose before even pulling the trigger"
+        ]
+      }
+    },
+    "WH-EP06-CH17-005": {
+      "umi6_17-L0192": {
+        "WH": [
+          "then they were wrong"
+        ],
+        "UP": [
+          "They both had that same view of the situation"
+        ]
+      }
+    },
+    "WH-EP06-CH17-006": {
+      "umi6_17-L0283": {
+        "WH": [
+          "Kanon's forehead"
+        ],
+        "MG": [
+          "Kanon's forehead"
+        ]
+      }
+    },
+    "WH-EP06-CH17-007": {
+      "umi6_17-L0297": {
+        "WH": [
+          "I am finally able... ...to love you"
+        ]
+      }
+    },
+    "WH-EP06-CH17-008": {
+      "umi6_17-L0398": {
+        "WH": [
+          "my feelings that I couldn't hold back"
+        ],
+        "MG": [
+          "my feelings that I couldn't hold back"
+        ]
+      }
+    },
+    "WH-EP06-CH17-009": {
+      "umi6_17-L0433": {
+        "WH": [
+          "Call Doctor Nanjo here"
+        ],
+        "MG": [
+          "Call Doctor Nanjo here"
+        ]
+      }
+    },
+    "WH-EP06-CH17-010": {
+      "umi6_17-L0441": {
+        "WH": [
+          "the leftover snow on a summer day"
+        ]
+      }
+    },
+    "WH-EP06-CH17-011": {
+      "umi6_17-L0458": {
+        "WH": [
+          "we are no longer in their world"
+        ],
+        "MG": [
+          "we're no longer in their world"
+        ],
+        "UP": [
+          "we are no longer in their world"
+        ]
+      }
+    },
+    "WH-EP06-CH17-012": {
+      "umi6_17-L0537": {
+        "WH": [
+          "how Ushiromiya Battler got out of the closed room"
+        ],
+        "MG": [
+          "how Ushiromiya Battler got out of the closed room"
+        ]
+      }
+    },
+    "WH-EP06-CH17-013": {
+      "umi6_17-L0553": {
+        "WH": [
+          "images she remembered"
+        ],
+        "MG": [
+          "images she remembered"
+        ]
+      }
+    },
+    "WH-EP06-CH17-014": {
+      "umi6_17-L0562": {
+        "WH": [
+          "Countless lights circled around her, swallowing her up"
+        ],
+        "UP": [
+          "Countless lights circled around her, swallowing her up"
+        ],
+        "MG": [
+          "Countless lights circled around her, swallowing her up"
+        ]
+      }
+    },
+    "WH-EP06-CH17-015": {
+      "umi6_17-L0568": {
+        "WH": [
+          "*cackle*cackle*, me"
+        ]
+      }
+    },
+    "WH-EP06-CH17-016": {
+      "umi6_17-L0544": {
+        "WH": [
+          "learned the true terror"
+        ],
+        "MG": [
+          "learned the true terror"
+        ]
+      }
+    },
+    "PAIR-EP06-CH17-361-480-001": {
+      "umi6_17-L0425": {
+        "UP": [
+          "We can all ‘see’see"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

@@ -1,1 +1,986 @@
-{"findings":[{"id":"WH-EP07-CH04-001","kind":"WH","description":"Strong inferiority complex becomes a small grudge.","categories":["linguistic.word_choice","character.motivation_emotion","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[59,59],"MG":[59,59],"UP":[59,59]},"japanese":"それを超える学歴を持つ私には、強いコンプレックスを持っていた。","japanesePC":"中尉は、下士官たちの前では学歴を威張ることもあったが、それを超える学歴を持つ私には、強いコンプレックスを持っていた。","japanesePS3":"それを超える学歴を持つ私には、強いコンプレックスを持っていた。","WH":"The lieutenant liked to brag about his education in front of the non-commissioned officers, but he held a bit of a grudge against me for being even more highly educated than him.","MG":"but he held a bit of a grudge against me for being even more highly educated than him.","UP":"but he held a bit of a grudge against me for being even more highly educated than him.","note":"Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_4-L0058","readerRefs":{"WH":["umi7_4-L0058"],"MG":["umi7_4-L0058"],"UP":["umi7_4-L0058"]}}],"sourceReading":"Yamamoto has a strong inferiority complex toward Kinzo because Kinzo has more education than he does. His insecurity about being younger despite outranking Kinzo follows.","alternative":"Resentment may accompany that complex, and later hurt pride is retained, but a bit of a grudge substitutes a slight grievance for the explicitly strong sense of inferiority.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH04-002","kind":"WH","description":"People still alive becomes people having breathing trouble.","categories":["linguistic.mistranslation","world.world_fact","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[151,151],"MG":[151,151],"UP":[151,151]},"japanese":"まだ息のある人間もいる。","japanesePC":"『新鮮な空気と水が欲しいわ。まだ息のある人間もいる。休ませる場所が欲しいわ。』","japanesePS3":"まだ息のある人間もいる。","WH":"\"<Well, we would like some fresh air and water.  Some of us are still having trouble breathing.  We'd like a place to rest.>\"","MG":"Some of us are still having trouble breathing.","UP":"Some of us are still having trouble breathing.","note":"Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_4-L0150","readerRefs":{"WH":["umi7_4-L0150"],"MG":["umi7_4-L0150"],"UP":["umi7_4-L0150"]}}],"sourceReading":"Bice asks for fresh air, water and somewhere to rest because there are still people alive. まだ息のある describes remaining life.","alternative":"The surrounding chlorine-gas exposure makes respiratory trouble plausible, but it does not license replacing the idiom meaning still alive with a specific symptom. The later survivor counts retain the deaths, so the defect is this request’s meaning.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH04-003","kind":"WH","description":"An apparently extraordinary mission becomes established knowledge.","categories":["linguistic.overinterpretation","mystery.epistemic_status","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[202,202],"MG":[202,202],"UP":[202,202]},"japanese":"その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる…」","japanesePC":"「.........途方もない規模の、遠大な作戦か何かだったのかもしれぬ。......その全容はわからぬが、その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる...。」","japanesePS3":"その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる…」","WH":"\".........It may have been part of some grand, outrageous strategy.  ......I don't know all the details, but shortly after, I learned that this submarine's mission was far from a minor one...\"","MG":"but shortly after, I learned that this submarine's mission was far from a minor one...\"","UP":"but shortly after, I learned that this submarine's mission was far from a minor one...\"","note":"Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_4-L0200","readerRefs":{"WH":["umi7_4-L0200"],"MG":["umi7_4-L0200"],"UP":["umi7_4-L0200"]}}],"sourceReading":"Kinzo does not know the full operation, but later comes to understand that the submarine apparently carried an extraordinary mission. The Japanese says later, without defining a short interval.","alternative":"I learned that presents the mission’s importance as established rather than retaining らしい. Shortly after additionally narrows 後に. The following passage still leaves the actual mission unknown; that qualification is preserved and is not another defect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH04-004","kind":"WH","description":"A qualified correction becomes an additional definite plan.","categories":["linguistic.logical_relation","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[351,353],"MG":[351,353],"UP":[351,353]},"japanese":"大切な日まで、何年も隠しているつもりだったみたい。\nいえ、それと一緒に隠れているつもりだったみたい。\n私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから』","japanesePC":"いえ、それと一緒に隠れているつもりだったみたい。私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから。』","japanesePS3":"大切な日まで、何年も隠しているつもりだったみたい。\nいえ、それと一緒に隠れているつもりだったみたい。\n私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから』","WH":"Oh, and he planned to hide himself along with it.  I know because he apologized to me for sending us to live a long time on foreign soil.>\"","MG":"and he planned to hide it for many years until the right moment.\nOh, and he planned to hide himself along with it.\nI know because he apologized to me for sending us to live a long time on foreign soil.>\"","UP":"and he planned to hide it for many years until the right moment.\nOh, and he planned for us to remain hidden along with it.\nI know because he apologized to me that I might be spending a very long time on foreign soil.>\"","note":"Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi7_4-L0349","readerRefs":{"WH":["umi7_4-L0349"],"MG":["umi7_4-L0349"],"UP":["umi7_4-L0349"]}}],"sourceReading":"Bice corrects herself: no, it seems her father meant to remain in hiding alongside the cargo. His apology supports that inference.","alternative":"Oh, and adds a further plan instead of correcting the preceding formulation. He planned and I know also remove the apparent/inferred status of つもりだったみたい. Her earlier ignorance of the complete mission is retained.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH04-005","kind":"WH","description":"Wishing the Italians would ask for help becomes mutual trust.","categories":["linguistic.undertranslation","character.relationship_power","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[361,362],"MG":[361,362],"UP":[361,362]},"japanese":"むしろ、同盟国なんだ。\n頼ってくれればいいのに』","japanesePC":"『それが何だったにせよ、それはイタリア軍の任務さ。俺らには関係ないね。むしろ、同盟国なんだ。頼ってくれればいいのに。』","japanesePS3":"むしろ、同盟国なんだ。\n頼ってくれればいいのに』","WH":"\"<Whatever it is, that's a mission for the Italian military.  It has nothing to do with us.  After all, we are allies.  We should be able to trust each other.>\"","MG":"After all, we're allies.\nWe should be able to trust each other.>\"","UP":"In fact, given that we're allies,\nwe'd be willing to help if only they asked.>\"","note":"Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_4-L0359","readerRefs":{"WH":["umi7_4-L0359"],"MG":["umi7_4-L0359"],"UP":["umi7_4-L0359"]}}],"sourceReading":"Kinzo wishes the Italians would rely on them or turn to them for help, since they are allies.","alternative":"We should be able to trust each other retains the alliance rationale and fits surrounding distrust, but substitutes reciprocal trust for the explicit wish that the Italians seek their assistance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH04-006","kind":"WH","description":"Risk of losing transportability becomes transport already impossible.","categories":["linguistic.tense_aspect","linguistic.logical_relation","mystery.physical_constraint","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[448,448],"MG":[448,448],"UP":[448,448]},"japanese":"このままでは黄金が完全に輸送不能になってしまうことが明白となり、","japanesePC":"このままでは黄金が完全に輸送不能になってしまうことが明白となり、............彼らは荷揚げする決断をしたらしい。","japanesePS3":"このままでは黄金が完全に輸送不能になってしまうことが明白となり、","WH":"Now that it was clear that transporting the gold had become completely impossible, ......they had apparently decided on unloading it.","MG":"Now that transporting the gold away had clearly become an impossible goal,","UP":"It was clear that unless action was taken, the gold would soon become completely impossible to transport.","note":"Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_4-L0435","readerRefs":{"WH":["umi7_4-L0435"],"MG":["umi7_4-L0435"],"UP":["umi7_4-L0435"]}}],"sourceReading":"If things continue as they are, the gold will become completely impossible to transport: the damaged submarine will sink, and the island cannot raise it. They apparently decide to unload the gold to avoid that outcome.","alternative":"Transporting the gold had become completely impossible removes このままでは and the prospective なってしまう. The preceding text establishes an inability to raise a sunken submarine, while the gold is currently being unloaded by winch. Later difficulty secretly shipping it off-island is a separate constraint.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH04-007","kind":"WH","description":"WH changes the charge that Kinzo’s soul is rotten into a claim that he has lost his nerve.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[32,32],"MG":[32,32],"UP":[32,32]},"japanese":"右代宮ッ、貴様の魂は腐りきっておるわ！！","japanesePC":"「その目つきだ！！　右代宮ッ、貴様の魂は腐りきっておるわ！！　魚だ。貴様の目は死んだ魚の目だ！！」","japanesePS3":"右代宮ッ、貴様の魂は腐りきっておるわ！！","WH":"\"What's that look on your face?!  Ushiromiya, you've lost your nerve down to your very soul!!  You're a fish, that's what you are.  You've got the eyes of a dead fish!!\"","MG":"Ushiromiya, you've lost your nerve down to your very soul!!","UP":"Ushiromiya, your spirit is rotten to the core!!","note":"Original PC and coherent paired context verified under ep07-ch04-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_4-L0031","readerRefs":{"WH":["umi7_4-L0031"],"MG":["umi7_4-L0031"],"UP":["umi7_4-L0031"]}}],"sourceReading":"腐りきっている charges complete spiritual rot. MG retains lost nerve; UP restores rotten to the core.","alternative":"The officer also discusses fear, but this explicit charge concerns rot rather than bravery.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH04-008","kind":"WH","description":"WH changes the indicated upcoming visit into a guest having already arrived.","categories":["linguistic.tense_aspect"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[71,71],"MG":[71,71],"UP":[71,71]},"japanese":"中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。","japanesePC":"中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。","japanesePS3":"中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。","WH":"His question made it clear that some guest had arrived on Rokkenjima who would need an interpreter.","MG":"His question made it clear that some guest had arrived on Rokkenjima who would need an interpreter.","UP":"His question made it clear that someone who would need an interpreter would be visiting Rokkenjima.","note":"Original PC and coherent paired context verified under ep07-ch04-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_4-L0070","readerRefs":{"WH":["umi7_4-L0070"],"MG":["umi7_4-L0070"],"UP":["umi7_4-L0070"]}}],"sourceReading":"訪れる is prospective here: the interpreter is appointed before the evening submarine entrance74–76. MG had arrived completes the visit; UP would be visiting preserves it.","alternative":"The nonpast can sometimes describe a generic event, but the unfolding appointment and later approach establish anticipation here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-100","kind":"PC","description":"PC repeats anti-British/American chant; PS3 generic loud drills. MG carries over chant, UP follows PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[25,25],"MG":[25,25],"UP":[25,25]},"japanese":"彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。","japanesePC":"鬼畜米英と連呼させ、教練と称して竹槍を振り回させるのも、彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。","japanesePS3":"彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。","WH":"Anger is the wine they used to paralyze their fear.  It made them chant 'damn the British, damn the Americans' as they swung their bamboo spears around and called it 'drilling'.","MG":"It made them chant \"damn the British, damn the Americans\" as they swung their bamboo spears around and called it \"drilling\".","UP":"Drinking the wine called anger was simply what they needed to do to numb their fear.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_4-L0017","readerRefs":{"WH":[],"MG":["umi7_4-L0017"],"UP":["umi7_4-L0017"]}}],"sourceReading":"PC repeats anti-British/American chant; PS3 generic loud drills. MG carries over chant, UP follows PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-101","kind":"PC","description":"PC names Mussolini establishing RSI; PS3 specifies unnamed pro-German regime. MG retains name, UP follows PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[83,83],"MG":[83,83],"UP":[83,83]},"japanese":"……だが、それを受け入れない者たちは親独政権ＲＳＩを樹立させ、戦争を続けたのだ」","japanesePC":"「降伏したのはイタリア王国だ。......だが、それを受け入れない者たちはムッソリーニを擁立してＲＳＩを樹立させ、戦争を続けたのだ。」","japanesePS3":"……だが、それを受け入れない者たちは親独政権ＲＳＩを樹立させ、戦争を続けたのだ」","WH":"\"It was the Kingdom of Italy that surrendered.  ......However, the ones who couldn't accept that surrender joined Mussolini and formed the RSI, so that they could continue fighting.\"","MG":"...However, those who couldn't accept that surrender joined Mussolini and formed the RSI, so that they could continue fighting.\"","UP":"......However, the ones who couldn't accept that surrender formed a pro‐German government called the RSI so that they could continue fighting.\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_4-L0082","readerRefs":{"WH":[],"MG":["umi7_4-L0082"],"UP":["umi7_4-L0082"]}}],"sourceReading":"PC names Mussolini establishing RSI; PS3 specifies unnamed pro-German regime. MG retains name, UP follows PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-102","kind":"PC","description":"PC identifies Mussolini’s aide; PS3 generic prime minister’s aide. MG retains name, UP follows PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_4","episode":7,"rows":{"JP":[214,214],"MG":[214,214],"UP":[214,214]},"japanese":"首相側近ではないかと思われた。","japanesePC":"どうも、ベアトリーチェの父親は、ＲＳＩの相当の高官らしく、ムッソリーニの側近ではないかと思われた。","japanesePS3":"首相側近ではないかと思われた。","WH":"Apparently, Beatrice's father was extremely high up in the RSI hierarchy, and it was thought that he might have worked alongside Mussolini himself.","MG":"and it was thought that he might have worked alongside Mussolini himself.","UP":"and it was thought that he might have worked alongside the Italian Prime Minister himself.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_4-L0203","readerRefs":{"WH":[],"MG":["umi7_4-L0203"],"UP":["umi7_4-L0203"]}}],"sourceReading":"PC identifies Mussolini’s aide; PS3 generic prime minister’s aide. MG retains name, UP follows PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH04-001",
+      "kind": "WH",
+      "description": "Strong inferiority complex becomes a small grudge.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              59,
+              59
+            ],
+            "MG": [
+              59,
+              59
+            ],
+            "UP": [
+              59,
+              59
+            ]
+          },
+          "japanese": "それを超える学歴を持つ私には、強いコンプレックスを持っていた。",
+          "japanesePC": "中尉は、下士官たちの前では学歴を威張ることもあったが、それを超える学歴を持つ私には、強いコンプレックスを持っていた。",
+          "japanesePS3": "それを超える学歴を持つ私には、強いコンプレックスを持っていた。",
+          "WH": "The lieutenant liked to brag about his education in front of the non-commissioned officers, but he held a bit of a grudge against me for being even more highly educated than him.",
+          "MG": "but he held a bit of a grudge against me for being even more highly educated than him.",
+          "UP": "but he held a bit of a grudge against me for being even more highly educated than him.",
+          "note": "Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_4-L0058",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0058"
+            ],
+            "MG": [
+              "umi7_4-L0058"
+            ],
+            "UP": [
+              "umi7_4-L0058"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "中尉は、下士官たちの前では学歴を威張ることもあったが、それを超える学歴を持つ私には、強いコンプレックスを持っていた。また、私より階級的に上であるにもかかわらず、年下であることにもコンプレックスを持っているようで、決して私とは打ち解けることの出来ない人間だった。今も、私が他国語に堪能であるという事実に、彼のプライドが傷つけられているに違いない。",
+              "translation": "The lieutenant liked to brag about his education in front of the non-commissioned officers, but he held a bit of a grudge against me for being even more highly educated than him. Since he also felt uncomfortable about having a subordinate who was older than him, I wasn't exactly the type he'd be willing to confide in. Just the fact that I knew several languages must've hurt his pride. "
+            },
+            "UP": {
+              "japanese": "中尉は、下士官たちの前では学歴を威張ることもあったが、それを超える学歴を持つ私には、強いコンプレックスを持っていた。また、私より階級的に上であるにもかかわらず、年下であることにもコンプレックスを持っているようで、決して私とは打ち解けることの出来ない人間だった。今も、私が他国語に堪能であるという事実に、彼のプライドが傷つけられているに違いない。",
+              "translation": "The lieutenant liked to brag about his education in front of the non‐commissioned officers, but he held a bit of a grudge against me for being even more highly educated than him. He also felt uncomfortable about having me as a subordinate because he was younger than me, so I was definitely not the kind of person he could hit it off with. Just the fact that I knew several languages must have hurt his pride."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0058"
+            ],
+            "MG": [
+              "umi7_4-L0058"
+            ],
+            "UP": [
+              "umi7_4-L0058"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Yamamoto has a strong inferiority complex toward Kinzo because Kinzo has more education than he does. His insecurity about being younger despite outranking Kinzo follows.",
+      "alternative": "Resentment may accompany that complex, and later hurt pride is retained, but a bit of a grudge substitutes a slight grievance for the explicitly strong sense of inferiority.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH04-002",
+      "kind": "WH",
+      "description": "People still alive becomes people having breathing trouble.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              151,
+              151
+            ],
+            "MG": [
+              151,
+              151
+            ],
+            "UP": [
+              151,
+              151
+            ]
+          },
+          "japanese": "まだ息のある人間もいる。",
+          "japanesePC": "『新鮮な空気と水が欲しいわ。まだ息のある人間もいる。休ませる場所が欲しいわ。』",
+          "japanesePS3": "まだ息のある人間もいる。",
+          "WH": "\"<Well, we would like some fresh air and water.  Some of us are still having trouble breathing.  We'd like a place to rest.>\"",
+          "MG": "Some of us are still having trouble breathing.",
+          "UP": "Some of us are still having trouble breathing.",
+          "note": "Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_4-L0150",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0150"
+            ],
+            "MG": [
+              "umi7_4-L0150"
+            ],
+            "UP": [
+              "umi7_4-L0150"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "『新鮮な空気と水が欲しいわ。まだ息のある人間もいる。休ませる場所が欲しいわ』",
+              "translation": "\"<We'd like some fresh air and water. Some of us are still having trouble breathing. And we'd like a place to rest.>\" "
+            },
+            "UP": {
+              "japanese": "『新鮮な空気と水が欲しいわ。まだ息のある人間もいる。休ませる場所が欲しいわ』",
+              "translation": "\"<Well, we would like some fresh air and water. Some of us are still having trouble breathing. We'd like a place to rest.>\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0150"
+            ],
+            "MG": [
+              "umi7_4-L0150"
+            ],
+            "UP": [
+              "umi7_4-L0150"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bice asks for fresh air, water and somewhere to rest because there are still people alive. まだ息のある describes remaining life.",
+      "alternative": "The surrounding chlorine-gas exposure makes respiratory trouble plausible, but it does not license replacing the idiom meaning still alive with a specific symptom. The later survivor counts retain the deaths, so the defect is this request’s meaning.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH04-003",
+      "kind": "WH",
+      "description": "An apparently extraordinary mission becomes established knowledge.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              202,
+              202
+            ],
+            "MG": [
+              202,
+              202
+            ],
+            "UP": [
+              202,
+              202
+            ]
+          },
+          "japanese": "その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる…」",
+          "japanesePC": "「.........途方もない規模の、遠大な作戦か何かだったのかもしれぬ。......その全容はわからぬが、その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる...。」",
+          "japanesePS3": "その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる…」",
+          "WH": "\".........It may have been part of some grand, outrageous strategy.  ......I don't know all the details, but shortly after, I learned that this submarine's mission was far from a minor one...\"",
+          "MG": "but shortly after, I learned that this submarine's mission was far from a minor one...\"",
+          "UP": "but shortly after, I learned that this submarine's mission was far from a minor one...\"",
+          "note": "Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_4-L0200",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0200"
+            ],
+            "MG": [
+              "umi7_4-L0200"
+            ],
+            "UP": [
+              "umi7_4-L0200"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………途方もない規模の、遠大な作戦か何かだったのかもしれぬ。……その全容はわからぬが、その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる…」",
+              "translation": "\"......It may have been part of some grand, outrageous strategy. ...I don't know all the details, but shortly after, I learned that this submarine's mission was far from a minor one...\" "
+            },
+            "UP": {
+              "japanese": "「………途方もない規模の、遠大な作戦か何かだったのかもしれぬ。……その全容はわからぬが、その潜水艦が只ならぬ任務を帯びていたらしいことは、後に理解することとなる…」",
+              "translation": "\".........It may have been part of some grand, outrageous strategy. ......I don't know all the details, but shortly after, I learned that this submarine's mission was far from a minor one...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0200"
+            ],
+            "MG": [
+              "umi7_4-L0200"
+            ],
+            "UP": [
+              "umi7_4-L0200"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo does not know the full operation, but later comes to understand that the submarine apparently carried an extraordinary mission. The Japanese says later, without defining a short interval.",
+      "alternative": "I learned that presents the mission’s importance as established rather than retaining らしい. Shortly after additionally narrows 後に. The following passage still leaves the actual mission unknown; that qualification is preserved and is not another defect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH04-004",
+      "kind": "WH",
+      "description": "A qualified correction becomes an additional definite plan.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              351,
+              353
+            ],
+            "MG": [
+              351,
+              353
+            ],
+            "UP": [
+              351,
+              353
+            ]
+          },
+          "japanese": "大切な日まで、何年も隠しているつもりだったみたい。\nいえ、それと一緒に隠れているつもりだったみたい。\n私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから』",
+          "japanesePC": "いえ、それと一緒に隠れているつもりだったみたい。私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから。』",
+          "japanesePS3": "大切な日まで、何年も隠しているつもりだったみたい。\nいえ、それと一緒に隠れているつもりだったみたい。\n私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから』",
+          "WH": "Oh, and he planned to hide himself along with it.  I know because he apologized to me for sending us to live a long time on foreign soil.>\"",
+          "MG": "and he planned to hide it for many years until the right moment.\nOh, and he planned to hide himself along with it.\nI know because he apologized to me for sending us to live a long time on foreign soil.>\"",
+          "UP": "and he planned to hide it for many years until the right moment.\nOh, and he planned for us to remain hidden along with it.\nI know because he apologized to me that I might be spending a very long time on foreign soil.>\"",
+          "note": "Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi7_4-L0349",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0349"
+            ],
+            "MG": [
+              "umi7_4-L0349"
+            ],
+            "UP": [
+              "umi7_4-L0349"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "『わからないわ。……“それ”はとても大切なもので、大切な日まで、何年も隠しているつもりだったみたい。いえ、それと一緒に隠れているつもりだったみたい。私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから』",
+              "translation": "\"<I don't know. ...\"It\" was something very important, and he planned to hide it for many years until the right moment. Oh, and he planned to hide himself along with it. I know because he apologized to me for sending us to live a long time on foreign soil.>\" "
+            },
+            "UP": {
+              "japanese": "『わからないわ。……“それ”はとても大切なもので、大切な日まで、何年も隠しているつもりだったみたい。いえ、それと一緒に隠れているつもりだったみたい。私に、異国の地で長い時間を過ごすことになるかもしれないと謝っていたから』",
+              "translation": "\"<I don't know. ......‘It’ was something very important, and he planned to hide it for many years until the right moment. Oh, and he planned for us to remain hidden along with it. I know because he apologized to me that I might be spending a very long time on foreign soil.>\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0349"
+            ],
+            "MG": [
+              "umi7_4-L0349"
+            ],
+            "UP": [
+              "umi7_4-L0349"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bice corrects herself: no, it seems her father meant to remain in hiding alongside the cargo. His apology supports that inference.",
+      "alternative": "Oh, and adds a further plan instead of correcting the preceding formulation. He planned and I know also remove the apparent/inferred status of つもりだったみたい. Her earlier ignorance of the complete mission is retained.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH04-005",
+      "kind": "WH",
+      "description": "Wishing the Italians would ask for help becomes mutual trust.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.relationship_power",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              361,
+              362
+            ],
+            "MG": [
+              361,
+              362
+            ],
+            "UP": [
+              361,
+              362
+            ]
+          },
+          "japanese": "むしろ、同盟国なんだ。\n頼ってくれればいいのに』",
+          "japanesePC": "『それが何だったにせよ、それはイタリア軍の任務さ。俺らには関係ないね。むしろ、同盟国なんだ。頼ってくれればいいのに。』",
+          "japanesePS3": "むしろ、同盟国なんだ。\n頼ってくれればいいのに』",
+          "WH": "\"<Whatever it is, that's a mission for the Italian military.  It has nothing to do with us.  After all, we are allies.  We should be able to trust each other.>\"",
+          "MG": "After all, we're allies.\nWe should be able to trust each other.>\"",
+          "UP": "In fact, given that we're allies,\nwe'd be willing to help if only they asked.>\"",
+          "note": "Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_4-L0359",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0359"
+            ],
+            "MG": [
+              "umi7_4-L0359"
+            ],
+            "UP": [
+              "umi7_4-L0359"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "『それが何だったにせよ、それはイタリア軍の任務さ。俺らには関係ないね。むしろ、同盟国なんだ。頼ってくれればいいのに』",
+              "translation": "\"<Whatever it is, that's a mission for the Italian military. It has nothing to do with us. After all, we're allies. We should be able to trust each other.>\" "
+            },
+            "UP": {
+              "japanese": "『それが何だったにせよ、それはイタリア軍の任務さ。俺らには関係ないね。むしろ、同盟国なんだ。頼ってくれればいいのに』",
+              "translation": "\"<Whatever it is, that's a mission for the Italian military. It has nothing to do with us. In fact, given that we're allies, we'd be willing to help if only they asked.>\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0359"
+            ],
+            "MG": [
+              "umi7_4-L0359"
+            ],
+            "UP": [
+              "umi7_4-L0359"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo wishes the Italians would rely on them or turn to them for help, since they are allies.",
+      "alternative": "We should be able to trust each other retains the alliance rationale and fits surrounding distrust, but substitutes reciprocal trust for the explicit wish that the Italians seek their assistance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH04-006",
+      "kind": "WH",
+      "description": "Risk of losing transportability becomes transport already impossible.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "linguistic.logical_relation",
+        "mystery.physical_constraint",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              448,
+              448
+            ],
+            "MG": [
+              448,
+              448
+            ],
+            "UP": [
+              448,
+              448
+            ]
+          },
+          "japanese": "このままでは黄金が完全に輸送不能になってしまうことが明白となり、",
+          "japanesePC": "このままでは黄金が完全に輸送不能になってしまうことが明白となり、............彼らは荷揚げする決断をしたらしい。",
+          "japanesePS3": "このままでは黄金が完全に輸送不能になってしまうことが明白となり、",
+          "WH": "Now that it was clear that transporting the gold had become completely impossible, ......they had apparently decided on unloading it.",
+          "MG": "Now that transporting the gold away had clearly become an impossible goal,",
+          "UP": "It was clear that unless action was taken, the gold would soon become completely impossible to transport.",
+          "note": "Continuous three-witness source-first review with boundary context in durable reports; parent directly verified PC-specific MG chant25 and Mussolini83/214 against changed PS3 wording. MG24–25/44–45/98–99/335–337 clause reordering checked. Naval rank terminology and contextual mission/transport phrasing held conservatively. Inherited rotten-soul32 and arrival71 remain pending. Historical character claims compared to source, not independently certified.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_4-L0435",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0435"
+            ],
+            "MG": [
+              "umi7_4-L0435"
+            ],
+            "UP": [
+              "umi7_4-L0435"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "彼らがそれを、どこへ運び込もうとしていたのかはわからない。同盟国の日本へ運び込もうとしたのかもしれないし、……あるいはどこかの辺境へ、それを隠しに行く途中だったのかもしれない。何かの作戦？　陰謀？　横領？　極秘輸送？あまりの桁違いの黄金に、あらゆる邪推が交錯するが、真実など何もわかりはしない。その莫大な黄金の総量は、１０ｔ。\nそれだけが、今、理解できる唯一の真実だった……。彼らはそれを極力、我々には見せたくないようだった。\nしかし、潜水艦が航行不能に陥り、さらに浸水も続いていたらしい。六軒島の設備は極めて未熟な状態で放置されており、修理能力はまったくない。また、荷揚げは出来ても、沈没して着底した潜水艦を引き上げることなど到底出来ない。このままでは黄金が完全に輸送不能になってしまうことが明白となり、…………彼らは荷揚げする決断をしたらしい。もちろん彼らは、この黄金が何であるかは一切説明しない。\nただ、荷揚げしてほしいと依頼してきただけだ……。",
+              "translation": "I don't know where they were planning to take it. They might've been trying to sneak it into Japan, one of their allies, ...or they might've been on their way to hide it in some remote area. Was it some sort of strategy? A conspiracy? Embezzlement? Top-secret transportation of wealth? This incomprehensible amount of gold led to all sorts of dark suspicions, but we didn't know anything about the truth. All told, the gold weighed an incredible 10 tons. That was the only truth we could wrap our minds around at the moment... They had strongly resisted showing this to us. However, the submarine could no longer make sea, and it was apparently continuing to take in water bit by bit. Rokkenjima had been outfitted in an extremely slipshod way, so we had no means of repairing it. Also, though we could unload the sub, there was no way we'd be able to lift it up again once it had filled with water and sunk to the bottom. Now that transporting the gold away had clearly become an impossible goal, ...they had apparently decided on unloading it. Of course, they made no effort to explain the reason behind all this gold. They just asked us to help them take it out... "
+            },
+            "UP": {
+              "japanese": "彼らがそれを、どこへ運び込もうとしていたのかはわからない。同盟国の日本へ運び込もうとしたのかもしれないし、……あるいはどこかの辺境へ、それを隠しに行く途中だったのかもしれない。何かの作戦？　陰謀？　横領？　極秘輸送？あまりの桁違いの黄金に、あらゆる邪推が交錯するが、真実など何もわかりはしない。その莫大な黄金の総量は、１０ｔ。\nそれだけが、今、理解できる唯一の真実だった……。彼らはそれを極力、我々には見せたくないようだった。\nしかし、潜水艦が航行不能に陥り、さらに浸水も続いていたらしい。六軒島の設備は極めて未熟な状態で放置されており、修理能力はまったくない。また、荷揚げは出来ても、沈没して着底した潜水艦を引き上げることなど到底出来ない。このままでは黄金が完全に輸送不能になってしまうことが明白となり、…………彼らは荷揚げする決断をしたらしい。もちろん彼らは、この黄金が何であるかは一切説明しない。\nただ、荷揚げしてほしいと依頼してきただけだ……。",
+              "translation": "I don't know where they were planning to take it. They might have been trying to sneak it into Japan, one of their allies, ......or they might have been on their way to hide it in some remote area. Was it some sort of strategy? A conspiracy? Embezzlement? Top‐secret transportation of wealth? This incomprehensible amount of gold led to all sorts of dark suspicions, but we didn't know anything about the truth. All told, the gold weighed an incredible ten tons.\nThat was the only truth we could wrap our minds around at the moment...... They had strongly resisted showing this to us.\nHowever, the submarine could no longer make sea, and it was apparently continuing to take in water bit by bit. Rokkenjima had been outfitted in an extremely slipshod way, so we had no means of repairing it. Also, while we could unload the sub, there was no way we could lift it up again once it had filled with water and sunk to the bottom. It was clear that unless action was taken, the gold would soon become completely impossible to transport. ............And so, they had made the decision to unload it. Of course, they made no effort to explain the reason for all this gold.\nThey just asked us to help them take it out......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0435"
+            ],
+            "MG": [
+              "umi7_4-L0435"
+            ],
+            "UP": [
+              "umi7_4-L0435"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "If things continue as they are, the gold will become completely impossible to transport: the damaged submarine will sink, and the island cannot raise it. They apparently decide to unload the gold to avoid that outcome.",
+      "alternative": "Transporting the gold had become completely impossible removes このままでは and the prospective なってしまう. The preceding text establishes an inability to raise a sunken submarine, while the gold is currently being unloaded by winch. Later difficulty secretly shipping it off-island is a separate constraint.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH04-007",
+      "kind": "WH",
+      "description": "WH changes the charge that Kinzo’s soul is rotten into a claim that he has lost his nerve.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              32,
+              32
+            ],
+            "MG": [
+              32,
+              32
+            ],
+            "UP": [
+              32,
+              32
+            ]
+          },
+          "japanese": "右代宮ッ、貴様の魂は腐りきっておるわ！！",
+          "japanesePC": "「その目つきだ！！　右代宮ッ、貴様の魂は腐りきっておるわ！！　魚だ。貴様の目は死んだ魚の目だ！！」",
+          "japanesePS3": "右代宮ッ、貴様の魂は腐りきっておるわ！！",
+          "WH": "\"What's that look on your face?!  Ushiromiya, you've lost your nerve down to your very soul!!  You're a fish, that's what you are.  You've got the eyes of a dead fish!!\"",
+          "MG": "Ushiromiya, you've lost your nerve down to your very soul!!",
+          "UP": "Ushiromiya, your spirit is rotten to the core!!",
+          "note": "Original PC and coherent paired context verified under ep07-ch04-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_4-L0031",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0031"
+            ],
+            "MG": [
+              "umi7_4-L0031"
+            ],
+            "UP": [
+              "umi7_4-L0031"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「その目つきだ！！　右代宮ッ、貴様の魂は腐りきっておるわ！！　魚だ。貴様の目は死んだ魚の目だ！！」",
+              "translation": "\"What's that look on your face?! Ushiromiya, you've lost your nerve down to your very soul!! You're a fish, that's what you are. You've got the eyes of a dead fish!!\" "
+            },
+            "UP": {
+              "japanese": "「その目つきだ！！　右代宮ッ、貴様の魂は腐りきっておるわ！！　魚だ。貴様の目は死んだ魚の目だ！！」",
+              "translation": "\"There you go again, that look in your eyes! Ushiromiya, your spirit is rotten to the core!! You're a fish, that's what you are. You've got the eyes of a dead fish!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0031"
+            ],
+            "MG": [
+              "umi7_4-L0031"
+            ],
+            "UP": [
+              "umi7_4-L0031"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "腐りきっている charges complete spiritual rot. MG retains lost nerve; UP restores rotten to the core.",
+      "alternative": "The officer also discusses fear, but this explicit charge concerns rot rather than bravery.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH04-008",
+      "kind": "WH",
+      "description": "WH changes the indicated upcoming visit into a guest having already arrived.",
+      "categories": [
+        "linguistic.tense_aspect"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              71,
+              71
+            ],
+            "MG": [
+              71,
+              71
+            ],
+            "UP": [
+              71,
+              71
+            ]
+          },
+          "japanese": "中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。",
+          "japanesePC": "中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。",
+          "japanesePS3": "中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。",
+          "WH": "His question made it clear that some guest had arrived on Rokkenjima who would need an interpreter.",
+          "MG": "His question made it clear that some guest had arrived on Rokkenjima who would need an interpreter.",
+          "UP": "His question made it clear that someone who would need an interpreter would be visiting Rokkenjima.",
+          "note": "Original PC and coherent paired context verified under ep07-ch04-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_4-L0070",
+          "readerRefs": {
+            "WH": [
+              "umi7_4-L0070"
+            ],
+            "MG": [
+              "umi7_4-L0070"
+            ],
+            "UP": [
+              "umi7_4-L0070"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "この、上層部にさえ忘れ去られた無人島の岩窟で、どうして通訳が必要になるというのか。中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。",
+              "translation": "Why on earth would he need an interpreter in a cave on an uninhabited island that even our superiors forgot about? His question made it clear that some guest had arrived on Rokkenjima who would need an interpreter. "
+            },
+            "UP": {
+              "japanese": "この、上層部にさえ忘れ去られた無人島の岩窟で、どうして通訳が必要になるというのか。中尉のその質問は、この六軒島に、通訳の必要のある客人が訪れることを示していた。",
+              "translation": "Why on Earth would he need an interpreter in a cave on an uninhabited island that even our superiors have forgotten? His question made it clear that someone who would need an interpreter would be visiting Rokkenjima."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_4-L0070"
+            ],
+            "MG": [
+              "umi7_4-L0070"
+            ],
+            "UP": [
+              "umi7_4-L0070"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "訪れる is prospective here: the interpreter is appointed before the evening submarine entrance74–76. MG had arrived completes the visit; UP would be visiting preserves it.",
+      "alternative": "The nonpast can sometimes describe a generic event, but the unfolding appointment and later approach establish anticipation here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-100",
+      "kind": "PC",
+      "description": "PC repeats anti-British/American chant; PS3 generic loud drills. MG carries over chant, UP follows PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              25,
+              25
+            ],
+            "MG": [
+              25,
+              25
+            ],
+            "UP": [
+              25,
+              25
+            ]
+          },
+          "japanese": "彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。",
+          "japanesePC": "鬼畜米英と連呼させ、教練と称して竹槍を振り回させるのも、彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。",
+          "japanesePS3": "彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。",
+          "WH": "Anger is the wine they used to paralyze their fear.  It made them chant 'damn the British, damn the Americans' as they swung their bamboo spears around and called it 'drilling'.",
+          "MG": "It made them chant \"damn the British, damn the Americans\" as they swung their bamboo spears around and called it \"drilling\".",
+          "UP": "Drinking the wine called anger was simply what they needed to do to numb their fear.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_4-L0017",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_4-L0017"
+            ],
+            "UP": [
+              "umi7_4-L0017"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "また、殴られる。……キャンキャン喚くなってんだ。臆病な犬が。彼らがわけのわからない怒りに身を任せているのは、そうしなければ彼らが、恐怖を忘れられないからだ。絶望的な戦局は、もはや気合や精神でどうにかなるものではない。不可避な絶望に立ちはだかられた時、人はその恐怖から逃れようと、様々な感情に逃れる。人間的に未熟である、若き軍人の彼らにとって、怒りという感情は非常に都合がよかったのだ。声高々に教練と称して竹槍を振り回させるのも、彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。酒は、飲めば飲むほどに、さらに酔うためにより多くを必要とする。彼らの無意味な堆積する怒りは、日々、収まることを知らなかった。私は、死を恐れない。だから、怒りなどというヤケ酒を必要としない。だからこそ一層、彼らの臆病さがくっきりと理解できたのだ。",
+              "translation": "I got hit again. ...Could you please quit your whining already? Filthy cowards. They let themselves be controlled by this inexplicable anger because it's the only way to distract themselves from their own fear. Heart and spirit aren't of any use when the battle becomes hopeless. When trapped by an insurmountable hopelessness, humans tend to rely on several other emotions to escape their fear. For these young, inexperienced soldiers, anger was a very convenient emotion to fall back upon. Anger is the wine they used to paralyze their fear. It made them chant \"damn the British, damn the Americans\" as they swung their bamboo spears around and called it \"drilling\". The more wine you drink, the more you need to drink to get drunk. Their useless anger continued to pile up, day after day, without pause. I...did not fear death. So, I had no need of the wine called anger. This made their cowardice all the more apparent to me. "
+            },
+            "UP": {
+              "japanese": "また、殴られる。……キャンキャン喚くなってんだ。臆病な犬が。彼らがわけのわからない怒りに身を任せているのは、そうしなければ彼らが、恐怖を忘れられないからだ。絶望的な戦局は、もはや気合や精神でどうにかなるものではない。不可避な絶望に立ちはだかられた時、人はその恐怖から逃れようと、様々な感情に逃れる。人間的に未熟である、若き軍人の彼らにとって、怒りという感情は非常に都合がよかったのだ。声高々に教練と称して竹槍を振り回させるのも、彼らが恐怖を麻痺させるために必要な、怒りという名の酒なのだ。酒は、飲めば飲むほどに、さらに酔うためにより多くを必要とする。彼らの無意味な堆積する怒りは、日々、収まることを知らなかった。私は、死を恐れない。だから、怒りなどというヤケ酒を必要としない。だからこそ一層、彼らの臆病さがくっきりと理解できたのだ。",
+              "translation": "They hit me again. ......Could you please quit your whining already? Filthy cowards. They give themselves over to this inexplicable anger because it's the only way to distract themselves from their own fear. Heart and spirit aren't any use when the battle becomes hopeless. When trapped by an insurmountable hopelessness, humans rely on several other emotions to escape their fear. These young, inexperienced soldiers found anger to be a very convenient emotion to fall back upon. They did \"drills\" by shouting in loud voices and swinging their bamboo spears around. Drinking the wine called anger was simply what they needed to do to numb their fear. The more one drinks wine, the more one needs to drink to get drunk. Their useless anger continued to pile up, day after day, without pause. As for me, I did not fear death. So, I had no need of the wine called anger. This made their cowardice all the more apparent to me."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_4-L0017"
+            ],
+            "UP": [
+              "umi7_4-L0017"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC repeats anti-British/American chant; PS3 generic loud drills. MG carries over chant, UP follows PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-101",
+      "kind": "PC",
+      "description": "PC names Mussolini establishing RSI; PS3 specifies unnamed pro-German regime. MG retains name, UP follows PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              83,
+              83
+            ],
+            "MG": [
+              83,
+              83
+            ],
+            "UP": [
+              83,
+              83
+            ]
+          },
+          "japanese": "……だが、それを受け入れない者たちは親独政権ＲＳＩを樹立させ、戦争を続けたのだ」",
+          "japanesePC": "「降伏したのはイタリア王国だ。......だが、それを受け入れない者たちはムッソリーニを擁立してＲＳＩを樹立させ、戦争を続けたのだ。」",
+          "japanesePS3": "……だが、それを受け入れない者たちは親独政権ＲＳＩを樹立させ、戦争を続けたのだ」",
+          "WH": "\"It was the Kingdom of Italy that surrendered.  ......However, the ones who couldn't accept that surrender joined Mussolini and formed the RSI, so that they could continue fighting.\"",
+          "MG": "...However, those who couldn't accept that surrender joined Mussolini and formed the RSI, so that they could continue fighting.\"",
+          "UP": "......However, the ones who couldn't accept that surrender formed a pro‐German government called the RSI so that they could continue fighting.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_4-L0082",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_4-L0082"
+            ],
+            "UP": [
+              "umi7_4-L0082"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「降伏したのはイタリア王国だ。……だが、それを受け入れない者たちは親独政権ＲＳＩを樹立させ、戦争を続けたのだ」",
+              "translation": "\"It was the Kingdom of Italy that surrendered. ...However, those who couldn't accept that surrender joined Mussolini and formed the RSI, so that they could continue fighting.\" "
+            },
+            "UP": {
+              "japanese": "「降伏したのはイタリア王国だ。……だが、それを受け入れない者たちは親独政権ＲＳＩを樹立させ、戦争を続けたのだ」",
+              "translation": "\"It was the Kingdom of Italy that surrendered. ......However, the ones who couldn't accept that surrender formed a pro‐German government called the RSI so that they could continue fighting.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_4-L0082"
+            ],
+            "UP": [
+              "umi7_4-L0082"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC names Mussolini establishing RSI; PS3 specifies unnamed pro-German regime. MG retains name, UP follows PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-102",
+      "kind": "PC",
+      "description": "PC identifies Mussolini’s aide; PS3 generic prime minister’s aide. MG retains name, UP follows PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_4",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              214,
+              214
+            ],
+            "MG": [
+              214,
+              214
+            ],
+            "UP": [
+              214,
+              214
+            ]
+          },
+          "japanese": "首相側近ではないかと思われた。",
+          "japanesePC": "どうも、ベアトリーチェの父親は、ＲＳＩの相当の高官らしく、ムッソリーニの側近ではないかと思われた。",
+          "japanesePS3": "首相側近ではないかと思われた。",
+          "WH": "Apparently, Beatrice's father was extremely high up in the RSI hierarchy, and it was thought that he might have worked alongside Mussolini himself.",
+          "MG": "and it was thought that he might have worked alongside Mussolini himself.",
+          "UP": "and it was thought that he might have worked alongside the Italian Prime Minister himself.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_4-L0203",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_4-L0203"
+            ],
+            "UP": [
+              "umi7_4-L0203"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "出航時には６０人近くの搭乗員がいたという。しかし、ベアトリーチェを含め、ほんの１０人ほどしか、生き残れなかった。どうやら近海で機雷か何かに接触し、艦に重大なダメージを受けたらしい。かなり激しい浸水を受け、電池がやられて塩素ガスを発生させてしまったとのことだった。彼らの潜水艦は、もう完全に航行不能に陥ってしまい、ドックに浮かぶ巨大な鉄の塊に成り果てていた。上層部は、この艦が“何か重要なもの”を運んでいるらしいので、それを確認するようにと我々に命じていた。彼らを私とベアトリーチェによる二重通訳で尋問した結果、その重要な何かとは、彼女の父親自身ではないかという結論に至った。どうも、ベアトリーチェの父親は、ＲＳＩの相当の高官らしく、首相側近ではないかと思われた。何かの密命を帯びての大航海らしいが、本人も艦長以下将校たちも皆、死んでしまった今、その任務と日本を目指した理由は闇の中だった。そして、それを我々に調べさせようとする以上、上層部自身も、それを知り得ないということだ。艦も故障し、任務も不明で、要人である高官も死亡。\nそして日本側も、彼らの目的を何も知らない。……イタリアから遥々、命を賭けての大航海の果てにあったものは、……何の達成もない、無意味な到着だったのだ…。",
+              "translation": "They said that there had been about 60 of them at the time of their departure. However, only about 10 of them, including Beatrice, had survived. Their submarine had apparently hit a mine or something in the nearby waters and sustained a great deal of damage. They told us that it had flooded rapidly with water, which had taken out the batteries and released a large amount of chlorine gas. Their sub had become completely incapable of continuing further, nothing but a massive lump of metal floating by the dock. Since the sub seemed to be carrying \"something of immense value\", the higher-ups ordered us to investigate. After questioning the Italians, with Beatrice and me acting as double interpreters, we concluded that this thing of immense value must have been her father himself. Apparently, Beatrice's father was extremely high up in the RSI hierarchy, and it was thought that he might have worked alongside Mussolini himself. Though their massive voyage had apparently been part of some top-secret mission, now that the man himself and all of the commissioned officers had died, their reason for coming to Japan remained a mystery. And, our higher-ups were telling us to investigate, which meant that even they didn't know what it was. Their ship had broken down, their mission was unknown, and the high official they had been carrying was dead. And even the Japanese government didn't know why they were here. ...The Italians' great and perilous voyage... had come to a meaningless and utterly fruitless end... "
+            },
+            "UP": {
+              "japanese": "出航時には６０人近くの搭乗員がいたという。しかし、ベアトリーチェを含め、ほんの１０人ほどしか、生き残れなかった。どうやら近海で機雷か何かに接触し、艦に重大なダメージを受けたらしい。かなり激しい浸水を受け、電池がやられて塩素ガスを発生させてしまったとのことだった。彼らの潜水艦は、もう完全に航行不能に陥ってしまい、ドックに浮かぶ巨大な鉄の塊に成り果てていた。上層部は、この艦が“何か重要なもの”を運んでいるらしいので、それを確認するようにと我々に命じていた。彼らを私とベアトリーチェによる二重通訳で尋問した結果、その重要な何かとは、彼女の父親自身ではないかという結論に至った。どうも、ベアトリーチェの父親は、ＲＳＩの相当の高官らしく、首相側近ではないかと思われた。何かの密命を帯びての大航海らしいが、本人も艦長以下将校たちも皆、死んでしまった今、その任務と日本を目指した理由は闇の中だった。そして、それを我々に調べさせようとする以上、上層部自身も、それを知り得ないということだ。艦も故障し、任務も不明で、要人である高官も死亡。\nそして日本側も、彼らの目的を何も知らない。……イタリアから遥々、命を賭けての大航海の果てにあったものは、……何の達成もない、無意味な到着だったのだ…。",
+              "translation": "They said that there had been about sixty of them at the time of their departure. However, only about ten of them, including Beatrice, had survived. Their submarine had apparently hit a mine or something in the nearby waters and sustained a great deal of damage. They told us that it had flooded rapidly with water, which had taken out the batteries and released a large amount of chlorine gas. Their sub had become completely incapable of continuing further, nothing but a massive lump of metal floating in the dock. Since the sub seemed to be carrying \"something of immense value\", the higher‐ups ordered us to investigate. After questioning the Italians, with Beatrice and me acting as double interpreters, we concluded that this thing of immense value must have been her father himself. Apparently, Beatrice's father was extremely high up in the RSI hierarchy, and it was thought that he might have worked alongside the Italian Prime Minister himself. Though their massive voyage had apparently been part of some top‐secret mission, now that the man himself and all of the commissioned officers had died, their reason for coming to Japan remained a mystery. And, since the higher‐ups were telling us to investigate, that meant that even they didn't know what it was. Their ship had broken down, their mission was unknown, and the high official they had been carrying was dead.\nAnd even the Japanese government didn't know why they were here. ......The Italians' great and perilous voyage... ...had come to a meaningless and utterly fruitless end..."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_4-L0203"
+            ],
+            "UP": [
+              "umi7_4-L0203"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC identifies Mussolini’s aide; PS3 generic prime minister’s aide. MG retains name, UP follows PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH04-001": {
+      "umi7_4-L0058": {
+        "WH": [
+          "held a bit of a grudge against me"
+        ],
+        "MG": [
+          "held a bit of a grudge against me"
+        ],
+        "UP": [
+          "held a bit of a grudge against me"
+        ]
+      }
+    },
+    "WH-EP07-CH04-002": {
+      "umi7_4-L0150": {
+        "WH": [
+          "Some of us are still having trouble breathing"
+        ],
+        "MG": [
+          "Some of us are still having trouble breathing"
+        ],
+        "UP": [
+          "Some of us are still having trouble breathing"
+        ]
+      }
+    },
+    "WH-EP07-CH04-003": {
+      "umi7_4-L0200": {
+        "WH": [
+          "shortly after, I learned that this submarine's mission was far from a minor one"
+        ],
+        "MG": [
+          "shortly after, I learned that this submarine's mission was far from a minor one"
+        ],
+        "UP": [
+          "shortly after, I learned that this submarine's mission was far from a minor one"
+        ]
+      }
+    },
+    "WH-EP07-CH04-004": {
+      "umi7_4-L0349": {
+        "WH": [
+          "Oh, and he planned to hide himself along with it"
+        ],
+        "MG": [
+          "Oh, and he planned to hide himself along with it"
+        ],
+        "UP": [
+          "Oh, and he planned for us to remain hidden along with it"
+        ]
+      }
+    },
+    "WH-EP07-CH04-005": {
+      "umi7_4-L0359": {
+        "WH": [
+          "We should be able to trust each other"
+        ],
+        "MG": [
+          "We should be able to trust each other"
+        ]
+      }
+    },
+    "WH-EP07-CH04-006": {
+      "umi7_4-L0435": {
+        "WH": [
+          "transporting the gold had become completely impossible"
+        ],
+        "MG": [
+          "transporting the gold away had clearly become an impossible goal"
+        ]
+      }
+    },
+    "WH-EP07-CH04-007": {
+      "umi7_4-L0031": {
+        "WH": [
+          "lost your nerve down to your very soul"
+        ],
+        "MG": [
+          "lost your nerve down to your very soul"
+        ]
+      }
+    },
+    "WH-EP07-CH04-008": {
+      "umi7_4-L0070": {
+        "WH": [
+          "had arrived"
+        ],
+        "MG": [
+          "had arrived"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

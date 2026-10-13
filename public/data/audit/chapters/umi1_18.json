@@ -1,1 +1,2092 @@
-{"findings":[{"id":"WH-EP01-TEA-001","kind":"WH","description":"あったのでしょうか becomes I am sure things would have ended differently, turning an open counterfactual question into confidence.","categories":["linguistic.overinterpretation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[11,12],"MG":[11,12],"UP":[11,12]},"japanese":"「………そうですね。\nちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」","japanesePC":"「………そうですね。ちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか。」","japanesePS3":"「………そうですね。\nちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」","WH":"\".........That's right.  If we had actually tried to solve the riddle, I'm sure things would have ended differently.\"","MG":"\"...That's right.\nIf we had actually tried to solve the riddle, maybe things would have ended differently.\"","UP":"\".........Yes, that's true.\nIf we had actually tried to solve the riddle, I'm sure things would have ended differently.\"","note":"MG maybe preserves open counterfactual; UP I’m sure retains inherited certainty.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi1_18-L0011","readerRefs":{"WH":["umi1_18-L0011"],"MG":["umi1_18-L0011"],"UP":["umi1_18-L0011"]}}],"sourceReading":"Shannon asks whether properly tackling the epitaph might have produced another ending. Battler then questions that possibility.","alternative":"The following I wonder about that still challenges Shannon, but does not restore her original uncertainty.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-002","kind":"WH","description":"紗音が ... 頬を撫でて見せる is rendered seeing him stroke Shannon's cheek.","categories":["linguistic.wrong_subject","character.agency_responsibility","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[66,69],"MG":[66,69],"UP":[66,69]},"japanese":"「………まぁその、…痛かったわけじゃないですし…。\nそれにほら。\n今はこうして全然平気ですから、へっちゃらです」\n紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。","japanesePC":"紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。","japanesePS3":"「………まぁその、…痛かったわけじゃないですし…。\nそれにほら。\n今はこうして全然平気ですから、へっちゃらです」\n紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。","WH":"After seeing him stroke Shannon's cheek, which had been crushed during the story, everyone laughed out loud, smiling.","MG":"\"...Umm, well, ...it's not like it hurt...\nAnyway,\nright now, I'm perfectly fine, so don't worry.\"\nAfter seeing him stroke Shannon's cheek, which had been crushed during the story, everyone laughed out loud, smiling.","UP":"\".........Umm, well, ...it's not like it hurt...\nBesides,\nas you can see, right now, I'm perfectly fine, so don't worry.\"\nShannon proved this by stroking her cheek which had been crushed during the story, and everyone laughed out loud, smiling.","note":"MG seeing him stroke Shannon’s cheek assigns action to another man; UP restores Shannon herself stroking her cheek.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0066","readerRefs":{"WH":["umi1_18-L0069"],"MG":["umi1_18-L0066","umi1_18-L0069"],"UP":["umi1_18-L0066","umi1_18-L0069"]}}],"sourceReading":"Shannon demonstrates that she is fine by stroking the cheek that was crushed in the story, prompting everyone to laugh warmly.","alternative":"George is present and his sprite changes, but the Japanese explicitly names Shannon as the subject and her preceding reassurance motivates the gesture.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-003","kind":"WH","description":"Repeated あるいは separates going out through the window and falling; English joins went out the window, fell down with and.","categories":["linguistic.logical_relation","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[158,161],"MG":[158,161],"UP":[158,161]},"japanese":"「その話は劇中でも出ただろ。\n祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。\nあるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。\n別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」","japanesePC":"「その話は劇中でも出ただろ。祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。あるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」","japanesePS3":"「その話は劇中でも出ただろ。\n祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。\nあるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。\n別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」","WH":"\"We talked about that during the story, too.  It's not impossible that Grandfather used some trick to fool the receipt.  It's also possible that he went out the window, fell down, and Natsuhi oba-san locked the window from the inside.  I could think of a bunch of tricks you could use without relying on magic...you see?\"","MG":"\"We talked about that during the story, too.\nIt's not impossible that Grandfather used some trick to fool the receipt.\nIt's also possible that he went out the window, fell down, and Aunt Natsuhi locked the window from the inside.\nI could think of a bunch of tricks you could use without relying on magic...\"","UP":"\"We talked about that during the story, too.\nIt's not impossible that Grandfather used some trick to fool the receipt.\nIt's also possible that he went out the window, or fell out the window, and Aunt Natsuhi locked it from the inside.\nI could think of a bunch of tricks you could use without relying on magic...you see?\"","note":"MG chains exit and falling into one sequence; UP restores alternatives with or.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0158","readerRefs":{"WH":["umi1_18-L0158"],"MG":["umi1_18-L0158"],"UP":["umi1_18-L0158"]}}],"sourceReading":"Kinzo could have gone out through the window or fallen, followed by Natsuhi locking it from inside.","alternative":"A fall may naturally follow an exit, but the Japanese offers alternatives rather than requiring both events.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-004","kind":"WH","description":"非常に苦しい話 describes the explanatory proposal as strained, but is rendered really painful to talk about it.","categories":["linguistic.idiom_calque","character.voice_state","mystery.argument_reconstruction"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[173,174],"MG":[173,174],"UP":[173,174]},"japanese":"「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」","japanesePC":"……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。…いや、あるいは、その隙間から、何かを出したとか…？","japanesePS3":"「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」","WH":"......It's really painful to talk about it, but it is possible that some device was used through that crack.  ...Like maybe they stuck something through the crack...?","MG":"...I know this is a stretch, but it's possible some device was used through that crack.\n...Like maybe they stuck something through it...?\"","UP":"\"......This is extremely far‐fetched, but it is possible that some device was used through that crack.\n...Or maybe they brought something out through the crack...?\"","note":"Both restore strain of proposal: stretch/far-fetched, rather than painful to talk about.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_18-L0173","readerRefs":{"WH":["umi1_18-L0173"],"MG":["umi1_18-L0173"],"UP":["umi1_18-L0173"]}}],"sourceReading":"Battler concedes that his device-through-the-gap explanation is very far-fetched.","alternative":"The murders are distressing, but this phrase directly qualifies his tentative logical explanation, not difficulty discussing the deaths.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-005","kind":"WH","description":"密室トリックなんておよそやり尽くされてる is replaced by probably some closed room trick they could have used.","categories":["linguistic.omission","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[175,177],"MG":[175,177],"UP":[175,177]},"japanese":"「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。\n………だが、密室トリックなんておよそやり尽くされてるんだ。\nそこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」","japanesePC":"……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。………だが、密室トリックなんておよそやり尽くされてるんだ。そこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ。","japanesePS3":"「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。\n………だが、密室トリックなんておよそやり尽くされてるんだ。\nそこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」","WH":"......Hmmmm, well, even though the chain is incredibly simple, it's a big factor in setting up the closed room... .........However, there's probably some closed room trick they could have used.  If you bought some closed room mystery novels from the bookstore, you could probably find some trick that would fit perfectly.","MG":"\"...Hmmmm, well, even though a door chain is incredibly simple, it's a big factor in setting up a closed room...\n...Still, there's probably some closed room trick they could've used.\nIf you bought some closed room mystery novels from the bookstore, you could probably find some trick that'd fit perfectly.","UP":"\"......Hmmmm, well, even though chains are incredibly simple, they're a big factor in constructing a locked room...\n.........But authors have done almost every possible locked‐room trick there is to do by now.\nIf you bought just a few locked‐room mysteries from some bookstore or other, you could probably find some trick that would fit perfectly.\"","note":"MG retains mere possible trick rather than exhausted repertoire; UP restores authors having done almost every possible trick.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0175","readerRefs":{"WH":["umi1_18-L0175"],"MG":["umi1_18-L0175"],"UP":["umi1_18-L0175"]}}],"sourceReading":"Battler asserts that locked-room tricks have largely all been done, then expects a handful of mystery books to contain a matching trick.","alternative":"The following bookstore proposal remains, but its stated rationale, exhaustion of the fictional repertoire, is absent.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-006","kind":"WH","description":"必ず誰かがやってくるわけだから is rendered That is because someone had come there before, replacing a predictable arrival with a past visit and reversing the causal link.","categories":["linguistic.mistranslation","linguistic.tense_aspect","mystery.argument_reconstruction","mystery.physical_constraint"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[219,220],"MG":[219,220],"UP":[219,220]},"japanese":"「何しろ焼却炉からは祖父さまの遺体の悪臭だ。\n必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」","japanesePC":"何しろ焼却炉からは祖父さまの遺体の悪臭だ。必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」","japanesePS3":"「何しろ焼却炉からは祖父さまの遺体の悪臭だ。\n必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」","WH":"After all, the stink of Grandfather's body was coming from the incinerator.  That's because someone had come there before, and if they had just set up a trap, it's certainly possible that the culprit could stay away from that place and use the time of Kanon-kun's death to create an alibi...!\"","MG":"\"After all, the stink of Grandfather's body was coming from the incinerator.\nSomeone was bound to go and check, so if the culprit just set up a trap beforehand, they could easily have stayed away from that place and used the time of Kanon-kun's death to create an alibi...!\"","UP":"\"After all, the stink of Grandfather's body was coming from the incinerator.\nSomeone was bound to come, so all the culprit had to do was set up a trap, and it would be more than possible for them to stay away from that place and create an alibi for the time of your death...!\"","note":"Both restore predictable future visitor drawn by odor, enabling advance trap and alibi, rather than earlier visitor.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi1_18-L0217","readerRefs":{"WH":["umi1_18-L0217"],"MG":["umi1_18-L0217"],"UP":["umi1_18-L0217"]}}],"sourceReading":"Because the incinerator emits the corpse smell, somebody is certain to come investigate; a culprit can set the trap, leave and establish an alibi at the death time.","alternative":"Somebody necessarily visited earlier to place the corpse, but that is not the proposition in this clause, which explains why an unattended trap could attract a victim.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-007","kind":"WH","description":"そう聞くと、決まって戦人は describes his habitual response to questions just asked; English I imagine you will say frames a prospective imagined reply.","categories":["linguistic.tense_aspect","character.knowledge_boundary","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[302,306],"MG":[302,306],"UP":[302,306]},"japanese":"「……だから？\nそれで？\n人間にどうやって？\n具体的には？\nそう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」","japanesePC":"……だから？　それで？　人間にどうやって？　具体的には？　そう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり。","japanesePS3":"「……だから？\nそれで？\n人間にどうやって？\n具体的には？\nそう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」","WH":"......Then?  What's next?  How would a human do it?  Practically?  I imagine you'll say 'I just can't think of anything now' or 'with some kind of device.'  ...Using abstract words to run away and evade the topic.","MG":"...So?\nWhat's next?\nHow would a human do it?\nIn practical terms, I mean?\nI imagine you'll say \"I just can't think of anything now\" or \"with some kind of device.\" ...Using abstract words to run away and evade the topic.\"","UP":"\"......So what?\nAnd?\nHow would a human do it?\nConcretely?\nWhenever we ask you those questions, all you say is \"I just can't think of anything now\" or \"with some kind of device\" or something, using abstract words to run away and evade the topic.\"","note":"MG imagines prospective response; UP whenever we ask restores habitual answers to concrete questions.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0302","readerRefs":{"WH":["umi1_18-L0302"],"MG":["umi1_18-L0302"],"UP":["umi1_18-L0302"]}}],"sourceReading":"Whenever pressed for concrete details, Battler invariably answers that he cannot think of them now or invokes some unspecified device.","alternative":"The prediction fits his demonstrated behavior, but changes Maria's account of already repeated answers into an expectation, reducing its evidential grounding.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-008","kind":"WH","description":"状況証拠 is rendered proof without preserving the circumstantial qualification.","categories":["linguistic.overinterpretation","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[319,320],"MG":[319,320],"UP":[319,320]},"japanese":"「戦人くん…、どうして、信じないんだい？\nこれほどまでに、状況証拠は揃ってるのに」","japanesePC":"「戦人くん…、どうして、信じないんだい？　これほどまでに、状況証拠は揃ってるのに。」","japanesePS3":"「戦人くん…、どうして、信じないんだい？\nこれほどまでに、状況証拠は揃ってるのに」","WH":"\"Battler-kun..., why don't you believe?  Even though there's so much proof.\"","MG":"\"Battler-kun, ...why don't you believe?\nEven though there's so much proof.\"","UP":"\"Battler‐kun... Why don't you believe?\nLook at how much circumstantial evidence there is.\"","note":"MG proof still loses circumstantial limitation; UP explicitly preserves circumstantial evidence.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0319","readerRefs":{"WH":["umi1_18-L0319"],"MG":["umi1_18-L0319"],"UP":["umi1_18-L0319"]}}],"sourceReading":"George asks why Battler refuses to believe when so much circumstantial evidence has accumulated.","alternative":"The group already asserts the witch exists, and proof can be used loosely in conversation, but the Japanese here explicitly specifies the evidence type.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-009","kind":"WH","description":"ようやく一端が見えてきた is rendered I finally figured it out without the limited scope of 一端.","categories":["linguistic.overinterpretation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[333,338],"MG":[333,338],"UP":[333,338]},"japanese":"「へへ…。\nなぁるほどな。\n……ようやく一端が見えてきたぜ。\n…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？\n全員が認めた嘘は“真実”になる。\n……そういうこったろッ？！」","japanesePC":"「へへ…。なぁるほどな。……ようやく一端が見えてきたぜ。…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？　全員が認めた嘘は“真実”になる。……そういうこったろッ？！","japanesePS3":"「へへ…。\nなぁるほどな。\n……ようやく一端が見えてきたぜ。\n…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？\n全員が認めた嘘は“真実”になる。\n……そういうこったろッ？！」","WH":"\"Hehe...  No-w I see.  ......I finally figured it out.  ...So in other words, you guys want to force me to say that the witch exists, right?  If everyone accepts this, the lie will become 'the truth'.  ......Is that what this is all about?!","MG":"\"Hehe...\nNow I see.\n...I finally figured it out.\n...So, in other words, you guys are trying to force me to say the witch exists, right?\nA lie that everyone accepts becomes \"the truth\".\n...Is that what this is all about?!","UP":"\"Heheh...\nNowww I see.\n......I finally figured it out.\n...So in other words, you guys want to get me to say that the witch exists, don't you?\nIf everyone accepts this lie, it will become \"the truth\".\n......That's what this is all about, isn't it?!\"","note":"Both finally figured it out omit source only one part beginning to become visible; next inference remains interrogation of consensus pressure.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_18-L0333","readerRefs":{"WH":["umi1_18-L0333"],"MG":["umi1_18-L0333"],"UP":["umi1_18-L0333"]}}],"sourceReading":"Battler says he has finally begun seeing one aspect of what the group is doing, then proposes their pressure is intended to turn a shared lie into truth.","alternative":"The following questions keep his explanation interrogative, but his introductory assessment of how much he has grasped is more complete in English.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-010","kind":"WH","description":"全ての出来事を ... 説明してやる is rendered All of the events can be explained, dropping the first-person future undertaking.","categories":["linguistic.tense_aspect","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[411,414],"MG":[411,414],"UP":[411,414]},"japanese":"「寝言言いたきゃ好きなだけ言ってろ…！\n俺はお前なんか否定してやるぜ。\n全ての出来事を“人間とトリック”で説明してやる…！！\nそこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」","japanesePC":"「寝言言いたきゃ好きなだけ言ってろ…！　俺はお前なんか否定してやるぜ。全ての出来事を“人間とトリック”で説明してやる…！！　そこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」","japanesePS3":"「寝言言いたきゃ好きなだけ言ってろ…！\n俺はお前なんか否定してやるぜ。\n全ての出来事を“人間とトリック”で説明してやる…！！\nそこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」","WH":"\"If you want to talk nonsense, talk all you want...!  I deny you exist.  All of the events can be explained with 'human tricks'...!!  There's no room for even a speck of magic or witches!!\"","MG":"\"If you want to talk nonsense, talk all you want...!\nI deny you exist.\nAll of the events can be explained with \"human tricks\"...!!\nThere's no room for even a speck of magic or witches!!\"","UP":"\"Talk all the nonsense you want...!\nI deny you exist.\nAll of the events can be explained with \"human tricks\"...!!\nThere's no room for even a speck of magic or witches!!\"","note":"Both all events can be explained retain generic capability instead of I will explain them, losing explicit future personal undertaking.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_18-L0411","readerRefs":{"WH":["umi1_18-L0411"],"MG":["umi1_18-L0411"],"UP":["umi1_18-L0411"]}}],"sourceReading":"Battler vows that he will explain every event through humans and tricks, denying any room for witches or magic.","alternative":"He has already asserted human explainability and directly denies Beatrice in English, so overall opposition survives; nevertheless this specific challenge promises his own explanation rather than merely asserting feasibility.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-011","kind":"WH","description":"謳うような魔法の言葉 becomes magic words which sounded like a command.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence","character.irony_performance"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[463,466],"MG":[463,466],"UP":[463,466]},"japanese":"「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」\n謳うような魔法の言葉に導かれ、７つの杭が集います。","japanesePC":"謳うような魔法の言葉に導かれ、７つの杭が集います。","japanesePS3":"「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」\n謳うような魔法の言葉に導かれ、７つの杭が集います。","WH":"Guided by those magic words, which sounded like a command, seven stakes gathered.","MG":"\"Come, arise, children.\nI am the guide of Purgatory.\nForgive the deadly sins and hold the Seven Stakes.\"\nGuided by those magic words, which sounded like a command, seven stakes gathered.","UP":"\"Come, arise, children.\nI am the guide of Purgatory.\nWield the seven stakes, which forgave the deadly sins.\"\nGuided by those magic words, which sounded like a psalm, seven stakes gathered.","note":"MG retains command-like sound; UP psalm restores chanting/song-like incantation.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0463","readerRefs":{"WH":["umi1_18-L0466"],"MG":["umi1_18-L0463","umi1_18-L0466"],"UP":["umi1_18-L0463","umi1_18-L0466"]}}],"sourceReading":"Seven stakes gather, guided by magic words delivered as though singing.","alternative":"Her words are imperative commands, but the source simile specifies their musical delivery rather than their grammatical function.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-012","kind":"WH","description":"The sound of repeated 乱反射 against walls throughout the room becomes several scattered noises refracted through the wall.","categories":["linguistic.mistranslation","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[473,474],"MG":[473,474],"UP":[473,474]},"japanese":"その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。\nそして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。","japanesePC":"そして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。","japanesePS3":"その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。\nそして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。","WH":"Then, several scattered noises refracted through the wall, making a sound like a woodpecker.","MG":"The two stakes of the demons were sucked in through the crack of the door, like billiard balls struck by a cue stick.\nThen, several scattered noises refracted through the wall, making a sound like a woodpecker.","UP":"The two demonic stakes burst into motion like billiard balls struck by a cue, and were sucked in through the crack of the door.\nThen came the sound of them deflecting repeatedly off the walls of the room, making a sound like a woodpecker.","note":"MG retains noises refracted through wall; UP explicitly restores repeated deflection off room walls.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0472","readerRefs":{"WH":["umi1_18-L0472"],"MG":["umi1_18-L0472"],"UP":["umi1_18-L0472"]}}],"sourceReading":"After the stakes enter, the characters hear them repeatedly ricocheting against the room walls, with a woodpecker-like sound.","alternative":"Sound can travel through a wall, but the Japanese describes repeated bouncing of the stakes within the room; transmission through a wall is not the reported mechanism.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-013","kind":"WH","description":"寸分違わぬ同じ姿で倒れ becomes lay not an inch apart from where they had lain the last time.","categories":["linguistic.overinterpretation","world.space_time_continuity","mystery.physical_constraint"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[480,482],"MG":[480,482],"UP":[480,482]},"japanese":"部屋からは確かに、眉間が砕ける音が二人分聞こえました。\n扉越しの戦人には見ることも叶いませんが、\n二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。","japanesePC":"扉越しの戦人には見ることも叶いませんが、二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。","japanesePS3":"部屋からは確かに、眉間が砕ける音が二人分聞こえました。\n扉越しの戦人には見ることも叶いませんが、\n二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。","WH":"Battler wasn't permitted to see it, since he was on the other side of the door, but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood-spray as before.","MG":"They'd definitely heard two sounds like a pair of foreheads being split open.\nBattler wasn't permitted to see it, since he was on the other side of the door,\nbut those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood-spray as before.","UP":"They had definitely heard two sounds like someone's forehead being split open.\nBattler wasn't permitted to see it, since he was on the other side of the door,\nbut those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood spray as before.","note":"Both retain precise prior location instead of identical fallen appearance/posture. Blood pattern identity survives, but is distinct from this positional substitution.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_18-L0480","readerRefs":{"WH":["umi1_18-L0480"],"MG":["umi1_18-L0480"],"UP":["umi1_18-L0480"]}}],"sourceReading":"They die a second time, falling in exactly the same appearance/posture and producing the same bloodstain pattern. Battler cannot see from beyond the door.","alternative":"姿 may include a broad visual arrangement, and identical blood patterns imply substantial physical correspondence, but English specifically guarantees matched location while losing the explicit matching bodily appearance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-014","kind":"WH","description":"爪を立てるほど becomes fingers pressing in against her cheek, losing the nails and escalation.","categories":["linguistic.undertranslation","character.voice_state"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[531,536],"MG":[531,536],"UP":[531,536]},"japanese":"紗音が頬を押さえながら呻き始めます。\n…虫歯でも痛むのかもしれません。\nですが、それはどうも虫歯ではないようでした。\n……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。\nその赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。\n頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。","japanesePC":"頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。","japanesePS3":"紗音が頬を押さえながら呻き始めます。\n…虫歯でも痛むのかもしれません。\nですが、それはどうも虫歯ではないようでした。\n……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。\nその赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。\n頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。","WH":"Her fingers were pressing in against her cheek, and drops of sweat appeared all over her body...","MG":"Shannon started moaning, holding her cheek.\n...Maybe she had a toothache.\nBut apparently, it wasn't a toothache after all.\n...A slight redness spread across the cheek Shannon was holding.\nIt looked like that redness was causing Shannon unbearable pain...\nHer fingers were pressing in against her cheek, and drops of sweat appeared all over her body...","UP":"Shannon started moaning, holding her cheek.\n...Maybe she had a toothache.\nBut it didn't look anything like a toothache.\n......A slight redness spread across the cheek Shannon was holding.\nIt looked like that redness was causing Shannon unbearable pain...\nShe started to press her nails into her cheek, and drops of sweat appeared all over her body...","note":"MG fingers pressing retains loss of nails/escalation; UP explicitly restores nails pressed into cheek.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0531","readerRefs":{"WH":["umi1_18-L0533"],"MG":["umi1_18-L0531","umi1_18-L0533"],"UP":["umi1_18-L0531","umi1_18-L0533"]}}],"sourceReading":"Her hand against her cheek has progressed to digging in her nails as unbearable pain makes sweat bead over her whole body.","alternative":"Pressure can accompany the action, but it does not preserve the specified clawing/nail detail.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-015","kind":"WH","description":"どのような奇怪な最期を遂げたのか becomes death George and the rest were experiencing.","categories":["linguistic.tense_aspect","character.viewpoint_attribution","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[560,565],"MG":[560,565],"UP":[560,565]},"japanese":"今度は、譲治の全身に赤い模様が広がっていきます…。\nそれはまるで、紅茶にたっぷりと落としたミルクが描くかのような美しき雲模様。\nそれらがじわりと、そして全体に、広がっていきます。\n……それらは色濃くなるに従い、譲治に苦痛を与えるようでした。\nその奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、\n哀れなほど拙い想像力で必死に考え、立ち竦みます…。","japanesePC":"その奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、哀れなほど拙い想像力で必死に考え、立ち竦みます…。","japanesePS3":"今度は、譲治の全身に赤い模様が広がっていきます…。\nそれはまるで、紅茶にたっぷりと落としたミルクが描くかのような美しき雲模様。\nそれらがじわりと、そして全体に、広がっていきます。\n……それらは色濃くなるに従い、譲治に苦痛を与えるようでした。\nその奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、\n哀れなほど拙い想像力で必死に考え、立ち竦みます…。","WH":"Looking at this bizarre spectacle, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...about the nature of this strange death George and the rest were experiencing...","MG":"This time, the redness spread across George's entire body...\nIt was like the beautiful cloud drawn by milk when it's poured into black tea.\nIt spread out and extended across his entire body.\n...As it did, it seemed to give George increasingly greater pain.\nLooking at this bizarre spectacle, ...Battler was petrified as he frantically thought with his pitifully clumsy imagination...\nabout the nature of this strange death George and the rest were experiencing...","UP":"This time, red patterns began to spread across George's entire body...\nIt was like the beautiful cloud drawn by milk when it is poured into black tea.\nThey slowly spread out and extended across his entire body.\n......As they grew more saturated in color, they seemed to give George increasingly greater pain.\nLooking at those bizarre patterns, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...\nabout the nature of the strange deaths that George and the others had experienced...","note":"MG experiencing retains present-death shift; UP had experienced restores inference concerning earlier deaths.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0560","readerRefs":{"WH":["umi1_18-L0564"],"MG":["umi1_18-L0560","umi1_18-L0564"],"UP":["umi1_18-L0560","umi1_18-L0564"]}}],"sourceReading":"Seeing the strange pattern, Battler desperately imagines what bizarre end George and the others had previously met and freezes.","alternative":"The current destruction reenacts those deaths, but the source explicitly makes his mental reconstruction retrospective rather than merely interpreting the present spectacle.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-TEA-016","kind":"WH","description":"身内を疑いたくなかった is rendered did not want to doubt our friends.","categories":["linguistic.word_choice","character.relationship_power","character.motivation_emotion","mystery.mystery_character_link"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[602,607],"MG":[602,607],"UP":[602,607]},"japanese":"「ば、\n…戦人……ッ！\n私たちは、\n……身内を疑いたくなかった…。\n現実から目を逸らしたから、\n…魔女に屈してしまった……！","japanesePC":"……身内を疑いたくなかった…。現実から目を逸らしたから、","japanesePS3":"「ば、\n…戦人……ッ！\n私たちは、\n……身内を疑いたくなかった…。\n現実から目を逸らしたから、\n…魔女に屈してしまった……！","WH":"......didn't want to doubt our friends...  We refused to face reality,","MG":"\"Ba‐\nBattler...!\nWe...\n...didn't want to doubt our friends...\nWe refused to face reality...\nand gave in to the witch...!","UP":"\"Ba‐\n...Battler......!\nWe...\n...didn't want to doubt our friends...\nWe refused to face reality,\n...and gave in to the witch......!","note":"Both friends retain loss of family/own circle in 身内; preceding family-suspicion discussion supplies intended context but does not restore lexical relationship.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_18-L0602","readerRefs":{"WH":["umi1_18-L0602"],"MG":["umi1_18-L0602"],"UP":["umi1_18-L0602"]}}],"sourceReading":"Jessica says they did not want to suspect their own family/inner circle, turned away from reality and surrendered to the witch.","alternative":"身内 can encompass insiders beyond blood relatives, but friends substitutes a different relationship; the preceding debate explicitly centers suspicions against relatives and family loyalty.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-TEA-MARIA-WITCH-FRIEND-001","kind":"additional","description":"Maria cites a witch friend of her own saying miracles require belief. MG makes the friend one of Beatrice’s witch friends (“her witch friends”), shifting the relationship and ownership of Maria’s cited testimony. UP correctly says “my witch friends”.","categories":["linguistic.wrong_subject","character.relationship_power"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[51,55],"MG":[51,55],"UP":[51,55]},"japanese":"「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。\nみんなずっと信じなかったから駄目だった。\nうー！\n信じないと奇跡は起きないって、友達の魔女も言ってる！\nうー！」","japanesePC":"","japanesePS3":"「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。\nみんなずっと信じなかったから駄目だった。\nうー！\n信じないと奇跡は起きないって、友達の魔女も言ってる！\nうー！」","WH":"","MG":"\"Like I kept saying, Beatrice exists.\nIt all went bad because no one ever believed.\nUu-!\nEven one of her witch friends says that miracles won't occur if you don't believe.\nUu-!\"","UP":"\"That's why I kept telling you Beatrice exists.\nIt all went bad because no one ever believed.\nUu!\nEven one of my witch friends says miracles won't happen if you don't believe!\nUu!\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0051","readerRefs":{"WH":[],"MG":["umi1_18-L0051"],"UP":["umi1_18-L0051"]}}],"sourceReading":"","alternative":"A witch friend of mine says miracles won’t happen unless you believe.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-TEA-CHAIN-APERTURE-LOOKING-001","kind":"additional","description":"Battler says the culprit could secure a door gap limited by the chain. Both translations instead say it was possible to look in through that crack, replacing availability of a working aperture with a visual-access proposition.","categories":["linguistic.mistranslation","mystery.physical_constraint"],"severity":"moderate","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[171,172],"MG":[171,172],"UP":[171,172]},"japanese":"とにかく、犯人は鍵だけは持ってる可能性が高いからな。\nチェーンに許される程度の、扉の隙間は確保できたわけだ」","japanesePC":"","japanesePS3":"とにかく、犯人は鍵だけは持ってる可能性が高いからな。\nチェーンに許される程度の、扉の隙間は確保できたわけだ」","WH":"","MG":"Anyway, there's at least a good chance the culprit had a key.\nAnd it was possible to look in through the crack of the door that the chain allowed.","UP":"Anyways, there's a good chance that the culprit had the key at least.\nAnd it was possible to look in through the crack of the door that the chain allowed.\"","note":"","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_18-L0169","readerRefs":{"WH":[],"MG":["umi1_18-L0169"],"UP":["umi1_18-L0169"]}}],"sourceReading":"","alternative":"The culprit could therefore open the door as far as the chain allowed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-TEA-CHAIN-EXTRACTION-DIRECTION-001","kind":"additional","description":"Battler alternatively proposes bringing something out through the gap. MG instead suggests sticking something through it, losing the outward extraction direction and collapsing the distinct alternative into insertion. UP preserves brought something out.","categories":["linguistic.mistranslation","mystery.physical_constraint"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[173,174],"MG":[173,174],"UP":[173,174]},"japanese":"「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」","japanesePC":"","japanesePS3":"「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」","WH":"","MG":"...I know this is a stretch, but it's possible some device was used through that crack.\n...Like maybe they stuck something through it...?\"","UP":"\"......This is extremely far‐fetched, but it is possible that some device was used through that crack.\n...Or maybe they brought something out through the crack...?\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0173","readerRefs":{"WH":[],"MG":["umi1_18-L0173"],"UP":["umi1_18-L0173"]}}],"sourceReading":"","alternative":"Or perhaps they took something out through that gap?","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-TEA-HUMAN-FEASIBILITY-SCOPE-001","kind":"additional","description":"Battler asserts that the present crime could be managed by a human somehow, despite lacking an explanation. MG broadens this to there being nothing humans cannot do if they try hard enough. UP keeps the assertion about managing this case.","categories":["linguistic.overinterpretation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[178,180],"MG":[178,180],"UP":[178,180]},"japanese":"「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」\n「それは酷い暴論じゃないかい…？\n説明できないのに、人間に可能だと断言できるなんて、めちゃめちゃだよ…」","japanesePC":"","japanesePS3":"「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」\n「それは酷い暴論じゃないかい…？\n説明できないのに、人間に可能だと断言できるなんて、めちゃめちゃだよ…」","WH":"","MG":"...Anyway, I can't think of one now, ...but I claim that there's nothing humans can't do if they try hard enough.\"\n\"Isn't that argument horribly irrational...?\nIt's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how...\"","UP":"\"......Anyways, I can't think of one now...but I can state for certain that a human could manage it somehow if they tried hard enough.\"\n\"Isn't that argument horribly irrational...?\nIt's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how...\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0175","readerRefs":{"WH":[],"MG":["umi1_18-L0175","umi1_18-L0179"],"UP":["umi1_18-L0175","umi1_18-L0179"]}}],"sourceReading":"","alternative":"I cannot think of it, but I can say a human could manage it somehow.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-TEA-WITCH-LAST-RESORT-ACCEPTANCE-001","kind":"additional","description":"Battler says witches are the desperate explanation raised only after human possibilities have all been ruled out. MG substitutes a first-person commitment, “I’ll only accept that it’s a witch in desperation”, making him promise conditional acceptance rather than state the order in which explanations should be considered. UP preserves the methodological formulation.","categories":["linguistic.overinterpretation","character.knowledge_boundary"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[283,285],"MG":[283,285],"UP":[283,285]},"japanese":"「そういうわけじゃねぇ…。\nただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、\nそれら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」","japanesePC":"","japanesePS3":"「そういうわけじゃねぇ…。\nただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、\nそれら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」","WH":"","MG":"\"That's not it...\nIt's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human.\nI'll only accept that it's a witch in desperation, at the very end, after everything else has been disproved.\"","UP":"\"That's not it...\nIt's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human—\nwitches are something you only start talking about in desperation, at the very end, after everything else has been disproved, that's what I'm trying to say.\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0283","readerRefs":{"WH":[],"MG":["umi1_18-L0283"],"UP":["umi1_18-L0283"]}}],"sourceReading":"","alternative":"A witch is the desperate explanation you raise at the very end, after ruling out all those possibilities.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-TEA-BEATRICE-ATTITUDE-UNDERSTANDING-001","kind":"additional","description":"Beatrice concludes that Battler’s attitude makes sense given his resistance to magic. MG instead says “I accept that attitude of yours”, shifting explanatory understanding into personal acceptance or approval. UP preserves “That attitude of yours makes a great deal of sense”.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[390,397],"MG":[390,397],"UP":[390,397]},"japanese":"「………魔に通じぬ凡夫の分際にしては、理解力は悪くない。\n………なるほど、どうやらそなたは生まれながらにして、魔力に強い抵抗力を持つらしいな」\n「……我ら魔女の天敵よ。\n…どう逆さに振るって見せようとも、\n決して我らを信じない。\nだから魔法が及ばない。\n…お前のその態度にも納得が行こうというものよ。\nくっくっくっく…！」","japanesePC":"","japanesePS3":"「………魔に通じぬ凡夫の分際にしては、理解力は悪くない。\n………なるほど、どうやらそなたは生まれながらにして、魔力に強い抵抗力を持つらしいな」\n「……我ら魔女の天敵よ。\n…どう逆さに振るって見せようとも、\n決して我らを信じない。\nだから魔法が及ばない。\n…お前のその態度にも納得が行こうというものよ。\nくっくっくっく…！」","WH":"","MG":"\"...Your powers of comprehension aren't bad for a mere commoner who knows nothing of magic.\n...Yes, it seems you were born with a strong magic-resisting power.\n...You're a natural enemy of us witches.\n...No matter how much we turn your world upside down,\nyou never believe in us.\nTherefore, the magic won't succeed.\n...I accept that attitude of yours.\n*cackle*cackle*...!\"","UP":"\".........Your power of understanding isn't bad for a common mortal who knows nothing of magic.\n.........I see, it seems that you were born with a strong magic‐resisting power.\"\n\"......The natural enemy of us witches.\n...No matter how much we tip you upside down and shake you,\nyou will never believe in us.\nTherefore, magic will fall short against you.\n...That attitude of yours makes a great deal of sense.\n*cackle*cackle*...!\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0390","readerRefs":{"WH":[],"MG":["umi1_18-L0390","umi1_18-L0392"],"UP":["umi1_18-L0390","umi1_18-L0392"]}}],"sourceReading":"","alternative":"That would explain your attitude.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-TEA-STAKE-INVOCATION-SYNTAX-001","kind":"additional","description":"The incantation commands bringing/wielding the seven stakes qualified as absolving deadly sins. MG splits the qualification into a separate imperative, “Forgive the deadly sins and hold the Seven Stakes”, changing what the summoned children are commanded to do and detaching the stakes’ stated function. UP preserves the relative clause attached to the stakes.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_18","episode":1,"rows":{"JP":[463,465],"MG":[463,465],"UP":[463,465]},"japanese":"「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」","japanesePC":"","japanesePS3":"「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」","WH":"","MG":"\"Come, arise, children.\nI am the guide of Purgatory.\nForgive the deadly sins and hold the Seven Stakes.\"","UP":"\"Come, arise, children.\nI am the guide of Purgatory.\nWield the seven stakes, which forgave the deadly sins.\"","note":"","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_18-L0463","readerRefs":{"WH":[],"MG":["umi1_18-L0463"],"UP":["umi1_18-L0463"]}}],"sourceReading":"","alternative":"Bring the seven stakes that absolve the deadly sins.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-TEA-001",
+      "kind": "WH",
+      "description": "あったのでしょうか becomes I am sure things would have ended differently, turning an open counterfactual question into confidence.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              11,
+              12
+            ],
+            "MG": [
+              11,
+              12
+            ],
+            "UP": [
+              11,
+              12
+            ]
+          },
+          "japanese": "「………そうですね。\nちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」",
+          "japanesePC": "「………そうですね。ちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか。」",
+          "japanesePS3": "「………そうですね。\nちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」",
+          "WH": "\".........That's right.  If we had actually tried to solve the riddle, I'm sure things would have ended differently.\"",
+          "MG": "\"...That's right.\nIf we had actually tried to solve the riddle, maybe things would have ended differently.\"",
+          "UP": "\".........Yes, that's true.\nIf we had actually tried to solve the riddle, I'm sure things would have ended differently.\"",
+          "note": "MG maybe preserves open counterfactual; UP I’m sure retains inherited certainty.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_18-L0011",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0011"
+            ],
+            "MG": [
+              "umi1_18-L0011"
+            ],
+            "UP": [
+              "umi1_18-L0011"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………そうですね。ちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」",
+              "translation": "\"...That's right. If we had actually tried to solve the riddle, maybe things would have ended differently.\" "
+            },
+            "UP": {
+              "japanese": "「………そうですね。ちゃんと碑文の謎に挑んでいたら、違う結末もあったのでしょうか」",
+              "translation": "\".........Yes, that's true. If we had actually tried to solve the riddle, I'm sure things would have ended differently.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0011"
+            ],
+            "MG": [
+              "umi1_18-L0011"
+            ],
+            "UP": [
+              "umi1_18-L0011"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Shannon asks whether properly tackling the epitaph might have produced another ending. Battler then questions that possibility.",
+      "alternative": "The following I wonder about that still challenges Shannon, but does not restore her original uncertainty.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-002",
+      "kind": "WH",
+      "description": "紗音が ... 頬を撫でて見せる is rendered seeing him stroke Shannon's cheek.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              66,
+              69
+            ],
+            "MG": [
+              66,
+              69
+            ],
+            "UP": [
+              66,
+              69
+            ]
+          },
+          "japanese": "「………まぁその、…痛かったわけじゃないですし…。\nそれにほら。\n今はこうして全然平気ですから、へっちゃらです」\n紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。",
+          "japanesePC": "紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。",
+          "japanesePS3": "「………まぁその、…痛かったわけじゃないですし…。\nそれにほら。\n今はこうして全然平気ですから、へっちゃらです」\n紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。",
+          "WH": "After seeing him stroke Shannon's cheek, which had been crushed during the story, everyone laughed out loud, smiling.",
+          "MG": "\"...Umm, well, ...it's not like it hurt...\nAnyway,\nright now, I'm perfectly fine, so don't worry.\"\nAfter seeing him stroke Shannon's cheek, which had been crushed during the story, everyone laughed out loud, smiling.",
+          "UP": "\".........Umm, well, ...it's not like it hurt...\nBesides,\nas you can see, right now, I'm perfectly fine, so don't worry.\"\nShannon proved this by stroking her cheek which had been crushed during the story, and everyone laughed out loud, smiling.",
+          "note": "MG seeing him stroke Shannon’s cheek assigns action to another man; UP restores Shannon herself stroking her cheek.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0066",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0069"
+            ],
+            "MG": [
+              "umi1_18-L0066",
+              "umi1_18-L0069"
+            ],
+            "UP": [
+              "umi1_18-L0066",
+              "umi1_18-L0069"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。",
+              "translation": "After seeing him stroke Shannon's cheek, which had been crushed during the story, everyone laughed out loud, smiling. "
+            },
+            "UP": {
+              "japanese": "紗音が劇中では砕かれていた頬を撫でて見せると、みんなは微笑ましそうに大笑いしました。",
+              "translation": "Shannon proved this by stroking her cheek which had been crushed during the story, and everyone laughed out loud, smiling."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0069"
+            ],
+            "MG": [
+              "umi1_18-L0069"
+            ],
+            "UP": [
+              "umi1_18-L0069"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Shannon demonstrates that she is fine by stroking the cheek that was crushed in the story, prompting everyone to laugh warmly.",
+      "alternative": "George is present and his sprite changes, but the Japanese explicitly names Shannon as the subject and her preceding reassurance motivates the gesture.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-003",
+      "kind": "WH",
+      "description": "Repeated あるいは separates going out through the window and falling; English joins went out the window, fell down with and.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              158,
+              161
+            ],
+            "MG": [
+              158,
+              161
+            ],
+            "UP": [
+              158,
+              161
+            ]
+          },
+          "japanese": "「その話は劇中でも出ただろ。\n祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。\nあるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。\n別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」",
+          "japanesePC": "「その話は劇中でも出ただろ。祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。あるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」",
+          "japanesePS3": "「その話は劇中でも出ただろ。\n祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。\nあるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。\n別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」",
+          "WH": "\"We talked about that during the story, too.  It's not impossible that Grandfather used some trick to fool the receipt.  It's also possible that he went out the window, fell down, and Natsuhi oba-san locked the window from the inside.  I could think of a bunch of tricks you could use without relying on magic...you see?\"",
+          "MG": "\"We talked about that during the story, too.\nIt's not impossible that Grandfather used some trick to fool the receipt.\nIt's also possible that he went out the window, fell down, and Aunt Natsuhi locked the window from the inside.\nI could think of a bunch of tricks you could use without relying on magic...\"",
+          "UP": "\"We talked about that during the story, too.\nIt's not impossible that Grandfather used some trick to fool the receipt.\nIt's also possible that he went out the window, or fell out the window, and Aunt Natsuhi locked it from the inside.\nI could think of a bunch of tricks you could use without relying on magic...you see?\"",
+          "note": "MG chains exit and falling into one sequence; UP restores alternatives with or.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0158",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0158"
+            ],
+            "MG": [
+              "umi1_18-L0158"
+            ],
+            "UP": [
+              "umi1_18-L0158"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「その話は劇中でも出ただろ。祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。あるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」",
+              "translation": "\"We talked about that during the story, too. It's not impossible that Grandfather used some trick to fool the receipt. It's also possible that he went out the window, fell down, and Aunt Natsuhi locked the window from the inside. I could think of a bunch of tricks you could use without relying on magic...\" "
+            },
+            "UP": {
+              "japanese": "「その話は劇中でも出ただろ。祖父さまが何らかの方法を使えば、レシートを誤魔化すことは不可能じゃない。あるいは窓から出て、あるいは落ちて、夏妃伯母さんが窓を内側から施錠した可能性もある。別に、魔法を使わなくたって、他にもいくつか手は思いつくだろうぜ…？」",
+              "translation": "\"We talked about that during the story, too. It's not impossible that Grandfather used some trick to fool the receipt. It's also possible that he went out the window, or fell out the window, and Aunt Natsuhi locked it from the inside. I could think of a bunch of tricks you could use without relying on magic...you see?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0158"
+            ],
+            "MG": [
+              "umi1_18-L0158"
+            ],
+            "UP": [
+              "umi1_18-L0158"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo could have gone out through the window or fallen, followed by Natsuhi locking it from inside.",
+      "alternative": "A fall may naturally follow an exit, but the Japanese offers alternatives rather than requiring both events.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-004",
+      "kind": "WH",
+      "description": "非常に苦しい話 describes the explanatory proposal as strained, but is rendered really painful to talk about it.",
+      "categories": [
+        "linguistic.idiom_calque",
+        "character.voice_state",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              173,
+              174
+            ],
+            "MG": [
+              173,
+              174
+            ],
+            "UP": [
+              173,
+              174
+            ]
+          },
+          "japanese": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」",
+          "japanesePC": "……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。…いや、あるいは、その隙間から、何かを出したとか…？",
+          "japanesePS3": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」",
+          "WH": "......It's really painful to talk about it, but it is possible that some device was used through that crack.  ...Like maybe they stuck something through the crack...?",
+          "MG": "...I know this is a stretch, but it's possible some device was used through that crack.\n...Like maybe they stuck something through it...?\"",
+          "UP": "\"......This is extremely far‐fetched, but it is possible that some device was used through that crack.\n...Or maybe they brought something out through the crack...?\"",
+          "note": "Both restore strain of proposal: stretch/far-fetched, rather than painful to talk about.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0173",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0173"
+            ],
+            "MG": [
+              "umi1_18-L0173"
+            ],
+            "UP": [
+              "umi1_18-L0173"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。…いや、あるいは、その隙間から、何かを出したとか…？」",
+              "translation": "...I know this is a stretch, but it's possible some device was used through that crack. ...Like maybe they stuck something through it...?\" "
+            },
+            "UP": {
+              "japanese": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。…いや、あるいは、その隙間から、何かを出したとか…？」",
+              "translation": "\"......This is extremely far‐fetched, but it is possible that some device was used through that crack. ...Or maybe they brought something out through the crack...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0173"
+            ],
+            "MG": [
+              "umi1_18-L0173"
+            ],
+            "UP": [
+              "umi1_18-L0173"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler concedes that his device-through-the-gap explanation is very far-fetched.",
+      "alternative": "The murders are distressing, but this phrase directly qualifies his tentative logical explanation, not difficulty discussing the deaths.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-005",
+      "kind": "WH",
+      "description": "密室トリックなんておよそやり尽くされてる is replaced by probably some closed room trick they could have used.",
+      "categories": [
+        "linguistic.omission",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              175,
+              177
+            ],
+            "MG": [
+              175,
+              177
+            ],
+            "UP": [
+              175,
+              177
+            ]
+          },
+          "japanese": "「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。\n………だが、密室トリックなんておよそやり尽くされてるんだ。\nそこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」",
+          "japanesePC": "……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。………だが、密室トリックなんておよそやり尽くされてるんだ。そこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ。",
+          "japanesePS3": "「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。\n………だが、密室トリックなんておよそやり尽くされてるんだ。\nそこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」",
+          "WH": "......Hmmmm, well, even though the chain is incredibly simple, it's a big factor in setting up the closed room... .........However, there's probably some closed room trick they could have used.  If you bought some closed room mystery novels from the bookstore, you could probably find some trick that would fit perfectly.",
+          "MG": "\"...Hmmmm, well, even though a door chain is incredibly simple, it's a big factor in setting up a closed room...\n...Still, there's probably some closed room trick they could've used.\nIf you bought some closed room mystery novels from the bookstore, you could probably find some trick that'd fit perfectly.",
+          "UP": "\"......Hmmmm, well, even though chains are incredibly simple, they're a big factor in constructing a locked room...\n.........But authors have done almost every possible locked‐room trick there is to do by now.\nIf you bought just a few locked‐room mysteries from some bookstore or other, you could probably find some trick that would fit perfectly.\"",
+          "note": "MG retains mere possible trick rather than exhausted repertoire; UP restores authors having done almost every possible trick.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0175",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0175"
+            ],
+            "MG": [
+              "umi1_18-L0175"
+            ],
+            "UP": [
+              "umi1_18-L0175"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。………だが、密室トリックなんておよそやり尽くされてるんだ。そこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」",
+              "translation": "\"...Hmmmm, well, even though a door chain is incredibly simple, it's a big factor in setting up a closed room... ...Still, there's probably some closed room trick they could've used. If you bought some closed room mystery novels from the bookstore, you could probably find some trick that'd fit perfectly. ...Anyway, I can't think of one now, ...but I claim that there's nothing humans can't do if they try hard enough.\" "
+            },
+            "UP": {
+              "japanese": "「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。………だが、密室トリックなんておよそやり尽くされてるんだ。そこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」",
+              "translation": "\"......Hmmmm, well, even though chains are incredibly simple, they're a big factor in constructing a locked room... .........But authors have done almost every possible locked‐room trick there is to do by now. If you bought just a few locked‐room mysteries from some bookstore or other, you could probably find some trick that would fit perfectly.\" \"......Anyways, I can't think of one now...but I can state for certain that a human could manage it somehow if they tried hard enough.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0175"
+            ],
+            "MG": [
+              "umi1_18-L0175"
+            ],
+            "UP": [
+              "umi1_18-L0175"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler asserts that locked-room tricks have largely all been done, then expects a handful of mystery books to contain a matching trick.",
+      "alternative": "The following bookstore proposal remains, but its stated rationale, exhaustion of the fictional repertoire, is absent.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-006",
+      "kind": "WH",
+      "description": "必ず誰かがやってくるわけだから is rendered That is because someone had come there before, replacing a predictable arrival with a past visit and reversing the causal link.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.tense_aspect",
+        "mystery.argument_reconstruction",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              219,
+              220
+            ],
+            "MG": [
+              219,
+              220
+            ],
+            "UP": [
+              219,
+              220
+            ]
+          },
+          "japanese": "「何しろ焼却炉からは祖父さまの遺体の悪臭だ。\n必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」",
+          "japanesePC": "何しろ焼却炉からは祖父さまの遺体の悪臭だ。必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」",
+          "japanesePS3": "「何しろ焼却炉からは祖父さまの遺体の悪臭だ。\n必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」",
+          "WH": "After all, the stink of Grandfather's body was coming from the incinerator.  That's because someone had come there before, and if they had just set up a trap, it's certainly possible that the culprit could stay away from that place and use the time of Kanon-kun's death to create an alibi...!\"",
+          "MG": "\"After all, the stink of Grandfather's body was coming from the incinerator.\nSomeone was bound to go and check, so if the culprit just set up a trap beforehand, they could easily have stayed away from that place and used the time of Kanon-kun's death to create an alibi...!\"",
+          "UP": "\"After all, the stink of Grandfather's body was coming from the incinerator.\nSomeone was bound to come, so all the culprit had to do was set up a trap, and it would be more than possible for them to stay away from that place and create an alibi for the time of your death...!\"",
+          "note": "Both restore predictable future visitor drawn by odor, enabling advance trap and alibi, rather than earlier visitor.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0217",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0217"
+            ],
+            "MG": [
+              "umi1_18-L0217"
+            ],
+            "UP": [
+              "umi1_18-L0217"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「一緒にボイラー室に入って、不意を突いてブッスリ行っちまったのかも知れねぇ！　あるいは、ボイラー室に踏み込むと、何かのトラップが発動して、例のアイスピックが打ち込まれるように仕掛けられていたのかもしれない」「何しろ焼却炉からは祖父さまの遺体の悪臭だ。必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」",
+              "translation": "For all we know, she might've entered the boiler room with you and caught you by surprise! Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might've been set up to hit you with one of those icepicks.\" \"After all, the stink of Grandfather's body was coming from the incinerator. Someone was bound to go and check, so if the culprit just set up a trap beforehand, they could easily have stayed away from that place and used the time of Kanon-kun's death to create an alibi...!\" "
+            },
+            "UP": {
+              "japanese": "「一緒にボイラー室に入って、不意を突いてブッスリ行っちまったのかも知れねぇ！　あるいは、ボイラー室に踏み込むと、何かのトラップが発動して、例のアイスピックが打ち込まれるように仕掛けられていたのかもしれない」「何しろ焼却炉からは祖父さまの遺体の悪臭だ。必ず誰かがやってくるわけだから、仕掛けだけ施せば、犯人はその場を離れ、嘉音くんの死亡時刻にアリバイを作ることは充分できる…！」",
+              "translation": "\"She might've entered the boiler room with you and caught you by surprise! Or maybe, when you stepped into the boiler room, you activated some kind of trap, one that might have been set up to hit you with one of those icepicks.\" \"After all, the stink of Grandfather's body was coming from the incinerator. Someone was bound to come, so all the culprit had to do was set up a trap, and it would be more than possible for them to stay away from that place and create an alibi for the time of your death...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0217"
+            ],
+            "MG": [
+              "umi1_18-L0217"
+            ],
+            "UP": [
+              "umi1_18-L0217"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Because the incinerator emits the corpse smell, somebody is certain to come investigate; a culprit can set the trap, leave and establish an alibi at the death time.",
+      "alternative": "Somebody necessarily visited earlier to place the corpse, but that is not the proposition in this clause, which explains why an unattended trap could attract a victim.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-007",
+      "kind": "WH",
+      "description": "そう聞くと、決まって戦人は describes his habitual response to questions just asked; English I imagine you will say frames a prospective imagined reply.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.knowledge_boundary",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              302,
+              306
+            ],
+            "MG": [
+              302,
+              306
+            ],
+            "UP": [
+              302,
+              306
+            ]
+          },
+          "japanese": "「……だから？\nそれで？\n人間にどうやって？\n具体的には？\nそう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」",
+          "japanesePC": "……だから？　それで？　人間にどうやって？　具体的には？　そう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり。",
+          "japanesePS3": "「……だから？\nそれで？\n人間にどうやって？\n具体的には？\nそう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」",
+          "WH": "......Then?  What's next?  How would a human do it?  Practically?  I imagine you'll say 'I just can't think of anything now' or 'with some kind of device.'  ...Using abstract words to run away and evade the topic.",
+          "MG": "...So?\nWhat's next?\nHow would a human do it?\nIn practical terms, I mean?\nI imagine you'll say \"I just can't think of anything now\" or \"with some kind of device.\" ...Using abstract words to run away and evade the topic.\"",
+          "UP": "\"......So what?\nAnd?\nHow would a human do it?\nConcretely?\nWhenever we ask you those questions, all you say is \"I just can't think of anything now\" or \"with some kind of device\" or something, using abstract words to run away and evade the topic.\"",
+          "note": "MG imagines prospective response; UP whenever we ask restores habitual answers to concrete questions.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0302",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0302"
+            ],
+            "MG": [
+              "umi1_18-L0302"
+            ],
+            "UP": [
+              "umi1_18-L0302"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……だから？　それで？　人間にどうやって？　具体的には？　そう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」",
+              "translation": "...So? What's next? How would a human do it? In practical terms, I mean? I imagine you'll say \"I just can't think of anything now\" or \"with some kind of device.\" ...Using abstract words to run away and evade the topic.\" "
+            },
+            "UP": {
+              "japanese": "「……だから？　それで？　人間にどうやって？　具体的には？　そう聞くと、決まって戦人は、今は思いつかないけど、とか、何かの仕掛けで、とか、抽象的な言葉で逃げたりお茶を濁したり」",
+              "translation": "\"......So what? And? How would a human do it? Concretely? Whenever we ask you those questions, all you say is \"I just can't think of anything now\" or \"with some kind of device\" or something, using abstract words to run away and evade the topic.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0302"
+            ],
+            "MG": [
+              "umi1_18-L0302"
+            ],
+            "UP": [
+              "umi1_18-L0302"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Whenever pressed for concrete details, Battler invariably answers that he cannot think of them now or invokes some unspecified device.",
+      "alternative": "The prediction fits his demonstrated behavior, but changes Maria's account of already repeated answers into an expectation, reducing its evidential grounding.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-008",
+      "kind": "WH",
+      "description": "状況証拠 is rendered proof without preserving the circumstantial qualification.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              319,
+              320
+            ],
+            "MG": [
+              319,
+              320
+            ],
+            "UP": [
+              319,
+              320
+            ]
+          },
+          "japanese": "「戦人くん…、どうして、信じないんだい？\nこれほどまでに、状況証拠は揃ってるのに」",
+          "japanesePC": "「戦人くん…、どうして、信じないんだい？　これほどまでに、状況証拠は揃ってるのに。」",
+          "japanesePS3": "「戦人くん…、どうして、信じないんだい？\nこれほどまでに、状況証拠は揃ってるのに」",
+          "WH": "\"Battler-kun..., why don't you believe?  Even though there's so much proof.\"",
+          "MG": "\"Battler-kun, ...why don't you believe?\nEven though there's so much proof.\"",
+          "UP": "\"Battler‐kun... Why don't you believe?\nLook at how much circumstantial evidence there is.\"",
+          "note": "MG proof still loses circumstantial limitation; UP explicitly preserves circumstantial evidence.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0319",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0319"
+            ],
+            "MG": [
+              "umi1_18-L0319"
+            ],
+            "UP": [
+              "umi1_18-L0319"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「戦人くん…、どうして、信じないんだい？　これほどまでに、状況証拠は揃ってるのに」",
+              "translation": "\"Battler-kun, ...why don't you believe? Even though there's so much proof.\" "
+            },
+            "UP": {
+              "japanese": "「戦人くん…、どうして、信じないんだい？　これほどまでに、状況証拠は揃ってるのに」",
+              "translation": "\"Battler‐kun... Why don't you believe? Look at how much circumstantial evidence there is.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0319"
+            ],
+            "MG": [
+              "umi1_18-L0319"
+            ],
+            "UP": [
+              "umi1_18-L0319"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George asks why Battler refuses to believe when so much circumstantial evidence has accumulated.",
+      "alternative": "The group already asserts the witch exists, and proof can be used loosely in conversation, but the Japanese here explicitly specifies the evidence type.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-009",
+      "kind": "WH",
+      "description": "ようやく一端が見えてきた is rendered I finally figured it out without the limited scope of 一端.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              333,
+              338
+            ],
+            "MG": [
+              333,
+              338
+            ],
+            "UP": [
+              333,
+              338
+            ]
+          },
+          "japanese": "「へへ…。\nなぁるほどな。\n……ようやく一端が見えてきたぜ。\n…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？\n全員が認めた嘘は“真実”になる。\n……そういうこったろッ？！」",
+          "japanesePC": "「へへ…。なぁるほどな。……ようやく一端が見えてきたぜ。…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？　全員が認めた嘘は“真実”になる。……そういうこったろッ？！",
+          "japanesePS3": "「へへ…。\nなぁるほどな。\n……ようやく一端が見えてきたぜ。\n…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？\n全員が認めた嘘は“真実”になる。\n……そういうこったろッ？！」",
+          "WH": "\"Hehe...  No-w I see.  ......I finally figured it out.  ...So in other words, you guys want to force me to say that the witch exists, right?  If everyone accepts this, the lie will become 'the truth'.  ......Is that what this is all about?!",
+          "MG": "\"Hehe...\nNow I see.\n...I finally figured it out.\n...So, in other words, you guys are trying to force me to say the witch exists, right?\nA lie that everyone accepts becomes \"the truth\".\n...Is that what this is all about?!",
+          "UP": "\"Heheh...\nNowww I see.\n......I finally figured it out.\n...So in other words, you guys want to get me to say that the witch exists, don't you?\nIf everyone accepts this lie, it will become \"the truth\".\n......That's what this is all about, isn't it?!\"",
+          "note": "Both finally figured it out omit source only one part beginning to become visible; next inference remains interrogation of consensus pressure.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_18-L0333",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0333"
+            ],
+            "MG": [
+              "umi1_18-L0333"
+            ],
+            "UP": [
+              "umi1_18-L0333"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「へへ…。なぁるほどな。……ようやく一端が見えてきたぜ。…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？　全員が認めた嘘は“真実”になる。……そういうこったろッ？！」",
+              "translation": "\"Hehe... Now I see. ...I finally figured it out. ...So, in other words, you guys are trying to force me to say the witch exists, right? A lie that everyone accepts becomes \"the truth\". ...Is that what this is all about?! "
+            },
+            "UP": {
+              "japanese": "「へへ…。なぁるほどな。……ようやく一端が見えてきたぜ。…つまりお前らは俺に、魔女様は存在する、って言わせたいんだろ？　全員が認めた嘘は“真実”になる。……そういうこったろッ？！」",
+              "translation": "\"Heheh... Nowww I see. ......I finally figured it out. ...So in other words, you guys want to get me to say that the witch exists, don't you? If everyone accepts this lie, it will become \"the truth\". ......That's what this is all about, isn't it?!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0333"
+            ],
+            "MG": [
+              "umi1_18-L0333"
+            ],
+            "UP": [
+              "umi1_18-L0333"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler says he has finally begun seeing one aspect of what the group is doing, then proposes their pressure is intended to turn a shared lie into truth.",
+      "alternative": "The following questions keep his explanation interrogative, but his introductory assessment of how much he has grasped is more complete in English.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-010",
+      "kind": "WH",
+      "description": "全ての出来事を ... 説明してやる is rendered All of the events can be explained, dropping the first-person future undertaking.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              411,
+              414
+            ],
+            "MG": [
+              411,
+              414
+            ],
+            "UP": [
+              411,
+              414
+            ]
+          },
+          "japanese": "「寝言言いたきゃ好きなだけ言ってろ…！\n俺はお前なんか否定してやるぜ。\n全ての出来事を“人間とトリック”で説明してやる…！！\nそこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」",
+          "japanesePC": "「寝言言いたきゃ好きなだけ言ってろ…！　俺はお前なんか否定してやるぜ。全ての出来事を“人間とトリック”で説明してやる…！！　そこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」",
+          "japanesePS3": "「寝言言いたきゃ好きなだけ言ってろ…！\n俺はお前なんか否定してやるぜ。\n全ての出来事を“人間とトリック”で説明してやる…！！\nそこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」",
+          "WH": "\"If you want to talk nonsense, talk all you want...!  I deny you exist.  All of the events can be explained with 'human tricks'...!!  There's no room for even a speck of magic or witches!!\"",
+          "MG": "\"If you want to talk nonsense, talk all you want...!\nI deny you exist.\nAll of the events can be explained with \"human tricks\"...!!\nThere's no room for even a speck of magic or witches!!\"",
+          "UP": "\"Talk all the nonsense you want...!\nI deny you exist.\nAll of the events can be explained with \"human tricks\"...!!\nThere's no room for even a speck of magic or witches!!\"",
+          "note": "Both all events can be explained retain generic capability instead of I will explain them, losing explicit future personal undertaking.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_18-L0411",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0411"
+            ],
+            "MG": [
+              "umi1_18-L0411"
+            ],
+            "UP": [
+              "umi1_18-L0411"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「寝言言いたきゃ好きなだけ言ってろ…！　俺はお前なんか否定してやるぜ。全ての出来事を“人間とトリック”で説明してやる…！！　そこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」",
+              "translation": "\"If you want to talk nonsense, talk all you want...! I deny you exist. All of the events can be explained with \"human tricks\"...!! There's no room for even a speck of magic or witches!!\" "
+            },
+            "UP": {
+              "japanese": "「寝言言いたきゃ好きなだけ言ってろ…！　俺はお前なんか否定してやるぜ。全ての出来事を“人間とトリック”で説明してやる…！！　そこには一片たりとも魔女も魔法も入り込む余地はねぇッ！！」",
+              "translation": "\"Talk all the nonsense you want...! I deny you exist. All of the events can be explained with \"human tricks\"...!! There's no room for even a speck of magic or witches!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0411"
+            ],
+            "MG": [
+              "umi1_18-L0411"
+            ],
+            "UP": [
+              "umi1_18-L0411"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Battler vows that he will explain every event through humans and tricks, denying any room for witches or magic.",
+      "alternative": "He has already asserted human explainability and directly denies Beatrice in English, so overall opposition survives; nevertheless this specific challenge promises his own explanation rather than merely asserting feasibility.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-011",
+      "kind": "WH",
+      "description": "謳うような魔法の言葉 becomes magic words which sounded like a command.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              463,
+              466
+            ],
+            "MG": [
+              463,
+              466
+            ],
+            "UP": [
+              463,
+              466
+            ]
+          },
+          "japanese": "「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」\n謳うような魔法の言葉に導かれ、７つの杭が集います。",
+          "japanesePC": "謳うような魔法の言葉に導かれ、７つの杭が集います。",
+          "japanesePS3": "「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」\n謳うような魔法の言葉に導かれ、７つの杭が集います。",
+          "WH": "Guided by those magic words, which sounded like a command, seven stakes gathered.",
+          "MG": "\"Come, arise, children.\nI am the guide of Purgatory.\nForgive the deadly sins and hold the Seven Stakes.\"\nGuided by those magic words, which sounded like a command, seven stakes gathered.",
+          "UP": "\"Come, arise, children.\nI am the guide of Purgatory.\nWield the seven stakes, which forgave the deadly sins.\"\nGuided by those magic words, which sounded like a psalm, seven stakes gathered.",
+          "note": "MG retains command-like sound; UP psalm restores chanting/song-like incantation.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0463",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0466"
+            ],
+            "MG": [
+              "umi1_18-L0463",
+              "umi1_18-L0466"
+            ],
+            "UP": [
+              "umi1_18-L0463",
+              "umi1_18-L0466"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "謳うような魔法の言葉に導かれ、７つの杭が集います。\n…それは、罪深き人の大罪を象徴する七人の悪魔たちの杭。",
+              "translation": "Guided by those magic words, which sounded like a command, seven stakes gathered. ...They were the stakes of the seven demons symbolizing the deadly sins of sinful people. "
+            },
+            "UP": {
+              "japanese": "謳うような魔法の言葉に導かれ、７つの杭が集います。\n…それは、罪深き人の大罪を象徴する七人の悪魔たちの杭。",
+              "translation": "Guided by those magic words, which sounded like a psalm, seven stakes gathered.\n...They were the stakes of the seven demons symbolizing the deadly sins of sinful people."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0466"
+            ],
+            "MG": [
+              "umi1_18-L0466"
+            ],
+            "UP": [
+              "umi1_18-L0466"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Seven stakes gather, guided by magic words delivered as though singing.",
+      "alternative": "Her words are imperative commands, but the source simile specifies their musical delivery rather than their grammatical function.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-012",
+      "kind": "WH",
+      "description": "The sound of repeated 乱反射 against walls throughout the room becomes several scattered noises refracted through the wall.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              473,
+              474
+            ],
+            "MG": [
+              473,
+              474
+            ],
+            "UP": [
+              473,
+              474
+            ]
+          },
+          "japanese": "その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。\nそして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。",
+          "japanesePC": "そして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。",
+          "japanesePS3": "その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。\nそして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。",
+          "WH": "Then, several scattered noises refracted through the wall, making a sound like a woodpecker.",
+          "MG": "The two stakes of the demons were sucked in through the crack of the door, like billiard balls struck by a cue stick.\nThen, several scattered noises refracted through the wall, making a sound like a woodpecker.",
+          "UP": "The two demonic stakes burst into motion like billiard balls struck by a cue, and were sucked in through the crack of the door.\nThen came the sound of them deflecting repeatedly off the walls of the room, making a sound like a woodpecker.",
+          "note": "MG retains noises refracted through wall; UP explicitly restores repeated deflection off room walls.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0472",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0472"
+            ],
+            "MG": [
+              "umi1_18-L0472"
+            ],
+            "UP": [
+              "umi1_18-L0472"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ベアトリーチェの呼びかけに、ベルゼブブの杭とアスモデウスの杭が応えます。その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。そして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。そして最後に、気持ちのいい音が聞こえました。……例えるなら、薪割りの時、振るい下ろした斧が綺麗にさっくりと薪を割ったような、とても小気味よい音。それは、２本の杭がそれぞれ、絵羽と秀吉の眉間に深々と打ち込まれた時の音。",
+              "translation": "The picks of Beelzebub and Asmodeus responded to Beatrice's call. The two stakes of the demons were sucked in through the crack of the door, like billiard balls struck by a cue stick. Then, several scattered noises refracted through the wall, making a sound like a woodpecker. And at the end, a pleasant sound could be heard. ...It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood. It was the sound of the two picks burying themselves deep into Eva's and Hideyoshi's foreheads. "
+            },
+            "UP": {
+              "japanese": "ベアトリーチェの呼びかけに、ベルゼブブの杭とアスモデウスの杭が応えます。その２本の悪魔の杭は、まるでキューに弾かれたビリヤードの玉のように弾かれ、扉の隙間に吸い込まれていきます。そして、部屋中の壁に何度も乱反射する音が、まるで啄木鳥の啄ばむ音のように聞こえてくるのです。そして最後に、気持ちのいい音が聞こえました。……例えるなら、薪割りの時、振るい下ろした斧が綺麗にさっくりと薪を割ったような、とても小気味よい音。それは、２本の杭がそれぞれ、絵羽と秀吉の眉間に深々と打ち込まれた時の音。",
+              "translation": "The stakes of Beelzebub and Asmodeus responded to Beatrice's call. The two demonic stakes burst into motion like billiard balls struck by a cue, and were sucked in through the crack of the door. Then came the sound of them deflecting repeatedly off the walls of the room, making a sound like a woodpecker. And finally, a pleasant sound could be heard. ......It was a small, satisfying sound, like the one heard when someone is chopping firewood and the falling ax neatly and easily slices through the wood. It was the sound of the two stakes burying themselves deep into Eva and Hideyoshi's foreheads."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0472"
+            ],
+            "MG": [
+              "umi1_18-L0472"
+            ],
+            "UP": [
+              "umi1_18-L0472"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After the stakes enter, the characters hear them repeatedly ricocheting against the room walls, with a woodpecker-like sound.",
+      "alternative": "Sound can travel through a wall, but the Japanese describes repeated bouncing of the stakes within the room; transmission through a wall is not the reported mechanism.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-013",
+      "kind": "WH",
+      "description": "寸分違わぬ同じ姿で倒れ becomes lay not an inch apart from where they had lain the last time.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              480,
+              482
+            ],
+            "MG": [
+              480,
+              482
+            ],
+            "UP": [
+              480,
+              482
+            ]
+          },
+          "japanese": "部屋からは確かに、眉間が砕ける音が二人分聞こえました。\n扉越しの戦人には見ることも叶いませんが、\n二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。",
+          "japanesePC": "扉越しの戦人には見ることも叶いませんが、二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。",
+          "japanesePS3": "部屋からは確かに、眉間が砕ける音が二人分聞こえました。\n扉越しの戦人には見ることも叶いませんが、\n二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。",
+          "WH": "Battler wasn't permitted to see it, since he was on the other side of the door, but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood-spray as before.",
+          "MG": "They'd definitely heard two sounds like a pair of foreheads being split open.\nBattler wasn't permitted to see it, since he was on the other side of the door,\nbut those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood-spray as before.",
+          "UP": "They had definitely heard two sounds like someone's forehead being split open.\nBattler wasn't permitted to see it, since he was on the other side of the door,\nbut those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood spray as before.",
+          "note": "Both retain precise prior location instead of identical fallen appearance/posture. Blood pattern identity survives, but is distinct from this positional substitution.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_18-L0480",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0480"
+            ],
+            "MG": [
+              "umi1_18-L0480"
+            ],
+            "UP": [
+              "umi1_18-L0480"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "部屋からは確かに、眉間が砕ける音が二人分聞こえました。扉越しの戦人には見ることも叶いませんが、二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。",
+              "translation": "They'd definitely heard two sounds like a pair of foreheads being split open. Battler wasn't permitted to see it, since he was on the other side of the door, but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood-spray as before. "
+            },
+            "UP": {
+              "japanese": "部屋からは確かに、眉間が砕ける音が二人分聞こえました。扉越しの戦人には見ることも叶いませんが、二度死ぬ二人は、二度目も寸分違わぬ同じ姿で倒れ、同じ模様の血痕を描くのでした。",
+              "translation": "They had definitely heard two sounds like someone's forehead being split open. Battler wasn't permitted to see it, since he was on the other side of the door, but those two had died again, and this second time, they lay not an inch apart from where they had lain the last time, with the exact same blood spray as before."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0480"
+            ],
+            "MG": [
+              "umi1_18-L0480"
+            ],
+            "UP": [
+              "umi1_18-L0480"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "They die a second time, falling in exactly the same appearance/posture and producing the same bloodstain pattern. Battler cannot see from beyond the door.",
+      "alternative": "姿 may include a broad visual arrangement, and identical blood patterns imply substantial physical correspondence, but English specifically guarantees matched location while losing the explicit matching bodily appearance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-014",
+      "kind": "WH",
+      "description": "爪を立てるほど becomes fingers pressing in against her cheek, losing the nails and escalation.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              531,
+              536
+            ],
+            "MG": [
+              531,
+              536
+            ],
+            "UP": [
+              531,
+              536
+            ]
+          },
+          "japanese": "紗音が頬を押さえながら呻き始めます。\n…虫歯でも痛むのかもしれません。\nですが、それはどうも虫歯ではないようでした。\n……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。\nその赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。\n頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。",
+          "japanesePC": "頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。",
+          "japanesePS3": "紗音が頬を押さえながら呻き始めます。\n…虫歯でも痛むのかもしれません。\nですが、それはどうも虫歯ではないようでした。\n……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。\nその赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。\n頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。",
+          "WH": "Her fingers were pressing in against her cheek, and drops of sweat appeared all over her body...",
+          "MG": "Shannon started moaning, holding her cheek.\n...Maybe she had a toothache.\nBut apparently, it wasn't a toothache after all.\n...A slight redness spread across the cheek Shannon was holding.\nIt looked like that redness was causing Shannon unbearable pain...\nHer fingers were pressing in against her cheek, and drops of sweat appeared all over her body...",
+          "UP": "Shannon started moaning, holding her cheek.\n...Maybe she had a toothache.\nBut it didn't look anything like a toothache.\n......A slight redness spread across the cheek Shannon was holding.\nIt looked like that redness was causing Shannon unbearable pain...\nShe started to press her nails into her cheek, and drops of sweat appeared all over her body...",
+          "note": "MG fingers pressing retains loss of nails/escalation; UP explicitly restores nails pressed into cheek.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0531",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0533"
+            ],
+            "MG": [
+              "umi1_18-L0531",
+              "umi1_18-L0533"
+            ],
+            "UP": [
+              "umi1_18-L0531",
+              "umi1_18-L0533"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ですが、それはどうも虫歯ではないようでした。\n……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。その赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。",
+              "translation": "But apparently, it wasn't a toothache after all. ...A slight redness spread across the cheek Shannon was holding. It looked like that redness was causing Shannon unbearable pain... Her fingers were pressing in against her cheek, and drops of sweat appeared all over her body... "
+            },
+            "UP": {
+              "japanese": "ですが、それはどうも虫歯ではないようでした。\n……うっすらと赤い模様が、紗音が押さえる頬全体に広がっていくのです。その赤い模様は、紗音にとって、堪え難い苦痛を与えているようでした…。頬に当てる手はいつしか爪を立てるほどになり、全身に汗が玉のように浮いていきます…。",
+              "translation": "But it didn't look anything like a toothache.\n......A slight redness spread across the cheek Shannon was holding. It looked like that redness was causing Shannon unbearable pain... She started to press her nails into her cheek, and drops of sweat appeared all over her body..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0533"
+            ],
+            "MG": [
+              "umi1_18-L0533"
+            ],
+            "UP": [
+              "umi1_18-L0533"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Her hand against her cheek has progressed to digging in her nails as unbearable pain makes sweat bead over her whole body.",
+      "alternative": "Pressure can accompany the action, but it does not preserve the specified clawing/nail detail.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-015",
+      "kind": "WH",
+      "description": "どのような奇怪な最期を遂げたのか becomes death George and the rest were experiencing.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.viewpoint_attribution",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              560,
+              565
+            ],
+            "MG": [
+              560,
+              565
+            ],
+            "UP": [
+              560,
+              565
+            ]
+          },
+          "japanese": "今度は、譲治の全身に赤い模様が広がっていきます…。\nそれはまるで、紅茶にたっぷりと落としたミルクが描くかのような美しき雲模様。\nそれらがじわりと、そして全体に、広がっていきます。\n……それらは色濃くなるに従い、譲治に苦痛を与えるようでした。\nその奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、\n哀れなほど拙い想像力で必死に考え、立ち竦みます…。",
+          "japanesePC": "その奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、哀れなほど拙い想像力で必死に考え、立ち竦みます…。",
+          "japanesePS3": "今度は、譲治の全身に赤い模様が広がっていきます…。\nそれはまるで、紅茶にたっぷりと落としたミルクが描くかのような美しき雲模様。\nそれらがじわりと、そして全体に、広がっていきます。\n……それらは色濃くなるに従い、譲治に苦痛を与えるようでした。\nその奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、\n哀れなほど拙い想像力で必死に考え、立ち竦みます…。",
+          "WH": "Looking at this bizarre spectacle, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...about the nature of this strange death George and the rest were experiencing...",
+          "MG": "This time, the redness spread across George's entire body...\nIt was like the beautiful cloud drawn by milk when it's poured into black tea.\nIt spread out and extended across his entire body.\n...As it did, it seemed to give George increasingly greater pain.\nLooking at this bizarre spectacle, ...Battler was petrified as he frantically thought with his pitifully clumsy imagination...\nabout the nature of this strange death George and the rest were experiencing...",
+          "UP": "This time, red patterns began to spread across George's entire body...\nIt was like the beautiful cloud drawn by milk when it is poured into black tea.\nThey slowly spread out and extended across his entire body.\n......As they grew more saturated in color, they seemed to give George increasingly greater pain.\nLooking at those bizarre patterns, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination...\nabout the nature of the strange deaths that George and the others had experienced...",
+          "note": "MG experiencing retains present-death shift; UP had experienced restores inference concerning earlier deaths.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0560",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0564"
+            ],
+            "MG": [
+              "umi1_18-L0560",
+              "umi1_18-L0564"
+            ],
+            "UP": [
+              "umi1_18-L0560",
+              "umi1_18-L0564"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、哀れなほど拙い想像力で必死に考え、立ち竦みます…。やがて、……その赤い模様はさらに隣の朱志香にも……。",
+              "translation": "Looking at this bizarre spectacle, ...Battler was petrified as he frantically thought with his pitifully clumsy imagination... about the nature of this strange death George and the rest were experiencing... Eventually, ...that redness reached the nearby Jessica as well... "
+            },
+            "UP": {
+              "japanese": "その奇怪な模様を見て、……戦人は、譲治たちがどのような奇怪な最期を遂げたのか、哀れなほど拙い想像力で必死に考え、立ち竦みます…。やがて、……その赤い模様はさらに隣の朱志香にも……。",
+              "translation": "Looking at those bizarre patterns, ......Battler was petrified as he frantically thought with his pitifully clumsy imagination... about the nature of the strange deaths that George and the others had experienced... Before long, ......that redness reached the nearby Jessica as well......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0564"
+            ],
+            "MG": [
+              "umi1_18-L0564"
+            ],
+            "UP": [
+              "umi1_18-L0564"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Seeing the strange pattern, Battler desperately imagines what bizarre end George and the others had previously met and freezes.",
+      "alternative": "The current destruction reenacts those deaths, but the source explicitly makes his mental reconstruction retrospective rather than merely interpreting the present spectacle.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-TEA-016",
+      "kind": "WH",
+      "description": "身内を疑いたくなかった is rendered did not want to doubt our friends.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.relationship_power",
+        "character.motivation_emotion",
+        "mystery.mystery_character_link"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              602,
+              607
+            ],
+            "MG": [
+              602,
+              607
+            ],
+            "UP": [
+              602,
+              607
+            ]
+          },
+          "japanese": "「ば、\n…戦人……ッ！\n私たちは、\n……身内を疑いたくなかった…。\n現実から目を逸らしたから、\n…魔女に屈してしまった……！",
+          "japanesePC": "……身内を疑いたくなかった…。現実から目を逸らしたから、",
+          "japanesePS3": "「ば、\n…戦人……ッ！\n私たちは、\n……身内を疑いたくなかった…。\n現実から目を逸らしたから、\n…魔女に屈してしまった……！",
+          "WH": "......didn't want to doubt our friends...  We refused to face reality,",
+          "MG": "\"Ba‐\nBattler...!\nWe...\n...didn't want to doubt our friends...\nWe refused to face reality...\nand gave in to the witch...!",
+          "UP": "\"Ba‐\n...Battler......!\nWe...\n...didn't want to doubt our friends...\nWe refused to face reality,\n...and gave in to the witch......!",
+          "note": "Both friends retain loss of family/own circle in 身内; preceding family-suspicion discussion supplies intended context but does not restore lexical relationship.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_18-L0602",
+          "readerRefs": {
+            "WH": [
+              "umi1_18-L0602"
+            ],
+            "MG": [
+              "umi1_18-L0602"
+            ],
+            "UP": [
+              "umi1_18-L0602"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ば、…戦人……ッ！　私たちは、……身内を疑いたくなかった…。現実から目を逸らしたから、…魔女に屈してしまった……！　でも、…戦人なら…。……戦人なら、……魔女になんか屈しない……！　ひぐッ、ぐかかか、……くかかかかかかかッ！！！」",
+              "translation": "\"Ba‐ Battler...! We... ...didn't want to doubt our friends... We refused to face reality... and gave in to the witch...! But... Battler, you won't... ...won't... give in to the witch...! Geh, ggghh, ...gggggghhkkkkkkk!!!\" "
+            },
+            "UP": {
+              "japanese": "「ば、…戦人……ッ！　私たちは、……身内を疑いたくなかった…。現実から目を逸らしたから、…魔女に屈してしまった……！　でも、…戦人なら…。……戦人なら、……魔女になんか屈しない……！　ひぐッ、ぐかかか、……くかかかかかかかッ！！！」",
+              "translation": "\"Ba‐ ...Battler......! We... ...didn't want to doubt our friends... We refused to face reality, ...and gave in to the witch......! But... I know you... ......I know you won't... ...give in to that witch......! Geh... ggghh... ......gggggghhkkkkkkk!!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_18-L0602"
+            ],
+            "MG": [
+              "umi1_18-L0602"
+            ],
+            "UP": [
+              "umi1_18-L0602"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Jessica says they did not want to suspect their own family/inner circle, turned away from reality and surrendered to the witch.",
+      "alternative": "身内 can encompass insiders beyond blood relatives, but friends substitutes a different relationship; the preceding debate explicitly centers suspicions against relatives and family loyalty.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-TEA-MARIA-WITCH-FRIEND-001",
+      "kind": "additional",
+      "description": "Maria cites a witch friend of her own saying miracles require belief. MG makes the friend one of Beatrice’s witch friends (“her witch friends”), shifting the relationship and ownership of Maria’s cited testimony. UP correctly says “my witch friends”.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              51,
+              55
+            ],
+            "MG": [
+              51,
+              55
+            ],
+            "UP": [
+              51,
+              55
+            ]
+          },
+          "japanese": "「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。\nみんなずっと信じなかったから駄目だった。\nうー！\n信じないと奇跡は起きないって、友達の魔女も言ってる！\nうー！」",
+          "japanesePC": "",
+          "japanesePS3": "「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。\nみんなずっと信じなかったから駄目だった。\nうー！\n信じないと奇跡は起きないって、友達の魔女も言ってる！\nうー！」",
+          "WH": "",
+          "MG": "\"Like I kept saying, Beatrice exists.\nIt all went bad because no one ever believed.\nUu-!\nEven one of her witch friends says that miracles won't occur if you don't believe.\nUu-!\"",
+          "UP": "\"That's why I kept telling you Beatrice exists.\nIt all went bad because no one ever believed.\nUu!\nEven one of my witch friends says miracles won't happen if you don't believe!\nUu!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0051",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0051"
+            ],
+            "UP": [
+              "umi1_18-L0051"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。みんなずっと信じなかったから駄目だった。うー！　信じないと奇跡は起きないって、友達の魔女も言ってる！　うー！」",
+              "translation": "\"Like I kept saying, Beatrice exists. It all went bad because no one ever believed. Uu-! Even one of her witch friends says that miracles won't occur if you don't believe. Uu-!\" "
+            },
+            "UP": {
+              "japanese": "「だから真里亞は、ベアトリーチェがいるーってずっと言ってる。みんなずっと信じなかったから駄目だった。うー！　信じないと奇跡は起きないって、友達の魔女も言ってる！　うー！」",
+              "translation": "\"That's why I kept telling you Beatrice exists. It all went bad because no one ever believed. Uu! Even one of my witch friends says miracles won't happen if you don't believe! Uu!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0051"
+            ],
+            "UP": [
+              "umi1_18-L0051"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "A witch friend of mine says miracles won’t happen unless you believe.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-TEA-CHAIN-APERTURE-LOOKING-001",
+      "kind": "additional",
+      "description": "Battler says the culprit could secure a door gap limited by the chain. Both translations instead say it was possible to look in through that crack, replacing availability of a working aperture with a visual-access proposition.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              171,
+              172
+            ],
+            "MG": [
+              171,
+              172
+            ],
+            "UP": [
+              171,
+              172
+            ]
+          },
+          "japanese": "とにかく、犯人は鍵だけは持ってる可能性が高いからな。\nチェーンに許される程度の、扉の隙間は確保できたわけだ」",
+          "japanesePC": "",
+          "japanesePS3": "とにかく、犯人は鍵だけは持ってる可能性が高いからな。\nチェーンに許される程度の、扉の隙間は確保できたわけだ」",
+          "WH": "",
+          "MG": "Anyway, there's at least a good chance the culprit had a key.\nAnd it was possible to look in through the crack of the door that the chain allowed.",
+          "UP": "Anyways, there's a good chance that the culprit had the key at least.\nAnd it was possible to look in through the crack of the door that the chain allowed.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_18-L0169",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0169"
+            ],
+            "UP": [
+              "umi1_18-L0169"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…まぁ、……確かにそのトリックは劇中でも保留になったままだったな。とにかく、犯人は鍵だけは持ってる可能性が高いからな。チェーンに許される程度の、扉の隙間は確保できたわけだ」",
+              "translation": "\"...Well, ...we did have to leave that trick alone during the story. Anyway, there's at least a good chance the culprit had a key. And it was possible to look in through the crack of the door that the chain allowed. "
+            },
+            "UP": {
+              "japanese": "「…まぁ、……確かにそのトリックは劇中でも保留になったままだったな。とにかく、犯人は鍵だけは持ってる可能性が高いからな。チェーンに許される程度の、扉の隙間は確保できたわけだ」",
+              "translation": "\"...Well, ......you're right, we did have to leave that trick alone during the story. Anyways, there's a good chance that the culprit had the key at least. And it was possible to look in through the crack of the door that the chain allowed.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0169"
+            ],
+            "UP": [
+              "umi1_18-L0169"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "The culprit could therefore open the door as far as the chain allowed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-TEA-CHAIN-EXTRACTION-DIRECTION-001",
+      "kind": "additional",
+      "description": "Battler alternatively proposes bringing something out through the gap. MG instead suggests sticking something through it, losing the outward extraction direction and collapsing the distinct alternative into insertion. UP preserves brought something out.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              173,
+              174
+            ],
+            "MG": [
+              173,
+              174
+            ],
+            "UP": [
+              173,
+              174
+            ]
+          },
+          "japanese": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」",
+          "japanesePC": "",
+          "japanesePS3": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。\n…いや、あるいは、その隙間から、何かを出したとか…？」",
+          "WH": "",
+          "MG": "...I know this is a stretch, but it's possible some device was used through that crack.\n...Like maybe they stuck something through it...?\"",
+          "UP": "\"......This is extremely far‐fetched, but it is possible that some device was used through that crack.\n...Or maybe they brought something out through the crack...?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0173",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0173"
+            ],
+            "UP": [
+              "umi1_18-L0173"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。…いや、あるいは、その隙間から、何かを出したとか…？」",
+              "translation": "...I know this is a stretch, but it's possible some device was used through that crack. ...Like maybe they stuck something through it...?\" "
+            },
+            "UP": {
+              "japanese": "「……非常に苦しい話だが、その隙間から何かの仕掛けを施した可能性はありえるな。…いや、あるいは、その隙間から、何かを出したとか…？」",
+              "translation": "\"......This is extremely far‐fetched, but it is possible that some device was used through that crack. ...Or maybe they brought something out through the crack...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0173"
+            ],
+            "UP": [
+              "umi1_18-L0173"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Or perhaps they took something out through that gap?",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-TEA-HUMAN-FEASIBILITY-SCOPE-001",
+      "kind": "additional",
+      "description": "Battler asserts that the present crime could be managed by a human somehow, despite lacking an explanation. MG broadens this to there being nothing humans cannot do if they try hard enough. UP keeps the assertion about managing this case.",
+      "categories": [
+        "linguistic.overinterpretation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              178,
+              180
+            ],
+            "MG": [
+              178,
+              180
+            ],
+            "UP": [
+              178,
+              180
+            ]
+          },
+          "japanese": "「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」\n「それは酷い暴論じゃないかい…？\n説明できないのに、人間に可能だと断言できるなんて、めちゃめちゃだよ…」",
+          "japanesePC": "",
+          "japanesePS3": "「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」\n「それは酷い暴論じゃないかい…？\n説明できないのに、人間に可能だと断言できるなんて、めちゃめちゃだよ…」",
+          "WH": "",
+          "MG": "...Anyway, I can't think of one now, ...but I claim that there's nothing humans can't do if they try hard enough.\"\n\"Isn't that argument horribly irrational...?\nIt's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how...\"",
+          "UP": "\"......Anyways, I can't think of one now...but I can state for certain that a human could manage it somehow if they tried hard enough.\"\n\"Isn't that argument horribly irrational...?\nIt's just ridiculous to claim that it's possible for a human to do something, even though you can't explain how...\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0175",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0175",
+              "umi1_18-L0179"
+            ],
+            "UP": [
+              "umi1_18-L0175",
+              "umi1_18-L0179"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……んんん、確かにチェーンってのは、偉いシンプルだが、密室を構成するでかい要素だな…。………だが、密室トリックなんておよそやり尽くされてるんだ。そこいらの書店で密室ミステリーを数冊買ってくりゃ、どうせビンゴなトリックが見付かるだろうぜ」「……とにかく、俺には思いつかねぇが、どうにかやりくりすりゃあ、人間にできないことはないだろうって断言できる」",
+              "translation": "\"...Hmmmm, well, even though a door chain is incredibly simple, it's a big factor in setting up a closed room... ...Still, there's probably some closed room trick they could've used. If you bought some closed room mystery novels from the bookstore, you could probably find some trick that'd fit perfectly. ...Anyway, I can't think of one now, ...but I claim that there's nothing humans can't do if they try hard enough.\" "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0175"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "I cannot think of it, but I can say a human could manage it somehow.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-TEA-WITCH-LAST-RESORT-ACCEPTANCE-001",
+      "kind": "additional",
+      "description": "Battler says witches are the desperate explanation raised only after human possibilities have all been ruled out. MG substitutes a first-person commitment, “I’ll only accept that it’s a witch in desperation”, making him promise conditional acceptance rather than state the order in which explanations should be considered. UP preserves the methodological formulation.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              283,
+              285
+            ],
+            "MG": [
+              283,
+              285
+            ],
+            "UP": [
+              283,
+              285
+            ]
+          },
+          "japanese": "「そういうわけじゃねぇ…。\nただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、\nそれら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」",
+          "japanesePC": "",
+          "japanesePS3": "「そういうわけじゃねぇ…。\nただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、\nそれら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」",
+          "WH": "",
+          "MG": "\"That's not it...\nIt's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human.\nI'll only accept that it's a witch in desperation, at the very end, after everything else has been disproved.\"",
+          "UP": "\"That's not it...\nIt's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human—\nwitches are something you only start talking about in desperation, at the very end, after everything else has been disproved, that's what I'm trying to say.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0283",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0283"
+            ],
+            "UP": [
+              "umi1_18-L0283"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そういうわけじゃねぇ…。ただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、それら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」",
+              "translation": "\"That's not it... It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human. I'll only accept that it's a witch in desperation, at the very end, after everything else has been disproved.\" "
+            },
+            "UP": {
+              "japanese": "「そういうわけじゃねぇ…。ただその、安易に１９人目を肯定はできねぇし、仮にいたとしてもそれは人間だって見地から話を構築すべきであって、それら全部を否定しきった最後の最後で苦し紛れに出てくるのが魔女だろって話をしたいんだ」",
+              "translation": "\"That's not it... It's just, uh, I can't easily accept that a 19th person existed...and even if one did, I think we should construct our argument from the point of view that the culprit was a human— witches are something you only start talking about in desperation, at the very end, after everything else has been disproved, that's what I'm trying to say.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0283"
+            ],
+            "UP": [
+              "umi1_18-L0283"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "A witch is the desperate explanation you raise at the very end, after ruling out all those possibilities.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-TEA-BEATRICE-ATTITUDE-UNDERSTANDING-001",
+      "kind": "additional",
+      "description": "Beatrice concludes that Battler’s attitude makes sense given his resistance to magic. MG instead says “I accept that attitude of yours”, shifting explanatory understanding into personal acceptance or approval. UP preserves “That attitude of yours makes a great deal of sense”.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              390,
+              397
+            ],
+            "MG": [
+              390,
+              397
+            ],
+            "UP": [
+              390,
+              397
+            ]
+          },
+          "japanese": "「………魔に通じぬ凡夫の分際にしては、理解力は悪くない。\n………なるほど、どうやらそなたは生まれながらにして、魔力に強い抵抗力を持つらしいな」\n「……我ら魔女の天敵よ。\n…どう逆さに振るって見せようとも、\n決して我らを信じない。\nだから魔法が及ばない。\n…お前のその態度にも納得が行こうというものよ。\nくっくっくっく…！」",
+          "japanesePC": "",
+          "japanesePS3": "「………魔に通じぬ凡夫の分際にしては、理解力は悪くない。\n………なるほど、どうやらそなたは生まれながらにして、魔力に強い抵抗力を持つらしいな」\n「……我ら魔女の天敵よ。\n…どう逆さに振るって見せようとも、\n決して我らを信じない。\nだから魔法が及ばない。\n…お前のその態度にも納得が行こうというものよ。\nくっくっくっく…！」",
+          "WH": "",
+          "MG": "\"...Your powers of comprehension aren't bad for a mere commoner who knows nothing of magic.\n...Yes, it seems you were born with a strong magic-resisting power.\n...You're a natural enemy of us witches.\n...No matter how much we turn your world upside down,\nyou never believe in us.\nTherefore, the magic won't succeed.\n...I accept that attitude of yours.\n*cackle*cackle*...!\"",
+          "UP": "\".........Your power of understanding isn't bad for a common mortal who knows nothing of magic.\n.........I see, it seems that you were born with a strong magic‐resisting power.\"\n\"......The natural enemy of us witches.\n...No matter how much we tip you upside down and shake you,\nyou will never believe in us.\nTherefore, magic will fall short against you.\n...That attitude of yours makes a great deal of sense.\n*cackle*cackle*...!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0390",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0390",
+              "umi1_18-L0392"
+            ],
+            "UP": [
+              "umi1_18-L0390",
+              "umi1_18-L0392"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……我ら魔女の天敵よ。…どう逆さに振るって見せようとも、決して我らを信じない。だから魔法が及ばない。…お前のその態度にも納得が行こうというものよ。くっくっくっく…！」",
+              "translation": "...You're a natural enemy of us witches. ...No matter how much we turn your world upside down, you never believe in us. Therefore, the magic won't succeed. ...I accept that attitude of yours. *cackle*cackle*...!\" "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0392"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "That would explain your attitude.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-TEA-STAKE-INVOCATION-SYNTAX-001",
+      "kind": "additional",
+      "description": "The incantation commands bringing/wielding the seven stakes qualified as absolving deadly sins. MG splits the qualification into a separate imperative, “Forgive the deadly sins and hold the Seven Stakes”, changing what the summoned children are commanded to do and detaching the stakes’ stated function. UP preserves the relative clause attached to the stakes.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_18",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              463,
+              465
+            ],
+            "MG": [
+              463,
+              465
+            ],
+            "UP": [
+              463,
+              465
+            ]
+          },
+          "japanese": "「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」",
+          "japanesePC": "",
+          "japanesePS3": "「さぁさ、お出でなさいな子どもたち。\n我こそは煉獄の案内人。\n大罪を赦せし七つの杭を持て」",
+          "WH": "",
+          "MG": "\"Come, arise, children.\nI am the guide of Purgatory.\nForgive the deadly sins and hold the Seven Stakes.\"",
+          "UP": "\"Come, arise, children.\nI am the guide of Purgatory.\nWield the seven stakes, which forgave the deadly sins.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_18-L0463",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0463"
+            ],
+            "UP": [
+              "umi1_18-L0463"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「さぁさ、お出でなさいな子どもたち。我こそは煉獄の案内人。大罪を赦せし七つの杭を持て」",
+              "translation": "\"Come, arise, children. I am the guide of Purgatory. Forgive the deadly sins and hold the Seven Stakes.\" "
+            },
+            "UP": {
+              "japanese": "「さぁさ、お出でなさいな子どもたち。我こそは煉獄の案内人。大罪を赦せし七つの杭を持て」",
+              "translation": "\"Come, arise, children. I am the guide of Purgatory. Wield the seven stakes, which forgave the deadly sins.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_18-L0463"
+            ],
+            "UP": [
+              "umi1_18-L0463"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "Bring the seven stakes that absolve the deadly sins.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-TEA-001": {
+      "umi1_18-L0011": {
+        "WH": [
+          "I'm sure things would have ended differently"
+        ],
+        "UP": [
+          "I'm sure things would have ended differently"
+        ]
+      }
+    },
+    "WH-EP01-TEA-002": {
+      "umi1_18-L0069": {
+        "WH": [
+          "seeing him stroke Shannon's cheek"
+        ],
+        "MG": [
+          "seeing him stroke Shannon's cheek"
+        ]
+      }
+    },
+    "WH-EP01-TEA-003": {
+      "umi1_18-L0158": {
+        "WH": [
+          "he went out the window, fell down"
+        ],
+        "MG": [
+          "he went out the window, fell down"
+        ]
+      }
+    },
+    "WH-EP01-TEA-004": {
+      "umi1_18-L0173": {
+        "WH": [
+          "It's really painful to talk about it"
+        ]
+      }
+    },
+    "WH-EP01-TEA-005": {
+      "umi1_18-L0175": {
+        "WH": [
+          "there's probably some closed room trick they could have used"
+        ],
+        "MG": [
+          "there's probably some closed room trick they could've used"
+        ]
+      }
+    },
+    "WH-EP01-TEA-006": {
+      "umi1_18-L0217": {
+        "WH": [
+          "That's because someone had come there before"
+        ]
+      }
+    },
+    "WH-EP01-TEA-007": {
+      "umi1_18-L0302": {
+        "WH": [
+          "I imagine you'll say"
+        ],
+        "MG": [
+          "I imagine you'll say"
+        ]
+      }
+    },
+    "WH-EP01-TEA-008": {
+      "umi1_18-L0319": {
+        "WH": [
+          "so much proof"
+        ],
+        "MG": [
+          "so much proof"
+        ]
+      }
+    },
+    "WH-EP01-TEA-009": {
+      "umi1_18-L0333": {
+        "WH": [
+          "I finally figured it out"
+        ],
+        "MG": [
+          "I finally figured it out"
+        ],
+        "UP": [
+          "I finally figured it out"
+        ]
+      }
+    },
+    "WH-EP01-TEA-010": {
+      "umi1_18-L0411": {
+        "WH": [
+          "All of the events can be explained"
+        ],
+        "MG": [
+          "All of the events can be explained"
+        ],
+        "UP": [
+          "All of the events can be explained"
+        ]
+      }
+    },
+    "WH-EP01-TEA-011": {
+      "umi1_18-L0466": {
+        "WH": [
+          "sounded like a command"
+        ],
+        "MG": [
+          "sounded like a command"
+        ]
+      }
+    },
+    "WH-EP01-TEA-012": {
+      "umi1_18-L0472": {
+        "WH": [
+          "several scattered noises refracted through the wall"
+        ],
+        "MG": [
+          "several scattered noises refracted through the wall"
+        ]
+      }
+    },
+    "WH-EP01-TEA-013": {
+      "umi1_18-L0480": {
+        "WH": [
+          "they lay not an inch apart from where they had lain the last time"
+        ],
+        "MG": [
+          "they lay not an inch apart from where they had lain the last time"
+        ],
+        "UP": [
+          "they lay not an inch apart from where they had lain the last time"
+        ]
+      }
+    },
+    "WH-EP01-TEA-014": {
+      "umi1_18-L0533": {
+        "WH": [
+          "Her fingers were pressing in against her cheek"
+        ],
+        "MG": [
+          "Her fingers were pressing in against her cheek"
+        ]
+      }
+    },
+    "WH-EP01-TEA-015": {
+      "umi1_18-L0564": {
+        "WH": [
+          "were experiencing"
+        ],
+        "MG": [
+          "were experiencing"
+        ]
+      }
+    },
+    "WH-EP01-TEA-016": {
+      "umi1_18-L0602": {
+        "WH": [
+          "our friends"
+        ],
+        "MG": [
+          "our friends"
+        ],
+        "UP": [
+          "our friends"
+        ]
+      }
+    },
+    "PAIR-EP01-TEA-MARIA-WITCH-FRIEND-001": {
+      "umi1_18-L0051": {
+        "MG": [
+          "one of her witch friends"
+        ]
+      }
+    },
+    "PAIR-EP01-TEA-CHAIN-APERTURE-LOOKING-001": {
+      "umi1_18-L0169": {
+        "MG": [
+          "it was possible to look in through the crack of the door"
+        ],
+        "UP": [
+          "it was possible to look in through the crack of the door"
+        ]
+      }
+    },
+    "PAIR-EP01-TEA-CHAIN-EXTRACTION-DIRECTION-001": {
+      "umi1_18-L0173": {
+        "MG": [
+          "they stuck something through it"
+        ]
+      }
+    },
+    "PAIR-EP01-TEA-HUMAN-FEASIBILITY-SCOPE-001": {
+      "umi1_18-L0175": {
+        "MG": [
+          "there's nothing humans can't do if they try hard enough"
+        ]
+      }
+    },
+    "PAIR-EP01-TEA-WITCH-LAST-RESORT-ACCEPTANCE-001": {
+      "umi1_18-L0283": {
+        "MG": [
+          "I'll only accept that it's a witch in desperation"
+        ]
+      }
+    },
+    "PAIR-EP01-TEA-BEATRICE-ATTITUDE-UNDERSTANDING-001": {
+      "umi1_18-L0392": {
+        "MG": [
+          "I accept that attitude of yours"
+        ]
+      }
+    },
+    "PAIR-EP01-TEA-STAKE-INVOCATION-SYNTAX-001": {
+      "umi1_18-L0463": {
+        "MG": [
+          "Forgive the deadly sins and hold the Seven Stakes"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

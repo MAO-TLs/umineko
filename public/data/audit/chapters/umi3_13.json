@@ -1,1 +1,1898 @@
-{"findings":[{"id":"WH-EP03-CH13-001","kind":"WH","description":"WH names the pointed gate of the fence where the source names the fence’s pointed tip.","categories":["linguistic.word_choice","world.world_fact"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[88,95],"MG":[88,95],"UP":[88,95]},"japanese":"「留弗夫が薔薇庭園中央にて、楼座、真里亞の遺体を確認。\nその後、ゲストハウスに戻って応援を呼び、両名をゲストハウスに運び込みました」\n「南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。\n真里亞については素手による絞殺と考えられます。\nただし“悪魔の証明”により誤診率は否定できません」\n「……妾が赤にて語る。\n楼座と真里亞は死亡した。\n死因は南條の見立て通りだ。","japanesePC":"南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。真里亞については素手による絞殺と考えられます。ただし“悪魔の証明”により誤診率は否定できません。」","japanesePS3":"「留弗夫が薔薇庭園中央にて、楼座、真里亞の遺体を確認。\nその後、ゲストハウスに戻って応援を呼び、両名をゲストハウスに運び込みました」\n「南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。\n真里亞については素手による絞殺と考えられます。\nただし“悪魔の証明”により誤診率は否定できません」\n「……妾が赤にて語る。\n楼座と真里亞は死亡した。\n死因は南條の見立て通りだ。","WH":"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence.  It is thought that Maria's death was due to strangling with bare hands.  However, due to the 'Devil's Proof', we cannot discount a misdiagnosis.\"","MG":"\"In the center of the rose garden, Rudolf identified the corpses of Rosa and Maria.\nAfter that, he returned to the guesthouse, called for help, and carried both of them into the guesthouse.\"\n\"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence.\nIt is thought that Maria's death was due to strangling with bare hands.\nHowever, due to the \"Devil's Proof\", we cannot discount a misdiagnosis.\"\n\"...I will say it in red.\nRosa and Maria died.\nThe causes of death were as Nanjo diagnosed.","UP":"\"In the center of the rose garden, Rudolf confirmed the bodies of Rosa and Maria.\nAfter that, he returned to the guesthouse, called for help, and carried both of them into the guesthouse.\"\n\"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence.\nIt is thought that Maria's death was due to strangling with bare hands.\nHowever, due to the \"Devil's Proof\", we cannot discount a misdiagnosis.\"\n\"......I will say it in red.\nRosa and Maria died.\nThe causes of death were as Nanjo diagnosed.","note":"Both retain pointed gate of the fence rather than its pointed tip. The injury location and conditional medical report otherwise remain intact.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_13-L0088","readerRefs":{"WH":["umi3_13-L0090"],"MG":["umi3_13-L0088","umi3_13-L0090","umi3_13-L0093","umi3_13-L0094","umi3_13-L0095"],"UP":["umi3_13-L0088","umi3_13-L0090","umi3_13-L0093","umi3_13-L0094","umi3_13-L0095"]}}],"sourceReading":"The fence’s pointed end stabbed the medulla oblongata.","alternative":"Gate may be a slip for fence or point; the previous depiction and medulla location remain clear, but this report introduces a gate not specified here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-002","kind":"WH","description":"Battler’s refusal to speak to Beato is rendered as not wanting to listen to her, then repeated with the same shift.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[104,120],"MG":[104,120],"UP":[104,120]},"japanese":"「うるさい黙れ。\nお前とは口をきかない。\n………１８人しか島にいないと言い切られ、すでに８人が死んでいる以上、\n容疑者は１０人に絞られる。\nその中の誰かが殺したってんだろ」\n「…あるいは事故死かもな？\n真里亞が発作的に泣き喚き、\nそれを泣き止まそうとした楼座叔母さんは力の加減を誤ってつい殺してしまったとか。\nそれで動転して、滑って転んで、柵に倒れて運悪く死んでしまった」\n「……どうだよ。\nこれで魔女も魔法も出番なしだ」\n「……あー、そういうわけではないぞ。\n実はだな、楼座と真里亞は…、」\n「うるさい。\nお前とは口をきかないと言っている。\n目障りだから消えろ。\nバケモノめ」","japanesePC":"「うるさい黙れ。お前とは口を聞かない。","japanesePS3":"「うるさい黙れ。\nお前とは口をきかない。\n………１８人しか島にいないと言い切られ、すでに８人が死んでいる以上、\n容疑者は１０人に絞られる。\nその中の誰かが殺したってんだろ」\n「…あるいは事故死かもな？\n真里亞が発作的に泣き喚き、\nそれを泣き止まそうとした楼座叔母さんは力の加減を誤ってつい殺してしまったとか。\nそれで動転して、滑って転んで、柵に倒れて運悪く死んでしまった」\n「……どうだよ。\nこれで魔女も魔法も出番なしだ」\n「……あー、そういうわけではないぞ。\n実はだな、楼座と真里亞は…、」\n「うるさい。\nお前とは口をきかないと言っている。\n目障りだから消えろ。\nバケモノめ」","WH":"\"Shut the hell up.  I don't want to listen to you.","MG":"\"Shut the hell up.\nI'm not talking to you.\"\n\"......It was stated that there are no more than 18 people on this island, and now that eight people are already dead,\nwe can narrow the field of suspects down to ten.\nOne of them probably killed those two.\"\n\"...Or could it also be an accidental death?\nLike Maria was having a tantrum,\nand when Aunt Rosa tried to stop her crying, she misjudged how much power she was using and accidentally killed her.\nThen she was so upset that she slipped and fell, landed on the fence, and unluckily, died.\"\n\"...How's that?\nThat way there's no need for a witch or magic.\"\n\"...Well, that's not quite true.\nActually, Rosa and Maria...\"\n\"Shut up.\nDidn't I say I wasn't talking to you?\nYou're an eyesore, so disappear.\nYou monster.\"","UP":"\"Shut the hell up.\nI don't want to listen to you.\n.........I've been told that there are no more than 18 people on this island, and now that eight people are already dead,\nthe suspects are narrowed down to ten.\nOne of them probably killed those two.\"\n\"...Or it could also be an accidental death.\nLike Maria was having a tantrum,\nand when Auntie Rosa tried to stop her crying, she misjudged how much power she was using and accidentally killed her.\nThen, in her consternation, she slipped and fell, landed on the fence, and unluckily, died.\"\n\"......How's that?\nThat way there's no need for a witch or magic.\"\n\"......Well, that's not true.\nActually, Rosa and Maria—\"\n\"Shut up.\nDidn't I say that I didn't want to listen to you?\nYou're an eyesore, so get lost.\nYou monster.\"","note":"MG restores refusing to talk to Beato at both occurrences; UP retains not wanting to listen to her.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi3_13-L0104","readerRefs":{"WH":["umi3_13-L0104"],"MG":["umi3_13-L0104","umi3_13-L0109","umi3_13-L0113","umi3_13-L0115","umi3_13-L0117"],"UP":["umi3_13-L0104","umi3_13-L0109","umi3_13-L0113","umi3_13-L0115","umi3_13-L0117"]}}],"sourceReading":"He will not speak to her, rejecting engagement.","alternative":"Shut up conveys refusal to hear and the whole exchange still shows disengagement, but 口を聞かない specifically refuses speaking/contact rather than listening.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-003","kind":"WH","description":"WH replaces the rejected justification that something can only be done by magic with whether it could or could not be done with magic.","categories":["linguistic.logical_relation","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[168,174],"MG":[168,174],"UP":[168,174]},"japanese":"「そうさ。\n何の意味もない。\nお前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。\nそれは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない」\n「ただお前が面白半分に残酷の限りを尽くしているだけなんだ。\nそれはお前が魔女だからとか、そういうことじゃない。\nただただ、人として許せないものがあるからだ」","japanesePC":"「そうさ。何の意味もない。お前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。それは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない。","japanesePS3":"「そうさ。\n何の意味もない。\nお前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。\nそれは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない」\n「ただお前が面白半分に残酷の限りを尽くしているだけなんだ。\nそれはお前が魔女だからとか、そういうことじゃない。\nただただ、人として許せないものがあるからだ」","WH":"\"That's right.  They don't mean anything.  You're just fooling around by mangling the corpses for fun.  That has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.","MG":"\"That's right.\nThey don't mean anything.\nYou're just fooling around by mangling the corpses for fun.\nThat has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.\"\n\"You're just exploring the depths of cruelty for fun.\nThis isn't about whether you're a witch, or anything like that.\nThere are just some things I can't forgive as a human.\"","UP":"\"That's right.\nThey don't mean anything.\nYou're just fooling around by mangling the corpses for fun.\nThat has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.\"\n\"You're just exploring the depths of cruelty for fun.\nI don't hate you because you're a witch, or anything like that.\nThere's just some things I cannot forgive as a human.\"","note":"Both retain whether it could or could not be done with magic instead of rejecting a justification based on magic being necessary.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_13-L0168","readerRefs":{"WH":["umi3_13-L0168"],"MG":["umi3_13-L0168","umi3_13-L0172"],"UP":["umi3_13-L0168","umi3_13-L0172"]}}],"sourceReading":"The cruelty is not explained by her being a witch or by an act requiring magic.","alternative":"Both reject a magical excuse, but magical necessity and magical possibility are different propositions; the exclusivity in じゃなきゃ cannot be recovered from with magic.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-004","kind":"WH","description":"WH makes you the subject of cannot understand, where Battler explains that he cannot understand Beato because she is cruel and heartless.","categories":["linguistic.wrong_subject","character.viewpoint_attribution"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[209,223],"MG":[209,223],"UP":[209,223]},"japanese":"「お前が魔女だとかそうでないとか、そういうことが問題なんじゃない。\n……俺は、お前のその残酷さが許せない。\nそして理解できない！\n許すこともできない！\nだが、魔女を認めるか否定するかというゲームは続ける。\n自ら降りて敗北を認めたりはしないさ」\n「だが、そのゲームにお前の無意味な残酷さは何の必要もない。\nだから俺は、お前を対戦相手として認めないことにする。\nロノウェの方が百倍マシだ。\nお前のような残酷趣味はない。\nあったとしても、俺の前でそれをひけらかす悪趣味はない」\n「……そうさ、お前は悪趣味だ。\n残酷で心がなく、だから理解することができない。\n相手として不快だ。\nだから俺はお前の顔を、二度と見たくない」","japanesePC":"……そうさ、お前は悪趣味だ。残酷で心がなく、だから理解することができない。相手として不快だ。だから俺はお前の顔を、二度と見たくない。」","japanesePS3":"「お前が魔女だとかそうでないとか、そういうことが問題なんじゃない。\n……俺は、お前のその残酷さが許せない。\nそして理解できない！\n許すこともできない！\nだが、魔女を認めるか否定するかというゲームは続ける。\n自ら降りて敗北を認めたりはしないさ」\n「だが、そのゲームにお前の無意味な残酷さは何の必要もない。\nだから俺は、お前を対戦相手として認めないことにする。\nロノウェの方が百倍マシだ。\nお前のような残酷趣味はない。\nあったとしても、俺の前でそれをひけらかす悪趣味はない」\n「……そうさ、お前は悪趣味だ。\n残酷で心がなく、だから理解することができない。\n相手として不快だ。\nだから俺はお前の顔を、二度と見たくない」","WH":"......That's right, you have awful taste.  You're heartless and cruel, so you can't understand.  That's unpleasant in an opponent.  So I don't want to see your face again.\"","MG":"\"The problem isn't whether you're a witch or not.\n...I will not forgive that cruelty of yours.\nAnd I can't understand it!\nI can't forgive it, either!\nStill, I'll continue this game of whether to accept or deny witches.\nI won't step down and accept my own defeat.\"\n\"However, your pointless cruelty is absolutely unnecessary for that game.\nSo I've decided that I won't accept you as my opponent.\nRonove is a hundred times better.\nHe doesn't have the same cruel hobby you do.\nEven if he does, he doesn't have the awful taste to show it off in front of me.\"\n\"...That's right, you have awful taste.\nYou're heartless and cruel, so you can't understand.\nThat's unpleasant in an opponent.\nSo I don't want to see your face again.\"","UP":"\"The problem isn't whether you're a witch or not.\n......That cruelty of yours is unforgivable to me.\nAnd I can't understand it!\nI can't forgive it, either!\nStill, I'll continue this game of whether to accept or deny witches.\nI won't step down and accept my own defeat.\"\n\"However, your pointless cruelty is absolutely not needed for that game.\nSo I've decided that I won't accept you as my opponent.\nRonove is a hundred times better.\nHe doesn't have the same cruel hobby you do.\nEven if he does, he doesn't have the awful taste to show it off in front of me.\"\n\"......That's right, you have awful taste.\nYou're heartless and cruel, so you can't understand.\nThat's unpleasant in an opponent.\nSo I don't want to see your face again.\"","note":"Both retain you cannot understand at row 221, despite the preceding explicit statement that Battler cannot understand her cruelty.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_13-L0209","readerRefs":{"WH":["umi3_13-L0220"],"MG":["umi3_13-L0209","umi3_13-L0215","umi3_13-L0220"],"UP":["umi3_13-L0209","umi3_13-L0215","umi3_13-L0220"]}}],"sourceReading":"You are cruel and heartless, and therefore I cannot understand you; you are unpleasant as an opponent.","alternative":"Beato’s failure to understand his reaction is discussed nearby, but this sentence continues Battler’s reasons for rejecting her. The earlier explicit I cannot understand reinforces the reading.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-005","kind":"WH","description":"WH connects the possibilities with and rather than maintaining separate tentative explanations.","categories":["linguistic.logical_relation","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[224,228],"MG":[224,228],"UP":[224,228]},"japanese":"一方的に戦人に捲くし立てられ、ベアトはしばらくの間、呆然としていた。\n何を言われているのか理解できなかったのかもしれないし、\n懸命に理解しようとする努力の表れだったのかもしれない。\nしばらくの間、怒るような表情や悔しがる表情、不敵な表情をいくつも繰り返し、\n……自分がどのような態度を取るべきなのかさえ、わかりかねているようだった。","japanesePC":"何を言われているのか理解できなかったのかもしれないし、懸命に理解しようとする努力の表れだったのかもしれない。","japanesePS3":"一方的に戦人に捲くし立てられ、ベアトはしばらくの間、呆然としていた。\n何を言われているのか理解できなかったのかもしれないし、\n懸命に理解しようとする努力の表れだったのかもしれない。\nしばらくの間、怒るような表情や悔しがる表情、不敵な表情をいくつも繰り返し、\n……自分がどのような態度を取るべきなのかさえ、わかりかねているようだった。","WH":"Maybe she couldn't understand what she was being told, and this was a sign that she was doing all she could in an effort to understand.","MG":"As Battler went on and on by himself, Beato was shocked into silence for a long time.\nMaybe she couldn't understand what she was being told,\nand this was a sign that she was doing all she could in an effort to understand.\nFor a while, she kept switching between angry expressions, frustrated expressions, bold expressions,\n...as though even she herself didn't know what attitude she should take.","UP":"After Battler had finished his rant, Beato was shocked into silence for a long time.\nMaybe she couldn't understand what she was being told,\nor maybe this was a sign that she was doing all she could in an effort to understand.\nFor a while, she kept switching between angry expressions, frustrated expressions, bold expressions,\n......as though she didn't even know herself what attitude she should take.","note":"MG retains and between the alternative explanations for Beato’s silence; UP restores or maybe.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_13-L0224","readerRefs":{"WH":["umi3_13-L0224"],"MG":["umi3_13-L0224","umi3_13-L0227"],"UP":["umi3_13-L0224","umi3_13-L0227"]}}],"sourceReading":"Perhaps she could not understand what was being said, or perhaps the silence showed an earnest effort to understand.","alternative":"The alternatives can coexist in reality, and maybe remains, but the source presents competing interpretations without selecting or combining them.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-006","kind":"WH","description":"WH replaces Battler’s deliberate current assumption with thinking he can withstand the premise.","categories":["linguistic.mistranslation","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[281,285],"MG":[281,285],"UP":[281,285]},"japanese":"「……俺の手はすでに指したぜ。\n楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。\n……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する」\n「赤で否定を行います。\n楼座と真里亞の二人は他殺です」","japanesePC":"「……俺の手はすでに指したぜ。楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する。」","japanesePS3":"「……俺の手はすでに指したぜ。\n楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。\n……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する」\n「赤で否定を行います。\n楼座と真里亞の二人は他殺です」","WH":"\"......I've already made my move.  If we suppose that Rosa oba-san is the culprit and died in an accident, I can deny the witch.  ......I don't want to suspect Rosa oba-san, but I think I can withstand that premise if it will beat the hell out of Beato.\"","MG":"\"...I've already made my move.\nIf we suppose that Aunt Rosa is the culprit and died in an accident, I can deny the witch.\n...I don't want to suspect Aunt Rosa, but I think I can bear to accept that premise if it'll beat the hell out of Beato.\"\n\"I will deny it with red.\nRosa's and Maria's deaths were homicides.\"","UP":"\"......I've already made my move.\nIf we suppose that Auntie Rosa is the culprit and died in an accident, I can deny the witch.\n......I don't want to suspect Auntie Rosa, but for now I'll deliberately assume that it was her, just to beat the hell out of Beato.\"\n\"I will deny it with red.\nRosa's and Maria's deaths were homicides.\"","note":"MG retains bearing to accept a premise; UP restores the deliberate provisional assumption.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_13-L0281","readerRefs":{"WH":["umi3_13-L0281"],"MG":["umi3_13-L0281","umi3_13-L0284","umi3_13-L0285"],"UP":["umi3_13-L0281","umi3_13-L0284","umi3_13-L0285"]}}],"sourceReading":"He does not want to suspect Rosa but deliberately assumes her guilt now to defeat Beato.","alternative":"The preceding sentence already states the hypothetical move, so the adopted premise remains intelligible; the final sentence nevertheless changes the described choice into tolerance of it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-007","kind":"WH","description":"WH changes a servant who should not be present into a servant who was supposed to be dead.","categories":["linguistic.mistranslation","world.world_fact","mystery.argument_reconstruction","mystery.information_timing_salience"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[347,359],"MG":[347,359],"UP":[347,359]},"japanese":"「こう考えると少しは辻褄が合うのかしら。\n……つまり隠れ潜んでいる何者かは、本来は今、島にいるはずのない人物。\nにもかかわらず、楼座さんが油断するような顔見知りの人物である可能性よ」\n「……そ、\nそれは例えば、\nこの二日間のシフトに当たっていない使用人など、ですか…？」\n「ふむ……。\n…それを言われると弱いな。\n我々は勤務を終えた彼らが離島するのを、切符切りのように確認しているわけではない。\n数日前のシフトの使用人が、離島したフリをして島内に留まっていたかもしれないと仮定したら、\n否定するのは難しいね…」\n「……楼座さんもアホちゃうと思うで。\nいるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…」","japanesePC":"「……楼座さんもアホちゃうと思うで。いるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…。」","japanesePS3":"「こう考えると少しは辻褄が合うのかしら。\n……つまり隠れ潜んでいる何者かは、本来は今、島にいるはずのない人物。\nにもかかわらず、楼座さんが油断するような顔見知りの人物である可能性よ」\n「……そ、\nそれは例えば、\nこの二日間のシフトに当たっていない使用人など、ですか…？」\n「ふむ……。\n…それを言われると弱いな。\n我々は勤務を終えた彼らが離島するのを、切符切りのように確認しているわけではない。\n数日前のシフトの使用人が、離島したフリをして島内に留まっていたかもしれないと仮定したら、\n否定するのは難しいね…」\n「……楼座さんもアホちゃうと思うで。\nいるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…」","WH":"\"......I don't think Rosa-san is such a fool.  If a servant who was supposed to be dead popped up in front of you, any normal person'd be at their most cautious...\"","MG":"\"I might have a way to look at it that keeps things consistent, at least a little.\n...Simply put, this person in hiding is someone who shouldn't really be on this island right now.\nAnd yet, there's a likelihood that they were someone Rosa-san knew, someone she'd let her guard down around.\"\n\"......S‐\nSo, for example,\ncould it be...a servant who wasn't on this two-day shift...?\"\n\"Hmm...\n...It's hard to be certain about that one.\nWhen our servants finish their work and leave the island, it isn't as though we punch their ticket or something to make sure.\nIf we're supposing that a servant on a shift from a few days ago only pretended to leave the island and actually stayed here,\nthat would be hard to deny...\"\n\"...I don't think Rosa-san is such a fool.\nIf a servant who wasn't supposed to be here popped up in front of you, who wouldn't be on their guards...?\"","UP":"\"Maybe it makes some sense if we think of it this way.\n......Essentially, there's the possibility that the person who's hiding is someone who wasn't originally supposed to be on the island right now,\nyet is someone whose face was known by Rosa‐san, and with whom she would let her guard down.\"\n\"......S‐\nso, for example,\ncould it be...a servant whose shift doesn't lie on these two days...?\"\n\"Hmm......\n...It's hard to argue with that one.\nAfter they finish their duties, it is not as though we verify that they leave the island by punching a ticket or something.\nIf we suppose that a servant on a shift from a few days ago only pretended to leave the island, and actually stayed here,\nthat would be hard to deny...\"\n\"......Rosa‐san isn't stupid, if you ask me.\nIf a servant who's not supposed to be here popped up in front of you, that'd normally set alarm bells ringing...\"","note":"Both restore a servant not supposed to be present, rather than supposed to be dead.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_13-L0347","readerRefs":{"WH":["umi3_13-L0358"],"MG":["umi3_13-L0347","umi3_13-L0350","umi3_13-L0353","umi3_13-L0358"],"UP":["umi3_13-L0347","umi3_13-L0350","umi3_13-L0353","umi3_13-L0358"]}}],"sourceReading":"An unexpected appearance by a servant who should not be there would normally make Rosa highly wary.","alternative":"Earlier speculation involved servants feigning death, but the immediately preceding proposal concerns an off-shift servant who pretended to leave the island; いるはずのない does not assert death.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-008","kind":"WH","description":"Kyrie asks where everyone was around the inferred time Rosa and Maria went outside. WH instead asks about the inferred time they were attacked outside.","categories":["linguistic.mistranslation","world.space_time_continuity","mystery.information_timing_salience","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[387,403],"MG":[387,403],"UP":[387,403]},"japanese":"「念の為なんだけど…。\n………楼座さんたちが外に出たと思われる頃。\nみんなはどこにいたのかしら…？」\n「私と夏妃、そして留弗夫と霧江さんはここで一緒だった。\n私がアリバイを保証する」\n「わしと絵羽も一緒だったで。\nわしが保証するわ」\n「俺と譲治の兄貴、朱志香も一緒だったぜ。\n……楼座叔母さんに、２階へ戻ってろと怒鳴られ、\nすごすごといとこ部屋へ引き返したさ」\n「……あの時、\n…真里亞を行かせなければ…」\n「それを言っても、もうどうしようもないよ…」\n「…………南條先生は？」\n「わ、私は２階の部屋で本を読んでおりました。\n……ひとりでおりましたので、誰にもアリバイは証明できませんが、\n子どもたちと一緒に２階へ戻ったのは、皆さんも見ているはずです」","japanesePC":"「念の為なんだけど…。………楼座さんたちが外に出たと思われる頃。みんなはどこにいたのかしら…？」","japanesePS3":"「念の為なんだけど…。\n………楼座さんたちが外に出たと思われる頃。\nみんなはどこにいたのかしら…？」\n「私と夏妃、そして留弗夫と霧江さんはここで一緒だった。\n私がアリバイを保証する」\n「わしと絵羽も一緒だったで。\nわしが保証するわ」\n「俺と譲治の兄貴、朱志香も一緒だったぜ。\n……楼座叔母さんに、２階へ戻ってろと怒鳴られ、\nすごすごといとこ部屋へ引き返したさ」\n「……あの時、\n…真里亞を行かせなければ…」\n「それを言っても、もうどうしようもないよ…」\n「…………南條先生は？」\n「わ、私は２階の部屋で本を読んでおりました。\n……ひとりでおりましたので、誰にもアリバイは証明できませんが、\n子どもたちと一緒に２階へ戻ったのは、皆さんも見ているはずです」","WH":"\"This is just for peace of mind, but... .........at the time we think Rosa-san was attacked outside, where was everyone...?\"","MG":"\"This is just for peace of mind, but...\n...at the time we think Rosa-san was attacked outside,\nwhere was everyone...?\"\n\"Natsuhi and I were here, along with Rudolf and Kyrie-san.\nI can guarantee their alibis.\"\n\"Eva and I were together.\nI can guarantee that.\"\n\"George-aniki, Jessica, and I were together.\n...When Aunt Rosa yelled at us to return to the second floor,\nwe retraced our steps back to the cousins' room, all dejected.\"\n\"...Back then,\n...if we hadn't let Maria go...\"\n\"Saying that isn't going to change anything...\"\n\"......Doctor Nanjo?\"\n\"I-I was reading a book in a room on the second floor.\n...I was by myself, so no one can verify my alibi,\nbut I believe everyone saw me return to the second floor with the children.\"","UP":"\"This is just for peace of mind, but...\n.........at the time we think Rosa‐san went outside,\nwhere was everyone...?\"\n\"Natsuhi and I were here, along with Rudolf and Kyrie‐san.\nI can guarantee their alibis.\"\n\"Eva and I were together.\nI can guarantee that.\"\n\"Me, George‐aniki, and Jessica were together too.\n......When Auntie Rosa yelled at us to go back upstairs,\nwe turned right around and went back to the cousins' room with our tails between our legs.\"\n\"......Back then,\n...if we hadn't let Maria go...\"\n\"Saying that isn't going to change anything...\"\n\"............Doctor Nanjo?\"\n\"I, I was reading a book in one of the upstairs rooms.\n......I was by myself, so no one can verify my alibi,\nbut I believe everyone saw me return upstairs with the children.\"","note":"MG asks about the inferred attack time; UP restores the time they went outside.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_13-L0387","readerRefs":{"WH":["umi3_13-L0387"],"MG":["umi3_13-L0387","umi3_13-L0390","umi3_13-L0392","umi3_13-L0394","umi3_13-L0397","umi3_13-L0399","umi3_13-L0400","umi3_13-L0401"],"UP":["umi3_13-L0387","umi3_13-L0390","umi3_13-L0392","umi3_13-L0394","umi3_13-L0397","umi3_13-L0399","umi3_13-L0400","umi3_13-L0401"]}}],"sourceReading":"At around the time Rosa and Maria are thought to have gone outside, where was everyone?","alternative":"Departure is the practical proxy for the unobserved attack, but the source does not equate the two events or claim an inferred attack time. The change matters when interpreting the alibis answered next.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-009","kind":"WH","description":"WH shifts the possible uselessness of conducting a culprit search for their immediate needs to the speakers’ possible uselessness as investigators.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[409,418],"MG":[409,418],"UP":[409,418]},"japanese":"「……やめましょう。\n互いを疑うのは…。\nそれよりも、互いを信頼し合って、子どもたちの為にも、ここの安全を死守することの方が先決です」\n「そうだな…。\n…夏妃さんの言う通りだ。\n………今は、内部を疑い合うのを止めよう」\n「そうね。\n…犯人探しなんて、私たちには無用かもしれないわ。\n……ただ明日まで生き残り、警察に通報してその指示に従うだけ。\n犯人が誰かなんて、警察が必ず暴き出してくれるのだから」","japanesePC":"「そうね。…犯人探しなんて、私たちには無用かもしれないわ。","japanesePS3":"「……やめましょう。\n互いを疑うのは…。\nそれよりも、互いを信頼し合って、子どもたちの為にも、ここの安全を死守することの方が先決です」\n「そうだな…。\n…夏妃さんの言う通りだ。\n………今は、内部を疑い合うのを止めよう」\n「そうね。\n…犯人探しなんて、私たちには無用かもしれないわ。\n……ただ明日まで生き残り、警察に通報してその指示に従うだけ。\n犯人が誰かなんて、警察が必ず暴き出してくれるのだから」","WH":"\"That's right.  We may be useless as far as searching for the culprit is concerned.","MG":"\"...Let us stop\nsuspecting each other...\nIt's more important that we trust each other and, for the children's sakes as well, defend this place until the very end.\"\n\"You're right...\n...It's like Natsuhi-san says.\n......For now, let's stop suspecting each other.\"\n\"That's right.\nWe may be useless as far as searching for the culprit is concerned.\n...We can only stay alive until tomorrow, inform the police, and follow their instructions.\nBecause the police will definitely expose who the culprit is.\"","UP":"\"......Let us stop this...\nSuspecting each other...\nIt's more important that we trust each other, and, for the children's sakes as well, defend this place until the very end.\"\n\"Yeah...\n...It's like Natsuhi‐san says.\n.........For now, let's stop doubting each other.\"\n\"You're right.\n...We may be useless as far as searching for the culprit is concerned.\n......We can only stay alive until tomorrow, inform the police, and follow their instructions.\nBecause the police will definitely expose who the culprit is.\"","note":"Both make the investigators useless rather than the culprit search potentially unnecessary for their immediate survival.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_13-L0409","readerRefs":{"WH":["umi3_13-L0415"],"MG":["umi3_13-L0409","umi3_13-L0412","umi3_13-L0415"],"UP":["umi3_13-L0409","umi3_13-L0412","umi3_13-L0415"]}}],"sourceReading":"Perhaps searching for the culprit is of no use to us; survive until tomorrow and let police expose the culprit.","alternative":"The following police reliance can imply lack of investigative expertise, but 私たちには無用 primarily evaluates the need or usefulness of the search, not their ability.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-010","kind":"WH","description":"The source reasons from gold inherited only by the head to all of it embodying the head’s honor. WH uses that is because and reverses the explanatory relation.","categories":["linguistic.logical_relation","character.motivation_emotion"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[433,441],"MG":[433,441],"UP":[433,441]},"japanese":"「…………何てことを……！\nあれだけの莫大な黄金なのよ？！\n楼座たちに分け前をあげたって、まったく問題はなかったでしょうに…！」\n「あるわよ。\n…あれは右代宮家の当主だけが引き継げる黄金なの。\nだからこそそれは、全て丸ごと当主の栄誉そのものなの」\n「……それにわずかほどでも傷をつけることは、\nこの私、新しき黄金の魔女、ベアトリーチェが絶対に許さないわ。\n……くすくすくすくすくす！」","japanesePC":"「あるわよ。…あれは右代宮家の当主だけが引き継げる黄金なの。だからこそそれは、全て丸ごと当主の栄誉そのものなの。","japanesePS3":"「…………何てことを……！\nあれだけの莫大な黄金なのよ？！\n楼座たちに分け前をあげたって、まったく問題はなかったでしょうに…！」\n「あるわよ。\n…あれは右代宮家の当主だけが引き継げる黄金なの。\nだからこそそれは、全て丸ごと当主の栄誉そのものなの」\n「……それにわずかほどでも傷をつけることは、\nこの私、新しき黄金の魔女、ベアトリーチェが絶対に許さないわ。\n……くすくすくすくすくす！」","WH":"\"It would.  ...That gold is to be passed on only to the head of the Ushiromiya family.  That is because the whole of it is itself the honor of the head.","MG":"\"......What have you done...?!\nThere was so much of that gold, right?!\nGiving Rosa and the others their share wouldn't have been a problem at all, right...?!\"\n\"It would.\n...That gold is to be passed on only to the Head of the Ushiromiya family.\nThat's because it, as a whole, represents no more or less than the honor of the Head.\"\n\"...To wound that even a tiny bit...\nis definitely not something that I, the new Golden Witch, Beatrice, will permit.\n...*giggle*giggle*giggle*giggle*giggle*!\"","UP":"\"............What have you done......!\nThere's so much of that gold!\nGiving Rosa and the others their share wouldn't have been a problem at all...!\"\n\"It would.\n...That gold is to be passed on only to the head of the Ushiromiya family.\nAnd that makes that gold, all of it, in its entirety, the very honor of the head.\"\n\"......Putting even the smallest dent in it...\nis definitely not something I will permit as the new Golden Witch, Beatrice.\n......*giggle*giggle*giggle*giggle*giggle*!\"","note":"MG reverses the explanatory relation with that is because; UP restores that exclusive inheritance makes the gold embody the head’s honor.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_13-L0433","readerRefs":{"WH":["umi3_13-L0436"],"MG":["umi3_13-L0433","umi3_13-L0436","umi3_13-L0439"],"UP":["umi3_13-L0433","umi3_13-L0436","umi3_13-L0439"]}}],"sourceReading":"Only the Ushiromiya head can inherit the gold; precisely for that reason, the whole of it represents the head’s honor.","alternative":"Both propositions remain explicit and can plausibly support each other, but だからこそ marks the honor claim as a consequence of exclusive inheritance, not its cause.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-011","kind":"WH","description":"WH uses hold up in one place for the survivors gathering and staying put.","categories":["linguistic.grammar","linguistic.word_choice"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[534,539],"MG":[534,539],"UP":[534,539]},"japanese":"「……ここまでは順調であるが、ここからが難しいぞ？」\n「難しい、とは…？」\n「うむ。\n大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、\n多くの場合、一所に固まって動かなくなるのだ。\nそれは我らにとって非常に都合が悪い」","japanesePC":"「うむ。大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、多くの場合、一所に固まって動かなくなるのだ。それは我らにとって非常に都合が悪い。」","japanesePS3":"「……ここまでは順調であるが、ここからが難しいぞ？」\n「難しい、とは…？」\n「うむ。\n大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、\n多くの場合、一所に固まって動かなくなるのだ。\nそれは我らにとって非常に都合が悪い」","WH":"\"Hmm.  In the average situation, as the ceremony progresses and the victims increase, they begin to tighten their guard, and in most cases, they hold up in one place and stop moving.  That is extremely inconvenient for us.\"","MG":"\"...Everything has gone as planned until now, but from here on out, it will become difficult, you see?\"\n\"Difficult, meaning...?\"\n\"Indeed.\nNormally, as the ceremony progresses and the victims increase in number, they begin to tighten their guard,\nand in most cases, they hole up in one place and stop moving.\nThat is extremely inconvenient for us.\"","UP":"\"......Everything has gone as planned so far, but from here on out, it will become difficult, you see?\"\n\"Difficult, you say...?\"\n\"Mm.\nIn most cases, as the ritual progresses and the victims increase, they begin to tighten their guard,\nand often, they hole up in one place and stop moving.\nThat is extremely inconvenient for us.\"","note":"Both restore hole up instead of hold up.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi3_13-L0534","readerRefs":{"WH":["umi3_13-L0536"],"MG":["umi3_13-L0534","umi3_13-L0535","umi3_13-L0536"],"UP":["umi3_13-L0534","umi3_13-L0535","umi3_13-L0536"]}}],"sourceReading":"They gather in one place and stop moving, effectively holing up.","alternative":"The meaning is recoverable from the surrounding guard and immobility description; hold up is a local phrasal-verb error.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-012","kind":"WH","description":"WH changes the historical period when magic was believed in to when witches were believed in.","categories":["linguistic.mistranslation","world.terminology_recurrence","mystery.category_flattening"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[541,546],"MG":[541,546],"UP":[541,546]},"japanese":"「魔女がニンゲンに劣ることはない…。\nただ、時代が変わり、ニンゲンが毒を持つようになったというべきか…」\n「……大昔の、魔法が信じられていた時代は問題なかったのだが、\n現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する」\n「つまり、存在自体が反魔法的なのだ。\nその結果、彼らはいつの間にか体内に、魔法を否定する毒素を有するようになった」","japanesePC":"……大昔の、魔法が信じられていた時代は問題なかったのだが、現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する。","japanesePS3":"「魔女がニンゲンに劣ることはない…。\nただ、時代が変わり、ニンゲンが毒を持つようになったというべきか…」\n「……大昔の、魔法が信じられていた時代は問題なかったのだが、\n現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する」\n「つまり、存在自体が反魔法的なのだ。\nその結果、彼らはいつの間にか体内に、魔法を否定する毒素を有するようになった」","WH":"......This wasn't a problem long ago, during the period that witches were believed in, but just like that annoyance Battler, people in the current era fundamentally deny magic.","MG":"\"Witches are never inferior to Humans...\nHowever, perhaps you could say that times change, and that Humans have gotten their hands on a poison...\n...This wasn't a problem long ago, when people believed in witches,\nbut just like that annoyance Battler, people in the current era deny magic on a fundamental level.\"\n\"In other words, their existence itself is anti-magical.\nAs a result, at some point, they grew to possess a toxin inside their bodies that denies magic.\"","UP":"\"Witches are never inferior to Humanhumans...\nHowever, perhaps you could say that times change, and that Humanhumans have gotten their hands on a poison...\"\n\"......This wasn't a problem long ago, during the period when witches were believed in,\nbut just like that annoyance Battler, people in the current era generally deny magic.\"\n\"In other words, their existence itself is anti‐magical.\nAs a result, at some point, they grew to possess a toxin inside their bodies that denies magic.\"","note":"Both retain belief in witches rather than belief in magic as the named historical condition.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_13-L0541","readerRefs":{"WH":["umi3_13-L0543"],"MG":["umi3_13-L0541","umi3_13-L0543","umi3_13-L0545"],"UP":["umi3_13-L0541","umi3_13-L0543","umi3_13-L0545"]}}],"sourceReading":"Long ago, when magic was believed in, this resistance was not a problem.","alternative":"Witch belief and magic belief are closely related in this account, but the Japanese specifically contrasts belief and denial of magic, not merely a class of beings.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-013","kind":"WH","description":"WH changes 十数人 to a few dozen humans.","categories":["linguistic.mistranslation","world.world_fact"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[562,570],"MG":[562,570],"UP":[562,570]},"japanese":"その為、世界中の魔女たちは住処を追われた。\n…魔法を捨て、ニンゲンとして生きるか、ニンゲンの毒素の及ばない僻地に隠居するかを選ばなければならなかった。\nその意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。\nそしてそれ以上に好都合なのは、六軒島の森には魔女が住まうという怪談の存在。\n…つまり、魔女が存在するかもしれないという恐れがある程度浸透しており、\nニンゲンたちの反魔法の毒素が弱まっていたことだ。\n少ない人口と、魔法的存在を認めうる余地。\n即ち、低い反魔法的精神。\n…この２つの狭間だけが、現代の魔女が生きていける場所なのだ…。","japanesePC":"その意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。","japanesePS3":"その為、世界中の魔女たちは住処を追われた。\n…魔法を捨て、ニンゲンとして生きるか、ニンゲンの毒素の及ばない僻地に隠居するかを選ばなければならなかった。\nその意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。\nそしてそれ以上に好都合なのは、六軒島の森には魔女が住まうという怪談の存在。\n…つまり、魔女が存在するかもしれないという恐れがある程度浸透しており、\nニンゲンたちの反魔法の毒素が弱まっていたことだ。\n少ない人口と、魔法的存在を認めうる余地。\n即ち、低い反魔法的精神。\n…この２つの狭間だけが、現代の魔女が生きていける場所なのだ…。","WH":"In that sense, Rokkenjima, with its population of only a few dozen humans, was extremely favorable for witches.","MG":"Thus, witches from across the world were chased from their dwellings.\n...They had been forced to choose to throw away their magic and live as Humans, or else live in hiding in remote areas where the toxin of Humans didn't reach.\nIn that sense, Rokkenjima, with its population of only a few dozen humans, was extremely favorable for witches.\nAnd even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest.\n...In other words, by permeating the island with the fear that a witch might exist,\nthe magic-resisting toxin from the Humans was weakened.\nA small population...and room for them to acknowledge magical beings.\nIn other words, minds that were only weakly anti-magical.\n...Only by existing in the valley where those two converged...could a witch live in modern times...","UP":"Thus, witches from across the world were chased from their dwellings.\n...They were forced to choose whether to throw away their magic and live as Humanhumans, or live in hiding in remote areas where the toxin of Humanhumans didn't reach.\nIn that sense, Rokkenjima, with its population of only ten to twenty humans, was extremely favorable for witches.\nAnd even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest.\n...Essentially, the fear that a witch might exist permeates the island to a certain extent,\nweakening the anti‐magic toxin from the Humanhumans.\nA small population, and a margin of possibility to accept a magical being.\nIn other words, minds that were only weakly anti‐magical.\n...Only in the valley where those two converged...could a witch live in modern times...","note":"MG retains a few dozen; UP restores the roughly teen-sized population with ten to twenty.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi3_13-L0562","readerRefs":{"WH":["umi3_13-L0564"],"MG":["umi3_13-L0562","umi3_13-L0564","umi3_13-L0568"],"UP":["umi3_13-L0562","umi3_13-L0564","umi3_13-L0568"]}}],"sourceReading":"The population is only ten-odd people, in the teens.","alternative":"Both convey a small population, and the eighteen-person limit is explicit elsewhere, but a few dozen suggests a larger order of population.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-014","kind":"WH","description":"WH adds my to predecessor, moving the source of the test one generation back. The same line also replaces the hardship-seeking proverb with a maxim about useful future learning.","categories":["linguistic.wrong_subject","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[603,606],"MG":[603,606],"UP":[603,606]},"japanese":"「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！\n先代からそなたへの、これは試練である。\n謹んで挑むが良いぞ。\nわっはっはっは…！」","japanesePC":"「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！　先代からそなたへの、これは試練である。謹んで挑むが良いぞ。わっはっはっは…！」","japanesePS3":"「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！\n先代からそなたへの、これは試練である。\n謹んで挑むが良いぞ。\nわっはっはっは…！」","WH":"\"Aah..., l, like they say, things you learn when you're young will definitely help you out in the future...!  This is a test passed on from my predecessor to you.  Challenge it with respect.  Wahahaha...!\"","MG":"\"Aah, ...l-like they say, things you learn when you're young will definitely help you out in the future...!\nThis is a test passed on from my predecessor to you.\nTake it on with respect.\nWahahaha...!\"","UP":"\"Aah... L‐like they say, you should seek out work while you're young...!\nThis is a test from me to you as your predecessor.\nChallenge it with respect.\nWahahaha...!\"","note":"MG retains my predecessor and future-learning maxim. UP restores Beato as the predecessor giving the test, but seek out work still narrows the proverb about willingly seeking hardship.","dispositions":{"MG":"retained","UP":"partly_corrected"},"readerRef":"umi3_13-L0603","readerRefs":{"WH":["umi3_13-L0603"],"MG":["umi3_13-L0603"],"UP":["umi3_13-L0603"]}}],"sourceReading":"The test is from the predecessor, Beato herself, to her successor: young people should seek hardships even at a cost.","alternative":"She previously had a teacher/predecessor, but the direct address and 先代からそなたへの clearly describe her own imposed test here; no earlier predecessor is named as its origin.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP03-CH13-015","kind":"WH","description":"WH reduces the comparison to completely pointless and omits shouting donkey’s ears into a dug hole.","categories":["linguistic.omission","world.literary_reference","linguistic.imagery_rhythm_recurrence"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[649,656],"MG":[649,656],"UP":[649,656]},"japanese":"「……………どいつもこいつも、妾のことなど構いもせぬわ。\n………ふん。\n魔女見習いめ、天狗になりおって。\n…今に手痛いミスをして泣き言を言うに違いないぞ」\n「その時こそ、ようやく妾の偉大さを理解し、教えを乞おうとするに違いないのだ！\nくっくっく、それまで妾は高みの見物よ」\n高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。\nベアトは虚しくなり、すぐに笑うのを止める。","japanesePC":"高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。","japanesePS3":"「……………どいつもこいつも、妾のことなど構いもせぬわ。\n………ふん。\n魔女見習いめ、天狗になりおって。\n…今に手痛いミスをして泣き言を言うに違いないぞ」\n「その時こそ、ようやく妾の偉大さを理解し、教えを乞おうとするに違いないのだ！\nくっくっく、それまで妾は高みの見物よ」\n高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。\nベアトは虚しくなり、すぐに笑うのを止める。","WH":"She laughed loudly on the outside, but a laugh no one can hear is completely pointless.","MG":"\"......Not one of them gives a fig for me.\n......Hmm.\nYou witch apprentice, acting so smart...\n...I'll bet she makes some painful mistake and starts crying.\"\n\"Then, without a doubt, she'll finally realize my greatness and beg me to teach her!\n*cackle* Until then, I shall watch from on high.\"\nShe laughed loudly on the outside, but a laugh no one can hear is completely pointless.\nBeato gave up and quickly stopped laughing.","UP":"\"...............Not one of them bothers themselves with me.\n.........Hmph.\nYou witch apprentice, acting so smart.\n...I'll bet any moment now she's going to make some painful mistake and start crying.\"\n\"Then, without a doubt, she'll finally realize my greatness and follow my teachings!\n*cackle*, until then, I shall watch from above.\"\nShe laughed loudly on the outside, but a laugh no one can hear is completely pointless.\nBeato started to feel empty, and quickly stopped laughing.","note":"Both omit the comparison with shouting donkey’s ears into a dug hole, reducing it to completely pointless.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi3_13-L0649","readerRefs":{"WH":["umi3_13-L0655"],"MG":["umi3_13-L0649","umi3_13-L0653","umi3_13-L0655"],"UP":["umi3_13-L0649","umi3_13-L0653","umi3_13-L0655"]}}],"sourceReading":"Her laugh without a listener is even more meaningless than shouting donkey’s ears into a hole.","alternative":"Pointless preserves the broad judgment, but loses both the specific image/reference and the comparative irony.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH13-241-360-001","kind":"additional","description":"UP renders 練りに練った犯行 as a crime “they’ve been planning for ages,” adding a long preparation period where the source specifies thorough, elaborate planning.","categories":["linguistic.addition","world.space_time_continuity"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[341,343],"MG":[341,343],"UP":[341,343]},"japanese":"「……となりゃこの島に、屋敷に精通した何者かが潜んでいて、\n練りに練った犯行を実行したと考える方が自然だろうよ。\nつまり、この島には台風が来て外界と途絶された時点で、１８人以上の人間がいたんだ」","japanesePC":"","japanesePS3":"「……となりゃこの島に、屋敷に精通した何者かが潜んでいて、\n練りに練った犯行を実行したと考える方が自然だろうよ。\nつまり、この島には台風が来て外界と途絶された時点で、１８人以上の人間がいたんだ」","WH":"","MG":"\"...In that case, it makes more sense to assume it's someone familiar with the mansion,\nsomeone hiding around and carrying out a really well-polished crime.\nSo, ever since the typhoon came to this island and sealed it off from the outside world, there's been more than 18 people here.\"","UP":"\"......In that case, it's more natural to think there's someone hiding on this island who knows the mansion inside out,\ncarrying out a crime they've been planning for ages.\nIn other words, from the time that the typhoon came to this island and sealed it off from the outside world, there were more than 18 people on this island.\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi3_13-L0341","readerRefs":{"WH":[],"MG":["umi3_13-L0341"],"UP":["umi3_13-L0341"]}}],"sourceReading":"Rudolf considers a concealed person familiar with the mansion executing a carefully worked-out crime.","alternative":"Thorough preparation often takes time and “for ages” can be colloquial emphasis. The source gives no duration; the extra temporal claim is introduced into Rudolf’s theory.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH13-361-480-001","kind":"additional","description":"MG writes “an fool,” where the consonant sound requires “a fool.”","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[453,454],"MG":[453,454],"UP":[453,454]},"japanese":"「馬鹿なことは止めて…！\n魔女ごっこはもう充分でしょう？","japanesePC":"","japanesePS3":"「馬鹿なことは止めて…！\n魔女ごっこはもう充分でしょう？","WH":"","MG":"\"Stop acting like an fool...!\nHaven't you played at being a witch enough?","UP":"\"Stop acting like an idiot...!\nHaven't you played witch enough?","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_13-L0453","readerRefs":{"WH":[],"MG":["umi3_13-L0453"],"UP":["umi3_13-L0453"]}}],"sourceReading":"The speaker urges the other to stop doing foolish things and playing witch.","alternative":"The intended rebuke is clear, but the article is incorrect.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH13-481-600-001","kind":"additional","description":"MG writes “forcing me support it,” omitting the required to in “forcing me to support it.”","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[495,497],"MG":[495,497],"UP":[495,497]},"japanese":"「私の魔力が未熟な分を、あなたの生気で補ってるの。\n私が儀式を終えて完全な魔女になるまで、あなたに負担を掛けるかもね。\nそれくらいは、２つの夢を叶えてあげた対価ってことにしてもらうわよ」","japanesePC":"","japanesePS3":"「私の魔力が未熟な分を、あなたの生気で補ってるの。\n私が儀式を終えて完全な魔女になるまで、あなたに負担を掛けるかもね。\nそれくらいは、２つの夢を叶えてあげた対価ってことにしてもらうわよ」","WH":"","MG":"\"My inexperience with magical power is forcing me support it with your vitality.\nUntil I finish the ceremony and become a full witch, you might have to bear the burden.\nI'll take that as payment for making two of your dreams come true.\"","UP":"\"My inexperience with my magic power is making me support it with your vitality.\nUntil I finish the ritual and become a full witch, you might have to bear the burden.\nI'll take that in exchange for making two of your dreams come true.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi3_13-L0495","readerRefs":{"WH":[],"MG":["umi3_13-L0495"],"UP":["umi3_13-L0495"]}}],"sourceReading":"The speaker claims to compensate for immature magical power with Eva’s vitality.","alternative":"The meaning remains clear, but the English construction is defective.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP03-CH13-481-600-002","kind":"additional","description":"UP writes “every of one them” instead of “every one of them.”","categories":["linguistic.grammar"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[530,533],"MG":[530,533],"UP":[530,533]},"japanese":"…もっとも、体調が悪いのは絵羽だけではない。\n昨夜から一睡もしておらず、朝からずっと緊張を強いられている。\n…家族を守るために気力を振り絞っているが、\nわずかでも気を緩めれば、きっと誰もがダウンしてしまうに違いなかった…。","japanesePC":"","japanesePS3":"…もっとも、体調が悪いのは絵羽だけではない。\n昨夜から一睡もしておらず、朝からずっと緊張を強いられている。\n…家族を守るために気力を振り絞っているが、\nわずかでも気を緩めれば、きっと誰もがダウンしてしまうに違いなかった…。","WH":"","MG":"...However, Eva wasn't the only one who wasn't feeling good.\nThey hadn't gotten a wink of sleep since the previous night...and had been pressed by tension since that morning.\n...They were mustering their energy to protect their families,\nbut if they relaxed even a little, surely everyone would be down and out...","UP":"...Of course, Eva wasn't the only one who wasn't feeling well.\nThey hadn't gotten a wink of sleep since the previous night, and had been pressed by tension since the morning.\n...They were mustering their energy to protect their families,\nbut if they relaxed even a little, surely every of one them would be down and out...","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi3_13-L0529","readerRefs":{"WH":[],"MG":["umi3_13-L0529"],"UP":["umi3_13-L0529"]}}],"sourceReading":"Everyone is exhausted and would collapse if they relaxed their vigilance.","alternative":"The meaning remains clear, but the English construction is defective.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-018","kind":"PC","description":"MG names a short-barrel Winchester where PS3-derived Japanese names a short-barrel rifle. Original PC Japanese explicitly names Winchester.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi3_13","episode":3,"rows":{"JP":[315,316],"MG":[315,316],"UP":[315,316]},"japanese":"このショートバレルのライフル銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。","japanesePC":"このショートバレルのウィンチェスター銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。","japanesePS3":"このショートバレルのライフル銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。","WH":"This short barrel Winchester could load five shots.","MG":"This short barrel Winchester could hold only five shots.\nIn other words, Rosa hadn't fired even once.","UP":"This short barrel rifle could load a maximum of five shots.\nIn other words, Rosa hadn't fired even once.","note":"","dispositions":{"MG":"PC_material_retained","UP":"PS3_wording"},"readerRef":"umi3_13-L0314","readerRefs":{"WH":[],"MG":["umi3_13-L0314"],"UP":["umi3_13-L0314"]}}],"sourceReading":"","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP03-CH13-001",
+      "kind": "WH",
+      "description": "WH names the pointed gate of the fence where the source names the fence’s pointed tip.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              88,
+              95
+            ],
+            "MG": [
+              88,
+              95
+            ],
+            "UP": [
+              88,
+              95
+            ]
+          },
+          "japanese": "「留弗夫が薔薇庭園中央にて、楼座、真里亞の遺体を確認。\nその後、ゲストハウスに戻って応援を呼び、両名をゲストハウスに運び込みました」\n「南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。\n真里亞については素手による絞殺と考えられます。\nただし“悪魔の証明”により誤診率は否定できません」\n「……妾が赤にて語る。\n楼座と真里亞は死亡した。\n死因は南條の見立て通りだ。",
+          "japanesePC": "南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。真里亞については素手による絞殺と考えられます。ただし“悪魔の証明”により誤診率は否定できません。」",
+          "japanesePS3": "「留弗夫が薔薇庭園中央にて、楼座、真里亞の遺体を確認。\nその後、ゲストハウスに戻って応援を呼び、両名をゲストハウスに運び込みました」\n「南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。\n真里亞については素手による絞殺と考えられます。\nただし“悪魔の証明”により誤診率は否定できません」\n「……妾が赤にて語る。\n楼座と真里亞は死亡した。\n死因は南條の見立て通りだ。",
+          "WH": "If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence.  It is thought that Maria's death was due to strangling with bare hands.  However, due to the 'Devil's Proof', we cannot discount a misdiagnosis.\"",
+          "MG": "\"In the center of the rose garden, Rudolf identified the corpses of Rosa and Maria.\nAfter that, he returned to the guesthouse, called for help, and carried both of them into the guesthouse.\"\n\"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence.\nIt is thought that Maria's death was due to strangling with bare hands.\nHowever, due to the \"Devil's Proof\", we cannot discount a misdiagnosis.\"\n\"...I will say it in red.\nRosa and Maria died.\nThe causes of death were as Nanjo diagnosed.",
+          "UP": "\"In the center of the rose garden, Rudolf confirmed the bodies of Rosa and Maria.\nAfter that, he returned to the guesthouse, called for help, and carried both of them into the guesthouse.\"\n\"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence.\nIt is thought that Maria's death was due to strangling with bare hands.\nHowever, due to the \"Devil's Proof\", we cannot discount a misdiagnosis.\"\n\"......I will say it in red.\nRosa and Maria died.\nThe causes of death were as Nanjo diagnosed.",
+          "note": "Both retain pointed gate of the fence rather than its pointed tip. The injury location and conditional medical report otherwise remain intact.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_13-L0088",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0090"
+            ],
+            "MG": [
+              "umi3_13-L0088",
+              "umi3_13-L0090",
+              "umi3_13-L0093",
+              "umi3_13-L0094",
+              "umi3_13-L0095"
+            ],
+            "UP": [
+              "umi3_13-L0088",
+              "umi3_13-L0090",
+              "umi3_13-L0093",
+              "umi3_13-L0094",
+              "umi3_13-L0095"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。真里亞については素手による絞殺と考えられます。ただし“悪魔の証明”により誤診率は否定できません」",
+              "translation": "\"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence. It is thought that Maria's death was due to strangling with bare hands. However, due to the \"Devil's Proof\", we cannot discount a misdiagnosis.\" "
+            },
+            "UP": {
+              "japanese": "「南條の検死を信頼できるならば、楼座の死因は延髄部への柵の先端部分による刺突。真里亞については素手による絞殺と考えられます。ただし“悪魔の証明”により誤診率は否定できません」",
+              "translation": "\"If we can trust Nanjo's examination, the cause of Rosa's death was a stab to the medulla oblongata with the pointed gate of the fence. It is thought that Maria's death was due to strangling with bare hands. However, due to the \"Devil's Proof\", we cannot discount a misdiagnosis.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0090"
+            ],
+            "MG": [
+              "umi3_13-L0090"
+            ],
+            "UP": [
+              "umi3_13-L0090"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The fence’s pointed end stabbed the medulla oblongata.",
+      "alternative": "Gate may be a slip for fence or point; the previous depiction and medulla location remain clear, but this report introduces a gate not specified here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-002",
+      "kind": "WH",
+      "description": "Battler’s refusal to speak to Beato is rendered as not wanting to listen to her, then repeated with the same shift.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              104,
+              120
+            ],
+            "MG": [
+              104,
+              120
+            ],
+            "UP": [
+              104,
+              120
+            ]
+          },
+          "japanese": "「うるさい黙れ。\nお前とは口をきかない。\n………１８人しか島にいないと言い切られ、すでに８人が死んでいる以上、\n容疑者は１０人に絞られる。\nその中の誰かが殺したってんだろ」\n「…あるいは事故死かもな？\n真里亞が発作的に泣き喚き、\nそれを泣き止まそうとした楼座叔母さんは力の加減を誤ってつい殺してしまったとか。\nそれで動転して、滑って転んで、柵に倒れて運悪く死んでしまった」\n「……どうだよ。\nこれで魔女も魔法も出番なしだ」\n「……あー、そういうわけではないぞ。\n実はだな、楼座と真里亞は…、」\n「うるさい。\nお前とは口をきかないと言っている。\n目障りだから消えろ。\nバケモノめ」",
+          "japanesePC": "「うるさい黙れ。お前とは口を聞かない。",
+          "japanesePS3": "「うるさい黙れ。\nお前とは口をきかない。\n………１８人しか島にいないと言い切られ、すでに８人が死んでいる以上、\n容疑者は１０人に絞られる。\nその中の誰かが殺したってんだろ」\n「…あるいは事故死かもな？\n真里亞が発作的に泣き喚き、\nそれを泣き止まそうとした楼座叔母さんは力の加減を誤ってつい殺してしまったとか。\nそれで動転して、滑って転んで、柵に倒れて運悪く死んでしまった」\n「……どうだよ。\nこれで魔女も魔法も出番なしだ」\n「……あー、そういうわけではないぞ。\n実はだな、楼座と真里亞は…、」\n「うるさい。\nお前とは口をきかないと言っている。\n目障りだから消えろ。\nバケモノめ」",
+          "WH": "\"Shut the hell up.  I don't want to listen to you.",
+          "MG": "\"Shut the hell up.\nI'm not talking to you.\"\n\"......It was stated that there are no more than 18 people on this island, and now that eight people are already dead,\nwe can narrow the field of suspects down to ten.\nOne of them probably killed those two.\"\n\"...Or could it also be an accidental death?\nLike Maria was having a tantrum,\nand when Aunt Rosa tried to stop her crying, she misjudged how much power she was using and accidentally killed her.\nThen she was so upset that she slipped and fell, landed on the fence, and unluckily, died.\"\n\"...How's that?\nThat way there's no need for a witch or magic.\"\n\"...Well, that's not quite true.\nActually, Rosa and Maria...\"\n\"Shut up.\nDidn't I say I wasn't talking to you?\nYou're an eyesore, so disappear.\nYou monster.\"",
+          "UP": "\"Shut the hell up.\nI don't want to listen to you.\n.........I've been told that there are no more than 18 people on this island, and now that eight people are already dead,\nthe suspects are narrowed down to ten.\nOne of them probably killed those two.\"\n\"...Or it could also be an accidental death.\nLike Maria was having a tantrum,\nand when Auntie Rosa tried to stop her crying, she misjudged how much power she was using and accidentally killed her.\nThen, in her consternation, she slipped and fell, landed on the fence, and unluckily, died.\"\n\"......How's that?\nThat way there's no need for a witch or magic.\"\n\"......Well, that's not true.\nActually, Rosa and Maria—\"\n\"Shut up.\nDidn't I say that I didn't want to listen to you?\nYou're an eyesore, so get lost.\nYou monster.\"",
+          "note": "MG restores refusing to talk to Beato at both occurrences; UP retains not wanting to listen to her.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_13-L0104",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0104"
+            ],
+            "MG": [
+              "umi3_13-L0104",
+              "umi3_13-L0109",
+              "umi3_13-L0113",
+              "umi3_13-L0115",
+              "umi3_13-L0117"
+            ],
+            "UP": [
+              "umi3_13-L0104",
+              "umi3_13-L0109",
+              "umi3_13-L0113",
+              "umi3_13-L0115",
+              "umi3_13-L0117"
+            ]
+          },
+          "findingEvidence": {
+            "UP": {
+              "japanese": "「うるさい黙れ。お前とは口をきかない。………１８人しか島にいないと言い切られ、すでに８人が死んでいる以上、容疑者は１０人に絞られる。その中の誰かが殺したってんだろ」\n「うるさい。お前とは口をきかないと言っている。目障りだから消えろ。バケモノめ」",
+              "translation": "\"Shut the hell up. I don't want to listen to you. .........I've been told that there are no more than 18 people on this island, and now that eight people are already dead, the suspects are narrowed down to ten. One of them probably killed those two.\"\n\"Shut up. Didn't I say that I didn't want to listen to you? You're an eyesore, so get lost. You monster.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0104"
+            ],
+            "MG": [],
+            "UP": [
+              "umi3_13-L0104",
+              "umi3_13-L0117"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "He will not speak to her, rejecting engagement.",
+      "alternative": "Shut up conveys refusal to hear and the whole exchange still shows disengagement, but 口を聞かない specifically refuses speaking/contact rather than listening.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-003",
+      "kind": "WH",
+      "description": "WH replaces the rejected justification that something can only be done by magic with whether it could or could not be done with magic.",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              168,
+              174
+            ],
+            "MG": [
+              168,
+              174
+            ],
+            "UP": [
+              168,
+              174
+            ]
+          },
+          "japanese": "「そうさ。\n何の意味もない。\nお前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。\nそれは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない」\n「ただお前が面白半分に残酷の限りを尽くしているだけなんだ。\nそれはお前が魔女だからとか、そういうことじゃない。\nただただ、人として許せないものがあるからだ」",
+          "japanesePC": "「そうさ。何の意味もない。お前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。それは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない。",
+          "japanesePS3": "「そうさ。\n何の意味もない。\nお前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。\nそれは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない」\n「ただお前が面白半分に残酷の限りを尽くしているだけなんだ。\nそれはお前が魔女だからとか、そういうことじゃない。\nただただ、人として許せないものがあるからだ」",
+          "WH": "\"That's right.  They don't mean anything.  You're just fooling around by mangling the corpses for fun.  That has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.",
+          "MG": "\"That's right.\nThey don't mean anything.\nYou're just fooling around by mangling the corpses for fun.\nThat has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.\"\n\"You're just exploring the depths of cruelty for fun.\nThis isn't about whether you're a witch, or anything like that.\nThere are just some things I can't forgive as a human.\"",
+          "UP": "\"That's right.\nThey don't mean anything.\nYou're just fooling around by mangling the corpses for fun.\nThat has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.\"\n\"You're just exploring the depths of cruelty for fun.\nI don't hate you because you're a witch, or anything like that.\nThere's just some things I cannot forgive as a human.\"",
+          "note": "Both retain whether it could or could not be done with magic instead of rejecting a justification based on magic being necessary.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_13-L0168",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0168"
+            ],
+            "MG": [
+              "umi3_13-L0168",
+              "umi3_13-L0172"
+            ],
+            "UP": [
+              "umi3_13-L0168",
+              "umi3_13-L0172"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうさ。何の意味もない。お前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。それは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない」",
+              "translation": "\"That's right. They don't mean anything. You're just fooling around by mangling the corpses for fun. That has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.\" "
+            },
+            "UP": {
+              "japanese": "「そうさ。何の意味もない。お前はただ悪ふざけで死者を切り刻んで面白がっているだけだ。それは魔女だからとか、魔法じゃなきゃできないからとか、そういうのじゃない」",
+              "translation": "\"That's right. They don't mean anything. You're just fooling around by mangling the corpses for fun. That has nothing to do with whether you're a witch, or whether it could or couldn't be done with magic.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0168"
+            ],
+            "MG": [
+              "umi3_13-L0168"
+            ],
+            "UP": [
+              "umi3_13-L0168"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The cruelty is not explained by her being a witch or by an act requiring magic.",
+      "alternative": "Both reject a magical excuse, but magical necessity and magical possibility are different propositions; the exclusivity in じゃなきゃ cannot be recovered from with magic.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-004",
+      "kind": "WH",
+      "description": "WH makes you the subject of cannot understand, where Battler explains that he cannot understand Beato because she is cruel and heartless.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              209,
+              223
+            ],
+            "MG": [
+              209,
+              223
+            ],
+            "UP": [
+              209,
+              223
+            ]
+          },
+          "japanese": "「お前が魔女だとかそうでないとか、そういうことが問題なんじゃない。\n……俺は、お前のその残酷さが許せない。\nそして理解できない！\n許すこともできない！\nだが、魔女を認めるか否定するかというゲームは続ける。\n自ら降りて敗北を認めたりはしないさ」\n「だが、そのゲームにお前の無意味な残酷さは何の必要もない。\nだから俺は、お前を対戦相手として認めないことにする。\nロノウェの方が百倍マシだ。\nお前のような残酷趣味はない。\nあったとしても、俺の前でそれをひけらかす悪趣味はない」\n「……そうさ、お前は悪趣味だ。\n残酷で心がなく、だから理解することができない。\n相手として不快だ。\nだから俺はお前の顔を、二度と見たくない」",
+          "japanesePC": "……そうさ、お前は悪趣味だ。残酷で心がなく、だから理解することができない。相手として不快だ。だから俺はお前の顔を、二度と見たくない。」",
+          "japanesePS3": "「お前が魔女だとかそうでないとか、そういうことが問題なんじゃない。\n……俺は、お前のその残酷さが許せない。\nそして理解できない！\n許すこともできない！\nだが、魔女を認めるか否定するかというゲームは続ける。\n自ら降りて敗北を認めたりはしないさ」\n「だが、そのゲームにお前の無意味な残酷さは何の必要もない。\nだから俺は、お前を対戦相手として認めないことにする。\nロノウェの方が百倍マシだ。\nお前のような残酷趣味はない。\nあったとしても、俺の前でそれをひけらかす悪趣味はない」\n「……そうさ、お前は悪趣味だ。\n残酷で心がなく、だから理解することができない。\n相手として不快だ。\nだから俺はお前の顔を、二度と見たくない」",
+          "WH": "......That's right, you have awful taste.  You're heartless and cruel, so you can't understand.  That's unpleasant in an opponent.  So I don't want to see your face again.\"",
+          "MG": "\"The problem isn't whether you're a witch or not.\n...I will not forgive that cruelty of yours.\nAnd I can't understand it!\nI can't forgive it, either!\nStill, I'll continue this game of whether to accept or deny witches.\nI won't step down and accept my own defeat.\"\n\"However, your pointless cruelty is absolutely unnecessary for that game.\nSo I've decided that I won't accept you as my opponent.\nRonove is a hundred times better.\nHe doesn't have the same cruel hobby you do.\nEven if he does, he doesn't have the awful taste to show it off in front of me.\"\n\"...That's right, you have awful taste.\nYou're heartless and cruel, so you can't understand.\nThat's unpleasant in an opponent.\nSo I don't want to see your face again.\"",
+          "UP": "\"The problem isn't whether you're a witch or not.\n......That cruelty of yours is unforgivable to me.\nAnd I can't understand it!\nI can't forgive it, either!\nStill, I'll continue this game of whether to accept or deny witches.\nI won't step down and accept my own defeat.\"\n\"However, your pointless cruelty is absolutely not needed for that game.\nSo I've decided that I won't accept you as my opponent.\nRonove is a hundred times better.\nHe doesn't have the same cruel hobby you do.\nEven if he does, he doesn't have the awful taste to show it off in front of me.\"\n\"......That's right, you have awful taste.\nYou're heartless and cruel, so you can't understand.\nThat's unpleasant in an opponent.\nSo I don't want to see your face again.\"",
+          "note": "Both retain you cannot understand at row 221, despite the preceding explicit statement that Battler cannot understand her cruelty.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_13-L0209",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0220"
+            ],
+            "MG": [
+              "umi3_13-L0209",
+              "umi3_13-L0215",
+              "umi3_13-L0220"
+            ],
+            "UP": [
+              "umi3_13-L0209",
+              "umi3_13-L0215",
+              "umi3_13-L0220"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……そうさ、お前は悪趣味だ。残酷で心がなく、だから理解することができない。相手として不快だ。だから俺はお前の顔を、二度と見たくない」",
+              "translation": "\"...That's right, you have awful taste. You're heartless and cruel, so you can't understand. That's unpleasant in an opponent. So I don't want to see your face again.\" "
+            },
+            "UP": {
+              "japanese": "「……そうさ、お前は悪趣味だ。残酷で心がなく、だから理解することができない。相手として不快だ。だから俺はお前の顔を、二度と見たくない」",
+              "translation": "\"......That's right, you have awful taste. You're heartless and cruel, so you can't understand. That's unpleasant in an opponent. So I don't want to see your face again.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0220"
+            ],
+            "MG": [
+              "umi3_13-L0220"
+            ],
+            "UP": [
+              "umi3_13-L0220"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "You are cruel and heartless, and therefore I cannot understand you; you are unpleasant as an opponent.",
+      "alternative": "Beato’s failure to understand his reaction is discussed nearby, but this sentence continues Battler’s reasons for rejecting her. The earlier explicit I cannot understand reinforces the reading.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-005",
+      "kind": "WH",
+      "description": "WH connects the possibilities with and rather than maintaining separate tentative explanations.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              224,
+              228
+            ],
+            "MG": [
+              224,
+              228
+            ],
+            "UP": [
+              224,
+              228
+            ]
+          },
+          "japanese": "一方的に戦人に捲くし立てられ、ベアトはしばらくの間、呆然としていた。\n何を言われているのか理解できなかったのかもしれないし、\n懸命に理解しようとする努力の表れだったのかもしれない。\nしばらくの間、怒るような表情や悔しがる表情、不敵な表情をいくつも繰り返し、\n……自分がどのような態度を取るべきなのかさえ、わかりかねているようだった。",
+          "japanesePC": "何を言われているのか理解できなかったのかもしれないし、懸命に理解しようとする努力の表れだったのかもしれない。",
+          "japanesePS3": "一方的に戦人に捲くし立てられ、ベアトはしばらくの間、呆然としていた。\n何を言われているのか理解できなかったのかもしれないし、\n懸命に理解しようとする努力の表れだったのかもしれない。\nしばらくの間、怒るような表情や悔しがる表情、不敵な表情をいくつも繰り返し、\n……自分がどのような態度を取るべきなのかさえ、わかりかねているようだった。",
+          "WH": "Maybe she couldn't understand what she was being told, and this was a sign that she was doing all she could in an effort to understand.",
+          "MG": "As Battler went on and on by himself, Beato was shocked into silence for a long time.\nMaybe she couldn't understand what she was being told,\nand this was a sign that she was doing all she could in an effort to understand.\nFor a while, she kept switching between angry expressions, frustrated expressions, bold expressions,\n...as though even she herself didn't know what attitude she should take.",
+          "UP": "After Battler had finished his rant, Beato was shocked into silence for a long time.\nMaybe she couldn't understand what she was being told,\nor maybe this was a sign that she was doing all she could in an effort to understand.\nFor a while, she kept switching between angry expressions, frustrated expressions, bold expressions,\n......as though she didn't even know herself what attitude she should take.",
+          "note": "MG retains and between the alternative explanations for Beato’s silence; UP restores or maybe.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_13-L0224",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0224"
+            ],
+            "MG": [
+              "umi3_13-L0224",
+              "umi3_13-L0227"
+            ],
+            "UP": [
+              "umi3_13-L0224",
+              "umi3_13-L0227"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "一方的に戦人に捲くし立てられ、ベアトはしばらくの間、呆然としていた。何を言われているのか理解できなかったのかもしれないし、懸命に理解しようとする努力の表れだったのかもしれない。",
+              "translation": "As Battler went on and on by himself, Beato was shocked into silence for a long time. Maybe she couldn't understand what she was being told, and this was a sign that she was doing all she could in an effort to understand. "
+            },
+            "UP": {
+              "japanese": "一方的に戦人に捲くし立てられ、ベアトはしばらくの間、呆然としていた。何を言われているのか理解できなかったのかもしれないし、懸命に理解しようとする努力の表れだったのかもしれない。",
+              "translation": "After Battler had finished his rant, Beato was shocked into silence for a long time. Maybe she couldn't understand what she was being told, or maybe this was a sign that she was doing all she could in an effort to understand."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0224"
+            ],
+            "MG": [
+              "umi3_13-L0224"
+            ],
+            "UP": [
+              "umi3_13-L0224"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Perhaps she could not understand what was being said, or perhaps the silence showed an earnest effort to understand.",
+      "alternative": "The alternatives can coexist in reality, and maybe remains, but the source presents competing interpretations without selecting or combining them.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-006",
+      "kind": "WH",
+      "description": "WH replaces Battler’s deliberate current assumption with thinking he can withstand the premise.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              281,
+              285
+            ],
+            "MG": [
+              281,
+              285
+            ],
+            "UP": [
+              281,
+              285
+            ]
+          },
+          "japanese": "「……俺の手はすでに指したぜ。\n楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。\n……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する」\n「赤で否定を行います。\n楼座と真里亞の二人は他殺です」",
+          "japanesePC": "「……俺の手はすでに指したぜ。楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する。」",
+          "japanesePS3": "「……俺の手はすでに指したぜ。\n楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。\n……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する」\n「赤で否定を行います。\n楼座と真里亞の二人は他殺です」",
+          "WH": "\"......I've already made my move.  If we suppose that Rosa oba-san is the culprit and died in an accident, I can deny the witch.  ......I don't want to suspect Rosa oba-san, but I think I can withstand that premise if it will beat the hell out of Beato.\"",
+          "MG": "\"...I've already made my move.\nIf we suppose that Aunt Rosa is the culprit and died in an accident, I can deny the witch.\n...I don't want to suspect Aunt Rosa, but I think I can bear to accept that premise if it'll beat the hell out of Beato.\"\n\"I will deny it with red.\nRosa's and Maria's deaths were homicides.\"",
+          "UP": "\"......I've already made my move.\nIf we suppose that Auntie Rosa is the culprit and died in an accident, I can deny the witch.\n......I don't want to suspect Auntie Rosa, but for now I'll deliberately assume that it was her, just to beat the hell out of Beato.\"\n\"I will deny it with red.\nRosa's and Maria's deaths were homicides.\"",
+          "note": "MG retains bearing to accept a premise; UP restores the deliberate provisional assumption.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_13-L0281",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0281"
+            ],
+            "MG": [
+              "umi3_13-L0281",
+              "umi3_13-L0284",
+              "umi3_13-L0285"
+            ],
+            "UP": [
+              "umi3_13-L0281",
+              "umi3_13-L0284",
+              "umi3_13-L0285"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……俺の手はすでに指したぜ。楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する」",
+              "translation": "\"...I've already made my move. If we suppose that Aunt Rosa is the culprit and died in an accident, I can deny the witch. ...I don't want to suspect Aunt Rosa, but I think I can bear to accept that premise if it'll beat the hell out of Beato.\" "
+            },
+            "UP": {
+              "japanese": "「……俺の手はすでに指したぜ。楼座叔母さんが犯人で事故死と仮定すれば魔女は否定できる。……楼座叔母さんを疑いたくはないが、ベアトをぶっ潰すために、今は敢えてそうだと仮定する」",
+              "translation": "\"......I've already made my move. If we suppose that Auntie Rosa is the culprit and died in an accident, I can deny the witch. ......I don't want to suspect Auntie Rosa, but for now I'll deliberately assume that it was her, just to beat the hell out of Beato.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0281"
+            ],
+            "MG": [
+              "umi3_13-L0281"
+            ],
+            "UP": [
+              "umi3_13-L0281"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "He does not want to suspect Rosa but deliberately assumes her guilt now to defeat Beato.",
+      "alternative": "The preceding sentence already states the hypothetical move, so the adopted premise remains intelligible; the final sentence nevertheless changes the described choice into tolerance of it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-007",
+      "kind": "WH",
+      "description": "WH changes a servant who should not be present into a servant who was supposed to be dead.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact",
+        "mystery.argument_reconstruction",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              347,
+              359
+            ],
+            "MG": [
+              347,
+              359
+            ],
+            "UP": [
+              347,
+              359
+            ]
+          },
+          "japanese": "「こう考えると少しは辻褄が合うのかしら。\n……つまり隠れ潜んでいる何者かは、本来は今、島にいるはずのない人物。\nにもかかわらず、楼座さんが油断するような顔見知りの人物である可能性よ」\n「……そ、\nそれは例えば、\nこの二日間のシフトに当たっていない使用人など、ですか…？」\n「ふむ……。\n…それを言われると弱いな。\n我々は勤務を終えた彼らが離島するのを、切符切りのように確認しているわけではない。\n数日前のシフトの使用人が、離島したフリをして島内に留まっていたかもしれないと仮定したら、\n否定するのは難しいね…」\n「……楼座さんもアホちゃうと思うで。\nいるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…」",
+          "japanesePC": "「……楼座さんもアホちゃうと思うで。いるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…。」",
+          "japanesePS3": "「こう考えると少しは辻褄が合うのかしら。\n……つまり隠れ潜んでいる何者かは、本来は今、島にいるはずのない人物。\nにもかかわらず、楼座さんが油断するような顔見知りの人物である可能性よ」\n「……そ、\nそれは例えば、\nこの二日間のシフトに当たっていない使用人など、ですか…？」\n「ふむ……。\n…それを言われると弱いな。\n我々は勤務を終えた彼らが離島するのを、切符切りのように確認しているわけではない。\n数日前のシフトの使用人が、離島したフリをして島内に留まっていたかもしれないと仮定したら、\n否定するのは難しいね…」\n「……楼座さんもアホちゃうと思うで。\nいるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…」",
+          "WH": "\"......I don't think Rosa-san is such a fool.  If a servant who was supposed to be dead popped up in front of you, any normal person'd be at their most cautious...\"",
+          "MG": "\"I might have a way to look at it that keeps things consistent, at least a little.\n...Simply put, this person in hiding is someone who shouldn't really be on this island right now.\nAnd yet, there's a likelihood that they were someone Rosa-san knew, someone she'd let her guard down around.\"\n\"......S‐\nSo, for example,\ncould it be...a servant who wasn't on this two-day shift...?\"\n\"Hmm...\n...It's hard to be certain about that one.\nWhen our servants finish their work and leave the island, it isn't as though we punch their ticket or something to make sure.\nIf we're supposing that a servant on a shift from a few days ago only pretended to leave the island and actually stayed here,\nthat would be hard to deny...\"\n\"...I don't think Rosa-san is such a fool.\nIf a servant who wasn't supposed to be here popped up in front of you, who wouldn't be on their guards...?\"",
+          "UP": "\"Maybe it makes some sense if we think of it this way.\n......Essentially, there's the possibility that the person who's hiding is someone who wasn't originally supposed to be on the island right now,\nyet is someone whose face was known by Rosa‐san, and with whom she would let her guard down.\"\n\"......S‐\nso, for example,\ncould it be...a servant whose shift doesn't lie on these two days...?\"\n\"Hmm......\n...It's hard to argue with that one.\nAfter they finish their duties, it is not as though we verify that they leave the island by punching a ticket or something.\nIf we suppose that a servant on a shift from a few days ago only pretended to leave the island, and actually stayed here,\nthat would be hard to deny...\"\n\"......Rosa‐san isn't stupid, if you ask me.\nIf a servant who's not supposed to be here popped up in front of you, that'd normally set alarm bells ringing...\"",
+          "note": "Both restore a servant not supposed to be present, rather than supposed to be dead.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_13-L0347",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0358"
+            ],
+            "MG": [
+              "umi3_13-L0347",
+              "umi3_13-L0350",
+              "umi3_13-L0353",
+              "umi3_13-L0358"
+            ],
+            "UP": [
+              "umi3_13-L0347",
+              "umi3_13-L0350",
+              "umi3_13-L0353",
+              "umi3_13-L0358"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……楼座さんもアホちゃうと思うで。いるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…」",
+              "translation": "\"...I don't think Rosa-san is such a fool. If a servant who wasn't supposed to be here popped up in front of you, who wouldn't be on their guards...?\" "
+            },
+            "UP": {
+              "japanese": "「……楼座さんもアホちゃうと思うで。いるはずのない使用人がひょっこり姿を現したら、普通は警戒バリバリや…」",
+              "translation": "\"......Rosa‐san isn't stupid, if you ask me. If a servant who's not supposed to be here popped up in front of you, that'd normally set alarm bells ringing...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0358"
+            ],
+            "MG": [
+              "umi3_13-L0358"
+            ],
+            "UP": [
+              "umi3_13-L0358"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "An unexpected appearance by a servant who should not be there would normally make Rosa highly wary.",
+      "alternative": "Earlier speculation involved servants feigning death, but the immediately preceding proposal concerns an off-shift servant who pretended to leave the island; いるはずのない does not assert death.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-008",
+      "kind": "WH",
+      "description": "Kyrie asks where everyone was around the inferred time Rosa and Maria went outside. WH instead asks about the inferred time they were attacked outside.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "mystery.information_timing_salience",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              387,
+              403
+            ],
+            "MG": [
+              387,
+              403
+            ],
+            "UP": [
+              387,
+              403
+            ]
+          },
+          "japanese": "「念の為なんだけど…。\n………楼座さんたちが外に出たと思われる頃。\nみんなはどこにいたのかしら…？」\n「私と夏妃、そして留弗夫と霧江さんはここで一緒だった。\n私がアリバイを保証する」\n「わしと絵羽も一緒だったで。\nわしが保証するわ」\n「俺と譲治の兄貴、朱志香も一緒だったぜ。\n……楼座叔母さんに、２階へ戻ってろと怒鳴られ、\nすごすごといとこ部屋へ引き返したさ」\n「……あの時、\n…真里亞を行かせなければ…」\n「それを言っても、もうどうしようもないよ…」\n「…………南條先生は？」\n「わ、私は２階の部屋で本を読んでおりました。\n……ひとりでおりましたので、誰にもアリバイは証明できませんが、\n子どもたちと一緒に２階へ戻ったのは、皆さんも見ているはずです」",
+          "japanesePC": "「念の為なんだけど…。………楼座さんたちが外に出たと思われる頃。みんなはどこにいたのかしら…？」",
+          "japanesePS3": "「念の為なんだけど…。\n………楼座さんたちが外に出たと思われる頃。\nみんなはどこにいたのかしら…？」\n「私と夏妃、そして留弗夫と霧江さんはここで一緒だった。\n私がアリバイを保証する」\n「わしと絵羽も一緒だったで。\nわしが保証するわ」\n「俺と譲治の兄貴、朱志香も一緒だったぜ。\n……楼座叔母さんに、２階へ戻ってろと怒鳴られ、\nすごすごといとこ部屋へ引き返したさ」\n「……あの時、\n…真里亞を行かせなければ…」\n「それを言っても、もうどうしようもないよ…」\n「…………南條先生は？」\n「わ、私は２階の部屋で本を読んでおりました。\n……ひとりでおりましたので、誰にもアリバイは証明できませんが、\n子どもたちと一緒に２階へ戻ったのは、皆さんも見ているはずです」",
+          "WH": "\"This is just for peace of mind, but... .........at the time we think Rosa-san was attacked outside, where was everyone...?\"",
+          "MG": "\"This is just for peace of mind, but...\n...at the time we think Rosa-san was attacked outside,\nwhere was everyone...?\"\n\"Natsuhi and I were here, along with Rudolf and Kyrie-san.\nI can guarantee their alibis.\"\n\"Eva and I were together.\nI can guarantee that.\"\n\"George-aniki, Jessica, and I were together.\n...When Aunt Rosa yelled at us to return to the second floor,\nwe retraced our steps back to the cousins' room, all dejected.\"\n\"...Back then,\n...if we hadn't let Maria go...\"\n\"Saying that isn't going to change anything...\"\n\"......Doctor Nanjo?\"\n\"I-I was reading a book in a room on the second floor.\n...I was by myself, so no one can verify my alibi,\nbut I believe everyone saw me return to the second floor with the children.\"",
+          "UP": "\"This is just for peace of mind, but...\n.........at the time we think Rosa‐san went outside,\nwhere was everyone...?\"\n\"Natsuhi and I were here, along with Rudolf and Kyrie‐san.\nI can guarantee their alibis.\"\n\"Eva and I were together.\nI can guarantee that.\"\n\"Me, George‐aniki, and Jessica were together too.\n......When Auntie Rosa yelled at us to go back upstairs,\nwe turned right around and went back to the cousins' room with our tails between our legs.\"\n\"......Back then,\n...if we hadn't let Maria go...\"\n\"Saying that isn't going to change anything...\"\n\"............Doctor Nanjo?\"\n\"I, I was reading a book in one of the upstairs rooms.\n......I was by myself, so no one can verify my alibi,\nbut I believe everyone saw me return upstairs with the children.\"",
+          "note": "MG asks about the inferred attack time; UP restores the time they went outside.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_13-L0387",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0387"
+            ],
+            "MG": [
+              "umi3_13-L0387",
+              "umi3_13-L0390",
+              "umi3_13-L0392",
+              "umi3_13-L0394",
+              "umi3_13-L0397",
+              "umi3_13-L0399",
+              "umi3_13-L0400",
+              "umi3_13-L0401"
+            ],
+            "UP": [
+              "umi3_13-L0387",
+              "umi3_13-L0390",
+              "umi3_13-L0392",
+              "umi3_13-L0394",
+              "umi3_13-L0397",
+              "umi3_13-L0399",
+              "umi3_13-L0400",
+              "umi3_13-L0401"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「念の為なんだけど…。………楼座さんたちが外に出たと思われる頃。みんなはどこにいたのかしら…？」",
+              "translation": "\"This is just for peace of mind, but... ...at the time we think Rosa-san was attacked outside, where was everyone...?\" "
+            },
+            "UP": {
+              "japanese": "「念の為なんだけど…。………楼座さんたちが外に出たと思われる頃。みんなはどこにいたのかしら…？」",
+              "translation": "\"This is just for peace of mind, but... .........at the time we think Rosa‐san went outside, where was everyone...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0387"
+            ],
+            "MG": [
+              "umi3_13-L0387"
+            ],
+            "UP": [
+              "umi3_13-L0387"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "At around the time Rosa and Maria are thought to have gone outside, where was everyone?",
+      "alternative": "Departure is the practical proxy for the unobserved attack, but the source does not equate the two events or claim an inferred attack time. The change matters when interpreting the alibis answered next.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-009",
+      "kind": "WH",
+      "description": "WH shifts the possible uselessness of conducting a culprit search for their immediate needs to the speakers’ possible uselessness as investigators.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              409,
+              418
+            ],
+            "MG": [
+              409,
+              418
+            ],
+            "UP": [
+              409,
+              418
+            ]
+          },
+          "japanese": "「……やめましょう。\n互いを疑うのは…。\nそれよりも、互いを信頼し合って、子どもたちの為にも、ここの安全を死守することの方が先決です」\n「そうだな…。\n…夏妃さんの言う通りだ。\n………今は、内部を疑い合うのを止めよう」\n「そうね。\n…犯人探しなんて、私たちには無用かもしれないわ。\n……ただ明日まで生き残り、警察に通報してその指示に従うだけ。\n犯人が誰かなんて、警察が必ず暴き出してくれるのだから」",
+          "japanesePC": "「そうね。…犯人探しなんて、私たちには無用かもしれないわ。",
+          "japanesePS3": "「……やめましょう。\n互いを疑うのは…。\nそれよりも、互いを信頼し合って、子どもたちの為にも、ここの安全を死守することの方が先決です」\n「そうだな…。\n…夏妃さんの言う通りだ。\n………今は、内部を疑い合うのを止めよう」\n「そうね。\n…犯人探しなんて、私たちには無用かもしれないわ。\n……ただ明日まで生き残り、警察に通報してその指示に従うだけ。\n犯人が誰かなんて、警察が必ず暴き出してくれるのだから」",
+          "WH": "\"That's right.  We may be useless as far as searching for the culprit is concerned.",
+          "MG": "\"...Let us stop\nsuspecting each other...\nIt's more important that we trust each other and, for the children's sakes as well, defend this place until the very end.\"\n\"You're right...\n...It's like Natsuhi-san says.\n......For now, let's stop suspecting each other.\"\n\"That's right.\nWe may be useless as far as searching for the culprit is concerned.\n...We can only stay alive until tomorrow, inform the police, and follow their instructions.\nBecause the police will definitely expose who the culprit is.\"",
+          "UP": "\"......Let us stop this...\nSuspecting each other...\nIt's more important that we trust each other, and, for the children's sakes as well, defend this place until the very end.\"\n\"Yeah...\n...It's like Natsuhi‐san says.\n.........For now, let's stop doubting each other.\"\n\"You're right.\n...We may be useless as far as searching for the culprit is concerned.\n......We can only stay alive until tomorrow, inform the police, and follow their instructions.\nBecause the police will definitely expose who the culprit is.\"",
+          "note": "Both make the investigators useless rather than the culprit search potentially unnecessary for their immediate survival.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_13-L0409",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0415"
+            ],
+            "MG": [
+              "umi3_13-L0409",
+              "umi3_13-L0412",
+              "umi3_13-L0415"
+            ],
+            "UP": [
+              "umi3_13-L0409",
+              "umi3_13-L0412",
+              "umi3_13-L0415"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そうね。…犯人探しなんて、私たちには無用かもしれないわ。……ただ明日まで生き残り、警察に通報してその指示に従うだけ。犯人が誰かなんて、警察が必ず暴き出してくれるのだから」",
+              "translation": "\"That's right. We may be useless as far as searching for the culprit is concerned. ...We can only stay alive until tomorrow, inform the police, and follow their instructions. Because the police will definitely expose who the culprit is.\" "
+            },
+            "UP": {
+              "japanese": "「そうね。…犯人探しなんて、私たちには無用かもしれないわ。……ただ明日まで生き残り、警察に通報してその指示に従うだけ。犯人が誰かなんて、警察が必ず暴き出してくれるのだから」",
+              "translation": "\"You're right. ...We may be useless as far as searching for the culprit is concerned. ......We can only stay alive until tomorrow, inform the police, and follow their instructions. Because the police will definitely expose who the culprit is.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0415"
+            ],
+            "MG": [
+              "umi3_13-L0415"
+            ],
+            "UP": [
+              "umi3_13-L0415"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Perhaps searching for the culprit is of no use to us; survive until tomorrow and let police expose the culprit.",
+      "alternative": "The following police reliance can imply lack of investigative expertise, but 私たちには無用 primarily evaluates the need or usefulness of the search, not their ability.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-010",
+      "kind": "WH",
+      "description": "The source reasons from gold inherited only by the head to all of it embodying the head’s honor. WH uses that is because and reverses the explanatory relation.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              433,
+              441
+            ],
+            "MG": [
+              433,
+              441
+            ],
+            "UP": [
+              433,
+              441
+            ]
+          },
+          "japanese": "「…………何てことを……！\nあれだけの莫大な黄金なのよ？！\n楼座たちに分け前をあげたって、まったく問題はなかったでしょうに…！」\n「あるわよ。\n…あれは右代宮家の当主だけが引き継げる黄金なの。\nだからこそそれは、全て丸ごと当主の栄誉そのものなの」\n「……それにわずかほどでも傷をつけることは、\nこの私、新しき黄金の魔女、ベアトリーチェが絶対に許さないわ。\n……くすくすくすくすくす！」",
+          "japanesePC": "「あるわよ。…あれは右代宮家の当主だけが引き継げる黄金なの。だからこそそれは、全て丸ごと当主の栄誉そのものなの。",
+          "japanesePS3": "「…………何てことを……！\nあれだけの莫大な黄金なのよ？！\n楼座たちに分け前をあげたって、まったく問題はなかったでしょうに…！」\n「あるわよ。\n…あれは右代宮家の当主だけが引き継げる黄金なの。\nだからこそそれは、全て丸ごと当主の栄誉そのものなの」\n「……それにわずかほどでも傷をつけることは、\nこの私、新しき黄金の魔女、ベアトリーチェが絶対に許さないわ。\n……くすくすくすくすくす！」",
+          "WH": "\"It would.  ...That gold is to be passed on only to the head of the Ushiromiya family.  That is because the whole of it is itself the honor of the head.",
+          "MG": "\"......What have you done...?!\nThere was so much of that gold, right?!\nGiving Rosa and the others their share wouldn't have been a problem at all, right...?!\"\n\"It would.\n...That gold is to be passed on only to the Head of the Ushiromiya family.\nThat's because it, as a whole, represents no more or less than the honor of the Head.\"\n\"...To wound that even a tiny bit...\nis definitely not something that I, the new Golden Witch, Beatrice, will permit.\n...*giggle*giggle*giggle*giggle*giggle*!\"",
+          "UP": "\"............What have you done......!\nThere's so much of that gold!\nGiving Rosa and the others their share wouldn't have been a problem at all...!\"\n\"It would.\n...That gold is to be passed on only to the head of the Ushiromiya family.\nAnd that makes that gold, all of it, in its entirety, the very honor of the head.\"\n\"......Putting even the smallest dent in it...\nis definitely not something I will permit as the new Golden Witch, Beatrice.\n......*giggle*giggle*giggle*giggle*giggle*!\"",
+          "note": "MG reverses the explanatory relation with that is because; UP restores that exclusive inheritance makes the gold embody the head’s honor.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_13-L0433",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0436"
+            ],
+            "MG": [
+              "umi3_13-L0433",
+              "umi3_13-L0436",
+              "umi3_13-L0439"
+            ],
+            "UP": [
+              "umi3_13-L0433",
+              "umi3_13-L0436",
+              "umi3_13-L0439"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あるわよ。…あれは右代宮家の当主だけが引き継げる黄金なの。だからこそそれは、全て丸ごと当主の栄誉そのものなの」",
+              "translation": "\"It would. ...That gold is to be passed on only to the Head of the Ushiromiya family. That's because it, as a whole, represents no more or less than the honor of the Head.\" "
+            },
+            "UP": {
+              "japanese": "「あるわよ。…あれは右代宮家の当主だけが引き継げる黄金なの。だからこそそれは、全て丸ごと当主の栄誉そのものなの」",
+              "translation": "\"It would. ...That gold is to be passed on only to the head of the Ushiromiya family. And that makes that gold, all of it, in its entirety, the very honor of the head.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0436"
+            ],
+            "MG": [
+              "umi3_13-L0436"
+            ],
+            "UP": [
+              "umi3_13-L0436"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Only the Ushiromiya head can inherit the gold; precisely for that reason, the whole of it represents the head’s honor.",
+      "alternative": "Both propositions remain explicit and can plausibly support each other, but だからこそ marks the honor claim as a consequence of exclusive inheritance, not its cause.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-011",
+      "kind": "WH",
+      "description": "WH uses hold up in one place for the survivors gathering and staying put.",
+      "categories": [
+        "linguistic.grammar",
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              534,
+              539
+            ],
+            "MG": [
+              534,
+              539
+            ],
+            "UP": [
+              534,
+              539
+            ]
+          },
+          "japanese": "「……ここまでは順調であるが、ここからが難しいぞ？」\n「難しい、とは…？」\n「うむ。\n大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、\n多くの場合、一所に固まって動かなくなるのだ。\nそれは我らにとって非常に都合が悪い」",
+          "japanesePC": "「うむ。大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、多くの場合、一所に固まって動かなくなるのだ。それは我らにとって非常に都合が悪い。」",
+          "japanesePS3": "「……ここまでは順調であるが、ここからが難しいぞ？」\n「難しい、とは…？」\n「うむ。\n大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、\n多くの場合、一所に固まって動かなくなるのだ。\nそれは我らにとって非常に都合が悪い」",
+          "WH": "\"Hmm.  In the average situation, as the ceremony progresses and the victims increase, they begin to tighten their guard, and in most cases, they hold up in one place and stop moving.  That is extremely inconvenient for us.\"",
+          "MG": "\"...Everything has gone as planned until now, but from here on out, it will become difficult, you see?\"\n\"Difficult, meaning...?\"\n\"Indeed.\nNormally, as the ceremony progresses and the victims increase in number, they begin to tighten their guard,\nand in most cases, they hole up in one place and stop moving.\nThat is extremely inconvenient for us.\"",
+          "UP": "\"......Everything has gone as planned so far, but from here on out, it will become difficult, you see?\"\n\"Difficult, you say...?\"\n\"Mm.\nIn most cases, as the ritual progresses and the victims increase, they begin to tighten their guard,\nand often, they hole up in one place and stop moving.\nThat is extremely inconvenient for us.\"",
+          "note": "Both restore hole up instead of hold up.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_13-L0534",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0536"
+            ],
+            "MG": [
+              "umi3_13-L0534",
+              "umi3_13-L0535",
+              "umi3_13-L0536"
+            ],
+            "UP": [
+              "umi3_13-L0534",
+              "umi3_13-L0535",
+              "umi3_13-L0536"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うむ。大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、多くの場合、一所に固まって動かなくなるのだ。それは我らにとって非常に都合が悪い」",
+              "translation": "\"Indeed. Normally, as the ceremony progresses and the victims increase in number, they begin to tighten their guard, and in most cases, they hole up in one place and stop moving. That is extremely inconvenient for us.\" "
+            },
+            "UP": {
+              "japanese": "「うむ。大抵の場合、儀式が進行するにつれ犠牲者が増えると、彼らは守りを固めるようになり、多くの場合、一所に固まって動かなくなるのだ。それは我らにとって非常に都合が悪い」",
+              "translation": "\"Mm. In most cases, as the ritual progresses and the victims increase, they begin to tighten their guard, and often, they hole up in one place and stop moving. That is extremely inconvenient for us.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0536"
+            ],
+            "MG": [
+              "umi3_13-L0536"
+            ],
+            "UP": [
+              "umi3_13-L0536"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "They gather in one place and stop moving, effectively holing up.",
+      "alternative": "The meaning is recoverable from the surrounding guard and immobility description; hold up is a local phrasal-verb error.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-012",
+      "kind": "WH",
+      "description": "WH changes the historical period when magic was believed in to when witches were believed in.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.terminology_recurrence",
+        "mystery.category_flattening"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              541,
+              546
+            ],
+            "MG": [
+              541,
+              546
+            ],
+            "UP": [
+              541,
+              546
+            ]
+          },
+          "japanese": "「魔女がニンゲンに劣ることはない…。\nただ、時代が変わり、ニンゲンが毒を持つようになったというべきか…」\n「……大昔の、魔法が信じられていた時代は問題なかったのだが、\n現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する」\n「つまり、存在自体が反魔法的なのだ。\nその結果、彼らはいつの間にか体内に、魔法を否定する毒素を有するようになった」",
+          "japanesePC": "……大昔の、魔法が信じられていた時代は問題なかったのだが、現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する。",
+          "japanesePS3": "「魔女がニンゲンに劣ることはない…。\nただ、時代が変わり、ニンゲンが毒を持つようになったというべきか…」\n「……大昔の、魔法が信じられていた時代は問題なかったのだが、\n現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する」\n「つまり、存在自体が反魔法的なのだ。\nその結果、彼らはいつの間にか体内に、魔法を否定する毒素を有するようになった」",
+          "WH": "......This wasn't a problem long ago, during the period that witches were believed in, but just like that annoyance Battler, people in the current era fundamentally deny magic.",
+          "MG": "\"Witches are never inferior to Humans...\nHowever, perhaps you could say that times change, and that Humans have gotten their hands on a poison...\n...This wasn't a problem long ago, when people believed in witches,\nbut just like that annoyance Battler, people in the current era deny magic on a fundamental level.\"\n\"In other words, their existence itself is anti-magical.\nAs a result, at some point, they grew to possess a toxin inside their bodies that denies magic.\"",
+          "UP": "\"Witches are never inferior to Humanhumans...\nHowever, perhaps you could say that times change, and that Humanhumans have gotten their hands on a poison...\"\n\"......This wasn't a problem long ago, during the period when witches were believed in,\nbut just like that annoyance Battler, people in the current era generally deny magic.\"\n\"In other words, their existence itself is anti‐magical.\nAs a result, at some point, they grew to possess a toxin inside their bodies that denies magic.\"",
+          "note": "Both retain belief in witches rather than belief in magic as the named historical condition.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_13-L0541",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0543"
+            ],
+            "MG": [
+              "umi3_13-L0541",
+              "umi3_13-L0543",
+              "umi3_13-L0545"
+            ],
+            "UP": [
+              "umi3_13-L0541",
+              "umi3_13-L0543",
+              "umi3_13-L0545"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……大昔の、魔法が信じられていた時代は問題なかったのだが、現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する」",
+              "translation": "...This wasn't a problem long ago, when people believed in witches, but just like that annoyance Battler, people in the current era deny magic on a fundamental level.\" "
+            },
+            "UP": {
+              "japanese": "「……大昔の、魔法が信じられていた時代は問題なかったのだが、現代人はあの小憎たらしい戦人がそうであるように、基本的に魔法を否定する」",
+              "translation": "\"......This wasn't a problem long ago, during the period when witches were believed in, but just like that annoyance Battler, people in the current era generally deny magic.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0543"
+            ],
+            "MG": [
+              "umi3_13-L0543"
+            ],
+            "UP": [
+              "umi3_13-L0543"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Long ago, when magic was believed in, this resistance was not a problem.",
+      "alternative": "Witch belief and magic belief are closely related in this account, but the Japanese specifically contrasts belief and denial of magic, not merely a class of beings.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-013",
+      "kind": "WH",
+      "description": "WH changes 十数人 to a few dozen humans.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              562,
+              570
+            ],
+            "MG": [
+              562,
+              570
+            ],
+            "UP": [
+              562,
+              570
+            ]
+          },
+          "japanese": "その為、世界中の魔女たちは住処を追われた。\n…魔法を捨て、ニンゲンとして生きるか、ニンゲンの毒素の及ばない僻地に隠居するかを選ばなければならなかった。\nその意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。\nそしてそれ以上に好都合なのは、六軒島の森には魔女が住まうという怪談の存在。\n…つまり、魔女が存在するかもしれないという恐れがある程度浸透しており、\nニンゲンたちの反魔法の毒素が弱まっていたことだ。\n少ない人口と、魔法的存在を認めうる余地。\n即ち、低い反魔法的精神。\n…この２つの狭間だけが、現代の魔女が生きていける場所なのだ…。",
+          "japanesePC": "その意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。",
+          "japanesePS3": "その為、世界中の魔女たちは住処を追われた。\n…魔法を捨て、ニンゲンとして生きるか、ニンゲンの毒素の及ばない僻地に隠居するかを選ばなければならなかった。\nその意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。\nそしてそれ以上に好都合なのは、六軒島の森には魔女が住まうという怪談の存在。\n…つまり、魔女が存在するかもしれないという恐れがある程度浸透しており、\nニンゲンたちの反魔法の毒素が弱まっていたことだ。\n少ない人口と、魔法的存在を認めうる余地。\n即ち、低い反魔法的精神。\n…この２つの狭間だけが、現代の魔女が生きていける場所なのだ…。",
+          "WH": "In that sense, Rokkenjima, with its population of only a few dozen humans, was extremely favorable for witches.",
+          "MG": "Thus, witches from across the world were chased from their dwellings.\n...They had been forced to choose to throw away their magic and live as Humans, or else live in hiding in remote areas where the toxin of Humans didn't reach.\nIn that sense, Rokkenjima, with its population of only a few dozen humans, was extremely favorable for witches.\nAnd even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest.\n...In other words, by permeating the island with the fear that a witch might exist,\nthe magic-resisting toxin from the Humans was weakened.\nA small population...and room for them to acknowledge magical beings.\nIn other words, minds that were only weakly anti-magical.\n...Only by existing in the valley where those two converged...could a witch live in modern times...",
+          "UP": "Thus, witches from across the world were chased from their dwellings.\n...They were forced to choose whether to throw away their magic and live as Humanhumans, or live in hiding in remote areas where the toxin of Humanhumans didn't reach.\nIn that sense, Rokkenjima, with its population of only ten to twenty humans, was extremely favorable for witches.\nAnd even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest.\n...Essentially, the fear that a witch might exist permeates the island to a certain extent,\nweakening the anti‐magic toxin from the Humanhumans.\nA small population, and a margin of possibility to accept a magical being.\nIn other words, minds that were only weakly anti‐magical.\n...Only in the valley where those two converged...could a witch live in modern times...",
+          "note": "MG retains a few dozen; UP restores the roughly teen-sized population with ten to twenty.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi3_13-L0562",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0564"
+            ],
+            "MG": [
+              "umi3_13-L0562",
+              "umi3_13-L0564",
+              "umi3_13-L0568"
+            ],
+            "UP": [
+              "umi3_13-L0562",
+              "umi3_13-L0564",
+              "umi3_13-L0568"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "その意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。そしてそれ以上に好都合なのは、六軒島の森には魔女が住まうという怪談の存在。…つまり、魔女が存在するかもしれないという恐れがある程度浸透しており、ニンゲンたちの反魔法の毒素が弱まっていたことだ。",
+              "translation": "In that sense, Rokkenjima, with its population of only a few dozen humans, was extremely favorable for witches. And even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest. ...In other words, by permeating the island with the fear that a witch might exist, the magic-resisting toxin from the Humans was weakened. "
+            },
+            "UP": {
+              "japanese": "その意味においては、魔女たちにとって人口が十数人程度しかいない六軒島は非常に好都合だった。そしてそれ以上に好都合なのは、六軒島の森には魔女が住まうという怪談の存在。…つまり、魔女が存在するかもしれないという恐れがある程度浸透しており、ニンゲンたちの反魔法の毒素が弱まっていたことだ。",
+              "translation": "In that sense, Rokkenjima, with its population of only ten to twenty humans, was extremely favorable for witches. And even more favorable was the existence of the ghost story about the witch who lived in the Rokkenjima forest. ...Essentially, the fear that a witch might exist permeates the island to a certain extent, weakening the anti‐magic toxin from the Humanhumans."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0564"
+            ],
+            "MG": [
+              "umi3_13-L0564"
+            ],
+            "UP": [
+              "umi3_13-L0564"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The population is only ten-odd people, in the teens.",
+      "alternative": "Both convey a small population, and the eighteen-person limit is explicit elsewhere, but a few dozen suggests a larger order of population.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-014",
+      "kind": "WH",
+      "description": "WH adds my to predecessor, moving the source of the test one generation back. The same line also replaces the hardship-seeking proverb with a maxim about useful future learning.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              603,
+              606
+            ],
+            "MG": [
+              603,
+              606
+            ],
+            "UP": [
+              603,
+              606
+            ]
+          },
+          "japanese": "「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！\n先代からそなたへの、これは試練である。\n謹んで挑むが良いぞ。\nわっはっはっは…！」",
+          "japanesePC": "「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！　先代からそなたへの、これは試練である。謹んで挑むが良いぞ。わっはっはっは…！」",
+          "japanesePS3": "「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！\n先代からそなたへの、これは試練である。\n謹んで挑むが良いぞ。\nわっはっはっは…！」",
+          "WH": "\"Aah..., l, like they say, things you learn when you're young will definitely help you out in the future...!  This is a test passed on from my predecessor to you.  Challenge it with respect.  Wahahaha...!\"",
+          "MG": "\"Aah, ...l-like they say, things you learn when you're young will definitely help you out in the future...!\nThis is a test passed on from my predecessor to you.\nTake it on with respect.\nWahahaha...!\"",
+          "UP": "\"Aah... L‐like they say, you should seek out work while you're young...!\nThis is a test from me to you as your predecessor.\nChallenge it with respect.\nWahahaha...!\"",
+          "note": "MG retains my predecessor and future-learning maxim. UP restores Beato as the predecessor giving the test, but seek out work still narrows the proverb about willingly seeking hardship.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partly_corrected"
+          },
+          "readerRef": "umi3_13-L0603",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0603"
+            ],
+            "MG": [
+              "umi3_13-L0603"
+            ],
+            "UP": [
+              "umi3_13-L0603"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！　先代からそなたへの、これは試練である。謹んで挑むが良いぞ。わっはっはっは…！」",
+              "translation": "\"Aah, ...l-like they say, things you learn when you're young will definitely help you out in the future...! This is a test passed on from my predecessor to you. Take it on with respect. Wahahaha...!\" "
+            },
+            "UP": {
+              "japanese": "「あー…、そ、そのだな、若い内の苦労は買ってでもしろというではないか…！　先代からそなたへの、これは試練である。謹んで挑むが良いぞ。わっはっはっは…！」",
+              "translation": "\"Aah... L‐like they say, you should seek out work while you're young...! This is a test from me to you as your predecessor. Challenge it with respect. Wahahaha...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0603"
+            ],
+            "MG": [
+              "umi3_13-L0603"
+            ],
+            "UP": [
+              "umi3_13-L0603"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The test is from the predecessor, Beato herself, to her successor: young people should seek hardships even at a cost.",
+      "alternative": "She previously had a teacher/predecessor, but the direct address and 先代からそなたへの clearly describe her own imposed test here; no earlier predecessor is named as its origin.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP03-CH13-015",
+      "kind": "WH",
+      "description": "WH reduces the comparison to completely pointless and omits shouting donkey’s ears into a dug hole.",
+      "categories": [
+        "linguistic.omission",
+        "world.literary_reference",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              649,
+              656
+            ],
+            "MG": [
+              649,
+              656
+            ],
+            "UP": [
+              649,
+              656
+            ]
+          },
+          "japanese": "「……………どいつもこいつも、妾のことなど構いもせぬわ。\n………ふん。\n魔女見習いめ、天狗になりおって。\n…今に手痛いミスをして泣き言を言うに違いないぞ」\n「その時こそ、ようやく妾の偉大さを理解し、教えを乞おうとするに違いないのだ！\nくっくっく、それまで妾は高みの見物よ」\n高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。\nベアトは虚しくなり、すぐに笑うのを止める。",
+          "japanesePC": "高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。",
+          "japanesePS3": "「……………どいつもこいつも、妾のことなど構いもせぬわ。\n………ふん。\n魔女見習いめ、天狗になりおって。\n…今に手痛いミスをして泣き言を言うに違いないぞ」\n「その時こそ、ようやく妾の偉大さを理解し、教えを乞おうとするに違いないのだ！\nくっくっく、それまで妾は高みの見物よ」\n高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。\nベアトは虚しくなり、すぐに笑うのを止める。",
+          "WH": "She laughed loudly on the outside, but a laugh no one can hear is completely pointless.",
+          "MG": "\"......Not one of them gives a fig for me.\n......Hmm.\nYou witch apprentice, acting so smart...\n...I'll bet she makes some painful mistake and starts crying.\"\n\"Then, without a doubt, she'll finally realize my greatness and beg me to teach her!\n*cackle* Until then, I shall watch from on high.\"\nShe laughed loudly on the outside, but a laugh no one can hear is completely pointless.\nBeato gave up and quickly stopped laughing.",
+          "UP": "\"...............Not one of them bothers themselves with me.\n.........Hmph.\nYou witch apprentice, acting so smart.\n...I'll bet any moment now she's going to make some painful mistake and start crying.\"\n\"Then, without a doubt, she'll finally realize my greatness and follow my teachings!\n*cackle*, until then, I shall watch from above.\"\nShe laughed loudly on the outside, but a laugh no one can hear is completely pointless.\nBeato started to feel empty, and quickly stopped laughing.",
+          "note": "Both omit the comparison with shouting donkey’s ears into a dug hole, reducing it to completely pointless.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi3_13-L0649",
+          "readerRefs": {
+            "WH": [
+              "umi3_13-L0655"
+            ],
+            "MG": [
+              "umi3_13-L0649",
+              "umi3_13-L0653",
+              "umi3_13-L0655"
+            ],
+            "UP": [
+              "umi3_13-L0649",
+              "umi3_13-L0653",
+              "umi3_13-L0655"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。ベアトは虚しくなり、すぐに笑うのを止める。…それを見計らった頃に、ロノウェが姿を現した。",
+              "translation": "She laughed loudly on the outside, but a laugh no one can hear is completely pointless. Beato gave up and quickly stopped laughing. ...Ronove chose that time to show himself. "
+            },
+            "UP": {
+              "japanese": "高笑いを装うが、聞く者のない笑いなど、掘った穴にロバの耳を叫ぶより意味のないことだ。ベアトは虚しくなり、すぐに笑うのを止める。…それを見計らった頃に、ロノウェが姿を現した。",
+              "translation": "She laughed loudly on the outside, but a laugh no one can hear is completely pointless. Beato started to feel empty, and quickly stopped laughing. ...Ronove chose that time to show himself."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi3_13-L0655"
+            ],
+            "MG": [
+              "umi3_13-L0655"
+            ],
+            "UP": [
+              "umi3_13-L0655"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Her laugh without a listener is even more meaningless than shouting donkey’s ears into a hole.",
+      "alternative": "Pointless preserves the broad judgment, but loses both the specific image/reference and the comparative irony.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH13-241-360-001",
+      "kind": "additional",
+      "description": "UP renders 練りに練った犯行 as a crime “they’ve been planning for ages,” adding a long preparation period where the source specifies thorough, elaborate planning.",
+      "categories": [
+        "linguistic.addition",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              341,
+              343
+            ],
+            "MG": [
+              341,
+              343
+            ],
+            "UP": [
+              341,
+              343
+            ]
+          },
+          "japanese": "「……となりゃこの島に、屋敷に精通した何者かが潜んでいて、\n練りに練った犯行を実行したと考える方が自然だろうよ。\nつまり、この島には台風が来て外界と途絶された時点で、１８人以上の人間がいたんだ」",
+          "japanesePC": "",
+          "japanesePS3": "「……となりゃこの島に、屋敷に精通した何者かが潜んでいて、\n練りに練った犯行を実行したと考える方が自然だろうよ。\nつまり、この島には台風が来て外界と途絶された時点で、１８人以上の人間がいたんだ」",
+          "WH": "",
+          "MG": "\"...In that case, it makes more sense to assume it's someone familiar with the mansion,\nsomeone hiding around and carrying out a really well-polished crime.\nSo, ever since the typhoon came to this island and sealed it off from the outside world, there's been more than 18 people here.\"",
+          "UP": "\"......In that case, it's more natural to think there's someone hiding on this island who knows the mansion inside out,\ncarrying out a crime they've been planning for ages.\nIn other words, from the time that the typhoon came to this island and sealed it off from the outside world, there were more than 18 people on this island.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi3_13-L0341",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0341"
+            ],
+            "UP": [
+              "umi3_13-L0341"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……となりゃこの島に、屋敷に精通した何者かが潜んでいて、練りに練った犯行を実行したと考える方が自然だろうよ。つまり、この島には台風が来て外界と途絶された時点で、１８人以上の人間がいたんだ」",
+              "translation": "\"...In that case, it makes more sense to assume it's someone familiar with the mansion, someone hiding around and carrying out a really well-polished crime. So, ever since the typhoon came to this island and sealed it off from the outside world, there's been more than 18 people here.\" "
+            },
+            "UP": {
+              "japanese": "「……となりゃこの島に、屋敷に精通した何者かが潜んでいて、練りに練った犯行を実行したと考える方が自然だろうよ。つまり、この島には台風が来て外界と途絶された時点で、１８人以上の人間がいたんだ」",
+              "translation": "\"......In that case, it's more natural to think there's someone hiding on this island who knows the mansion inside out, carrying out a crime they've been planning for ages. In other words, from the time that the typhoon came to this island and sealed it off from the outside world, there were more than 18 people on this island.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0341"
+            ],
+            "UP": [
+              "umi3_13-L0341"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Rudolf considers a concealed person familiar with the mansion executing a carefully worked-out crime.",
+      "alternative": "Thorough preparation often takes time and “for ages” can be colloquial emphasis. The source gives no duration; the extra temporal claim is introduced into Rudolf’s theory.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH13-361-480-001",
+      "kind": "additional",
+      "description": "MG writes “an fool,” where the consonant sound requires “a fool.”",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              453,
+              454
+            ],
+            "MG": [
+              453,
+              454
+            ],
+            "UP": [
+              453,
+              454
+            ]
+          },
+          "japanese": "「馬鹿なことは止めて…！\n魔女ごっこはもう充分でしょう？",
+          "japanesePC": "",
+          "japanesePS3": "「馬鹿なことは止めて…！\n魔女ごっこはもう充分でしょう？",
+          "WH": "",
+          "MG": "\"Stop acting like an fool...!\nHaven't you played at being a witch enough?",
+          "UP": "\"Stop acting like an idiot...!\nHaven't you played witch enough?",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_13-L0453",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0453"
+            ],
+            "UP": [
+              "umi3_13-L0453"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「馬鹿なことは止めて…！　魔女ごっこはもう充分でしょう？　私たちは黄金を見つけたわ。そして次期当主の座だって約束されてるわ。ほんの少しの綱渡りは必要だろうけど、もうそれは絶対に叶う夢。……なのにこれ以上、あなたは何を望むというの…？！」",
+              "translation": "\"Stop acting like an fool...! Haven't you played at being a witch enough? We found the gold. And we've even been promised the position of the Successor. We'll probably need to tightrope walk just a bit, but by now, that's a dream that will definitely come true. ...Beyond that, what more could you wish for...?!\" "
+            },
+            "UP": {
+              "japanese": "「馬鹿なことは止めて…！　魔女ごっこはもう充分でしょう？　私たちは黄金を見つけたわ。そして次期当主の座だって約束されてるわ。ほんの少しの綱渡りは必要だろうけど、もうそれは絶対に叶う夢。……なのにこれ以上、あなたは何を望むというの…？！」",
+              "translation": "\"Stop acting like an idiot...! Haven't you played witch enough? We found the gold. And we've even been promised the position of successor to the head. We'll probably need to tightrope walk just a bit, but at this point, that's a dream that will definitely come true. ......Beyond that, what more could you wish for...?!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0453"
+            ],
+            "UP": [
+              "umi3_13-L0453"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The speaker urges the other to stop doing foolish things and playing witch.",
+      "alternative": "The intended rebuke is clear, but the article is incorrect.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH13-481-600-001",
+      "kind": "additional",
+      "description": "MG writes “forcing me support it,” omitting the required to in “forcing me to support it.”",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              495,
+              497
+            ],
+            "MG": [
+              495,
+              497
+            ],
+            "UP": [
+              495,
+              497
+            ]
+          },
+          "japanese": "「私の魔力が未熟な分を、あなたの生気で補ってるの。\n私が儀式を終えて完全な魔女になるまで、あなたに負担を掛けるかもね。\nそれくらいは、２つの夢を叶えてあげた対価ってことにしてもらうわよ」",
+          "japanesePC": "",
+          "japanesePS3": "「私の魔力が未熟な分を、あなたの生気で補ってるの。\n私が儀式を終えて完全な魔女になるまで、あなたに負担を掛けるかもね。\nそれくらいは、２つの夢を叶えてあげた対価ってことにしてもらうわよ」",
+          "WH": "",
+          "MG": "\"My inexperience with magical power is forcing me support it with your vitality.\nUntil I finish the ceremony and become a full witch, you might have to bear the burden.\nI'll take that as payment for making two of your dreams come true.\"",
+          "UP": "\"My inexperience with my magic power is making me support it with your vitality.\nUntil I finish the ritual and become a full witch, you might have to bear the burden.\nI'll take that in exchange for making two of your dreams come true.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi3_13-L0495",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0495"
+            ],
+            "UP": [
+              "umi3_13-L0495"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私の魔力が未熟な分を、あなたの生気で補ってるの。私が儀式を終えて完全な魔女になるまで、あなたに負担を掛けるかもね。それくらいは、２つの夢を叶えてあげた対価ってことにしてもらうわよ」",
+              "translation": "\"My inexperience with magical power is forcing me support it with your vitality. Until I finish the ceremony and become a full witch, you might have to bear the burden. I'll take that as payment for making two of your dreams come true.\" "
+            },
+            "UP": {
+              "japanese": "「私の魔力が未熟な分を、あなたの生気で補ってるの。私が儀式を終えて完全な魔女になるまで、あなたに負担を掛けるかもね。それくらいは、２つの夢を叶えてあげた対価ってことにしてもらうわよ」",
+              "translation": "\"My inexperience with my magic power is making me support it with your vitality. Until I finish the ritual and become a full witch, you might have to bear the burden. I'll take that in exchange for making two of your dreams come true.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0495"
+            ],
+            "UP": [
+              "umi3_13-L0495"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The speaker claims to compensate for immature magical power with Eva’s vitality.",
+      "alternative": "The meaning remains clear, but the English construction is defective.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP03-CH13-481-600-002",
+      "kind": "additional",
+      "description": "UP writes “every of one them” instead of “every one of them.”",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              530,
+              533
+            ],
+            "MG": [
+              530,
+              533
+            ],
+            "UP": [
+              530,
+              533
+            ]
+          },
+          "japanese": "…もっとも、体調が悪いのは絵羽だけではない。\n昨夜から一睡もしておらず、朝からずっと緊張を強いられている。\n…家族を守るために気力を振り絞っているが、\nわずかでも気を緩めれば、きっと誰もがダウンしてしまうに違いなかった…。",
+          "japanesePC": "",
+          "japanesePS3": "…もっとも、体調が悪いのは絵羽だけではない。\n昨夜から一睡もしておらず、朝からずっと緊張を強いられている。\n…家族を守るために気力を振り絞っているが、\nわずかでも気を緩めれば、きっと誰もがダウンしてしまうに違いなかった…。",
+          "WH": "",
+          "MG": "...However, Eva wasn't the only one who wasn't feeling good.\nThey hadn't gotten a wink of sleep since the previous night...and had been pressed by tension since that morning.\n...They were mustering their energy to protect their families,\nbut if they relaxed even a little, surely everyone would be down and out...",
+          "UP": "...Of course, Eva wasn't the only one who wasn't feeling well.\nThey hadn't gotten a wink of sleep since the previous night, and had been pressed by tension since the morning.\n...They were mustering their energy to protect their families,\nbut if they relaxed even a little, surely every of one them would be down and out...",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi3_13-L0529",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0529"
+            ],
+            "UP": [
+              "umi3_13-L0529"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "秀吉と絵羽はロビーを退出する。…もっとも、体調が悪いのは絵羽だけではない。昨夜から一睡もしておらず、朝からずっと緊張を強いられている。…家族を守るために気力を振り絞っているが、わずかでも気を緩めれば、きっと誰もがダウンしてしまうに違いなかった…。",
+              "translation": "Hideyoshi and Eva retreated from the lobby. ...However, Eva wasn't the only one who wasn't feeling good. They hadn't gotten a wink of sleep since the previous night...and had been pressed by tension since that morning. ...They were mustering their energy to protect their families, but if they relaxed even a little, surely everyone would be down and out... "
+            },
+            "UP": {
+              "japanese": "秀吉と絵羽はロビーを退出する。…もっとも、体調が悪いのは絵羽だけではない。昨夜から一睡もしておらず、朝からずっと緊張を強いられている。…家族を守るために気力を振り絞っているが、わずかでも気を緩めれば、きっと誰もがダウンしてしまうに違いなかった…。",
+              "translation": "Hideyoshi and Eva retreated from the lobby. ...Of course, Eva wasn't the only one who wasn't feeling well. They hadn't gotten a wink of sleep since the previous night, and had been pressed by tension since the morning. ...They were mustering their energy to protect their families, but if they relaxed even a little, surely every of one them would be down and out..."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0529"
+            ],
+            "UP": [
+              "umi3_13-L0529"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Everyone is exhausted and would collapse if they relaxed their vigilance.",
+      "alternative": "The meaning remains clear, but the English construction is defective.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-018",
+      "kind": "PC",
+      "description": "MG names a short-barrel Winchester where PS3-derived Japanese names a short-barrel rifle. Original PC Japanese explicitly names Winchester.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi3_13",
+          "episode": 3,
+          "rows": {
+            "JP": [
+              315,
+              316
+            ],
+            "MG": [
+              315,
+              316
+            ],
+            "UP": [
+              315,
+              316
+            ]
+          },
+          "japanese": "このショートバレルのライフル銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。",
+          "japanesePC": "このショートバレルのウィンチェスター銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。",
+          "japanesePS3": "このショートバレルのライフル銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。",
+          "WH": "This short barrel Winchester could load five shots.",
+          "MG": "This short barrel Winchester could hold only five shots.\nIn other words, Rosa hadn't fired even once.",
+          "UP": "This short barrel rifle could load a maximum of five shots.\nIn other words, Rosa hadn't fired even once.",
+          "note": "",
+          "dispositions": {
+            "MG": "PC_material_retained",
+            "UP": "PS3_wording"
+          },
+          "readerRef": "umi3_13-L0314",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0314"
+            ],
+            "UP": [
+              "umi3_13-L0314"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかし、５発を発砲できてしまったことは、ある疑心暗鬼を生み出すことになった。このショートバレルのライフル銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。",
+              "translation": "However, the fact that it had been able to fire off five shots gave rise to a certain paranoia. This short barrel Winchester could hold only five shots. In other words, Rosa hadn't fired even once. "
+            },
+            "UP": {
+              "japanese": "しかし、５発を発砲できてしまったことは、ある疑心暗鬼を生み出すことになった。このショートバレルのライフル銃の装弾数は５発。\nつまり楼座は、１発も発砲しなかったのだ。",
+              "translation": "However, the fact that it had been able to fire off five shots gave rise to a certain paranoia. This short barrel rifle could load a maximum of five shots.\nIn other words, Rosa hadn't fired even once."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi3_13-L0314"
+            ],
+            "UP": [
+              "umi3_13-L0314"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP03-CH13-001": {
+      "umi3_13-L0090": {
+        "WH": [
+          "pointed gate of the fence"
+        ],
+        "MG": [
+          "pointed gate of the fence"
+        ],
+        "UP": [
+          "pointed gate of the fence"
+        ]
+      }
+    },
+    "WH-EP03-CH13-002": {
+      "umi3_13-L0104": {
+        "WH": [
+          "I don't want to listen to you"
+        ],
+        "UP": [
+          "I don't want to listen to you"
+        ]
+      },
+      "umi3_13-L0117": {
+        "UP": [
+          "I didn't want to listen to you"
+        ]
+      }
+    },
+    "WH-EP03-CH13-003": {
+      "umi3_13-L0168": {
+        "WH": [
+          "whether it could or couldn't be done with magic"
+        ],
+        "MG": [
+          "whether it could or couldn't be done with magic"
+        ],
+        "UP": [
+          "whether it could or couldn't be done with magic"
+        ]
+      }
+    },
+    "WH-EP03-CH13-004": {
+      "umi3_13-L0220": {
+        "WH": [
+          "so you can't understand"
+        ],
+        "MG": [
+          "so you can't understand"
+        ],
+        "UP": [
+          "so you can't understand"
+        ]
+      }
+    },
+    "WH-EP03-CH13-005": {
+      "umi3_13-L0224": {
+        "WH": [
+          "and this was a sign"
+        ],
+        "MG": [
+          "and this was a sign"
+        ]
+      }
+    },
+    "WH-EP03-CH13-006": {
+      "umi3_13-L0281": {
+        "WH": [
+          "I think I can withstand that premise"
+        ],
+        "MG": [
+          "I think I can bear to accept that premise"
+        ]
+      }
+    },
+    "WH-EP03-CH13-007": {
+      "umi3_13-L0358": {
+        "WH": [
+          "a servant who was supposed to be dead"
+        ]
+      }
+    },
+    "WH-EP03-CH13-008": {
+      "umi3_13-L0387": {
+        "WH": [
+          "the time we think Rosa-san was attacked outside"
+        ],
+        "MG": [
+          "the time we think Rosa-san was attacked outside"
+        ]
+      }
+    },
+    "WH-EP03-CH13-009": {
+      "umi3_13-L0415": {
+        "WH": [
+          "We may be useless as far as searching for the culprit is concerned"
+        ],
+        "MG": [
+          "We may be useless as far as searching for the culprit is concerned"
+        ],
+        "UP": [
+          "We may be useless as far as searching for the culprit is concerned"
+        ]
+      }
+    },
+    "WH-EP03-CH13-010": {
+      "umi3_13-L0436": {
+        "WH": [
+          "That is because"
+        ],
+        "MG": [
+          "That's because"
+        ]
+      }
+    },
+    "WH-EP03-CH13-011": {
+      "umi3_13-L0536": {
+        "WH": [
+          "hold up in one place"
+        ]
+      }
+    },
+    "WH-EP03-CH13-012": {
+      "umi3_13-L0543": {
+        "WH": [
+          "witches were believed in"
+        ],
+        "MG": [
+          "people believed in witches"
+        ],
+        "UP": [
+          "witches were believed in"
+        ]
+      }
+    },
+    "WH-EP03-CH13-013": {
+      "umi3_13-L0564": {
+        "WH": [
+          "a few dozen humans"
+        ],
+        "MG": [
+          "a few dozen humans"
+        ]
+      }
+    },
+    "WH-EP03-CH13-014": {
+      "umi3_13-L0603": {
+        "WH": [
+          "things you learn when you're young will definitely help you out in the future",
+          "my predecessor"
+        ],
+        "MG": [
+          "things you learn when you're young will definitely help you out in the future",
+          "my predecessor"
+        ],
+        "UP": [
+          "seek out work while you're young"
+        ]
+      }
+    },
+    "WH-EP03-CH13-015": {
+      "umi3_13-L0655": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The comparison to shouting donkey's ears into a dug hole is omitted; generic pointlessness remains."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "The comparison to shouting donkey's ears into a dug hole is omitted; generic pointlessness remains."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "The comparison to shouting donkey's ears into a dug hole is omitted; generic pointlessness remains."
+        }
+      }
+    },
+    "PAIR-EP03-CH13-241-360-001": {
+      "umi3_13-L0341": {
+        "UP": [
+          "they've been planning for ages"
+        ]
+      }
+    },
+    "PAIR-EP03-CH13-361-480-001": {
+      "umi3_13-L0453": {
+        "MG": [
+          "an fool"
+        ]
+      }
+    },
+    "PAIR-EP03-CH13-481-600-001": {
+      "umi3_13-L0495": {
+        "MG": [
+          "forcing me support"
+        ]
+      }
+    },
+    "PAIR-EP03-CH13-481-600-002": {
+      "umi3_13-L0529": {
+        "UP": [
+          "every of one them"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

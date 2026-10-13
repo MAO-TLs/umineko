@@ -1,1 +1,660 @@
-{"findings":[{"id":"WH-EP07-CH01-001","kind":"WH","description":"Lion’s kanji explanation becomes unglossed characters.","categories":["linguistic.omission","linguistic.name_address","world.culture_history"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_1","episode":7,"rows":{"JP":[80,80],"MG":[80,80],"UP":[80,80]},"japanese":"「理科の“理”に、御するの“御”で、リオンと読みます。","japanesePC":"「理科の“理”に、御するの“御”で、リオンと読みます。......ちょっと日本人っぽくない名前ですよね。」","japanesePS3":"「理科の“理”に、御するの“御”で、リオンと読みます。","WH":"\"It's written as '理御', but pronounced 'Lee-on'.  ......Sounds a bit strange for a Japanese name, doesn't it?\"","MG":"\"It's written as \"理御\", but pronounced \"Lee-on\".","UP":"\"It's written as \"理御\", but pronounced \"Lee‐on\".","note":"Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_1-L0080","readerRefs":{"WH":["umi7_1-L0080"],"MG":["umi7_1-L0080"],"UP":["umi7_1-L0080"]}}],"sourceReading":"Lion explains 理 as the character in science, 理科, and 御 as in governing or controlling, 御する, then gives the reading Rion.","alternative":"The English displays both correct characters and the reading Lee-on, but omits both lexical explanations. Showing kanji preserves spelling for those who can read it, not the explanation offered to the interlocutor.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH01-002","kind":"WH","description":"Enclosing a larger possibility box becomes Bern moving boxes.","categories":["linguistic.mistranslation","world.world_layer","mystery.puzzle_mechanism"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_1","episode":7,"rows":{"JP":[152,152],"MG":[152,152],"UP":[152,152]},"japanese":"……ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。","japanesePC":"「くすくす......。......ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。理御は、その中で生まれ得る可能性を持つ、一つの駒。」","japanesePS3":"……ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。","WH":"\"*giggle*......  ......I've just moved from Beato's cat box into a larger cat box.  Lion is one of the pieces who has a possibility of appearing inside it.\"","MG":"...I've just moved from Beato's cat box into a larger cat box.","UP":"......I've just enclosed Beato's cat box in a larger cat box.","note":"Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_1-L0151","readerRefs":{"WH":["umi7_1-L0151"],"MG":["umi7_1-L0151"],"UP":["umi7_1-L0151"]}}],"sourceReading":"Bern has merely enclosed matters in a cat box larger than Beato’s; Lion is a piece with the possibility of being born within it.","alternative":"Moved from Beato’s cat box into a larger one gives Bern a relocation action not stated in 閉ざした, enclosing or closing. Appearing also replaces 生まれ得る, being capable of being born, with generic character introduction. Although the broader scene explores a different game board, these are the source’s explicit explanations of its scope and Lion’s possibility.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH01-003","kind":"WH","description":"Minimum formal conditions become the general pattern of the place.","categories":["linguistic.mistranslation","mystery.argument_reconstruction","world.world_layer"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_1","episode":7,"rows":{"JP":[266,266],"MG":[266,266],"UP":[266,266]},"japanese":"……とりあえずの体裁が整っていることは確認できたらしい。","japanesePC":"ウィルの不満げな表情は相変わらずだが、......とりあえずの体裁が整っていることは確認できたらしい。","japanesePS3":"……とりあえずの体裁が整っていることは確認できたらしい。","WH":"There was no change to Will's unsatisfied expression, ......but he seemed to have understood the general pattern of this place.","MG":"...he seemed to have understood the general pattern of this place.","UP":"......but he seemed to have understood that everything was at least in order.","note":"Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_1-L0265","readerRefs":{"WH":["umi7_1-L0265"],"MG":["umi7_1-L0265"],"UP":["umi7_1-L0265"]}}],"sourceReading":"After corpse and clue requirements, Will has apparently confirmed that the provisional formal requirements are met, despite remaining dissatisfied.","alternative":"Understood the general pattern of this place suggests learning how the setting works. とりあえずの体裁が整っている concerns whether sufficient preliminary form or conditions have been supplied to take the case.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH01-005","kind":"WH","description":"The concentrated time vortex becomes a time loop.","categories":["linguistic.word_choice","world.world_layer","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_1","episode":7,"rows":{"JP":[353,353],"MG":[353,353],"UP":[353,353]},"japanese":"この礼拝堂は今、濃縮された時間の渦に閉じ込められている」","japanesePC":"「......この礼拝堂がカケラから切り離されたんだ。この礼拝堂は今、濃縮された時間の渦に閉じ込められている。」","japanesePS3":"この礼拝堂は今、濃縮された時間の渦に閉じ込められている」","WH":"\"......This chapel has been cut off from the Fragment.  We're currently locked in a concentrated loop of time.\"","MG":"We're currently locked in a concentrated loop of time.\"","UP":"We're currently locked within a maelstrom of compressed time.\"","note":"Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_1-L0352","readerRefs":{"WH":["umi7_1-L0352"],"MG":["umi7_1-L0352"],"UP":["umi7_1-L0352"]}}],"sourceReading":"The chapel has been severed from the Fragment and trapped in a vortex of concentrated time.","alternative":"Loop can loosely describe a swirling shape, but a loop of time conventionally asserts cyclic or repeating time. 渦 describes a vortex, and the demonstrated outside effect is instantaneous withering and suspension, not a repeated sequence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH01-006","kind":"WH","description":"Lion’s deep sigh becomes a deep breath.","categories":["linguistic.word_choice","character.voice_state","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_1","episode":7,"rows":{"JP":[403,403],"MG":[403,403],"UP":[403,403]},"japanese":"……しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。","japanesePC":"......しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。","japanesePS3":"……しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。","WH":"......However, Lion took a deep breath, and looked up at the sky, wearing a vague smile.","MG":"...However, Lion took a deep breath and looked up at the sky, wearing a vague smile.","UP":"......However, Lion took a deep breath, and looked up at the sky, wearing a vague smile.","note":"Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_1-L0401","readerRefs":{"WH":["umi7_1-L0401"],"MG":["umi7_1-L0401"],"UP":["umi7_1-L0401"]}}],"sourceReading":"After their introductions, Lion lets out a deep sigh and looks up with an ambiguous smile.","alternative":"A deep breath might involve exhaling, but removes 溜息’s explicit sigh of dissatisfaction or resignation at the coming admission of limited knowledge.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH01-007","kind":"WH","description":"Kinzo’s emotional instability becomes crankiness.","categories":["linguistic.word_choice","character.voice_state","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_1","episode":7,"rows":{"JP":[428,428],"MG":[428,428],"UP":[428,428]},"japanese":"「……当主様は、今日は特にお心が不安定でいらっしゃいます。","japanesePC":"「......当主様は、今日は特にお心が不安定でいらっしゃいます。タイミングを見て、私が紹介しますので、なるべく慎んだ態度でお願いしますよ、ウィルさん。」","japanesePS3":"「……当主様は、今日は特にお心が不安定でいらっしゃいます。","WH":"\"......The Head seems to be particularly cranky today.  I'll introduce you to him when the chance presents itself, so I ask that you develop an appropriately discreet attitude, Will-san.\"","MG":"\"...The Head seems to be particularly cranky today.","UP":"\"......The head seems to be particularly upset today.","note":"Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_1-L0428","readerRefs":{"WH":["umi7_1-L0428"],"MG":["umi7_1-L0428"],"UP":["umi7_1-L0428"]}}],"sourceReading":"Lion says the Head’s heart or emotional state is especially unstable today and asks Will to be restrained when introduced.","alternative":"Cranky can fit Kinzo’s familiar irritability, but replaces emotional instability with bad temper. His current funeral grief and earlier sobbing give the broader instability a specific context.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH01-361-436-001","kind":"additional","description":"MG misspells occurrence as occurance.","categories":["linguistic.typography"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_1","episode":7,"rows":{"JP":[421,421],"MG":[421,421],"UP":[421,421]},"japanese":"普段から、金蔵の相手をすることが多かった。","japanesePC":"","japanesePS3":"普段から、金蔵の相手をすることが多かった。","WH":"","MG":"That made conversations with Kinzo an everyday occurance.","UP":"Kinzo frequently chose to speak with his successor.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_1-L0420","readerRefs":{"WH":[],"MG":["umi7_1-L0420"],"UP":["umi7_1-L0420"]}}],"sourceReading":"MG introduces the spelling occurance in its rewritten sentence; originalPC128163/128165 and UP lack this spelling error.","alternative":"Meaning is clear; occurrence is the standard spelling.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH01-001",
+      "kind": "WH",
+      "description": "Lion’s kanji explanation becomes unglossed characters.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.name_address",
+        "world.culture_history"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_1",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              80,
+              80
+            ],
+            "MG": [
+              80,
+              80
+            ],
+            "UP": [
+              80,
+              80
+            ]
+          },
+          "japanese": "「理科の“理”に、御するの“御”で、リオンと読みます。",
+          "japanesePC": "「理科の“理”に、御するの“御”で、リオンと読みます。......ちょっと日本人っぽくない名前ですよね。」",
+          "japanesePS3": "「理科の“理”に、御するの“御”で、リオンと読みます。",
+          "WH": "\"It's written as '理御', but pronounced 'Lee-on'.  ......Sounds a bit strange for a Japanese name, doesn't it?\"",
+          "MG": "\"It's written as \"理御\", but pronounced \"Lee-on\".",
+          "UP": "\"It's written as \"理御\", but pronounced \"Lee‐on\".",
+          "note": "Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_1-L0080",
+          "readerRefs": {
+            "WH": [
+              "umi7_1-L0080"
+            ],
+            "MG": [
+              "umi7_1-L0080"
+            ],
+            "UP": [
+              "umi7_1-L0080"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「理科の“理”に、御するの“御”で、リオンと読みます。……ちょっと日本人っぽくない名前ですよね」",
+              "translation": "\"It's written as \"理御\", but pronounced \"Lee-on\". ...I guess it is a bit strange for a Japanese name.\" "
+            },
+            "UP": {
+              "japanese": "「理科の“理”に、御するの“御”で、リオンと読みます。……ちょっと日本人っぽくない名前ですよね」",
+              "translation": "\"It's written as \"理御\", but pronounced \"Lee‐on\". ......Sounds a bit strange for a Japanese name, doesn't it?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_1-L0080"
+            ],
+            "MG": [
+              "umi7_1-L0080"
+            ],
+            "UP": [
+              "umi7_1-L0080"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion explains 理 as the character in science, 理科, and 御 as in governing or controlling, 御する, then gives the reading Rion.",
+      "alternative": "The English displays both correct characters and the reading Lee-on, but omits both lexical explanations. Showing kanji preserves spelling for those who can read it, not the explanation offered to the interlocutor.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH01-002",
+      "kind": "WH",
+      "description": "Enclosing a larger possibility box becomes Bern moving boxes.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_layer",
+        "mystery.puzzle_mechanism"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_1",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              152,
+              152
+            ],
+            "MG": [
+              152,
+              152
+            ],
+            "UP": [
+              152,
+              152
+            ]
+          },
+          "japanese": "……ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。",
+          "japanesePC": "「くすくす......。......ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。理御は、その中で生まれ得る可能性を持つ、一つの駒。」",
+          "japanesePS3": "……ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。",
+          "WH": "\"*giggle*......  ......I've just moved from Beato's cat box into a larger cat box.  Lion is one of the pieces who has a possibility of appearing inside it.\"",
+          "MG": "...I've just moved from Beato's cat box into a larger cat box.",
+          "UP": "......I've just enclosed Beato's cat box in a larger cat box.",
+          "note": "Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_1-L0151",
+          "readerRefs": {
+            "WH": [
+              "umi7_1-L0151"
+            ],
+            "MG": [
+              "umi7_1-L0151"
+            ],
+            "UP": [
+              "umi7_1-L0151"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「くすくす……。……ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。理御は、その中で生まれ得る可能性を持つ、一つの駒」",
+              "translation": "\"*giggle*... ...I've just moved from Beato's cat box into a larger cat box. Lion is one of the pieces who has a possibility of appearing inside it.\" "
+            },
+            "UP": {
+              "japanese": "「くすくす……。……ベアトの猫箱より、もっと大きな猫箱で閉ざしただけよ。理御は、その中で生まれ得る可能性を持つ、一つの駒」",
+              "translation": "\"*giggle*...... ......I've just enclosed Beato's cat box in a larger cat box. Lion is one of the pieces who has a possibility of appearing inside it.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_1-L0151"
+            ],
+            "MG": [
+              "umi7_1-L0151"
+            ],
+            "UP": [
+              "umi7_1-L0151"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Bern has merely enclosed matters in a cat box larger than Beato’s; Lion is a piece with the possibility of being born within it.",
+      "alternative": "Moved from Beato’s cat box into a larger one gives Bern a relocation action not stated in 閉ざした, enclosing or closing. Appearing also replaces 生まれ得る, being capable of being born, with generic character introduction. Although the broader scene explores a different game board, these are the source’s explicit explanations of its scope and Lion’s possibility.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH01-003",
+      "kind": "WH",
+      "description": "Minimum formal conditions become the general pattern of the place.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.argument_reconstruction",
+        "world.world_layer"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_1",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              266,
+              266
+            ],
+            "MG": [
+              266,
+              266
+            ],
+            "UP": [
+              266,
+              266
+            ]
+          },
+          "japanese": "……とりあえずの体裁が整っていることは確認できたらしい。",
+          "japanesePC": "ウィルの不満げな表情は相変わらずだが、......とりあえずの体裁が整っていることは確認できたらしい。",
+          "japanesePS3": "……とりあえずの体裁が整っていることは確認できたらしい。",
+          "WH": "There was no change to Will's unsatisfied expression, ......but he seemed to have understood the general pattern of this place.",
+          "MG": "...he seemed to have understood the general pattern of this place.",
+          "UP": "......but he seemed to have understood that everything was at least in order.",
+          "note": "Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_1-L0265",
+          "readerRefs": {
+            "WH": [
+              "umi7_1-L0265"
+            ],
+            "MG": [
+              "umi7_1-L0265"
+            ],
+            "UP": [
+              "umi7_1-L0265"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ウィルの不満げな表情は相変わらずだが、……とりあえずの体裁が整っていることは確認できたらしい。……奔放にて移り気で残忍な元老院の大魔女に呼びつけられたという時点で、異端審問官など、ただの下っ端役人扱いだ。元より、断りようなどなかった…。",
+              "translation": "Though there was no change to Will's unsatisfied expression, ...he seemed to have understood the general pattern of this place. ...The simple fact that a mere Inquisitor of Heresy had been summoned by an uninhibited, fickle, cruel great witch of the Senate... meant that he'd be treated as no more than a mere underling. All along, he had possessed no way to refuse her... "
+            },
+            "UP": {
+              "japanese": "ウィルの不満げな表情は相変わらずだが、……とりあえずの体裁が整っていることは確認できたらしい。……奔放にて移り気で残忍な元老院の大魔女に呼びつけられたという時点で、異端審問官など、ただの下っ端役人扱いだ。元より、断りようなどなかった…。",
+              "translation": "There was no change to Will's unsatisfied expression, ......but he seemed to have understood that everything was at least in order. ......From the moment he was summoned by an uninhibited, fickle, cruel Great Witch of the Senate, a mere Inquisitor like him was bound to be treated as no more than an underling. He had never possessed a way to refuse her..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_1-L0265"
+            ],
+            "MG": [
+              "umi7_1-L0265"
+            ],
+            "UP": [
+              "umi7_1-L0265"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After corpse and clue requirements, Will has apparently confirmed that the provisional formal requirements are met, despite remaining dissatisfied.",
+      "alternative": "Understood the general pattern of this place suggests learning how the setting works. とりあえずの体裁が整っている concerns whether sufficient preliminary form or conditions have been supplied to take the case.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH01-005",
+      "kind": "WH",
+      "description": "The concentrated time vortex becomes a time loop.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_layer",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_1",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              353,
+              353
+            ],
+            "MG": [
+              353,
+              353
+            ],
+            "UP": [
+              353,
+              353
+            ]
+          },
+          "japanese": "この礼拝堂は今、濃縮された時間の渦に閉じ込められている」",
+          "japanesePC": "「......この礼拝堂がカケラから切り離されたんだ。この礼拝堂は今、濃縮された時間の渦に閉じ込められている。」",
+          "japanesePS3": "この礼拝堂は今、濃縮された時間の渦に閉じ込められている」",
+          "WH": "\"......This chapel has been cut off from the Fragment.  We're currently locked in a concentrated loop of time.\"",
+          "MG": "We're currently locked in a concentrated loop of time.\"",
+          "UP": "We're currently locked within a maelstrom of compressed time.\"",
+          "note": "Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_1-L0352",
+          "readerRefs": {
+            "WH": [
+              "umi7_1-L0352"
+            ],
+            "MG": [
+              "umi7_1-L0352"
+            ],
+            "UP": [
+              "umi7_1-L0352"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……この礼拝堂がカケラから切り離されたんだ。この礼拝堂は今、濃縮された時間の渦に閉じ込められている」",
+              "translation": "\"...This chapel has been cut off from the Fragment. We're currently locked in a concentrated loop of time.\" "
+            },
+            "UP": {
+              "japanese": "「……この礼拝堂がカケラから切り離されたんだ。この礼拝堂は今、濃縮された時間の渦に閉じ込められている」",
+              "translation": "\"......This chapel has been cut off from the fragment. We're currently locked within a maelstrom of compressed time.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_1-L0352"
+            ],
+            "MG": [
+              "umi7_1-L0352"
+            ],
+            "UP": [
+              "umi7_1-L0352"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The chapel has been severed from the Fragment and trapped in a vortex of concentrated time.",
+      "alternative": "Loop can loosely describe a swirling shape, but a loop of time conventionally asserts cyclic or repeating time. 渦 describes a vortex, and the demonstrated outside effect is instantaneous withering and suspension, not a repeated sequence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH01-006",
+      "kind": "WH",
+      "description": "Lion’s deep sigh becomes a deep breath.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_1",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              403,
+              403
+            ],
+            "MG": [
+              403,
+              403
+            ],
+            "UP": [
+              403,
+              403
+            ]
+          },
+          "japanese": "……しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。",
+          "japanesePC": "......しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。",
+          "japanesePS3": "……しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。",
+          "WH": "......However, Lion took a deep breath, and looked up at the sky, wearing a vague smile.",
+          "MG": "...However, Lion took a deep breath and looked up at the sky, wearing a vague smile.",
+          "UP": "......However, Lion took a deep breath, and looked up at the sky, wearing a vague smile.",
+          "note": "Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_1-L0401",
+          "readerRefs": {
+            "WH": [
+              "umi7_1-L0401"
+            ],
+            "MG": [
+              "umi7_1-L0401"
+            ],
+            "UP": [
+              "umi7_1-L0401"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "初めて、ウィルは理御に名乗る。互いの自己紹介をようやく終え、理御にとっての、対等な対話のための禊ぎは済まされる。……しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。",
+              "translation": "For the first time, Will introduced himself. Their mutual introduction was finally complete, and Lion was finally able to talk with him on an even footing. ...However, Lion took a deep breath and looked up at the sky, wearing a vague smile. "
+            },
+            "UP": {
+              "japanese": "初めて、ウィルは理御に名乗る。互いの自己紹介をようやく終え、理御にとっての、対等な対話のための禊ぎは済まされる。……しかしながら、理御は深く溜息を漏らし、曖昧な笑みを浮かべながら、風雨の空を見上げた。",
+              "translation": "For the first time, Will introduced himself. The mutual introduction was finally completed, and Lion was finally able to talk with him on an even footing. ......However, Lion took a deep breath, and looked up at the sky, wearing a vague smile."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_1-L0401"
+            ],
+            "MG": [
+              "umi7_1-L0401"
+            ],
+            "UP": [
+              "umi7_1-L0401"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After their introductions, Lion lets out a deep sigh and looks up with an ambiguous smile.",
+      "alternative": "A deep breath might involve exhaling, but removes 溜息’s explicit sigh of dissatisfaction or resignation at the coming admission of limited knowledge.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH01-007",
+      "kind": "WH",
+      "description": "Kinzo’s emotional instability becomes crankiness.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_1",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              428,
+              428
+            ],
+            "MG": [
+              428,
+              428
+            ],
+            "UP": [
+              428,
+              428
+            ]
+          },
+          "japanese": "「……当主様は、今日は特にお心が不安定でいらっしゃいます。",
+          "japanesePC": "「......当主様は、今日は特にお心が不安定でいらっしゃいます。タイミングを見て、私が紹介しますので、なるべく慎んだ態度でお願いしますよ、ウィルさん。」",
+          "japanesePS3": "「……当主様は、今日は特にお心が不安定でいらっしゃいます。",
+          "WH": "\"......The Head seems to be particularly cranky today.  I'll introduce you to him when the chance presents itself, so I ask that you develop an appropriately discreet attitude, Will-san.\"",
+          "MG": "\"...The Head seems to be particularly cranky today.",
+          "UP": "\"......The head seems to be particularly upset today.",
+          "note": "Complete continuous three-witness review with context in durable reports. MG118–121 greeting clauses collectively aligned, no omission. Canonical004 timing/control pause is excluded by user prose-only scope; no comparator verdict. UP428 repairs canonical crankiness, residual upset generalization held. MG235 observer number recovered246; both319 alternative servants and331 party-prop wording remain conservative inherited candidates. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_1-L0428",
+          "readerRefs": {
+            "WH": [
+              "umi7_1-L0428"
+            ],
+            "MG": [
+              "umi7_1-L0428"
+            ],
+            "UP": [
+              "umi7_1-L0428"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……当主様は、今日は特にお心が不安定でいらっしゃいます。タイミングを見て、私が紹介しますので、なるべく慎んだ態度でお願いしますよ、ウィルさん」",
+              "translation": "\"...The Head seems to be particularly cranky today. I'll introduce you to him when the chance presents itself, so I ask that you develop an appropriately discreet attitude, Will-san.\" "
+            },
+            "UP": {
+              "japanese": "「……当主様は、今日は特にお心が不安定でいらっしゃいます。タイミングを見て、私が紹介しますので、なるべく慎んだ態度でお願いしますよ、ウィルさん」",
+              "translation": "\"......The head seems to be particularly upset today. I'll find a good time to introduce you to him, so I ask that you adopt an appropriately reserved and polite attitude, Will‐san.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_1-L0428"
+            ],
+            "MG": [
+              "umi7_1-L0428"
+            ],
+            "UP": [
+              "umi7_1-L0428"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion says the Head’s heart or emotional state is especially unstable today and asks Will to be restrained when introduced.",
+      "alternative": "Cranky can fit Kinzo’s familiar irritability, but replaces emotional instability with bad temper. His current funeral grief and earlier sobbing give the broader instability a specific context.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH01-361-436-001",
+      "kind": "additional",
+      "description": "MG misspells occurrence as occurance.",
+      "categories": [
+        "linguistic.typography"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_1",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              421,
+              421
+            ],
+            "MG": [
+              421,
+              421
+            ],
+            "UP": [
+              421,
+              421
+            ]
+          },
+          "japanese": "普段から、金蔵の相手をすることが多かった。",
+          "japanesePC": "",
+          "japanesePS3": "普段から、金蔵の相手をすることが多かった。",
+          "WH": "",
+          "MG": "That made conversations with Kinzo an everyday occurance.",
+          "UP": "Kinzo frequently chose to speak with his successor.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_1-L0420",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_1-L0420"
+            ],
+            "UP": [
+              "umi7_1-L0420"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "理御は本家に住む、次期当主。\n普段から、金蔵の相手をすることが多かった。なので、気難しい相手や、会話が噛み合わない相手とのやり取りには慣れがあったに違いない。瑣末なことは気にするだけ無駄だと割り切り、正体不明の男、ウィルと、まるでずっと前からの友人であるかのように、自然と振舞えてしまうのだった……。",
+              "translation": "Lion was the Successor and lived in the Head Household. That made conversations with Kinzo an everyday occurance. Because of this, Lion must have been used to chatting with people who were moody or hard to follow. With the understanding that getting stuck on the details would be nothing but a waste of time, the conversation naturally fell into a pattern as though Lion and this unknown man Will were long-time friends... "
+            },
+            "UP": {
+              "japanese": "理御は本家に住む、次期当主。\n普段から、金蔵の相手をすることが多かった。なので、気難しい相手や、会話が噛み合わない相手とのやり取りには慣れがあったに違いない。瑣末なことは気にするだけ無駄だと割り切り、正体不明の男、ウィルと、まるでずっと前からの友人であるかのように、自然と振舞えてしまうのだった……。",
+              "translation": "Lion was the successor to the head and lived with the main family.\nKinzo frequently chose to speak with his successor. Because of this, Lion must have been used to chatting with people who were moody or hard to follow. Deciding once and for all that getting hung up on trivialities would be nothing but a waste of time, Lion was able to converse naturally with this unknown man called Will, as though the two of them had been friends for a long time......"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_1-L0420"
+            ],
+            "UP": [
+              "umi7_1-L0420"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG introduces the spelling occurance in its rewritten sentence; originalPC128163/128165 and UP lack this spelling error.",
+      "alternative": "Meaning is clear; occurrence is the standard spelling.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH01-001": {
+      "umi7_1-L0080": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The explanations of the name's characters as science and governing are absent; only the unglossed characters remain."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "The explanations of the name's characters as science and governing are absent; only the unglossed characters remain."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "The explanations of the name's characters as science and governing are absent; only the unglossed characters remain."
+        }
+      }
+    },
+    "WH-EP07-CH01-002": {
+      "umi7_1-L0151": {
+        "WH": [
+          "I've just moved from Beato's cat box into a larger cat box"
+        ],
+        "MG": [
+          "I've just moved from Beato's cat box into a larger cat box"
+        ]
+      }
+    },
+    "WH-EP07-CH01-003": {
+      "umi7_1-L0265": {
+        "WH": [
+          "understood the general pattern of this place"
+        ],
+        "MG": [
+          "understood the general pattern of this place"
+        ]
+      }
+    },
+    "WH-EP07-CH01-005": {
+      "umi7_1-L0352": {
+        "WH": [
+          "a concentrated loop of time"
+        ],
+        "MG": [
+          "a concentrated loop of time"
+        ]
+      }
+    },
+    "WH-EP07-CH01-006": {
+      "umi7_1-L0401": {
+        "WH": [
+          "Lion took a deep breath"
+        ],
+        "UP": [
+          "Lion took a deep breath"
+        ],
+        "MG": [
+          "Lion took a deep breath"
+        ]
+      }
+    },
+    "WH-EP07-CH01-007": {
+      "umi7_1-L0428": {
+        "WH": [
+          "particularly cranky today"
+        ],
+        "MG": [
+          "particularly cranky today"
+        ]
+      }
+    },
+    "PAIR-EP07-CH01-361-436-001": {
+      "umi7_1-L0420": {
+        "MG": [
+          "occurance"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

@@ -1,4 +1,24 @@
 /* Audit-only additions; the existing canonical shell and gold theme are unchanged. */
+.audit-all-findings{margin-top:24px;border-top:1px solid var(--line);padding-top:18px}
+.audit-all-findings>summary{cursor:pointer;font:700 13px/1.6 var(--sans);color:var(--ice-ink)}
+.audit-all-findings>.audit-example-list{display:block}
+.audit-all-findings .audit-record+.audit-record{margin-top:18px}
+.audit-dossier-body>h4{margin:28px 0 12px;font:700 14px/1.5 var(--sans)}
+.audit-dossier-body .audit-example h5{margin:0 0 14px;color:var(--ice-ink);font:700 11px/1.6 var(--mono);overflow-wrap:anywhere}
+.audit-dossier-body .audit-example-limit{color:var(--ink-soft)}
+.audit-dossier-body .audit-example-visible-evidence p{white-space:pre-wrap}
+.audit-diagnostic-tags{font-size:11px;color:var(--ink-soft)}
+.audit-dossier:target{outline:2px solid var(--ice-ink);outline-offset:-2px}
+.audit-record{scroll-margin-top:24px}
+.audit-record:target{outline:2px solid var(--ice-ink);outline-offset:-2px}
+.audit-record h4{margin:10px 0 18px;font:600 13px/1.6 var(--sans)}
+.audit-record .audit-example-list{display:block}
+.audit-record .audit-example-visible-evidence p{white-space:pre-wrap}
+.audit-record .audit-example-visible-evidence small{display:block;white-space:pre-wrap;margin-top:10px}
+.audit-record .audit-example-heading{flex-wrap:wrap}
+.audit-record .audit-example-heading code{overflow-wrap:anywhere}
+.audit-record.is-pc{border-left-color:#b28b2a;background:#fff9e4}
+.audit-category-body>.audit-example-list{margin:20px}
 .audit-translation-control{display:flex;align-items:center;flex-wrap:wrap;gap:16px;margin-bottom:24px}
 #translation-label{font:700 12px var(--sans);letter-spacing:.08em;text-transform:uppercase}
 .audit-translation-switch{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));max-width:100%;border:1px solid var(--line);background:var(--paper)}

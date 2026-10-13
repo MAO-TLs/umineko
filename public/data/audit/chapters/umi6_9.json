@@ -1,1 +1,2894 @@
-{"findings":[{"id":"WH-EP06-CH09-001","kind":"WH","description":"Aroma oil becomes cologne.","categories":["linguistic.word_choice","world.world_fact","mystery.clue_invention"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[127,127],"MG":[127,127],"UP":[127,127]},"japanese":"趣味の合わないアロマオイル。","japanesePC":"「変な猫のキーホルダー。趣味の合わないアロマオイル。演劇の先輩に借りたという、趣味違いの音楽テープ。.........先輩の付き合いで断れなくて。急にバイトが入っちゃって。ダチの電話が長くてなかなか切れなくって。」","japanesePS3":"趣味の合わないアロマオイル。","WH":"\"A strange cat keychain.  A different style of cologne.  A music tape that's not his style...which he said he borrowed from a senior at theater.  ......His senior was going so he couldn't refuse.  He suddenly had this part-time job to go to.  Talked with a friend on the phone for a really long time.\"","MG":"A type of cologne that didn't suit him.","UP":"A different style of cologne.","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0126","readerRefs":{"WH":["umi6_9-L0126","umi6_9-L0129"],"MG":["umi6_9-L0126"],"UP":["umi6_9-L0126"]}}],"sourceReading":"趣味の合わないアロマオイル is aroma oil inconsistent with taste.","alternative":"Cologne is scented too, but specifies personal fragrance instead of the oil actually listed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-002","kind":"WH","description":"Toilet lid becomes toilet seat.","categories":["linguistic.word_choice","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[138,138],"MG":[138,138],"UP":[138,138]},"japanese":"便座の蓋が閉じていた。","japanesePC":"便座の蓋が閉じていた。","japanesePS3":"便座の蓋が閉じていた。","WH":"The toilet seat was left down.","MG":"The toilet seat was left down.","UP":"The toilet seat was left down.","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0136","readerRefs":{"WH":["umi6_9-L0132","umi6_9-L0136","umi6_9-L0140"],"MG":["umi6_9-L0136"],"UP":["umi6_9-L0136"]}}],"sourceReading":"便座の蓋 is the lid, which was closed.","alternative":"Both involve the toilet, but lowering the seat and closing its lid are physically distinct observations.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-003","kind":"WH","description":"Kitchen waste basket becomes sink.","categories":["linguistic.undertranslation","world.culture_history","mystery.clue_erasure"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[142,142],"MG":[142,142],"UP":[142,142]},"japanese":"綺麗になった排水溝と三角コーナー。","japanesePC":"綺麗になった排水溝と三角コーナー。","japanesePS3":"綺麗になった排水溝と三角コーナー。","WH":"The drain and sink were cleaned out.","MG":"The drain and sink were cleaned out.","UP":"The drain and sink were cleaned out.","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0140","readerRefs":{"WH":["umi6_9-L0132","umi6_9-L0136","umi6_9-L0140"],"MG":["umi6_9-L0140"],"UP":["umi6_9-L0140"]}}],"sourceReading":"The drain and 三角コーナー, the kitchen corner waste basket, had become clean.","alternative":"A basket can be in the sink, but sink removes the separate food-waste receptacle explicitly mentioned.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-004","kind":"WH","description":"Rainy Sunday becomes rainy Monday.","categories":["linguistic.mistranslation","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[144,144],"MG":[144,144],"UP":[144,144]},"japanese":"靴底の泥は雨天の日曜日に外出した証拠。","japanesePC":"靴底の泥は雨天の日曜日に外出した証拠。カレンダーの謎の記号との合致。あなたの演劇仲間にこの長さの髪の毛の人間は存在しません。誘導尋問。どうしてまだ見てない映画の筋書きを？","japanesePS3":"靴底の泥は雨天の日曜日に外出した証拠。","WH":"The muddy soles are evidence that you went out on Monday when it was raining.  That matches the strange symbol on the calender.  None of your theater friends have hair this long.  That's a leading question.  How do you know the plot of a movie you haven't seen yet?","MG":"The muddy soles are evidence that you went out on Sunday when it was raining.","UP":"The muddy soles are evidence that you went out on Monday when it was raining.","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi6_9-L0144","readerRefs":{"WH":["umi6_9-L0144"],"MG":["umi6_9-L0144"],"UP":["umi6_9-L0144"]}}],"sourceReading":"日曜日 specifies Sunday; the muddy soles correspond to that rainy day and a calendar symbol.","alternative":"No contextual license supports changing the day.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-005","kind":"WH","description":"Boyfriend attributes exhaustion to himself instead of Erika.","categories":["linguistic.wrong_subject","character.relationship_power","character.voice_state"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[169,169],"MG":[169,169],"UP":[169,169]},"japanese":"お前、変だよ、疲れてんだろマジで。","japanesePC":"お前、変だよ、疲れてんだろマジで。","japanesePS3":"お前、変だよ、疲れてんだろマジで。","WH":"What's wrong with you?  I'm seriously worn out, alright?","MG":"What's wrong with you? I'm seriously worn out, okay?","UP":"What's wrong with you? I'm seriously tired of this, alright?","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0169","readerRefs":{"WH":["umi6_9-L0161","umi6_9-L0165","umi6_9-L0169","umi6_9-L0172"],"MG":["umi6_9-L0169"],"UP":["umi6_9-L0169"]}}],"sourceReading":"お前、変だよ、疲れてんだろマジで calls her strange and says she must be seriously tired.","alternative":"His own irritation is clear, but the continuing お前 address and だろ concern her state, not an assertion that he is worn out.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-006","kind":"WH","description":"Girl at senior's group becomes a senior girl.","categories":["linguistic.mistranslation","world.world_fact","mystery.clue_invention"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[172,172],"MG":[172,172],"UP":[172,172]},"japanese":"先輩のとこの女の子、","japanesePC":"先輩のとこの女の子、","japanesePS3":"先輩のとこの女の子、","WH":"There's this senior girl","MG":"This girl working with Senpai","UP":"One of my colleagues,","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"corrected","UP":"partially_corrected"},"readerRef":"umi6_9-L0172","readerRefs":{"WH":["umi6_9-L0161","umi6_9-L0165","umi6_9-L0169","umi6_9-L0172"],"MG":["umi6_9-L0172"],"UP":["umi6_9-L0172"]}}],"sourceReading":"先輩のとこの女の子 is a girl at the senior's place or group.","alternative":"She could also be senior, but that is not specified; the source gives her association with the senior.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-007","kind":"WH","description":"Appearance and animal insults are softened away.","categories":["linguistic.word_choice","linguistic.omission","character.relationship_power"],"severity":"minor","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[178,182],"MG":[178,182],"UP":[178,182]},"japanese":"帰れよ、\nお前なんかもう愛してねぇよ。\n泣くなよウゼェな、\nキメェんだよ死ねよ。\n近所迷惑だろ喚くんじゃねぇよ。","japanesePC":"帰れよブス、","japanesePS3":"帰れよ、\nお前なんかもう愛してねぇよ。\n泣くなよウゼェな、\nキメェんだよ死ねよ。\n近所迷惑だろ喚くんじゃねぇよ。","WH":"just go home, bitch,","MG":"just go home, bitch,\nI don't love you anymore.\nDon't cry dammit,\nit's disgusting. Just die.\nStop shouting, dammit, you're annoying the neighborhood.","UP":"just go home,\nI don't love you anymore.\nStop crying, God you're obnoxious,\ngo kill yourself, you creep.\nStop shouting, dammit, I've got neighbors.","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"corrected_against_PS3_source_by_edition_change","UP":"corrected_against_PS3_source_by_edition_change"},"readerRef":"umi6_9-L0176","readerRefs":{"WH":["PC-CANDIDATE-EP06-09-V002","PC-CANDIDATE-EP06-09-V003"],"MG":["umi6_9-L0176","umi6_9-L0180"],"UP":["umi6_9-L0176","umi6_9-L0180"]}}],"sourceReading":"ブス insults her appearance; later クソブタ calls her a filthy pig.","alternative":"Bitch retains abuse, and the remaining passage is harsh, but neither the appearance-specific attack nor the pig insult survives.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-008","kind":"WH","description":"Evidence-type distinction becomes disregard for circumstances.","categories":["linguistic.mistranslation","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[224,224],"MG":[224,224],"UP":[224,224]},"japanese":"状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。","japanesePC":"双方、青き真実で相殺された場合、状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。......ニンゲンの世界の場合は特に。","japanesePS3":"状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。","WH":"When both opponents meet with the blue truth, the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.  ......This is especially true in the human world.","MG":"the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.","UP":"the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0223","readerRefs":{"WH":["umi6_9-L0223"],"MG":["umi6_9-L0223"],"UP":["umi6_9-L0223"]}}],"sourceReading":"状況、物的を問わず refers back to circumstantial and physical evidence: pieces are counted regardless of which of those types they are.","alternative":"The result still depends on quantity, but regardless of the actual circumstances broadens the disregard from evidence type to the facts of the situation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-009","kind":"WH","description":"Present dead end becomes checkmate from the beginning.","categories":["linguistic.tense_aspect","linguistic.overinterpretation","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[248,248],"MG":[248,248],"UP":[248,248]},"japanese":"ゆえにもはや、チェックメイトも同然。","japanesePC":"ゆえにもはや、チェックメイトも同然。","japanesePS3":"ゆえにもはや、チェックメイトも同然。","WH":"So, it was already checkmate from the very beginning.","MG":"So, it was already checkmate from the very beginning.","UP":"So, it was already checkmate from the very beginning.","note":"Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0244","readerRefs":{"WH":["umi6_9-L0244"],"MG":["umi6_9-L0244"],"UP":["umi6_9-L0244"]}}],"sourceReading":"ゆえにもはや、チェックメイトも同然 says therefore it is now as good as checkmate, after the forbidden stalemate explanation.","alternative":"The rules make the position hopeless, but the source does not say from the very beginning and retains as-good-as qualification.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-010","kind":"WH","description":"Eva instructing Ayumi becomes George telling Ayumi.","categories":["linguistic.wrong_subject","character.agency_responsibility","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[365,365],"MG":[365,365],"UP":[365,365]},"japanese":"あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。","japanesePC":"あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。きっとこれからはあなたの目を見て話してくれるはずよ...！！」","japanesePS3":"あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。","WH":"If you can't feel anything from her unless she looks at your eyes, then just tell her that.  I'm sure she'll look at you in the future...!!\"","MG":"If you can't feel anything from her unless she looks at your eyes, then just tell her that.","UP":"If you can't feel anything from her unless she looks at you when she talks, I'll advise her of that.","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_9-L0363","readerRefs":{"WH":["umi6_9-L0363"],"MG":["umi6_9-L0363"],"UP":["umi6_9-L0363"]}}],"sourceReading":"Eva says she will caution Ayumi to make eye contact if George requires it.","alternative":"English offers the same practical remedy, but transfers the intervention from Eva to George.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-011","kind":"WH","description":"George's disregarded feelings become everyone else disregarded.","categories":["linguistic.overinterpretation","character.relationship_power","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[368,368],"MG":[368,368],"UP":[368,368]},"japanese":"……母さんの縁談には、僕の気持ちがわずかほども含まれていないっ」","japanesePC":"「亜由美さんと結婚させたいのは、それが母さんにとって利するからさ。......母さんの縁談には、僕の気持ちがわずかほども含まれていないっ。」","japanesePS3":"……母さんの縁談には、僕の気持ちがわずかほども含まれていないっ」","WH":"\"You want me to marry Ayumi-san because it will benefit you.  ......You aren't pushing that engagement for the sake of anyone but yourself.\"","MG":"...You aren't pushing that engagement for the sake of anyone but yourself.\"","UP":"......You aren't pushing that engagement for the sake of anyone but yourself...!\"","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0367","readerRefs":{"WH":["umi6_9-L0367"],"MG":["umi6_9-L0367"],"UP":["umi6_9-L0367"]}}],"sourceReading":"George says his own feelings are not included even slightly in his mother's marriage arrangement.","alternative":"He does accuse her of self-benefit, and later lists her motives, but this sentence specifies exclusion of his feelings rather than excluding all other beneficiaries.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-012","kind":"WH","description":"Parent kanji argument is replaced with parental duty.","categories":["linguistic.omission","linguistic.wordplay","world.culture_history","character.voice_state"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[373,374],"MG":[373,374],"UP":[373,374]},"japanese":"親という漢字はどういう字？！\n“木”の上に“立”って“見”ると書いて“親”なのよ？！」","japanesePC":"ないでしょう？！　親という漢字はどういう字？！　“木”の上に“立”って“見”ると書いて“親”なのよ？！　母さんたちはね、あなたよりはるかに高みから、人生の遠くまでを展望してるの！！","japanesePS3":"親という漢字はどういう字？！\n“木”の上に“立”って“見”ると書いて“親”なのよ？！」","WH":"I haven't, have I?!  What's a parent's job?!  It's to look after the long-term welfare of their children, right?!  We've been looking down upon your entire future from a great height!!","MG":"What is a parent's job?!\nIt's to look after the long-term welfare of their children, right?!","UP":"How is the ‘parent’ (親) kanji written?!\nIt's {nobr:‘stand’ (立) on top of a {nobr:‘tree’ (木) and {nobr:‘look’ (見)!\"","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_9-L0372","readerRefs":{"WH":["umi6_9-L0372","umi6_9-L0375"],"MG":["umi6_9-L0372"],"UP":["umi6_9-L0372"]}}],"sourceReading":"Eva decomposes 親 into standing 立 above a tree 木 and seeing 見, then claims parents can survey life from higher up.","alternative":"English retains the high vantage and concern for children, but replaces her character-based rhetorical demonstration with a generic assertion of parental duty.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-013","kind":"WH","description":"Future acquisition becomes completed acquisition.","categories":["linguistic.tense_aspect","world.space_time_continuity","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[464,464],"MG":[464,464],"UP":[464,464]},"japanese":"……やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。","japanesePC":"この降り注ぐ雨の中空に、浮かぶはずのない月を背負って、......やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。","japanesePS3":"……やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。","WH":"In the rain-filled sky, with the moon that shouldn't have been visible behind her, ......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.","MG":"...was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.","UP":"......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0463","readerRefs":{"WH":["umi6_9-L0463"],"MG":["umi6_9-L0463"],"UP":["umi6_9-L0463"]}}],"sourceReading":"やがて ... 手に入れる identifies the future Golden Witch who will eventually acquire everything of the family.","alternative":"Golden Witch of the future remains, but had finally obtained makes the acquisition completed rather than eventual.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-014","kind":"WH","description":"Lifelong binding and sole purpose are omitted.","categories":["linguistic.omission","character.relationship_power","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[501,502],"MG":[501,502],"UP":[501,502]},"japanese":"生まれた時から数々の習い事で縛り付けられ、\n……あんたの野望のためだけに育てられてきた僕の姿さ」","japanesePC":"「............そうさ。これが僕さ。生まれた時から数々の習い事で縛り付けられ、......あんたの野望のためだけに育てられてきた僕の姿さ。」","japanesePS3":"生まれた時から数々の習い事で縛り付けられ、\n……あんたの野望のためだけに育てられてきた僕の姿さ」","WH":"\".........That's right.  This is me.  This is me, being tied down by countless studies...and raised for the sake of your ambitions.\"","MG":"This is me, being tied down by countless studies...\nand raised for the sake of your ambitions.\"","UP":"This is me, tied down by a life of constant instruction...\n...and raised solely for the sake of your ambitions.\"","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi6_9-L0499","readerRefs":{"WH":["umi6_9-L0499"],"MG":["umi6_9-L0499"],"UP":["umi6_9-L0499"]}}],"sourceReading":"George says he has been bound by lessons since birth and raised solely for her ambitions.","alternative":"English retains studies and ambitions, but drops both the lifelong temporal anchor and the exclusive だけ.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-015","kind":"WH","description":"Swinging cruelty is attributed to the laugh.","categories":["linguistic.wrong_subject","linguistic.imagery_rhythm_recurrence","character.agency_responsibility"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[510,511],"MG":[510,511],"UP":[510,511]},"japanese":"エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、\n……そして残酷だ。","japanesePC":"エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、......そして残酷だ。","japanesePS3":"エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、\n……そして残酷だ。","WH":"EVA's insane laugh was as innocent...and as cruel...as a grade schooler happily swinging about a bag filled with her gym clothes.","MG":"Laughing insanely, Eva was as innocent and cruel...\nas a grade schooler happily swinging about a bag filled with her gym clothes.","UP":"Eva's insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...\n...and cruel in equal measure.","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi6_9-L0510","readerRefs":{"WH":["umi6_9-L0510"],"MG":["umi6_9-L0510"],"UP":["umi6_9-L0510"]}}],"sourceReading":"それ refers to the preceding swinging of George, accompanied by Eva's mad laughter; the act is compared to a schoolchild swinging a gym-clothes bag.","alternative":"The laugh can convey innocence and cruelty too, and the surrounding action survives, but English makes the laugh itself the subject of a comparison about physical swinging.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-016","kind":"WH","description":"Reformation becomes demonstrated willingness to reform.","categories":["linguistic.logical_relation","character.relationship_power","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[582,582],"MG":[582,582],"UP":[582,582]},"japanese":"あなたが改心したら、私が解放してあげる」","japanesePC":"「思い上がったあなたは、孫悟空と同じに、少し反省とお仕置きが必要だわァ。あなたが改心したら、私が解放してあげる。」","japanesePS3":"あなたが改心したら、私が解放してあげる」","WH":"\"Just like Sun Wukong, you need some reflection and punishment for your arrogance.  If you show that you're willing to reform yourself, I'll release you.\"","MG":"If you can show that you're willing to reform yourself, I'll release you.\"","UP":"If you show that you're willing to reform yourself, I'll release you.\"","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0581","readerRefs":{"WH":["umi6_9-L0581"],"MG":["umi6_9-L0581"],"UP":["umi6_9-L0581"]}}],"sourceReading":"Eva promises release if he reforms or changes his heart: 改心したら.","alternative":"Showing willingness may be one step toward reform, but it is a weaker condition than the actual change demanded in Japanese.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-017","kind":"WH","description":"Eva future provision becomes completed preparation.","categories":["linguistic.tense_aspect","character.relationship_power","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[589,590],"MG":[589,590],"UP":[589,590]},"japanese":"「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！\n全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！","japanesePC":"「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！　全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！","japanesePS3":"「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！\n全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！","WH":"\"I've found the most intellectual woman in the world ready to sacrifice everything for you!!  I've paved the way towards success in everything!!","MG":"\"I've found the most intellectual woman in the world, willing to devote herself to you entirely!!\nI'll arrange for all of your successes, and even prepare the roads leading to them!!","UP":"\"I'll arrange the most intellectual and selfless woman in the world for you!!\nI'll prepare your every success and even pave the way there!!","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"partially_corrected","UP":"corrected"},"readerRef":"umi6_9-L0589","readerRefs":{"WH":["umi6_9-L0589"],"MG":["umi6_9-L0589"],"UP":["umi6_9-L0589"]}}],"sourceReading":"Eva promises she will provide the woman, every success and the paths to it.","alternative":"An arranged candidate already exists, but these utterances use 用意してあげる as promises; English converts both into accomplished preparations and compresses successes into their path.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-018","kind":"WH","description":"Spread-eagled suspension is omitted.","categories":["linguistic.omission","linguistic.imagery_rhythm_recurrence","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[601,603],"MG":[601,603],"UP":[601,603]},"japanese":"赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、\n……全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。\n磔の譲治は、ぴくりとも動かない…。","japanesePC":"赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、......全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。","japanesePS3":"赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、\n……全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。\n磔の譲治は、ぴくりとも動かない…。","WH":"The human-shaped lump of flesh wrapped in the red bag was slammed over and over, then thrown high into the air......where it was caught in a massive spiderweb in the sky, still covered with fresh blood.","MG":"The human-shaped lump of flesh wrapped in the red bag was slammed over and over, then thrown high into the air,\n...where it was caught in a massive spiderweb in the sky, still covered with fresh blood.\nWhile he hung there as though crucified, George didn't even twitch...","UP":"The human‐shaped lump of flesh ensnared in the red net was slammed over and over, then thrown high into the air,\n......where it was caught by a massive spiderweb suspended in the sky.\nGeorge hung there pitifully as though crucified, still covered in fresh blood and not even twitching...","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0601","readerRefs":{"WH":["umi6_9-L0601"],"MG":["umi6_9-L0601","umi6_9-L0603"],"UP":["umi6_9-L0601","umi6_9-L0603"]}}],"sourceReading":"His bloodied body is spread in a 大 shape and pinned to the enormous web.","alternative":"The next sentence retains crucifixion imagery, but the explicit spread limbs and pinning are replaced here by merely being caught.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-019","kind":"WH","description":"Clawing the mud becomes wiping mud away.","categories":["linguistic.word_choice","character.voice_state","world.space_time_continuity"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[627,627],"MG":[627,627],"UP":[627,627]},"japanese":"……泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない…。","japanesePC":"......泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない...。","japanesePS3":"……泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない…。","WH":"......Though he wiped the mud away and stood his ground, he still couldn't raise his head...","MG":"...Though he wiped the mud away and stood his ground, he still couldn't raise his head...","UP":"......Though he wiped the mud away and stood his ground, he still couldn't raise his head...","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0626","readerRefs":{"WH":["umi6_9-L0626"],"MG":["umi6_9-L0626"],"UP":["umi6_9-L0626"]}}],"sourceReading":"Still on all fours, he scrapes or claws at the mud to hold his position and cannot raise his face.","alternative":"Wiping could involve a hand motion, but it suggests cleaning away mud rather than scrabbling against it for purchase.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-020","kind":"WH","description":"First learning before Sayo becomes direct instruction by Sayo.","categories":["linguistic.omission","linguistic.overinterpretation","character.motivation_emotion","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[656,658],"MG":[656,658],"UP":[656,658]},"japanese":"「僕が紗代から学んだことは数え切れない。\n……僕は彼女の前で初めて。\n……勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。","japanesePC":"「僕が紗代から学んだことは数え切れない。......僕は彼女の前で初めて。......勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。","japanesePS3":"「僕が紗代から学んだことは数え切れない。\n……僕は彼女の前で初めて。\n……勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。","WH":"\"I cannot count the number of things I've learned from Sayo.  ......She taught me courage and chivalry, how to be ambitious and witty and humorous, and just a little stylish.","MG":"\"I cannot count the number of things I've learned from Sayo.\n...She taught me courage and chivalry,\nhow to be ambitious and witty and humorous, and just a little stylish.","UP":"\"I cannot count the number of things I've learned from Sayo.\n......She taught me...\ncourage and chivalry, how to be ambitious and witty and humorous, and just a little stylish.","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0656","readerRefs":{"WH":["umi6_9-L0656"],"MG":["umi6_9-L0656"],"UP":["umi6_9-L0656"]}}],"sourceReading":"After crediting what he learned from Sayo, George says it was before her that he first learned these qualities.","alternative":"She taught me is compatible with the preceding general credit, but omits the explicit first-time and in-her-presence framing and specifies teaching instead.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-021","kind":"WH","description":"Cooling overheated time becomes freezing time.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence","world.world_layer"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[732,733],"MG":[732,733],"UP":[732,733]},"japanese":"激しい落雷と雨が、\n……過熱した時間を、冷却する。","japanesePC":"激しい落雷と雨が、\n......過熱した時間を、冷却する。","japanesePS3":"激しい落雷と雨が、\n……過熱した時間を、冷却する。","WH":"The violent lightning and rain...\n...made time freeze.","MG":"The fierce lightning and rain...\n...made time freeze.","UP":"The violent lightning and rain...\n...made time freeze.","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0732","readerRefs":{"WH":["umi6_9-L0732"],"MG":["umi6_9-L0732"],"UP":["umi6_9-L0732"]}}],"sourceReading":"Lightning and rain cool the overheated time, ending the fever of the confrontation.","alternative":"Time freezing can also be metaphorical; nevertheless it substitutes arrest of time for the explicit heat-and-cooling pair.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-022","kind":"WH","description":"George's question about Gaap becomes certain knowledge.","categories":["linguistic.overinterpretation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[746,747],"MG":[746,747],"UP":[746,747]},"japanese":"「……その辺にいるんじゃないかい。\nガァプ」","japanesePC":"「......その辺にいるんじゃないかい。ガァプ。」","japanesePS3":"「……その辺にいるんじゃないかい。\nガァプ」","WH":"\"......I know you're somewhere over there.  Gaap.\"","MG":"\"...I know you're somewhere over there,\nGaap.\"","UP":"\"......I know you're somewhere over there.\nGaap.\"","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0746","readerRefs":{"WH":["umi6_9-L0746"],"MG":["umi6_9-L0746"],"UP":["umi6_9-L0746"]}}],"sourceReading":"その辺にいるんじゃないかい asks or supposes that Gaap is somewhere nearby.","alternative":"His next remark says thought you were there, while Gaap denies prior presence and says she was summoned; I know raises the certainty above the Japanese opening.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-023","kind":"WH","description":"Jessica says attacked instead of killed.","categories":["linguistic.undertranslation","character.voice_state","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[793,795],"MG":[793,795],"UP":[793,795]},"japanese":"「……じ、\n…自分の母さんを、\n……手に掛けるなんて……」","japanesePC":"「......じ、\n...自分の母さんを、\n......手に掛けるなんて......。」","japanesePS3":"「……じ、\n…自分の母さんを、\n……手に掛けるなんて……」","WH":"\"......I,\n...I can't believe,\n......you attacked your own mother......\"","MG":"\"...I-\nI can't believe...\nyou attacked your own mother...\"","UP":"\"......I...\n...I can't believe...\n...you killed your own mother......\"","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_9-L0793","readerRefs":{"WH":["umi6_9-L0793"],"MG":["umi6_9-L0793"],"UP":["umi6_9-L0793"]}}],"sourceReading":"自分の母さんを手に掛ける refers to killing his own mother, whose death has just been narrated.","alternative":"Attack describes part of what occurred, and later dialogue explicitly says kill, but Jessica's immediate horror is at the killing rather than an assault alone.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-024","kind":"WH","description":"Call for a volunteer becomes request to name a challenger.","categories":["linguistic.wrong_subject","character.agency_responsibility"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[842,842],"MG":[842,842],"UP":[842,842]},"japanese":"「誰でもいい、次なる挑戦者は名乗り出てほしい！！」","japanesePC":"「誰でもいい、次なる挑戦者は名乗り出てほしい！！」","japanesePS3":"「誰でもいい、次なる挑戦者は名乗り出てほしい！！」","WH":"\"Please name the next challenger!  Any one of you may go!!\"","MG":"\"Please name the next challenger! Any one of you may go!!\"","UP":"\"It can be anyone! Let the next challenger step forward!!\"","note":"Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_9-L0842","readerRefs":{"WH":["umi6_9-L0842"],"MG":["umi6_9-L0842"],"UP":["umi6_9-L0842"]}}],"sourceReading":"Furfur asks any next challenger to come forward and identify themselves: 名乗り出てほしい.","alternative":"Any one of you may go partially retains open participation, but Please name the next challenger instead invites designation of someone.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH08-023","kind":"WH","description":"WH describes the tea room as a smoking room.","categories":["linguistic.word_choice"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[830,830],"MG":[830,830],"UP":[830,830]},"japanese":"……この魔女の喫茶室でゲーム盤を囲む“彼ら”には、","japanesePC":"洋風の喫茶室のように見えた。","japanesePS3":"……この魔女の喫茶室でゲーム盤を囲む“彼ら”には、","WH":"It looked like a western smoking room.","MG":"...but to those who stood around the game board in this witch's smoking room,","UP":"......but for these ones who sat around the game board in this witch's tea room,","note":"Same tearoom designation and same WH smoking-room substitution, confirmed against PC85275/85276. Not an edition carryover.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_9-L0829","readerRefs":{"WH":[],"MG":["umi6_9-L0829"],"UP":["umi6_9-L0829"]}}],"sourceReading":"喫茶室 denotes a room for tea or refreshments; it does not specify a smoking room. The same substitution recurs at PC78967/78968.","alternative":"A social room could serve both functions, but that possibility does not preserve the source designation. No building-layout or smoking clue claim is made.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-025","kind":"WH","description":"WH replaces the lovers’ consent as the sufficient marriage requirement with their love.","categories":["linguistic.omission"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[393,393],"MG":[393,393],"UP":[393,393]},"japanese":"……結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、","japanesePC":"......結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、.........それを親に認めてもらいたいという気持ちは拭えない...。","japanesePS3":"……結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、","WH":"......Though he understands that marriage requires nothing more than the love of both people, ......he can't get over his desire for his parents' acceptance...","MG":"...Though he understands that marriage requires nothing more than the love of two people,","UP":"......Though he understood that marriage required nothing more than the consent of both people,","note":"Original PC and coherent paired context verified under ep06-ch09-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_9-L0392","readerRefs":{"WH":["umi6_9-L0392"],"MG":["umi6_9-L0392"],"UP":["umi6_9-L0392"]}}],"sourceReading":"愛し合う二人の同意 identifies consent of the two people who love each other, not love as a substitute for assent.","alternative":"Mutual love may suggest willingness in this scene, but explicit consent and love remain distinct requirements.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH09-026","kind":"WH","description":"WH uses were with the singular subject the curtain of spiderwebs.","categories":["linguistic.grammar"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[688,688],"MG":[688,688],"UP":[688,688]},"japanese":"エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。","japanesePC":"エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。","japanesePS3":"エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。","WH":"The curtain of spiderwebs that EVA shot out in defense were all too slow.","MG":"The curtain of spiderwebs that Eva shot out in defense were all too slow.","UP":"The curtain of spiderwebs that Eva shot out in defense were all too slow.","note":"Original PC and coherent paired context verified under ep06-ch09-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_9-L0688","readerRefs":{"WH":["umi6_9-L0688"],"MG":["umi6_9-L0688"],"UP":["umi6_9-L0688"]}}],"sourceReading":"The English singular head curtain requires was; spiderwebs inside its complement does not control agreement.","alternative":"Japanese can describe multiple curtains, but the chosen English subject remains singular.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH09-001-120-001","kind":"additional","description":"MG replaces Erika’s shrug with a grimace.","categories":["linguistic.word_choice"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[26,26],"MG":[26,26],"UP":[26,26]},"japanese":"ヱリカは肩を竦めて、切り取ったガムテープ片をドラノールに示す。","japanesePC":"","japanesePS3":"ヱリカは肩を竦めて、切り取ったガムテープ片をドラノールに示す。","WH":"","MG":"Erika grimaced and showed the piece of packing tape she had torn off to Dlanor.","UP":"Erika shrugged and showed the piece of duct tape she had cut off to Dlanor.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_9-L0026","readerRefs":{"WH":[],"MG":["umi6_9-L0026"],"UP":["umi6_9-L0026"]}}],"sourceReading":"JP 肩を竦めて and originalPC80728/80729 specify shrugging; MG changes this to a facial expression. UP retains the shrug.","alternative":"Both can signal annoyance, but the bodily action differs.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH09-121-240-001","kind":"additional","description":"MG changes unexpected part-time work into obtaining a new job.","categories":["linguistic.word_choice"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[130,130],"MG":[130,130],"UP":[130,130]},"japanese":"急にバイトが入っちゃって。","japanesePC":"","japanesePS3":"急にバイトが入っちゃって。","WH":"","MG":"He suddenly got a new part-time job.","UP":"Work suddenly called him in.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_9-L0129","readerRefs":{"WH":[],"MG":["umi6_9-L0129"],"UP":["umi6_9-L0129"]}}],"sourceReading":"JP 急にバイトが入っちゃって describes unexpected work arising; originalPC81079/81081 and UP preserve being called to work. MG suddenly got a new part-time job instead describes new employment.","alternative":"Got a job can mean receiving a task, but new part-time job normally means acquiring employment, not an unexpected shift.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-083","kind":"PC","description":"PC includes ブス, rendered bitch in original WH and retained by MG. PS3 removes this insult and UP follows that removal. This is PC-derived material; yellow does not certify bitch as a faithful translation of the appearance insult.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_9","episode":6,"rows":{"JP":[178,178],"MG":[178,178],"UP":[178,178]},"japanese":"帰れよ、","japanesePC":"帰れよブス、","japanesePS3":"帰れよ、","WH":"just go home, bitch,","MG":"just go home, bitch,","UP":"just go home,","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi6_9-L0176","readerRefs":{"WH":[],"MG":["umi6_9-L0176"],"UP":["umi6_9-L0176"]}}],"sourceReading":"PC includes ブス, rendered bitch in original WH and retained by MG. PS3 removes this insult and UP follows that removal. This is PC-derived material; yellow does not certify bitch as a faithful translation of the appearance insult.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-CH09-001",
+      "kind": "WH",
+      "description": "Aroma oil becomes cologne.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_fact",
+        "mystery.clue_invention"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              127,
+              127
+            ],
+            "MG": [
+              127,
+              127
+            ],
+            "UP": [
+              127,
+              127
+            ]
+          },
+          "japanese": "趣味の合わないアロマオイル。",
+          "japanesePC": "「変な猫のキーホルダー。趣味の合わないアロマオイル。演劇の先輩に借りたという、趣味違いの音楽テープ。.........先輩の付き合いで断れなくて。急にバイトが入っちゃって。ダチの電話が長くてなかなか切れなくって。」",
+          "japanesePS3": "趣味の合わないアロマオイル。",
+          "WH": "\"A strange cat keychain.  A different style of cologne.  A music tape that's not his style...which he said he borrowed from a senior at theater.  ......His senior was going so he couldn't refuse.  He suddenly had this part-time job to go to.  Talked with a friend on the phone for a really long time.\"",
+          "MG": "A type of cologne that didn't suit him.",
+          "UP": "A different style of cologne.",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0126",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0126",
+              "umi6_9-L0129"
+            ],
+            "MG": [
+              "umi6_9-L0126"
+            ],
+            "UP": [
+              "umi6_9-L0126"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「変な猫のキーホルダー。趣味の合わないアロマオイル。演劇の先輩に借りたという、趣味違いの音楽テープ。",
+              "translation": "\"A strange cat keychain. A type of cologne that didn't suit him. A music tape that's not his style, which he said he borrowed from a senior at the theater. "
+            },
+            "UP": {
+              "japanese": "「変な猫のキーホルダー。趣味の合わないアロマオイル。演劇の先輩に借りたという、趣味違いの音楽テープ。",
+              "translation": "\"A strange cat keychain. A different style of cologne. A music tape that's not his style...which he said he borrowed from an acting colleague."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0126",
+              "umi6_9-L0129"
+            ],
+            "MG": [
+              "umi6_9-L0126"
+            ],
+            "UP": [
+              "umi6_9-L0126"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "趣味の合わないアロマオイル is aroma oil inconsistent with taste.",
+      "alternative": "Cologne is scented too, but specifies personal fragrance instead of the oil actually listed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-002",
+      "kind": "WH",
+      "description": "Toilet lid becomes toilet seat.",
+      "categories": [
+        "linguistic.word_choice",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              138,
+              138
+            ],
+            "MG": [
+              138,
+              138
+            ],
+            "UP": [
+              138,
+              138
+            ]
+          },
+          "japanese": "便座の蓋が閉じていた。",
+          "japanesePC": "便座の蓋が閉じていた。",
+          "japanesePS3": "便座の蓋が閉じていた。",
+          "WH": "The toilet seat was left down.",
+          "MG": "The toilet seat was left down.",
+          "UP": "The toilet seat was left down.",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0136",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0132",
+              "umi6_9-L0136",
+              "umi6_9-L0140"
+            ],
+            "MG": [
+              "umi6_9-L0136"
+            ],
+            "UP": [
+              "umi6_9-L0136"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "\n化粧道具に詳しくなった。\nごめん、寝てた。\n便座の蓋が閉じていた。\n舞台仲間のところで泊り掛け。",
+              "translation": "\nHe knew more about cosmetics. \nSorry, I was sleeping. \nThe toilet seat was left down. \nHe spent the night over at his stage friends' place. "
+            },
+            "UP": {
+              "japanese": "\n化粧道具に詳しくなった。\nごめん、寝てた。\n便座の蓋が閉じていた。\n舞台仲間のところで泊り掛け。",
+              "translation": "\nHe knew more than before about cosmetics.\n‘Sorry, I was sleeping.’\nThe toilet seat was left down.\nHe spent the night over at his stage friends' place."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0132",
+              "umi6_9-L0136",
+              "umi6_9-L0140"
+            ],
+            "MG": [
+              "umi6_9-L0136"
+            ],
+            "UP": [
+              "umi6_9-L0136"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "便座の蓋 is the lid, which was closed.",
+      "alternative": "Both involve the toilet, but lowering the seat and closing its lid are physically distinct observations.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-003",
+      "kind": "WH",
+      "description": "Kitchen waste basket becomes sink.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.culture_history",
+        "mystery.clue_erasure"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              142,
+              142
+            ],
+            "MG": [
+              142,
+              142
+            ],
+            "UP": [
+              142,
+              142
+            ]
+          },
+          "japanese": "綺麗になった排水溝と三角コーナー。",
+          "japanesePC": "綺麗になった排水溝と三角コーナー。",
+          "japanesePS3": "綺麗になった排水溝と三角コーナー。",
+          "WH": "The drain and sink were cleaned out.",
+          "MG": "The drain and sink were cleaned out.",
+          "UP": "The drain and sink were cleaned out.",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0140",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0132",
+              "umi6_9-L0136",
+              "umi6_9-L0140"
+            ],
+            "MG": [
+              "umi6_9-L0140"
+            ],
+            "UP": [
+              "umi6_9-L0140"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "\n演劇仲間とここで飲み会してさ。誰かの忘れ物だよ。\n綺麗になった排水溝と三角コーナー。\n行動圏外のレシート、ポイントカード。",
+              "translation": "\nMy acting friends had a party here earlier. Someone must've left it behind. \nThe drain and sink were cleaned out. \nReceipts and point cards from places he never goes. "
+            },
+            "UP": {
+              "japanese": "\n演劇仲間とここで飲み会してさ。誰かの忘れ物だよ。\n綺麗になった排水溝と三角コーナー。\n行動圏外のレシート、ポイントカード。",
+              "translation": "\n‘Me and my acting friends had a party here. Someone just left it behind.’\nThe drain and sink were cleaned out.\nThere were receipts and point cards from places he didn't usually go."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0132",
+              "umi6_9-L0136",
+              "umi6_9-L0140"
+            ],
+            "MG": [
+              "umi6_9-L0140"
+            ],
+            "UP": [
+              "umi6_9-L0140"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The drain and 三角コーナー, the kitchen corner waste basket, had become clean.",
+      "alternative": "A basket can be in the sink, but sink removes the separate food-waste receptacle explicitly mentioned.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-004",
+      "kind": "WH",
+      "description": "Rainy Sunday becomes rainy Monday.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              144,
+              144
+            ],
+            "MG": [
+              144,
+              144
+            ],
+            "UP": [
+              144,
+              144
+            ]
+          },
+          "japanese": "靴底の泥は雨天の日曜日に外出した証拠。",
+          "japanesePC": "靴底の泥は雨天の日曜日に外出した証拠。カレンダーの謎の記号との合致。あなたの演劇仲間にこの長さの髪の毛の人間は存在しません。誘導尋問。どうしてまだ見てない映画の筋書きを？",
+          "japanesePS3": "靴底の泥は雨天の日曜日に外出した証拠。",
+          "WH": "The muddy soles are evidence that you went out on Monday when it was raining.  That matches the strange symbol on the calender.  None of your theater friends have hair this long.  That's a leading question.  How do you know the plot of a movie you haven't seen yet?",
+          "MG": "The muddy soles are evidence that you went out on Sunday when it was raining.",
+          "UP": "The muddy soles are evidence that you went out on Monday when it was raining.",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0144",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0144"
+            ],
+            "MG": [
+              "umi6_9-L0144"
+            ],
+            "UP": [
+              "umi6_9-L0144"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "靴底の泥は雨天の日曜日に外出した証拠。\nカレンダーの謎の記号との合致。\nあなたの演劇仲間にこの長さの髪の毛の人間は存在しません。\n誘導尋問。\nどうしてまだ見てない映画の筋書きを？",
+              "translation": "The muddy soles are evidence that you went out on Sunday when it was raining. \nThat matches the strange symbol on the calendar. \nNone of your theater friends have hair this long. \nThat's a leading question. \nHow do you know the plot of a movie you haven't seen yet? "
+            },
+            "UP": {
+              "japanese": "靴底の泥は雨天の日曜日に外出した証拠。\nカレンダーの謎の記号との合致。\nあなたの演劇仲間にこの長さの髪の毛の人間は存在しません。\n誘導尋問。\nどうしてまだ見てない映画の筋書きを？",
+              "translation": "The muddy soles are evidence that you went out on Monday when it was raining.\nIt matches the strange symbol on the calendar.\nNone of your theater friends have hair this long.\nLeading questions.\nHow do you know the plot of a movie you haven't seen yet?"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0144"
+            ],
+            "MG": [
+              "umi6_9-L0144"
+            ],
+            "UP": [
+              "umi6_9-L0144"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "日曜日 specifies Sunday; the muddy soles correspond to that rainy day and a calendar symbol.",
+      "alternative": "No contextual license supports changing the day.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-005",
+      "kind": "WH",
+      "description": "Boyfriend attributes exhaustion to himself instead of Erika.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.relationship_power",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              169,
+              169
+            ],
+            "MG": [
+              169,
+              169
+            ],
+            "UP": [
+              169,
+              169
+            ]
+          },
+          "japanese": "お前、変だよ、疲れてんだろマジで。",
+          "japanesePC": "お前、変だよ、疲れてんだろマジで。",
+          "japanesePS3": "お前、変だよ、疲れてんだろマジで。",
+          "WH": "What's wrong with you?  I'm seriously worn out, alright?",
+          "MG": "What's wrong with you? I'm seriously worn out, okay?",
+          "UP": "What's wrong with you? I'm seriously tired of this, alright?",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0169",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0161",
+              "umi6_9-L0165",
+              "umi6_9-L0169",
+              "umi6_9-L0172"
+            ],
+            "MG": [
+              "umi6_9-L0169"
+            ],
+            "UP": [
+              "umi6_9-L0169"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "お前、変だよ、疲れてんだろマジで。あのさ、お互いの顔見て喧嘩しかしないんなら、お互い少し冷却期間を置かね？　俺も次の舞台まで集中したいし。",
+              "translation": "What's wrong with you? I'm seriously worn out, okay? Come on, if all we do is fight when we see each other, maybe we both need some time to cool off, okay? I need to concentrate for my next performance anyway. "
+            },
+            "UP": {
+              "japanese": "お前、変だよ、疲れてんだろマジで。あのさ、お互いの顔見て喧嘩しかしないんなら、お互い少し冷却期間を置かね？　俺も次の舞台まで集中したいし。",
+              "translation": " What's wrong with you? I'm seriously tired of this, alright? Look, if all we do is fight when we see each other, maybe we both need some time to cool off, okay? I need to concentrate for my next performance anyway."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0161",
+              "umi6_9-L0165",
+              "umi6_9-L0169",
+              "umi6_9-L0172"
+            ],
+            "MG": [
+              "umi6_9-L0169"
+            ],
+            "UP": [
+              "umi6_9-L0169"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "お前、変だよ、疲れてんだろマジで calls her strange and says she must be seriously tired.",
+      "alternative": "His own irritation is clear, but the continuing お前 address and だろ concern her state, not an assertion that he is worn out.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-006",
+      "kind": "WH",
+      "description": "Girl at senior's group becomes a senior girl.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact",
+        "mystery.clue_invention"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              172,
+              172
+            ],
+            "MG": [
+              172,
+              172
+            ],
+            "UP": [
+              172,
+              172
+            ]
+          },
+          "japanese": "先輩のとこの女の子、",
+          "japanesePC": "先輩のとこの女の子、",
+          "japanesePS3": "先輩のとこの女の子、",
+          "WH": "There's this senior girl",
+          "MG": "This girl working with Senpai",
+          "UP": "One of my colleagues,",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi6_9-L0172",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0161",
+              "umi6_9-L0165",
+              "umi6_9-L0169",
+              "umi6_9-L0172"
+            ],
+            "MG": [
+              "umi6_9-L0172"
+            ],
+            "UP": [
+              "umi6_9-L0172"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "先輩のとこの女の子、急に出れないとか言い出してさ。脚本、明日までに書き換えなくちゃならないんだよ。こうしてる時間も惜しいわけ。",
+              "translation": "This girl working with Senpai suddenly said she wouldn't be able to perform. I need to rewrite the script by tomorrow. I don't have time for this. "
+            },
+            "UP": {
+              "japanese": "先輩のとこの女の子、急に出れないとか言い出してさ。脚本、明日までに書き換えなくちゃならないんだよ。こうしてる時間も惜しいわけ。",
+              "translation": " One of my colleagues, she's suddenly told us she won't be able to perform. I need to rewrite the script by tomorrow. I don't have the time for this."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0161",
+              "umi6_9-L0165",
+              "umi6_9-L0169",
+              "umi6_9-L0172"
+            ],
+            "MG": [
+              "umi6_9-L0172"
+            ],
+            "UP": [
+              "umi6_9-L0172"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "先輩のとこの女の子 is a girl at the senior's place or group.",
+      "alternative": "She could also be senior, but that is not specified; the source gives her association with the senior.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-007",
+      "kind": "WH",
+      "description": "Appearance and animal insults are softened away.",
+      "categories": [
+        "linguistic.word_choice",
+        "linguistic.omission",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              178,
+              182
+            ],
+            "MG": [
+              178,
+              182
+            ],
+            "UP": [
+              178,
+              182
+            ]
+          },
+          "japanese": "帰れよ、\nお前なんかもう愛してねぇよ。\n泣くなよウゼェな、\nキメェんだよ死ねよ。\n近所迷惑だろ喚くんじゃねぇよ。",
+          "japanesePC": "帰れよブス、",
+          "japanesePS3": "帰れよ、\nお前なんかもう愛してねぇよ。\n泣くなよウゼェな、\nキメェんだよ死ねよ。\n近所迷惑だろ喚くんじゃねぇよ。",
+          "WH": "just go home, bitch,",
+          "MG": "just go home, bitch,\nI don't love you anymore.\nDon't cry dammit,\nit's disgusting. Just die.\nStop shouting, dammit, you're annoying the neighborhood.",
+          "UP": "just go home,\nI don't love you anymore.\nStop crying, God you're obnoxious,\ngo kill yourself, you creep.\nStop shouting, dammit, I've got neighbors.",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "corrected_against_PS3_source_by_edition_change",
+            "UP": "corrected_against_PS3_source_by_edition_change"
+          },
+          "readerRef": "umi6_9-L0176",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP06-09-V002",
+              "PC-CANDIDATE-EP06-09-V003"
+            ],
+            "MG": [
+              "umi6_9-L0176",
+              "umi6_9-L0180"
+            ],
+            "UP": [
+              "umi6_9-L0176",
+              "umi6_9-L0180"
+            ]
+          },
+          "findingEvidence": {},
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP06-09-V002",
+              "PC-CANDIDATE-EP06-09-V003"
+            ],
+            "MG": [],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "ブス insults her appearance; later クソブタ calls her a filthy pig.",
+      "alternative": "Bitch retains abuse, and the remaining passage is harsh, but neither the appearance-specific attack nor the pig insult survives.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-008",
+      "kind": "WH",
+      "description": "Evidence-type distinction becomes disregard for circumstances.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              224,
+              224
+            ],
+            "MG": [
+              224,
+              224
+            ],
+            "UP": [
+              224,
+              224
+            ]
+          },
+          "japanese": "状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。",
+          "japanesePC": "双方、青き真実で相殺された場合、状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。......ニンゲンの世界の場合は特に。",
+          "japanesePS3": "状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。",
+          "WH": "When both opponents meet with the blue truth, the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.  ......This is especially true in the human world.",
+          "MG": "the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.",
+          "UP": "the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances.",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0223",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0223"
+            ],
+            "MG": [
+              "umi6_9-L0223"
+            ],
+            "UP": [
+              "umi6_9-L0223"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "双方、青き真実で相殺された場合、状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。……ニンゲンの世界の場合は特に。よって、スタンダードルールの場合、ヱリカの判定勝ちとなる…。",
+              "translation": "When both opponents meet with the blue truth, the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances. ...This is especially true in the Human world. So, by the standard rules, Erika would win... "
+            },
+            "UP": {
+              "japanese": "双方、青き真実で相殺された場合、状況、物的を問わず、証拠という名の駒の数量で判定が行なわれることがほとんどだ。……ニンゲンの世界の場合は特に。よって、スタンダードルールの場合、ヱリカの判定勝ちとなる…。",
+              "translation": "When both opponents meet with the blue truth, the decision is almost always based on which side has more pieces of evidence, regardless of the actual circumstances. ......This is especially true in the Humanhuman world. So, by the standard rules, Erika would win..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0223"
+            ],
+            "MG": [
+              "umi6_9-L0223"
+            ],
+            "UP": [
+              "umi6_9-L0223"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "状況、物的を問わず refers back to circumstantial and physical evidence: pieces are counted regardless of which of those types they are.",
+      "alternative": "The result still depends on quantity, but regardless of the actual circumstances broadens the disregard from evidence type to the facts of the situation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-009",
+      "kind": "WH",
+      "description": "Present dead end becomes checkmate from the beginning.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "linguistic.overinterpretation",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              248,
+              248
+            ],
+            "MG": [
+              248,
+              248
+            ],
+            "UP": [
+              248,
+              248
+            ]
+          },
+          "japanese": "ゆえにもはや、チェックメイトも同然。",
+          "japanesePC": "ゆえにもはや、チェックメイトも同然。",
+          "japanesePS3": "ゆえにもはや、チェックメイトも同然。",
+          "WH": "So, it was already checkmate from the very beginning.",
+          "MG": "So, it was already checkmate from the very beginning.",
+          "UP": "So, it was already checkmate from the very beginning.",
+          "note": "Full source-first three-witness reading in durable reports; parent checked introduced gestures/work excuse and exact PC-only insult. WH007 remains an original-PC defect; its omitted PC insults are not imported as omissions against the revised PS3 source. MG extra insult marked yellow, not counted as a semantic defect.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0244",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0244"
+            ],
+            "MG": [
+              "umi6_9-L0244"
+            ],
+            "UP": [
+              "umi6_9-L0244"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "この場合、明らかに優勢なのはヱリカ。……対するドラノールは、引き分けに持ち込むために、ステイルメイトを狙うのは当然。しかし、それはチェスならばの場合。\n……魔女たちが真実を弄ぶゲームでは、禁じ手。ゆえにもはや、チェックメイトも同然。\nドラノールに、返す手は存在しない…。",
+              "translation": "In this situation, Erika clearly had the advantage. ...So, it was natural that Dlanor would seek a stalemate to obtain a tie. However, that would only be the case in chess. ...In the game where witches fight over the truth, it's a forbidden move. So, it was already checkmate from the very beginning. Dlanor had no way to turn the game around... "
+            },
+            "UP": {
+              "japanese": "この場合、明らかに優勢なのはヱリカ。……対するドラノールは、引き分けに持ち込むために、ステイルメイトを狙うのは当然。しかし、それはチェスならばの場合。\n……魔女たちが真実を弄ぶゲームでは、禁じ手。ゆえにもはや、チェックメイトも同然。\nドラノールに、返す手は存在しない…。",
+              "translation": "In this situation, Erika clearly had the advantage. ......It was natural that Dlanor, her opponent, would seek a stalemate to obtain a draw. However, that only worked in chess.\n......In the game where witches fought over the truth, it was a forbidden move. So, it was already checkmate from the very beginning.\nDlanor had no way to turn the game around..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0244"
+            ],
+            "MG": [
+              "umi6_9-L0244"
+            ],
+            "UP": [
+              "umi6_9-L0244"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ゆえにもはや、チェックメイトも同然 says therefore it is now as good as checkmate, after the forbidden stalemate explanation.",
+      "alternative": "The rules make the position hopeless, but the source does not say from the very beginning and retains as-good-as qualification.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-010",
+      "kind": "WH",
+      "description": "Eva instructing Ayumi becomes George telling Ayumi.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              365,
+              365
+            ],
+            "MG": [
+              365,
+              365
+            ],
+            "UP": [
+              365,
+              365
+            ]
+          },
+          "japanese": "あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。",
+          "japanesePC": "あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。きっとこれからはあなたの目を見て話してくれるはずよ...！！」",
+          "japanesePS3": "あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。",
+          "WH": "If you can't feel anything from her unless she looks at your eyes, then just tell her that.  I'm sure she'll look at you in the future...!!\"",
+          "MG": "If you can't feel anything from her unless she looks at your eyes, then just tell her that.",
+          "UP": "If you can't feel anything from her unless she looks at you when she talks, I'll advise her of that.",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_9-L0363",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0363"
+            ],
+            "MG": [
+              "umi6_9-L0363"
+            ],
+            "UP": [
+              "umi6_9-L0363"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「亜由美さんは育ちのいい、奥ゆかしい女性でしょ！！　男性の譲治に目を合わせるなんて、恥ずかしいし不躾で出来なかっただけよ…！！　あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。きっとこれからはあなたの目を見て話してくれるはずよ…！！」",
+              "translation": "\"Ayumi-san is a well-bred, modest woman, isn't she?!! She just couldn't look at you because you're a man and it would be embarrassing and ill-mannered...!! If you can't feel anything from her unless she looks at your eyes, then just tell her that. I'm sure she'll look at you in the future...!!\" "
+            },
+            "UP": {
+              "japanese": "「亜由美さんは育ちのいい、奥ゆかしい女性でしょ！！　男性の譲治に目を合わせるなんて、恥ずかしいし不躾で出来なかっただけよ…！！　あなたが、目を見て話してくれなきゃ気持ちが感じられないというなら、彼女にそう注意するわ。きっとこれからはあなたの目を見て話してくれるはずよ…！！」",
+              "translation": "\"Ayumi‐san is a well‐bred, modest woman!! She just couldn't look at you because you're a man and it would be embarrassing and ill‐mannered...!! If you can't feel anything from her unless she looks at you when she talks, I'll advise her of that. I'm sure she'll look at you from now on...!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0363"
+            ],
+            "MG": [
+              "umi6_9-L0363"
+            ],
+            "UP": [
+              "umi6_9-L0363"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva says she will caution Ayumi to make eye contact if George requires it.",
+      "alternative": "English offers the same practical remedy, but transfers the intervention from Eva to George.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-011",
+      "kind": "WH",
+      "description": "George's disregarded feelings become everyone else disregarded.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.relationship_power",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              368,
+              368
+            ],
+            "MG": [
+              368,
+              368
+            ],
+            "UP": [
+              368,
+              368
+            ]
+          },
+          "japanese": "……母さんの縁談には、僕の気持ちがわずかほども含まれていないっ」",
+          "japanesePC": "「亜由美さんと結婚させたいのは、それが母さんにとって利するからさ。......母さんの縁談には、僕の気持ちがわずかほども含まれていないっ。」",
+          "japanesePS3": "……母さんの縁談には、僕の気持ちがわずかほども含まれていないっ」",
+          "WH": "\"You want me to marry Ayumi-san because it will benefit you.  ......You aren't pushing that engagement for the sake of anyone but yourself.\"",
+          "MG": "...You aren't pushing that engagement for the sake of anyone but yourself.\"",
+          "UP": "......You aren't pushing that engagement for the sake of anyone but yourself...!\"",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0367",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0367"
+            ],
+            "MG": [
+              "umi6_9-L0367"
+            ],
+            "UP": [
+              "umi6_9-L0367"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「亜由美さんと結婚させたいのは、それが母さんにとって利するからさ。……母さんの縁談には、僕の気持ちがわずかほども含まれていないっ」",
+              "translation": "\"You want me to marry Ayumi-san because it will benefit you. ...You aren't pushing that engagement for the sake of anyone but yourself.\" "
+            },
+            "UP": {
+              "japanese": "「亜由美さんと結婚させたいのは、それが母さんにとって利するからさ。……母さんの縁談には、僕の気持ちがわずかほども含まれていないっ」",
+              "translation": "\"You want me to marry Ayumi‐san because it will benefit you. ......You aren't pushing that engagement for the sake of anyone but yourself...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0367"
+            ],
+            "MG": [
+              "umi6_9-L0367"
+            ],
+            "UP": [
+              "umi6_9-L0367"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George says his own feelings are not included even slightly in his mother's marriage arrangement.",
+      "alternative": "He does accuse her of self-benefit, and later lists her motives, but this sentence specifies exclusion of his feelings rather than excluding all other beneficiaries.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-012",
+      "kind": "WH",
+      "description": "Parent kanji argument is replaced with parental duty.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.wordplay",
+        "world.culture_history",
+        "character.voice_state"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              373,
+              374
+            ],
+            "MG": [
+              373,
+              374
+            ],
+            "UP": [
+              373,
+              374
+            ]
+          },
+          "japanese": "親という漢字はどういう字？！\n“木”の上に“立”って“見”ると書いて“親”なのよ？！」",
+          "japanesePC": "ないでしょう？！　親という漢字はどういう字？！　“木”の上に“立”って“見”ると書いて“親”なのよ？！　母さんたちはね、あなたよりはるかに高みから、人生の遠くまでを展望してるの！！",
+          "japanesePS3": "親という漢字はどういう字？！\n“木”の上に“立”って“見”ると書いて“親”なのよ？！」",
+          "WH": "I haven't, have I?!  What's a parent's job?!  It's to look after the long-term welfare of their children, right?!  We've been looking down upon your entire future from a great height!!",
+          "MG": "What is a parent's job?!\nIt's to look after the long-term welfare of their children, right?!",
+          "UP": "How is the ‘parent’ (親) kanji written?!\nIt's {nobr:‘stand’ (立) on top of a {nobr:‘tree’ (木) and {nobr:‘look’ (見)!\"",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_9-L0372",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0372",
+              "umi6_9-L0375"
+            ],
+            "MG": [
+              "umi6_9-L0372"
+            ],
+            "UP": [
+              "umi6_9-L0372"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ないでしょう？！　親という漢字はどういう字？！　“木”の上に“立”って“見”ると書いて“親”なのよ？！」",
+              "translation": "I haven't, have I?! What is a parent's job?! It's to look after the long-term welfare of their children, right?! "
+            },
+            "UP": {
+              "japanese": "「ないでしょう？！　親という漢字はどういう字？！　“木”の上に“立”って“見”ると書いて“親”なのよ？！」",
+              "translation": "\"I haven't, have I?! How is the ‘parent’ (親) kanji written?! It's {nobr:‘stand’ (立) on top of a {nobr:‘tree’ (木) and {nobr:‘look’ (見)!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0372",
+              "umi6_9-L0375"
+            ],
+            "MG": [
+              "umi6_9-L0372"
+            ],
+            "UP": [
+              "umi6_9-L0372"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva decomposes 親 into standing 立 above a tree 木 and seeing 見, then claims parents can survey life from higher up.",
+      "alternative": "English retains the high vantage and concern for children, but replaces her character-based rhetorical demonstration with a generic assertion of parental duty.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-013",
+      "kind": "WH",
+      "description": "Future acquisition becomes completed acquisition.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "world.space_time_continuity",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              464,
+              464
+            ],
+            "MG": [
+              464,
+              464
+            ],
+            "UP": [
+              464,
+              464
+            ]
+          },
+          "japanese": "……やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。",
+          "japanesePC": "この降り注ぐ雨の中空に、浮かぶはずのない月を背負って、......やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。",
+          "japanesePS3": "……やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。",
+          "WH": "In the rain-filled sky, with the moon that shouldn't have been visible behind her, ......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.",
+          "MG": "...was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.",
+          "UP": "......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family.",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0463",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0463"
+            ],
+            "MG": [
+              "umi6_9-L0463"
+            ],
+            "UP": [
+              "umi6_9-L0463"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "この降り注ぐ雨の中空に、浮かぶはずのない月を背負って、……やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。",
+              "translation": "In the rain-filled sky, with a moon that shouldn't have been visible behind her, ...was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family. "
+            },
+            "UP": {
+              "japanese": "この降り注ぐ雨の中空に、浮かぶはずのない月を背負って、……やがて右代宮家の全てを手に入れる、未来の黄金の魔女が、そこにいた。",
+              "translation": "In the rain‐filled sky, with the moon that shouldn't have been visible behind her, ......was the Golden Witch of the future who had finally obtained everything of the Ushiromiya family."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0463"
+            ],
+            "MG": [
+              "umi6_9-L0463"
+            ],
+            "UP": [
+              "umi6_9-L0463"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "やがて ... 手に入れる identifies the future Golden Witch who will eventually acquire everything of the family.",
+      "alternative": "Golden Witch of the future remains, but had finally obtained makes the acquisition completed rather than eventual.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-014",
+      "kind": "WH",
+      "description": "Lifelong binding and sole purpose are omitted.",
+      "categories": [
+        "linguistic.omission",
+        "character.relationship_power",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              501,
+              502
+            ],
+            "MG": [
+              501,
+              502
+            ],
+            "UP": [
+              501,
+              502
+            ]
+          },
+          "japanese": "生まれた時から数々の習い事で縛り付けられ、\n……あんたの野望のためだけに育てられてきた僕の姿さ」",
+          "japanesePC": "「............そうさ。これが僕さ。生まれた時から数々の習い事で縛り付けられ、......あんたの野望のためだけに育てられてきた僕の姿さ。」",
+          "japanesePS3": "生まれた時から数々の習い事で縛り付けられ、\n……あんたの野望のためだけに育てられてきた僕の姿さ」",
+          "WH": "\".........That's right.  This is me.  This is me, being tied down by countless studies...and raised for the sake of your ambitions.\"",
+          "MG": "This is me, being tied down by countless studies...\nand raised for the sake of your ambitions.\"",
+          "UP": "This is me, tied down by a life of constant instruction...\n...and raised solely for the sake of your ambitions.\"",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi6_9-L0499",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0499"
+            ],
+            "MG": [
+              "umi6_9-L0499"
+            ],
+            "UP": [
+              "umi6_9-L0499"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…………そうさ。これが僕さ。生まれた時から数々の習い事で縛り付けられ、……あんたの野望のためだけに育てられてきた僕の姿さ」",
+              "translation": "\"......That's right. This is me. This is me, being tied down by countless studies... and raised for the sake of your ambitions.\" "
+            },
+            "UP": {
+              "japanese": "「…………そうさ。これが僕さ。生まれた時から数々の習い事で縛り付けられ、……あんたの野望のためだけに育てられてきた僕の姿さ」",
+              "translation": "\".........That's right. This is me. This is me, tied down by a life of constant instruction... ...and raised solely for the sake of your ambitions.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0499"
+            ],
+            "MG": [
+              "umi6_9-L0499"
+            ],
+            "UP": [
+              "umi6_9-L0499"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George says he has been bound by lessons since birth and raised solely for her ambitions.",
+      "alternative": "English retains studies and ambitions, but drops both the lifelong temporal anchor and the exclusive だけ.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-015",
+      "kind": "WH",
+      "description": "Swinging cruelty is attributed to the laugh.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.imagery_rhythm_recurrence",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              510,
+              511
+            ],
+            "MG": [
+              510,
+              511
+            ],
+            "UP": [
+              510,
+              511
+            ]
+          },
+          "japanese": "エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、\n……そして残酷だ。",
+          "japanesePC": "エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、......そして残酷だ。",
+          "japanesePS3": "エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、\n……そして残酷だ。",
+          "WH": "EVA's insane laugh was as innocent...and as cruel...as a grade schooler happily swinging about a bag filled with her gym clothes.",
+          "MG": "Laughing insanely, Eva was as innocent and cruel...\nas a grade schooler happily swinging about a bag filled with her gym clothes.",
+          "UP": "Eva's insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes...\n...and cruel in equal measure.",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0510",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0510"
+            ],
+            "MG": [
+              "umi6_9-L0510"
+            ],
+            "UP": [
+              "umi6_9-L0510"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、……そして残酷だ。",
+              "translation": "Laughing insanely, Eva was as innocent and cruel... as a grade schooler happily swinging about a bag filled with her gym clothes. "
+            },
+            "UP": {
+              "japanese": "エヴァの狂った笑い声とのそれは、まるで小学生が体操服の入った巾着袋を振り回すみたいに無邪気で、……そして残酷だ。",
+              "translation": "Eva's insane laugh was as innocent as a grade schooler happily swinging about a bag filled with her gym clothes... ...and cruel in equal measure."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0510"
+            ],
+            "MG": [
+              "umi6_9-L0510"
+            ],
+            "UP": [
+              "umi6_9-L0510"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "それ refers to the preceding swinging of George, accompanied by Eva's mad laughter; the act is compared to a schoolchild swinging a gym-clothes bag.",
+      "alternative": "The laugh can convey innocence and cruelty too, and the surrounding action survives, but English makes the laugh itself the subject of a comparison about physical swinging.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-016",
+      "kind": "WH",
+      "description": "Reformation becomes demonstrated willingness to reform.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.relationship_power",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              582,
+              582
+            ],
+            "MG": [
+              582,
+              582
+            ],
+            "UP": [
+              582,
+              582
+            ]
+          },
+          "japanese": "あなたが改心したら、私が解放してあげる」",
+          "japanesePC": "「思い上がったあなたは、孫悟空と同じに、少し反省とお仕置きが必要だわァ。あなたが改心したら、私が解放してあげる。」",
+          "japanesePS3": "あなたが改心したら、私が解放してあげる」",
+          "WH": "\"Just like Sun Wukong, you need some reflection and punishment for your arrogance.  If you show that you're willing to reform yourself, I'll release you.\"",
+          "MG": "If you can show that you're willing to reform yourself, I'll release you.\"",
+          "UP": "If you show that you're willing to reform yourself, I'll release you.\"",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0581",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0581"
+            ],
+            "MG": [
+              "umi6_9-L0581"
+            ],
+            "UP": [
+              "umi6_9-L0581"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「思い上がったあなたは、孫悟空と同じに、少し反省とお仕置きが必要だわァ。あなたが改心したら、私が解放してあげる」",
+              "translation": "\"Just like Sun Wukong, you need to reflect upon and be punished for your arrogance. If you can show that you're willing to reform yourself, I'll release you.\" "
+            },
+            "UP": {
+              "japanese": "「思い上がったあなたは、孫悟空と同じに、少し反省とお仕置きが必要だわァ。あなたが改心したら、私が解放してあげる」",
+              "translation": "\"Just like Sun Wukong, you need some reflection and punishment for your arrogance. If you show that you're willing to reform yourself, I'll release you.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0581"
+            ],
+            "MG": [
+              "umi6_9-L0581"
+            ],
+            "UP": [
+              "umi6_9-L0581"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva promises release if he reforms or changes his heart: 改心したら.",
+      "alternative": "Showing willingness may be one step toward reform, but it is a weaker condition than the actual change demanded in Japanese.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-017",
+      "kind": "WH",
+      "description": "Eva future provision becomes completed preparation.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.relationship_power",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              589,
+              590
+            ],
+            "MG": [
+              589,
+              590
+            ],
+            "UP": [
+              589,
+              590
+            ]
+          },
+          "japanese": "「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！\n全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！",
+          "japanesePC": "「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！　全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！",
+          "japanesePS3": "「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！\n全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！",
+          "WH": "\"I've found the most intellectual woman in the world ready to sacrifice everything for you!!  I've paved the way towards success in everything!!",
+          "MG": "\"I've found the most intellectual woman in the world, willing to devote herself to you entirely!!\nI'll arrange for all of your successes, and even prepare the roads leading to them!!",
+          "UP": "\"I'll arrange the most intellectual and selfless woman in the world for you!!\nI'll prepare your every success and even pave the way there!!",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_9-L0589",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0589"
+            ],
+            "MG": [
+              "umi6_9-L0589"
+            ],
+            "UP": [
+              "umi6_9-L0589"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！　全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！　そしてやがては右代宮家で最高の名誉である、当主の後継者にあなたは指名されるの！！　それから初めて、あなたは自分の人生を始めなさい…！！」",
+              "translation": "\"I've found the most intellectual woman in the world, willing to devote herself to you entirely!! I'll arrange for all of your successes, and even prepare the roads leading to them!! And eventually, you will be chosen for the highest honor in the Ushiromiya family, the position as Successor to the Headship!! Only then will you begin your true life...!\" "
+            },
+            "UP": {
+              "japanese": "「世界で一番知的で、あなたのために全てを捧げてくれる女性を用意してあげる！！　全ての成功も、それに至る道も、全て全てママが用意してあげるわッ！！　そしてやがては右代宮家で最高の名誉である、当主の後継者にあなたは指名されるの！！　それから初めて、あなたは自分の人生を始めなさい…！！」",
+              "translation": "\"I'll arrange the most intellectual and selfless woman in the world for you!! I'll prepare your every success and even pave the way there!! And eventually, you will be chosen for the highest honor in the Ushiromiya family, the position as successor to the head!! That's when you can think about beginning life for yourself...!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0589"
+            ],
+            "MG": [
+              "umi6_9-L0589"
+            ],
+            "UP": [
+              "umi6_9-L0589"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva promises she will provide the woman, every success and the paths to it.",
+      "alternative": "An arranged candidate already exists, but these utterances use 用意してあげる as promises; English converts both into accomplished preparations and compresses successes into their path.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-018",
+      "kind": "WH",
+      "description": "Spread-eagled suspension is omitted.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.imagery_rhythm_recurrence",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              601,
+              603
+            ],
+            "MG": [
+              601,
+              603
+            ],
+            "UP": [
+              601,
+              603
+            ]
+          },
+          "japanese": "赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、\n……全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。\n磔の譲治は、ぴくりとも動かない…。",
+          "japanesePC": "赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、......全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。",
+          "japanesePS3": "赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、\n……全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。\n磔の譲治は、ぴくりとも動かない…。",
+          "WH": "The human-shaped lump of flesh wrapped in the red bag was slammed over and over, then thrown high into the air......where it was caught in a massive spiderweb in the sky, still covered with fresh blood.",
+          "MG": "The human-shaped lump of flesh wrapped in the red bag was slammed over and over, then thrown high into the air,\n...where it was caught in a massive spiderweb in the sky, still covered with fresh blood.\nWhile he hung there as though crucified, George didn't even twitch...",
+          "UP": "The human‐shaped lump of flesh ensnared in the red net was slammed over and over, then thrown high into the air,\n......where it was caught by a massive spiderweb suspended in the sky.\nGeorge hung there pitifully as though crucified, still covered in fresh blood and not even twitching...",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0601",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0601"
+            ],
+            "MG": [
+              "umi6_9-L0601",
+              "umi6_9-L0603"
+            ],
+            "UP": [
+              "umi6_9-L0601",
+              "umi6_9-L0603"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、……全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。",
+              "translation": "The human-shaped lump of flesh wrapped in the red bag was slammed over and over, then thrown high into the air, ...where it was caught in a massive spiderweb in the sky, still covered with fresh blood. "
+            },
+            "UP": {
+              "japanese": "赤い網袋に閉じ込められた人型の肉塊が、何度も叩き潰され、そして天に打ち上げられ、……全身を鮮血で彩った無残な姿を大の字にして、天の巨大な蜘蛛の巣に磔にする。",
+              "translation": "The human‐shaped lump of flesh ensnared in the red net was slammed over and over, then thrown high into the air, ......where it was caught by a massive spiderweb suspended in the sky."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0601"
+            ],
+            "MG": [
+              "umi6_9-L0601"
+            ],
+            "UP": [
+              "umi6_9-L0601"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "His bloodied body is spread in a 大 shape and pinned to the enormous web.",
+      "alternative": "The next sentence retains crucifixion imagery, but the explicit spread limbs and pinning are replaced here by merely being caught.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-019",
+      "kind": "WH",
+      "description": "Clawing the mud becomes wiping mud away.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state",
+        "world.space_time_continuity"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              627,
+              627
+            ],
+            "MG": [
+              627,
+              627
+            ],
+            "UP": [
+              627,
+              627
+            ]
+          },
+          "japanese": "……泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない…。",
+          "japanesePC": "......泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない...。",
+          "japanesePS3": "……泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない…。",
+          "WH": "......Though he wiped the mud away and stood his ground, he still couldn't raise his head...",
+          "MG": "...Though he wiped the mud away and stood his ground, he still couldn't raise his head...",
+          "UP": "......Though he wiped the mud away and stood his ground, he still couldn't raise his head...",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0626",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0626"
+            ],
+            "MG": [
+              "umi6_9-L0626"
+            ],
+            "UP": [
+              "umi6_9-L0626"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "譲治は、四つん這いまで立ち上がるのがやっと。……泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない…。",
+              "translation": "It was all George could do to get up on his hands and knees. ...Though he wiped the mud away and stood his ground, he still couldn't raise his head... "
+            },
+            "UP": {
+              "japanese": "譲治は、四つん這いまで立ち上がるのがやっと。……泥を掻いて踏み止まりながらも、顔を上げることは未だ出来ない…。",
+              "translation": "It was all George could do to get up on his hands and knees. ......Though he wiped the mud away and stood his ground, he still couldn't raise his head..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0626"
+            ],
+            "MG": [
+              "umi6_9-L0626"
+            ],
+            "UP": [
+              "umi6_9-L0626"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Still on all fours, he scrapes or claws at the mud to hold his position and cannot raise his face.",
+      "alternative": "Wiping could involve a hand motion, but it suggests cleaning away mud rather than scrabbling against it for purchase.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-020",
+      "kind": "WH",
+      "description": "First learning before Sayo becomes direct instruction by Sayo.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.overinterpretation",
+        "character.motivation_emotion",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              656,
+              658
+            ],
+            "MG": [
+              656,
+              658
+            ],
+            "UP": [
+              656,
+              658
+            ]
+          },
+          "japanese": "「僕が紗代から学んだことは数え切れない。\n……僕は彼女の前で初めて。\n……勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。",
+          "japanesePC": "「僕が紗代から学んだことは数え切れない。......僕は彼女の前で初めて。......勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。",
+          "japanesePS3": "「僕が紗代から学んだことは数え切れない。\n……僕は彼女の前で初めて。\n……勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。",
+          "WH": "\"I cannot count the number of things I've learned from Sayo.  ......She taught me courage and chivalry, how to be ambitious and witty and humorous, and just a little stylish.",
+          "MG": "\"I cannot count the number of things I've learned from Sayo.\n...She taught me courage and chivalry,\nhow to be ambitious and witty and humorous, and just a little stylish.",
+          "UP": "\"I cannot count the number of things I've learned from Sayo.\n......She taught me...\ncourage and chivalry, how to be ambitious and witty and humorous, and just a little stylish.",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0656",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0656"
+            ],
+            "MG": [
+              "umi6_9-L0656"
+            ],
+            "UP": [
+              "umi6_9-L0656"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「僕が紗代から学んだことは数え切れない。……僕は彼女の前で初めて。……勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。",
+              "translation": "\"I cannot count the number of things I've learned from Sayo. ...She taught me courage and chivalry, how to be ambitious and witty and humorous, and just a little stylish. "
+            },
+            "UP": {
+              "japanese": "「僕が紗代から学んだことは数え切れない。……僕は彼女の前で初めて。……勇気と男気と、向上心とウィットとユーモアと、それからちょっぴりのお洒落を学んだんだ。",
+              "translation": "\"I cannot count the number of things I've learned from Sayo. ......She taught me... courage and chivalry, how to be ambitious and witty and humorous, and just a little stylish."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0656"
+            ],
+            "MG": [
+              "umi6_9-L0656"
+            ],
+            "UP": [
+              "umi6_9-L0656"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After crediting what he learned from Sayo, George says it was before her that he first learned these qualities.",
+      "alternative": "She taught me is compatible with the preceding general credit, but omits the explicit first-time and in-her-presence framing and specifies teaching instead.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-021",
+      "kind": "WH",
+      "description": "Cooling overheated time becomes freezing time.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence",
+        "world.world_layer"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              732,
+              733
+            ],
+            "MG": [
+              732,
+              733
+            ],
+            "UP": [
+              732,
+              733
+            ]
+          },
+          "japanese": "激しい落雷と雨が、\n……過熱した時間を、冷却する。",
+          "japanesePC": "激しい落雷と雨が、\n......過熱した時間を、冷却する。",
+          "japanesePS3": "激しい落雷と雨が、\n……過熱した時間を、冷却する。",
+          "WH": "The violent lightning and rain...\n...made time freeze.",
+          "MG": "The fierce lightning and rain...\n...made time freeze.",
+          "UP": "The violent lightning and rain...\n...made time freeze.",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0732",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0732"
+            ],
+            "MG": [
+              "umi6_9-L0732"
+            ],
+            "UP": [
+              "umi6_9-L0732"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "激しい落雷と雨が、……過熱した時間を、冷却する。",
+              "translation": "The fierce lightning and rain... ...made time freeze. "
+            },
+            "UP": {
+              "japanese": "激しい落雷と雨が、……過熱した時間を、冷却する。",
+              "translation": "The violent lightning and rain... ...made time freeze."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0732"
+            ],
+            "MG": [
+              "umi6_9-L0732"
+            ],
+            "UP": [
+              "umi6_9-L0732"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lightning and rain cool the overheated time, ending the fever of the confrontation.",
+      "alternative": "Time freezing can also be metaphorical; nevertheless it substitutes arrest of time for the explicit heat-and-cooling pair.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-022",
+      "kind": "WH",
+      "description": "George's question about Gaap becomes certain knowledge.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              746,
+              747
+            ],
+            "MG": [
+              746,
+              747
+            ],
+            "UP": [
+              746,
+              747
+            ]
+          },
+          "japanese": "「……その辺にいるんじゃないかい。\nガァプ」",
+          "japanesePC": "「......その辺にいるんじゃないかい。ガァプ。」",
+          "japanesePS3": "「……その辺にいるんじゃないかい。\nガァプ」",
+          "WH": "\"......I know you're somewhere over there.  Gaap.\"",
+          "MG": "\"...I know you're somewhere over there,\nGaap.\"",
+          "UP": "\"......I know you're somewhere over there.\nGaap.\"",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0746",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0746"
+            ],
+            "MG": [
+              "umi6_9-L0746"
+            ],
+            "UP": [
+              "umi6_9-L0746"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……その辺にいるんじゃないかい。ガァプ」",
+              "translation": "\"...I know you're somewhere over there, Gaap.\" "
+            },
+            "UP": {
+              "japanese": "「……その辺にいるんじゃないかい。ガァプ」",
+              "translation": "\"......I know you're somewhere over there. Gaap.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0746"
+            ],
+            "MG": [
+              "umi6_9-L0746"
+            ],
+            "UP": [
+              "umi6_9-L0746"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "その辺にいるんじゃないかい asks or supposes that Gaap is somewhere nearby.",
+      "alternative": "His next remark says thought you were there, while Gaap denies prior presence and says she was summoned; I know raises the certainty above the Japanese opening.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-023",
+      "kind": "WH",
+      "description": "Jessica says attacked instead of killed.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.voice_state",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              793,
+              795
+            ],
+            "MG": [
+              793,
+              795
+            ],
+            "UP": [
+              793,
+              795
+            ]
+          },
+          "japanese": "「……じ、\n…自分の母さんを、\n……手に掛けるなんて……」",
+          "japanesePC": "「......じ、\n...自分の母さんを、\n......手に掛けるなんて......。」",
+          "japanesePS3": "「……じ、\n…自分の母さんを、\n……手に掛けるなんて……」",
+          "WH": "\"......I,\n...I can't believe,\n......you attacked your own mother......\"",
+          "MG": "\"...I-\nI can't believe...\nyou attacked your own mother...\"",
+          "UP": "\"......I...\n...I can't believe...\n...you killed your own mother......\"",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_9-L0793",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0793"
+            ],
+            "MG": [
+              "umi6_9-L0793"
+            ],
+            "UP": [
+              "umi6_9-L0793"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……じ、…自分の母さんを、……手に掛けるなんて……」",
+              "translation": "\"...I- I can't believe... you attacked your own mother...\" "
+            },
+            "UP": {
+              "japanese": "「……じ、…自分の母さんを、……手に掛けるなんて……」",
+              "translation": "\"......I... ...I can't believe... ...you killed your own mother......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0793"
+            ],
+            "MG": [
+              "umi6_9-L0793"
+            ],
+            "UP": [
+              "umi6_9-L0793"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "自分の母さんを手に掛ける refers to killing his own mother, whose death has just been narrated.",
+      "alternative": "Attack describes part of what occurred, and later dialogue explicitly says kill, but Jessica's immediate horror is at the killing rather than an assault alone.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-024",
+      "kind": "WH",
+      "description": "Call for a volunteer becomes request to name a challenger.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              842,
+              842
+            ],
+            "MG": [
+              842,
+              842
+            ],
+            "UP": [
+              842,
+              842
+            ]
+          },
+          "japanese": "「誰でもいい、次なる挑戦者は名乗り出てほしい！！」",
+          "japanesePC": "「誰でもいい、次なる挑戦者は名乗り出てほしい！！」",
+          "japanesePS3": "「誰でもいい、次なる挑戦者は名乗り出てほしい！！」",
+          "WH": "\"Please name the next challenger!  Any one of you may go!!\"",
+          "MG": "\"Please name the next challenger! Any one of you may go!!\"",
+          "UP": "\"It can be anyone! Let the next challenger step forward!!\"",
+          "note": "Full continuous source-first reading in durable agent reports; parent adjudicated outcomes. UP forever461/506/586 held as emphatic permanent-resolution rhetoric under Eva’s lifelong-control context; no concrete new duration requirement certified. Firm inherited consent393 and curtain agreement688 remain pending; smoking-room830 recurrence belongs existing CH08-023, pending linkage. No firm independent introduced error or proven yellow in tail.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_9-L0842",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0842"
+            ],
+            "MG": [
+              "umi6_9-L0842"
+            ],
+            "UP": [
+              "umi6_9-L0842"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「誰でもいい、次なる挑戦者は名乗り出てほしい！！」",
+              "translation": "\"Please name the next challenger! Any one of you may go!!\" "
+            },
+            "UP": {
+              "japanese": "「誰でもいい、次なる挑戦者は名乗り出てほしい！！」",
+              "translation": "\"It can be anyone! Let the next challenger step forward!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0842"
+            ],
+            "MG": [
+              "umi6_9-L0842"
+            ],
+            "UP": [
+              "umi6_9-L0842"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Furfur asks any next challenger to come forward and identify themselves: 名乗り出てほしい.",
+      "alternative": "Any one of you may go partially retains open participation, but Please name the next challenger instead invites designation of someone.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH08-023",
+      "kind": "WH",
+      "description": "WH describes the tea room as a smoking room.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              830,
+              830
+            ],
+            "MG": [
+              830,
+              830
+            ],
+            "UP": [
+              830,
+              830
+            ]
+          },
+          "japanese": "……この魔女の喫茶室でゲーム盤を囲む“彼ら”には、",
+          "japanesePC": "洋風の喫茶室のように見えた。",
+          "japanesePS3": "……この魔女の喫茶室でゲーム盤を囲む“彼ら”には、",
+          "WH": "It looked like a western smoking room.",
+          "MG": "...but to those who stood around the game board in this witch's smoking room,",
+          "UP": "......but for these ones who sat around the game board in this witch's tea room,",
+          "note": "Same tearoom designation and same WH smoking-room substitution, confirmed against PC85275/85276. Not an edition carryover.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_9-L0829",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0829"
+            ],
+            "UP": [
+              "umi6_9-L0829"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ゲーム盤を唯一の世界とする“彼ら”には、それは痛ましい親殺しだが、……この魔女の喫茶室でゲーム盤を囲む“彼ら”には、……それは親を超える意思を、駒の動きで示しただけに過ぎない。",
+              "translation": "For the versions of themselves to whom the game board was the only world, this was a tragic parricide, ...but to those who stood around the game board in this witch's smoking room, ...it was nothing more than a movement of the pieces, representing George's will to overcome his parents. "
+            },
+            "UP": {
+              "japanese": "ゲーム盤を唯一の世界とする“彼ら”には、それは痛ましい親殺しだが、……この魔女の喫茶室でゲーム盤を囲む“彼ら”には、……それは親を超える意思を、駒の動きで示しただけに過ぎない。",
+              "translation": "For the versions of themselves to whom the game board was the only world, this was a tragic parricide, ......but for these ones who sat around the game board in this witch's tea room, ......it was nothing more than a movement of the pieces, representing George's will to overcome his parents."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0829"
+            ],
+            "UP": [
+              "umi6_9-L0829"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "喫茶室 denotes a room for tea or refreshments; it does not specify a smoking room. The same substitution recurs at PC78967/78968.",
+      "alternative": "A social room could serve both functions, but that possibility does not preserve the source designation. No building-layout or smoking clue claim is made.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-025",
+      "kind": "WH",
+      "description": "WH replaces the lovers’ consent as the sufficient marriage requirement with their love.",
+      "categories": [
+        "linguistic.omission"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              393,
+              393
+            ],
+            "MG": [
+              393,
+              393
+            ],
+            "UP": [
+              393,
+              393
+            ]
+          },
+          "japanese": "……結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、",
+          "japanesePC": "......結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、.........それを親に認めてもらいたいという気持ちは拭えない...。",
+          "japanesePS3": "……結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、",
+          "WH": "......Though he understands that marriage requires nothing more than the love of both people, ......he can't get over his desire for his parents' acceptance...",
+          "MG": "...Though he understands that marriage requires nothing more than the love of two people,",
+          "UP": "......Though he understood that marriage required nothing more than the consent of both people,",
+          "note": "Original PC and coherent paired context verified under ep06-ch09-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_9-L0392",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0392"
+            ],
+            "MG": [
+              "umi6_9-L0392"
+            ],
+            "UP": [
+              "umi6_9-L0392"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "やはり譲治も人の子…。……結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、………それを親に認めてもらいたいという気持ちは拭えない…。",
+              "translation": "Even George is a child of man, after all... ...Though he understands that marriage requires nothing more than the love of two people, ...he can't get over his desire for his parents' acceptance... "
+            },
+            "UP": {
+              "japanese": "やはり譲治も人の子…。……結婚は愛し合う二人の同意さえあれば、他には何もいらないとわかってはいても、………それを親に認めてもらいたいという気持ちは拭えない…。",
+              "translation": "George was, after all, only a child of man... ......Though he understood that marriage required nothing more than the consent of both people, .........he couldn't get over his desire for his parents' acceptance..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0392"
+            ],
+            "MG": [
+              "umi6_9-L0392"
+            ],
+            "UP": [
+              "umi6_9-L0392"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "愛し合う二人の同意 identifies consent of the two people who love each other, not love as a substitute for assent.",
+      "alternative": "Mutual love may suggest willingness in this scene, but explicit consent and love remain distinct requirements.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH09-026",
+      "kind": "WH",
+      "description": "WH uses were with the singular subject the curtain of spiderwebs.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              688,
+              688
+            ],
+            "MG": [
+              688,
+              688
+            ],
+            "UP": [
+              688,
+              688
+            ]
+          },
+          "japanese": "エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。",
+          "japanesePC": "エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。",
+          "japanesePS3": "エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。",
+          "WH": "The curtain of spiderwebs that EVA shot out in defense were all too slow.",
+          "MG": "The curtain of spiderwebs that Eva shot out in defense were all too slow.",
+          "UP": "The curtain of spiderwebs that Eva shot out in defense were all too slow.",
+          "note": "Original PC and coherent paired context verified under ep06-ch09-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_9-L0688",
+          "readerRefs": {
+            "WH": [
+              "umi6_9-L0688"
+            ],
+            "MG": [
+              "umi6_9-L0688"
+            ],
+            "UP": [
+              "umi6_9-L0688"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。譲治はその隙間を縫って、……次の瞬きの時には、眼前に…。",
+              "translation": "The curtain of spiderwebs that Eva shot out in defense were all too slow. George weaved through them in one instant, and the next, he was right before her eyes... "
+            },
+            "UP": {
+              "japanese": "エヴァが遮るように放つ、蜘蛛の巣のカーテンは全て遅い。譲治はその隙間を縫って、……次の瞬きの時には、眼前に…。",
+              "translation": "The curtain of spiderwebs that Eva shot out in defense were all too slow. George weaved through them in that instant, and the next, he was right before her eyes..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_9-L0688"
+            ],
+            "MG": [
+              "umi6_9-L0688"
+            ],
+            "UP": [
+              "umi6_9-L0688"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The English singular head curtain requires was; spiderwebs inside its complement does not control agreement.",
+      "alternative": "Japanese can describe multiple curtains, but the chosen English subject remains singular.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH09-001-120-001",
+      "kind": "additional",
+      "description": "MG replaces Erika’s shrug with a grimace.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              26,
+              26
+            ],
+            "MG": [
+              26,
+              26
+            ],
+            "UP": [
+              26,
+              26
+            ]
+          },
+          "japanese": "ヱリカは肩を竦めて、切り取ったガムテープ片をドラノールに示す。",
+          "japanesePC": "",
+          "japanesePS3": "ヱリカは肩を竦めて、切り取ったガムテープ片をドラノールに示す。",
+          "WH": "",
+          "MG": "Erika grimaced and showed the piece of packing tape she had torn off to Dlanor.",
+          "UP": "Erika shrugged and showed the piece of duct tape she had cut off to Dlanor.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_9-L0026",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0026"
+            ],
+            "UP": [
+              "umi6_9-L0026"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ヱリカは肩を竦めて、切り取ったガムテープ片をドラノールに示す。一見しただけでは、ヱリカが何を不満なのかわからない。\nしかしそれを受け取ってすぐに、違いに気が付いた。",
+              "translation": "Erika grimaced and showed the piece of packing tape she had torn off to Dlanor. At a glance, Dlanor couldn't tell what had annoyed Erika. However, as soon as she held it, she realized the difference right away. "
+            },
+            "UP": {
+              "japanese": "ヱリカは肩を竦めて、切り取ったガムテープ片をドラノールに示す。一見しただけでは、ヱリカが何を不満なのかわからない。\nしかしそれを受け取ってすぐに、違いに気が付いた。",
+              "translation": "Erika shrugged and showed the piece of duct tape she had cut off to Dlanor. By sight alone, Dlanor couldn't tell what had annoyed Erika.\nHowever, as soon as she held the tape, she realized the difference right away."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0026"
+            ],
+            "UP": [
+              "umi6_9-L0026"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP 肩を竦めて and originalPC80728/80729 specify shrugging; MG changes this to a facial expression. UP retains the shrug.",
+      "alternative": "Both can signal annoyance, but the bodily action differs.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH09-121-240-001",
+      "kind": "additional",
+      "description": "MG changes unexpected part-time work into obtaining a new job.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              130,
+              130
+            ],
+            "MG": [
+              130,
+              130
+            ],
+            "UP": [
+              130,
+              130
+            ]
+          },
+          "japanese": "急にバイトが入っちゃって。",
+          "japanesePC": "",
+          "japanesePS3": "急にバイトが入っちゃって。",
+          "WH": "",
+          "MG": "He suddenly got a new part-time job.",
+          "UP": "Work suddenly called him in.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_9-L0129",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0129"
+            ],
+            "UP": [
+              "umi6_9-L0129"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "………先輩の付き合いで断れなくて。急にバイトが入っちゃって。ダチの電話が長くてなかなか切れなくって」",
+              "translation": "...His senior was asking so he had to go. He suddenly got a new part-time job. He said he was talking with a friend on the phone who just wouldn't hang up.\" "
+            },
+            "UP": {
+              "japanese": "………先輩の付き合いで断れなくて。急にバイトが入っちゃって。ダチの電話が長くてなかなか切れなくって」",
+              "translation": " .........A colleague asked him to come and he couldn't turn him down. Work suddenly called him in. His buddy called him up and he couldn't get off the phone.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0129"
+            ],
+            "UP": [
+              "umi6_9-L0129"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP 急にバイトが入っちゃって describes unexpected work arising; originalPC81079/81081 and UP preserve being called to work. MG suddenly got a new part-time job instead describes new employment.",
+      "alternative": "Got a job can mean receiving a task, but new part-time job normally means acquiring employment, not an unexpected shift.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-083",
+      "kind": "PC",
+      "description": "PC includes ブス, rendered bitch in original WH and retained by MG. PS3 removes this insult and UP follows that removal. This is PC-derived material; yellow does not certify bitch as a faithful translation of the appearance insult.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_9",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              178,
+              178
+            ],
+            "MG": [
+              178,
+              178
+            ],
+            "UP": [
+              178,
+              178
+            ]
+          },
+          "japanese": "帰れよ、",
+          "japanesePC": "帰れよブス、",
+          "japanesePS3": "帰れよ、",
+          "WH": "just go home, bitch,",
+          "MG": "just go home, bitch,",
+          "UP": "just go home,",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi6_9-L0176",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0176"
+            ],
+            "UP": [
+              "umi6_9-L0176"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "つかさ、そこまで俺が信用できないんなら、もう俺たちは終わってんだよ。来んなよ、帰れよ、お前なんかもう愛してねぇよ。",
+              "translation": "And anyway, if you really find it that hard to trust me, we're through. Stay away, just go home, bitch, I don't love you anymore. "
+            },
+            "UP": {
+              "japanese": "つかさ、そこまで俺が信用できないんなら、もう俺たちは終わってんだよ。来んなよ、帰れよ、お前なんかもう愛してねぇよ。",
+              "translation": "You know what, if you really find it that hard to trust me, we're through. Don't bother coming over again, just go home, I don't love you anymore."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_9-L0176"
+            ],
+            "UP": [
+              "umi6_9-L0176"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC includes ブス, rendered bitch in original WH and retained by MG. PS3 removes this insult and UP follows that removal. This is PC-derived material; yellow does not certify bitch as a faithful translation of the appearance insult.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-CH09-001": {
+      "umi6_9-L0126": {
+        "WH": [
+          "A different style of cologne"
+        ],
+        "MG": [
+          "A type of cologne that didn't suit him"
+        ],
+        "UP": [
+          "A different style of cologne"
+        ]
+      },
+      "umi6_9-L0129": {
+        "WH": [
+          "A different style of cologne"
+        ]
+      }
+    },
+    "WH-EP06-CH09-002": {
+      "umi6_9-L0132": {
+        "WH": [
+          "The toilet seat was left down"
+        ]
+      },
+      "umi6_9-L0136": {
+        "WH": [
+          "The toilet seat was left down"
+        ],
+        "MG": [
+          "The toilet seat was left down"
+        ],
+        "UP": [
+          "The toilet seat was left down"
+        ]
+      },
+      "umi6_9-L0140": {
+        "WH": [
+          "The toilet seat was left down"
+        ]
+      }
+    },
+    "WH-EP06-CH09-003": {
+      "umi6_9-L0132": {
+        "WH": [
+          "drain and sink"
+        ]
+      },
+      "umi6_9-L0136": {
+        "WH": [
+          "drain and sink"
+        ]
+      },
+      "umi6_9-L0140": {
+        "WH": [
+          "drain and sink"
+        ],
+        "MG": [
+          "drain and sink"
+        ],
+        "UP": [
+          "drain and sink"
+        ]
+      }
+    },
+    "WH-EP06-CH09-004": {
+      "umi6_9-L0144": {
+        "WH": [
+          "Monday"
+        ],
+        "UP": [
+          "Monday"
+        ]
+      }
+    },
+    "WH-EP06-CH09-005": {
+      "umi6_9-L0161": {
+        "WH": [
+          "I'm seriously worn out"
+        ]
+      },
+      "umi6_9-L0165": {
+        "WH": [
+          "I'm seriously worn out"
+        ]
+      },
+      "umi6_9-L0169": {
+        "WH": [
+          "I'm seriously worn out"
+        ],
+        "MG": [
+          "I'm seriously worn out"
+        ],
+        "UP": [
+          "I'm seriously tired of this"
+        ]
+      },
+      "umi6_9-L0172": {
+        "WH": [
+          "I'm seriously worn out"
+        ]
+      }
+    },
+    "WH-EP06-CH09-006": {
+      "umi6_9-L0161": {
+        "WH": [
+          "this senior girl"
+        ]
+      },
+      "umi6_9-L0165": {
+        "WH": [
+          "this senior girl"
+        ]
+      },
+      "umi6_9-L0169": {
+        "WH": [
+          "this senior girl"
+        ]
+      },
+      "umi6_9-L0172": {
+        "WH": [
+          "this senior girl"
+        ],
+        "UP": [
+          "One of my colleagues"
+        ]
+      }
+    },
+    "WH-EP06-CH09-007": {
+      "PC-CANDIDATE-EP06-09-V002": {
+        "WH": [
+          "go home, bitch"
+        ]
+      },
+      "PC-CANDIDATE-EP06-09-V003": {
+        "WH": [
+          "go home, bitch"
+        ]
+      }
+    },
+    "WH-EP06-CH09-008": {
+      "umi6_9-L0223": {
+        "WH": [
+          "regardless of the actual circumstances"
+        ],
+        "MG": [
+          "regardless of the actual circumstances"
+        ],
+        "UP": [
+          "regardless of the actual circumstances"
+        ]
+      }
+    },
+    "WH-EP06-CH09-009": {
+      "umi6_9-L0244": {
+        "WH": [
+          "already checkmate from the very beginning"
+        ],
+        "MG": [
+          "already checkmate from the very beginning"
+        ],
+        "UP": [
+          "already checkmate from the very beginning"
+        ]
+      }
+    },
+    "WH-EP06-CH09-010": {
+      "umi6_9-L0363": {
+        "WH": [
+          "then just tell her that"
+        ],
+        "MG": [
+          "then just tell her that"
+        ]
+      }
+    },
+    "WH-EP06-CH09-011": {
+      "umi6_9-L0367": {
+        "WH": [
+          "You aren't pushing that engagement for the sake of anyone but yourself"
+        ],
+        "MG": [
+          "You aren't pushing that engagement for the sake of anyone but yourself"
+        ],
+        "UP": [
+          "You aren't pushing that engagement for the sake of anyone but yourself"
+        ]
+      }
+    },
+    "WH-EP06-CH09-012": {
+      "umi6_9-L0372": {
+        "WH": [
+          "What's a parent's job?! It's to look after the long-term welfare of their children, right?!"
+        ],
+        "MG": [
+          "What is a parent's job?! It's to look after the long-term welfare of their children, right?!"
+        ]
+      },
+      "umi6_9-L0375": {
+        "WH": [
+          "What's a parent's job?! It's to look after the long-term welfare of their children, right?!"
+        ]
+      }
+    },
+    "WH-EP06-CH09-013": {
+      "umi6_9-L0463": {
+        "WH": [
+          "had finally obtained everything of the Ushiromiya family"
+        ],
+        "MG": [
+          "had finally obtained everything of the Ushiromiya family"
+        ],
+        "UP": [
+          "had finally obtained everything of the Ushiromiya family"
+        ]
+      }
+    },
+    "WH-EP06-CH09-014": {
+      "umi6_9-L0499": {
+        "WH": [
+          "being tied down by countless studies",
+          "raised for the sake of your ambitions"
+        ],
+        "MG": [
+          "being tied down by countless studies",
+          "raised for the sake of your ambitions"
+        ],
+        "UP": {
+          "kind": "anchor-mismatch",
+          "reason": "The UP unit restores lifelong instruction and sole purpose with a life of constant instruction and solely for your ambitions."
+        }
+      }
+    },
+    "WH-EP06-CH09-015": {
+      "umi6_9-L0510": {
+        "WH": [
+          "EVA's insane laugh was as innocent"
+        ],
+        "UP": [
+          "Eva's insane laugh was as innocent"
+        ]
+      }
+    },
+    "WH-EP06-CH09-016": {
+      "umi6_9-L0581": {
+        "WH": [
+          "If you show that you're willing to reform yourself"
+        ],
+        "MG": [
+          "If you can show that you're willing to reform yourself"
+        ],
+        "UP": [
+          "If you show that you're willing to reform yourself"
+        ]
+      }
+    },
+    "WH-EP06-CH09-017": {
+      "umi6_9-L0589": {
+        "WH": [
+          "I've found",
+          "I've paved the way towards success in everything"
+        ],
+        "MG": [
+          "I've found"
+        ]
+      }
+    },
+    "WH-EP06-CH09-018": {
+      "umi6_9-L0601": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The spread-eagled posture in which George is pinned to the web is absent."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "The spread-eagled posture in which George is pinned to the web is absent."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "George's blood-covered body spread-eagled and pinned to the web is absent; only being caught remains."
+        }
+      }
+    },
+    "WH-EP06-CH09-019": {
+      "umi6_9-L0626": {
+        "WH": [
+          "wiped the mud away"
+        ],
+        "UP": [
+          "wiped the mud away"
+        ],
+        "MG": [
+          "wiped the mud away"
+        ]
+      }
+    },
+    "WH-EP06-CH09-020": {
+      "umi6_9-L0656": {
+        "WH": [
+          "She taught me"
+        ],
+        "MG": [
+          "She taught me"
+        ],
+        "UP": [
+          "She taught me"
+        ]
+      }
+    },
+    "WH-EP06-CH09-021": {
+      "umi6_9-L0732": {
+        "WH": [
+          "made time freeze"
+        ],
+        "UP": [
+          "made time freeze"
+        ],
+        "MG": [
+          "made time freeze"
+        ]
+      }
+    },
+    "WH-EP06-CH09-022": {
+      "umi6_9-L0746": {
+        "WH": [
+          "I know you're somewhere over there"
+        ],
+        "MG": [
+          "I know you're somewhere over there"
+        ],
+        "UP": [
+          "I know you're somewhere over there"
+        ]
+      }
+    },
+    "WH-EP06-CH09-023": {
+      "umi6_9-L0793": {
+        "WH": [
+          "attacked your own mother"
+        ],
+        "MG": [
+          "attacked your own mother"
+        ]
+      }
+    },
+    "WH-EP06-CH09-024": {
+      "umi6_9-L0842": {
+        "WH": [
+          "Please name the next challenger"
+        ],
+        "MG": [
+          "Please name the next challenger"
+        ]
+      }
+    },
+    "WH-EP06-CH08-023": {
+      "umi6_9-L0829": {
+        "MG": [
+          "smoking room"
+        ]
+      }
+    },
+    "WH-EP06-CH09-025": {
+      "umi6_9-L0392": {
+        "WH": [
+          "the love of both people"
+        ],
+        "MG": [
+          "the love of two people"
+        ]
+      }
+    },
+    "WH-EP06-CH09-026": {
+      "umi6_9-L0688": {
+        "WH": [
+          "The curtain of spiderwebs that EVA shot out in defense were"
+        ],
+        "MG": [
+          "The curtain of spiderwebs that Eva shot out in defense were"
+        ],
+        "UP": [
+          "The curtain of spiderwebs that Eva shot out in defense were"
+        ]
+      }
+    },
+    "PAIR-EP06-CH09-001-120-001": {
+      "umi6_9-L0026": {
+        "MG": [
+          "Erika grimaced"
+        ]
+      }
+    },
+    "PAIR-EP06-CH09-121-240-001": {
+      "umi6_9-L0129": {
+        "MG": [
+          "He suddenly got a new part-time job"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

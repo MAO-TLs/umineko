@@ -1,7 +1,7 @@
 import { EDITIONS, COMPARISONS, readState, columnsFor, stateURL, matches, syncReaderSelections } from './editions.mjs?v=selection-20261013-1';
-import { renderPassage } from './passage.mjs?v=audit-20261013-1';
+import { renderPassage } from './passage.mjs?v=phrases-20261014-2';
 import { groupPassages } from './groups.mjs?v=audit-20261013-1';
-import { annotateRows, annotateGroups } from './audit.mjs?v=audit-20261013-1';
+import { annotateRows, annotateGroups } from './audit.mjs?v=phrases-20261014-2';
 const $ = id => document.getElementById(id);
 const el = (tag, cls = '', text) => { const n = document.createElement(tag); n.className = cls; if (text !== undefined) n.textContent = text; return n; };
 const cache = new Map();
@@ -12,7 +12,7 @@ async function json(path) {
   return response.json();
 }
 function cached(path) {
-  if (!cache.has(path)) cache.set(path, json('../data/' + path + '.json').catch(error => { cache.delete(path); throw error; }));
+  if (!cache.has(path)) cache.set(path, json('../data/' + path + '.json' + (path.startsWith('audit/') ? '?v=phrases-20261014-2' : /^(pc|ps3)\//.test(path) ? '?v=linebreaks-20261014-1' : '')).catch(error => { cache.delete(path); throw error; }));
   return cache.get(path);
 }
 async function load(chapter, edition, compare = state.compare, errors = state.errors) {

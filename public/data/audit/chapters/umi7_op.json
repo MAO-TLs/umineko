@@ -1,1 +1,1048 @@
-{"findings":[{"id":"WH-EP07-OPEN-001","kind":"WH","description":"The incoming wave becomes the receding wave.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence","world.world_fact"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[10,10],"MG":[10,10],"UP":[10,10]},"japanese":"それは波が寄せる度に、真っ白に戻ってしまう儚きもの。","japanesePC":"それは波が寄せる度に、真っ白に戻ってしまう儚きもの。","japanesePS3":"それは波が寄せる度に、真っ白に戻ってしまう儚きもの。","WH":"Something so fragile that it is wiped blank each time the waves draw back.","MG":"Something so fragile that it's wiped blank every time a wave comes in.","UP":"Something so fragile that it is wiped blank each time the waves draw back.","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi7_op-L0007","readerRefs":{"WH":["umi7_op-L0007"],"MG":["umi7_op-L0007"],"UP":["umi7_op-L0007"]}}],"sourceReading":"The drawing in sand is wiped blank each time a wave comes in.","alternative":"A receding wave can also disturb sand, but 寄せる names its incoming motion. The prior coming-and-receding phrase distinguishes the two motions explicitly.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-002","kind":"WH","description":"Forbidden reading becomes inability to read.","categories":["linguistic.word_choice","mystery.truth_authority","world.world_layer"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[70,70],"MG":[70,70],"UP":[70,70]},"japanese":"だから棺の中のお前以外、誰にも読むことを、許されない。","japanesePC":"だから棺の中のお前以外、誰にも読むことを、許されない。","japanesePS3":"だから棺の中のお前以外、誰にも読むことを、許されない。","WH":"So, no one will be able to read it except for you, there in your coffin.","MG":"So, no one will be able to read it except for you, there in your coffin.","UP":"So, no one will be able to read it except for you in your casket.","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_op-L0069","readerRefs":{"WH":["umi7_op-L0069"],"MG":["umi7_op-L0069"],"UP":["umi7_op-L0069"]}}],"sourceReading":"No one except the beloved inside the coffin is permitted to read the tale.","alternative":"Physical closure suggests inaccessibility, but 読むことを許されない expressly concerns permission. Able to read replaces the prohibition with a capability claim.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-003","kind":"WH","description":"Battler’s final look back becomes turning away.","categories":["linguistic.mistranslation","character.motivation_emotion","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[137,137],"MG":[137,137],"UP":[137,137]},"japanese":"ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、","japanesePC":"ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、.........礼拝堂を後にした。","japanesePS3":"ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、","WH":"After seeing Virgilia nod back at him, Battler turned away from the altar one more time......and left the chapel.","MG":"After seeing Virgilia nod back at him, Battler turned away from the altar one more time...","UP":"After seeing Virgilia nod back at him, Battler turned away from the altar one more time...","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_op-L0137","readerRefs":{"WH":["umi7_op-L0137"],"MG":["umi7_op-L0137"],"UP":["umi7_op-L0137"]}}],"sourceReading":"After Virgilia nods, Battler turns back toward the altar once more and then leaves the chapel.","alternative":"He ultimately does leave, but the Japanese explicitly inserts one last look toward the altar before departure. Turning away reverses that farewell gesture.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-004","kind":"WH","description":"Refusing to admit guilt becomes lacking repentance.","categories":["linguistic.word_choice","character.viewpoint_attribution","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[161,161],"MG":[161,161],"UP":[161,161]},"japanese":"我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え」","japanesePC":"我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え。」","japanesePS3":"我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え」","WH":"Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\"","MG":"Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\"","UP":"Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\"","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_op-L0155","readerRefs":{"WH":["umi7_op-L0155"],"MG":["umi7_op-L0155"],"UP":["umi7_op-L0155"]}}],"sourceReading":"SSVD says it can force criminals who do not admit their guilt to confess the truth.","alternative":"Unrepentant can fit the institution’s moral rhetoric, but repentance is remorse rather than admission. The maid explicitly denies committing the crime; guilt refusal is the condition named here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-005","kind":"WH","description":"Stretching the limbs disappears from the torture threat.","categories":["linguistic.omission","character.relationship_power"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[162,162],"MG":[162,162],"UP":[162,162]},"japanese":"「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。","japanesePC":"「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。そこより赤き真実を絞り出してみせることを、申し上げ奉る。......自白すらも不要！","japanesePS3":"「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。","WH":"\"With these interrogation tools blessed by the powers of justice, we Inquisitors of Heresy will strap up your limbs, burn them, crush them, hang you by them, and so doing wring the red truth out of you.  ......It isn't even necessary for you to confess!","MG":"\"With these interrogation tools blessed by the powers of justice, we Inquisitors of Heresy will strap up your limbs, burn you, crush you, stretch you and hang you,","UP":"\"Be advised that with these interrogation tools blessed by the powers of justice, we Inquisitors will strap up your limbs, burn them, crush them, hang you by them,","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi7_op-L0162","readerRefs":{"WH":["umi7_op-L0162"],"MG":["umi7_op-L0162"],"UP":["umi7_op-L0162"]}}],"sourceReading":"The inquisitor lists constricting, burning, crushing, stretching and hanging the maid’s limbs.","alternative":"The English keeps most of the brutality and the truth-extraction claim, but omits 引き伸ばして, stretching. This is a bounded omission rather than a claim that the whole violence was softened away.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-006","kind":"WH","description":"Weariness at motive supremacy becomes embarrassment at a focus.","categories":["linguistic.mistranslation","character.voice_state","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[179,179],"MG":[179,179],"UP":[179,179]},"japanese":"「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！","japanesePC":"「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え...！","japanesePS3":"「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！","WH":"\"Kn, know that your focus on the 'why dunnit' is simply embarrassing...!","MG":"\"Kn-Know that your obsession over the \"why dunnit\" is simply embarrassing...!","UP":"\"Kn‐know that your focus on the whydunit is simply embarrassing...!","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"partially_corrected","UP":"retained"},"readerRef":"umi7_op-L0179","readerRefs":{"WH":["umi7_op-L0179"],"MG":["umi7_op-L0179"],"UP":["umi7_op-L0179"]}}],"sourceReading":"The inquisitor says Will’s insistence on whydunit supremacy disgusts or exhausts her.","alternative":"Embarrassing conveys disapproval, but 辟易 is being fed up or repelled. Focus also weakens 至上主義, the accusation that he treats motive as supreme.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-007","kind":"WH","description":"The noon chime becomes midnight.","categories":["linguistic.mistranslation","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[187,187],"MG":[187,187],"UP":[187,187]},"japanese":"大広間の時計の音は正確に正午を刻んだか？","japanesePC":"......他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」","japanesePS3":"大広間の時計の音は正確に正午を刻んだか？","WH":"......Just look at how pathetic some of these other alibis are.  Did the clock in the reception hall chime midnight at exactly the right time?  Did the dog by the back door bark at everyone?\"","MG":"Did the clock in the reception hall chime midnight at exactly the right time?","UP":"Did the clock in the reception hall chime midnight at exactly the right time?","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_op-L0179","readerRefs":{"WH":["umi7_op-L0179"],"MG":["umi7_op-L0179"],"UP":["umi7_op-L0179"]}}],"sourceReading":"Will asks whether the hall clock sounded noon at the correct time, challenging another suspect’s alibi.","alternative":"Both noon and midnight concern twelve o’clock, but 正午 unambiguously specifies midday. This is not an ambiguity in the source’s time.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-008","kind":"WH","description":"Explaining would take forever becomes inability to understand.","categories":["linguistic.overinterpretation","character.voice_state","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[233,233],"MG":[233,233],"UP":[233,233]},"japanese":"ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。","japanesePC":"「あの程度でアリバイかよ。ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。","japanesePS3":"ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。","WH":"\"That, an alibi?  Dammit, a fool like you couldn't understand no matter how easy I make it for you.","MG":"Dammit, a fool like you couldn't understand no matter how easy I make it for you.","UP":"Dammit, a fool like you couldn't understand no matter how easy I make it for you.","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_op-L0231","readerRefs":{"WH":["umi7_op-L0231"],"MG":["umi7_op-L0231"],"UP":["umi7_op-L0231"]}}],"sourceReading":"Will says explaining so that the fool can understand would take more time than he has and be a nuisance.","alternative":"Couldn’t understand no matter how easy I make it keeps the insult but asserts permanent incapacity, whereas the source complains about the time and bother of making her understand.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-009","kind":"WH","description":"A rough injunction to be happy becomes a prediction.","categories":["linguistic.mistranslation","character.voice_state","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[274,274],"MG":[274,274],"UP":[274,274]},"japanese":"「……きっと彼氏と幸せになりやがれ。","japanesePC":"「......きっと彼氏と幸せになりやがれ。だが、勤務中に逢引きするのは、あまり褒められねェな。時々にしとくんだな。」","japanesePS3":"「……きっと彼氏と幸せになりやがれ。","WH":"\"......I'm sure you two will be happy together.  Still, meeting together in secret while on the job is hardly praiseworthy.  Try to keep that to a minimum.\"","MG":"\"...I'm sure you two will be happy together.","UP":"\"......I'm sure you two will be happy together.","note":"Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_op-L0274","readerRefs":{"WH":["umi7_op-L0274"],"MG":["umi7_op-L0274"],"UP":["umi7_op-L0274"]}}],"sourceReading":"Will tells the maid, in his rough but kind manner, to be happy with her boyfriend without fail.","alternative":"I’m sure you two will be happy conveys goodwill, but なるような imperative 幸せになりやがれ is an injunction or blessing, not a forecast. The remainder of his scolding advice does not restore it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-OPEN-010","kind":"WH","description":"WH changes the court swallowing a conditional culprit inference into the court assuming the other suspects have alibis.","categories":["linguistic.logical_relation"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[183,183],"MG":[183,183],"UP":[183,183]},"japanese":"「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、","japanesePC":"「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。","japanesePS3":"「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、","WH":"\"Oh, the Great Court does assume that everyone besides the maid has an alibi.  But that's just because they heard you say so, and they've mistaken your overconfidence and conceit for wisdom.  If any one of the other suspects loses their alibi, your evidence so far proves nothing.","MG":"\"True, the Great Court does assume that everyone besides the maid has an alibi.","UP":"\"The Great Court has heard your argument that the maid must be guilty because everyone besides her has an alibi,","note":"Original PC and coherent paired context verified under ep07-opening-supplement-a-2026-10-13","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_op-L0179","readerRefs":{"WH":["umi7_op-L0179"],"MG":["umi7_op-L0179"],"UP":["umi7_op-L0179"]}}],"sourceReading":"Source says the court accepted the investigator’s self-serving if-everyone-else-has-alibis inference that the maid must be guilty. MG changes what the court accepted to the alibi premise; UP restores the culprit inference across183–184.","alternative":"182 and185 allow readers to reconstruct the elimination argument, but the explicit object of court acceptance and conditional reasoning are altered.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-OPEN-001-120-001","kind":"additional","description":"MG omits to before the recipient in the tale I have to offer up you.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_op","episode":7,"rows":{"JP":[68,68],"MG":[68,68],"UP":[68,68]},"japanese":"……唯一の物語だ」","japanesePC":"","japanesePS3":"……唯一の物語だ」","WH":"","MG":"the sole tale I have to offer up you.\"","UP":"......The only one there will ever be.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_op-L0067","readerRefs":{"WH":[],"MG":["umi7_op-L0067"],"UP":["umi7_op-L0067"]}}],"sourceReading":"The tale is the object offered and you the recipient, requiring offer up to you. Original PC125670–125674 and UP retain grammatical gift wording.","alternative":"Offer up can take a sacrificial object, but tale already fills that role here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-OPEN-001",
+      "kind": "WH",
+      "description": "The incoming wave becomes the receding wave.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence",
+        "world.world_fact"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              10,
+              10
+            ],
+            "MG": [
+              10,
+              10
+            ],
+            "UP": [
+              10,
+              10
+            ]
+          },
+          "japanese": "それは波が寄せる度に、真っ白に戻ってしまう儚きもの。",
+          "japanesePC": "それは波が寄せる度に、真っ白に戻ってしまう儚きもの。",
+          "japanesePS3": "それは波が寄せる度に、真っ白に戻ってしまう儚きもの。",
+          "WH": "Something so fragile that it is wiped blank each time the waves draw back.",
+          "MG": "Something so fragile that it's wiped blank every time a wave comes in.",
+          "UP": "Something so fragile that it is wiped blank each time the waves draw back.",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0007",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0007"
+            ],
+            "MG": [
+              "umi7_op-L0007"
+            ],
+            "UP": [
+              "umi7_op-L0007"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "夢とは、寄せては返す波間の真砂に描くもの。それは波が寄せる度に、真っ白に戻ってしまう儚きもの。",
+              "translation": " A dream is something drawn in the sand between the coming and receding waves.  Something so fragile that it's wiped blank every time a wave comes in. "
+            },
+            "UP": {
+              "japanese": "夢とは、寄せては返す波間の真砂に描くもの。それは波が寄せる度に、真っ白に戻ってしまう儚きもの。",
+              "translation": "A dream is something drawn in the sand between the coming and receding waves. Something so fragile that it is wiped blank each time the waves draw back."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0007"
+            ],
+            "MG": [
+              "umi7_op-L0007"
+            ],
+            "UP": [
+              "umi7_op-L0007"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The drawing in sand is wiped blank each time a wave comes in.",
+      "alternative": "A receding wave can also disturb sand, but 寄せる names its incoming motion. The prior coming-and-receding phrase distinguishes the two motions explicitly.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-002",
+      "kind": "WH",
+      "description": "Forbidden reading becomes inability to read.",
+      "categories": [
+        "linguistic.word_choice",
+        "mystery.truth_authority",
+        "world.world_layer"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              70,
+              70
+            ],
+            "MG": [
+              70,
+              70
+            ],
+            "UP": [
+              70,
+              70
+            ]
+          },
+          "japanese": "だから棺の中のお前以外、誰にも読むことを、許されない。",
+          "japanesePC": "だから棺の中のお前以外、誰にも読むことを、許されない。",
+          "japanesePS3": "だから棺の中のお前以外、誰にも読むことを、許されない。",
+          "WH": "So, no one will be able to read it except for you, there in your coffin.",
+          "MG": "So, no one will be able to read it except for you, there in your coffin.",
+          "UP": "So, no one will be able to read it except for you in your casket.",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0069",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0069"
+            ],
+            "MG": [
+              "umi7_op-L0069"
+            ],
+            "UP": [
+              "umi7_op-L0069"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "この物語は、お前と一緒に、永遠に棺に閉ざされる。だから棺の中のお前以外、誰にも読むことを、許されない。",
+              "translation": "This tale will be shut up with you in your coffin, for all eternity. So, no one will be able to read it except for you, there in your coffin. "
+            },
+            "UP": {
+              "japanese": "この物語は、お前と一緒に、永遠に棺に閉ざされる。だから棺の中のお前以外、誰にも読むことを、許されない。",
+              "translation": "This tale will be shut up with you in your casket for all eternity. So, no one will be able to read it except for you in your casket."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0069"
+            ],
+            "MG": [
+              "umi7_op-L0069"
+            ],
+            "UP": [
+              "umi7_op-L0069"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "No one except the beloved inside the coffin is permitted to read the tale.",
+      "alternative": "Physical closure suggests inaccessibility, but 読むことを許されない expressly concerns permission. Able to read replaces the prohibition with a capability claim.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-003",
+      "kind": "WH",
+      "description": "Battler’s final look back becomes turning away.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              137,
+              137
+            ],
+            "MG": [
+              137,
+              137
+            ],
+            "UP": [
+              137,
+              137
+            ]
+          },
+          "japanese": "ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、",
+          "japanesePC": "ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、.........礼拝堂を後にした。",
+          "japanesePS3": "ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、",
+          "WH": "After seeing Virgilia nod back at him, Battler turned away from the altar one more time......and left the chapel.",
+          "MG": "After seeing Virgilia nod back at him, Battler turned away from the altar one more time...",
+          "UP": "After seeing Virgilia nod back at him, Battler turned away from the altar one more time...",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0137",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0137"
+            ],
+            "MG": [
+              "umi7_op-L0137"
+            ],
+            "UP": [
+              "umi7_op-L0137"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、………礼拝堂を後にした。ワルギリアも姿を消し、………礼拝堂からは、彼女の幸福な夢を、その眠りから覚まして乱そうとする全ての音と気配が、消え去るのだった…。",
+              "translation": "After seeing Virgilia nod back at him, Battler turned away from the altar one more time... ...and left the chapel. Virgilia also disappeared, ...and with that, all disturbances that might have interrupted \"her\" blissful sleep had vanished... "
+            },
+            "UP": {
+              "japanese": "ワルギリアが頷き返すのを見届けると、戦人はもう一度だけ祭壇に振り返ってから、………礼拝堂を後にした。ワルギリアも姿を消し、………礼拝堂からは、彼女の幸福な夢を、その眠りから覚まして乱そうとする全ての音と気配が、消え去るのだった…。",
+              "translation": "After seeing Virgilia nod back at him, Battler turned away from the altar one more time... ......and left the chapel. Virgilia also disappeared, ......and all disturbances that might have interrupted her blissful sleep were gone..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0137"
+            ],
+            "MG": [
+              "umi7_op-L0137"
+            ],
+            "UP": [
+              "umi7_op-L0137"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After Virgilia nods, Battler turns back toward the altar once more and then leaves the chapel.",
+      "alternative": "He ultimately does leave, but the Japanese explicitly inserts one last look toward the altar before departure. Turning away reverses that farewell gesture.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-004",
+      "kind": "WH",
+      "description": "Refusing to admit guilt becomes lacking repentance.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.viewpoint_attribution",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              161,
+              161
+            ],
+            "MG": [
+              161,
+              161
+            ],
+            "UP": [
+              161,
+              161
+            ]
+          },
+          "japanese": "我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え」",
+          "japanesePC": "我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え。」",
+          "japanesePS3": "我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え」",
+          "WH": "Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\"",
+          "MG": "Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\"",
+          "UP": "Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\"",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0155",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0155"
+            ],
+            "MG": [
+              "umi7_op-L0155"
+            ],
+            "UP": [
+              "umi7_op-L0155"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「貴女が如何にして犯行に及んだか。その告発は大法院にて受理され、貴女の逮捕を許可したことを知り給え。此れが貴女の逮捕状也や。動機など不要。犯人の特定には一切不要のものと知り給え。その上で謹んで申し上げる。我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え」",
+              "translation": "\"This is how you committed the crime. Know that this indictment has been received by the Great Court and that your arrest has been approved. Here is the warrant for your arrest. Motive is unnecessary. Know that such a thing is completely extraneous to the matter of pinpointing the culprit. Please, allow me to speak. Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\" "
+            },
+            "UP": {
+              "japanese": "「貴女が如何にして犯行に及んだか。その告発は大法院にて受理され、貴女の逮捕を許可したことを知り給え。此れが貴女の逮捕状也や。動機など不要。犯人の特定には一切不要のものと知り給え。その上で謹んで申し上げる。我らがＳＳＶＤは、罪を認めぬ犯罪者に真実を告白させる強制的手段を持つと知り給え」",
+              "translation": "\"This is how you committed the crime. Know that this indictment has been received by the Great Court and that your arrest has been approved. Here is the warrant for your arrest. The motive is unnecessary. Know that such a thing is completely extraneous in the matter of pinpointing the culprit. With that in mind, I beg to inform you of the following. Know that we of the SSVD possess methods of forcing unrepentant criminals to reveal the truth.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0155"
+            ],
+            "MG": [
+              "umi7_op-L0155"
+            ],
+            "UP": [
+              "umi7_op-L0155"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "SSVD says it can force criminals who do not admit their guilt to confess the truth.",
+      "alternative": "Unrepentant can fit the institution’s moral rhetoric, but repentance is remorse rather than admission. The maid explicitly denies committing the crime; guilt refusal is the condition named here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-005",
+      "kind": "WH",
+      "description": "Stretching the limbs disappears from the torture threat.",
+      "categories": [
+        "linguistic.omission",
+        "character.relationship_power"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              162,
+              162
+            ],
+            "MG": [
+              162,
+              162
+            ],
+            "UP": [
+              162,
+              162
+            ]
+          },
+          "japanese": "「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。",
+          "japanesePC": "「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。そこより赤き真実を絞り出してみせることを、申し上げ奉る。......自白すらも不要！",
+          "japanesePS3": "「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。",
+          "WH": "\"With these interrogation tools blessed by the powers of justice, we Inquisitors of Heresy will strap up your limbs, burn them, crush them, hang you by them, and so doing wring the red truth out of you.  ......It isn't even necessary for you to confess!",
+          "MG": "\"With these interrogation tools blessed by the powers of justice, we Inquisitors of Heresy will strap up your limbs, burn you, crush you, stretch you and hang you,",
+          "UP": "\"Be advised that with these interrogation tools blessed by the powers of justice, we Inquisitors will strap up your limbs, burn them, crush them, hang you by them,",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0162",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0162"
+            ],
+            "MG": [
+              "umi7_op-L0162"
+            ],
+            "UP": [
+              "umi7_op-L0162"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。そこより赤き真実を絞り出してみせることを、申し上げ奉る。……自白すらも不要！　補佐官一同、そのメイドを逮捕し奉れっ！」「私じゃないですッ、私は旦那様を殺したりなんかしません…！！　い、嫌ッ、嫌ぁあああぁああぁあ！！」",
+              "translation": "\"With these interrogation tools blessed by the powers of justice, we Inquisitors of Heresy will strap up your limbs, burn you, crush you, stretch you and hang you, and in so doing wring the red truth out of you. ...It isn't even necessary for you to confess! Aides, arrest that maid!\" \"It wasn't me! I didn't kill the master...!! N-No, noooooooooo!!\" "
+            },
+            "UP": {
+              "japanese": "「我らが異端審問官が、正義にて祝福された審問具にて、貴女の四肢を絞り上げて、焼いて潰して引き伸ばして吊し上げ。そこより赤き真実を絞り出してみせることを、申し上げ奉る。……自白すらも不要！　補佐官一同、そのメイドを逮捕し奉れっ！」「私じゃないですッ、私は旦那様を殺したりなんかしません…！！　い、嫌ッ、嫌ぁあああぁああぁあ！！」",
+              "translation": "\"Be advised that with these interrogation tools blessed by the powers of justice, we Inquisitors will strap up your limbs, burn them, crush them, hang you by them, and thereby wring the red truth out of you. ......It isn't even necessary for you to confess! Aides, arrest that maid!\" \"It wasn't me! I didn't kill the master...!! N‐no, nooo{-o{-o{-o{-o{-o{-oo!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0162"
+            ],
+            "MG": [
+              "umi7_op-L0162"
+            ],
+            "UP": [
+              "umi7_op-L0162"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The inquisitor lists constricting, burning, crushing, stretching and hanging the maid’s limbs.",
+      "alternative": "The English keeps most of the brutality and the truth-extraction claim, but omits 引き伸ばして, stretching. This is a bounded omission rather than a claim that the whole violence was softened away.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-006",
+      "kind": "WH",
+      "description": "Weariness at motive supremacy becomes embarrassment at a focus.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              179,
+              179
+            ],
+            "MG": [
+              179,
+              179
+            ],
+            "UP": [
+              179,
+              179
+            ]
+          },
+          "japanese": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！",
+          "japanesePC": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え...！",
+          "japanesePS3": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！",
+          "WH": "\"Kn, know that your focus on the 'why dunnit' is simply embarrassing...!",
+          "MG": "\"Kn-Know that your obsession over the \"why dunnit\" is simply embarrassing...!",
+          "UP": "\"Kn‐know that your focus on the whydunit is simply embarrassing...!",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0179",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0179"
+            ],
+            "MG": [
+              "umi7_op-L0179"
+            ],
+            "UP": [
+              "umi7_op-L0179"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！　ホワイダニットなど無用！　審問すれば斯様なもの、容易に絞り出せるもの也や！　大法院も、その女が犯人であることを認めたもの也…！！」「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。……他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」",
+              "translation": "\"Kn-Know that your obsession over the \"why dunnit\" is simply embarrassing...! The \"why dunnit\" is unnecessary! Such a thing can be extracted easily through interrogation! Even the Great Court has already acknowledged that this woman is the culprit...!!\" \"True, the Great Court does assume that everyone besides the maid has an alibi. But that's just because they heard you say so, and they've mistaken your overconfidence and conceit for wisdom. If any one of the other suspects loses their alibi, your evidence so far proves nothing. ...Just look at how pathetic some of these other alibis are. Did the clock in the reception hall chime midnight at exactly the right time? Did the dog by the back door bark at everyone?\" "
+            },
+            "UP": {
+              "japanese": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！　ホワイダニットなど無用！　審問すれば斯様なもの、容易に絞り出せるもの也や！　大法院も、その女が犯人であることを認めたもの也…！！」「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。……他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」",
+              "translation": "\"Kn‐know that your focus on the whydunit is simply embarrassing...! The whydunit is unnecessary! Such a thing can be easily extracted through interrogation! Even the Great Court has already acknowledged that this woman is the culprit...!!\" \"The Great Court has heard your argument that the maid must be guilty because everyone besides her has an alibi, and they've mistaken your overconfidence and conceit for wisdom. If any one of the other suspects loses their alibi, your evidence so far proves nothing. ......Just look at how pathetic some of these other alibis are. Did the clock in the reception hall chime midnight at exactly the right time? Did the dog by the back door bark at everyone?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0179"
+            ],
+            "MG": [
+              "umi7_op-L0179"
+            ],
+            "UP": [
+              "umi7_op-L0179"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The inquisitor says Will’s insistence on whydunit supremacy disgusts or exhausts her.",
+      "alternative": "Embarrassing conveys disapproval, but 辟易 is being fed up or repelled. Focus also weakens 至上主義, the accusation that he treats motive as supreme.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-007",
+      "kind": "WH",
+      "description": "The noon chime becomes midnight.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              187,
+              187
+            ],
+            "MG": [
+              187,
+              187
+            ],
+            "UP": [
+              187,
+              187
+            ]
+          },
+          "japanese": "大広間の時計の音は正確に正午を刻んだか？",
+          "japanesePC": "......他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」",
+          "japanesePS3": "大広間の時計の音は正確に正午を刻んだか？",
+          "WH": "......Just look at how pathetic some of these other alibis are.  Did the clock in the reception hall chime midnight at exactly the right time?  Did the dog by the back door bark at everyone?\"",
+          "MG": "Did the clock in the reception hall chime midnight at exactly the right time?",
+          "UP": "Did the clock in the reception hall chime midnight at exactly the right time?",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0179",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0179"
+            ],
+            "MG": [
+              "umi7_op-L0179"
+            ],
+            "UP": [
+              "umi7_op-L0179"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！　ホワイダニットなど無用！　審問すれば斯様なもの、容易に絞り出せるもの也や！　大法院も、その女が犯人であることを認めたもの也…！！」「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。……他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」",
+              "translation": "\"Kn-Know that your obsession over the \"why dunnit\" is simply embarrassing...! The \"why dunnit\" is unnecessary! Such a thing can be extracted easily through interrogation! Even the Great Court has already acknowledged that this woman is the culprit...!!\" \"True, the Great Court does assume that everyone besides the maid has an alibi. But that's just because they heard you say so, and they've mistaken your overconfidence and conceit for wisdom. If any one of the other suspects loses their alibi, your evidence so far proves nothing. ...Just look at how pathetic some of these other alibis are. Did the clock in the reception hall chime midnight at exactly the right time? Did the dog by the back door bark at everyone?\" "
+            },
+            "UP": {
+              "japanese": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！　ホワイダニットなど無用！　審問すれば斯様なもの、容易に絞り出せるもの也や！　大法院も、その女が犯人であることを認めたもの也…！！」「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。……他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」",
+              "translation": "\"Kn‐know that your focus on the whydunit is simply embarrassing...! The whydunit is unnecessary! Such a thing can be easily extracted through interrogation! Even the Great Court has already acknowledged that this woman is the culprit...!!\" \"The Great Court has heard your argument that the maid must be guilty because everyone besides her has an alibi, and they've mistaken your overconfidence and conceit for wisdom. If any one of the other suspects loses their alibi, your evidence so far proves nothing. ......Just look at how pathetic some of these other alibis are. Did the clock in the reception hall chime midnight at exactly the right time? Did the dog by the back door bark at everyone?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0179"
+            ],
+            "MG": [
+              "umi7_op-L0179"
+            ],
+            "UP": [
+              "umi7_op-L0179"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will asks whether the hall clock sounded noon at the correct time, challenging another suspect’s alibi.",
+      "alternative": "Both noon and midnight concern twelve o’clock, but 正午 unambiguously specifies midday. This is not an ambiguity in the source’s time.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-008",
+      "kind": "WH",
+      "description": "Explaining would take forever becomes inability to understand.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.voice_state",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              233,
+              233
+            ],
+            "MG": [
+              233,
+              233
+            ],
+            "UP": [
+              233,
+              233
+            ]
+          },
+          "japanese": "ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。",
+          "japanesePC": "「あの程度でアリバイかよ。ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。",
+          "japanesePS3": "ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。",
+          "WH": "\"That, an alibi?  Dammit, a fool like you couldn't understand no matter how easy I make it for you.",
+          "MG": "Dammit, a fool like you couldn't understand no matter how easy I make it for you.",
+          "UP": "Dammit, a fool like you couldn't understand no matter how easy I make it for you.",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0231",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0231"
+            ],
+            "MG": [
+              "umi7_op-L0231"
+            ],
+            "UP": [
+              "umi7_op-L0231"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そ、その二人には犯行時刻の明白なアリバイが…！！」「あの程度でアリバイかよ。ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。主席を名乗りたかったら、その程度の捜査と推理を見せてみな。それまで、このメイドへの逮捕状は俺が預かるぜ」「な、なら貴方に！！　そのメイドが犯行を犯さなかったことが証明できる也や？！　犯行時刻に彼女が台所を離れていたことは明らかと知り給え！　彼女は犯行時刻にどこで何を！　その女にも本官にも貴方にもッ、誰にも証明は不可能なりや！　なればこそ審問の拷問具で、赤き真実を搾り出す他なき也ッ！！」",
+              "translation": "\"Th-Those two already have a clear alibi for the time of the crime...!!\" \"That, an alibi? Dammit, a fool like you couldn't understand no matter how easy I make it for you. If you want to call yourself the Head Inquisitor, try and figure out at least that much for yourself. Until then, I'll be taking that maid's arrest warrant.\" \"Th-Then what about you?! Can you prove that this maid didn't commit the crime?! Know that she was clearly away from the kitchen at the time of the crime! What was she doing then, and where?! She can't prove it, I can't prove it, and you can't prove it! No one can! That's why we have no choice but to use these torture devices to interrogate her until the red truth is squeezed out!!\" "
+            },
+            "UP": {
+              "japanese": "「そ、その二人には犯行時刻の明白なアリバイが…！！」「あの程度でアリバイかよ。ボンクラのお前にわかるように説明してたら、時間がいくらあっても足りねェや、面倒臭ェ。主席を名乗りたかったら、その程度の捜査と推理を見せてみな。それまで、このメイドへの逮捕状は俺が預かるぜ」「な、なら貴方に！！　そのメイドが犯行を犯さなかったことが証明できる也や？！　犯行時刻に彼女が台所を離れていたことは明らかと知り給え！　彼女は犯行時刻にどこで何を！　その女にも本官にも貴方にもッ、誰にも証明は不可能なりや！　なればこそ審問の拷問具で、赤き真実を搾り出す他なき也ッ！！」",
+              "translation": "\"Th‐those two already have a clear alibi for the time of the crime...!!\" \"That, an alibi? Dammit, a fool like you couldn't understand no matter how easy I make it for you. If you want to call yourself a Chief Inquisitor, try and figure out at least that much for yourself. Until then, I'll be taking that maid's arrest warrant.\" \"Th‐then what about you?! Can you prove that this maid didn't commit the crime?! Know that she was clearly away from the kitchen at the time of the crime! What was she doing then, and where?! She can't prove it, I can't prove it, and you can't prove it! No one can! That's why we have no choice but to use these torture devices to interrogate her until the red truth is squeezed out!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0231"
+            ],
+            "MG": [
+              "umi7_op-L0231"
+            ],
+            "UP": [
+              "umi7_op-L0231"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will says explaining so that the fool can understand would take more time than he has and be a nuisance.",
+      "alternative": "Couldn’t understand no matter how easy I make it keeps the insult but asserts permanent incapacity, whereas the source complains about the time and bother of making her understand.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-009",
+      "kind": "WH",
+      "description": "A rough injunction to be happy becomes a prediction.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              274,
+              274
+            ],
+            "MG": [
+              274,
+              274
+            ],
+            "UP": [
+              274,
+              274
+            ]
+          },
+          "japanese": "「……きっと彼氏と幸せになりやがれ。",
+          "japanesePC": "「......きっと彼氏と幸せになりやがれ。だが、勤務中に逢引きするのは、あまり褒められねェな。時々にしとくんだな。」",
+          "japanesePS3": "「……きっと彼氏と幸せになりやがれ。",
+          "WH": "\"......I'm sure you two will be happy together.  Still, meeting together in secret while on the job is hardly praiseworthy.  Try to keep that to a minimum.\"",
+          "MG": "\"...I'm sure you two will be happy together.",
+          "UP": "\"......I'm sure you two will be happy together.",
+          "note": "Complete continuous three-witness source-first review in durable reports. MG reflows JP60–64 toMG60–64 and JP123–130 toMG123–130 explicitly matched by clauses, realigning65/131; equal counts not assumed semantic identity. Parent verified MG68 missing recipient preposition. UP68 rhetorical future uniqueness and MG282 heart thesis locally recovered283–284 held. Court conditional183–184 remains inherited candidate pending. No proven yellow carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_op-L0274",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0274"
+            ],
+            "MG": [
+              "umi7_op-L0274"
+            ],
+            "UP": [
+              "umi7_op-L0274"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……きっと彼氏と幸せになりやがれ。だが、勤務中に逢引きするのは、あまり褒められねェな。時々にしとくんだな」「あ、……ありがとうございます……。ありがとうございます……」",
+              "translation": "\"...I'm sure you two will be happy together. Still, meeting together in secret while on the job is hardly praiseworthy. Try to keep that to a minimum.\" \"...Th-Thank you so much... Thank you so much...\" "
+            },
+            "UP": {
+              "japanese": "「……きっと彼氏と幸せになりやがれ。だが、勤務中に逢引きするのは、あまり褒められねェな。時々にしとくんだな」「あ、……ありがとうございます……。ありがとうございます……」",
+              "translation": "\"......I'm sure you two will be happy together. Still, meeting together in secret while on the job is hardly praiseworthy. Try to keep that to a minimum.\" \"Th‐......thank you so much...... Thank you so much......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0274"
+            ],
+            "MG": [
+              "umi7_op-L0274"
+            ],
+            "UP": [
+              "umi7_op-L0274"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will tells the maid, in his rough but kind manner, to be happy with her boyfriend without fail.",
+      "alternative": "I’m sure you two will be happy conveys goodwill, but なるような imperative 幸せになりやがれ is an injunction or blessing, not a forecast. The remainder of his scolding advice does not restore it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-OPEN-010",
+      "kind": "WH",
+      "description": "WH changes the court swallowing a conditional culprit inference into the court assuming the other suspects have alibis.",
+      "categories": [
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              183,
+              183
+            ],
+            "MG": [
+              183,
+              183
+            ],
+            "UP": [
+              183,
+              183
+            ]
+          },
+          "japanese": "「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、",
+          "japanesePC": "「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。",
+          "japanesePS3": "「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、",
+          "WH": "\"Oh, the Great Court does assume that everyone besides the maid has an alibi.  But that's just because they heard you say so, and they've mistaken your overconfidence and conceit for wisdom.  If any one of the other suspects loses their alibi, your evidence so far proves nothing.",
+          "MG": "\"True, the Great Court does assume that everyone besides the maid has an alibi.",
+          "UP": "\"The Great Court has heard your argument that the maid must be guilty because everyone besides her has an alibi,",
+          "note": "Original PC and coherent paired context verified under ep07-opening-supplement-a-2026-10-13",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_op-L0179",
+          "readerRefs": {
+            "WH": [
+              "umi7_op-L0179"
+            ],
+            "MG": [
+              "umi7_op-L0179"
+            ],
+            "UP": [
+              "umi7_op-L0179"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！　ホワイダニットなど無用！　審問すれば斯様なもの、容易に絞り出せるもの也や！　大法院も、その女が犯人であることを認めたもの也…！！」「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。……他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」",
+              "translation": "\"Kn-Know that your obsession over the \"why dunnit\" is simply embarrassing...! The \"why dunnit\" is unnecessary! Such a thing can be extracted easily through interrogation! Even the Great Court has already acknowledged that this woman is the culprit...!!\" \"True, the Great Court does assume that everyone besides the maid has an alibi. But that's just because they heard you say so, and they've mistaken your overconfidence and conceit for wisdom. If any one of the other suspects loses their alibi, your evidence so far proves nothing. ...Just look at how pathetic some of these other alibis are. Did the clock in the reception hall chime midnight at exactly the right time? Did the dog by the back door bark at everyone?\" "
+            },
+            "UP": {
+              "japanese": "「あ、貴方のホワイダニット至上主義の主張には辟易するものと知り給え…！　ホワイダニットなど無用！　審問すれば斯様なもの、容易に絞り出せるもの也や！　大法院も、その女が犯人であることを認めたもの也…！！」「大法院は、そのメイド以外の全員にアリバイがあるならきっとそうなんだろうという、お前の独り善がりを鵜呑みにしただけだ。他の被疑者のアリバイが崩れれば白紙に戻る。……他の連中のアリバイも、無様なモンじゃねぇか。大広間の時計の音は正確に正午を刻んだか？　勝手口の犬は全員に吠えるのか？」",
+              "translation": "\"Kn‐know that your focus on the whydunit is simply embarrassing...! The whydunit is unnecessary! Such a thing can be easily extracted through interrogation! Even the Great Court has already acknowledged that this woman is the culprit...!!\" \"The Great Court has heard your argument that the maid must be guilty because everyone besides her has an alibi, and they've mistaken your overconfidence and conceit for wisdom. If any one of the other suspects loses their alibi, your evidence so far proves nothing. ......Just look at how pathetic some of these other alibis are. Did the clock in the reception hall chime midnight at exactly the right time? Did the dog by the back door bark at everyone?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_op-L0179"
+            ],
+            "MG": [
+              "umi7_op-L0179"
+            ],
+            "UP": [
+              "umi7_op-L0179"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Source says the court accepted the investigator’s self-serving if-everyone-else-has-alibis inference that the maid must be guilty. MG changes what the court accepted to the alibi premise; UP restores the culprit inference across183–184.",
+      "alternative": "182 and185 allow readers to reconstruct the elimination argument, but the explicit object of court acceptance and conditional reasoning are altered.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-OPEN-001-120-001",
+      "kind": "additional",
+      "description": "MG omits to before the recipient in the tale I have to offer up you.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_op",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              68,
+              68
+            ],
+            "MG": [
+              68,
+              68
+            ],
+            "UP": [
+              68,
+              68
+            ]
+          },
+          "japanese": "……唯一の物語だ」",
+          "japanesePC": "",
+          "japanesePS3": "……唯一の物語だ」",
+          "WH": "",
+          "MG": "the sole tale I have to offer up you.\"",
+          "UP": "......The only one there will ever be.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_op-L0067",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_op-L0067"
+            ],
+            "UP": [
+              "umi7_op-L0067"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……これは、俺からお前に捧げる、……唯一の物語だ」",
+              "translation": "\"...This is... the sole tale I have to offer up you.\" "
+            },
+            "UP": {
+              "japanese": "「……これは、俺からお前に捧げる、……唯一の物語だ」",
+              "translation": "\"......This story is my gift to you. ......The only one there will ever be.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_op-L0067"
+            ],
+            "UP": [
+              "umi7_op-L0067"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The tale is the object offered and you the recipient, requiring offer up to you. Original PC125670–125674 and UP retain grammatical gift wording.",
+      "alternative": "Offer up can take a sacrificial object, but tale already fills that role here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-OPEN-001": {
+      "umi7_op-L0007": {
+        "WH": [
+          "each time the waves draw back"
+        ],
+        "UP": [
+          "each time the waves draw back"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-002": {
+      "umi7_op-L0069": {
+        "WH": [
+          "no one will be able to read it except for you"
+        ],
+        "MG": [
+          "no one will be able to read it except for you"
+        ],
+        "UP": [
+          "no one will be able to read it except for you"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-003": {
+      "umi7_op-L0137": {
+        "WH": [
+          "turned away from the altar one more time"
+        ],
+        "MG": [
+          "turned away from the altar one more time"
+        ],
+        "UP": [
+          "turned away from the altar one more time"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-004": {
+      "umi7_op-L0155": {
+        "WH": [
+          "unrepentant criminals"
+        ],
+        "MG": [
+          "unrepentant criminals"
+        ],
+        "UP": [
+          "unrepentant criminals"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-005": {
+      "umi7_op-L0162": {
+        "WH": {
+          "kind": "omission",
+          "reason": "Stretching the maid's limbs is absent from the enumerated torture methods."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "Stretching the maid's limbs is absent from the enumerated torture methods."
+        }
+      }
+    },
+    "WH-EP07-OPEN-006": {
+      "umi7_op-L0179": {
+        "WH": [
+          "your focus on the 'why dunnit' is simply embarrassing"
+        ],
+        "MG": [
+          "your obsession over the \"why dunnit\" is simply embarrassing"
+        ],
+        "UP": [
+          "your focus on the whydunit is simply embarrassing"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-007": {
+      "umi7_op-L0179": {
+        "WH": [
+          "chime midnight"
+        ],
+        "MG": [
+          "chime midnight"
+        ],
+        "UP": [
+          "chime midnight"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-008": {
+      "umi7_op-L0231": {
+        "WH": [
+          "a fool like you couldn't understand no matter how easy I make it for you"
+        ],
+        "MG": [
+          "a fool like you couldn't understand no matter how easy I make it for you"
+        ],
+        "UP": [
+          "a fool like you couldn't understand no matter how easy I make it for you"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-009": {
+      "umi7_op-L0274": {
+        "WH": [
+          "I'm sure you two will be happy together"
+        ],
+        "MG": [
+          "I'm sure you two will be happy together"
+        ],
+        "UP": [
+          "I'm sure you two will be happy together"
+        ]
+      }
+    },
+    "WH-EP07-OPEN-010": {
+      "umi7_op-L0179": {
+        "WH": [
+          "the Great Court does assume that everyone besides the maid has an alibi"
+        ],
+        "MG": [
+          "the Great Court does assume that everyone besides the maid has an alibi"
+        ]
+      }
+    },
+    "PAIR-EP07-OPEN-001-120-001": {
+      "umi7_op-L0067": {
+        "MG": [
+          "offer up you"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

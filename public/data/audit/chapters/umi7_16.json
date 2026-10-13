@@ -1,1 +1,1695 @@
-{"findings":[{"id":"WH-EP01-CH11-036","kind":"WH","description":"Natsuhi settles heavily onto a sofa and lets out a large sigh. WH says she takes a deep breath.","categories":["linguistic.mistranslation","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[15,15],"MG":[15,15],"UP":[15,15]},"japanese":"夏妃は深くため息をつく。","japanesePC":"夏妃さんはそう言うと、どっかりとソファーに腰を下ろし大きく溜め息をつく。","japanesePS3":"夏妃は深くため息をつく。","WH":"As Natsuhi-san said this, she slumped down into one of the sofas and took a deep breath.","MG":"Natsuhi took a deep breath.","UP":"Natsuhi took a deep breath.","note":"Same-character repeated lexical family. EP7 Natsuhi sigh directly verified PC160255/160256 and paired row15. Original sofa-setting details are not asserted for this later occurrence; sigh loses exhaled emotional expression in both. A deep breath can accompany discomfort but does not specifically convey the source sigh.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_16-L0015","readerRefs":{"WH":[],"MG":["umi7_16-L0015"],"UP":["umi7_16-L0015"]}}],"sourceReading":"大きく溜め息をつく is a deep sigh, an outward expression rather than an inhalation.","alternative":"Both can accompany fatigue, but the physical action and emotional expression are distinct.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-001","kind":"WH","description":"The person Kinzo most desires becomes the person he most wants to solve the riddle","categories":["linguistic.overinterpretation","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[65,65],"MG":[65,65],"UP":[65,65]},"japanese":"その奇跡が、……金蔵のもっとも欲する人間を、導いてくれるのではないか…。","japanesePC":"その奇跡が、......金蔵のもっとも欲する人間を、導いてくれるのではないか...。","japanesePS3":"その奇跡が、……金蔵のもっとも欲する人間を、導いてくれるのではないか…。","WH":"Wouldn't that miracle......guide the person Kinzo most wanted to solve it...?","MG":"Perhaps that miracle...would guide the person Kinzo most wanted to solve it...","UP":"And that miracle......might shepherd the person Kinzo most desired...","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_16-L0063","readerRefs":{"WH":["umi7_16-L0063"],"MG":["umi7_16-L0063"],"UP":["umi7_16-L0063"]}}],"sourceReading":"The miracle might lead or bring the person Kinzo most wants. That person’s significance remains open here, leading into Lion’s resurrection interpretation and the later wish to meet and apologize to Beatrice.","alternative":"The preceding miracle is a person capable of solving the riddle, so a desired solver is contextually relevant. The English nevertheless attaches to solve it to most wanted, replacing his desire for the person with preference about who solves. The Japanese does not specify the purpose of his longing that way.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-002","kind":"WH","description":"Genji rarely discussing hypothetical dreams becomes disliking such discussion","categories":["linguistic.overinterpretation","character.voice_state","character.motivation_emotion"],"severity":"moderate","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[242,242],"MG":[242,242],"UP":[242,242]},"japanese":"若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。","japanesePC":"若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。","japanesePS3":"若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。","WH":"It may have been different when he was young, but in his old age, Genji was not fond of talking about dreams and 'what ifs'.","MG":"It may have been different during his youth, but in his old age, Genji rarely spoke of dreams and \"what ifs\".","UP":"It may have been different when he was young, but in his old age, Genji was not fond of talking about dreams and \"what ifs\".","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"corrected_in_context","UP":"retained"},"readerRef":"umi7_16-L0242","readerRefs":{"WH":["umi7_16-L0242"],"MG":["umi7_16-L0242"],"UP":["umi7_16-L0242"]}}],"sourceReading":"In old age Genji rarely voices dreamy hypothetical scenarios, making this particular if unusual.","alternative":"Not fond may loosely account for infrequent behavior, but rarity does not establish aversion or lack of liking. The source highlights an unusual act against his observed habit; the English assigns a personal preference.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-003","kind":"WH","description":"What kinds of minions imagination can create becomes how often it can create them","categories":["linguistic.mistranslation","world.world_layer","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[448,448],"MG":[448,448],"UP":[448,448]},"japanese":"今や、どのような眷属を増やすもあなたの想像力次第……」","japanesePC":"「私たちは、マリアージュ・ソルシエールで、世界の広げ方と、眷属の増やし方を学びました。今や、どのような眷属を増やすもあなたの想像力次第......。」","japanesePS3":"今や、どのような眷属を増やすもあなたの想像力次第……」","WH":"\"Here in Mariage Sorciere, we have learned how to expand our worlds and create new minions.  By now, you may create new minions as often as your imagination allows......\"","MG":"By now, you may create new minions as often as your imagination allows...\"","UP":"At this point, the kinds of minions you may create are limited only by your imagination......\"","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_16-L0447","readerRefs":{"WH":["umi7_16-L0447"],"MG":["umi7_16-L0447"],"UP":["umi7_16-L0447"]}}],"sourceReading":"Virgilia says what kinds of minions Beatrice adds now depend on her imagination. Donoyouna specifies their nature or type.","alternative":"Freedom of creation can encompass frequency, but the source’s variable is kind. As often as substitutes a rate or number constraint for the character-design possibilities discussed with the dark objects and rabbits.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-004","kind":"WH","description":"Love’s flower appearing withered becomes actually withered","categories":["linguistic.overinterpretation","linguistic.imagery_rhythm_recurrence","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[509,509],"MG":[509,509],"UP":[509,509]},"japanese":"今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。","japanesePC":"今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。","japanesePS3":"今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。","WH":"The flower of my love has curled up and withered as though against the winter cold.","MG":"The flower of my love has curled up and withered as though against the winter cold.","UP":"The flower of my love has curled up as if to resist the winter cold, and it even appears to have withered.","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_16-L0499","readerRefs":{"WH":["umi7_16-L0499"],"MG":["umi7_16-L0499"],"UP":["umi7_16-L0499"]}}],"sourceReading":"The flower shrinks as if enduring winter cold and may even look withered, while the root is alive and awaits blooming again.","alternative":"A withered flower can still have a living root and bloom again. Nonetheless the source specifically confines withering to appearance; has curled up and withered asserts a state rather than its outward seeming. As though in the English modifies against winter cold, not the existence of withering.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-005","kind":"WH","description":"Beatrice expecting to cause the miracle becomes wondering whether it will occur","categories":["linguistic.logical_relation","character.agency_responsibility","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[544,545],"MG":[544,545],"UP":[544,545]},"japanese":"復活を遂げたなら、必ずや、その奇跡を起こすだろう。\nそれが出来るなら、………妾は復活のため、本当の魔力を、手に入れたい。","japanesePC":"復活を遂げたなら、必ずや、その奇跡を起こすだろう。","japanesePS3":"復活を遂げたなら、必ずや、その奇跡を起こすだろう。\nそれが出来るなら、………妾は復活のため、本当の魔力を、手に入れたい。","WH":"Then if I succeed in reviving, will that miracle occur without fail?","MG":"Then if I succeed in reviving, would that miracle definitely occur?\nIf such a thing were possible, ...I'd want true magical power...to use for my resurrection.","UP":"...then if I succeeded in reviving, that miracle would surely occur.\nIf that is what I could be capable of, .........then I want true magical power...to use for my resurrection.","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"partially_corrected"},"readerRef":"umi7_16-L0533","readerRefs":{"WH":["umi7_16-L0533"],"MG":["umi7_16-L0533"],"UP":["umi7_16-L0533"]}}],"sourceReading":"Conditional on truly having had freely usable miracle-working magic as she claims and on reviving, she would surely bring about that miracle. Okosu assigns its production to her.","alternative":"Darou marks an expectation, and the subsequent sentence conditions her desire on being able to do this. It does not turn this line into a question or remove her agency: will that miracle occur asks whether the event happens of itself.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-006","kind":"WH","description":"Genji asking whether Shannon is already attempting the riddle becomes a future invitation","categories":["linguistic.tense_aspect","character.relationship_power","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[622,622],"MG":[622,622],"UP":[622,622]},"japanese":"……お前は、挑んでいるのか？」","japanesePC":"「......碑文の謎に挑む資格は、全ての者に許されている。無論、それは使用人も例外ではない。......お前は、挑んでいるのか？」","japanesePS3":"……お前は、挑んでいるのか？」","WH":"\"......All are allowed to try and solve the epitaph's riddle.  Of course, the servants are no exceptions.  ......Will you try to solve it?\"","MG":"...Will you try to solve it?\"","UP":"......Are you making an attempt?\"","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_16-L0620","readerRefs":{"WH":["umi7_16-L0620"],"MG":["umi7_16-L0620"],"UP":["umi7_16-L0620"]}}],"sourceReading":"After explaining universal eligibility, Genji asks whether she is attempting the riddle now. Shannon says no and explains difficulty and lack of desire for gold.","alternative":"The dialogue eventually includes an explicit instruction to try, so future participation is relevant. This question nonetheless concerns existing participation, not willingness to begin. The later instruction preserves invitation but does not restore the earlier inquiry.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-007","kind":"WH","description":"Rule lasting until the end of the war becomes rule in the half-century before the war","categories":["linguistic.mistranslation","world.culture_history","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[657,658],"MG":[657,658],"UP":[657,658]},"japanese":"戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。","japanesePC":"戦争が終わるまでの半世紀の間、台湾は日本に統治されていた。","japanesePS3":"戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。","WH":"In the half-century before the war, Taiwan was under the rule of Japan.","MG":"In the half-century before the war, Taiwan was under the rule of Japan.\nMany Japanese had moved there, seeking a new frontier.","UP":"Many Japanese moved to this land in the half‐century before the war.\nKinzo's family was a branch family of the Ushiromiyas.","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_16-L0657","readerRefs":{"WH":["PC-CANDIDATE-EP07-16-V002"],"MG":["umi7_16-L0657"],"UP":["umi7_16-L0657"]}}],"sourceReading":"The narration says Taiwan was governed by Japan during the half-century up to the war’s end.","alternative":"Before the war could be casual shorthand for the former era, but it explicitly locates the half-century before the war rather than ending when the war ends. This finding compares the two scripts’ stated interval and does not import an external historical correction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-008","kind":"WH","description":"Being blocked by such a simple issue becomes being stuck in the dusty room","categories":["linguistic.mistranslation","character.motivation_emotion","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[742,742],"MG":[742,742],"UP":[742,742]},"japanese":"その程度のことで手詰まりでは、あまりに面白くなかった。","japanesePC":"......埃塗れの書庫で、時に咳き込みながらまでして本を調べ、その程度のことで手詰まりでは、あまりに面白くなかった。","japanesePS3":"その程度のことで手詰まりでは、あまりに面白くなかった。","WH":"......I kept looking through books in this dusty archive, sometimes having to cough, and I was not happy with being stuck in a place like this.","MG":"and I was not happy with being stuck in a place like this.","UP":"was by no means enjoyable.","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi7_16-L0739","readerRefs":{"WH":["umi7_16-L0739"],"MG":["umi7_16-L0739"],"UP":["umi7_16-L0739"]}}],"sourceReading":"After researching despite dust and coughing, Beatrice finds it frustrating to be stumped by something so minor: not knowing where in Taiwan Kinzo lived.","alternative":"The unpleasant archive is explicitly described and contributes to her frustration. But sono teido no koto names the modest informational obstacle, whereas in a place like this assigns being stuck to the physical location.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-009","kind":"WH","description":"A clue expected to identify one river becomes merely referring to one river","categories":["linguistic.undertranslation","mystery.recurrence_discrimination"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[801,801],"MG":[801,801],"UP":[801,801]},"japanese":"この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。","japanesePC":"この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。","japanesePS3":"この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。","WH":"That line should be talking about one of the 129 rivers.","MG":"That line should be talking about one of the 129 rivers.","UP":"That line should be talking about one of the 129 rivers.","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_16-L0798","readerRefs":{"WH":["umi7_16-L0798"],"MG":["umi7_16-L0798"],"UP":["umi7_16-L0798"]}}],"sourceReading":"The wording should permit identifying one river out of129, which motivates attention to the wordplay and the subsequent failure of geographic narrowing.","alternative":"Talking about one of the rivers implies a particular referent, but does not assert that this wording allows it to be singled out. Tokutei dekiru explicitly expresses discriminating ability rather than reference alone.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-010","kind":"WH","description":"Erika’s atlas search for solving the riddle becomes confirmed subsequent success","categories":["linguistic.addition","mystery.epistemic_status","character.knowledge_boundary"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[818,818],"MG":[818,818],"UP":[818,818]},"japanese":"そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった」","japanesePC":"「第３のゲームで、絵羽は書庫で何かの本を調べて謎を解いた。そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった。」","japanesePS3":"そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった」","WH":"\"In the third game, Eva solved the riddle after reading a book in the book archive.  Then, in the fifth game, Furudo Erika looked for an atlas in the book archive before solving the riddle herself.\"","MG":"Then, in the fifth game, Furudo Erika looked for an atlas in that room before solving the riddle herself.\"","UP":"Then, in the fifth game, Furudo Erika looked for an atlas in the book archive before solving the riddle herself.\"","note":"Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_16-L0817","readerRefs":{"WH":["umi7_16-L0817"],"MG":["umi7_16-L0817"],"UP":["umi7_16-L0817"]}}],"sourceReading":"Eva solved after consulting a book; in game5 the book Erika sought for the purpose of solving was an atlas. The source distinguishes Eva’s result from Erika’s purpose and sought material.","alternative":"Erika may have solved according to other evidence, but this sentence only states her atlas search and its purpose. Before solving the riddle herself adds a successful later event and attributes it to her, rather than reporting the evidence actually stated here.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH16-011","kind":"WH","description":"Taking the character as it is becomes an instruction to look it up","categories":["linguistic.mistranslation","mystery.information_timing_salience","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[965,966],"MG":[965,966],"UP":[965,966]},"japanese":"「難しく考えるな。\nそのままだ」","japanesePC":"「難しく考えるな。そのままだ。」","japanesePS3":"「難しく考えるな。\nそのままだ」","WH":"\"Don't think too hard on it.  Just look it up.\"","MG":"\"Don't overthink it.\nWhat else can the word \"power\" mean?\"","UP":"\"Don't think too hard on it.\nYou either know it or you don't.\"","note":"Full continuous three-witness reading and parent connected review954–983. MG English puzzle adaptation is grouped under PAIR-EP07-CH17-121-240-001 with CH16 occurrences103 and954–983, not double-counted and not yellow. Original lookup instruction966 is absent in both: MG changes it within that adaptation; UP replaces literal-reading guidance with you either know it or you do not. Both are modified_but_unresolved outcomes of canonical011, rather than unchanged retention or an additional duplicate defect. UP alternative knowledge-context paraphrase considered, but misses the positive instruction that the character is simply what it is. Japanese-rule861 independently proven PC carryover. Both851 water/river held after825 distinguishes the nonliteral river. MG883 certainty held with896 belief recovery,947 omitted remaining-letter action held in full subsequent solution context; UP1012 suspected subject remains ambiguous. Glyph variants excluded. No additional independent findings.","dispositions":{"MG":"modified_but_unresolved","UP":"modified_but_unresolved"},"readerRef":"umi7_16-L0965","readerRefs":{"WH":["umi7_16-L0965"],"MG":["umi7_16-L0965"],"UP":["umi7_16-L0965"]}}],"sourceReading":"Will tells Lion not to overthink: it is just as it stands. Clair then supplies the numeric reading kei.","alternative":"Looking up a character is a plausible way to learn that numeric sense, but sono mama da does not instruct research. Just look it up invents a method of finding the answer rather than indicating the straightforward reading of what is present.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH16-121-240-001","kind":"additional","description":"Defining the exceptional solution as a miracle becomes promising that a miracle will occur","categories":["linguistic.logical_relation","mystery.epistemic_modality"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[235,235],"MG":[235,235],"UP":[235,235]},"japanese":"だから、奇跡なのだ」","japanesePC":"","japanesePS3":"だから、奇跡なのだ」","WH":"","MG":"That's why a miracle will occur.\"","UP":"That is why it would be a miracle.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_16-L0233","readerRefs":{"WH":[],"MG":["umi7_16-L0233"],"UP":["umi7_16-L0233"]}}],"sourceReading":"Nobody can solve it; that is why a solution would be a miracle. PC161085/161087 also defines the event as a miracle rather than promising its occurrence.","alternative":"Kinzo hopes for the miracle. That does not make inability to solve a cause or guarantee of its occurrence.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH16-241-360-001","kind":"additional","description":"Being made to solve the epitaph becomes being allowed to solve it","categories":["linguistic.word_choice","character.agency_responsibility"],"severity":"moderate","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[307,308],"MG":[307,308],"UP":[307,308]},"japanese":"「碑文は、解かれたんじゃない。\n解かされたんだ」","japanesePC":"","japanesePS3":"「碑文は、解かれたんじゃない。\n解かされたんだ」","WH":"","MG":"\"The epitaph wasn't solved.\nSomeone was made to solve it.\"","UP":"\"The epitaph wasn't \"solved\".\nIt was allowed to be solved.\"","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi7_16-L0307","readerRefs":{"WH":[],"MG":["umi7_16-L0307"],"UP":["umi7_16-L0307"]}}],"sourceReading":"The causative passive is arranged or induced solving, explained by the prepared Cinderella299 and staged farce301. Original PC161329/161331 retains made to solve.","alternative":"Japanese causatives can permit rather than compel. Here the surrounding deliberate preparation supports induced solving; allowed weakens that claimed agency.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH17-121-240-001","kind":"additional","description":"MG rewrites the epitaph arrival clue and its solution as a treasure-power exponent puzzle.","categories":["linguistic.addition"],"severity":"major","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[103,103],"MG":[103,103],"UP":[103,103]},"japanese":"そして第十の晩に旅は終わり、黄金の郷に至る……。","japanesePC":"","japanesePS3":"そして第十の晩に旅は終わり、黄金の郷に至る……。","WH":"","MG":"Then, on the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time...","UP":"Then, on the tenth twilight, the journey ends, and I shall reach the Home of the Gold......","note":"Earlier statement of the same adapted epitaph","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_16-L0103","readerRefs":{"WH":[],"MG":["umi7_16-L0103"],"UP":["umi7_16-L0103"]}},{"chapter":"umi7_16","episode":7,"rows":{"JP":[954,983],"MG":[954,983],"UP":[954,983]},"japanese":"「第十の晩の、黄金の“郷”に注目した推理だな。\n碑文の中には、他に四度も黄金郷という単語が登場するのに、なぜかこれ一つだけが、黄金の郷と記されている」\n「なぜ、第十の晩だけ、黄金の郷なのか。\nこれに気付くのにも、そしてどうしてなのかに気付くのにも、これまた長い時間を掛けました」\n「楼座の推理はこうだった。\n黄金の“郷”をキョウと読み、京都の“京”と読み解いた。\nそして、懐かしき故郷から京都までの十日かかる旅路を十分の一した地点に、何か秘密があると疑った。\n………いい推理だったが惜しかった。\n“京”は京都以外にも読み解けたんだ」\n「……“京”を、京都以外で読み解く……？\nん……」\n「難しく考えるな。\nそのままだ」\n「……京です。\nいえ、キョウでなく、ケイと読みましょうか。\n数字の単位です。\n一十百千万億兆、京」\n「数字の、単位……！」\n「……私の場合は、この六軒島にいるという地の利がありましたから。\n“京”を思い当たるヒントはあったのです。\n私の場合は、先に答えがわかってから、逆に問題の意味がわかったという感じでした」\n「ややこしいことを言うと理御が混乱する。\n話を戻そう。\n……第十の晩に１京に至るならば、第一の晩はいくつになる？」\n「い、１京の十分の一ですから、\n……えっと、………千兆…？」\n「正解だ。\n千兆から、鍵の選びし６文字を間引くんだ」\n「Ｑｉｌｉａｎが英語である以上、千兆も英語であろうとはすぐに察しました」\n「千兆は英語では、Ｑｕａｄｒｉｌｌｉｏｎ。","japanesePC":"","japanesePS3":"「第十の晩の、黄金の“郷”に注目した推理だな。\n碑文の中には、他に四度も黄金郷という単語が登場するのに、なぜかこれ一つだけが、黄金の郷と記されている」\n「なぜ、第十の晩だけ、黄金の郷なのか。\nこれに気付くのにも、そしてどうしてなのかに気付くのにも、これまた長い時間を掛けました」\n「楼座の推理はこうだった。\n黄金の“郷”をキョウと読み、京都の“京”と読み解いた。\nそして、懐かしき故郷から京都までの十日かかる旅路を十分の一した地点に、何か秘密があると疑った。\n………いい推理だったが惜しかった。\n“京”は京都以外にも読み解けたんだ」\n「……“京”を、京都以外で読み解く……？\nん……」\n「難しく考えるな。\nそのままだ」\n「……京です。\nいえ、キョウでなく、ケイと読みましょうか。\n数字の単位です。\n一十百千万億兆、京」\n「数字の、単位……！」\n「……私の場合は、この六軒島にいるという地の利がありましたから。\n“京”を思い当たるヒントはあったのです。\n私の場合は、先に答えがわかってから、逆に問題の意味がわかったという感じでした」\n「ややこしいことを言うと理御が混乱する。\n話を戻そう。\n……第十の晩に１京に至るならば、第一の晩はいくつになる？」\n「い、１京の十分の一ですから、\n……えっと、………千兆…？」\n「正解だ。\n千兆から、鍵の選びし６文字を間引くんだ」\n「Ｑｉｌｉａｎが英語である以上、千兆も英語であろうとはすぐに察しました」\n「千兆は英語では、Ｑｕａｄｒｉｌｌｉｏｎ。","WH":"","MG":"\"Right, that theory about a ten-day journey ending at the tenth twilight.\n\"On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.\" She took that section to be a literal trip that ends when you \"attain to\", or reach, the treasures of the Golden Land.\"\n\"What meaning was there in those words?\nRealizing that there was something to be found...and then realizing what that something actually was... took another long stretch of time.\"\n\"By Rosa's reasoning,\n\"attain to\" meant reaching some physical location\nrepresented by the four treasures.\n...It was a good try, but not quite right.\nIt's not the treasures we're supposed to reach, but their power.\"\n\"...What does it even mean to \"reach\" the power of something like that...?\nHmm...\"\n\"Don't overthink it.\nWhat else can the word \"power\" mean?\"\n\"...You reach...\nor rather, raise yourself to the power of the \"four\" treasures.\nStarting at twilight number \"ten\".\nAnd this is done \"once and for the last time\".\"\n\"Oh, so it's an exponent, like a math problem...!\"\n\"...Here, I had a home-field advantage, since I lived on Rokkenjima.\nThere was a hint there that made it easier to think of a certain large number.\nIn fact, you might say that I actually found the answer before I knew what the question was.\"\n\"If you keep making it so complicated, Lion's gonna get a headache.\nLet's get back to the point.\n......10 to the 4th power is ten thousand. If you reach ten thousand on the tenth twilight, how far have you gotten by the first twilight?\"\n\"Well, that's just one tenth of ten thousand.\nA thousand, right?\"\n\"Right.\nBut while that gives us a single word, it has nowhere near enough letters, and it doesn't match the key at all.\"\n\"However, the end of the line says \"you will attain to the power once and for the last time\". If we interpret this as raising 10 to the 4th power once, and then doing the same thing one final time, we end up with ten quadrillion.\"\n\"That's ten quadrillion at the tenth twilight, or \"quadrillion\" at the first twilight.","UP":"\"That theory focused on the tenth twilight's \"Home of the Gold\".\nThe epitaph uses the phrase \"Golden Land\" four separate times, but the phrase \"Home of the Gold\" is only used that once.\"\n\"Why is it written that way only on the tenth twilight?\nIt took me a long time to notice the significance of this, and just as long to discover the reason.\"\n\"Rosa's theory went like this.\nShe read the \"Home\" (郷) kanji as \"kyou\" and interpreted it as {ruby:kyou:京, which she took as short for \"Kyoto\" ({ruby:kyouto:京都).\nThen, she reasoned that if you take a ten‐day trip from the beloved hometown to Kyoto, there might be some secret at the end of the first tenth of that journey.\n.........It was a good theory, but she just missed the mark.\n京 has another meaning besides Kyoto.\"\n\"......京 can mean something other than Kyoto......?\nHmmm......\"\n\"Don't think too hard on it.\nYou either know it or you don't.\"\n\"......There's another meaning of 京.\nOne where it's not read \"kyou\", but \"kei\".\nIt's the name of a number.\n{nobr:10,000 is {ruby:man:万, {nobr:10,000 {ruby:man:万 is {ruby:oku:億, {nobr:10,000 {ruby:oku:億 is {ruby:chou:兆, and {nobr:10,000 {ruby:chou:兆 is {ruby:kei:京.\"\n\"So it's a number......!\"\n\"......Here, I had a home‐field advantage, since I lived on Rokkenjima.\nThere was a hint there that made it easier to think of the number \"kei\".\nIn fact, you might say that I actually found the answer before I knew what the question was.\"\n\"If you keep making it so complicated, Lion's gonna get a headache.\nLet's get back to the point.\n......If you reach one kei on the tenth twilight, how far have you gotten by the first twilight?\"\n\"O‐one tenth of one kei, and one kei is ten thousand chou...\n......So.........a thousand chou?\"\n\"Exactly.\nWe remove the key's chosen six letters from a thousand chou.\"\n\"Since Qilian was written in English, I immediately guessed that \"a thousand chou\" would also have to be written in English.\"\n\"A thousand chou in English is \"quadrillion\".","note":"Connected adapted solution replacing Kyoto/kei reasoning","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_16-L0954","readerRefs":{"WH":[],"MG":["umi7_16-L0954","umi7_16-L0956","umi7_16-L0958","umi7_16-L0963","umi7_16-L0965","umi7_16-L0967","umi7_16-L0971","umi7_16-L0972","umi7_16-L0975","umi7_16-L0978","umi7_16-L0980","umi7_16-L0982","umi7_16-L0983"],"UP":["umi7_16-L0954","umi7_16-L0956","umi7_16-L0958","umi7_16-L0963","umi7_16-L0965","umi7_16-L0967","umi7_16-L0971","umi7_16-L0972","umi7_16-L0975","umi7_16-L0978","umi7_16-L0980","umi7_16-L0982","umi7_16-L0983"]}}],"sourceReading":"The source concludes by reaching the Golden Land. CH16 explains 郷 read as kyou, then 京 interpreted as kei (10^16), one tenth giving quadrillion. MG adds treasure power and finality to the epitaph and replaces the Kyoto/kei reasoning with repeated exponentiation. Original PC163883/163977/164003 and164983/164985 preserve the Japanese chain and arrival; UP follows them.","alternative":"The English adaptation coordinates its altered epitaph with a solvable English mechanism. This explains the editorial choice but does not preserve the source clue, Rosa theory, or narrated arithmetic; it is one connected adaptation rather than multiple independent defects.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-116","kind":"PC","description":"MG retains Japanese rule over Taiwan and seeking a new frontier, omitted from PS3 migration wording. The separate inherited before-the-war timing defect remains assessed in both releases.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[657,658],"MG":[657,658],"UP":[657,658]},"japanese":"戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。","japanesePC":"戦争が終わるまでの半世紀の間、台湾は日本に統治されていた。\n新しいフロンティアを求めて、日本人も大勢が移民した。","japanesePS3":"戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。","WH":"In the half-century before the war, Taiwan was under the rule of Japan.\nMany Japanese had moved there, seeking a new frontier.","MG":"In the half-century before the war, Taiwan was under the rule of Japan.\nMany Japanese had moved there, seeking a new frontier.","UP":"Many Japanese moved to this land in the half‐century before the war.\nKinzo's family was a branch family of the Ushiromiyas.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_16-L0657","readerRefs":{"WH":[],"MG":["umi7_16-L0657"],"UP":["umi7_16-L0657"]}}],"sourceReading":"MG retains Japanese rule over Taiwan and seeking a new frontier, omitted from PS3 migration wording. The separate inherited before-the-war timing defect remains assessed in both releases.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-117","kind":"PC","description":"MG retains while Taiwan was under Japanese rule from original PC; PS3 and UP state only opening in1901.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_16","episode":7,"rows":{"JP":[861,861],"MG":[861,861],"UP":[861,861]},"japanese":"１９０１年に開通。","japanesePC":"日本統治下の１９０１年に開通。","japanesePS3":"１９０１年に開通。","WH":"It was constructed in 1901 while Taiwan was under Japanese rule.","MG":"It was constructed in 1901 while Taiwan was under Japanese rule.","UP":"It was opened in 1901.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_16-L0859","readerRefs":{"WH":[],"MG":["umi7_16-L0859"],"UP":["umi7_16-L0859"]}}],"sourceReading":"MG retains while Taiwan was under Japanese rule from original PC; PS3 and UP state only opening in1901.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-CH11-036",
+      "kind": "WH",
+      "description": "Natsuhi settles heavily onto a sofa and lets out a large sigh. WH says she takes a deep breath.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              15,
+              15
+            ],
+            "MG": [
+              15,
+              15
+            ],
+            "UP": [
+              15,
+              15
+            ]
+          },
+          "japanese": "夏妃は深くため息をつく。",
+          "japanesePC": "夏妃さんはそう言うと、どっかりとソファーに腰を下ろし大きく溜め息をつく。",
+          "japanesePS3": "夏妃は深くため息をつく。",
+          "WH": "As Natsuhi-san said this, she slumped down into one of the sofas and took a deep breath.",
+          "MG": "Natsuhi took a deep breath.",
+          "UP": "Natsuhi took a deep breath.",
+          "note": "Same-character repeated lexical family. EP7 Natsuhi sigh directly verified PC160255/160256 and paired row15. Original sofa-setting details are not asserted for this later occurrence; sigh loses exhaled emotional expression in both. A deep breath can accompany discomfort but does not specifically convey the source sigh.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_16-L0015",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0015"
+            ],
+            "UP": [
+              "umi7_16-L0015"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "夏妃は深くため息をつく。敬愛する金蔵の気紛れとはいえ、……屋敷の顔である玄関ホールに、それが飾られることには、強い抵抗があるようだった。白いシーツが取り払われると、そこには、ドレス姿の美しい西洋女性の姿が現れる…。それは、女性の姿を描いた、巨大な肖像画だった……。",
+              "translation": "Natsuhi took a deep breath. Though this was a whim of Kinzo's, a man she greatly respected, ...she seemed to resist the idea of hanging it right here in the entrance hall, the face of the mansion. When the white sheet was pulled off, a Western woman wearing a beautiful dress came into view... It was a massive portrait of a woman... "
+            },
+            "UP": {
+              "japanese": "夏妃は深くため息をつく。敬愛する金蔵の気紛れとはいえ、……屋敷の顔である玄関ホールに、それが飾られることには、強い抵抗があるようだった。白いシーツが取り払われると、そこには、ドレス姿の美しい西洋女性の姿が現れる…。それは、女性の姿を描いた、巨大な肖像画だった……。",
+              "translation": "Natsuhi took a deep breath. Though this was a whim of Kinzo's, a man she greatly respected, ......she seemed to resist the idea of hanging it right here in the entrance hall, the face of the mansion. When the white sheet was pulled off, a Western woman wearing a beautiful dress came into view... It was a massive portrait of a woman......"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0015"
+            ],
+            "UP": [
+              "umi7_16-L0015"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "大きく溜め息をつく is a deep sigh, an outward expression rather than an inhalation.",
+      "alternative": "Both can accompany fatigue, but the physical action and emotional expression are distinct.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-001",
+      "kind": "WH",
+      "description": "The person Kinzo most desires becomes the person he most wants to solve the riddle",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              65,
+              65
+            ],
+            "MG": [
+              65,
+              65
+            ],
+            "UP": [
+              65,
+              65
+            ]
+          },
+          "japanese": "その奇跡が、……金蔵のもっとも欲する人間を、導いてくれるのではないか…。",
+          "japanesePC": "その奇跡が、......金蔵のもっとも欲する人間を、導いてくれるのではないか...。",
+          "japanesePS3": "その奇跡が、……金蔵のもっとも欲する人間を、導いてくれるのではないか…。",
+          "WH": "Wouldn't that miracle......guide the person Kinzo most wanted to solve it...?",
+          "MG": "Perhaps that miracle...would guide the person Kinzo most wanted to solve it...",
+          "UP": "And that miracle......might shepherd the person Kinzo most desired...",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_16-L0063",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0063"
+            ],
+            "MG": [
+              "umi7_16-L0063"
+            ],
+            "UP": [
+              "umi7_16-L0063"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "誰にも解けぬように作った、難解な謎。それを解ける人間がいるとしたら、……まさに奇跡の人間。\nその奇跡が、……金蔵のもっとも欲する人間を、導いてくれるのではないか…。",
+              "translation": "A difficult riddle, made so that no one would be able to solve it. If someone actually could solve it, ...they themselves would be a miracle. Perhaps that miracle...would guide the person Kinzo most wanted to solve it... "
+            },
+            "UP": {
+              "japanese": "誰にも解けぬように作った、難解な謎。それを解ける人間がいるとしたら、……まさに奇跡の人間。\nその奇跡が、……金蔵のもっとも欲する人間を、導いてくれるのではないか…。",
+              "translation": "A difficult riddle, made so that no one would be able to solve it. If someone actually could solve it, ......they would be a miraculous person.\nAnd that miracle......might shepherd the person Kinzo most desired..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0063"
+            ],
+            "MG": [
+              "umi7_16-L0063"
+            ],
+            "UP": [
+              "umi7_16-L0063"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The miracle might lead or bring the person Kinzo most wants. That person’s significance remains open here, leading into Lion’s resurrection interpretation and the later wish to meet and apologize to Beatrice.",
+      "alternative": "The preceding miracle is a person capable of solving the riddle, so a desired solver is contextually relevant. The English nevertheless attaches to solve it to most wanted, replacing his desire for the person with preference about who solves. The Japanese does not specify the purpose of his longing that way.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-002",
+      "kind": "WH",
+      "description": "Genji rarely discussing hypothetical dreams becomes disliking such discussion",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.voice_state",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              242,
+              242
+            ],
+            "MG": [
+              242,
+              242
+            ],
+            "UP": [
+              242,
+              242
+            ]
+          },
+          "japanese": "若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。",
+          "japanesePC": "若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。",
+          "japanesePS3": "若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。",
+          "WH": "It may have been different when he was young, but in his old age, Genji was not fond of talking about dreams and 'what ifs'.",
+          "MG": "It may have been different during his youth, but in his old age, Genji rarely spoke of dreams and \"what ifs\".",
+          "UP": "It may have been different when he was young, but in his old age, Genji was not fond of talking about dreams and \"what ifs\".",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_16-L0242",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0242"
+            ],
+            "MG": [
+              "umi7_16-L0242"
+            ],
+            "UP": [
+              "umi7_16-L0242"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。その源次が、もしも…、と口にする。\n……金蔵は、友と呼ぶ源次の次の言葉を、静かに待った。",
+              "translation": "It may have been different during his youth, but in his old age, Genji rarely spoke of dreams and \"what ifs\". When Genji said \"if\"... ...Kinzo quietly waited for the words of the man he called a friend. "
+            },
+            "UP": {
+              "japanese": "若かった日ならいざ知れず、老境の源次が、夢語りのような、もしもの話をすることは、滅多にない。その源次が、もしも…、と口にする。\n……金蔵は、友と呼ぶ源次の次の言葉を、静かに待った。",
+              "translation": "It may have been different when he was young, but in his old age, Genji was not fond of talking about dreams and \"what ifs\". That very same Genji now spoke of a hypothetical.\n......Kinzo quietly waited for the next words of the man he called a friend."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0242"
+            ],
+            "MG": [
+              "umi7_16-L0242"
+            ],
+            "UP": [
+              "umi7_16-L0242"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "In old age Genji rarely voices dreamy hypothetical scenarios, making this particular if unusual.",
+      "alternative": "Not fond may loosely account for infrequent behavior, but rarity does not establish aversion or lack of liking. The source highlights an unusual act against his observed habit; the English assigns a personal preference.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-003",
+      "kind": "WH",
+      "description": "What kinds of minions imagination can create becomes how often it can create them",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_layer",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              448,
+              448
+            ],
+            "MG": [
+              448,
+              448
+            ],
+            "UP": [
+              448,
+              448
+            ]
+          },
+          "japanese": "今や、どのような眷属を増やすもあなたの想像力次第……」",
+          "japanesePC": "「私たちは、マリアージュ・ソルシエールで、世界の広げ方と、眷属の増やし方を学びました。今や、どのような眷属を増やすもあなたの想像力次第......。」",
+          "japanesePS3": "今や、どのような眷属を増やすもあなたの想像力次第……」",
+          "WH": "\"Here in Mariage Sorciere, we have learned how to expand our worlds and create new minions.  By now, you may create new minions as often as your imagination allows......\"",
+          "MG": "By now, you may create new minions as often as your imagination allows...\"",
+          "UP": "At this point, the kinds of minions you may create are limited only by your imagination......\"",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_16-L0447",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0447"
+            ],
+            "MG": [
+              "umi7_16-L0447"
+            ],
+            "UP": [
+              "umi7_16-L0447"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「私たちは、マリアージュ・ソルシエールで、世界の広げ方と、眷属の増やし方を学びました。今や、どのような眷属を増やすもあなたの想像力次第……」",
+              "translation": "\"Here in Mariage Sorcière, we have learned how to expand our worlds and create new minions. By now, you may create new minions as often as your imagination allows...\" "
+            },
+            "UP": {
+              "japanese": "「私たちは、マリアージュ・ソルシエールで、世界の広げ方と、眷属の増やし方を学びました。今や、どのような眷属を増やすもあなたの想像力次第……」",
+              "translation": "\"Here in Mariage Sorcière, we have learned how to expand our worlds and create new minions. At this point, the kinds of minions you may create are limited only by your imagination......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0447"
+            ],
+            "MG": [
+              "umi7_16-L0447"
+            ],
+            "UP": [
+              "umi7_16-L0447"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Virgilia says what kinds of minions Beatrice adds now depend on her imagination. Donoyouna specifies their nature or type.",
+      "alternative": "Freedom of creation can encompass frequency, but the source’s variable is kind. As often as substitutes a rate or number constraint for the character-design possibilities discussed with the dark objects and rabbits.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-004",
+      "kind": "WH",
+      "description": "Love’s flower appearing withered becomes actually withered",
+      "categories": [
+        "linguistic.overinterpretation",
+        "linguistic.imagery_rhythm_recurrence",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              509,
+              509
+            ],
+            "MG": [
+              509,
+              509
+            ],
+            "UP": [
+              509,
+              509
+            ]
+          },
+          "japanese": "今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。",
+          "japanesePC": "今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。",
+          "japanesePS3": "今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。",
+          "WH": "The flower of my love has curled up and withered as though against the winter cold.",
+          "MG": "The flower of my love has curled up and withered as though against the winter cold.",
+          "UP": "The flower of my love has curled up as if to resist the winter cold, and it even appears to have withered.",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_16-L0499",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0499"
+            ],
+            "MG": [
+              "umi7_16-L0499"
+            ],
+            "UP": [
+              "umi7_16-L0499"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "これが、………恋か。……妾は、恋とはもっと甘く、酔わせてくれるものだと信じていた。しかし、今となってはわからない。狂おしいほどに待ち焦がれるのに、……時折、それが裏返って、憎ささえ感じることがある。しかし、その憎ささえも、愛おしさの中に包まれているのだ。恋の根は、ずっと妾の心の片隅に残ってる。戦人が二度と帰って来ないかもしれないと、……どこかで諦めているのに。でも、恋の根はじっと、妾の心に深く居座っている。……それはつまり、……４年を経てなお、妾は信じているということだ。いつかきっと、帰って来る。今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。しかし、その根は生きている。……そしていつの日にか、きっと帰ってくる彼のために、もう一度、美しい花を咲かせようと、ずっとずっと、耐えているのだ。真里亞には、感謝している。マリアージュ・ソルシエールのお陰で、どれほど妾の心は慰められたことか。この出会いがなかったら、……妾は恋の根とともに、朽ち果てていたかも知れぬ。……この不完全な宇宙さえも、今の妾には、永らえるために重要なもの。妾は、完全な宇宙を得るその日まで、永らえねばならぬ。その日まで、……妾は完全には、満たないのだ。姿を持ち、名前を持ち、……どれほどに世界を深めても、……妾は満たないのだ。",
+              "translation": "Is this......love? ...I always believed that love was so much sweeter, so much more intoxicating. But now, I don't know anymore. Though I long for him so much it's maddening, ...I can sometimes feel hatred underneath. However, even that hatred is wrapped in adoration. The roots of love have remained in the corners of my heart all this time. At some point, ...I gave up hoping that Battler would return. However, the roots of love stayed right where they were. ...In other words, ...even four years later, I still believe. He will come back someday. The flower of my love has curled up and withered as though against the winter cold. However, the root is still alive. ...And, it is always, always waiting for him to return, waiting for a chance to bloom beautifully again. I'm grateful to Maria. Mariage Sorcière has eased the burden on my heart so much. If we hadn't met like this, ...I may have withered away along with that root. ...Even this incomplete universe is necessary for me to remain alive now. I must live on...until I can create my complete universe. Until that day...I will not be complete. Though I have a form and a name, ...no matter how deep my world grows, ...I will not be complete. "
+            },
+            "UP": {
+              "japanese": "これが、………恋か。……妾は、恋とはもっと甘く、酔わせてくれるものだと信じていた。しかし、今となってはわからない。狂おしいほどに待ち焦がれるのに、……時折、それが裏返って、憎ささえ感じることがある。しかし、その憎ささえも、愛おしさの中に包まれているのだ。恋の根は、ずっと妾の心の片隅に残ってる。戦人が二度と帰って来ないかもしれないと、……どこかで諦めているのに。でも、恋の根はじっと、妾の心に深く居座っている。……それはつまり、……４年を経てなお、妾は信じているということだ。いつかきっと、帰って来る。今は恋の花も、冬の寒さに耐えるように縮こまり、枯れているようにも見える。しかし、その根は生きている。……そしていつの日にか、きっと帰ってくる彼のために、もう一度、美しい花を咲かせようと、ずっとずっと、耐えているのだ。真里亞には、感謝している。マリアージュ・ソルシエールのお陰で、どれほど妾の心は慰められたことか。この出会いがなかったら、……妾は恋の根とともに、朽ち果てていたかも知れぬ。……この不完全な宇宙さえも、今の妾には、永らえるために重要なもの。妾は、完全な宇宙を得るその日まで、永らえねばならぬ。その日まで、……妾は完全には、満たないのだ。姿を持ち、名前を持ち、……どれほどに世界を深めても、……妾は満たないのだ。",
+              "translation": "This.........is love? ......I always believed that love was so much sweeter, so much more intoxicating. But now, I don't know anymore. Though I long for him so much it's maddening, ......I can sometimes feel hatred underneath. However, even that hatred is wrapped in adoration. The roots of love have remained in the corners of my heart all this time. Some part of me......has given up and accepted that Battler might never return. However, the roots of love have stayed right where they were. ......In other words, ......even four years later, I still believe. He will come back someday. The flower of my love has curled up as if to resist the winter cold, and it even appears to have withered. However, the roots are still alive. ......And so it endures, waiting for the day he will surely return, waiting for a chance to bloom beautifully again. I am grateful to Maria. Mariage Sorcière has eased the burden on my heart so much. If we had not met like this, ......I may have withered away along with those roots. ......Even this incomplete universe is now necessary for my survival. I must live on...until I can create my complete universe. Until that day......I will not be complete. Though I have a form and a name, ......no matter how deep my world grows, ......I will not be complete."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0499"
+            ],
+            "MG": [
+              "umi7_16-L0499"
+            ],
+            "UP": [
+              "umi7_16-L0499"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The flower shrinks as if enduring winter cold and may even look withered, while the root is alive and awaits blooming again.",
+      "alternative": "A withered flower can still have a living root and bloom again. Nonetheless the source specifically confines withering to appearance; has curled up and withered asserts a state rather than its outward seeming. As though in the English modifies against winter cold, not the existence of withering.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-005",
+      "kind": "WH",
+      "description": "Beatrice expecting to cause the miracle becomes wondering whether it will occur",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.agency_responsibility",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              544,
+              545
+            ],
+            "MG": [
+              544,
+              545
+            ],
+            "UP": [
+              544,
+              545
+            ]
+          },
+          "japanese": "復活を遂げたなら、必ずや、その奇跡を起こすだろう。\nそれが出来るなら、………妾は復活のため、本当の魔力を、手に入れたい。",
+          "japanesePC": "復活を遂げたなら、必ずや、その奇跡を起こすだろう。",
+          "japanesePS3": "復活を遂げたなら、必ずや、その奇跡を起こすだろう。\nそれが出来るなら、………妾は復活のため、本当の魔力を、手に入れたい。",
+          "WH": "Then if I succeed in reviving, will that miracle occur without fail?",
+          "MG": "Then if I succeed in reviving, would that miracle definitely occur?\nIf such a thing were possible, ...I'd want true magical power...to use for my resurrection.",
+          "UP": "...then if I succeeded in reviving, that miracle would surely occur.\nIf that is what I could be capable of, .........then I want true magical power...to use for my resurrection.",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "partially_corrected"
+          },
+          "readerRef": "umi7_16-L0533",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0533"
+            ],
+            "MG": [
+              "umi7_16-L0533"
+            ],
+            "UP": [
+              "umi7_16-L0533"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "真里亞が即答する。ベアトリーチェは、魔力を失っていて、往年の力が取り戻せずにいる。そういうことになっていた。だから、真里亞の返答は、まさにその通りなのだ。…………そうだな。妾は、魔力を失っているから、満たないのかも知れぬな。ならば、魔力が満ち、……真の意味で復活を遂げたならその時。……妾の世界は満ちるのか。それはつまり、………妾の望む、宇宙を育むもう一人の相手が、帰って来てくれるということなのか。……もし、妾が本当に、自らがそう名乗るように、かつて、奇跡を自在に操る魔法を思いのままにしたならば。復活を遂げたなら、必ずや、その奇跡を起こすだろう。それが出来るなら、………妾は復活のため、本当の魔力を、手に入れたい。",
+              "translation": "Maria answered instantly. Beatrice has lost her magical power and is unable to regain the strength she once had. That's how the story goes. So, Maria's answer was correct. ......That's right. I may be incomplete because I have lost my magical power. In that case, if my power becomes complete, ...and I revive in the truest sense, ...will my world become complete as well? Does that mean......that the person I want to nourish a universe with will come back? ...If, as I claim, I really was able to control miracles at will in the past with my magic... Then if I succeed in reviving, would that miracle definitely occur? If such a thing were possible, ...I'd want true magical power...to use for my resurrection. "
+            },
+            "UP": {
+              "japanese": "真里亞が即答する。ベアトリーチェは、魔力を失っていて、往年の力が取り戻せずにいる。そういうことになっていた。だから、真里亞の返答は、まさにその通りなのだ。…………そうだな。妾は、魔力を失っているから、満たないのかも知れぬな。ならば、魔力が満ち、……真の意味で復活を遂げたならその時。……妾の世界は満ちるのか。それはつまり、………妾の望む、宇宙を育むもう一人の相手が、帰って来てくれるということなのか。……もし、妾が本当に、自らがそう名乗るように、かつて、奇跡を自在に操る魔法を思いのままにしたならば。復活を遂げたなら、必ずや、その奇跡を起こすだろう。それが出来るなら、………妾は復活のため、本当の魔力を、手に入れたい。",
+              "translation": "Maria answered instantly. Beatrice has lost her magical power and is unable to regain the power she once had. That is how the story goes. So, Maria's answer is exactly correct. ............Yes. I may be incomplete because I have lost my magical power. In that case, if my power becomes complete, ......and I revive in the truest sense, ......will my world become complete as well? Does that mean.........that the person I want to nourish a universe with will come back? ......If, as I claim, I really was once able to control miracles at will with my magic... ...then if I succeeded in reviving, that miracle would surely occur. If that is what I could be capable of, .........then I want true magical power...to use for my resurrection."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0533"
+            ],
+            "MG": [
+              "umi7_16-L0533"
+            ],
+            "UP": [
+              "umi7_16-L0533"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Conditional on truly having had freely usable miracle-working magic as she claims and on reviving, she would surely bring about that miracle. Okosu assigns its production to her.",
+      "alternative": "Darou marks an expectation, and the subsequent sentence conditions her desire on being able to do this. It does not turn this line into a question or remove her agency: will that miracle occur asks whether the event happens of itself.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-006",
+      "kind": "WH",
+      "description": "Genji asking whether Shannon is already attempting the riddle becomes a future invitation",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.relationship_power",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              622,
+              622
+            ],
+            "MG": [
+              622,
+              622
+            ],
+            "UP": [
+              622,
+              622
+            ]
+          },
+          "japanese": "……お前は、挑んでいるのか？」",
+          "japanesePC": "「......碑文の謎に挑む資格は、全ての者に許されている。無論、それは使用人も例外ではない。......お前は、挑んでいるのか？」",
+          "japanesePS3": "……お前は、挑んでいるのか？」",
+          "WH": "\"......All are allowed to try and solve the epitaph's riddle.  Of course, the servants are no exceptions.  ......Will you try to solve it?\"",
+          "MG": "...Will you try to solve it?\"",
+          "UP": "......Are you making an attempt?\"",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_16-L0620",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0620"
+            ],
+            "MG": [
+              "umi7_16-L0620"
+            ],
+            "UP": [
+              "umi7_16-L0620"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……碑文の謎に挑む資格は、全ての者に許されている。無論、それは使用人も例外ではない。……お前は、挑んでいるのか？」",
+              "translation": "\"...All are allowed to try and solve the epitaph's riddle. Of course, the servants are no exceptions. ...Will you try to solve it?\" "
+            },
+            "UP": {
+              "japanese": "「……碑文の謎に挑む資格は、全ての者に許されている。無論、それは使用人も例外ではない。……お前は、挑んでいるのか？」",
+              "translation": "\"......All have the right to challenge the epitaph's riddle. Of course, the servants are no exceptions. ......Are you making an attempt?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0620"
+            ],
+            "MG": [
+              "umi7_16-L0620"
+            ],
+            "UP": [
+              "umi7_16-L0620"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After explaining universal eligibility, Genji asks whether she is attempting the riddle now. Shannon says no and explains difficulty and lack of desire for gold.",
+      "alternative": "The dialogue eventually includes an explicit instruction to try, so future participation is relevant. This question nonetheless concerns existing participation, not willingness to begin. The later instruction preserves invitation but does not restore the earlier inquiry.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-007",
+      "kind": "WH",
+      "description": "Rule lasting until the end of the war becomes rule in the half-century before the war",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.culture_history",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              657,
+              658
+            ],
+            "MG": [
+              657,
+              658
+            ],
+            "UP": [
+              657,
+              658
+            ]
+          },
+          "japanese": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。",
+          "japanesePC": "戦争が終わるまでの半世紀の間、台湾は日本に統治されていた。",
+          "japanesePS3": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。",
+          "WH": "In the half-century before the war, Taiwan was under the rule of Japan.",
+          "MG": "In the half-century before the war, Taiwan was under the rule of Japan.\nMany Japanese had moved there, seeking a new frontier.",
+          "UP": "Many Japanese moved to this land in the half‐century before the war.\nKinzo's family was a branch family of the Ushiromiyas.",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_16-L0657",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-16-V002"
+            ],
+            "MG": [
+              "umi7_16-L0657"
+            ],
+            "UP": [
+              "umi7_16-L0657"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。金蔵の一家は右代宮家の分家筋だった。かなりの遠縁だったらしいので、本家のある小田原には縛られず、この新天地に新しい未来を思い描いて移民したのだろう…。紗音たちは、なるほどと相槌を打つが、なぜに源次が唐突にそんな話を始めるのかわからなかった。",
+              "translation": "In the half-century before the war, Taiwan was under the rule of Japan. Many Japanese had moved there, seeking a new frontier. Kinzo's family was a branch family of the Ushiromiyas. Apparently, they were only distantly related to the Head Family, so they were able to form a new life and a new future, without being constrained by the Head Family in Odawara... Shannon and Kanon nodded their understanding, but they didn't know why Genji had suddenly broached this subject. "
+            },
+            "UP": {
+              "japanese": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。金蔵の一家は右代宮家の分家筋だった。かなりの遠縁だったらしいので、本家のある小田原には縛られず、この新天地に新しい未来を思い描いて移民したのだろう…。紗音たちは、なるほどと相槌を打つが、なぜに源次が唐突にそんな話を始めるのかわからなかった。",
+              "translation": "Many Japanese moved to this land in the half‐century before the war. Kinzo's family was a branch family of the Ushiromiyas. Apparently, they were only distantly related to the head family, so they were able to emigrate to this new world with dreams of a new future, without being constrained by the head family in Odawara... Shannon and Kanon nodded their understanding, but they didn't know why Genji had suddenly broached this subject."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-16-V002"
+            ],
+            "MG": [
+              "umi7_16-L0657"
+            ],
+            "UP": [
+              "umi7_16-L0657"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narration says Taiwan was governed by Japan during the half-century up to the war’s end.",
+      "alternative": "Before the war could be casual shorthand for the former era, but it explicitly locates the half-century before the war rather than ending when the war ends. This finding compares the two scripts’ stated interval and does not import an external historical correction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-008",
+      "kind": "WH",
+      "description": "Being blocked by such a simple issue becomes being stuck in the dusty room",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              742,
+              742
+            ],
+            "MG": [
+              742,
+              742
+            ],
+            "UP": [
+              742,
+              742
+            ]
+          },
+          "japanese": "その程度のことで手詰まりでは、あまりに面白くなかった。",
+          "japanesePC": "......埃塗れの書庫で、時に咳き込みながらまでして本を調べ、その程度のことで手詰まりでは、あまりに面白くなかった。",
+          "japanesePS3": "その程度のことで手詰まりでは、あまりに面白くなかった。",
+          "WH": "......I kept looking through books in this dusty archive, sometimes having to cough, and I was not happy with being stuck in a place like this.",
+          "MG": "and I was not happy with being stuck in a place like this.",
+          "UP": "was by no means enjoyable.",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi7_16-L0739",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0739"
+            ],
+            "MG": [
+              "umi7_16-L0739"
+            ],
+            "UP": [
+              "umi7_16-L0739"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "しかし台湾は決して狭くは無い。この大きな島のどこを、金蔵は懐かしき故郷と呼ぶのか。……埃塗れの書庫で、時に咳き込みながらまでして本を調べ、その程度のことで手詰まりでは、あまりに面白くなかった。",
+              "translation": "However, Taiwan is no small place. Just which part of this large island did Kinzo call his beloved hometown? ...I kept looking through books in this dusty library, sometimes having to cough, and I was not happy with being stuck in a place like this. "
+            },
+            "UP": {
+              "japanese": "しかし台湾は決して狭くは無い。この大きな島のどこを、金蔵は懐かしき故郷と呼ぶのか。……埃塗れの書庫で、時に咳き込みながらまでして本を調べ、その程度のことで手詰まりでは、あまりに面白くなかった。",
+              "translation": "However, Taiwan is no small place. Just which part of this large island did Kinzo call his beloved home of old? ......Looking through books in this dusty archive, sometimes having to cough, while this simple problem obstructed my progress... was by no means enjoyable."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0739"
+            ],
+            "MG": [
+              "umi7_16-L0739"
+            ],
+            "UP": [
+              "umi7_16-L0739"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After researching despite dust and coughing, Beatrice finds it frustrating to be stumped by something so minor: not knowing where in Taiwan Kinzo lived.",
+      "alternative": "The unpleasant archive is explicitly described and contributes to her frustration. But sono teido no koto names the modest informational obstacle, whereas in a place like this assigns being stuck to the physical location.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-009",
+      "kind": "WH",
+      "description": "A clue expected to identify one river becomes merely referring to one river",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.recurrence_discrimination"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              801,
+              801
+            ],
+            "MG": [
+              801,
+              801
+            ],
+            "UP": [
+              801,
+              801
+            ]
+          },
+          "japanese": "この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。",
+          "japanesePC": "この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。",
+          "japanesePS3": "この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。",
+          "WH": "That line should be talking about one of the 129 rivers.",
+          "MG": "That line should be talking about one of the 129 rivers.",
+          "UP": "That line should be talking about one of the 129 rivers.",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_16-L0798",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0798"
+            ],
+            "MG": [
+              "umi7_16-L0798"
+            ],
+            "UP": [
+              "umi7_16-L0798"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "馬鹿馬鹿しいとは思う。しかし、なぜかこの町が気になった。懐かしき、故郷を貫く鮎の川。この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。……鮎は、淡水魚。そして、淡水へ向けて流れる、淡水河の存在。滅茶苦茶なこじつけだとは思う。\n……それとも、これは何かの暗示なのか…？……ここまでわざわざやって来て、埃塗れになってまで本を探した。ここで引き下がっては、ただの汚れ損というもの。…………良かろうぞ。妾が適当に放りて開いたページに神託があったかどうか。……妾の運試しと行こうではないか。妾は、さらに詳しく調べようと次なるページを開く……。",
+              "translation": "I realize that this is stupid. And yet, there's something about this town... Behold the sweetfish river running through my beloved hometown. That line should be talking about one of the 129 rivers. ...Sweetfish...are freshwater fish. And here's this \"Freshwater River\", flowing down to a town called \"Freshwater\". It's like a strange, trivial word game. ...Or could it be some kind of code...? ...I've been looking for books here so long that the dust is piling up on me. If I give up now, it will all have been a waste of time. ......Very well. Why don't I test my luck, and see if the random page the book opened to contains an oracle. I turned to the next page, trying to search in even greater detail... "
+            },
+            "UP": {
+              "japanese": "馬鹿馬鹿しいとは思う。しかし、なぜかこの町が気になった。懐かしき、故郷を貫く鮎の川。この文言で、１２９本ある河川の内の１本が特定できるはずなのだ。……鮎は、淡水魚。そして、淡水へ向けて流れる、淡水河の存在。滅茶苦茶なこじつけだとは思う。\n……それとも、これは何かの暗示なのか…？……ここまでわざわざやって来て、埃塗れになってまで本を探した。ここで引き下がっては、ただの汚れ損というもの。…………良かろうぞ。妾が適当に放りて開いたページに神託があったかどうか。……妾の運試しと行こうではないか。妾は、さらに詳しく調べようと次なるページを開く……。",
+              "translation": "I realize that this is stupid. And yet, something about this town seems off. Behold the sweetfish river, running through my beloved home of old. That line should be talking about one of the 129 rivers. ......Sweetfish...are freshwater fish. And here's this \"Freshwater River\", flowing down to a town called \"Freshwater\". I do think I'm stretching it.\n......Or...is it some kind of hint...? ......I've come all the way to this archive and even gotten myself covered in dust in my search for books. If I give up now, it will all have been a waste of time. ............Very well. Why don't I test my luck, ......and see if the random page the book opened to contains a message from above? I turned to the next page, trying to search in even greater detail......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0798"
+            ],
+            "MG": [
+              "umi7_16-L0798"
+            ],
+            "UP": [
+              "umi7_16-L0798"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The wording should permit identifying one river out of129, which motivates attention to the wordplay and the subsequent failure of geographic narrowing.",
+      "alternative": "Talking about one of the rivers implies a particular referent, but does not assert that this wording allows it to be singled out. Tokutei dekiru explicitly expresses discriminating ability rather than reference alone.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-010",
+      "kind": "WH",
+      "description": "Erika’s atlas search for solving the riddle becomes confirmed subsequent success",
+      "categories": [
+        "linguistic.addition",
+        "mystery.epistemic_status",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              818,
+              818
+            ],
+            "MG": [
+              818,
+              818
+            ],
+            "UP": [
+              818,
+              818
+            ]
+          },
+          "japanese": "そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった」",
+          "japanesePC": "「第３のゲームで、絵羽は書庫で何かの本を調べて謎を解いた。そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった。」",
+          "japanesePS3": "そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった」",
+          "WH": "\"In the third game, Eva solved the riddle after reading a book in the book archive.  Then, in the fifth game, Furudo Erika looked for an atlas in the book archive before solving the riddle herself.\"",
+          "MG": "Then, in the fifth game, Furudo Erika looked for an atlas in that room before solving the riddle herself.\"",
+          "UP": "Then, in the fifth game, Furudo Erika looked for an atlas in the book archive before solving the riddle herself.\"",
+          "note": "Complete independent agent reading with parent source checks of flagged agency, miracle assertion, conditional production, and Japanese-edition migration difference. Canonical wording reused verbatim with separate witness outcomes. UP544 restores assertion but still omits producing the miracle;545 gives capability without explicit production, partial correction. Both before-war657 retain the timing error despite MG PC carryover being yellow. Blanket44 held as low-impact setting wording. UP161 successor inference supported159–160. MG388 general creature-development wording,391 form recovered386, UP476 drawing licensed illustrated grimoire context, MG505 giving-up language checked against507 continuing belief and held. Epitaph638 recovered640. Luxury655 held. MG806 duration/dust, UP799 interest/seems off held in context. New MG235 and UP308 separately verified against original PC. Sigh15 inherited candidate awaits canonical family linkage. Connected epitaph localization remains for the final181rows.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_16-L0817",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0817"
+            ],
+            "MG": [
+              "umi7_16-L0817"
+            ],
+            "UP": [
+              "umi7_16-L0817"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「第３のゲームで、絵羽は書庫で何かの本を調べて謎を解いた。そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった」",
+              "translation": "\"In the third game, Eva solved the riddle after reading a book in the book archive. Then, in the fifth game, Furudo Erika looked for an atlas in that room before solving the riddle herself.\" "
+            },
+            "UP": {
+              "japanese": "「第３のゲームで、絵羽は書庫で何かの本を調べて謎を解いた。そして第５のゲームで古戸ヱリカは、謎を解くために書庫で求めた本は地図帳だった」",
+              "translation": "\"In the third game, Eva solved the riddle after reading a book in the book archive. Then, in the fifth game, Furudo Erika looked for an atlas in the book archive before solving the riddle herself.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0817"
+            ],
+            "MG": [
+              "umi7_16-L0817"
+            ],
+            "UP": [
+              "umi7_16-L0817"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva solved after consulting a book; in game5 the book Erika sought for the purpose of solving was an atlas. The source distinguishes Eva’s result from Erika’s purpose and sought material.",
+      "alternative": "Erika may have solved according to other evidence, but this sentence only states her atlas search and its purpose. Before solving the riddle herself adds a successful later event and attributes it to her, rather than reporting the evidence actually stated here.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH16-011",
+      "kind": "WH",
+      "description": "Taking the character as it is becomes an instruction to look it up",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.information_timing_salience",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              965,
+              966
+            ],
+            "MG": [
+              965,
+              966
+            ],
+            "UP": [
+              965,
+              966
+            ]
+          },
+          "japanese": "「難しく考えるな。\nそのままだ」",
+          "japanesePC": "「難しく考えるな。そのままだ。」",
+          "japanesePS3": "「難しく考えるな。\nそのままだ」",
+          "WH": "\"Don't think too hard on it.  Just look it up.\"",
+          "MG": "\"Don't overthink it.\nWhat else can the word \"power\" mean?\"",
+          "UP": "\"Don't think too hard on it.\nYou either know it or you don't.\"",
+          "note": "Full continuous three-witness reading and parent connected review954–983. MG English puzzle adaptation is grouped under PAIR-EP07-CH17-121-240-001 with CH16 occurrences103 and954–983, not double-counted and not yellow. Original lookup instruction966 is absent in both: MG changes it within that adaptation; UP replaces literal-reading guidance with you either know it or you do not. Both are modified_but_unresolved outcomes of canonical011, rather than unchanged retention or an additional duplicate defect. UP alternative knowledge-context paraphrase considered, but misses the positive instruction that the character is simply what it is. Japanese-rule861 independently proven PC carryover. Both851 water/river held after825 distinguishes the nonliteral river. MG883 certainty held with896 belief recovery,947 omitted remaining-letter action held in full subsequent solution context; UP1012 suspected subject remains ambiguous. Glyph variants excluded. No additional independent findings.",
+          "dispositions": {
+            "MG": "modified_but_unresolved",
+            "UP": "modified_but_unresolved"
+          },
+          "readerRef": "umi7_16-L0965",
+          "readerRefs": {
+            "WH": [
+              "umi7_16-L0965"
+            ],
+            "MG": [
+              "umi7_16-L0965"
+            ],
+            "UP": [
+              "umi7_16-L0965"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「難しく考えるな。そのままだ」",
+              "translation": "\"Don't overthink it. What else can the word \"power\" mean?\" "
+            },
+            "UP": {
+              "japanese": "「難しく考えるな。そのままだ」",
+              "translation": "\"Don't think too hard on it. You either know it or you don't.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_16-L0965"
+            ],
+            "MG": [
+              "umi7_16-L0965"
+            ],
+            "UP": [
+              "umi7_16-L0965"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will tells Lion not to overthink: it is just as it stands. Clair then supplies the numeric reading kei.",
+      "alternative": "Looking up a character is a plausible way to learn that numeric sense, but sono mama da does not instruct research. Just look it up invents a method of finding the answer rather than indicating the straightforward reading of what is present.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH16-121-240-001",
+      "kind": "additional",
+      "description": "Defining the exceptional solution as a miracle becomes promising that a miracle will occur",
+      "categories": [
+        "linguistic.logical_relation",
+        "mystery.epistemic_modality"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              235,
+              235
+            ],
+            "MG": [
+              235,
+              235
+            ],
+            "UP": [
+              235,
+              235
+            ]
+          },
+          "japanese": "だから、奇跡なのだ」",
+          "japanesePC": "",
+          "japanesePS3": "だから、奇跡なのだ」",
+          "WH": "",
+          "MG": "That's why a miracle will occur.\"",
+          "UP": "That is why it would be a miracle.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_16-L0233",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0233"
+            ],
+            "UP": [
+              "umi7_16-L0233"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……いや、それで良いのだ。……誰にも解けぬ。だから、奇跡なのだ」",
+              "translation": "\"...No, that will do. ...No one will solve it. That's why a miracle will occur.\" "
+            },
+            "UP": {
+              "japanese": "「……いや、それで良いのだ。……誰にも解けぬ。だから、奇跡なのだ」",
+              "translation": "\"......Yes...so be it. ......No one is capable of solving it. That is why it would be a miracle.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0233"
+            ],
+            "UP": [
+              "umi7_16-L0233"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Nobody can solve it; that is why a solution would be a miracle. PC161085/161087 also defines the event as a miracle rather than promising its occurrence.",
+      "alternative": "Kinzo hopes for the miracle. That does not make inability to solve a cause or guarantee of its occurrence.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH16-241-360-001",
+      "kind": "additional",
+      "description": "Being made to solve the epitaph becomes being allowed to solve it",
+      "categories": [
+        "linguistic.word_choice",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              307,
+              308
+            ],
+            "MG": [
+              307,
+              308
+            ],
+            "UP": [
+              307,
+              308
+            ]
+          },
+          "japanese": "「碑文は、解かれたんじゃない。\n解かされたんだ」",
+          "japanesePC": "",
+          "japanesePS3": "「碑文は、解かれたんじゃない。\n解かされたんだ」",
+          "WH": "",
+          "MG": "\"The epitaph wasn't solved.\nSomeone was made to solve it.\"",
+          "UP": "\"The epitaph wasn't \"solved\".\nIt was allowed to be solved.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi7_16-L0307",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0307"
+            ],
+            "UP": [
+              "umi7_16-L0307"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「碑文は、解かれたんじゃない。解かされたんだ」",
+              "translation": "\"The epitaph wasn't solved. Someone was made to solve it.\" "
+            },
+            "UP": {
+              "japanese": "「碑文は、解かれたんじゃない。解かされたんだ」",
+              "translation": "\"The epitaph wasn't \"solved\". It was allowed to be solved.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0307"
+            ],
+            "UP": [
+              "umi7_16-L0307"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The causative passive is arranged or induced solving, explained by the prepared Cinderella299 and staged farce301. Original PC161329/161331 retains made to solve.",
+      "alternative": "Japanese causatives can permit rather than compel. Here the surrounding deliberate preparation supports induced solving; allowed weakens that claimed agency.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH17-121-240-001",
+      "kind": "additional",
+      "description": "MG rewrites the epitaph arrival clue and its solution as a treasure-power exponent puzzle.",
+      "categories": [
+        "linguistic.addition"
+      ],
+      "severity": "major",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              103,
+              103
+            ],
+            "MG": [
+              103,
+              103
+            ],
+            "UP": [
+              103,
+              103
+            ]
+          },
+          "japanese": "そして第十の晩に旅は終わり、黄金の郷に至る……。",
+          "japanesePC": "",
+          "japanesePS3": "そして第十の晩に旅は終わり、黄金の郷に至る……。",
+          "WH": "",
+          "MG": "Then, on the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time...",
+          "UP": "Then, on the tenth twilight, the journey ends, and I shall reach the Home of the Gold......",
+          "note": "Earlier statement of the same adapted epitaph",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_16-L0103",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0103"
+            ],
+            "UP": [
+              "umi7_16-L0103"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "そして第十の晩に旅は終わり、黄金の郷に至る……。\n魔女は賢者を讃え、四つの宝を授けるだろう。\n一つは、黄金郷の全ての黄金。……金蔵は、ベアトリーチェより莫大な黄金を授けられ、今尚、それをどこかに隠していると噂される。これはやはり、家人や使用人たちが噂しているように、金蔵が隠した黄金の在り処を示す暗号なのだろうか。",
+              "translation": "Then, on the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time... The witch shall praise the wise and bestow four treasures. One shall be all the gold from the Golden Land. ...Kinzo received a massive amount of gold from Beatrice, and rumor has it that it still lies hidden somewhere. Is this, as the family members and servants are all whispering, a code showing the location of Kinzo's hidden gold? "
+            },
+            "UP": {
+              "japanese": "そして第十の晩に旅は終わり、黄金の郷に至る……。\n魔女は賢者を讃え、四つの宝を授けるだろう。\n一つは、黄金郷の全ての黄金。……金蔵は、ベアトリーチェより莫大な黄金を授けられ、今尚、それをどこかに隠していると噂される。これはやはり、家人や使用人たちが噂しているように、金蔵が隠した黄金の在り処を示す暗号なのだろうか。",
+              "translation": "Then, on the tenth twilight, the journey ends, and I shall reach the Home of the Gold......\nThe witch shall praise the wise, and bestow four treasures.\nOne shall be all of the Golden Land's gold. ......Kinzo received a massive amount of gold from Beatrice, and rumor has it that it still lies hidden somewhere. Is this, as the family members and servants are all whispering, a code showing the location of Kinzo's hidden gold?"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0103"
+            ],
+            "UP": [
+              "umi7_16-L0103"
+            ]
+          }
+        },
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              954,
+              983
+            ],
+            "MG": [
+              954,
+              983
+            ],
+            "UP": [
+              954,
+              983
+            ]
+          },
+          "japanese": "「第十の晩の、黄金の“郷”に注目した推理だな。\n碑文の中には、他に四度も黄金郷という単語が登場するのに、なぜかこれ一つだけが、黄金の郷と記されている」\n「なぜ、第十の晩だけ、黄金の郷なのか。\nこれに気付くのにも、そしてどうしてなのかに気付くのにも、これまた長い時間を掛けました」\n「楼座の推理はこうだった。\n黄金の“郷”をキョウと読み、京都の“京”と読み解いた。\nそして、懐かしき故郷から京都までの十日かかる旅路を十分の一した地点に、何か秘密があると疑った。\n………いい推理だったが惜しかった。\n“京”は京都以外にも読み解けたんだ」\n「……“京”を、京都以外で読み解く……？\nん……」\n「難しく考えるな。\nそのままだ」\n「……京です。\nいえ、キョウでなく、ケイと読みましょうか。\n数字の単位です。\n一十百千万億兆、京」\n「数字の、単位……！」\n「……私の場合は、この六軒島にいるという地の利がありましたから。\n“京”を思い当たるヒントはあったのです。\n私の場合は、先に答えがわかってから、逆に問題の意味がわかったという感じでした」\n「ややこしいことを言うと理御が混乱する。\n話を戻そう。\n……第十の晩に１京に至るならば、第一の晩はいくつになる？」\n「い、１京の十分の一ですから、\n……えっと、………千兆…？」\n「正解だ。\n千兆から、鍵の選びし６文字を間引くんだ」\n「Ｑｉｌｉａｎが英語である以上、千兆も英語であろうとはすぐに察しました」\n「千兆は英語では、Ｑｕａｄｒｉｌｌｉｏｎ。",
+          "japanesePC": "",
+          "japanesePS3": "「第十の晩の、黄金の“郷”に注目した推理だな。\n碑文の中には、他に四度も黄金郷という単語が登場するのに、なぜかこれ一つだけが、黄金の郷と記されている」\n「なぜ、第十の晩だけ、黄金の郷なのか。\nこれに気付くのにも、そしてどうしてなのかに気付くのにも、これまた長い時間を掛けました」\n「楼座の推理はこうだった。\n黄金の“郷”をキョウと読み、京都の“京”と読み解いた。\nそして、懐かしき故郷から京都までの十日かかる旅路を十分の一した地点に、何か秘密があると疑った。\n………いい推理だったが惜しかった。\n“京”は京都以外にも読み解けたんだ」\n「……“京”を、京都以外で読み解く……？\nん……」\n「難しく考えるな。\nそのままだ」\n「……京です。\nいえ、キョウでなく、ケイと読みましょうか。\n数字の単位です。\n一十百千万億兆、京」\n「数字の、単位……！」\n「……私の場合は、この六軒島にいるという地の利がありましたから。\n“京”を思い当たるヒントはあったのです。\n私の場合は、先に答えがわかってから、逆に問題の意味がわかったという感じでした」\n「ややこしいことを言うと理御が混乱する。\n話を戻そう。\n……第十の晩に１京に至るならば、第一の晩はいくつになる？」\n「い、１京の十分の一ですから、\n……えっと、………千兆…？」\n「正解だ。\n千兆から、鍵の選びし６文字を間引くんだ」\n「Ｑｉｌｉａｎが英語である以上、千兆も英語であろうとはすぐに察しました」\n「千兆は英語では、Ｑｕａｄｒｉｌｌｉｏｎ。",
+          "WH": "",
+          "MG": "\"Right, that theory about a ten-day journey ending at the tenth twilight.\n\"On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.\" She took that section to be a literal trip that ends when you \"attain to\", or reach, the treasures of the Golden Land.\"\n\"What meaning was there in those words?\nRealizing that there was something to be found...and then realizing what that something actually was... took another long stretch of time.\"\n\"By Rosa's reasoning,\n\"attain to\" meant reaching some physical location\nrepresented by the four treasures.\n...It was a good try, but not quite right.\nIt's not the treasures we're supposed to reach, but their power.\"\n\"...What does it even mean to \"reach\" the power of something like that...?\nHmm...\"\n\"Don't overthink it.\nWhat else can the word \"power\" mean?\"\n\"...You reach...\nor rather, raise yourself to the power of the \"four\" treasures.\nStarting at twilight number \"ten\".\nAnd this is done \"once and for the last time\".\"\n\"Oh, so it's an exponent, like a math problem...!\"\n\"...Here, I had a home-field advantage, since I lived on Rokkenjima.\nThere was a hint there that made it easier to think of a certain large number.\nIn fact, you might say that I actually found the answer before I knew what the question was.\"\n\"If you keep making it so complicated, Lion's gonna get a headache.\nLet's get back to the point.\n......10 to the 4th power is ten thousand. If you reach ten thousand on the tenth twilight, how far have you gotten by the first twilight?\"\n\"Well, that's just one tenth of ten thousand.\nA thousand, right?\"\n\"Right.\nBut while that gives us a single word, it has nowhere near enough letters, and it doesn't match the key at all.\"\n\"However, the end of the line says \"you will attain to the power once and for the last time\". If we interpret this as raising 10 to the 4th power once, and then doing the same thing one final time, we end up with ten quadrillion.\"\n\"That's ten quadrillion at the tenth twilight, or \"quadrillion\" at the first twilight.",
+          "UP": "\"That theory focused on the tenth twilight's \"Home of the Gold\".\nThe epitaph uses the phrase \"Golden Land\" four separate times, but the phrase \"Home of the Gold\" is only used that once.\"\n\"Why is it written that way only on the tenth twilight?\nIt took me a long time to notice the significance of this, and just as long to discover the reason.\"\n\"Rosa's theory went like this.\nShe read the \"Home\" (郷) kanji as \"kyou\" and interpreted it as {ruby:kyou:京, which she took as short for \"Kyoto\" ({ruby:kyouto:京都).\nThen, she reasoned that if you take a ten‐day trip from the beloved hometown to Kyoto, there might be some secret at the end of the first tenth of that journey.\n.........It was a good theory, but she just missed the mark.\n京 has another meaning besides Kyoto.\"\n\"......京 can mean something other than Kyoto......?\nHmmm......\"\n\"Don't think too hard on it.\nYou either know it or you don't.\"\n\"......There's another meaning of 京.\nOne where it's not read \"kyou\", but \"kei\".\nIt's the name of a number.\n{nobr:10,000 is {ruby:man:万, {nobr:10,000 {ruby:man:万 is {ruby:oku:億, {nobr:10,000 {ruby:oku:億 is {ruby:chou:兆, and {nobr:10,000 {ruby:chou:兆 is {ruby:kei:京.\"\n\"So it's a number......!\"\n\"......Here, I had a home‐field advantage, since I lived on Rokkenjima.\nThere was a hint there that made it easier to think of the number \"kei\".\nIn fact, you might say that I actually found the answer before I knew what the question was.\"\n\"If you keep making it so complicated, Lion's gonna get a headache.\nLet's get back to the point.\n......If you reach one kei on the tenth twilight, how far have you gotten by the first twilight?\"\n\"O‐one tenth of one kei, and one kei is ten thousand chou...\n......So.........a thousand chou?\"\n\"Exactly.\nWe remove the key's chosen six letters from a thousand chou.\"\n\"Since Qilian was written in English, I immediately guessed that \"a thousand chou\" would also have to be written in English.\"\n\"A thousand chou in English is \"quadrillion\".",
+          "note": "Connected adapted solution replacing Kyoto/kei reasoning",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_16-L0954",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0954",
+              "umi7_16-L0956",
+              "umi7_16-L0958",
+              "umi7_16-L0963",
+              "umi7_16-L0965",
+              "umi7_16-L0967",
+              "umi7_16-L0971",
+              "umi7_16-L0972",
+              "umi7_16-L0975",
+              "umi7_16-L0978",
+              "umi7_16-L0980",
+              "umi7_16-L0982",
+              "umi7_16-L0983"
+            ],
+            "UP": [
+              "umi7_16-L0954",
+              "umi7_16-L0956",
+              "umi7_16-L0958",
+              "umi7_16-L0963",
+              "umi7_16-L0965",
+              "umi7_16-L0967",
+              "umi7_16-L0971",
+              "umi7_16-L0972",
+              "umi7_16-L0975",
+              "umi7_16-L0978",
+              "umi7_16-L0980",
+              "umi7_16-L0982",
+              "umi7_16-L0983"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「第十の晩の、黄金の“郷”に注目した推理だな。碑文の中には、他に四度も黄金郷という単語が登場するのに、なぜかこれ一つだけが、黄金の郷と記されている」\n「なぜ、第十の晩だけ、黄金の郷なのか。これに気付くのにも、そしてどうしてなのかに気付くのにも、これまた長い時間を掛けました」\n「楼座の推理はこうだった。黄金の“郷”をキョウと読み、京都の“京”と読み解いた。そして、懐かしき故郷から京都までの十日かかる旅路を十分の一した地点に、何か秘密があると疑った。………いい推理だったが惜しかった。“京”は京都以外にも読み解けたんだ」\n「……“京”を、京都以外で読み解く……？　ん……」\n「難しく考えるな。そのままだ」\n「……京です。いえ、キョウでなく、ケイと読みましょうか。数字の単位です。一十百千万億兆、京」\n「数字の、単位……！」\n「ややこしいことを言うと理御が混乱する。話を戻そう。……第十の晩に１京に至るならば、第一の晩はいくつになる？」\n「い、１京の十分の一ですから、……えっと、………千兆…？」\n「正解だ。千兆から、鍵の選びし６文字を間引くんだ」\n「Ｑｉｌｉａｎが英語である以上、千兆も英語であろうとはすぐに察しました」\n「千兆は英語では、Ｑｕａｄｒｉｌｌｉｏｎ。……第５のゲームでの戦人の推理通り、１１文字だ。いや、これはあんたの推理だったか」",
+              "translation": "\"Right, that theory about a ten-day journey ending at the tenth twilight. \"On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.\" She took that section to be a literal trip that ends when you \"attain to\", or reach, the treasures of the Golden Land.\" \n\"What meaning was there in those words? Realizing that there was something to be found...and then realizing what that something actually was... took another long stretch of time.\" \n\"By Rosa's reasoning, \"attain to\" meant reaching some physical location represented by the four treasures. ...It was a good try, but not quite right. It's not the treasures we're supposed to reach, but their power.\" \n\"...What does it even mean to \"reach\" the power of something like that...? Hmm...\" \n\"Don't overthink it. What else can the word \"power\" mean?\" \n\"...You reach... or rather, raise yourself to the power of the \"four\" treasures. Starting at twilight number \"ten\". And this is done \"once and for the last time\".\" \n\"Oh, so it's an exponent, like a math problem...!\" \n\"If you keep making it so complicated, Lion's gonna get a headache. Let's get back to the point. ......10 to the 4th power is ten thousand. If you reach ten thousand on the tenth twilight, how far have you gotten by the first twilight?\" \n\"Well, that's just one tenth of ten thousand. A thousand, right?\" \n\"Right. But while that gives us a single word, it has nowhere near enough letters, and it doesn't match the key at all.\" \n\"However, the end of the line says \"you will attain to the power once and for the last time\". If we interpret this as raising 10 to the 4th power once, and then doing the same thing one final time, we end up with ten quadrillion.\" \n\"That's ten quadrillion at the tenth twilight, or \"quadrillion\" at the first twilight. ...As Battler guessed in the fifth game, it has 11 letters. Or should I say...as you guessed?\" "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0954",
+              "umi7_16-L0956",
+              "umi7_16-L0958",
+              "umi7_16-L0963",
+              "umi7_16-L0965",
+              "umi7_16-L0967",
+              "umi7_16-L0971",
+              "umi7_16-L0975",
+              "umi7_16-L0978",
+              "umi7_16-L0980",
+              "umi7_16-L0982",
+              "umi7_16-L0983"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "The source concludes by reaching the Golden Land. CH16 explains 郷 read as kyou, then 京 interpreted as kei (10^16), one tenth giving quadrillion. MG adds treasure power and finality to the epitaph and replaces the Kyoto/kei reasoning with repeated exponentiation. Original PC163883/163977/164003 and164983/164985 preserve the Japanese chain and arrival; UP follows them.",
+      "alternative": "The English adaptation coordinates its altered epitaph with a solvable English mechanism. This explains the editorial choice but does not preserve the source clue, Rosa theory, or narrated arithmetic; it is one connected adaptation rather than multiple independent defects.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-116",
+      "kind": "PC",
+      "description": "MG retains Japanese rule over Taiwan and seeking a new frontier, omitted from PS3 migration wording. The separate inherited before-the-war timing defect remains assessed in both releases.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              657,
+              658
+            ],
+            "MG": [
+              657,
+              658
+            ],
+            "UP": [
+              657,
+              658
+            ]
+          },
+          "japanese": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。",
+          "japanesePC": "戦争が終わるまでの半世紀の間、台湾は日本に統治されていた。\n新しいフロンティアを求めて、日本人も大勢が移民した。",
+          "japanesePS3": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。\n金蔵の一家は右代宮家の分家筋だった。",
+          "WH": "In the half-century before the war, Taiwan was under the rule of Japan.\nMany Japanese had moved there, seeking a new frontier.",
+          "MG": "In the half-century before the war, Taiwan was under the rule of Japan.\nMany Japanese had moved there, seeking a new frontier.",
+          "UP": "Many Japanese moved to this land in the half‐century before the war.\nKinzo's family was a branch family of the Ushiromiyas.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_16-L0657",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0657"
+            ],
+            "UP": [
+              "umi7_16-L0657"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。金蔵の一家は右代宮家の分家筋だった。かなりの遠縁だったらしいので、本家のある小田原には縛られず、この新天地に新しい未来を思い描いて移民したのだろう…。紗音たちは、なるほどと相槌を打つが、なぜに源次が唐突にそんな話を始めるのかわからなかった。",
+              "translation": "In the half-century before the war, Taiwan was under the rule of Japan. Many Japanese had moved there, seeking a new frontier. Kinzo's family was a branch family of the Ushiromiyas. Apparently, they were only distantly related to the Head Family, so they were able to form a new life and a new future, without being constrained by the Head Family in Odawara... Shannon and Kanon nodded their understanding, but they didn't know why Genji had suddenly broached this subject. "
+            },
+            "UP": {
+              "japanese": "戦争が終わるまでの半世紀の間、多くの日本人がこの地へ移民していった。金蔵の一家は右代宮家の分家筋だった。かなりの遠縁だったらしいので、本家のある小田原には縛られず、この新天地に新しい未来を思い描いて移民したのだろう…。紗音たちは、なるほどと相槌を打つが、なぜに源次が唐突にそんな話を始めるのかわからなかった。",
+              "translation": "Many Japanese moved to this land in the half‐century before the war. Kinzo's family was a branch family of the Ushiromiyas. Apparently, they were only distantly related to the head family, so they were able to emigrate to this new world with dreams of a new future, without being constrained by the head family in Odawara... Shannon and Kanon nodded their understanding, but they didn't know why Genji had suddenly broached this subject."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0657"
+            ],
+            "UP": [
+              "umi7_16-L0657"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG retains Japanese rule over Taiwan and seeking a new frontier, omitted from PS3 migration wording. The separate inherited before-the-war timing defect remains assessed in both releases.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-117",
+      "kind": "PC",
+      "description": "MG retains while Taiwan was under Japanese rule from original PC; PS3 and UP state only opening in1901.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_16",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              861,
+              861
+            ],
+            "MG": [
+              861,
+              861
+            ],
+            "UP": [
+              861,
+              861
+            ]
+          },
+          "japanese": "１９０１年に開通。",
+          "japanesePC": "日本統治下の１９０１年に開通。",
+          "japanesePS3": "１９０１年に開通。",
+          "WH": "It was constructed in 1901 while Taiwan was under Japanese rule.",
+          "MG": "It was constructed in 1901 while Taiwan was under Japanese rule.",
+          "UP": "It was opened in 1901.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_16-L0859",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0859"
+            ],
+            "UP": [
+              "umi7_16-L0859"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "淡水線。それは、台北から淡水港までを結んだ鉄道だ。１９０１年に開通。\nその後、駅を増やし続け、台北の大きな動脈となった。この鉄道は戦後も運用され、台北捷運淡水線として今日も使用されている。その路線は、台北駅より伸び、終点の淡水へ向けて下っていく……。台北駅。\n長安駅（旧名、大正街駅）。\n双連駅。\n大同公司駅。\n円山駅。\n剣潭駅（旧名、宮ノ下駅）。\n士林駅。\n石碑駅（旧名、…………、",
+              "translation": "The Danshui Line. It's a railway that goes from Taipei to Danshui Harbor. It was constructed in 1901 while Taiwan was under Japanese rule. Afterwards, the number of stations continued to grow, and it became a major artery into Taipei. This railroad was used after the war as well and is still in common use as the Danshui Line of the Taipei Rapid Transit System. Its route begins at Taipei Station and continues on until the town of Danshui... {ruby:Taipei:台北 Station. {ruby:Chang'an:長安 Station (formerly {ruby:Taishougai:大正街 Station). {ruby:Shuanglian:双連 Station. {ruby:Tatung Company:大坌公司 Station. {ruby:Yuanshan:円山 Station. {ruby:Jiantan:剣潭 Station (formerly {ruby:Miyanoshita:宮ノ下 Station). {ruby:Shilin:士林 Station. {ruby:Shipai:石碑 (formerly...... "
+            },
+            "UP": {
+              "japanese": "淡水線。それは、台北から淡水港までを結んだ鉄道だ。１９０１年に開通。\nその後、駅を増やし続け、台北の大きな動脈となった。この鉄道は戦後も運用され、台北捷運淡水線として今日も使用されている。その路線は、台北駅より伸び、終点の淡水へ向けて下っていく……。台北駅。\n長安駅（旧名、大正街駅）。\n双連駅。\n大同公司駅。\n円山駅。\n剣潭駅（旧名、宮ノ下駅）。\n士林駅。\n石碑駅（旧名、…………、",
+              "translation": "The Tamsui Line. It's a railway that goes from Taipei to Tamsui Harbor. It was opened in 1901.\nAfterwards, the number of stations continued to grow, and it became a major artery into Taipei. This railroad was used after the war as well and is still in common use as the Taipei Metro Tamsui Line. Its route begins at Taipei Station and continues on until the town of Tamsui...... {ruby:Taipei:台北 Station.\n{ruby:Chang‐an:長安 Station (old name: {ruby:Taishougai:大正街 Station).\n{ruby:Shuanglian:双連 Station.\nTatung Company Station.\n{ruby:Yuanshan:円山 Station.\n{ruby:Jiantan:剣潭 Station (old name: {ruby:Miyanoshita:宮ノ下 Station).\n{ruby:Shilin:士林 Station.\n{ruby:Shipai:石碑 Station (old name—"
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_16-L0859"
+            ],
+            "UP": [
+              "umi7_16-L0859"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG retains while Taiwan was under Japanese rule from original PC; PS3 and UP state only opening in1901.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-CH11-036": {
+      "umi7_16-L0015": {
+        "MG": [
+          "took a deep breath"
+        ],
+        "UP": [
+          "took a deep breath"
+        ]
+      }
+    },
+    "WH-EP07-CH16-001": {
+      "umi7_16-L0063": {
+        "WH": [
+          "the person Kinzo most wanted to solve it"
+        ],
+        "MG": [
+          "the person Kinzo most wanted to solve it"
+        ]
+      }
+    },
+    "WH-EP07-CH16-002": {
+      "umi7_16-L0242": {
+        "WH": [
+          "was not fond of talking about dreams and 'what ifs'"
+        ],
+        "UP": [
+          "was not fond of talking about dreams and \"what ifs\""
+        ]
+      }
+    },
+    "WH-EP07-CH16-003": {
+      "umi7_16-L0447": {
+        "WH": [
+          "as often as your imagination allows"
+        ],
+        "MG": [
+          "as often as your imagination allows"
+        ]
+      }
+    },
+    "WH-EP07-CH16-004": {
+      "umi7_16-L0499": {
+        "WH": [
+          "has curled up and withered"
+        ],
+        "MG": [
+          "has curled up and withered"
+        ]
+      }
+    },
+    "WH-EP07-CH16-005": {
+      "umi7_16-L0533": {
+        "WH": [
+          "will that miracle occur without fail"
+        ],
+        "MG": [
+          "would that miracle definitely occur"
+        ],
+        "UP": [
+          "that miracle would surely occur"
+        ]
+      }
+    },
+    "WH-EP07-CH16-006": {
+      "umi7_16-L0620": {
+        "WH": [
+          "Will you try to solve it"
+        ],
+        "MG": [
+          "Will you try to solve it"
+        ]
+      }
+    },
+    "WH-EP07-CH16-007": {
+      "PC-CANDIDATE-EP07-16-V002": {
+        "WH": [
+          "In the half-century before the war"
+        ]
+      },
+      "umi7_16-L0657": {
+        "MG": [
+          "In the half-century before the war"
+        ],
+        "UP": [
+          "in the half‐century before the war"
+        ]
+      }
+    },
+    "WH-EP07-CH16-008": {
+      "umi7_16-L0739": {
+        "WH": [
+          "being stuck in a place like this"
+        ],
+        "MG": [
+          "being stuck in a place like this"
+        ]
+      }
+    },
+    "WH-EP07-CH16-009": {
+      "umi7_16-L0798": {
+        "WH": [
+          "That line should be talking about one of the 129 rivers"
+        ],
+        "MG": [
+          "That line should be talking about one of the 129 rivers"
+        ],
+        "UP": [
+          "That line should be talking about one of the 129 rivers"
+        ]
+      }
+    },
+    "WH-EP07-CH16-010": {
+      "umi7_16-L0817": {
+        "WH": [
+          "before solving the riddle herself"
+        ],
+        "MG": [
+          "before solving the riddle herself"
+        ],
+        "UP": [
+          "before solving the riddle herself"
+        ]
+      }
+    },
+    "WH-EP07-CH16-011": {
+      "umi7_16-L0965": {
+        "WH": [
+          "Just look it up"
+        ],
+        "MG": [
+          "What else can the word \"power\" mean"
+        ],
+        "UP": [
+          "You either know it or you don't"
+        ]
+      }
+    },
+    "PAIR-EP07-CH16-121-240-001": {
+      "umi7_16-L0233": {
+        "MG": [
+          "That's why a miracle will occur"
+        ]
+      }
+    },
+    "PAIR-EP07-CH16-241-360-001": {
+      "umi7_16-L0307": {
+        "UP": [
+          "It was allowed to be solved"
+        ]
+      }
+    },
+    "PAIR-EP07-CH17-121-240-001": {
+      "umi7_16-L0103": {
+        "MG": [
+          "attain to the power of the Golden Land's treasures, once and for the last time"
+        ]
+      },
+      "umi7_16-L0954": {
+        "MG": [
+          "that theory about a ten-day journey ending at the tenth twilight",
+          "attain to the power of the Golden Land's treasures, once and for the last time",
+          "a literal trip that ends when you \"attain to\", or reach, the treasures of the Golden Land"
+        ]
+      },
+      "umi7_16-L0956": {
+        "MG": [
+          "Realizing that there was something to be found...and then realizing what that something actually was"
+        ]
+      },
+      "umi7_16-L0958": {
+        "MG": [
+          "\"attain to\" meant reaching some physical location represented by the four treasures",
+          "It's not the treasures we're supposed to reach, but their power"
+        ]
+      },
+      "umi7_16-L0963": {
+        "MG": [
+          "\"reach\" the power of something like that"
+        ]
+      },
+      "umi7_16-L0965": {
+        "MG": [
+          "What else can the word \"power\" mean"
+        ]
+      },
+      "umi7_16-L0967": {
+        "MG": [
+          "raise yourself to the power of the \"four\" treasures",
+          "Starting at twilight number \"ten\"",
+          "this is done \"once and for the last time\""
+        ]
+      },
+      "umi7_16-L0971": {
+        "MG": [
+          "an exponent, like a math problem"
+        ]
+      },
+      "umi7_16-L0975": {
+        "MG": [
+          "10 to the 4th power is ten thousand",
+          "If you reach ten thousand on the tenth twilight"
+        ]
+      },
+      "umi7_16-L0978": {
+        "MG": [
+          "one tenth of ten thousand. A thousand"
+        ]
+      },
+      "umi7_16-L0980": {
+        "MG": [
+          "it has nowhere near enough letters, and it doesn't match the key at all"
+        ]
+      },
+      "umi7_16-L0982": {
+        "MG": [
+          "\"you will attain to the power once and for the last time\"",
+          "raising 10 to the 4th power once, and then doing the same thing one final time"
+        ]
+      },
+      "umi7_16-L0983": {
+        "MG": {
+          "kind": "anchor-mismatch",
+          "reason": "This unit already yields correct ten quadrillion and quadrillion plus eleven letters; exponent adaptation is in preceding units."
+        }
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

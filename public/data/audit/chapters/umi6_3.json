@@ -1,1 +1,1313 @@
-{"findings":[{"id":"WH-EP06-CH03-001","kind":"WH","description":"WH says Krauss is sleeping where the source only says he seems to be resting in his room.","categories":["linguistic.overinterpretation","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[7,7],"MG":[7,7],"UP":[7,7]},"japanese":"蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。","japanesePC":"蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。","japanesePS3":"蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。","WH":"Krauss appeared to have suffered a stomach ache from the stress and was sleeping in his room.","MG":"Krauss appeared to have suffered a stomachache from the stress and was sleeping in his room.","UP":"Krauss appeared to have suffered a stomachache from the stress and was resting in his room.","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_3-L0006","readerRefs":{"WH":["umi6_3-L0006"],"MG":["umi6_3-L0006"],"UP":["umi6_3-L0006"]}}],"sourceReading":"胃痛を起こし、部屋で休んでいるようだった leaves the kind of rest unspecified and presents an appearance; そのストレスのせいか also qualifies the stress explanation.","alternative":"Sleep is a possible form of resting, but is not established, and can imply different awareness and availability.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-002","kind":"WH","description":"WH has Shannon concede that is true rather than that may be so.","categories":["linguistic.logical_relation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[89,89],"MG":[89,89],"UP":[89,89]},"japanese":"「…そ、……それはそうかもしれないけど……」","japanesePC":"「...そ、......それはそうかもしれないけど......。」","japanesePS3":"「…そ、……それはそうかもしれないけど……」","WH":"\"...W, ......well, that is true, but......\"","MG":"\"...W-Well, that is true, but...\"","UP":"\"...W‐......well, that is true, but......\"","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_3-L0089","readerRefs":{"WH":["umi6_3-L0089"],"MG":["umi6_3-L0089"],"UP":["umi6_3-L0089"]}}],"sourceReading":"それはそうかもしれないけど is tentative agreement after Kanon says George only assumes she is human.","alternative":"Stammering retains discomfort, but does not preserve the explicit possibility marker about the claim’s truth.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-003","kind":"WH","description":"WH makes himself the maker rather than the recipient of the lie.","categories":["linguistic.logical_relation","character.motivation_emotion","mystery.mystery_character_link"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[178,178],"MG":[178,178],"UP":[178,178]},"japanese":"自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！","japanesePC":"自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！　そして僕のそんな嘘が、お嬢様を傷つけたのが、堪らなく許せなかった！！　そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」","japanesePS3":"自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！","WH":"I never realized that a lie you make yourself could be so sad, so painful, so excruciating!!  And I just couldn't forgive myself for hurting Milady with that lie!!  I believed that I didn't deserve to ever fall in love again!!\"","MG":"I never realized that a lie you make to yourself could be so sad, so painful, so excruciating!!","UP":"I never realized that lying to yourself could be so sad, so painful, so excruciating!!","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_3-L0177","readerRefs":{"WH":["umi6_3-L0177"],"MG":["umi6_3-L0177"],"UP":["umi6_3-L0177"]}}],"sourceReading":"自分につく嘘 is a lie told to oneself, linking his denial of love to self-deception before also describing injury to Jessica.","alternative":"A lie you make yourself can be read as a personally fabricated lie and the preceding confession suggests self-deception, but the specific inward target is absent.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-004","kind":"WH","description":"WH introduces no one else refusing the right to love.","categories":["linguistic.wrong_subject","character.agency_responsibility","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[191,191],"MG":[191,191],"UP":[191,191]},"japanese":"あなたにあげられないなら、私があげる」","japanesePC":"「うん。あなたにあげられないなら、私があげる。」","japanesePS3":"あなたにあげられないなら、私があげる」","WH":"\"Yes.  If no one else will give you that right, I will.\"","MG":"If you won't give it to yourself, I'll give it to you.\"","UP":"If you can't give it to yourself, then I will.\"","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_3-L0190","readerRefs":{"WH":["umi6_3-L0190"],"MG":["umi6_3-L0190"],"UP":["umi6_3-L0190"]}}],"sourceReading":"Following 自分だけが与えられる and Shannon granting herself the right, あなたにあげられないなら、私があげる offers to grant it if Kanon cannot do so; the exchange does not state that outside people refuse it.","alternative":"The Japanese omits the granting subject and the surface に phrase can mark recipient, but the immediately established self-granting rule supplies the causal context. Even a less specific reading does not supply no one else will.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-005","kind":"WH","description":"WH restricts 報われない恋 to unrequited love.","categories":["linguistic.overinterpretation","character.relationship_power","mystery.category_flattening"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[248,248],"MG":[248,248],"UP":[248,248]},"japanese":"……たとえそれが報われない恋だと知っていても」","japanesePC":"......たとえそれが報われない恋だと知っていても。」","japanesePS3":"……たとえそれが報われない恋だと知っていても」","WH":"......Even if they know that love will be unrequited.\"","MG":"...Even if they know that love will be unrequited.\"","UP":"......Even if they know that love will be unrequited.\"","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_3-L0245","readerRefs":{"WH":["umi6_3-L0245"],"MG":["umi6_3-L0245"],"UP":["umi6_3-L0245"]}}],"sourceReading":"A love that will not be rewarded or fulfilled need not lack reciprocation; Jessica’s confession and anticipated George proposal already establish mutual feelings as relevant.","alternative":"Unrequited is a common rendering for failed romantic love, but specifically says the other person will not return it and therefore selects an obstacle the source leaves broader.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-006","kind":"WH","description":"WH makes the recognition of his changed demeanor occur as soon as Kanon opens his mouth.","categories":["linguistic.wrong_subject","character.viewpoint_attribution"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[290,291],"MG":[290,291],"UP":[290,291]},"japanese":"それを、開口一番に見破られたようで、\n……そんなにも自分の顔は普段と違うのかと、戸惑いさえした。","japanesePC":"それを、開口一番に見破られたようで、......そんなにも自分の顔は普段と違うのかと、戸惑いさえした。","japanesePS3":"それを、開口一番に見破られたようで、\n……そんなにも自分の顔は普段と違うのかと、戸惑いさえした。","WH":"He was a bit shocked to hear that his expression had changed so much that people had apparently noticed as soon as he opened his mouth.","MG":"He was a bit shocked to hear that his expression had changed so much...\nthat people had apparently noticed as soon as he opened his mouth.","UP":"He was a bit shocked to hear that his expression had changed so much...\nthat people had apparently noticed as soon as he opened his mouth.","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_3-L0288","readerRefs":{"WH":["umi6_3-L0288"],"MG":["umi6_3-L0288"],"UP":["umi6_3-L0288"]}}],"sourceReading":"開口一番に見破られたようで refers to the others spotting it in their very first remarks, producing his surprise at how different his face looks.","alternative":"He has already greeted them, but the source does not tie detection to his speech. The opening-remark idiom belongs to those who voice the discovery.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-007","kind":"WH","description":"WH removes Jessica’s inability to look into Kanon’s eyes and substitutes general impaired sight.","categories":["linguistic.undertranslation","character.relationship_power","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[354,354],"MG":[354,354],"UP":[354,354]},"japanese":"嘉音くんが眩しくて、……目が見られない」","japanesePC":"「嘉音くんは家具じゃない。そして使用人になるために生まれてきたのでもない！　年頃の男の子として、もっともっと、人生を楽しんでいいはずなんだよ...！　は、ははははは。私も、......眩しいや。嘉音くんが眩しくて、......目が見られない。」","japanesePS3":"嘉音くんが眩しくて、……目が見られない」","WH":"\"You aren't furniture, Kanon-kun.  And you weren't born just so that you could become a servant!  A boy your age should be enjoying life much, much more...!  Ha, hahahaha.  I'm the one who's dazzled.  You're so dazzling......I can hardly see.\"","MG":"You're so dazzling, ...I can hardly see.\"","UP":"You're so dazzling......I can hardly see.\"","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_3-L0349","readerRefs":{"WH":["umi6_3-L0349"],"MG":["umi6_3-L0349"],"UP":["umi6_3-L0349"]}}],"sourceReading":"嘉音くんが眩しくて、目が見られない says he is so dazzling that she cannot look at his eyes, expressing embarrassment during mutual confession.","alternative":"I can hardly see extends the sunlight metaphor naturally, but loses the specific eye-contact avoidance and its interpersonal meaning.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-008","kind":"WH","description":"WH treats the lovers as having found new selves rather than using their names in order to find them.","categories":["linguistic.tense_aspect","character.motivation_emotion","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[465,465],"MG":[465,465],"UP":[465,465]},"japanese":"新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、","japanesePC":"新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、......あまりにその魔女の姿は弱々しかった。","japanesePS3":"新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、","WH":"Compared to the young boy and girl who had found new versions of themselves and called each other by their true names, ......this witch looked very feeble.","MG":"Compared to the young boy and girl who had found new versions of themselves by calling each other by their true names,","UP":"Compared to the young boy and girl who had found new versions of themselves and called each other by their true names,","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"modified_but_unresolved","UP":"retained"},"readerRef":"umi6_3-L0465","readerRefs":{"WH":["umi6_3-L0465"],"MG":["umi6_3-L0465"],"UP":["umi6_3-L0465"]}}],"sourceReading":"新しい自分たちを見つけるため qualifies why they call each other by true names: to find their new selves.","alternative":"The confession marks an important change, but their future change and Kanon’s requested time remain unresolved. Purpose does not establish completed achievement.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-009","kind":"WH","description":"WH replaces departure from Ushiromiya family registration with stopping use of the surname.","categories":["linguistic.word_choice","world.world_fact","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[493,493],"MG":[493,493],"UP":[493,493]},"japanese":"その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。","japanesePC":"「納得いかないわ。その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。......その変化に、お兄ちゃんは何の関係もない。まったくの逆恨みだわ。」","japanesePS3":"その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。","WH":"\"That doesn't make sense.  During those six years, Onii-chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name.  ......Onii-chan had nothing to do with that change.  Her hatred must be totally misguided.\"","MG":"During those six years, Onii-chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name.","UP":"During those six years, Onii‐chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name.","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_3-L0492","readerRefs":{"WH":["umi6_3-L0492"],"MG":["umi6_3-L0492"],"UP":["umi6_3-L0492"]}}],"sourceReading":"右代宮家の籍から抜けて specifies exiting the family register or registered family membership, not merely choosing a different name in use.","alternative":"Leaving the registered family may accompany a surname change, but the source identifies formal family separation as evidence of estrangement; name use alone is not equivalent.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-010","kind":"WH","description":"WH makes Featherine personally allow access instead of instructing Ange to grant it.","categories":["linguistic.wrong_subject","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[535,537],"MG":[535,537],"UP":[535,537]},"japanese":"……気に入ったぞ、縁寿。\nその雛の娘に我が書庫を許すがいい。\n魔女の世界へ帰る扉を、開いてやるが良かろうぞ」","japanesePC":"......気に入ったぞ、縁寿。その雛の娘に我が書庫を許すがいい。魔女の世界へ帰る扉を、開いてやるが良かろうぞ。」","japanesePS3":"……気に入ったぞ、縁寿。\nその雛の娘に我が書庫を許すがいい。\n魔女の世界へ帰る扉を、開いてやるが良かろうぞ」","WH":"......I've taken a liking to her, Ange.  I shall allow this chick to make use of my study.  Let us open the door which leads back to the world of witches.\"","MG":"...I've taken a liking to her, Ange.\nI shall allow this chick to make use of my library.\nLet us open the door that leads back to the world of witches.\"","UP":"......I've taken a liking to her, Ange.\nI shall allow this chick to make use of my study.\nLet us open the door which leads back to the world of witches.\"","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_3-L0534","readerRefs":{"WH":["umi6_3-L0534"],"MG":["umi6_3-L0534"],"UP":["umi6_3-L0534"]}}],"sourceReading":"Addressing 縁寿, その雛の娘に我が書庫を許すがいい is an instruction to her miko to allow the chick into her archive; 開いてやるが良かろうぞ continues the permissive instruction.","alternative":"Featherine owns the archive and later formally grants access herself, but that does not preserve the agency of her initial instruction to Ange.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH03-011","kind":"WH","description":"WH replaces the girl’s noble resolve with feelings of respect.","categories":["linguistic.word_choice","character.motivation_emotion","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[615,615],"MG":[615,615],"UP":[615,615]},"japanese":"……彼女の尊い意思を、止める言葉などありはしない。","japanesePC":"......彼女の尊い意思を、止める言葉などありはしない。","japanesePS3":"……彼女の尊い意思を、止める言葉などありはしない。","WH":"......No words would stop this girl's feelings of respect.","MG":"...No words would stop this girl's feelings of respect.","UP":"......She had no words with which to stop this girl from following her noble sense of purpose.","note":"Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_3-L0614","readerRefs":{"WH":["umi6_3-L0614"],"MG":["umi6_3-L0614"],"UP":["umi6_3-L0614"]}}],"sourceReading":"彼女の尊い意思 identifies her worthy determination to become the witch Father needs; it does not name reverence as the feeling Ange cannot stop.","alternative":"Her resolve is devoted to Father and may involve respect, but 尊い modifies the worth of her will rather than making respect its content.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH03-121-240-001","kind":"additional","description":"MG changes the self-granted right to love into having what it takes to fall in love.","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[180,189],"MG":[180,189],"UP":[180,189]},"japanese":"そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」\n「あるよ。\n恋の資格はね？\n自分だけが与えられるの。\n家具だから駄目とか、そんなの関係ない。\n駄目だって自分で決めたら、もう駄目なの。\n決め付けちゃ駄目。\nだから私は与えたよ、この身の程知らずな家具の身に、恋の資格を。\nだから嘉音くんにだってあるよ」\n「恋をする資格が？」","japanesePC":"","japanesePS3":"そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」\n「あるよ。\n恋の資格はね？\n自分だけが与えられるの。\n家具だから駄目とか、そんなの関係ない。\n駄目だって自分で決めたら、もう駄目なの。\n決め付けちゃ駄目。\nだから私は与えたよ、この身の程知らずな家具の身に、恋の資格を。\nだから嘉音くんにだってあるよ」\n「恋をする資格が？」","WH":"","MG":"I believed that I didn't have what it takes to ever fall in love again!!\"\n\"But that wasn't true.\nDo you know what's needed to fall in love?\nIt's something you can't get from anyone but yourself.\nBeing furniture or not has nothing to do with it.\nIf you decide for yourself that it won't work out, then it won't.\nYou mustn't leap to such rigid conclusions.\nThat's why I, overambitious furniture that I am, gave myself what's needed to fall in love.\nSo you have it too, Kanon-kun.\"\n\"You mean, I have what it takes to fall in love?\"","UP":"I believed that I didn't have any right to fall in love ever again!!\"\n\"But you do.\nThe right to love...\nis something only you can give yourself.\nBeing furniture or not has nothing to do with it.\nIf you tell yourself \"no\", then it'll never happen.\nYou mustn't think that way.\nThat's why I gave myself, impudent furniture that I am, the right to fall in love.\nAnd you have it too.\"\n\"The right to fall in love?\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_3-L0177","readerRefs":{"WH":[],"MG":["umi6_3-L0177","umi6_3-L0181","umi6_3-L0189"],"UP":["umi6_3-L0177","umi6_3-L0181","umi6_3-L0189"]}}],"sourceReading":"JP repeats 恋の資格 as a right one grants oneself. Original WH uses deserve and right; UP retains that entitlement. MG repeatedly uses what it takes and what is needed, shifting moral permission to personal capacity.","alternative":"What it takes can broadly include confidence or self-permission, but this repeated formulation removes the explicit entitlement under discussion.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH03-361-480-001","kind":"additional","description":"MG substitutes 音 for 嘉 in Jessica’s guess about Kanon’s real name.","categories":["linguistic.word_choice"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[406,406],"MG":[406,406],"UP":[406,406]},"japanese":"きっと、嘉音の嘉が含まれた名前だと思うな…。","japanesePC":"","japanesePS3":"きっと、嘉音の嘉が含まれた名前だと思うな…。","WH":"","MG":"I'll bet it has the character 音 in it, like Kanon does...","UP":"I'll bet it has {ruby:ka:嘉 in it, like Kanon does...","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_3-L0403","readerRefs":{"WH":[],"MG":["umi6_3-L0403"],"UP":["umi6_3-L0403"]}}],"sourceReading":"JP explicitly guesses 嘉 from 嘉音; original PC65637/65639 and UP retain 嘉. MG uses 音, changing the character she predicts.","alternative":"Both characters occur in Kanon, but only 嘉 is the source conjecture; no edition change licenses 音.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH03-481-600-001","kind":"additional","description":"MG inserts an extraneous to after will in Featherine’s command.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_3","episode":6,"rows":{"JP":[573,573],"MG":[573,573],"UP":[573,573]},"japanese":"その方に世話を命ず」","japanesePC":"","japanesePS3":"その方に世話を命ず」","WH":"","MG":"you will to see to her needs.\"","UP":"See that she has no trouble.\"","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi6_3-L0570","readerRefs":{"WH":[],"MG":["umi6_3-L0570"],"UP":["umi6_3-L0570"]}}],"sourceReading":"MG you will to see to her needs is ungrammatical. JP commands Ange to care for Beatrice; original PC66298/66300 and UP use a grammatical imperative.","alternative":"The intended command remains recoverable; archaic diction does not license this construction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-CH03-001",
+      "kind": "WH",
+      "description": "WH says Krauss is sleeping where the source only says he seems to be resting in his room.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              7,
+              7
+            ],
+            "MG": [
+              7,
+              7
+            ],
+            "UP": [
+              7,
+              7
+            ]
+          },
+          "japanese": "蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。",
+          "japanesePC": "蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。",
+          "japanesePS3": "蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。",
+          "WH": "Krauss appeared to have suffered a stomach ache from the stress and was sleeping in his room.",
+          "MG": "Krauss appeared to have suffered a stomachache from the stress and was sleeping in his room.",
+          "UP": "Krauss appeared to have suffered a stomachache from the stress and was resting in his room.",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_3-L0006",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0006"
+            ],
+            "MG": [
+              "umi6_3-L0006"
+            ],
+            "UP": [
+              "umi6_3-L0006"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "夏妃は、金蔵の不在を今年も何とか誤魔化そうと、その工作に余念がない。蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。",
+              "translation": "The only thing on Natsuhi's mind was the plan to cover up Kinzo's absence again this year. Krauss appeared to have suffered a stomachache from the stress and was sleeping in his room. "
+            },
+            "UP": {
+              "japanese": "夏妃は、金蔵の不在を今年も何とか誤魔化そうと、その工作に余念がない。蔵臼はそのストレスのせいか、胃痛を起こし、部屋で休んでいるようだった。",
+              "translation": "The only thing on Natsuhi's mind was the plan to cover up Kinzo's absence this year as well. Krauss appeared to have suffered a stomachache from the stress and was resting in his room."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0006"
+            ],
+            "MG": [
+              "umi6_3-L0006"
+            ],
+            "UP": [
+              "umi6_3-L0006"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "胃痛を起こし、部屋で休んでいるようだった leaves the kind of rest unspecified and presents an appearance; そのストレスのせいか also qualifies the stress explanation.",
+      "alternative": "Sleep is a possible form of resting, but is not established, and can imply different awareness and availability.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-002",
+      "kind": "WH",
+      "description": "WH has Shannon concede that is true rather than that may be so.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              89,
+              89
+            ],
+            "MG": [
+              89,
+              89
+            ],
+            "UP": [
+              89,
+              89
+            ]
+          },
+          "japanese": "「…そ、……それはそうかもしれないけど……」",
+          "japanesePC": "「...そ、......それはそうかもしれないけど......。」",
+          "japanesePS3": "「…そ、……それはそうかもしれないけど……」",
+          "WH": "\"...W, ......well, that is true, but......\"",
+          "MG": "\"...W-Well, that is true, but...\"",
+          "UP": "\"...W‐......well, that is true, but......\"",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_3-L0089",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0089"
+            ],
+            "MG": [
+              "umi6_3-L0089"
+            ],
+            "UP": [
+              "umi6_3-L0089"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…そ、……それはそうかもしれないけど……」",
+              "translation": "\"...W-Well, that is true, but...\" "
+            },
+            "UP": {
+              "japanese": "「…そ、……それはそうかもしれないけど……」",
+              "translation": "\"...W‐......well, that is true, but......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0089"
+            ],
+            "MG": [
+              "umi6_3-L0089"
+            ],
+            "UP": [
+              "umi6_3-L0089"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "それはそうかもしれないけど is tentative agreement after Kanon says George only assumes she is human.",
+      "alternative": "Stammering retains discomfort, but does not preserve the explicit possibility marker about the claim’s truth.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-003",
+      "kind": "WH",
+      "description": "WH makes himself the maker rather than the recipient of the lie.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion",
+        "mystery.mystery_character_link"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              178,
+              178
+            ],
+            "MG": [
+              178,
+              178
+            ],
+            "UP": [
+              178,
+              178
+            ]
+          },
+          "japanese": "自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！",
+          "japanesePC": "自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！　そして僕のそんな嘘が、お嬢様を傷つけたのが、堪らなく許せなかった！！　そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」",
+          "japanesePS3": "自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！",
+          "WH": "I never realized that a lie you make yourself could be so sad, so painful, so excruciating!!  And I just couldn't forgive myself for hurting Milady with that lie!!  I believed that I didn't deserve to ever fall in love again!!\"",
+          "MG": "I never realized that a lie you make to yourself could be so sad, so painful, so excruciating!!",
+          "UP": "I never realized that lying to yourself could be so sad, so painful, so excruciating!!",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_3-L0177",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0177"
+            ],
+            "MG": [
+              "umi6_3-L0177"
+            ],
+            "UP": [
+              "umi6_3-L0177"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「悲しかったッ！！　自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！　そして僕のそんな嘘が、お嬢様を傷つけたのが、堪らなく許せなかった！！　そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」",
+              "translation": "\"I was!! I never realized that a lie you make to yourself could be so sad, so painful, so excruciating!! And I couldn't forgive myself for hurting Milady with that lie!! I believed that I didn't have what it takes to ever fall in love again!!\" "
+            },
+            "UP": {
+              "japanese": "「悲しかったッ！！　自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！　そして僕のそんな嘘が、お嬢様を傷つけたのが、堪らなく許せなかった！！　そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」",
+              "translation": "\"I was!! I never realized that lying to yourself could be so sad, so painful, so excruciating!! And I just couldn't forgive myself for hurting Milady with that lie!! I believed that I didn't have any right to fall in love ever again!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0177"
+            ],
+            "MG": [
+              "umi6_3-L0177"
+            ],
+            "UP": [
+              "umi6_3-L0177"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "自分につく嘘 is a lie told to oneself, linking his denial of love to self-deception before also describing injury to Jessica.",
+      "alternative": "A lie you make yourself can be read as a personally fabricated lie and the preceding confession suggests self-deception, but the specific inward target is absent.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-004",
+      "kind": "WH",
+      "description": "WH introduces no one else refusing the right to love.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              191,
+              191
+            ],
+            "MG": [
+              191,
+              191
+            ],
+            "UP": [
+              191,
+              191
+            ]
+          },
+          "japanese": "あなたにあげられないなら、私があげる」",
+          "japanesePC": "「うん。あなたにあげられないなら、私があげる。」",
+          "japanesePS3": "あなたにあげられないなら、私があげる」",
+          "WH": "\"Yes.  If no one else will give you that right, I will.\"",
+          "MG": "If you won't give it to yourself, I'll give it to you.\"",
+          "UP": "If you can't give it to yourself, then I will.\"",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_3-L0190",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0190"
+            ],
+            "MG": [
+              "umi6_3-L0190"
+            ],
+            "UP": [
+              "umi6_3-L0190"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うん。あなたにあげられないなら、私があげる」",
+              "translation": "\"Yes. If you won't give it to yourself, I'll give it to you.\" "
+            },
+            "UP": {
+              "japanese": "「うん。あなたにあげられないなら、私があげる」",
+              "translation": "\"Yes. If you can't give it to yourself, then I will.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0190"
+            ],
+            "MG": [
+              "umi6_3-L0190"
+            ],
+            "UP": [
+              "umi6_3-L0190"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Following 自分だけが与えられる and Shannon granting herself the right, あなたにあげられないなら、私があげる offers to grant it if Kanon cannot do so; the exchange does not state that outside people refuse it.",
+      "alternative": "The Japanese omits the granting subject and the surface に phrase can mark recipient, but the immediately established self-granting rule supplies the causal context. Even a less specific reading does not supply no one else will.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-005",
+      "kind": "WH",
+      "description": "WH restricts 報われない恋 to unrequited love.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.relationship_power",
+        "mystery.category_flattening"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              248,
+              248
+            ],
+            "MG": [
+              248,
+              248
+            ],
+            "UP": [
+              248,
+              248
+            ]
+          },
+          "japanese": "……たとえそれが報われない恋だと知っていても」",
+          "japanesePC": "......たとえそれが報われない恋だと知っていても。」",
+          "japanesePS3": "……たとえそれが報われない恋だと知っていても」",
+          "WH": "......Even if they know that love will be unrequited.\"",
+          "MG": "...Even if they know that love will be unrequited.\"",
+          "UP": "......Even if they know that love will be unrequited.\"",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_3-L0245",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0245"
+            ],
+            "MG": [
+              "umi6_3-L0245"
+            ],
+            "UP": [
+              "umi6_3-L0245"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うん。……勝ったら。自分の恋に、全力を。……たとえそれが報われない恋だと知っていても」",
+              "translation": "\"Yes. ...Whichever of us wins, that person will pursue their love with all they've got. ...Even if they know that love will be unrequited.\" "
+            },
+            "UP": {
+              "japanese": "「うん。……勝ったら。自分の恋に、全力を。……たとえそれが報われない恋だと知っていても」",
+              "translation": "\"Yes. ......Whichever of us wins, that person will pursue their love with all they've got. ......Even if they know that love will be unrequited.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0245"
+            ],
+            "MG": [
+              "umi6_3-L0245"
+            ],
+            "UP": [
+              "umi6_3-L0245"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "A love that will not be rewarded or fulfilled need not lack reciprocation; Jessica’s confession and anticipated George proposal already establish mutual feelings as relevant.",
+      "alternative": "Unrequited is a common rendering for failed romantic love, but specifically says the other person will not return it and therefore selects an obstacle the source leaves broader.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-006",
+      "kind": "WH",
+      "description": "WH makes the recognition of his changed demeanor occur as soon as Kanon opens his mouth.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.viewpoint_attribution"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              290,
+              291
+            ],
+            "MG": [
+              290,
+              291
+            ],
+            "UP": [
+              290,
+              291
+            ]
+          },
+          "japanese": "それを、開口一番に見破られたようで、\n……そんなにも自分の顔は普段と違うのかと、戸惑いさえした。",
+          "japanesePC": "それを、開口一番に見破られたようで、......そんなにも自分の顔は普段と違うのかと、戸惑いさえした。",
+          "japanesePS3": "それを、開口一番に見破られたようで、\n……そんなにも自分の顔は普段と違うのかと、戸惑いさえした。",
+          "WH": "He was a bit shocked to hear that his expression had changed so much that people had apparently noticed as soon as he opened his mouth.",
+          "MG": "He was a bit shocked to hear that his expression had changed so much...\nthat people had apparently noticed as soon as he opened his mouth.",
+          "UP": "He was a bit shocked to hear that his expression had changed so much...\nthat people had apparently noticed as soon as he opened his mouth.",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_3-L0288",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0288"
+            ],
+            "MG": [
+              "umi6_3-L0288"
+            ],
+            "UP": [
+              "umi6_3-L0288"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……嘉音は、今日から少しだけ、生き方を変えようと誓ってはいた。でも、それは胸の中だけの話で、それを表に出したつもりはまるでなかった。それを、開口一番に見破られたようで、……そんなにも自分の顔は普段と違うのかと、戸惑いさえした。",
+              "translation": "...Kanon had sworn to start changing the way he lived bit by bit. However, he had only meant to change within himself, and hadn't expected that it would show on the outside. He was a bit shocked to hear that his expression had changed so much... that people had apparently noticed as soon as he opened his mouth. "
+            },
+            "UP": {
+              "japanese": "……嘉音は、今日から少しだけ、生き方を変えようと誓ってはいた。でも、それは胸の中だけの話で、それを表に出したつもりはまるでなかった。それを、開口一番に見破られたようで、……そんなにも自分の顔は普段と違うのかと、戸惑いさえした。",
+              "translation": "......Kanon had sworn that starting today, he would start changing the way he lived bit by bit. However, he had only meant to change within himself, and hadn't expected that it would show on the outside. He was a bit shocked to hear that his expression had changed so much... that people had apparently noticed as soon as he opened his mouth."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0288"
+            ],
+            "MG": [
+              "umi6_3-L0288"
+            ],
+            "UP": [
+              "umi6_3-L0288"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "開口一番に見破られたようで refers to the others spotting it in their very first remarks, producing his surprise at how different his face looks.",
+      "alternative": "He has already greeted them, but the source does not tie detection to his speech. The opening-remark idiom belongs to those who voice the discovery.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-007",
+      "kind": "WH",
+      "description": "WH removes Jessica’s inability to look into Kanon’s eyes and substitutes general impaired sight.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.relationship_power",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              354,
+              354
+            ],
+            "MG": [
+              354,
+              354
+            ],
+            "UP": [
+              354,
+              354
+            ]
+          },
+          "japanese": "嘉音くんが眩しくて、……目が見られない」",
+          "japanesePC": "「嘉音くんは家具じゃない。そして使用人になるために生まれてきたのでもない！　年頃の男の子として、もっともっと、人生を楽しんでいいはずなんだよ...！　は、ははははは。私も、......眩しいや。嘉音くんが眩しくて、......目が見られない。」",
+          "japanesePS3": "嘉音くんが眩しくて、……目が見られない」",
+          "WH": "\"You aren't furniture, Kanon-kun.  And you weren't born just so that you could become a servant!  A boy your age should be enjoying life much, much more...!  Ha, hahahaha.  I'm the one who's dazzled.  You're so dazzling......I can hardly see.\"",
+          "MG": "You're so dazzling, ...I can hardly see.\"",
+          "UP": "You're so dazzling......I can hardly see.\"",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_3-L0349",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0349"
+            ],
+            "MG": [
+              "umi6_3-L0349"
+            ],
+            "UP": [
+              "umi6_3-L0349"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「嘉音くんは家具じゃない。そして使用人になるために生まれてきたのでもない！　年頃の男の子として、もっともっと、人生を楽しんでいいはずなんだよ…！　は、ははははは。私も、……眩しいや。嘉音くんが眩しくて、……目が見られない」",
+              "translation": "\"You aren't furniture, Kanon-kun. And you weren't born just so you could become a servant! A boy your age should be enjoying life much, much more...! Hah, hahahaha. I'm dazzled too. You're so dazzling, ...I can hardly see.\" "
+            },
+            "UP": {
+              "japanese": "「嘉音くんは家具じゃない。そして使用人になるために生まれてきたのでもない！　年頃の男の子として、もっともっと、人生を楽しんでいいはずなんだよ…！　は、ははははは。私も、……眩しいや。嘉音くんが眩しくて、……目が見られない」",
+              "translation": "\"You aren't furniture, Kanon‐kun. And you weren't born just so you could become a servant! A boy your age should have the right to enjoy life much, much more...! Ha...hahahaha. I'm the one who's dazzled. You're so dazzling......I can hardly see.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0349"
+            ],
+            "MG": [
+              "umi6_3-L0349"
+            ],
+            "UP": [
+              "umi6_3-L0349"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "嘉音くんが眩しくて、目が見られない says he is so dazzling that she cannot look at his eyes, expressing embarrassment during mutual confession.",
+      "alternative": "I can hardly see extends the sunlight metaphor naturally, but loses the specific eye-contact avoidance and its interpersonal meaning.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-008",
+      "kind": "WH",
+      "description": "WH treats the lovers as having found new selves rather than using their names in order to find them.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.motivation_emotion",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              465,
+              465
+            ],
+            "MG": [
+              465,
+              465
+            ],
+            "UP": [
+              465,
+              465
+            ]
+          },
+          "japanese": "新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、",
+          "japanesePC": "新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、......あまりにその魔女の姿は弱々しかった。",
+          "japanesePS3": "新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、",
+          "WH": "Compared to the young boy and girl who had found new versions of themselves and called each other by their true names, ......this witch looked very feeble.",
+          "MG": "Compared to the young boy and girl who had found new versions of themselves by calling each other by their true names,",
+          "UP": "Compared to the young boy and girl who had found new versions of themselves and called each other by their true names,",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "modified_but_unresolved",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_3-L0465",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0465"
+            ],
+            "MG": [
+              "umi6_3-L0465"
+            ],
+            "UP": [
+              "umi6_3-L0465"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、……あまりにその魔女の姿は弱々しかった。",
+              "translation": "Compared to the young boy and girl who had found new versions of themselves by calling each other by their true names, ...this witch looked very feeble. "
+            },
+            "UP": {
+              "japanese": "新しい自分たちを見つけるため、互いを本当の名で呼び合った少年少女たちと比べ、……あまりにその魔女の姿は弱々しかった。",
+              "translation": "Compared to the young boy and girl who had found new versions of themselves and called each other by their true names, ......this witch looked very feeble."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0465"
+            ],
+            "MG": [
+              "umi6_3-L0465"
+            ],
+            "UP": [
+              "umi6_3-L0465"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "新しい自分たちを見つけるため qualifies why they call each other by true names: to find their new selves.",
+      "alternative": "The confession marks an important change, but their future change and Kanon’s requested time remain unresolved. Purpose does not establish completed achievement.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-009",
+      "kind": "WH",
+      "description": "WH replaces departure from Ushiromiya family registration with stopping use of the surname.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_fact",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              493,
+              493
+            ],
+            "MG": [
+              493,
+              493
+            ],
+            "UP": [
+              493,
+              493
+            ]
+          },
+          "japanese": "その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。",
+          "japanesePC": "「納得いかないわ。その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。......その変化に、お兄ちゃんは何の関係もない。まったくの逆恨みだわ。」",
+          "japanesePS3": "その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。",
+          "WH": "\"That doesn't make sense.  During those six years, Onii-chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name.  ......Onii-chan had nothing to do with that change.  Her hatred must be totally misguided.\"",
+          "MG": "During those six years, Onii-chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name.",
+          "UP": "During those six years, Onii‐chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name.",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_3-L0492",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0492"
+            ],
+            "MG": [
+              "umi6_3-L0492"
+            ],
+            "UP": [
+              "umi6_3-L0492"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「納得いかないわ。その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。……その変化に、お兄ちゃんは何の関係もない。まったくの逆恨みだわ」",
+              "translation": "\"That doesn't make sense. During those six years, Onii-chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name. ...He had nothing to do with that change. Her hatred has got to be totally misguided.\" "
+            },
+            "UP": {
+              "japanese": "「納得いかないわ。その６年間。お兄ちゃんは六軒島はおろか、右代宮家の籍から抜けてさえいるのよ。……その変化に、お兄ちゃんは何の関係もない。まったくの逆恨みだわ」",
+              "translation": "\"That doesn't make sense. During those six years, Onii‐chan not only stayed away from Rokkenjima, he even stopped using the Ushiromiya name. ......Onii‐chan had nothing to do with her change. Her hatred must be totally misguided.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0492"
+            ],
+            "MG": [
+              "umi6_3-L0492"
+            ],
+            "UP": [
+              "umi6_3-L0492"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "右代宮家の籍から抜けて specifies exiting the family register or registered family membership, not merely choosing a different name in use.",
+      "alternative": "Leaving the registered family may accompany a surname change, but the source identifies formal family separation as evidence of estrangement; name use alone is not equivalent.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-010",
+      "kind": "WH",
+      "description": "WH makes Featherine personally allow access instead of instructing Ange to grant it.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              535,
+              537
+            ],
+            "MG": [
+              535,
+              537
+            ],
+            "UP": [
+              535,
+              537
+            ]
+          },
+          "japanese": "……気に入ったぞ、縁寿。\nその雛の娘に我が書庫を許すがいい。\n魔女の世界へ帰る扉を、開いてやるが良かろうぞ」",
+          "japanesePC": "......気に入ったぞ、縁寿。その雛の娘に我が書庫を許すがいい。魔女の世界へ帰る扉を、開いてやるが良かろうぞ。」",
+          "japanesePS3": "……気に入ったぞ、縁寿。\nその雛の娘に我が書庫を許すがいい。\n魔女の世界へ帰る扉を、開いてやるが良かろうぞ」",
+          "WH": "......I've taken a liking to her, Ange.  I shall allow this chick to make use of my study.  Let us open the door which leads back to the world of witches.\"",
+          "MG": "...I've taken a liking to her, Ange.\nI shall allow this chick to make use of my library.\nLet us open the door that leads back to the world of witches.\"",
+          "UP": "......I've taken a liking to her, Ange.\nI shall allow this chick to make use of my study.\nLet us open the door which leads back to the world of witches.\"",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_3-L0534",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0534"
+            ],
+            "MG": [
+              "umi6_3-L0534"
+            ],
+            "UP": [
+              "umi6_3-L0534"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「魔女の雛……、なかなか面白きかな。……気に入ったぞ、縁寿。その雛の娘に我が書庫を許すがいい。魔女の世界へ帰る扉を、開いてやるが良かろうぞ」",
+              "translation": "\"A chick of a witch... Very interesting... ...I've taken a liking to her, Ange. I shall allow this chick to make use of my library. Let us open the door that leads back to the world of witches.\" "
+            },
+            "UP": {
+              "japanese": "「魔女の雛……、なかなか面白きかな。……気に入ったぞ、縁寿。その雛の娘に我が書庫を許すがいい。魔女の世界へ帰る扉を、開いてやるが良かろうぞ」",
+              "translation": "\"A chick of a witch......very interesting. ......I've taken a liking to her, Ange. I shall allow this chick to make use of my study. Let us open the door which leads back to the world of witches.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0534"
+            ],
+            "MG": [
+              "umi6_3-L0534"
+            ],
+            "UP": [
+              "umi6_3-L0534"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Addressing 縁寿, その雛の娘に我が書庫を許すがいい is an instruction to her miko to allow the chick into her archive; 開いてやるが良かろうぞ continues the permissive instruction.",
+      "alternative": "Featherine owns the archive and later formally grants access herself, but that does not preserve the agency of her initial instruction to Ange.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH03-011",
+      "kind": "WH",
+      "description": "WH replaces the girl’s noble resolve with feelings of respect.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              615,
+              615
+            ],
+            "MG": [
+              615,
+              615
+            ],
+            "UP": [
+              615,
+              615
+            ]
+          },
+          "japanese": "……彼女の尊い意思を、止める言葉などありはしない。",
+          "japanesePC": "......彼女の尊い意思を、止める言葉などありはしない。",
+          "japanesePS3": "……彼女の尊い意思を、止める言葉などありはしない。",
+          "WH": "......No words would stop this girl's feelings of respect.",
+          "MG": "...No words would stop this girl's feelings of respect.",
+          "UP": "......She had no words with which to stop this girl from following her noble sense of purpose.",
+          "note": "Full continuous source-first reading recorded in durable reports; parent checked canonical outcomes and introduced flags. UP348 self-critical inner-self rendering is held as a plausible contextual paraphrase of self-denigration, not certified as an independent agency defect. MG191 restores self as giver, with contextual unwillingness residual held. Other conservative candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_3-L0614",
+          "readerRefs": {
+            "WH": [
+              "umi6_3-L0614"
+            ],
+            "MG": [
+              "umi6_3-L0614"
+            ],
+            "UP": [
+              "umi6_3-L0614"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "縁寿は眩暈を覚えたような仕草で溜息を漏らす。\n……彼女の尊い意思を、止める言葉などありはしない。",
+              "translation": "Ange sighed resignedly. ...No words would stop this girl's feelings of respect. "
+            },
+            "UP": {
+              "japanese": "縁寿は眩暈を覚えたような仕草で溜息を漏らす。\n……彼女の尊い意思を、止める言葉などありはしない。",
+              "translation": "Ange sighed resignedly.\n......She had no words with which to stop this girl from following her noble sense of purpose."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_3-L0614"
+            ],
+            "MG": [
+              "umi6_3-L0614"
+            ],
+            "UP": [
+              "umi6_3-L0614"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "彼女の尊い意思 identifies her worthy determination to become the witch Father needs; it does not name reverence as the feeling Ange cannot stop.",
+      "alternative": "Her resolve is devoted to Father and may involve respect, but 尊い modifies the worth of her will rather than making respect its content.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH03-121-240-001",
+      "kind": "additional",
+      "description": "MG changes the self-granted right to love into having what it takes to fall in love.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              180,
+              189
+            ],
+            "MG": [
+              180,
+              189
+            ],
+            "UP": [
+              180,
+              189
+            ]
+          },
+          "japanese": "そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」\n「あるよ。\n恋の資格はね？\n自分だけが与えられるの。\n家具だから駄目とか、そんなの関係ない。\n駄目だって自分で決めたら、もう駄目なの。\n決め付けちゃ駄目。\nだから私は与えたよ、この身の程知らずな家具の身に、恋の資格を。\nだから嘉音くんにだってあるよ」\n「恋をする資格が？」",
+          "japanesePC": "",
+          "japanesePS3": "そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」\n「あるよ。\n恋の資格はね？\n自分だけが与えられるの。\n家具だから駄目とか、そんなの関係ない。\n駄目だって自分で決めたら、もう駄目なの。\n決め付けちゃ駄目。\nだから私は与えたよ、この身の程知らずな家具の身に、恋の資格を。\nだから嘉音くんにだってあるよ」\n「恋をする資格が？」",
+          "WH": "",
+          "MG": "I believed that I didn't have what it takes to ever fall in love again!!\"\n\"But that wasn't true.\nDo you know what's needed to fall in love?\nIt's something you can't get from anyone but yourself.\nBeing furniture or not has nothing to do with it.\nIf you decide for yourself that it won't work out, then it won't.\nYou mustn't leap to such rigid conclusions.\nThat's why I, overambitious furniture that I am, gave myself what's needed to fall in love.\nSo you have it too, Kanon-kun.\"\n\"You mean, I have what it takes to fall in love?\"",
+          "UP": "I believed that I didn't have any right to fall in love ever again!!\"\n\"But you do.\nThe right to love...\nis something only you can give yourself.\nBeing furniture or not has nothing to do with it.\nIf you tell yourself \"no\", then it'll never happen.\nYou mustn't think that way.\nThat's why I gave myself, impudent furniture that I am, the right to fall in love.\nAnd you have it too.\"\n\"The right to fall in love?\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_3-L0177",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_3-L0177",
+              "umi6_3-L0181",
+              "umi6_3-L0189"
+            ],
+            "UP": [
+              "umi6_3-L0177",
+              "umi6_3-L0181",
+              "umi6_3-L0189"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「悲しかったッ！！　自分につく嘘が、こんなにも辛くて悔しくて悲しいなんて知らなかった！！　そして僕のそんな嘘が、お嬢様を傷つけたのが、堪らなく許せなかった！！　そんな自分に、もう二度と恋をする資格なんてないと思ってたッ！！」\n「あるよ。恋の資格はね？　自分だけが与えられるの。家具だから駄目とか、そんなの関係ない。駄目だって自分で決めたら、もう駄目なの。決め付けちゃ駄目。だから私は与えたよ、この身の程知らずな家具の身に、恋の資格を。だから嘉音くんにだってあるよ」\n「恋をする資格が？」",
+              "translation": "\"I was!! I never realized that a lie you make to yourself could be so sad, so painful, so excruciating!! And I couldn't forgive myself for hurting Milady with that lie!! I believed that I didn't have what it takes to ever fall in love again!!\" \n\"But that wasn't true. Do you know what's needed to fall in love? It's something you can't get from anyone but yourself. Being furniture or not has nothing to do with it. If you decide for yourself that it won't work out, then it won't. You mustn't leap to such rigid conclusions. That's why I, overambitious furniture that I am, gave myself what's needed to fall in love. So you have it too, Kanon-kun.\" \n\"You mean, I have what it takes to fall in love?\" "
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_3-L0177",
+              "umi6_3-L0181",
+              "umi6_3-L0189"
+            ],
+            "UP": []
+          }
+        }
+      ],
+      "sourceReading": "JP repeats 恋の資格 as a right one grants oneself. Original WH uses deserve and right; UP retains that entitlement. MG repeatedly uses what it takes and what is needed, shifting moral permission to personal capacity.",
+      "alternative": "What it takes can broadly include confidence or self-permission, but this repeated formulation removes the explicit entitlement under discussion.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH03-361-480-001",
+      "kind": "additional",
+      "description": "MG substitutes 音 for 嘉 in Jessica’s guess about Kanon’s real name.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              406,
+              406
+            ],
+            "MG": [
+              406,
+              406
+            ],
+            "UP": [
+              406,
+              406
+            ]
+          },
+          "japanese": "きっと、嘉音の嘉が含まれた名前だと思うな…。",
+          "japanesePC": "",
+          "japanesePS3": "きっと、嘉音の嘉が含まれた名前だと思うな…。",
+          "WH": "",
+          "MG": "I'll bet it has the character 音 in it, like Kanon does...",
+          "UP": "I'll bet it has {ruby:ka:嘉 in it, like Kanon does...",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_3-L0403",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_3-L0403"
+            ],
+            "UP": [
+              "umi6_3-L0403"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うん、今はそれでいい。だから私も、嘉音くんのこと、名前で呼びたい。……嘉音じゃなくて、……本当の名前があるんでしょ？　きっと、嘉音の嘉が含まれた名前だと思うな…。な、何だろ、……えへへ…」",
+              "translation": "\"Good, that'll do for now. And I'd like to call you by your name, Kanon-kun. ...You have a real name...besides Kanon, don't you? I'll bet it has the character 音 in it, like Kanon does... Wh-What could it be, ...heheh...\" "
+            },
+            "UP": {
+              "japanese": "「うん、今はそれでいい。だから私も、嘉音くんのこと、名前で呼びたい。……嘉音じゃなくて、……本当の名前があるんでしょ？　きっと、嘉音の嘉が含まれた名前だと思うな…。な、何だろ、……えへへ…」",
+              "translation": "\"Yeah. That'll do for now. And I'd like to call you by your name, Kanon‐kun. ......You have a real name...besides Kanon, don't you? I'll bet it has {ruby:ka:嘉 in it, like Kanon does... Wh‐what could it be, ......ehehe...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_3-L0403"
+            ],
+            "UP": [
+              "umi6_3-L0403"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP explicitly guesses 嘉 from 嘉音; original PC65637/65639 and UP retain 嘉. MG uses 音, changing the character she predicts.",
+      "alternative": "Both characters occur in Kanon, but only 嘉 is the source conjecture; no edition change licenses 音.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH03-481-600-001",
+      "kind": "additional",
+      "description": "MG inserts an extraneous to after will in Featherine’s command.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_3",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              573,
+              573
+            ],
+            "MG": [
+              573,
+              573
+            ],
+            "UP": [
+              573,
+              573
+            ]
+          },
+          "japanese": "その方に世話を命ず」",
+          "japanesePC": "",
+          "japanesePS3": "その方に世話を命ず」",
+          "WH": "",
+          "MG": "you will to see to her needs.\"",
+          "UP": "See that she has no trouble.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi6_3-L0570",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_3-L0570"
+            ],
+            "UP": [
+              "umi6_3-L0570"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「面を上げよ、人の子よ。……その娘に、しばしの間、我が書庫を自由に閲覧する資格を与えようぞ。……我が巫女、縁寿。その方に世話を命ず」",
+              "translation": "\"Raise your head, child of man. ...I shall give that child the privilege of using my library however she likes for a time. ...Ange, my miko, you will to see to her needs.\" "
+            },
+            "UP": {
+              "japanese": "「面を上げよ、人の子よ。……その娘に、しばしの間、我が書庫を自由に閲覧する資格を与えようぞ。……我が巫女、縁寿。その方に世話を命ず」",
+              "translation": "\"Raise your head, child of man. ......I shall give that child the privilege of browsing my archives as she pleases for a time. ......Ange, my miko. See that she has no trouble.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_3-L0570"
+            ],
+            "UP": [
+              "umi6_3-L0570"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "MG you will to see to her needs is ungrammatical. JP commands Ange to care for Beatrice; original PC66298/66300 and UP use a grammatical imperative.",
+      "alternative": "The intended command remains recoverable; archaic diction does not license this construction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-CH03-001": {
+      "umi6_3-L0006": {
+        "WH": [
+          "was sleeping in his room"
+        ],
+        "MG": [
+          "was sleeping in his room"
+        ]
+      }
+    },
+    "WH-EP06-CH03-002": {
+      "umi6_3-L0089": {
+        "WH": [
+          "that is true"
+        ],
+        "MG": [
+          "that is true"
+        ],
+        "UP": [
+          "that is true"
+        ]
+      }
+    },
+    "WH-EP06-CH03-003": {
+      "umi6_3-L0177": {
+        "WH": [
+          "a lie you make yourself"
+        ]
+      }
+    },
+    "WH-EP06-CH03-004": {
+      "umi6_3-L0190": {
+        "WH": [
+          "If no one else will give you that right"
+        ]
+      }
+    },
+    "WH-EP06-CH03-005": {
+      "umi6_3-L0245": {
+        "WH": [
+          "will be unrequited"
+        ],
+        "MG": [
+          "will be unrequited"
+        ],
+        "UP": [
+          "will be unrequited"
+        ]
+      }
+    },
+    "WH-EP06-CH03-006": {
+      "umi6_3-L0288": {
+        "WH": [
+          "as soon as he opened his mouth"
+        ],
+        "MG": [
+          "as soon as he opened his mouth"
+        ],
+        "UP": [
+          "as soon as he opened his mouth"
+        ]
+      }
+    },
+    "WH-EP06-CH03-007": {
+      "umi6_3-L0349": {
+        "WH": [
+          "I can hardly see"
+        ],
+        "MG": [
+          "I can hardly see"
+        ],
+        "UP": [
+          "I can hardly see"
+        ]
+      }
+    },
+    "WH-EP06-CH03-008": {
+      "umi6_3-L0465": {
+        "WH": [
+          "had found new versions of themselves and called each other by their true names"
+        ],
+        "UP": [
+          "had found new versions of themselves and called each other by their true names"
+        ],
+        "MG": [
+          "had found new versions of themselves by calling each other by their true names"
+        ]
+      }
+    },
+    "WH-EP06-CH03-009": {
+      "umi6_3-L0492": {
+        "WH": [
+          "stopped using the Ushiromiya name"
+        ],
+        "MG": [
+          "stopped using the Ushiromiya name"
+        ],
+        "UP": [
+          "stopped using the Ushiromiya name"
+        ]
+      }
+    },
+    "WH-EP06-CH03-010": {
+      "umi6_3-L0534": {
+        "WH": [
+          "I shall allow this chick",
+          "Let us open"
+        ],
+        "MG": [
+          "I shall allow this chick",
+          "Let us open"
+        ],
+        "UP": [
+          "I shall allow this chick",
+          "Let us open"
+        ]
+      }
+    },
+    "WH-EP06-CH03-011": {
+      "umi6_3-L0614": {
+        "WH": [
+          "this girl's feelings of respect"
+        ],
+        "MG": [
+          "this girl's feelings of respect"
+        ]
+      }
+    },
+    "PAIR-EP06-CH03-121-240-001": {
+      "umi6_3-L0177": {
+        "MG": [
+          "what it takes to ever fall in love"
+        ]
+      },
+      "umi6_3-L0181": {
+        "MG": [
+          "what's needed to fall in love?",
+          "gave myself what's needed to fall in love"
+        ]
+      },
+      "umi6_3-L0189": {
+        "MG": [
+          "what it takes to fall in love"
+        ]
+      }
+    },
+    "PAIR-EP06-CH03-361-480-001": {
+      "umi6_3-L0403": {
+        "MG": [
+          "the character 音"
+        ]
+      }
+    },
+    "PAIR-EP06-CH03-481-600-001": {
+      "umi6_3-L0570": {
+        "MG": [
+          "you will to see"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

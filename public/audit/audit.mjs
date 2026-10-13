@@ -1,4 +1,6 @@
 import { COMPARISONS } from '../script/editions.mjs?v=audit-20261013-1';
+import { DOSSIERS, dossierEvidence, corrected } from './dossiers.mjs?v=dossiers-20261014-1';
+import { applyPhraseExclusions } from './phrase-links.mjs?v=phrases-20261014-2';
 
 const EDITION = { 'witch-hunt': 'WH', mangagamer: 'MG', 'umineko-project': 'UP' };
 const PAGE_SIZE = 20;
@@ -22,8 +24,9 @@ export function auditKey(url) {
 export function readerLink(key, context, finding) {
   const p = new URLSearchParams({ edition: key === 'witch-hunt' ? 'pc' : 'ps3', compare: key });
   if (context?.chapter) p.set('script', context.chapter);
-  const ref = context?.readerRefs ? context.readerRefs[EDITION[key]]?.[0] : context?.readerRef;
-  if (finding) { p.set('errors', key); p.set('finding', finding); }
+  const findingRef = (context?.findingRefs || context?.readerRefs)?.[EDITION[key]]?.[0];
+  const ref = findingRef || context?.readerRefs?.[EDITION[key]]?.[0] || context?.readerRef;
+  if (finding && findingRef) { p.set('errors', key); p.set('finding', finding); }
   return '../script/?' + p.toString() + (ref ? '#' + encodeURIComponent(ref) : '');
 }
 export function filterFindings(findings, state) {
@@ -66,43 +69,45 @@ if (typeof document !== 'undefined') {
     figure.append(block); return figure;
   }
   function contextCard(c, f, s) {
-    const edition = EDITION[s.script], card = el('section', 'audit-context');
+    const edition = EDITION[s.script], card = el('a', 'audit-example-link audit-example-visible-evidence');
     const outcome = c.dispositions?.[edition];
-    const neutral = ['correct', 'corrected', 'corrected_in_context', 'corrected_with_revised_wording', 'corrected_against_PS3_source_by_edition_change', 'corrected_comparatively', 'core_error_corrected', 'corrected_recurrence', 'rephrased_no_confirmed_retained_error', 'not_this_defect', 'acceptable', 'no_separate_defect_in_context', 'no_introduced_defect', 'source_edition_changed_not_applicable', 'not_applicable_edition_rewrite', 'follows_PS3', 'PS3_source_followed', 'PS3_wording'].includes(outcome);
-    if (neutral) card.classList.add('is-corrected');
-    const header = el('div', 'audit-context-heading');
-    const readerRef = c.readerRefs ? c.readerRefs[edition]?.[0] : c.readerRef;
+    const neutral = corrected(outcome) || ['correct', 'corrected', 'corrected_in_context', 'corrected_with_revised_wording', 'corrected_against_PS3_source_by_edition_change', 'corrected_comparatively', 'core_error_corrected', 'corrected_recurrence', 'rephrased_no_confirmed_retained_error', 'not_this_defect', 'acceptable', 'no_separate_defect_in_context', 'no_introduced_defect', 'source_edition_changed_not_applicable', 'not_applicable_edition_rewrite', 'follows_PS3', 'PS3_source_followed', 'PS3_wording'].includes(outcome);
+    const contextOnly = !neutral && f.kind !== 'PC' && Array.isArray(c.findingRefs?.[edition]) && !c.findingRefs[edition].length;
+    if (neutral || contextOnly) { card.classList.remove('audit-example-finding'); card.classList.add('audit-example-counterexample'); }
+    const header = el('div', 'audit-example-heading');
+    const readerRef = (c.findingRefs || c.readerRefs)?.[edition]?.[0] || c.readerRefs?.[edition]?.[0] || c.readerRef;
     const locationLabel = [c.episode ? 'Episode ' + c.episode : '', c.chapter || '', readerRef || ''].filter(Boolean).join(' · ');
-    header.append(el('span', '', locationLabel || 'Source passage'));
+    header.append(el('span', '', f.kind === 'PC' ? PC_LABEL : neutral ? 'Corrected in this translation' : contextOnly ? 'Context only' : 'Confirmed finding'), el('code', '', locationLabel || 'Source passage'));
     if (c.chapter && readerRef) {
-      const a = el('a', '', 'Read in script context →'); a.href = readerLink(s.script, c, f.id); header.append(a);
-    } else { header.append(el('span', '', 'Source excerpt · no verified reader anchor')); }
-    card.append(header);
-    const evidence = el('div', 'audit-evidence');
-    const japanese = edition === 'WH' ? c.japanesePC ?? c.japanese : c.japanesePS3 ?? c.japanese;
-    evidence.append(quote(edition === 'WH' ? 'Original PC Japanese' : 'PS3-derived Japanese', japanese, true, false), quote(COMPARISONS[s.script].label, c[edition], false, true));
-    card.append(evidence);
-    if (f.kind === 'PC' && c.japanesePC) {
-      const original = el('details', 'audit-pc-source'); original.append(el('summary', '', 'Original-PC source for the retained material'), quote('Original PC Japanese', c.japanesePC, true, false)); card.append(original);
+      card.href = readerLink(s.script, c, neutral ? undefined : f.id);
     }
-    if (c.note) card.append(el('p', 'audit-context-note', c.note));
+    card.append(header);
+    const japanese = c.findingEvidence?.[edition]?.japanese || (edition === 'WH' ? c.japanesePC ?? c.japanese : c.japanesePS3 ?? c.japanese);
+    if (japanese) { const p = el('p', '', japanese); p.lang = 'ja'; card.append(p); }
+    if (c[edition]) card.append(el('p', '', c.findingEvidence?.[edition]?.translation || c[edition]));
+    if (f.kind === 'PC' && c.japanesePC) {
+      const p = el('p', '', c.japanesePC); p.lang = 'ja'; card.append(el('small', '', 'Original PC Japanese'), p);
+    }
+    if (c.note) card.append(el('small', '', c.note));
     const disposition = c.dispositions?.[edition];
     if (edition !== 'WH' && disposition && disposition !== 'not_recorded' && f.kind !== 'PC') {
-      const p = el('p', 'audit-disposition'); p.append(el('b', '', COMPARISONS[s.script].label + ' at this occurrence: '), document.createTextNode(friendlyStatus(disposition))); card.append(p);
+      card.append(el('small', '', COMPARISONS[s.script].label + ': ' + friendlyStatus(disposition)));
     }
+    if (card.href) card.append(el('b', 'audit-example-action', 'Open this passage in context →'));
     return card;
   }
   function findingCard(f, s, open, domId = f.id) {
-    const card = el('details', 'audit-finding' + (f.kind === 'PC' ? ' is-pc' : '')); card.id = domId; card.open = open;
-    const summary = el('summary'), meta = el('div', 'audit-finding-heading');
+    const card = el('article', 'audit-record audit-example audit-example-finding' + (f.kind === 'PC' ? ' is-pc' : '')); card.id = domId;
+    const summary = el('header'), meta = el('div', 'audit-finding-heading');
     meta.append(el('span', 'finding-kind', f.kind === 'PC' ? PC_LABEL : f.inherited && s.script !== 'witch-hunt' ? 'Carried over from Witch Hunt' : 'Confirmed finding'), el('span', '', f.id));
     if (f.severity && f.kind !== 'PC') meta.append(el('span', '', f.severity));
     summary.append(meta, el('h4', '', f.description)); card.append(summary);
-    // Evidence is built on demand, keeping the complete corpus fast to browse.
+    // Categories are lazy and paginated; their evidence is visible like Fate's
+    // dossier cards, without an additional accordion for every finding.
     let built = false;
     function fill() {
-      if (built || !card.open) return; built = true;
-      const body = el('div', 'audit-finding-body');
+      if (built) return; built = true;
+      const body = el('div', 'audit-record-body');
       if (f.kind !== 'PC' && f.categories?.length) {
         const tags = el('div', 'audit-finding-meta');
         for (const id of f.categories) tags.append(el('span', 'audit-tag', categories.get(id)?.label || id));
@@ -112,7 +117,9 @@ if (typeof document !== 'undefined') {
       const u = new URL(location.href); u.search = new URLSearchParams({ script: s.script, ...(f.kind === 'PC' ? { view: 'pc' } : {}) }).toString(); u.hash = f.id; link.href = u.pathname + u.search + u.hash; body.append(link);
       const contexts = selectedContexts(f, EDITION[s.script]);
       if (!contexts.length) body.append(el('p', 'audit-context-note', 'No source excerpt is included in this finding.'));
-      for (const context of contexts) body.append(contextCard(context, f, s));
+      const examples = el('div', 'audit-example-list');
+      for (const context of contexts) examples.append(contextCard(context, f, s));
+      body.append(examples);
       const explanation = [['Source reading', f.sourceReading], ['Alternative reading considered', f.alternative], ['Source note', f.sourceNote]].filter(([, v]) => v);
       if (explanation.length) {
         const detail = el('details', 'audit-analysis'); detail.append(el('summary', '', 'Reading and correction notes'));
@@ -120,30 +127,68 @@ if (typeof document !== 'undefined') {
       }
       card.append(body);
     }
-    card.addEventListener('toggle', fill); fill(); return card;
+    fill(); return card;
   }
   function renderGroups(list, findings, s, hash) {
-    const groups = groupFindings(findings, data.categories);
+    const groups = Object.entries(FAMILY_LABELS).map(([id, label]) => {
+      const subcategories = DOSSIERS.filter(d => d.family === id).map(d => dossierEvidence(d, findings, data.findings, EDITION[s.script])).filter(d => d.findings.length);
+      return {id, label, subcategories, count: new Set(subcategories.flatMap(d => d.findings.map(f => f.id))).size};
+    });
     let target;
     for (const group of groups) {
       const family = el('details', 'audit-group'); family.open = true; family.dataset.family = group.id;
-      const heading = el('summary'); heading.append(el('span', '', group.label), el('small', '', number(group.count) + ' findings · ' + group.subcategories.length + ' subcategories'));
+      const heading = el('summary'); heading.append(el('span', '', group.label), el('small', '', number(group.count) + ' findings · ' + group.subcategories.length + ' dossiers'));
       family.append(heading);
       const children = el('div', 'audit-dossier-list'); family.append(children);
       if (!group.count) children.append(el('p', 'audit-empty', 'No findings in this category match the current filters.'));
       for (const category of group.subcategories) {
-        const section = el('details', 'audit-dossier'); section.id = 'category-' + category.id;
+        const section = el('details', 'audit-dossier'); section.id = 'dossier-' + category.id;
         const summary = el('summary'), title = el('div');
-        title.append(el('p', 'audit-dossier-count', number(category.findings.length) + (category.findings.length === 1 ? ' confirmed finding' : ' confirmed findings')), el('h3', '', category.label));
-        const toggle = el('span', 'audit-dossier-toggle'); toggle.append(el('span', '', 'Open category'), el('span', '', 'Close category'));
+        title.append(el('p', 'audit-dossier-count', number(category.findings.length) + ' findings · ' + category.examples.length + ' examples · ' + category.counterexamples.length + ' corrected comparisons'), el('h3', '', category.title));
+        const toggle = el('span', 'audit-dossier-toggle'); toggle.append(el('span', '', 'Open dossier'), el('span', '', 'Close dossier'));
         summary.append(title, toggle); section.append(summary); children.append(section);
         const targetIndex = category.findings.findIndex(f => f.id === hash);
         const selected = targetIndex >= 0 && !target;
         if (selected) { section.open = true; target = {category: category.id, finding: hash}; }
+        if (hash === section.id) section.open = true;
         let built = false;
         const build = () => {
           if (built || !section.open) return; built = true;
-          const body = el('div', 'audit-category-body'), items = el('div'); body.append(items); section.append(body);
+          const body = el('div', 'audit-dossier-body'); section.append(body);
+          const permalink = el('a', 'audit-permalink', 'Permanent link to this dossier #');
+          permalink.href = '?script=' + s.script + '#' + section.id; body.append(permalink);
+          body.append(el('p', 'audit-dossier-claim', category.claim));
+          const analysis = el('dl', 'audit-dossier-definition');
+          for (const [label, text] of [['Japanese pattern', category.japanesePattern], [COMPARISONS[s.script].label + ' effect', category.translationEffect], ['Limits', category.limits]]) {
+            const part = el('div'); part.append(el('dt', '', label), el('dd', '', text)); analysis.append(part);
+          }
+          body.append(analysis);
+          const diagnostic = el('section', 'audit-dossier-diagnostic');
+          diagnostic.append(el('h4', '', 'Corpus diagnostic'), el('p', '', number(category.findings.length) + ' distinct findings in the current selection, linked to ' + number(category.passages) + ' reader passages across ' + category.episodes + ' episodes. Categories can overlap; these dossier counts are not additive.'));
+          const tags = el('p', 'audit-diagnostic-tags', category.categories.map(id => categories.get(id)?.label || id).join(' · ')); diagnostic.append(tags); body.append(diagnostic);
+          body.append(el('h4', '', 'Supporting passages'));
+          const examples = el('div', 'audit-example-list');
+          function evidenceCard(example, positive) {
+            const f = example.finding, key = Object.keys(EDITION).find(k => EDITION[k] === example.edition);
+            const card = el('article', 'audit-example ' + (positive ? 'audit-example-counterexample' : 'audit-example-finding'));
+            card.append(el('h5', '', (positive ? 'Corrected in ' + COMPARISONS[key].label + ' · ' : '') + f.id));
+            card.append(contextCard(example.context, f, {...s, script: key}));
+            if (!positive) card.append(el('p', 'audit-example-note', f.description));
+            if (f.sourceReading) card.append(el('p', 'audit-example-note', f.sourceReading));
+            if (!positive && f.alternative) card.append(el('p', 'audit-example-limit', 'Alternative considered: ' + f.alternative));
+            return card;
+          }
+          for (const example of category.examples) examples.append(evidenceCard(example, false));
+          body.append(examples);
+          if (category.counterexamples.length) {
+            body.append(el('h4', '', 'Counterexamples: corrected paired passages'));
+            const positive = el('div', 'audit-example-list');
+            for (const example of category.counterexamples) positive.append(evidenceCard(example, true));
+            body.append(positive);
+          }
+          const records = el('details', 'audit-all-findings'); records.open = selected;
+          records.append(el('summary', '', 'All ' + number(category.findings.length) + ' findings in this dossier'));
+          const items = el('div', 'audit-example-list'); records.append(items); body.append(records);
           let shown = 0;
           const more = el('button', 'audit-category-more', 'Show more findings'); more.type = 'button';
           const appendBatch = limit => {
@@ -153,7 +198,9 @@ if (typeof document !== 'undefined') {
             more.textContent = 'Show more findings (' + number(category.findings.length - shown) + ' remaining)';
           };
           more.addEventListener('click', () => appendBatch(shown + PAGE_SIZE));
-          body.append(more); appendBatch(selected ? Math.max(PAGE_SIZE, targetIndex + 1) : PAGE_SIZE);
+          records.append(more);
+          const initializeRecords = () => { if (records.open && !shown) appendBatch(selected ? Math.max(PAGE_SIZE, targetIndex + 1) : PAGE_SIZE); };
+          records.addEventListener('toggle', initializeRecords); initializeRecords();
         };
         section.addEventListener('toggle', build); build();
       }
@@ -192,7 +239,7 @@ if (typeof document !== 'undefined') {
     $('audit-page-status').textContent = 'Page ' + page + ' of ' + (Math.ceil(filtered.length / PAGE_SIZE) || 1);
     $('audit-previous').disabled = page <= 1; $('audit-next').disabled = offset + PAGE_SIZE >= filtered.length;
     $('audit-next').closest('nav').hidden = s.view !== 'pc';
-    if (anchorIndex >= 0) requestAnimationFrame(() => document.getElementById(hash)?.scrollIntoView({ block: 'start' }));
+    if (anchorIndex >= 0 || hash.startsWith('dossier-')) requestAnimationFrame(() => document.getElementById(hash)?.scrollIntoView({ block: 'start' }));
   }
   function navigate(patch, replace = false, scroll = false) {
     const url = new URL(location.href); url.hash = '';
@@ -214,8 +261,8 @@ if (typeof document !== 'undefined') {
   $('audit-next').addEventListener('click', () => navigate({ page: String(page + 1) }, false, true));
   window.addEventListener('popstate', render); window.addEventListener('hashchange', render);
   render();
-  fetch('../data/audit/index.json').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }).then(payload => {
-    data = payload; categories = new Map(data.categories.map(c => [c.id, c]));
+  fetch('../data/audit/index.json?v=phrases-20261014-2').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }).then(payload => {
+    data = applyPhraseExclusions(payload); categories = new Map(data.categories.map(c => [c.id, c]));
     const families = new Map();
     for (const c of data.categories) { const family = c.family || 'Other categories'; if (!families.has(family)) families.set(family, []); families.get(family).push(c); }
     for (const [family, items] of families) { const group = el('optgroup'); group.label = FAMILY_LABELS[family] || family; for (const c of items) { const option = el('option', '', c.label); option.value = c.id; group.append(option); } $('audit-category').append(group); }

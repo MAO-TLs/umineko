@@ -1,1 +1,1181 @@
-{"findings":[{"id":"WH-EP01-OP-001","kind":"WH","description":"The Japanese joke is that Nanjo will not grant a takeback after a mistaken chess move; the English instead makes Kinzo warn Nanjo about a mistake Nanjo is about to make. That changes the participants' actions and the basis of Kinzo's claim that they are even.","categories":["linguistic.wrong_subject","linguistic.logical_relation","character.agency_responsibility","character.irony_performance"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[35,35],"MG":[35,35],"UP":[35,35]},"japanese":"「私は何も。\n……医者としての忠告など、金蔵さんはまったく聞いてくれませんからな」\n「はっはっはっは…。\nお前とて、指し間違えた手を待てと言っても聞かぬではないか。\nならば相子というものだろう」\n「……お館様」\n「すまぬ。","japanesePC":"「はっはっはっは…。お前とて、指し間違えた手を待てと言っても聞かぬではないか。ならば相子というものだろう。」","japanesePS3":"「私は何も。\n……医者としての忠告など、金蔵さんはまったく聞いてくれませんからな」\n「はっはっはっは…。\nお前とて、指し間違えた手を待てと言っても聞かぬではないか。\nならば相子というものだろう」\n「……お館様」\n「すまぬ。","WH":"\"Hahahaha...  And you never listen when I warn you about a mistaken chess move you're about to make.  It seems we are even.\"","MG":"\"I have done nothing.\n......After all, you never listen to my advice as your physician.\"\n\"Hahahaha...\nAnd you never listen when I warn you about a mistaken chess move you're about to make.\nIt seems only fair, does it not?\"\n\"......Master.\"\n\"Thank you.","UP":"\"I have done nothing.\n......After all, you never listen to my advice as your physician.\"\n\"Hahahaha...\nAnd you never listen when I warn you about a mistaken chess move you're about to make.\nIt seems we are even.\"\n\"......My lord.\"\n\"Thank you.","note":"Both advance warning instead of chess takeback; legacy MG-EP01-OP-001 recorded.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_op-L0034","readerRefs":{"WH":["umi1_op-L0034"],"MG":["umi1_op-L0034"],"UP":["umi1_op-L0034"]}}],"sourceReading":"指し間違えた手 is a move already played incorrectly; 待て here requests a takeback, which Nanjo refuses. The comparison concerns each friend refusing the other a concession.","alternative":"待て can ordinarily mean wait, and Japanese does not state every subject. But the already-made mistaken move and chess setting support the takeback reading; they do not support the invented warning about a future move.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-OP-002","kind":"WH","description":"Japanese 至りますまい predicts that Kinzo will not get as far as cornering Nanjo's king. WH says he has not cornered it yet, turning a prediction of death before completion into a report about the present board position. The following narration makes the intended lifespan analogy explicit.","categories":["linguistic.mistranslation","linguistic.tense_aspect","linguistic.logical_relation"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[52,52],"MG":[52,52],"UP":[52,52]},"japanese":"「………長くはありませんな」\n「…どの程度に長くないというのだ」\n「……このチェスで例えましょう。\n金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい」\n南條の目線の先には、サイドテーブルがありそこには重厚なチェスセットが置かれていた。\n駒を見る限り、ゲームはだいぶ終盤に入っている。\n黒のルークやビショップが敵陣深く食い込んでいた。","japanesePC":"「……このチェスで例えましょう。金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい。」","japanesePS3":"「………長くはありませんな」\n「…どの程度に長くないというのだ」\n「……このチェスで例えましょう。\n金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい」\n南條の目線の先には、サイドテーブルがありそこには重厚なチェスセットが置かれていた。\n駒を見る限り、ゲームはだいぶ終盤に入っている。\n黒のルークやビショップが敵陣深く食い込んでいた。","WH":"\"......Let us illustrate it with the chess game here.  You have very nearly achieved checkmate...but you have not yet cornered my king.\"","MG":"\"......You don't have long.\"\n\"...What precisely do you mean by that?\"\n\"......Let us illustrate it with the chess game here.\nYou have very nearly achieved checkmate, ...but you have not yet cornered my king.\"\nNanjo's gaze was directed at a side table with a massive chess set placed on top of it.\nJudging by the positioning of the pieces, the game seemed to be entering its final stage.\nBlack's rook and bishop were cutting deeply into enemy lines.","UP":"\".........You don't have much time.\"\n\"...What precisely do you mean by that?\"\n\"......Let us illustrate it with the chess game here.\nYou are closing out the game quite well, but I do not ultimately see you cornering my king.\"\nNanjo's gaze was directed at a side table with a stately chess set placed on top of it.\nJudging by the positioning of the pieces, the match was well into the endgame.\nThe black rook and bishop were cutting deeply into the enemy lines.","note":"MG not yet vs UP prospective failure restored; legacy MG-EP01-OP-002 recorded.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi1_op-L0051","readerRefs":{"WH":["umi1_op-L0051"],"MG":["umi1_op-L0051"],"UP":["umi1_op-L0051"]}}],"sourceReading":"Embedded Japanese row 3238 explicitly says Kinzo will die before the game is decided; this corroborates the future prediction, not merely an unfinished board position.","alternative":"The English narration still explains death before the game ends, so the passage as a whole is not unintelligible. But that recovery does not make the doctor's present-tense statement equivalent to his Japanese prediction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-AIR-001","kind":"WH","description":"Battler denies having the romantic exploits Eva imagines and says he would rather have her introduce him to someone (紹介してほしい). WH replaces that request with “I’d rather it did,” whose antecedent is the supposedly weird experience of leaving girls crying. The reply changes from an inexperienced young man asking for help meeting girls into wishing the alleged exploits had happened.","categories":["linguistic.mistranslation","character.motivation_emotion"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[233,234],"MG":[233,234],"UP":[233,234]},"japanese":"そんな妙な武勇伝、あるわけないじゃない〜！\nむしろ紹介してほしいくらいっす〜！」","japanesePC":"「わたたたッ、\nじょじょ、\n冗談じゃないっすよ！\nそんな妙な武勇伝、あるわけないじゃない～！　むしろ紹介してほしいくらいっす～！」","japanesePS3":"そんな妙な武勇伝、あるわけないじゃない〜！\nむしろ紹介してほしいくらいっす〜！」","WH":"\"Wh, what?\nY, y,\nyou're joking, right!?\nOf course nothing weird like that's ever happened to me!  In fact, I'd rather it did!\"","MG":"Of course nothing weird like that's ever happened to me!\nIn fact, if you know anyone, I'm all ears!\"","UP":"Of course nothing weird like that's ever happened to me!\nIn fact, if you know anyone, I'm all ears!\"","note":"Both if you know anyone recovers requested romantic introduction rather than wishing experience.","dispositions":{"MG":"corrected_in_context","UP":"corrected_in_context"},"readerRef":"umi1_op-L0230","readerRefs":{"WH":["umi1_op-L0230"],"MG":["umi1_op-L0230"],"UP":["umi1_op-L0230"]}}],"sourceReading":"紹介してほしい is a desire to be introduced; the surrounding talk supplies girls as its contextual object. It does not mean wanting to have made girls cry.","alternative":"The English preserves a broad desire for romantic experience. That partly preserves the joke, but removes the introduction request and gives the wish a different antecedent.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-AIR-002","kind":"WH","description":"Japanese calls the speech a suspicious Kansai-like dialect (怪しい関西弁風) and tentatively his own invention (オリジナル？). WH calls it an odd Kansai dialect, dropping both the imitation qualifier and the narrator’s question about its originality. This weakens the explicit joke about a Kanto businessman’s homemade regional persona.","categories":["linguistic.undertranslation","character.irony_performance"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[215,215],"MG":[215,215],"UP":[215,215]},"japanese":"印象的な怪しい関西弁風の方言はオリジナル？　のもので、本人は生粋の関東人だ。","japanesePC":"印象的な怪しい関西弁風の方言はオリジナル？のもので、本人は生粋の関東人だ。","japanesePS3":"印象的な怪しい関西弁風の方言はオリジナル？　のもので、本人は生粋の関東人だ。","WH":"He speaks in an odd and very noticeable Kansai dialect, but he's actually a natural-born Kanto man.","MG":"He speaks in an odd and very noticeable Kansai dialect, but he's actually a natural-born Kanto man.","UP":"He speaks in an odd and very noticeable Kansai‐style dialect seemingly of his own creation, but he's actually a natural‐born Kanto man.","note":"MG Kansai dialect lacks invented qualification; UP Kansai-style of own creation restores.","dispositions":{"MG":"retained","UP":"corrected_in_context"},"readerRef":"umi1_op-L0215","readerRefs":{"WH":["umi1_op-L0215"],"MG":["umi1_op-L0215"],"UP":["umi1_op-L0215"]}}],"sourceReading":"The source distinguishes Kansai-like imitation from unqualified Kansai dialect and marks the originality claim with a question.","alternative":"The following business-persona explanation and embarrassment before real Kansai speakers preserve much of the characterization; the loss is local and minor, not wholesale erasure of his performed voice.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-AIR-003","kind":"WH","description":"After Eva stops a kick at Rudolf’s nose and threatens another blow, Rudolf apologizes for his sister’s 足癖の悪い behavior. WH instead apologizes for “that strange way she walks,” inventing an odd gait and breaking the direct callback to her kicking.","categories":["linguistic.mistranslation","linguistic.imagery_rhythm_recurrence"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[341,346],"MG":[341,346],"UP":[341,346]},"japanese":"「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」\n「…はー、いやいや。\n足癖の悪い姉貴で本当に申し訳ないです」\n親父は、まったく動じない風で、肩をすくめて秀吉伯父さんに苦笑いを送る。","japanesePC":"「…はー、いやいや。足癖の悪い姉貴で本当に申し訳ないです。」","japanesePS3":"「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」\n「…はー、いやいや。\n足癖の悪い姉貴で本当に申し訳ないです」\n親父は、まったく動じない風で、肩をすくめて秀吉伯父さんに苦笑いを送る。","WH":"\"...Sheesh, what a pain.  Guess I have to apologize for that strange way she walks too.\"","MG":"\"Rudooolf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidently connected in a practice match and my opponent was out cold.\"\n\"...Sheesh, what a pain.\nI'm so sorry she can't help walking like a freak.\"\nDad, completely unfazed, shrugged and smiled ironically at Uncle Hideyoshi.","UP":"\"Rudo~lf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidentally connected in a practice match, and my opponent was out cold.\"\n\"...Sheesh, what a pain.\nGuess I have to apologize for her tendency to lash out with her feet, too.\"\nDad, completely unfazed, shrugged and smiled ironically at Uncle Hideyoshi.","note":"Canonical parent already linked explicitly in receipt findings rather than WH_outcomes. Preserve recorded nuanced dispositions and raw record; no duplicate new parent.","dispositions":{"MG":"retained","UP":"corrected_comparatively"},"readerRef":"umi1_op-L0341","readerRefs":{"WH":["umi1_op-L0344"],"MG":["umi1_op-L0341","umi1_op-L0344","umi1_op-L0346"],"UP":["umi1_op-L0341","umi1_op-L0344","umi1_op-L0346"]}}],"sourceReading":"The immediately preceding kick fixes the relevant sense: a bad habit of using her feet against people.","alternative":"足癖 can involve how one uses one’s feet, but the scene supplies kicking, not walking. No unusual gait is described.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-AIR-004","kind":"WH","description":"George says Battler seems already to have some of the qualities he himself lacks. WH says Battler has “far surpassed me on all of those counts.” This adds a comparison of degree and replaces some with all, materially amplifying George’s compliment and self-effacement.","categories":["linguistic.mistranslation","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[419,425],"MG":[419,425],"UP":[419,425]},"japanese":"「僕かい？\n僕なんかまだまださ。\n社会経験が全然足りないし社交性も度胸も足りない。\n…戦人くんには、それらのいくつかがすでにあるように思うよ。\nだからきっと、成人したら僕なんかすぐに追い抜いちゃうさ」\n譲治兄貴は照れ隠しのように頭を掻きながら笑う。\nだがもちろん、それは謙遜だ。","japanesePC":"「僕かい？　僕なんかまだまださ。社会経験が全然足りないし社交性も度胸も足りない。…戦人くんには、それらのいくつかがすでにあるように思うよ。だからきっと、成人したら僕なんかすぐに追い抜いちゃうさ。」","japanesePS3":"「僕かい？\n僕なんかまだまださ。\n社会経験が全然足りないし社交性も度胸も足りない。\n…戦人くんには、それらのいくつかがすでにあるように思うよ。\nだからきっと、成人したら僕なんかすぐに追い抜いちゃうさ」\n譲治兄貴は照れ隠しのように頭を掻きながら笑う。\nだがもちろん、それは謙遜だ。","WH":"\"Like me?  Oh, I still have a long way to go.  I still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.  ...I think you've far surpassed me on all of those counts, Battler-kun.  I'm sure you'll outstrip me fast enough when you become an adult.\"","MG":"\"Like me?\nOh, I still have a long way to go.\nI still have very little experience out there in the real world, and I need to work on becoming more confident and sociable.\n...I think you've far surpassed me on all of those counts, Battler-kun.\nI'm sure you'll outstrip me fast enough when you become an adult.\"\nGeorge-aniki scratched his head and laughed, as though trying to hide his embarrassment.\nOf course, he was just being humble.","UP":"\"Like me?\nOh, I still have a long way to go.\nI still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.\n...I think you've far surpassed me on all of those counts, Battler‐kun.\nI'm sure you'll outstrip me fast enough when you become an adult.\"\nGeorge‐aniki scratched his head and laughed, as though trying to hide his embarrassment.\nOf course, he was just being humble.","note":"Both retain far surpassed / all counts against some already present qualities; identical local dramatic function.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_op-L0419","readerRefs":{"WH":["umi1_op-L0419","umi1_op-L0424"],"MG":["umi1_op-L0419","umi1_op-L0424"],"UP":["umi1_op-L0419","umi1_op-L0424"]}}],"sourceReading":"それらのいくつか means some of those qualities; すでにある means already possesses. The next clause predicts future overtaking on adulthood.","alternative":"The next narration calls George humble, so an English compliment is contextually fitting; humility does not license changing some possession into far superior performance in every listed area.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP01-AIR-005","kind":"WH","description":"In the metal-detector passage, Japanese contrasts the less imposing atmosphere with an international flight’s procedures, while noting even a small plane is still an aircraft. WH makes the contrast physical: “Our small plane wasn’t as massive as an international flight.” The security rationale becomes an aircraft-size comparison.","categories":["linguistic.mistranslation","world.world_fact"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[593,596],"MG":[593,596],"UP":[593,596]},"japanese":"滑走路に出る前に金属検査を受ける。\n国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。\n金属探知機を持った職員にボディチェックを受ける。\n並んだ全員がチェックをクリアすると、職員の先導で滑走路に出た。","japanesePC":"国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。","japanesePS3":"滑走路に出る前に金属検査を受ける。\n国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。\n金属探知機を持った職員にボディチェックを受ける。\n並んだ全員がチェックをクリアすると、職員の先導で滑走路に出た。","WH":"Our small plane wasn't as massive as an international flight, but it was still a plane.","MG":"We had to go through a metal detector before going out on the runway.\nOur small plane wasn't as massive as an international flight, but it was still a plane.\nA staff member holding a metal detector checked us all.\nOnce all of us cleared the check, we followed the staff member out onto the runway.","UP":"We had to go through a metal detector before going out on the runway.\nOur small plane wasn't as massive as an international flight, but it was still a plane.\nA staff member holding a metal detector checked us all.\nOnce all of us cleared the check, we followed the staff member out onto the runway.","note":"Both render less imposing security procedures as smaller aircraft size. Same Japanese distinction and local narrative function; WH analysis applies.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi1_op-L0593","readerRefs":{"WH":["umi1_op-L0593"],"MG":["umi1_op-L0593"],"UP":["umi1_op-L0593"]}}],"sourceReading":"物々しさ describes the imposing or elaborate atmosphere of the checks here, not the aircraft’s mass.","alternative":"Small-plane wording in the same sentence could suggest size; it qualifies why checks still occur and does not make 物々しさ a size word. The next line confirms the procedural context.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-GROWTH-MODALITY-001","kind":"additional","description":"George says underage drinking may adversely affect development. / Rhetorical question asserts alcohol can stunt growth; narrower than adverse development but retains possibility. / Known to stunt growth strengthens possibility into an established effect; local character speech nuance only, no medical judgment or mystery consequence.","categories":["linguistic.overinterpretation"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[163,165],"MG":[163,165],"UP":[163,165]},"japanese":"「だ、駄目だよ、戦人くんはまだ未成年じゃないか！\n未成年の飲酒は発育に悪影響を及ぼす可能性が…、\nって、う〜ん」","japanesePC":"","japanesePS3":"「だ、駄目だよ、戦人くんはまだ未成年じゃないか！\n未成年の飲酒は発育に悪影響を及ぼす可能性が…、\nって、う〜ん」","WH":"","MG":"\"Th-That's no good, Battler-kun! You're still a minor!\nDon't you know alcohol can stunt the growth of...\n...um, never mind.\"","UP":"\"Th‐that's no good, Battler‐kun, you're still a minor!\nDrinking alcohol is known to stunt the growth of minors and...\n...um, never mind.\"","note":"","dispositions":{"MG":"correct","UP":"newly_introduced"},"readerRef":"umi1_op-L0163","readerRefs":{"WH":[],"MG":["umi1_op-L0163"],"UP":["umi1_op-L0163"]}}],"sourceReading":"George says underage drinking may adversely affect development.","alternative":"Colloquial caution permits broad paraphrase, but explicit possibility is removed.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-KYRIE-CONDITION-001","kind":"additional","description":"As long as she is with Rudolf, Kyrie will not let him do that alone. / Since we have been together, I have not let him recasts a continuing condition and declared intention as a retrospective claim about the whole relationship. / As long as / will not preserves the condition and intention.","categories":["linguistic.tense_aspect","linguistic.logical_relation"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[258,259],"MG":[258,259],"UP":[258,259]},"japanese":"「あら、そんな心配は全然不要よ？\n私と一緒にいる以上、そんなことひとりでさせやしないもの」","japanesePC":"","japanesePS3":"「あら、そんな心配は全然不要よ？\n私と一緒にいる以上、そんなことひとりでさせやしないもの」","WH":"","MG":"\"Oh, you don't need to worry about that at all.\nSince we've been together, I haven't let him do that on his own.\"","UP":"\"Oh, you don't need to worry about that at all.\nAs long as we're together, I won't be letting him do that on his own.\"","note":"","dispositions":{"MG":"defect","UP":"corrected_comparatively"},"readerRef":"umi1_op-L0258","readerRefs":{"WH":[],"MG":["umi1_op-L0258"],"UP":["umi1_op-L0258"]}}],"sourceReading":"As long as she is with Rudolf, Kyrie will not let him do that alone.","alternative":"Her confidence implies an established practice, mitigating the difference, but does not assert the retrospective span.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-REIN-SPELLING-001","kind":"additional","description":"Only Kyrie can hold Rudolf’s reins / keep him under control. / Reigning in substitutes ruling for the idiom reining in. / Same spelling error retained; context keeps the intended control meaning understandable.","categories":["linguistic.word_choice"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[264,266],"MG":[264,266],"UP":[264,266]},"japanese":"「いやいやまったく。\nあのクソ親父の手綱は霧江さんにしか無理っすよ。\n実の息子の俺も、喜んで譲っちゃいますわ」","japanesePC":"","japanesePS3":"「いやいやまったく。\nあのクソ親父の手綱は霧江さんにしか無理っすよ。\n実の息子の俺も、喜んで譲っちゃいますわ」","WH":"","MG":"\"No kidding.\nYou're the only one capable of reigning in that old bastard.\nAs his son, I'm more than happy to let you take over.\"","UP":"\"Oh, no kidding.\nYou're the only one capable of reigning in that old bastard.\nAs his son, I'm more than happy to let you take over.\"","note":"","dispositions":{"MG":"defect","UP":"shared_defect"},"readerRef":"umi1_op-L0264","readerRefs":{"WH":[],"MG":["umi1_op-L0264"],"UP":["umi1_op-L0264"]}}],"sourceReading":"Only Kyrie can hold Rudolf’s reins / keep him under control.","alternative":"Reader can readily recover the intended idiom, so no character-power or mystery consequence counted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-DEMONSTRATION-001","kind":"additional","description":"Eva says she made a mistake during a martial-arts demonstration and her partner foamed at the mouth. / Practice match / opponent replaces demonstration / partner; out cold also removes the specific foaming symptom. / Same changes preserved.","categories":["linguistic.mistranslation"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[341,343],"MG":[341,343],"UP":[341,343]},"japanese":"「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」","japanesePC":"","japanesePS3":"「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」","WH":"","MG":"\"Rudooolf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidently connected in a practice match and my opponent was out cold.\"","UP":"\"Rudo~lf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidentally connected in a practice match, and my opponent was out cold.\"","note":"","dispositions":{"MG":"defect","UP":"shared_defect"},"readerRef":"umi1_op-L0341","readerRefs":{"WH":[],"MG":["umi1_op-L0341"],"UP":["umi1_op-L0341"]}}],"sourceReading":"Eva says she made a mistake during a martial-arts demonstration and her partner foamed at the mouth.","alternative":"Demonstrations may involve paired combat, but a competitive practice match is more specific than the source. Unconsciousness is licensed by preceding line, mitigating the symptom paraphrase.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP01-GEORGE-INDEPENDENCE-001","kind":"additional","description":"George is now an adult and no longer requires active child-rearing, leaving room for another child. / About to go off on his own introduces imminent independent departure instead of existing freedom from child-care. / Same unsupported impending departure.","categories":["linguistic.overinterpretation","linguistic.tense_aspect"],"severity":"minor","editions":["MG","UP"],"inherited":false,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[350,351],"MG":[350,351],"UP":[350,351]},"japanese":"「あら、譲治くんに弟を作ってあげるという話はないんですか？\nもう譲治くんも立派な大人になって手も離れたでしょうから、次の子がいてもいいでしょうに」","japanesePC":"","japanesePS3":"「あら、譲治くんに弟を作ってあげるという話はないんですか？\nもう譲治くんも立派な大人になって手も離れたでしょうから、次の子がいてもいいでしょうに」","WH":"","MG":"\"Oh, then why not consider making a little brother for George-kun?\nHe's already a fine adult who's about to go off on his own, so it might be a good time to have another child.\"","UP":"\"Oh, then why not consider making a little brother for George‐kun?\nHe's already a fine adult who's about to go off on his own, so it might be a good time to have another child.\"","note":"","dispositions":{"MG":"defect","UP":"shared_defect"},"readerRef":"umi1_op-L0350","readerRefs":{"WH":[],"MG":["umi1_op-L0350"],"UP":["umi1_op-L0350"]}}],"sourceReading":"George is now an adult and no longer requires active child-rearing, leaving room for another child.","alternative":"Adult independence is implied, but no impending move/departure is stated. No mystery consequence counted.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-002","kind":"PC","description":"Original PC says Battler routinely practices drinking; maintained PS3-derived Japanese changes this to trying it for the first time tonight. MG retains original PC content.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi1_op","episode":1,"rows":{"JP":[162,162],"MG":[162,162],"UP":[162,162]},"japanese":"だから俺も今晩の夕食辺りに初挑戦してみようかなー、って！」","japanesePC":"「いっひっひー！　そ～っすよねぇ？！　だから俺も日頃から予習復習を欠かさないんすよ～！」","japanesePS3":"だから俺も今晩の夕食辺りに初挑戦してみようかなー、って！」","WH":"\"Ihihihi!  That's exactly right!  That's why I never miss a chance to get in some practice!\"","MG":"That's why I never miss a chance to get in some practice!\"","UP":"So I was thinking I'd take my first shot at it tonight at dinner!\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi1_op-L0160","readerRefs":{"WH":[],"MG":["umi1_op-L0160"],"UP":["umi1_op-L0160"]}}],"sourceReading":"Original PC says Battler routinely practices drinking; maintained PS3-derived Japanese changes this to trying it for the first time tonight. MG retains original PC content.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP01-OP-001",
+      "kind": "WH",
+      "description": "The Japanese joke is that Nanjo will not grant a takeback after a mistaken chess move; the English instead makes Kinzo warn Nanjo about a mistake Nanjo is about to make. That changes the participants' actions and the basis of Kinzo's claim that they are even.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "linguistic.logical_relation",
+        "character.agency_responsibility",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              35,
+              35
+            ],
+            "MG": [
+              35,
+              35
+            ],
+            "UP": [
+              35,
+              35
+            ]
+          },
+          "japanese": "「私は何も。\n……医者としての忠告など、金蔵さんはまったく聞いてくれませんからな」\n「はっはっはっは…。\nお前とて、指し間違えた手を待てと言っても聞かぬではないか。\nならば相子というものだろう」\n「……お館様」\n「すまぬ。",
+          "japanesePC": "「はっはっはっは…。お前とて、指し間違えた手を待てと言っても聞かぬではないか。ならば相子というものだろう。」",
+          "japanesePS3": "「私は何も。\n……医者としての忠告など、金蔵さんはまったく聞いてくれませんからな」\n「はっはっはっは…。\nお前とて、指し間違えた手を待てと言っても聞かぬではないか。\nならば相子というものだろう」\n「……お館様」\n「すまぬ。",
+          "WH": "\"Hahahaha...  And you never listen when I warn you about a mistaken chess move you're about to make.  It seems we are even.\"",
+          "MG": "\"I have done nothing.\n......After all, you never listen to my advice as your physician.\"\n\"Hahahaha...\nAnd you never listen when I warn you about a mistaken chess move you're about to make.\nIt seems only fair, does it not?\"\n\"......Master.\"\n\"Thank you.",
+          "UP": "\"I have done nothing.\n......After all, you never listen to my advice as your physician.\"\n\"Hahahaha...\nAnd you never listen when I warn you about a mistaken chess move you're about to make.\nIt seems we are even.\"\n\"......My lord.\"\n\"Thank you.",
+          "note": "Both advance warning instead of chess takeback; legacy MG-EP01-OP-001 recorded.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_op-L0034",
+          "readerRefs": {
+            "WH": [
+              "umi1_op-L0034"
+            ],
+            "MG": [
+              "umi1_op-L0034"
+            ],
+            "UP": [
+              "umi1_op-L0034"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「はっはっはっは…。お前とて、指し間違えた手を待てと言っても聞かぬではないか。ならば相子というものだろう」",
+              "translation": "\"Hahahaha... And you never listen when I warn you about a mistaken chess move you're about to make. It seems only fair, does it not?\" "
+            },
+            "UP": {
+              "japanese": "「はっはっはっは…。お前とて、指し間違えた手を待てと言っても聞かぬではないか。ならば相子というものだろう」",
+              "translation": "\"Hahahaha... And you never listen when I warn you about a mistaken chess move you're about to make. It seems we are even.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_op-L0034"
+            ],
+            "MG": [
+              "umi1_op-L0034"
+            ],
+            "UP": [
+              "umi1_op-L0034"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "指し間違えた手 is a move already played incorrectly; 待て here requests a takeback, which Nanjo refuses. The comparison concerns each friend refusing the other a concession.",
+      "alternative": "待て can ordinarily mean wait, and Japanese does not state every subject. But the already-made mistaken move and chess setting support the takeback reading; they do not support the invented warning about a future move.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-OP-002",
+      "kind": "WH",
+      "description": "Japanese 至りますまい predicts that Kinzo will not get as far as cornering Nanjo's king. WH says he has not cornered it yet, turning a prediction of death before completion into a report about the present board position. The following narration makes the intended lifespan analogy explicit.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.tense_aspect",
+        "linguistic.logical_relation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              52,
+              52
+            ],
+            "MG": [
+              52,
+              52
+            ],
+            "UP": [
+              52,
+              52
+            ]
+          },
+          "japanese": "「………長くはありませんな」\n「…どの程度に長くないというのだ」\n「……このチェスで例えましょう。\n金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい」\n南條の目線の先には、サイドテーブルがありそこには重厚なチェスセットが置かれていた。\n駒を見る限り、ゲームはだいぶ終盤に入っている。\n黒のルークやビショップが敵陣深く食い込んでいた。",
+          "japanesePC": "「……このチェスで例えましょう。金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい。」",
+          "japanesePS3": "「………長くはありませんな」\n「…どの程度に長くないというのだ」\n「……このチェスで例えましょう。\n金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい」\n南條の目線の先には、サイドテーブルがありそこには重厚なチェスセットが置かれていた。\n駒を見る限り、ゲームはだいぶ終盤に入っている。\n黒のルークやビショップが敵陣深く食い込んでいた。",
+          "WH": "\"......Let us illustrate it with the chess game here.  You have very nearly achieved checkmate...but you have not yet cornered my king.\"",
+          "MG": "\"......You don't have long.\"\n\"...What precisely do you mean by that?\"\n\"......Let us illustrate it with the chess game here.\nYou have very nearly achieved checkmate, ...but you have not yet cornered my king.\"\nNanjo's gaze was directed at a side table with a massive chess set placed on top of it.\nJudging by the positioning of the pieces, the game seemed to be entering its final stage.\nBlack's rook and bishop were cutting deeply into enemy lines.",
+          "UP": "\".........You don't have much time.\"\n\"...What precisely do you mean by that?\"\n\"......Let us illustrate it with the chess game here.\nYou are closing out the game quite well, but I do not ultimately see you cornering my king.\"\nNanjo's gaze was directed at a side table with a stately chess set placed on top of it.\nJudging by the positioning of the pieces, the match was well into the endgame.\nThe black rook and bishop were cutting deeply into the enemy lines.",
+          "note": "MG not yet vs UP prospective failure restored; legacy MG-EP01-OP-002 recorded.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi1_op-L0051",
+          "readerRefs": {
+            "WH": [
+              "umi1_op-L0051"
+            ],
+            "MG": [
+              "umi1_op-L0051"
+            ],
+            "UP": [
+              "umi1_op-L0051"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……このチェスで例えましょう。金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい」",
+              "translation": "\"......Let us illustrate it with the chess game here. You have very nearly achieved checkmate, ...but you have not yet cornered my king.\" "
+            },
+            "UP": {
+              "japanese": "「……このチェスで例えましょう。金蔵さんの詰めもなかなかですが、私のキングを追い詰めるには至りますまい」",
+              "translation": "\"......Let us illustrate it with the chess game here. You are closing out the game quite well, but I do not ultimately see you cornering my king.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_op-L0051"
+            ],
+            "MG": [
+              "umi1_op-L0051"
+            ],
+            "UP": [
+              "umi1_op-L0051"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Embedded Japanese row 3238 explicitly says Kinzo will die before the game is decided; this corroborates the future prediction, not merely an unfinished board position.",
+      "alternative": "The English narration still explains death before the game ends, so the passage as a whole is not unintelligible. But that recovery does not make the doctor's present-tense statement equivalent to his Japanese prediction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-AIR-001",
+      "kind": "WH",
+      "description": "Battler denies having the romantic exploits Eva imagines and says he would rather have her introduce him to someone (紹介してほしい). WH replaces that request with “I’d rather it did,” whose antecedent is the supposedly weird experience of leaving girls crying. The reply changes from an inexperienced young man asking for help meeting girls into wishing the alleged exploits had happened.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              233,
+              234
+            ],
+            "MG": [
+              233,
+              234
+            ],
+            "UP": [
+              233,
+              234
+            ]
+          },
+          "japanese": "そんな妙な武勇伝、あるわけないじゃない〜！\nむしろ紹介してほしいくらいっす〜！」",
+          "japanesePC": "「わたたたッ、\nじょじょ、\n冗談じゃないっすよ！\nそんな妙な武勇伝、あるわけないじゃない～！　むしろ紹介してほしいくらいっす～！」",
+          "japanesePS3": "そんな妙な武勇伝、あるわけないじゃない〜！\nむしろ紹介してほしいくらいっす〜！」",
+          "WH": "\"Wh, what?\nY, y,\nyou're joking, right!?\nOf course nothing weird like that's ever happened to me!  In fact, I'd rather it did!\"",
+          "MG": "Of course nothing weird like that's ever happened to me!\nIn fact, if you know anyone, I'm all ears!\"",
+          "UP": "Of course nothing weird like that's ever happened to me!\nIn fact, if you know anyone, I'm all ears!\"",
+          "note": "Both if you know anyone recovers requested romantic introduction rather than wishing experience.",
+          "dispositions": {
+            "MG": "corrected_in_context",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi1_op-L0230",
+          "readerRefs": {
+            "WH": [
+              "umi1_op-L0230"
+            ],
+            "MG": [
+              "umi1_op-L0230"
+            ],
+            "UP": [
+              "umi1_op-L0230"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「わたたたッ、じょじょ、冗談じゃないっすよ！　そんな妙な武勇伝、あるわけないじゃない〜！　むしろ紹介してほしいくらいっす〜！」",
+              "translation": "\"Nonononono! Y-Y- You're joking, right?! Of course nothing weird like that's ever happened to me! In fact, if you know anyone, I'm all ears!\" "
+            },
+            "UP": {
+              "japanese": "「わたたたッ、じょじょ、冗談じゃないっすよ！　そんな妙な武勇伝、あるわけないじゃない〜！　むしろ紹介してほしいくらいっす〜！」",
+              "translation": "\"Nonononono! Y‐y‐ you're joking, right?! Of course nothing weird like that's ever happened to me! In fact, if you know anyone, I'm all ears!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_op-L0230"
+            ],
+            "MG": [
+              "umi1_op-L0230"
+            ],
+            "UP": [
+              "umi1_op-L0230"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "紹介してほしい is a desire to be introduced; the surrounding talk supplies girls as its contextual object. It does not mean wanting to have made girls cry.",
+      "alternative": "The English preserves a broad desire for romantic experience. That partly preserves the joke, but removes the introduction request and gives the wish a different antecedent.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-AIR-002",
+      "kind": "WH",
+      "description": "Japanese calls the speech a suspicious Kansai-like dialect (怪しい関西弁風) and tentatively his own invention (オリジナル？). WH calls it an odd Kansai dialect, dropping both the imitation qualifier and the narrator’s question about its originality. This weakens the explicit joke about a Kanto businessman’s homemade regional persona.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.irony_performance"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              215,
+              215
+            ],
+            "MG": [
+              215,
+              215
+            ],
+            "UP": [
+              215,
+              215
+            ]
+          },
+          "japanese": "印象的な怪しい関西弁風の方言はオリジナル？　のもので、本人は生粋の関東人だ。",
+          "japanesePC": "印象的な怪しい関西弁風の方言はオリジナル？のもので、本人は生粋の関東人だ。",
+          "japanesePS3": "印象的な怪しい関西弁風の方言はオリジナル？　のもので、本人は生粋の関東人だ。",
+          "WH": "He speaks in an odd and very noticeable Kansai dialect, but he's actually a natural-born Kanto man.",
+          "MG": "He speaks in an odd and very noticeable Kansai dialect, but he's actually a natural-born Kanto man.",
+          "UP": "He speaks in an odd and very noticeable Kansai‐style dialect seemingly of his own creation, but he's actually a natural‐born Kanto man.",
+          "note": "MG Kansai dialect lacks invented qualification; UP Kansai-style of own creation restores.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_in_context"
+          },
+          "readerRef": "umi1_op-L0215",
+          "readerRefs": {
+            "WH": [
+              "umi1_op-L0215"
+            ],
+            "MG": [
+              "umi1_op-L0215"
+            ],
+            "UP": [
+              "umi1_op-L0215"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "印象的な怪しい関西弁風の方言はオリジナル？　のもので、本人は生粋の関東人だ。何でも、ビジネスの世界では印象付けが大事とかで、他の人とは毛色の違う言葉を狙って話すことで自分をより印象付けようという演出らしいんだが。……もっとも、本場の関西人の前では恥ずかしいので、標準語に戻すんだとか。…よくわからんが面白い人なのは間違いない。",
+              "translation": "He speaks in an odd and very noticeable Kansai dialect, but he's actually a natural-born Kanto man. Apparently, impressions are everything in the business world, so speaking in a different style than other people is an act that makes him stick out more. ......However, I hear he gets embarrassed when talking within earshot of a real Kansai person, so he switches back to standard Japanese. ...I don't really get it, but he's definitely an interesting person. "
+            },
+            "UP": {
+              "japanese": "印象的な怪しい関西弁風の方言はオリジナル？　のもので、本人は生粋の関東人だ。何でも、ビジネスの世界では印象付けが大事とかで、他の人とは毛色の違う言葉を狙って話すことで自分をより印象付けようという演出らしいんだが。……もっとも、本場の関西人の前では恥ずかしいので、標準語に戻すんだとか。…よくわからんが面白い人なのは間違いない。",
+              "translation": "He speaks in an odd and very noticeable Kansai‐style dialect seemingly of his own creation, but he's actually a natural‐born Kanto man. Apparently, leaving an impression is everything in the business world, so speaking in a different style than other people is an act that makes him stick out more. ......However, I hear that he gets embarrassed when talking within earshot of a real Kansai person, so he switches back to standard Japanese. ...I don't really get it, but he's definitely an interesting person."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_op-L0215"
+            ],
+            "MG": [
+              "umi1_op-L0215"
+            ],
+            "UP": [
+              "umi1_op-L0215"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The source distinguishes Kansai-like imitation from unqualified Kansai dialect and marks the originality claim with a question.",
+      "alternative": "The following business-persona explanation and embarrassment before real Kansai speakers preserve much of the characterization; the loss is local and minor, not wholesale erasure of his performed voice.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-AIR-003",
+      "kind": "WH",
+      "description": "After Eva stops a kick at Rudolf’s nose and threatens another blow, Rudolf apologizes for his sister’s 足癖の悪い behavior. WH instead apologizes for “that strange way she walks,” inventing an odd gait and breaking the direct callback to her kicking.",
+      "categories": [
+        "linguistic.mistranslation",
+        "linguistic.imagery_rhythm_recurrence"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              341,
+              346
+            ],
+            "MG": [
+              341,
+              346
+            ],
+            "UP": [
+              341,
+              346
+            ]
+          },
+          "japanese": "「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」\n「…はー、いやいや。\n足癖の悪い姉貴で本当に申し訳ないです」\n親父は、まったく動じない風で、肩をすくめて秀吉伯父さんに苦笑いを送る。",
+          "japanesePC": "「…はー、いやいや。足癖の悪い姉貴で本当に申し訳ないです。」",
+          "japanesePS3": "「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」\n「…はー、いやいや。\n足癖の悪い姉貴で本当に申し訳ないです」\n親父は、まったく動じない風で、肩をすくめて秀吉伯父さんに苦笑いを送る。",
+          "WH": "\"...Sheesh, what a pain.  Guess I have to apologize for that strange way she walks too.\"",
+          "MG": "\"Rudooolf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidently connected in a practice match and my opponent was out cold.\"\n\"...Sheesh, what a pain.\nI'm so sorry she can't help walking like a freak.\"\nDad, completely unfazed, shrugged and smiled ironically at Uncle Hideyoshi.",
+          "UP": "\"Rudo~lf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidentally connected in a practice match, and my opponent was out cold.\"\n\"...Sheesh, what a pain.\nGuess I have to apologize for her tendency to lash out with her feet, too.\"\nDad, completely unfazed, shrugged and smiled ironically at Uncle Hideyoshi.",
+          "note": "Canonical parent already linked explicitly in receipt findings rather than WH_outcomes. Preserve recorded nuanced dispositions and raw record; no duplicate new parent.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected_comparatively"
+          },
+          "readerRef": "umi1_op-L0341",
+          "readerRefs": {
+            "WH": [
+              "umi1_op-L0344"
+            ],
+            "MG": [
+              "umi1_op-L0341",
+              "umi1_op-L0344",
+              "umi1_op-L0346"
+            ],
+            "UP": [
+              "umi1_op-L0341",
+              "umi1_op-L0344",
+              "umi1_op-L0346"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「…はー、いやいや。足癖の悪い姉貴で本当に申し訳ないです」",
+              "translation": "\"...Sheesh, what a pain. I'm so sorry she can't help walking like a freak.\" "
+            },
+            "UP": {
+              "japanese": "「…はー、いやいや。足癖の悪い姉貴で本当に申し訳ないです」",
+              "translation": "\"...Sheesh, what a pain. Guess I have to apologize for her tendency to lash out with her feet, too.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_op-L0344"
+            ],
+            "MG": [
+              "umi1_op-L0344"
+            ],
+            "UP": [
+              "umi1_op-L0344"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The immediately preceding kick fixes the relevant sense: a bad habit of using her feet against people.",
+      "alternative": "足癖 can involve how one uses one’s feet, but the scene supplies kicking, not walking. No unusual gait is described.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-AIR-004",
+      "kind": "WH",
+      "description": "George says Battler seems already to have some of the qualities he himself lacks. WH says Battler has “far surpassed me on all of those counts.” This adds a comparison of degree and replaces some with all, materially amplifying George’s compliment and self-effacement.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              419,
+              425
+            ],
+            "MG": [
+              419,
+              425
+            ],
+            "UP": [
+              419,
+              425
+            ]
+          },
+          "japanese": "「僕かい？\n僕なんかまだまださ。\n社会経験が全然足りないし社交性も度胸も足りない。\n…戦人くんには、それらのいくつかがすでにあるように思うよ。\nだからきっと、成人したら僕なんかすぐに追い抜いちゃうさ」\n譲治兄貴は照れ隠しのように頭を掻きながら笑う。\nだがもちろん、それは謙遜だ。",
+          "japanesePC": "「僕かい？　僕なんかまだまださ。社会経験が全然足りないし社交性も度胸も足りない。…戦人くんには、それらのいくつかがすでにあるように思うよ。だからきっと、成人したら僕なんかすぐに追い抜いちゃうさ。」",
+          "japanesePS3": "「僕かい？\n僕なんかまだまださ。\n社会経験が全然足りないし社交性も度胸も足りない。\n…戦人くんには、それらのいくつかがすでにあるように思うよ。\nだからきっと、成人したら僕なんかすぐに追い抜いちゃうさ」\n譲治兄貴は照れ隠しのように頭を掻きながら笑う。\nだがもちろん、それは謙遜だ。",
+          "WH": "\"Like me?  Oh, I still have a long way to go.  I still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.  ...I think you've far surpassed me on all of those counts, Battler-kun.  I'm sure you'll outstrip me fast enough when you become an adult.\"",
+          "MG": "\"Like me?\nOh, I still have a long way to go.\nI still have very little experience out there in the real world, and I need to work on becoming more confident and sociable.\n...I think you've far surpassed me on all of those counts, Battler-kun.\nI'm sure you'll outstrip me fast enough when you become an adult.\"\nGeorge-aniki scratched his head and laughed, as though trying to hide his embarrassment.\nOf course, he was just being humble.",
+          "UP": "\"Like me?\nOh, I still have a long way to go.\nI still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.\n...I think you've far surpassed me on all of those counts, Battler‐kun.\nI'm sure you'll outstrip me fast enough when you become an adult.\"\nGeorge‐aniki scratched his head and laughed, as though trying to hide his embarrassment.\nOf course, he was just being humble.",
+          "note": "Both retain far surpassed / all counts against some already present qualities; identical local dramatic function.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_op-L0419",
+          "readerRefs": {
+            "WH": [
+              "umi1_op-L0419",
+              "umi1_op-L0424"
+            ],
+            "MG": [
+              "umi1_op-L0419",
+              "umi1_op-L0424"
+            ],
+            "UP": [
+              "umi1_op-L0419",
+              "umi1_op-L0424"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「僕かい？　僕なんかまだまださ。社会経験が全然足りないし社交性も度胸も足りない。…戦人くんには、それらのいくつかがすでにあるように思うよ。だからきっと、成人したら僕なんかすぐに追い抜いちゃうさ」",
+              "translation": "\"Like me? Oh, I still have a long way to go. I still have very little experience out there in the real world, and I need to work on becoming more confident and sociable. ...I think you've far surpassed me on all of those counts, Battler-kun. I'm sure you'll outstrip me fast enough when you become an adult.\" "
+            },
+            "UP": {
+              "japanese": "「僕かい？　僕なんかまだまださ。社会経験が全然足りないし社交性も度胸も足りない。…戦人くんには、それらのいくつかがすでにあるように思うよ。だからきっと、成人したら僕なんかすぐに追い抜いちゃうさ」",
+              "translation": "\"Like me? Oh, I still have a long way to go. I still have very little experience out there in the real world, and I need to work on becoming more bold and sociable. ...I think you've far surpassed me on all of those counts, Battler‐kun. I'm sure you'll outstrip me fast enough when you become an adult.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_op-L0419",
+              "umi1_op-L0424"
+            ],
+            "MG": [
+              "umi1_op-L0419"
+            ],
+            "UP": [
+              "umi1_op-L0419"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "それらのいくつか means some of those qualities; すでにある means already possesses. The next clause predicts future overtaking on adulthood.",
+      "alternative": "The next narration calls George humble, so an English compliment is contextually fitting; humility does not license changing some possession into far superior performance in every listed area.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP01-AIR-005",
+      "kind": "WH",
+      "description": "In the metal-detector passage, Japanese contrasts the less imposing atmosphere with an international flight’s procedures, while noting even a small plane is still an aircraft. WH makes the contrast physical: “Our small plane wasn’t as massive as an international flight.” The security rationale becomes an aircraft-size comparison.",
+      "categories": [
+        "linguistic.mistranslation",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              593,
+              596
+            ],
+            "MG": [
+              593,
+              596
+            ],
+            "UP": [
+              593,
+              596
+            ]
+          },
+          "japanese": "滑走路に出る前に金属検査を受ける。\n国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。\n金属探知機を持った職員にボディチェックを受ける。\n並んだ全員がチェックをクリアすると、職員の先導で滑走路に出た。",
+          "japanesePC": "国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。",
+          "japanesePS3": "滑走路に出る前に金属検査を受ける。\n国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。\n金属探知機を持った職員にボディチェックを受ける。\n並んだ全員がチェックをクリアすると、職員の先導で滑走路に出た。",
+          "WH": "Our small plane wasn't as massive as an international flight, but it was still a plane.",
+          "MG": "We had to go through a metal detector before going out on the runway.\nOur small plane wasn't as massive as an international flight, but it was still a plane.\nA staff member holding a metal detector checked us all.\nOnce all of us cleared the check, we followed the staff member out onto the runway.",
+          "UP": "We had to go through a metal detector before going out on the runway.\nOur small plane wasn't as massive as an international flight, but it was still a plane.\nA staff member holding a metal detector checked us all.\nOnce all of us cleared the check, we followed the staff member out onto the runway.",
+          "note": "Both render less imposing security procedures as smaller aircraft size. Same Japanese distinction and local narrative function; WH analysis applies.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi1_op-L0593",
+          "readerRefs": {
+            "WH": [
+              "umi1_op-L0593"
+            ],
+            "MG": [
+              "umi1_op-L0593"
+            ],
+            "UP": [
+              "umi1_op-L0593"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "滑走路に出る前に金属検査を受ける。国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。金属探知機を持った職員にボディチェックを受ける。並んだ全員がチェックをクリアすると、職員の先導で滑走路に出た。",
+              "translation": "We had to go through a metal detector before going out on the runway. Our small plane wasn't as massive as an international flight, but it was still a plane. A staff member holding a metal detector checked us all. Once all of us cleared the check, we followed the staff member out onto the runway. "
+            },
+            "UP": {
+              "japanese": "滑走路に出る前に金属検査を受ける。国際線のような物々しさはなかったが、小型機とはいえ一応は飛行機だ。金属探知機を持った職員にボディチェックを受ける。並んだ全員がチェックをクリアすると、職員の先導で滑走路に出た。",
+              "translation": "We had to go through a metal detector before going out on the runway. Our small plane wasn't as massive as an international flight, but it was still a plane. A staff member holding a metal detector checked us all. Once all of us cleared the check, we followed the staff member out onto the runway."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi1_op-L0593"
+            ],
+            "MG": [
+              "umi1_op-L0593"
+            ],
+            "UP": [
+              "umi1_op-L0593"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "物々しさ describes the imposing or elaborate atmosphere of the checks here, not the aircraft’s mass.",
+      "alternative": "Small-plane wording in the same sentence could suggest size; it qualifies why checks still occur and does not make 物々しさ a size word. The next line confirms the procedural context.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-GROWTH-MODALITY-001",
+      "kind": "additional",
+      "description": "George says underage drinking may adversely affect development. / Rhetorical question asserts alcohol can stunt growth; narrower than adverse development but retains possibility. / Known to stunt growth strengthens possibility into an established effect; local character speech nuance only, no medical judgment or mystery consequence.",
+      "categories": [
+        "linguistic.overinterpretation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              163,
+              165
+            ],
+            "MG": [
+              163,
+              165
+            ],
+            "UP": [
+              163,
+              165
+            ]
+          },
+          "japanese": "「だ、駄目だよ、戦人くんはまだ未成年じゃないか！\n未成年の飲酒は発育に悪影響を及ぼす可能性が…、\nって、う〜ん」",
+          "japanesePC": "",
+          "japanesePS3": "「だ、駄目だよ、戦人くんはまだ未成年じゃないか！\n未成年の飲酒は発育に悪影響を及ぼす可能性が…、\nって、う〜ん」",
+          "WH": "",
+          "MG": "\"Th-That's no good, Battler-kun! You're still a minor!\nDon't you know alcohol can stunt the growth of...\n...um, never mind.\"",
+          "UP": "\"Th‐that's no good, Battler‐kun, you're still a minor!\nDrinking alcohol is known to stunt the growth of minors and...\n...um, never mind.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "newly_introduced"
+          },
+          "readerRef": "umi1_op-L0163",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0163"
+            ],
+            "UP": [
+              "umi1_op-L0163"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「だ、駄目だよ、戦人くんはまだ未成年じゃないか！　未成年の飲酒は発育に悪影響を及ぼす可能性が…、って、う〜ん」",
+              "translation": "\"Th-That's no good, Battler-kun! You're still a minor! Don't you know alcohol can stunt the growth of... ...um, never mind.\" "
+            },
+            "UP": {
+              "japanese": "「だ、駄目だよ、戦人くんはまだ未成年じゃないか！　未成年の飲酒は発育に悪影響を及ぼす可能性が…、って、う〜ん」",
+              "translation": "\"Th‐that's no good, Battler‐kun, you're still a minor! Drinking alcohol is known to stunt the growth of minors and... ...um, never mind.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0163"
+            ],
+            "UP": [
+              "umi1_op-L0163"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George says underage drinking may adversely affect development.",
+      "alternative": "Colloquial caution permits broad paraphrase, but explicit possibility is removed.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-KYRIE-CONDITION-001",
+      "kind": "additional",
+      "description": "As long as she is with Rudolf, Kyrie will not let him do that alone. / Since we have been together, I have not let him recasts a continuing condition and declared intention as a retrospective claim about the whole relationship. / As long as / will not preserves the condition and intention.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "linguistic.logical_relation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              258,
+              259
+            ],
+            "MG": [
+              258,
+              259
+            ],
+            "UP": [
+              258,
+              259
+            ]
+          },
+          "japanese": "「あら、そんな心配は全然不要よ？\n私と一緒にいる以上、そんなことひとりでさせやしないもの」",
+          "japanesePC": "",
+          "japanesePS3": "「あら、そんな心配は全然不要よ？\n私と一緒にいる以上、そんなことひとりでさせやしないもの」",
+          "WH": "",
+          "MG": "\"Oh, you don't need to worry about that at all.\nSince we've been together, I haven't let him do that on his own.\"",
+          "UP": "\"Oh, you don't need to worry about that at all.\nAs long as we're together, I won't be letting him do that on his own.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "corrected_comparatively"
+          },
+          "readerRef": "umi1_op-L0258",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0258"
+            ],
+            "UP": [
+              "umi1_op-L0258"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あら、そんな心配は全然不要よ？　私と一緒にいる以上、そんなことひとりでさせやしないもの」",
+              "translation": "\"Oh, you don't need to worry about that at all. Since we've been together, I haven't let him do that on his own.\" "
+            },
+            "UP": {
+              "japanese": "「あら、そんな心配は全然不要よ？　私と一緒にいる以上、そんなことひとりでさせやしないもの」",
+              "translation": "\"Oh, you don't need to worry about that at all. As long as we're together, I won't be letting him do that on his own.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0258"
+            ],
+            "UP": [
+              "umi1_op-L0258"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "As long as she is with Rudolf, Kyrie will not let him do that alone.",
+      "alternative": "Her confidence implies an established practice, mitigating the difference, but does not assert the retrospective span.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-REIN-SPELLING-001",
+      "kind": "additional",
+      "description": "Only Kyrie can hold Rudolf’s reins / keep him under control. / Reigning in substitutes ruling for the idiom reining in. / Same spelling error retained; context keeps the intended control meaning understandable.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              264,
+              266
+            ],
+            "MG": [
+              264,
+              266
+            ],
+            "UP": [
+              264,
+              266
+            ]
+          },
+          "japanese": "「いやいやまったく。\nあのクソ親父の手綱は霧江さんにしか無理っすよ。\n実の息子の俺も、喜んで譲っちゃいますわ」",
+          "japanesePC": "",
+          "japanesePS3": "「いやいやまったく。\nあのクソ親父の手綱は霧江さんにしか無理っすよ。\n実の息子の俺も、喜んで譲っちゃいますわ」",
+          "WH": "",
+          "MG": "\"No kidding.\nYou're the only one capable of reigning in that old bastard.\nAs his son, I'm more than happy to let you take over.\"",
+          "UP": "\"Oh, no kidding.\nYou're the only one capable of reigning in that old bastard.\nAs his son, I'm more than happy to let you take over.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "shared_defect"
+          },
+          "readerRef": "umi1_op-L0264",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0264"
+            ],
+            "UP": [
+              "umi1_op-L0264"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いやいやまったく。あのクソ親父の手綱は霧江さんにしか無理っすよ。実の息子の俺も、喜んで譲っちゃいますわ」",
+              "translation": "\"No kidding. You're the only one capable of reigning in that old bastard. As his son, I'm more than happy to let you take over.\" "
+            },
+            "UP": {
+              "japanese": "「いやいやまったく。あのクソ親父の手綱は霧江さんにしか無理っすよ。実の息子の俺も、喜んで譲っちゃいますわ」",
+              "translation": "\"Oh, no kidding. You're the only one capable of reigning in that old bastard. As his son, I'm more than happy to let you take over.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0264"
+            ],
+            "UP": [
+              "umi1_op-L0264"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Only Kyrie can hold Rudolf’s reins / keep him under control.",
+      "alternative": "Reader can readily recover the intended idiom, so no character-power or mystery consequence counted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-DEMONSTRATION-001",
+      "kind": "additional",
+      "description": "Eva says she made a mistake during a martial-arts demonstration and her partner foamed at the mouth. / Practice match / opponent replaces demonstration / partner; out cold also removes the specific foaming symptom. / Same changes preserved.",
+      "categories": [
+        "linguistic.mistranslation"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              341,
+              343
+            ],
+            "MG": [
+              341,
+              343
+            ],
+            "UP": [
+              341,
+              343
+            ]
+          },
+          "japanese": "「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」",
+          "japanesePC": "",
+          "japanesePS3": "「留ぅ弗〜夫ぅ〜？\n側頭部直撃だと一発で昏倒するわよぅ？\nこの間、演武でミスって相方、泡吹いちゃったんだからねぇ？」",
+          "WH": "",
+          "MG": "\"Rudooolf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidently connected in a practice match and my opponent was out cold.\"",
+          "UP": "\"Rudo~lf?\nDid you know that a single direct blow to the side of the head like that would knock you unconscious?\nNot so long ago, I accidentally connected in a practice match, and my opponent was out cold.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "shared_defect"
+          },
+          "readerRef": "umi1_op-L0341",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0341"
+            ],
+            "UP": [
+              "umi1_op-L0341"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「留ぅ弗〜夫ぅ〜？　側頭部直撃だと一発で昏倒するわよぅ？　この間、演武でミスって相方、泡吹いちゃったんだからねぇ？」",
+              "translation": "\"Rudooolf? Did you know that a single direct blow to the side of the head like that would knock you unconscious? Not so long ago, I accidently connected in a practice match and my opponent was out cold.\" "
+            },
+            "UP": {
+              "japanese": "「留ぅ弗〜夫ぅ〜？　側頭部直撃だと一発で昏倒するわよぅ？　この間、演武でミスって相方、泡吹いちゃったんだからねぇ？」",
+              "translation": "\"Rudo~lf? Did you know that a single direct blow to the side of the head like that would knock you unconscious? Not so long ago, I accidentally connected in a practice match, and my opponent was out cold.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0341"
+            ],
+            "UP": [
+              "umi1_op-L0341"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Eva says she made a mistake during a martial-arts demonstration and her partner foamed at the mouth.",
+      "alternative": "Demonstrations may involve paired combat, but a competitive practice match is more specific than the source. Unconsciousness is licensed by preceding line, mitigating the symptom paraphrase.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP01-GEORGE-INDEPENDENCE-001",
+      "kind": "additional",
+      "description": "George is now an adult and no longer requires active child-rearing, leaving room for another child. / About to go off on his own introduces imminent independent departure instead of existing freedom from child-care. / Same unsupported impending departure.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "linguistic.tense_aspect"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG",
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              350,
+              351
+            ],
+            "MG": [
+              350,
+              351
+            ],
+            "UP": [
+              350,
+              351
+            ]
+          },
+          "japanese": "「あら、譲治くんに弟を作ってあげるという話はないんですか？\nもう譲治くんも立派な大人になって手も離れたでしょうから、次の子がいてもいいでしょうに」",
+          "japanesePC": "",
+          "japanesePS3": "「あら、譲治くんに弟を作ってあげるという話はないんですか？\nもう譲治くんも立派な大人になって手も離れたでしょうから、次の子がいてもいいでしょうに」",
+          "WH": "",
+          "MG": "\"Oh, then why not consider making a little brother for George-kun?\nHe's already a fine adult who's about to go off on his own, so it might be a good time to have another child.\"",
+          "UP": "\"Oh, then why not consider making a little brother for George‐kun?\nHe's already a fine adult who's about to go off on his own, so it might be a good time to have another child.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "shared_defect"
+          },
+          "readerRef": "umi1_op-L0350",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0350"
+            ],
+            "UP": [
+              "umi1_op-L0350"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あら、譲治くんに弟を作ってあげるという話はないんですか？　もう譲治くんも立派な大人になって手も離れたでしょうから、次の子がいてもいいでしょうに」",
+              "translation": "\"Oh, then why not consider making a little brother for George-kun? He's already a fine adult who's about to go off on his own, so it might be a good time to have another child.\" "
+            },
+            "UP": {
+              "japanese": "「あら、譲治くんに弟を作ってあげるという話はないんですか？　もう譲治くんも立派な大人になって手も離れたでしょうから、次の子がいてもいいでしょうに」",
+              "translation": "\"Oh, then why not consider making a little brother for George‐kun? He's already a fine adult who's about to go off on his own, so it might be a good time to have another child.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0350"
+            ],
+            "UP": [
+              "umi1_op-L0350"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "George is now an adult and no longer requires active child-rearing, leaving room for another child.",
+      "alternative": "Adult independence is implied, but no impending move/departure is stated. No mystery consequence counted.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-002",
+      "kind": "PC",
+      "description": "Original PC says Battler routinely practices drinking; maintained PS3-derived Japanese changes this to trying it for the first time tonight. MG retains original PC content.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi1_op",
+          "episode": 1,
+          "rows": {
+            "JP": [
+              162,
+              162
+            ],
+            "MG": [
+              162,
+              162
+            ],
+            "UP": [
+              162,
+              162
+            ]
+          },
+          "japanese": "だから俺も今晩の夕食辺りに初挑戦してみようかなー、って！」",
+          "japanesePC": "「いっひっひー！　そ～っすよねぇ？！　だから俺も日頃から予習復習を欠かさないんすよ～！」",
+          "japanesePS3": "だから俺も今晩の夕食辺りに初挑戦してみようかなー、って！」",
+          "WH": "\"Ihihihi!  That's exactly right!  That's why I never miss a chance to get in some practice!\"",
+          "MG": "That's why I never miss a chance to get in some practice!\"",
+          "UP": "So I was thinking I'd take my first shot at it tonight at dinner!\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi1_op-L0160",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0160"
+            ],
+            "UP": [
+              "umi1_op-L0160"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いっひっひー！　そ〜っすよねぇ？！　だから俺も今晩の夕食辺りに初挑戦してみようかなー、って！」",
+              "translation": "\"Ihihihi! That's exactly right! That's why I never miss a chance to get in some practice!\" "
+            },
+            "UP": {
+              "japanese": "「いっひっひー！　そ〜っすよねぇ？！　だから俺も今晩の夕食辺りに初挑戦してみようかなー、って！」",
+              "translation": "\"Ihihihi! That's exactly right! So I was thinking I'd take my first shot at it tonight at dinner!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi1_op-L0160"
+            ],
+            "UP": [
+              "umi1_op-L0160"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Original PC says Battler routinely practices drinking; maintained PS3-derived Japanese changes this to trying it for the first time tonight. MG retains original PC content.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP01-OP-001": {
+      "umi1_op-L0034": {
+        "WH": [
+          "warn you about a mistaken chess move you're about to make"
+        ],
+        "MG": [
+          "warn you about a mistaken chess move you're about to make"
+        ],
+        "UP": [
+          "warn you about a mistaken chess move you're about to make"
+        ]
+      }
+    },
+    "WH-EP01-OP-002": {
+      "umi1_op-L0051": {
+        "WH": [
+          "have not yet cornered my king"
+        ],
+        "MG": [
+          "have not yet cornered my king"
+        ]
+      }
+    },
+    "WH-EP01-AIR-001": {
+      "umi1_op-L0230": {
+        "WH": [
+          "I'd rather it did"
+        ]
+      }
+    },
+    "WH-EP01-AIR-002": {
+      "umi1_op-L0215": {
+        "WH": [
+          "an odd and very noticeable Kansai dialect"
+        ],
+        "MG": [
+          "an odd and very noticeable Kansai dialect"
+        ]
+      }
+    },
+    "WH-EP01-AIR-003": {
+      "umi1_op-L0344": {
+        "WH": [
+          "that strange way she walks"
+        ],
+        "MG": [
+          "walking like a freak"
+        ]
+      }
+    },
+    "WH-EP01-AIR-004": {
+      "umi1_op-L0419": {
+        "WH": [
+          "far surpassed me on all of those counts"
+        ],
+        "MG": [
+          "far surpassed me on all of those counts"
+        ],
+        "UP": [
+          "far surpassed me on all of those counts"
+        ]
+      },
+      "umi1_op-L0424": {
+        "WH": [
+          "far surpassed me on all of those counts"
+        ]
+      }
+    },
+    "WH-EP01-AIR-005": {
+      "umi1_op-L0593": {
+        "WH": [
+          "wasn't as massive as an international flight"
+        ],
+        "UP": [
+          "wasn't as massive as an international flight"
+        ],
+        "MG": [
+          "wasn't as massive as an international flight"
+        ]
+      }
+    },
+    "PAIR-EP01-GROWTH-MODALITY-001": {
+      "umi1_op-L0163": {
+        "UP": [
+          "is known to stunt"
+        ]
+      }
+    },
+    "PAIR-EP01-KYRIE-CONDITION-001": {
+      "umi1_op-L0258": {
+        "MG": [
+          "Since we've been together, I haven't let him"
+        ]
+      }
+    },
+    "PAIR-EP01-REIN-SPELLING-001": {
+      "umi1_op-L0264": {
+        "MG": [
+          "reigning in"
+        ],
+        "UP": [
+          "reigning in"
+        ]
+      }
+    },
+    "PAIR-EP01-DEMONSTRATION-001": {
+      "umi1_op-L0341": {
+        "MG": [
+          "in a practice match",
+          "my opponent was out cold"
+        ],
+        "UP": [
+          "in a practice match",
+          "my opponent was out cold"
+        ]
+      }
+    },
+    "PAIR-EP01-GEORGE-INDEPENDENCE-001": {
+      "umi1_op-L0350": {
+        "MG": [
+          "who's about to go off on his own"
+        ],
+        "UP": [
+          "who's about to go off on his own"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

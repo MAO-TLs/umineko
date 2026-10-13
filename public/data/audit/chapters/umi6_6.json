@@ -1,1 +1,1960 @@
-{"findings":[{"id":"WH-EP06-CH06-001","kind":"WH","description":"George's former absent-mindedness becomes laziness.","categories":["linguistic.word_choice","character.voice_state"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[24,24],"MG":[24,24],"UP":[24,24]},"japanese":"かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。","japanesePC":"「いや、いいんだ。自分でもわかってる。かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。","japanesePS3":"かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。","WH":"\"No, it's okay.  I realize it myself.  Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless man.","MG":"Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless person.","UP":"Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless man.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0022","readerRefs":{"WH":["umi6_6-L0022"],"MG":["umi6_6-L0022"],"UP":["umi6_6-L0022"]}}],"sourceReading":"いつもぼんやりしているうだつの上がらない男 portrays someone habitually absent-minded or vague and getting nowhere.","alternative":"Lazy, hopeless retains lack of achievement but adds unwillingness to exert himself in place of absent-mindedness.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-002","kind":"WH","description":"Despite his cowardice becomes because of it and contempt becomes hatred.","categories":["linguistic.logical_relation","linguistic.word_choice","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[60,61],"MG":[60,61],"UP":[60,61]},"japanese":"そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、\n最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。","japanesePC":"そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。.........これが本当の、情けない男ってもんさ。」","japanesePS3":"そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、\n最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。","WH":"Because of that, I started to wonder why I couldn't get a girlfriend if I was so gentlemanly, and I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them...stupidly.  .........That's what a truly pathetic man looks like.\"","MG":"Because of that, I started to wonder why I couldn't get a girlfriend if I was so gentlemanly,\nand I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them, ...selfishly.","UP":"Because of that, I started to wonder why I couldn't get a lover if I was so gentlemanly,\nand I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them...stupidly.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0057","readerRefs":{"WH":["umi6_6-L0057"],"MG":["umi6_6-L0057"],"UP":["umi6_6-L0057"]}}],"sourceReading":"そのくせ contrasts his cowardice with his conceited demand for a girlfriend. He then arbitrarily decides women cannot judge men and begins to despise them: 蔑み.","alternative":"The psychological sequence can support a causal inference and hatred is close to contempt, but because of that explicitly replaces the concessive link and hate intensifies the reported attitude.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-003","kind":"WH","description":"Having no female friends becomes having very few.","categories":["mystery.scope_quantifier_negation","character.relationship_power"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[72,72],"MG":[72,72],"UP":[72,72]},"japanese":"……でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。","japanesePC":"......でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。","japanesePS3":"……でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。","WH":"......However, not only was there no one who would become my girlfriend, there were very few girls I could even call a friend.","MG":"...However, not only was there no one who would become my girlfriend, there weren't even any girls I could call friends.","UP":"......However, not only was there no one who would become my girlfriend, I didn't even know any girls I could call a friend.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi6_6-L0071","readerRefs":{"WH":["umi6_6-L0071"],"MG":["umi6_6-L0071"],"UP":["umi6_6-L0071"]}}],"sourceReading":"友人と呼べる女子さえもいなかった says there was not even a girl he could call a friend.","alternative":"Very few preserves social isolation in degree, but permits friends that the source expressly denies.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-004","kind":"WH","description":"George's sincere heart becomes a meek heart.","categories":["linguistic.word_choice","character.voice_state"],"severity":"minor","editions":["WH","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[124,124],"MG":[124,124],"UP":[124,124]},"japanese":"それは、素直な譲治の胸中を、正直な言葉で語るものだった…。","japanesePC":"それは、素直な譲治の胸中を、正直な言葉で語るものだった...。","japanesePS3":"それは、素直な譲治の胸中を、正直な言葉で語るものだった…。","WH":"They were honest words, spoken from George's meek heart...","MG":"They were honest words, spoken simply from George's heart...","UP":"They were honest words, spoken from George's meek heart...","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"corrected","UP":"retained"},"readerRef":"umi6_6-L0123","readerRefs":{"WH":["umi6_6-L0123"],"MG":["umi6_6-L0123"],"UP":["umi6_6-L0123"]}}],"sourceReading":"素直な胸中, paired with 正直な言葉, characterizes candid feelings expressed honestly.","alternative":"Meek can suggest an unassertive character consistent with his former self, but this sentence marks present candor rather than submissiveness.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-005","kind":"WH","description":"Imagined romantic attraction becomes enjoying his presence.","categories":["linguistic.undertranslation","character.motivation_emotion","character.relationship_power"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[166,166],"MG":[166,166],"UP":[166,166]},"japanese":"一番魅力的なのは僕で、それに交じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。","japanesePC":"「僕は当時、自惚れの真っ盛りだった。......だから、親族会議でみんなで集まっている時。一番魅力的なのは僕で、それに混じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。","japanesePS3":"一番魅力的なのは僕で、それに交じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。","WH":"\"Back then, my conceit was at its peak.  ......So, when everyone gathered at the family conference, I believed that I was the most attractive, and that all the servant girls who played with us loved having me there.","MG":"I believed that I was the most attractive, and that all the servant girls who played with us loved having me there.","UP":"I believed that I was the most attractive, and that all the servant girls who played with us were in love with me.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_6-L0164","readerRefs":{"WH":["umi6_6-L0164"],"MG":["umi6_6-L0164"],"UP":["umi6_6-L0164"]}}],"sourceReading":"僕に惚れている says he believed all the servant girls playing with the cousins were in love with him.","alternative":"Loved having me there conveys vanity and social popularity; the surrounding confession supplies romantic context, but enjoying his company does not preserve the explicit romantic assumption.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-006","kind":"WH","description":"Unnoticed evolution into love becomes a sudden change that day.","categories":["linguistic.tense_aspect","character.motivation_emotion","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[222,223],"MG":[222,223],"UP":[222,223]},"japanese":"「あの日、僕を無視して遊んでいた君たち、……いや、君への復讐が。\nいつの間にか、本当の恋心に変わっていったんだ」","japanesePC":"「あの日、僕を無視して遊んでいた君たち、......いや、君への復讐が。いつの間にか、本当の恋心に変わっていったんだ。","japanesePS3":"「あの日、僕を無視して遊んでいた君たち、……いや、君への復讐が。\nいつの間にか、本当の恋心に変わっていったんだ」","WH":"\"On that day, my desire for revenge against the two of you who ignored me and played together, ......no, against you alone...suddenly transformed into true love.","MG":"\"On that day, my desire for revenge against the two of you who had ignored me and played together...no, against you alone...\nsuddenly transformed into true love.","UP":"\"That day, I felt a desire for revenge against you all—no, against you specifically—for playing as a group and ignoring me.\nAnd before I knew it, that emotion had transformed into true love.\"","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi6_6-L0222","readerRefs":{"WH":["umi6_6-L0222"],"MG":["umi6_6-L0222"],"UP":["umi6_6-L0222"]}}],"sourceReading":"あの日 qualifies the people playing and ignoring him, the targets of revenge. いつの間にか ... 変わっていった describes that revenge changing into genuine love over time without his noticing when.","alternative":"Suddenly may sometimes loosely mean an unexpected realization. Here On that day ... suddenly transformed states a sudden change on the remembered day, replacing the source's unnoticed developing transition.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-007","kind":"WH","description":"Conditional hope for death surrounded by family becomes a predicted event.","categories":["linguistic.logical_relation","character.motivation_emotion"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[284,284],"MG":[284,284],"UP":[284,284]},"japanese":"……そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる」","japanesePC":"「君こそ、どんなおばあちゃんになってるんだろうね。でも、僕は君を変わらず愛し続けるよ。......そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる。」","japanesePS3":"……そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる」","WH":"\"And I wonder what kind of a grandma you'll be.  However, I will always keep loving you.  ......And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\"","MG":"...And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\"","UP":"......And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\"","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0282","readerRefs":{"WH":["umi6_6-L0282"],"MG":["umi6_6-L0282"],"UP":["umi6_6-L0282"]}}],"sourceReading":"往生できたら makes an unmatched completed life conditional on being able to die watched over by their large family.","alternative":"The surrounding conversation is a vision of hoped-for future happiness, but when we eventually pass away surrounded by our vast family removes the explicit if-we-can qualification.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-008","kind":"WH","description":"Shannon's wish behind the brooch is assigned to Beatrice.","categories":["linguistic.wrong_subject","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[396,397],"MG":[396,397],"UP":[396,397]},"japanese":"それは、……かつて、譲治との恋を望み、\nそれを叶えるためにベアトリーチェが授けてくれた、……黄金蝶のブローチだった。","japanesePC":"それは、......かつて、譲治との恋を望み、それを叶えるためにベアトリーチェが授けてくれた、......黄金蝶のブローチだった。","japanesePS3":"それは、……かつて、譲治との恋を望み、\nそれを叶えるためにベアトリーチェが授けてくれた、……黄金蝶のブローチだった。","WH":"It was the golden butterfly brooch, which Beatrice had once given to Shannon in the hopes of creating love between her and George.","MG":"It was the golden butterfly brooch,\nwhich Beatrice had once given to Shannon in the hopes of creating love between her and George.","UP":"It was the golden butterfly brooch,\nwhich Beatrice had once given to Shannon in the hopes of creating love between her and George.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0396","readerRefs":{"WH":["umi6_6-L0396"],"MG":["umi6_6-L0396"],"UP":["umi6_6-L0396"]}}],"sourceReading":"The ellipsis is supplied by the prior story: Shannon wished for love with George, and Beatrice bestowed the brooch to fulfill that wish.","alternative":"Which Beatrice had once given to Shannon in the hopes of creating love makes the donor the grammatical holder of that hope. She did facilitate the relationship, but the source recounts Shannon's desire as the reason for the gift.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-009","kind":"WH","description":"Certain recognition of the brooch becomes tentative recollection.","categories":["linguistic.overinterpretation","character.knowledge_boundary"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[413,413],"MG":[413,413],"UP":[413,413]},"japanese":"あれは確かに、妾が紗音に与えたもの。","japanesePC":"「懐かしいぞ。あれは確かに、妾が紗音に与えたもの。......嘉音が踏み潰して以来、どこへ紛失したかと思っていたら、まだ持っていたのか。」","japanesePS3":"あれは確かに、妾が紗音に与えたもの。","WH":"\"That takes me back.  That's something I gave Shannon, if I recall.  ......I always wondered where they lost it after Kanon stepped on it, but it seems they still had it all the time.\"","MG":"That's something I gave Shannon, if I recall.","UP":"That's something I gave Shannon, if I recall.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0412","readerRefs":{"WH":["umi6_6-L0412"],"MG":["umi6_6-L0412"],"UP":["umi6_6-L0412"]}}],"sourceReading":"あれは確かに ... 妾が ... 与えたもの emphatically confirms that she gave that object to Shannon.","alternative":"If I recall can be casual speech, and the later line confirms the gift. Locally it nevertheless adds uncertainty absent from 確かに.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-010","kind":"WH","description":"A brooch that aids love becomes one that saves a relationship.","categories":["linguistic.overinterpretation","world.terminology_recurrence"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[416,416],"MG":[416,416],"UP":[416,416]},"japanese":"……恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました」","japanesePC":"「......黄金蝶のブローチ、ですね。......恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました。」","japanesePS3":"……恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました」","WH":"\"......That's the golden butterfly brooch, isn't it?  ......I read about the magical brooch that can save a love relationship in Featherine-san's book.\"","MG":"...I read about the magical brooch that can save a love relationship in Featherine-san's book.\"","UP":"......I read about the magical brooch that can save a love relationship in Featherine‐san's book.\"","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0415","readerRefs":{"WH":["umi6_6-L0415"],"MG":["umi6_6-L0415"],"UP":["umi6_6-L0415"]}}],"sourceReading":"恋愛を助ける means helping love or romance, with no requirement of a relationship in danger.","alternative":"Save a love relationship can broadly suggest magical help, but normally presupposes an existing relationship needing rescue, narrower than the source and the earlier budding-love gift.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-011","kind":"WH","description":"Kinzo spreading the witch story becomes rumors sprouting.","categories":["linguistic.wrong_subject","world.culture_history","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[464,465],"MG":[464,465],"UP":[464,465]},"japanese":"そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、\nミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです」","japanesePC":"「しかしそれ、悪食島伝説の話です。そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、ミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです。」","japanesePS3":"そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、\nミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです」","WH":"\"But that's just the legend of Akujikishima.  The origins for the legend of the witch Beatrice came after Ushiromiya Kinzo moved to this island, when rumors sprouted about the mysterious legend of the gold and his mistress who gave it to him as a witch.\"","MG":"The origins for the legend of the witch, Beatrice, came after Ushiromiya Kinzo moved to this island,\nwhen rumors sprouted about the mysterious legend of the gold, as well as the witch mistress who gave it to him.\"","UP":"The origins for the legend of the witch Beatrice came after Ushiromiya Kinzo moved to this island,\nwhen rumors sprouted about the mysterious legend of the gold and his mistress who gave it to him as a witch.\"","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0463","readerRefs":{"WH":["umi6_6-L0463"],"MG":["umi6_6-L0463"],"UP":["umi6_6-L0463"]}}],"sourceReading":"金蔵が ... 吹聴して explicitly attributes public spreading of the gold and mistress-as-witch story to Kinzo after he moved to the island.","alternative":"Rumors sprouted preserves circulation and timing but removes the named propagator, central to Erika's proposed origin of this second legend.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-012","kind":"WH","description":"Longstanding acceptance becomes application all over the place.","categories":["linguistic.tense_aspect","mystery.argument_reconstruction"],"severity":"minor","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[471,471],"MG":[471,471],"UP":[471,471]},"japanese":"そういう論法でずっとまかり通ってきた。","japanesePC":"そういう論法でずっとまかり通ってきた。","japanesePS3":"そういう論法でずっとまかり通ってきた。","WH":"That sort of reasoning has been applied all over the place.","MG":"That sort of reasoning has been applied all over the place.","UP":"That sort of reasoning has been applied all over the place.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0469","readerRefs":{"WH":["umi6_6-L0469"],"MG":["umi6_6-L0469"],"UP":["umi6_6-L0469"]}}],"sourceReading":"ずっとまかり通ってきた says this reasoning has long passed accepted or unchallenged.","alternative":"Applied all over the place conveys widespread use but substitutes distribution for longstanding acceptance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-013","kind":"WH","description":"Kumasawa feigning confusion becomes merely seeming confused.","categories":["linguistic.omission","character.irony_performance"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[498,498],"MG":[498,498],"UP":[498,498]},"japanese":"彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。","japanesePC":"彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。","japanesePS3":"彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。","WH":"She might have seemed confused, but she actually did understand what Erika was saying.","MG":"She might have seemed confused, but she actually did understand what Erika was saying.","UP":"She might have seemed confused, but she actually did understand what Erika was saying.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0497","readerRefs":{"WH":["umi6_6-L0497"],"MG":["umi6_6-L0497"],"UP":["umi6_6-L0497"]}}],"sourceReading":"混乱している風を装っている expressly identifies an appearance of confusion that she is putting on despite understanding.","alternative":"Her smoothing-over laughter, sweat and unwillingness to acknowledge the explanation remain. Yet might have seemed confused does not state intentional performance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-014","kind":"WH","description":"Unknown origin of Kinzo's gold is omitted.","categories":["linguistic.omission","world.world_fact","mystery.information_timing_salience"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[499,501],"MG":[499,501],"UP":[499,501]},"japanese":"……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、\n金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、\n……どのように変遷していったか、おぼろげながら、理解しているのだ。","japanesePC":"......実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、......どのように変遷していったか、おぼろげながら、理解しているのだ。","japanesePS3":"……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、\n金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、\n……どのように変遷していったか、おぼろげながら、理解しているのだ。","WH":"......In truth, she had been vaguely aware of how the legend of Akujikishima, which had been around before Ushiromiya Kinzo had come to Rokkenjima, and the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold, ......had both transformed.","MG":"...In truth, she had been vaguely aware of how the legend of Akujikishima, which had been around before Ushiromiya Kinzo had come to Rokkenjima,\nand the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold,\n...had both transformed.","UP":"......In truth, she did have a rough understanding of how the legend of Akujikijima, which had been around before Ushiromiya Kinzo had come to Rokkenjima,\nand the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold,\n......had changed over time.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0497","readerRefs":{"WH":["umi6_6-L0497"],"MG":["umi6_6-L0497"],"UP":["umi6_6-L0497"]}}],"sourceReading":"出所不明の莫大な金塊 expressly marks the enormous quantity of gold as of unknown provenance in the inventory of evolving stories.","alternative":"The surrounding legend concerns a woman giving gold and earlier passages discuss mystery, but this line omits its explicit unknown-source qualifier.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-015","kind":"WH","description":"Reported spiderweb burns are extended from minions to witches.","categories":["linguistic.addition","mystery.scope_quantifier_negation"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[511,511],"MG":[511,511],"UP":[511,511]},"japanese":"「ま、魔女の眷属は蜘蛛の巣に触れると、","japanesePC":"「ま、魔女の眷属は蜘蛛の巣に触れると、","japanesePS3":"「ま、魔女の眷属は蜘蛛の巣に触れると、","WH":"\"I, it is said that witches and their minions...","MG":"\"I-It is said that witches and their minions...","UP":"\"I‐it is said that witches and their minions...","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0511","readerRefs":{"WH":["umi6_6-L0511"],"MG":["umi6_6-L0511"],"UP":["umi6_6-L0511"]}}],"sourceReading":"魔女の眷属 denotes a witch's dependents or minions. Kumasawa then guesses that Beatrice would probably suffer the same result.","alternative":"The next probably retains uncertainty about this particular case, and folklore elsewhere associates Beatrice with the weakness. But witches and their minions adds witches to the explicitly reported general rule and weakens the source's inferential step.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-016","kind":"WH","description":"Rapid healing becomes healing at some later time.","categories":["linguistic.omission","world.world_fact","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[599,599],"MG":[599,599],"UP":[599,599]},"japanese":"……私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません…」","japanesePC":"「は、はい。......私自身、自分が魔女だとは、...ちょっと信じ切れていません。......私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません...。","japanesePS3":"……私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません…」","WH":"\"Y, yes.  ......Even I find it a little hard to believe that I'm a witch...  ......I can't use magic like you, and I can't get strange burns or heal from them later...","MG":"...I can't use magic like you, and I can't get strange burns or heal from them later...","UP":"......I can't use magic like you, and I can't get strange burns or heal from them later...\"","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0597","readerRefs":{"WH":["umi6_6-L0597"],"MG":["umi6_6-L0597"],"UP":["umi6_6-L0597"]}}],"sourceReading":"すぐに傷を治す explicitly concerns healing injuries immediately or quickly. The younger sister cannot perform that rapid recovery, not necessarily any eventual healing.","alternative":"The prior line says she would not heal that easily, and the elder's rapid recovery is demonstrated. But cannot ... heal from them later broadens the inability and omits the explicit speed qualifier.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-017","kind":"WH","description":"A soul bound to the island becomes a witch haunting it.","categories":["linguistic.undertranslation","world.world_fact","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[609,609],"MG":[609,609],"UP":[609,609]},"japanese":"金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である」","japanesePC":"「妾もまた、ベアトリーチェ。金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である。」","japanesePS3":"金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である」","WH":"\"I am also Beatrice.  I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\"","MG":"I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\"","UP":"I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\"","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0608","readerRefs":{"WH":["umi6_6-L0608"],"MG":["umi6_6-L0608"],"UP":["umi6_6-L0608"]}}],"sourceReading":"その後も魂となって島に縛り付けられている states that after losing her body she remains bound to the island as a soul.","alternative":"Haunts this island places the bodiless witch on the island, but haunting does not express inability to leave or the binding restriction.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP06-CH06-018","kind":"WH","description":"The younger sister as a version of the elder becomes two separate connections.","categories":["linguistic.word_choice","character.viewpoint_attribution","mystery.argument_reconstruction"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[644,644],"MG":[644,644],"UP":[644,644]},"japanese":"その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。","japanesePC":"「妾も、年に数度しか訪れぬ稀な客人である彼のことは知っているが、その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。......妾たちは、互いをもっと知るべきに違いない。」","japanesePS3":"その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。","WH":"\"I know him as a rare guest who only comes a few times a year, but I cannot understand what connection you and I have with such an infrequent guest.  ......Surely, we must learn more about each other.\"","MG":"but I cannot understand what connection you and I have with such an infrequent visitor.","UP":"but I cannot understand what connection you and I have with such an infrequent guest.","note":"Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi6_6-L0643","readerRefs":{"WH":["umi6_6-L0643"],"MG":["umi6_6-L0643"],"UP":["umi6_6-L0643"]}}],"sourceReading":"そなたという妾 means you, who are a version of me, or the me called you. The elder does not understand the connection between the rare visitor and this version of herself.","alternative":"You and I retains both identities in the discussion, and double/complementary identities are established nearby. Nevertheless it replaces the explicit apposition identifying the younger as a me with a conjunction asking about both individuals' connection.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP06-CH06-001-120-001","kind":"additional","description":"UP removes the uncertainty from George’s recollection of when he noticed his problem.","categories":["linguistic.tense_aspect"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[64,64],"MG":[64,64],"UP":[64,64]},"japanese":"中学生くらいの頃だったろうか。","japanesePC":"","japanesePS3":"中学生くらいの頃だったろうか。","WH":"","MG":"Probably when I was in middle school.","UP":"It started when I was in middle school.","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi6_6-L0063","readerRefs":{"WH":[],"MG":["umi6_6-L0063"],"UP":["umi6_6-L0063"]}}],"sourceReading":"JP 中学生くらいの頃だったろうか recalls approximate time tentatively; originalPC72562/72563 and MG retain Probably. UP It started when asserts an unqualified time.","alternative":"It may refer to noticing rather than the onset of his feelings; the finding is limited to the missing uncertainty, not a certified changed onset.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-081","kind":"PC","description":"PC 生娘らしい and WH virgin disgust remain in MG; PS3 changes to 乙女らしい maidenly, followed by UP.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[116,116],"MG":[116,116],"UP":[116,116]},"japanese":"……もっとも、私には縁寿の、乙女らしい嫌悪の表情の方が愉快であるが…」","japanesePC":"......もっとも、私には縁寿の、生娘らしい嫌悪の表情の方が愉快であるが...。」","japanesePS3":"……もっとも、私には縁寿の、乙女らしい嫌悪の表情の方が愉快であるが…」","WH":"......However, I do find that expression of virgin disgust on your face even more charming...\"","MG":"...However, I do find that expression of virgin disgust on your face even more amusing...\"","UP":"......However, I do find that maidenly expression of disgust on your face even more charming...\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi6_6-L0114","readerRefs":{"WH":[],"MG":["umi6_6-L0114"],"UP":["umi6_6-L0114"]}}],"sourceReading":"PC 生娘らしい and WH virgin disgust remain in MG; PS3 changes to 乙女らしい maidenly, followed by UP.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-082","kind":"PC","description":"PC 童貞臭い and WH virgins trying too hard remain in MG; PS3 replaces the sexual-inexperience reference with fantasies about women, followed by UP.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi6_6","episode":6,"rows":{"JP":[154,154],"MG":[154,154],"UP":[154,154]},"japanese":"……女に幻想持ちすぎって言うか、何というか…」","japanesePC":"......譲治お兄ちゃんには悪いけど、あまり紳士を振りかざし過ぎる人って、...ちょっと気持ち悪いわ。......童貞臭いって言うか、何というか...。」","japanesePS3":"……女に幻想持ちすぎって言うか、何というか…」","WH":"......I hate to say it, but I find guys who act too polite...a bit creepy.  ......It's like they're virgins trying too hard or something...\"","MG":"...It's like they're virgins trying too hard...or whatever...\"","UP":"......It's like they have delusions about women or something...\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi6_6-L0151","readerRefs":{"WH":[],"MG":["umi6_6-L0151"],"UP":["umi6_6-L0151"]}}],"sourceReading":"PC 童貞臭い and WH virgins trying too hard remain in MG; PS3 replaces the sexual-inexperience reference with fantasies about women, followed by UP.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP06-CH06-001",
+      "kind": "WH",
+      "description": "George's former absent-mindedness becomes laziness.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              24,
+              24
+            ],
+            "MG": [
+              24,
+              24
+            ],
+            "UP": [
+              24,
+              24
+            ]
+          },
+          "japanese": "かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。",
+          "japanesePC": "「いや、いいんだ。自分でもわかってる。かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。",
+          "japanesePS3": "かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。",
+          "WH": "\"No, it's okay.  I realize it myself.  Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless man.",
+          "MG": "Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless person.",
+          "UP": "Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless man.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0022",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0022"
+            ],
+            "MG": [
+              "umi6_6-L0022"
+            ],
+            "UP": [
+              "umi6_6-L0022"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「いや、いいんだ。自分でもわかってる。かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。……それは何もいとこの中だけの話じゃない。家でも学校でも、全てでそうだったさ」",
+              "translation": "\"No, it's okay. I realize it myself. Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless person. ...And it wasn't just with the cousins. At home, at school...I was like that everywhere.\" "
+            },
+            "UP": {
+              "japanese": "「いや、いいんだ。自分でもわかってる。かつての僕は、いとこの中で最年長ではあっても、いつもぼんやりしているうだつの上がらない男だったよ。……それは何もいとこの中だけの話じゃない。家でも学校でも、全てでそうだったさ」",
+              "translation": "\"No, it's okay. I realize it myself. Back then, I might have been the oldest of the cousins, but I was still a lazy, hopeless man. ......And it wasn't just with the cousins. At home, at school—I was like that everywhere.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0022"
+            ],
+            "MG": [
+              "umi6_6-L0022"
+            ],
+            "UP": [
+              "umi6_6-L0022"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "いつもぼんやりしているうだつの上がらない男 portrays someone habitually absent-minded or vague and getting nowhere.",
+      "alternative": "Lazy, hopeless retains lack of achievement but adds unwillingness to exert himself in place of absent-mindedness.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-002",
+      "kind": "WH",
+      "description": "Despite his cowardice becomes because of it and contempt becomes hatred.",
+      "categories": [
+        "linguistic.logical_relation",
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              60,
+              61
+            ],
+            "MG": [
+              60,
+              61
+            ],
+            "UP": [
+              60,
+              61
+            ]
+          },
+          "japanese": "そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、\n最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。",
+          "japanesePC": "そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。.........これが本当の、情けない男ってもんさ。」",
+          "japanesePS3": "そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、\n最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。",
+          "WH": "Because of that, I started to wonder why I couldn't get a girlfriend if I was so gentlemanly, and I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them...stupidly.  .........That's what a truly pathetic man looks like.\"",
+          "MG": "Because of that, I started to wonder why I couldn't get a girlfriend if I was so gentlemanly,\nand I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them, ...selfishly.",
+          "UP": "Because of that, I started to wonder why I couldn't get a lover if I was so gentlemanly,\nand I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them...stupidly.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0057",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0057"
+            ],
+            "MG": [
+              "umi6_6-L0057"
+            ],
+            "UP": [
+              "umi6_6-L0057"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「そんな男を、紳士的な、奥手な男と呼ぶんだろうね。………とんでもない。ただの臆病者さ。そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。………これが本当の、情けない男ってもんさ」",
+              "translation": "\"You might call a man like that \"gentlemanly\" or \"a late bloomer\". ......Ridiculous. I was just a coward. Because of that, I started to wonder why I couldn't get a girlfriend if I was so gentlemanly, and I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them, ...selfishly. ......That's what a truly pathetic man looks like.\" "
+            },
+            "UP": {
+              "japanese": "「そんな男を、紳士的な、奥手な男と呼ぶんだろうね。………とんでもない。ただの臆病者さ。そのくせ、自分はこんなにも紳士的なのに、どうして彼女が出来ないのかと一方的に思い込み、最後には、世間の女性は全て、男を見る目がないなんて勝手に決めつけ、勝手に蔑み始める。………これが本当の、情けない男ってもんさ」",
+              "translation": "\"You might call a man like that \"gentlemanly\" or \"a late bloomer\". .........Ridiculous. I was just a coward. Because of that, I started to wonder why I couldn't get a lover if I was so gentlemanly, and I eventually came to the conclusion that all the women in the world had no taste, and started to hate all of them...stupidly. .........That's what a truly pathetic man looks like.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0057"
+            ],
+            "MG": [
+              "umi6_6-L0057"
+            ],
+            "UP": [
+              "umi6_6-L0057"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "そのくせ contrasts his cowardice with his conceited demand for a girlfriend. He then arbitrarily decides women cannot judge men and begins to despise them: 蔑み.",
+      "alternative": "The psychological sequence can support a causal inference and hatred is close to contempt, but because of that explicitly replaces the concessive link and hate intensifies the reported attitude.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-003",
+      "kind": "WH",
+      "description": "Having no female friends becomes having very few.",
+      "categories": [
+        "mystery.scope_quantifier_negation",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              72,
+              72
+            ],
+            "MG": [
+              72,
+              72
+            ],
+            "UP": [
+              72,
+              72
+            ]
+          },
+          "japanese": "……でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。",
+          "japanesePC": "......でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。",
+          "japanesePS3": "……でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。",
+          "WH": "......However, not only was there no one who would become my girlfriend, there were very few girls I could even call a friend.",
+          "MG": "...However, not only was there no one who would become my girlfriend, there weren't even any girls I could call friends.",
+          "UP": "......However, not only was there no one who would become my girlfriend, I didn't even know any girls I could call a friend.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_6-L0071",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0071"
+            ],
+            "MG": [
+              "umi6_6-L0071"
+            ],
+            "UP": [
+              "umi6_6-L0071"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "確かに僕は女子から一定の信用を得ていたかもしれない。……でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。",
+              "translation": "Sure, I might have gained some measure of trust from girls. ...However, not only was there no one who would become my girlfriend, there weren't even any girls I could call friends. "
+            },
+            "UP": {
+              "japanese": "確かに僕は女子から一定の信用を得ていたかもしれない。……でも、僕とガールフレンドになってくれる女子はおろか、友人と呼べる女子さえもいなかったよ。",
+              "translation": "Sure, I might have gained some measure of trust from girls. ......However, not only was there no one who would become my girlfriend, I didn't even know any girls I could call a friend."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0071"
+            ],
+            "MG": [
+              "umi6_6-L0071"
+            ],
+            "UP": [
+              "umi6_6-L0071"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "友人と呼べる女子さえもいなかった says there was not even a girl he could call a friend.",
+      "alternative": "Very few preserves social isolation in degree, but permits friends that the source expressly denies.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-004",
+      "kind": "WH",
+      "description": "George's sincere heart becomes a meek heart.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.voice_state"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              124,
+              124
+            ],
+            "MG": [
+              124,
+              124
+            ],
+            "UP": [
+              124,
+              124
+            ]
+          },
+          "japanese": "それは、素直な譲治の胸中を、正直な言葉で語るものだった…。",
+          "japanesePC": "それは、素直な譲治の胸中を、正直な言葉で語るものだった...。",
+          "japanesePS3": "それは、素直な譲治の胸中を、正直な言葉で語るものだった…。",
+          "WH": "They were honest words, spoken from George's meek heart...",
+          "MG": "They were honest words, spoken simply from George's heart...",
+          "UP": "They were honest words, spoken from George's meek heart...",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0123",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0123"
+            ],
+            "MG": [
+              "umi6_6-L0123"
+            ],
+            "UP": [
+              "umi6_6-L0123"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "譲治は雨雲のはるか上に、きっと浮かんでいるはずの月を見上げて、言う。それは、素直な譲治の胸中を、正直な言葉で語るものだった…。",
+              "translation": "George looked up at where the moon should be, high above the rain clouds, ...and spoke. They were honest words, spoken simply from George's heart... "
+            },
+            "UP": {
+              "japanese": "譲治は雨雲のはるか上に、きっと浮かんでいるはずの月を見上げて、言う。それは、素直な譲治の胸中を、正直な言葉で語るものだった…。",
+              "translation": "George looked up at where the moon should be, high above the rain clouds...and spoke. They were honest words, spoken from George's meek heart..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0123"
+            ],
+            "MG": [
+              "umi6_6-L0123"
+            ],
+            "UP": [
+              "umi6_6-L0123"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "素直な胸中, paired with 正直な言葉, characterizes candid feelings expressed honestly.",
+      "alternative": "Meek can suggest an unassertive character consistent with his former self, but this sentence marks present candor rather than submissiveness.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-005",
+      "kind": "WH",
+      "description": "Imagined romantic attraction becomes enjoying his presence.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.motivation_emotion",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              166,
+              166
+            ],
+            "MG": [
+              166,
+              166
+            ],
+            "UP": [
+              166,
+              166
+            ]
+          },
+          "japanese": "一番魅力的なのは僕で、それに交じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。",
+          "japanesePC": "「僕は当時、自惚れの真っ盛りだった。......だから、親族会議でみんなで集まっている時。一番魅力的なのは僕で、それに混じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。",
+          "japanesePS3": "一番魅力的なのは僕で、それに交じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。",
+          "WH": "\"Back then, my conceit was at its peak.  ......So, when everyone gathered at the family conference, I believed that I was the most attractive, and that all the servant girls who played with us loved having me there.",
+          "MG": "I believed that I was the most attractive, and that all the servant girls who played with us loved having me there.",
+          "UP": "I believed that I was the most attractive, and that all the servant girls who played with us were in love with me.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_6-L0164",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0164"
+            ],
+            "MG": [
+              "umi6_6-L0164"
+            ],
+            "UP": [
+              "umi6_6-L0164"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「僕は当時、自惚れの真っ盛りだった。……だから、親族会議でみんなで集まっている時。一番魅力的なのは僕で、それに交じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。………それがあの日、僕はそこでようやく、自分がどれほどみすぼらしかったかを思い知ったのさ」",
+              "translation": "\"Back then, my conceit was at its peak. ...So, when everyone gathered at the family conference, I believed that I was the most attractive, and that all the servant girls who played with us loved having me there. ......On that day, I finally realized how pathetic I was.\" "
+            },
+            "UP": {
+              "japanese": "「僕は当時、自惚れの真っ盛りだった。……だから、親族会議でみんなで集まっている時。一番魅力的なのは僕で、それに交じって遊んでくれた使用人の女の子はみんな、僕に惚れていると信じていたよ。………それがあの日、僕はそこでようやく、自分がどれほどみすぼらしかったかを思い知ったのさ」",
+              "translation": "\"Back then, my conceit was at its peak. ......So, when everyone gathered at the family conferences, I believed that I was the most attractive, and that all the servant girls who played with us were in love with me. .........And then the day came when I finally realized how pathetic I was.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0164"
+            ],
+            "MG": [
+              "umi6_6-L0164"
+            ],
+            "UP": [
+              "umi6_6-L0164"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "僕に惚れている says he believed all the servant girls playing with the cousins were in love with him.",
+      "alternative": "Loved having me there conveys vanity and social popularity; the surrounding confession supplies romantic context, but enjoying his company does not preserve the explicit romantic assumption.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-006",
+      "kind": "WH",
+      "description": "Unnoticed evolution into love becomes a sudden change that day.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.motivation_emotion",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              222,
+              223
+            ],
+            "MG": [
+              222,
+              223
+            ],
+            "UP": [
+              222,
+              223
+            ]
+          },
+          "japanese": "「あの日、僕を無視して遊んでいた君たち、……いや、君への復讐が。\nいつの間にか、本当の恋心に変わっていったんだ」",
+          "japanesePC": "「あの日、僕を無視して遊んでいた君たち、......いや、君への復讐が。いつの間にか、本当の恋心に変わっていったんだ。",
+          "japanesePS3": "「あの日、僕を無視して遊んでいた君たち、……いや、君への復讐が。\nいつの間にか、本当の恋心に変わっていったんだ」",
+          "WH": "\"On that day, my desire for revenge against the two of you who ignored me and played together, ......no, against you alone...suddenly transformed into true love.",
+          "MG": "\"On that day, my desire for revenge against the two of you who had ignored me and played together...no, against you alone...\nsuddenly transformed into true love.",
+          "UP": "\"That day, I felt a desire for revenge against you all—no, against you specifically—for playing as a group and ignoring me.\nAnd before I knew it, that emotion had transformed into true love.\"",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi6_6-L0222",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0222"
+            ],
+            "MG": [
+              "umi6_6-L0222"
+            ],
+            "UP": [
+              "umi6_6-L0222"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「あの日、僕を無視して遊んでいた君たち、……いや、君への復讐が。いつの間にか、本当の恋心に変わっていったんだ」",
+              "translation": "\"On that day, my desire for revenge against the two of you who had ignored me and played together...no, against you alone... suddenly transformed into true love. "
+            },
+            "UP": {
+              "japanese": "「あの日、僕を無視して遊んでいた君たち、……いや、君への復讐が。いつの間にか、本当の恋心に変わっていったんだ」",
+              "translation": "\"That day, I felt a desire for revenge against you all—no, against you specifically—for playing as a group and ignoring me. And before I knew it, that emotion had transformed into true love.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0222"
+            ],
+            "MG": [
+              "umi6_6-L0222"
+            ],
+            "UP": [
+              "umi6_6-L0222"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "あの日 qualifies the people playing and ignoring him, the targets of revenge. いつの間にか ... 変わっていった describes that revenge changing into genuine love over time without his noticing when.",
+      "alternative": "Suddenly may sometimes loosely mean an unexpected realization. Here On that day ... suddenly transformed states a sudden change on the remembered day, replacing the source's unnoticed developing transition.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-007",
+      "kind": "WH",
+      "description": "Conditional hope for death surrounded by family becomes a predicted event.",
+      "categories": [
+        "linguistic.logical_relation",
+        "character.motivation_emotion"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              284,
+              284
+            ],
+            "MG": [
+              284,
+              284
+            ],
+            "UP": [
+              284,
+              284
+            ]
+          },
+          "japanese": "……そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる」",
+          "japanesePC": "「君こそ、どんなおばあちゃんになってるんだろうね。でも、僕は君を変わらず愛し続けるよ。......そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる。」",
+          "japanesePS3": "……そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる」",
+          "WH": "\"And I wonder what kind of a grandma you'll be.  However, I will always keep loving you.  ......And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\"",
+          "MG": "...And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\"",
+          "UP": "......And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\"",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0282",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0282"
+            ],
+            "MG": [
+              "umi6_6-L0282"
+            ],
+            "UP": [
+              "umi6_6-L0282"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「君こそ、どんなおばあちゃんになってるんだろうね。でも、僕は君を変わらず愛し続けるよ。……そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる」",
+              "translation": "\"And I wonder what kind of a grandma you'll be. However, I will always keep loving you. ...And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\" "
+            },
+            "UP": {
+              "japanese": "「君こそ、どんなおばあちゃんになってるんだろうね。でも、僕は君を変わらず愛し続けるよ。……そして、大勢の家族に見守られながら往生できたら、僕たちの人生は、誰にも負けないものとして描き切られる」",
+              "translation": "\"And I wonder what kind of a grandma you'll be. However, I will always keep loving you. ......And when we eventually pass away, surrounded by our vast family, our lives will stretch behind us, unmatched by anyone else's.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0282"
+            ],
+            "MG": [
+              "umi6_6-L0282"
+            ],
+            "UP": [
+              "umi6_6-L0282"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "往生できたら makes an unmatched completed life conditional on being able to die watched over by their large family.",
+      "alternative": "The surrounding conversation is a vision of hoped-for future happiness, but when we eventually pass away surrounded by our vast family removes the explicit if-we-can qualification.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-008",
+      "kind": "WH",
+      "description": "Shannon's wish behind the brooch is assigned to Beatrice.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              396,
+              397
+            ],
+            "MG": [
+              396,
+              397
+            ],
+            "UP": [
+              396,
+              397
+            ]
+          },
+          "japanese": "それは、……かつて、譲治との恋を望み、\nそれを叶えるためにベアトリーチェが授けてくれた、……黄金蝶のブローチだった。",
+          "japanesePC": "それは、......かつて、譲治との恋を望み、それを叶えるためにベアトリーチェが授けてくれた、......黄金蝶のブローチだった。",
+          "japanesePS3": "それは、……かつて、譲治との恋を望み、\nそれを叶えるためにベアトリーチェが授けてくれた、……黄金蝶のブローチだった。",
+          "WH": "It was the golden butterfly brooch, which Beatrice had once given to Shannon in the hopes of creating love between her and George.",
+          "MG": "It was the golden butterfly brooch,\nwhich Beatrice had once given to Shannon in the hopes of creating love between her and George.",
+          "UP": "It was the golden butterfly brooch,\nwhich Beatrice had once given to Shannon in the hopes of creating love between her and George.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0396",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0396"
+            ],
+            "MG": [
+              "umi6_6-L0396"
+            ],
+            "UP": [
+              "umi6_6-L0396"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "それは、……かつて、譲治との恋を望み、それを叶えるためにベアトリーチェが授けてくれた、……黄金蝶のブローチだった。紗音が嘉音に譲ったが、嘉音が感情に任せて踏みつけ、壊してしまったものの破片だ。",
+              "translation": "It was the golden butterfly brooch, which Beatrice had once given to Shannon in the hopes of creating love between her and George. Shannon then gave it to Kanon, but he let his emotions get ahold of him and crushed it into pieces. "
+            },
+            "UP": {
+              "japanese": "それは、……かつて、譲治との恋を望み、それを叶えるためにベアトリーチェが授けてくれた、……黄金蝶のブローチだった。紗音が嘉音に譲ったが、嘉音が感情に任せて踏みつけ、壊してしまったものの破片だ。",
+              "translation": "It was the golden butterfly brooch, which Beatrice had once given to Shannon in the hopes of creating love between her and George. Shannon had given it to Kanon, but he had let his emotions get ahold of him and had crushed it into pieces."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0396"
+            ],
+            "MG": [
+              "umi6_6-L0396"
+            ],
+            "UP": [
+              "umi6_6-L0396"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The ellipsis is supplied by the prior story: Shannon wished for love with George, and Beatrice bestowed the brooch to fulfill that wish.",
+      "alternative": "Which Beatrice had once given to Shannon in the hopes of creating love makes the donor the grammatical holder of that hope. She did facilitate the relationship, but the source recounts Shannon's desire as the reason for the gift.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-009",
+      "kind": "WH",
+      "description": "Certain recognition of the brooch becomes tentative recollection.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              413,
+              413
+            ],
+            "MG": [
+              413,
+              413
+            ],
+            "UP": [
+              413,
+              413
+            ]
+          },
+          "japanese": "あれは確かに、妾が紗音に与えたもの。",
+          "japanesePC": "「懐かしいぞ。あれは確かに、妾が紗音に与えたもの。......嘉音が踏み潰して以来、どこへ紛失したかと思っていたら、まだ持っていたのか。」",
+          "japanesePS3": "あれは確かに、妾が紗音に与えたもの。",
+          "WH": "\"That takes me back.  That's something I gave Shannon, if I recall.  ......I always wondered where they lost it after Kanon stepped on it, but it seems they still had it all the time.\"",
+          "MG": "That's something I gave Shannon, if I recall.",
+          "UP": "That's something I gave Shannon, if I recall.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0412",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0412"
+            ],
+            "MG": [
+              "umi6_6-L0412"
+            ],
+            "UP": [
+              "umi6_6-L0412"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「懐かしいぞ。あれは確かに、妾が紗音に与えたもの。……嘉音が踏み潰して以来、どこへ紛失したかと思っていたら、まだ持っていたのか」",
+              "translation": "\"That takes me back. That's something I gave Shannon, if I recall. ...I always wondered if they lost it after Kanon stepped on it, but it seems they still had it the whole time.\" "
+            },
+            "UP": {
+              "japanese": "「懐かしいぞ。あれは確かに、妾が紗音に与えたもの。……嘉音が踏み潰して以来、どこへ紛失したかと思っていたら、まだ持っていたのか」",
+              "translation": "\"That takes me back. That's something I gave Shannon, if I recall. ......I always wondered where that disappeared to after Kanon stepped on it, but it seems they still had it all the time.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0412"
+            ],
+            "MG": [
+              "umi6_6-L0412"
+            ],
+            "UP": [
+              "umi6_6-L0412"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "あれは確かに ... 妾が ... 与えたもの emphatically confirms that she gave that object to Shannon.",
+      "alternative": "If I recall can be casual speech, and the later line confirms the gift. Locally it nevertheless adds uncertainty absent from 確かに.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-010",
+      "kind": "WH",
+      "description": "A brooch that aids love becomes one that saves a relationship.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.terminology_recurrence"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              416,
+              416
+            ],
+            "MG": [
+              416,
+              416
+            ],
+            "UP": [
+              416,
+              416
+            ]
+          },
+          "japanese": "……恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました」",
+          "japanesePC": "「......黄金蝶のブローチ、ですね。......恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました。」",
+          "japanesePS3": "……恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました」",
+          "WH": "\"......That's the golden butterfly brooch, isn't it?  ......I read about the magical brooch that can save a love relationship in Featherine-san's book.\"",
+          "MG": "...I read about the magical brooch that can save a love relationship in Featherine-san's book.\"",
+          "UP": "......I read about the magical brooch that can save a love relationship in Featherine‐san's book.\"",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0415",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0415"
+            ],
+            "MG": [
+              "umi6_6-L0415"
+            ],
+            "UP": [
+              "umi6_6-L0415"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……黄金蝶のブローチ、ですね。……恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました」",
+              "translation": "\"...That's the golden butterfly brooch, isn't it? ...I read about the magical brooch that can save a love relationship in Featherine-san's book.\" "
+            },
+            "UP": {
+              "japanese": "「……黄金蝶のブローチ、ですね。……恋愛を助ける魔法のブローチと、フェザリーヌさんの本で読みました」",
+              "translation": "\"......That's the golden butterfly brooch, isn't it? ......I read about the magical brooch that can save a love relationship in Featherine‐san's book.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0415"
+            ],
+            "MG": [
+              "umi6_6-L0415"
+            ],
+            "UP": [
+              "umi6_6-L0415"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "恋愛を助ける means helping love or romance, with no requirement of a relationship in danger.",
+      "alternative": "Save a love relationship can broadly suggest magical help, but normally presupposes an existing relationship needing rescue, narrower than the source and the earlier budding-love gift.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-011",
+      "kind": "WH",
+      "description": "Kinzo spreading the witch story becomes rumors sprouting.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "world.culture_history",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              464,
+              465
+            ],
+            "MG": [
+              464,
+              465
+            ],
+            "UP": [
+              464,
+              465
+            ]
+          },
+          "japanese": "そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、\nミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです」",
+          "japanesePC": "「しかしそれ、悪食島伝説の話です。そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、ミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです。」",
+          "japanesePS3": "そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、\nミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです」",
+          "WH": "\"But that's just the legend of Akujikishima.  The origins for the legend of the witch Beatrice came after Ushiromiya Kinzo moved to this island, when rumors sprouted about the mysterious legend of the gold and his mistress who gave it to him as a witch.\"",
+          "MG": "The origins for the legend of the witch, Beatrice, came after Ushiromiya Kinzo moved to this island,\nwhen rumors sprouted about the mysterious legend of the gold, as well as the witch mistress who gave it to him.\"",
+          "UP": "The origins for the legend of the witch Beatrice came after Ushiromiya Kinzo moved to this island,\nwhen rumors sprouted about the mysterious legend of the gold and his mistress who gave it to him as a witch.\"",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0463",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0463"
+            ],
+            "MG": [
+              "umi6_6-L0463"
+            ],
+            "UP": [
+              "umi6_6-L0463"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「しかしそれ、悪食島伝説の話です。そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、ミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです」",
+              "translation": "\"But that's just the legend of Akujikishima. The origins for the legend of the witch, Beatrice, came after Ushiromiya Kinzo moved to this island, when rumors sprouted about the mysterious legend of the gold, as well as the witch mistress who gave it to him.\" "
+            },
+            "UP": {
+              "japanese": "「しかしそれ、悪食島伝説の話です。そもそもベアトリーチェの魔女伝説の発祥は、この島に引っ越してきた右代宮金蔵が、ミステリアスな黄金伝説と、それを授けた魔女という名の愛人を吹聴してから始まったものです」",
+              "translation": "\"But that's just the legend of Akujikijima. The origins for the legend of the witch Beatrice came after Ushiromiya Kinzo moved to this island, when rumors sprouted about the mysterious legend of the gold and his mistress who gave it to him as a witch.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0463"
+            ],
+            "MG": [
+              "umi6_6-L0463"
+            ],
+            "UP": [
+              "umi6_6-L0463"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "金蔵が ... 吹聴して explicitly attributes public spreading of the gold and mistress-as-witch story to Kinzo after he moved to the island.",
+      "alternative": "Rumors sprouted preserves circulation and timing but removes the named propagator, central to Erika's proposed origin of this second legend.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-012",
+      "kind": "WH",
+      "description": "Longstanding acceptance becomes application all over the place.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              471,
+              471
+            ],
+            "MG": [
+              471,
+              471
+            ],
+            "UP": [
+              471,
+              471
+            ]
+          },
+          "japanese": "そういう論法でずっとまかり通ってきた。",
+          "japanesePC": "そういう論法でずっとまかり通ってきた。",
+          "japanesePS3": "そういう論法でずっとまかり通ってきた。",
+          "WH": "That sort of reasoning has been applied all over the place.",
+          "MG": "That sort of reasoning has been applied all over the place.",
+          "UP": "That sort of reasoning has been applied all over the place.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0469",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0469"
+            ],
+            "MG": [
+              "umi6_6-L0469"
+            ],
+            "UP": [
+              "umi6_6-L0469"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "悪食島の悪霊は蜘蛛の巣が苦手。ベアトリーチェも苦手。\nそういう論法でずっとまかり通ってきた。……それがおかしいと指摘され、熊沢は何と答えればいいか困惑してしまう…。",
+              "translation": "The evil spirits of Akujikishima couldn't stand spiderwebs. So neither could Beatrice. That sort of reasoning has been applied all over the place. ...When it was pointed out that this was strange, Kumasawa was lost for an answer... "
+            },
+            "UP": {
+              "japanese": "悪食島の悪霊は蜘蛛の巣が苦手。ベアトリーチェも苦手。\nそういう論法でずっとまかり通ってきた。……それがおかしいと指摘され、熊沢は何と答えればいいか困惑してしまう…。",
+              "translation": "The evil spirits of Akujikijima couldn't stand spiderwebs. So neither could Beatrice.\nThat sort of reasoning has been applied all over the place. ......When it was pointed out that this was strange, Kumasawa was lost for an answer..."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0469"
+            ],
+            "MG": [
+              "umi6_6-L0469"
+            ],
+            "UP": [
+              "umi6_6-L0469"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "ずっとまかり通ってきた says this reasoning has long passed accepted or unchallenged.",
+      "alternative": "Applied all over the place conveys widespread use but substitutes distribution for longstanding acceptance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-013",
+      "kind": "WH",
+      "description": "Kumasawa feigning confusion becomes merely seeming confused.",
+      "categories": [
+        "linguistic.omission",
+        "character.irony_performance"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              498,
+              498
+            ],
+            "MG": [
+              498,
+              498
+            ],
+            "UP": [
+              498,
+              498
+            ]
+          },
+          "japanese": "彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。",
+          "japanesePC": "彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。",
+          "japanesePS3": "彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。",
+          "WH": "She might have seemed confused, but she actually did understand what Erika was saying.",
+          "MG": "She might have seemed confused, but she actually did understand what Erika was saying.",
+          "UP": "She might have seemed confused, but she actually did understand what Erika was saying.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0497",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0497"
+            ],
+            "MG": [
+              "umi6_6-L0497"
+            ],
+            "UP": [
+              "umi6_6-L0497"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "熊沢は脂汗を浮かべながら、取り繕うように笑う…。彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、……どのように変遷していったか、おぼろげながら、理解しているのだ。",
+              "translation": "Kumasawa laughed to smooth it over, wiping away a cold sweat... She might have seemed confused, but she actually did understand what Erika was saying. ...In truth, she had been vaguely aware of how the legend of Akujikishima, which had been around before Ushiromiya Kinzo had come to Rokkenjima, and the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold, ...had both transformed. "
+            },
+            "UP": {
+              "japanese": "熊沢は脂汗を浮かべながら、取り繕うように笑う…。彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、……どのように変遷していったか、おぼろげながら、理解しているのだ。",
+              "translation": "Kumasawa laughed to smooth it over, wiping away a cold sweat... She might have seemed confused, but she actually did understand what Erika was saying. ......In truth, she did have a rough understanding of how the legend of Akujikijima, which had been around before Ushiromiya Kinzo had come to Rokkenjima, and the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold, ......had changed over time."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0497"
+            ],
+            "MG": [
+              "umi6_6-L0497"
+            ],
+            "UP": [
+              "umi6_6-L0497"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "混乱している風を装っている expressly identifies an appearance of confusion that she is putting on despite understanding.",
+      "alternative": "Her smoothing-over laughter, sweat and unwillingness to acknowledge the explanation remain. Yet might have seemed confused does not state intentional performance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-014",
+      "kind": "WH",
+      "description": "Unknown origin of Kinzo's gold is omitted.",
+      "categories": [
+        "linguistic.omission",
+        "world.world_fact",
+        "mystery.information_timing_salience"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              499,
+              501
+            ],
+            "MG": [
+              499,
+              501
+            ],
+            "UP": [
+              499,
+              501
+            ]
+          },
+          "japanese": "……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、\n金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、\n……どのように変遷していったか、おぼろげながら、理解しているのだ。",
+          "japanesePC": "......実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、......どのように変遷していったか、おぼろげながら、理解しているのだ。",
+          "japanesePS3": "……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、\n金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、\n……どのように変遷していったか、おぼろげながら、理解しているのだ。",
+          "WH": "......In truth, she had been vaguely aware of how the legend of Akujikishima, which had been around before Ushiromiya Kinzo had come to Rokkenjima, and the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold, ......had both transformed.",
+          "MG": "...In truth, she had been vaguely aware of how the legend of Akujikishima, which had been around before Ushiromiya Kinzo had come to Rokkenjima,\nand the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold,\n...had both transformed.",
+          "UP": "......In truth, she did have a rough understanding of how the legend of Akujikijima, which had been around before Ushiromiya Kinzo had come to Rokkenjima,\nand the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold,\n......had changed over time.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0497",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0497"
+            ],
+            "MG": [
+              "umi6_6-L0497"
+            ],
+            "UP": [
+              "umi6_6-L0497"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "熊沢は脂汗を浮かべながら、取り繕うように笑う…。彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、……どのように変遷していったか、おぼろげながら、理解しているのだ。",
+              "translation": "Kumasawa laughed to smooth it over, wiping away a cold sweat... She might have seemed confused, but she actually did understand what Erika was saying. ...In truth, she had been vaguely aware of how the legend of Akujikishima, which had been around before Ushiromiya Kinzo had come to Rokkenjima, and the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold, ...had both transformed. "
+            },
+            "UP": {
+              "japanese": "熊沢は脂汗を浮かべながら、取り繕うように笑う…。彼女は一見、混乱している風を装っているが、実際にはヱリカの話が理解できていた。……実際、彼女は、右代宮金蔵が六軒島に居を移す前からあった悪食島伝説と、金蔵の出所不明の莫大な金塊と、それを授けた黄金の魔女の伝説が、……どのように変遷していったか、おぼろげながら、理解しているのだ。",
+              "translation": "Kumasawa laughed to smooth it over, wiping away a cold sweat... She might have seemed confused, but she actually did understand what Erika was saying. ......In truth, she did have a rough understanding of how the legend of Akujikijima, which had been around before Ushiromiya Kinzo had come to Rokkenjima, and the legend of the Golden Witch, the story of the woman who had given Kinzo a vast quantity of gold, ......had changed over time."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0497"
+            ],
+            "MG": [
+              "umi6_6-L0497"
+            ],
+            "UP": [
+              "umi6_6-L0497"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "出所不明の莫大な金塊 expressly marks the enormous quantity of gold as of unknown provenance in the inventory of evolving stories.",
+      "alternative": "The surrounding legend concerns a woman giving gold and earlier passages discuss mystery, but this line omits its explicit unknown-source qualifier.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-015",
+      "kind": "WH",
+      "description": "Reported spiderweb burns are extended from minions to witches.",
+      "categories": [
+        "linguistic.addition",
+        "mystery.scope_quantifier_negation"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              511,
+              511
+            ],
+            "MG": [
+              511,
+              511
+            ],
+            "UP": [
+              511,
+              511
+            ]
+          },
+          "japanese": "「ま、魔女の眷属は蜘蛛の巣に触れると、",
+          "japanesePC": "「ま、魔女の眷属は蜘蛛の巣に触れると、",
+          "japanesePS3": "「ま、魔女の眷属は蜘蛛の巣に触れると、",
+          "WH": "\"I, it is said that witches and their minions...",
+          "MG": "\"I-It is said that witches and their minions...",
+          "UP": "\"I‐it is said that witches and their minions...",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0511",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0511"
+            ],
+            "MG": [
+              "umi6_6-L0511"
+            ],
+            "UP": [
+              "umi6_6-L0511"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ま、魔女の眷属は蜘蛛の巣に触れると、………火傷を負うそうですから、……多分、そうなるんじゃないかと…」",
+              "translation": "\"I-It is said that witches and their minions... ...receive burns when they touch spiderwebs, ...so that is probably what would happen, I suppose...\" "
+            },
+            "UP": {
+              "japanese": "「ま、魔女の眷属は蜘蛛の巣に触れると、………火傷を負うそうですから、……多分、そうなるんじゃないかと…」",
+              "translation": "\"I‐it is said that witches and their minions... ......receive burns when they touch spiderwebs... ...so that is probably what would happen, I would say...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0511"
+            ],
+            "MG": [
+              "umi6_6-L0511"
+            ],
+            "UP": [
+              "umi6_6-L0511"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "魔女の眷属 denotes a witch's dependents or minions. Kumasawa then guesses that Beatrice would probably suffer the same result.",
+      "alternative": "The next probably retains uncertainty about this particular case, and folklore elsewhere associates Beatrice with the weakness. But witches and their minions adds witches to the explicitly reported general rule and weakens the source's inferential step.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-016",
+      "kind": "WH",
+      "description": "Rapid healing becomes healing at some later time.",
+      "categories": [
+        "linguistic.omission",
+        "world.world_fact",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              599,
+              599
+            ],
+            "MG": [
+              599,
+              599
+            ],
+            "UP": [
+              599,
+              599
+            ]
+          },
+          "japanese": "……私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません…」",
+          "japanesePC": "「は、はい。......私自身、自分が魔女だとは、...ちょっと信じ切れていません。......私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません...。",
+          "japanesePS3": "……私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません…」",
+          "WH": "\"Y, yes.  ......Even I find it a little hard to believe that I'm a witch...  ......I can't use magic like you, and I can't get strange burns or heal from them later...",
+          "MG": "...I can't use magic like you, and I can't get strange burns or heal from them later...",
+          "UP": "......I can't use magic like you, and I can't get strange burns or heal from them later...\"",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0597",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0597"
+            ],
+            "MG": [
+              "umi6_6-L0597"
+            ],
+            "UP": [
+              "umi6_6-L0597"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「は、はい。……私自身、自分が魔女だとは、…ちょっと信じ切れていません。……私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません…」",
+              "translation": "\"Y-Yes. ...Even I find it a little hard to believe that I'm a witch... ...I can't use magic like you, and I can't get strange burns or heal from them later... "
+            },
+            "UP": {
+              "japanese": "「は、はい。……私自身、自分が魔女だとは、…ちょっと信じ切れていません。……私には、お姉様のように魔法を使うことも出来ないし、不思議な火傷も、そしてすぐに傷を治すことも出来ません…」",
+              "translation": "\"Y‐yes. ......Even I find it a little hard to believe that I'm a witch... ......I can't use magic like you, and I can't get strange burns or heal from them later...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0597"
+            ],
+            "MG": [
+              "umi6_6-L0597"
+            ],
+            "UP": [
+              "umi6_6-L0597"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "すぐに傷を治す explicitly concerns healing injuries immediately or quickly. The younger sister cannot perform that rapid recovery, not necessarily any eventual healing.",
+      "alternative": "The prior line says she would not heal that easily, and the elder's rapid recovery is demonstrated. But cannot ... heal from them later broadens the inability and omits the explicit speed qualifier.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-017",
+      "kind": "WH",
+      "description": "A soul bound to the island becomes a witch haunting it.",
+      "categories": [
+        "linguistic.undertranslation",
+        "world.world_fact",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              609,
+              609
+            ],
+            "MG": [
+              609,
+              609
+            ],
+            "UP": [
+              609,
+              609
+            ]
+          },
+          "japanese": "金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である」",
+          "japanesePC": "「妾もまた、ベアトリーチェ。金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である。」",
+          "japanesePS3": "金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である」",
+          "WH": "\"I am also Beatrice.  I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\"",
+          "MG": "I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\"",
+          "UP": "I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\"",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0608",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0608"
+            ],
+            "MG": [
+              "umi6_6-L0608"
+            ],
+            "UP": [
+              "umi6_6-L0608"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「妾もまた、ベアトリーチェ。金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である」",
+              "translation": "\"I am also Beatrice. I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\" "
+            },
+            "UP": {
+              "japanese": "「妾もまた、ベアトリーチェ。金蔵に魔法にて黄金を授け、その後も魂となって島に縛り付けられている、体を失った魔女である」",
+              "translation": "\"I am also Beatrice. I used magic to give Kinzo gold, and later became a soul and the formless witch that haunts this island.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0608"
+            ],
+            "MG": [
+              "umi6_6-L0608"
+            ],
+            "UP": [
+              "umi6_6-L0608"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "その後も魂となって島に縛り付けられている states that after losing her body she remains bound to the island as a soul.",
+      "alternative": "Haunts this island places the bodiless witch on the island, but haunting does not express inability to leave or the binding restriction.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP06-CH06-018",
+      "kind": "WH",
+      "description": "The younger sister as a version of the elder becomes two separate connections.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.viewpoint_attribution",
+        "mystery.argument_reconstruction"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              644,
+              644
+            ],
+            "MG": [
+              644,
+              644
+            ],
+            "UP": [
+              644,
+              644
+            ]
+          },
+          "japanese": "その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。",
+          "japanesePC": "「妾も、年に数度しか訪れぬ稀な客人である彼のことは知っているが、その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。......妾たちは、互いをもっと知るべきに違いない。」",
+          "japanesePS3": "その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。",
+          "WH": "\"I know him as a rare guest who only comes a few times a year, but I cannot understand what connection you and I have with such an infrequent guest.  ......Surely, we must learn more about each other.\"",
+          "MG": "but I cannot understand what connection you and I have with such an infrequent visitor.",
+          "UP": "but I cannot understand what connection you and I have with such an infrequent guest.",
+          "note": "Full continuous source-first reading completed in durable agent reports. Parent checked canonical outcomes, introduced flags and exact PC/PS3 edition differences. Yellow PC material excluded from defect counts; conservative inherited candidates remain pending.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi6_6-L0643",
+          "readerRefs": {
+            "WH": [
+              "umi6_6-L0643"
+            ],
+            "MG": [
+              "umi6_6-L0643"
+            ],
+            "UP": [
+              "umi6_6-L0643"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「妾も、年に数度しか訪れぬ稀な客人である彼のことは知っているが、その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。……妾たちは、互いをもっと知るべきに違いない」",
+              "translation": "\"I know him as a rare guest who only comes a few times a year, but I cannot understand what connection you and I have with such an infrequent visitor. ...Surely, we must learn more about each other.\" "
+            },
+            "UP": {
+              "japanese": "「妾も、年に数度しか訪れぬ稀な客人である彼のことは知っているが、その稀な客人の彼と、そなたという妾に、どのような接点があるのか、理解できぬ。……妾たちは、互いをもっと知るべきに違いない」",
+              "translation": "\"I know him as a rare guest who only comes a few times a year, but I cannot understand what connection you and I have with such an infrequent guest. ......Surely, we must learn more about each other.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi6_6-L0643"
+            ],
+            "MG": [
+              "umi6_6-L0643"
+            ],
+            "UP": [
+              "umi6_6-L0643"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "そなたという妾 means you, who are a version of me, or the me called you. The elder does not understand the connection between the rare visitor and this version of herself.",
+      "alternative": "You and I retains both identities in the discussion, and double/complementary identities are established nearby. Nevertheless it replaces the explicit apposition identifying the younger as a me with a conjunction asking about both individuals' connection.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP06-CH06-001-120-001",
+      "kind": "additional",
+      "description": "UP removes the uncertainty from George’s recollection of when he noticed his problem.",
+      "categories": [
+        "linguistic.tense_aspect"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              64,
+              64
+            ],
+            "MG": [
+              64,
+              64
+            ],
+            "UP": [
+              64,
+              64
+            ]
+          },
+          "japanese": "中学生くらいの頃だったろうか。",
+          "japanesePC": "",
+          "japanesePS3": "中学生くらいの頃だったろうか。",
+          "WH": "",
+          "MG": "Probably when I was in middle school.",
+          "UP": "It started when I was in middle school.",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi6_6-L0063",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_6-L0063"
+            ],
+            "UP": [
+              "umi6_6-L0063"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "僕がそれに気付いたのが、……何年前だったろう。中学生くらいの頃だったろうか。当時の僕は、いとこの中でもっとも紳士的で、女性にモテて当然だろうと思い込んでいた。しかし、現実はまるで違う。",
+              "translation": "How many years ago was it when I noticed? Probably when I was in middle school. At the time, I assumed that I was obviously the most gentlemanly of the cousins, so I would obviously be popular with women. However, reality was very different. "
+            },
+            "UP": {
+              "japanese": "僕がそれに気付いたのが、……何年前だったろう。中学生くらいの頃だったろうか。当時の僕は、いとこの中でもっとも紳士的で、女性にモテて当然だろうと思い込んでいた。しかし、現実はまるで違う。",
+              "translation": "How many years ago was it when I noticed? It started when I was in middle school. At the time, I assumed that I was obviously the most gentlemanly of the cousins, so I would obviously be popular with women. However, reality was completely different."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_6-L0063"
+            ],
+            "UP": [
+              "umi6_6-L0063"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "JP 中学生くらいの頃だったろうか recalls approximate time tentatively; originalPC72562/72563 and MG retain Probably. UP It started when asserts an unqualified time.",
+      "alternative": "It may refer to noticing rather than the onset of his feelings; the finding is limited to the missing uncertainty, not a certified changed onset.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-081",
+      "kind": "PC",
+      "description": "PC 生娘らしい and WH virgin disgust remain in MG; PS3 changes to 乙女らしい maidenly, followed by UP.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              116,
+              116
+            ],
+            "MG": [
+              116,
+              116
+            ],
+            "UP": [
+              116,
+              116
+            ]
+          },
+          "japanese": "……もっとも、私には縁寿の、乙女らしい嫌悪の表情の方が愉快であるが…」",
+          "japanesePC": "......もっとも、私には縁寿の、生娘らしい嫌悪の表情の方が愉快であるが...。」",
+          "japanesePS3": "……もっとも、私には縁寿の、乙女らしい嫌悪の表情の方が愉快であるが…」",
+          "WH": "......However, I do find that expression of virgin disgust on your face even more charming...\"",
+          "MG": "...However, I do find that expression of virgin disgust on your face even more amusing...\"",
+          "UP": "......However, I do find that maidenly expression of disgust on your face even more charming...\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi6_6-L0114",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_6-L0114"
+            ],
+            "UP": [
+              "umi6_6-L0114"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……恋を語る話は、時を超えて尊い。いくら聞いても飽きぬでな。……もっとも、私には縁寿の、乙女らしい嫌悪の表情の方が愉快であるが…」",
+              "translation": "\"...Stories of love are precious in any age. I never tire of them. ...However, I do find that expression of virgin disgust on your face even more amusing...\" "
+            },
+            "UP": {
+              "japanese": "「……恋を語る話は、時を超えて尊い。いくら聞いても飽きぬでな。……もっとも、私には縁寿の、乙女らしい嫌悪の表情の方が愉快であるが…」",
+              "translation": "\"......Stories of love are truly timeless. I never tire of them. ......However, I do find that maidenly expression of disgust on your face even more charming...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_6-L0114"
+            ],
+            "UP": [
+              "umi6_6-L0114"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC 生娘らしい and WH virgin disgust remain in MG; PS3 changes to 乙女らしい maidenly, followed by UP.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-082",
+      "kind": "PC",
+      "description": "PC 童貞臭い and WH virgins trying too hard remain in MG; PS3 replaces the sexual-inexperience reference with fantasies about women, followed by UP.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi6_6",
+          "episode": 6,
+          "rows": {
+            "JP": [
+              154,
+              154
+            ],
+            "MG": [
+              154,
+              154
+            ],
+            "UP": [
+              154,
+              154
+            ]
+          },
+          "japanese": "……女に幻想持ちすぎって言うか、何というか…」",
+          "japanesePC": "......譲治お兄ちゃんには悪いけど、あまり紳士を振りかざし過ぎる人って、...ちょっと気持ち悪いわ。......童貞臭いって言うか、何というか...。」",
+          "japanesePS3": "……女に幻想持ちすぎって言うか、何というか…」",
+          "WH": "......I hate to say it, but I find guys who act too polite...a bit creepy.  ......It's like they're virgins trying too hard or something...\"",
+          "MG": "...It's like they're virgins trying too hard...or whatever...\"",
+          "UP": "......It's like they have delusions about women or something...\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi6_6-L0151",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_6-L0151"
+            ],
+            "UP": [
+              "umi6_6-L0151"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「………ちょっとわかるわ。お兄ちゃんや朱志香お姉ちゃんみたいなタイプの人って、男女問わず誰とでも仲良くなれるタイプよね。……譲治お兄ちゃんには悪いけど、あまり紳士を振りかざし過ぎる人って、…ちょっと気持ち悪いわ。……女に幻想持ちすぎって言うか、何というか…」",
+              "translation": "\"......I sort of understand. People like Onii-chan and Jessica onee-chan can get along with anyone, whether that person's a boy or a girl. ...I hate to bring it up because of George onii-chan, but I find people who act too overtly like a gentleman...a bit creepy. ...It's like they're virgins trying too hard...or whatever...\" "
+            },
+            "UP": {
+              "japanese": "「………ちょっとわかるわ。お兄ちゃんや朱志香お姉ちゃんみたいなタイプの人って、男女問わず誰とでも仲良くなれるタイプよね。……譲治お兄ちゃんには悪いけど、あまり紳士を振りかざし過ぎる人って、…ちょっと気持ち悪いわ。……女に幻想持ちすぎって言うか、何というか…」",
+              "translation": "\".........I sort of understand. People like Onii‐chan and Jessica onee‐chan can get along with anyone whether that person's a boy or a girl. ......Apologies to George onii-chan, but...guys who try too hard to act like a \"gentleman\"...I find them a bit creepy. ......It's like they have delusions about women or something...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi6_6-L0151"
+            ],
+            "UP": [
+              "umi6_6-L0151"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC 童貞臭い and WH virgins trying too hard remain in MG; PS3 replaces the sexual-inexperience reference with fantasies about women, followed by UP.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP06-CH06-001": {
+      "umi6_6-L0022": {
+        "WH": [
+          "lazy"
+        ],
+        "MG": [
+          "lazy"
+        ],
+        "UP": [
+          "lazy"
+        ]
+      }
+    },
+    "WH-EP06-CH06-002": {
+      "umi6_6-L0057": {
+        "WH": [
+          "Because of that",
+          "hate all of them"
+        ],
+        "MG": [
+          "Because of that",
+          "hate all of them"
+        ],
+        "UP": [
+          "Because of that",
+          "hate all of them"
+        ]
+      }
+    },
+    "WH-EP06-CH06-003": {
+      "umi6_6-L0071": {
+        "WH": [
+          "there were very few girls I could even call a friend"
+        ]
+      }
+    },
+    "WH-EP06-CH06-004": {
+      "umi6_6-L0123": {
+        "WH": [
+          "George's meek heart"
+        ],
+        "UP": [
+          "George's meek heart"
+        ]
+      }
+    },
+    "WH-EP06-CH06-005": {
+      "umi6_6-L0164": {
+        "WH": [
+          "loved having me there"
+        ],
+        "MG": [
+          "loved having me there"
+        ]
+      }
+    },
+    "WH-EP06-CH06-006": {
+      "umi6_6-L0222": {
+        "WH": [
+          "On that day, my desire for revenge",
+          "suddenly transformed into true love"
+        ],
+        "MG": [
+          "On that day, my desire for revenge",
+          "suddenly transformed into true love"
+        ]
+      }
+    },
+    "WH-EP06-CH06-007": {
+      "umi6_6-L0282": {
+        "WH": [
+          "when we eventually pass away, surrounded by our vast family"
+        ],
+        "MG": [
+          "when we eventually pass away, surrounded by our vast family"
+        ],
+        "UP": [
+          "when we eventually pass away, surrounded by our vast family"
+        ]
+      }
+    },
+    "WH-EP06-CH06-008": {
+      "umi6_6-L0396": {
+        "WH": [
+          "which Beatrice had once given to Shannon in the hopes of creating love between her and George"
+        ],
+        "UP": [
+          "which Beatrice had once given to Shannon in the hopes of creating love between her and George"
+        ],
+        "MG": [
+          "which Beatrice had once given to Shannon in the hopes of creating love between her and George"
+        ]
+      }
+    },
+    "WH-EP06-CH06-009": {
+      "umi6_6-L0412": {
+        "WH": [
+          "if I recall"
+        ],
+        "MG": [
+          "if I recall"
+        ],
+        "UP": [
+          "if I recall"
+        ]
+      }
+    },
+    "WH-EP06-CH06-010": {
+      "umi6_6-L0415": {
+        "WH": [
+          "can save a love relationship"
+        ],
+        "MG": [
+          "can save a love relationship"
+        ],
+        "UP": [
+          "can save a love relationship"
+        ]
+      }
+    },
+    "WH-EP06-CH06-011": {
+      "umi6_6-L0463": {
+        "WH": [
+          "when rumors sprouted"
+        ],
+        "MG": [
+          "when rumors sprouted"
+        ],
+        "UP": [
+          "when rumors sprouted"
+        ]
+      }
+    },
+    "WH-EP06-CH06-012": {
+      "umi6_6-L0469": {
+        "WH": [
+          "has been applied all over the place"
+        ],
+        "MG": [
+          "has been applied all over the place"
+        ],
+        "UP": [
+          "has been applied all over the place"
+        ]
+      }
+    },
+    "WH-EP06-CH06-013": {
+      "umi6_6-L0497": {
+        "WH": [
+          "She might have seemed confused"
+        ],
+        "MG": [
+          "She might have seemed confused"
+        ],
+        "UP": [
+          "She might have seemed confused"
+        ]
+      }
+    },
+    "WH-EP06-CH06-014": {
+      "umi6_6-L0497": {
+        "WH": [
+          "a vast quantity of gold"
+        ],
+        "MG": [
+          "a vast quantity of gold"
+        ],
+        "UP": [
+          "a vast quantity of gold"
+        ]
+      }
+    },
+    "WH-EP06-CH06-015": {
+      "umi6_6-L0511": {
+        "WH": [
+          "witches and their minions"
+        ],
+        "MG": [
+          "witches and their minions"
+        ],
+        "UP": [
+          "witches and their minions"
+        ]
+      }
+    },
+    "WH-EP06-CH06-016": {
+      "umi6_6-L0597": {
+        "WH": [
+          "heal from them later"
+        ],
+        "MG": [
+          "heal from them later"
+        ],
+        "UP": [
+          "heal from them later"
+        ]
+      }
+    },
+    "WH-EP06-CH06-017": {
+      "umi6_6-L0608": {
+        "WH": [
+          "haunts this island"
+        ],
+        "MG": [
+          "haunts this island"
+        ],
+        "UP": [
+          "haunts this island"
+        ]
+      }
+    },
+    "WH-EP06-CH06-018": {
+      "umi6_6-L0643": {
+        "WH": [
+          "what connection you and I have"
+        ],
+        "MG": [
+          "what connection you and I have"
+        ],
+        "UP": [
+          "what connection you and I have"
+        ]
+      }
+    },
+    "PAIR-EP06-CH06-001-120-001": {
+      "umi6_6-L0063": {
+        "UP": [
+          "It started when I was in middle school"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

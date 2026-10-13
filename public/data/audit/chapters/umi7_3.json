@@ -1,1 +1,2113 @@
-{"findings":[{"id":"WH-EP07-CH03-001","kind":"WH","description":"Impartial listening becomes open listening.","categories":["linguistic.word_choice","character.relationship_power","mystery.truth_authority"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[34,34],"MG":[34,34],"UP":[34,34]},"japanese":"お前の物語を公正に聞き、残すことが出来る。","japanesePC":"「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう。」","japanesePS3":"お前の物語を公正に聞き、残すことが出来る。","WH":"\"Because I am no one, I can listen to your tale openly and record it.  You will probably leave this world before too long.  If you die without telling anything about Beatrice, your children will adorn Beatrice with whatever tale they like, and write that into their memories.\"","MG":"I can listen to your tale impartially and record it.","UP":"I can listen to your tale without bias and record it.","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_3-L0033","readerRefs":{"WH":["umi7_3-L0033"],"MG":["umi7_3-L0033"],"UP":["umi7_3-L0033"]}}],"sourceReading":"Will says being an unconnected outsider lets him hear and preserve Kinzo’s tale fairly or impartially.","alternative":"Openly can suggest receptiveness, but does not state 公正, fairness or impartiality. Lack of personal connection is offered as the reason for that impartiality.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-002","kind":"WH","description":"Leaving a record becomes writing into memories.","categories":["linguistic.word_choice","mystery.information_timing_salience","world.world_fact"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[37,37],"MG":[37,37],"UP":[37,37]},"japanese":"お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」","japanesePC":"「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう。」","japanesePS3":"お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」","WH":"\"Because I am no one, I can listen to your tale openly and record it.  You will probably leave this world before too long.  If you die without telling anything about Beatrice, your children will adorn Beatrice with whatever tale they like, and write that into their memories.\"","MG":"your children will adorn Beatrice with whatever tale they please, writing that into their memories.\"","UP":"your children will adorn her with their own fanciful tales and write them into history.\"","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_3-L0033","readerRefs":{"WH":["umi7_3-L0033"],"MG":["umi7_3-L0033"],"UP":["umi7_3-L0033"]}}],"sourceReading":"If Kinzo dies silent, his children will decorate Beatrice with tales of their own choosing and leave those tales in records.","alternative":"Write that into their memories can metaphorically mean remembering, but 記録に残す explicitly says leaving a record. It is the reason Will offers to preserve Kinzo’s own account before his death.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-003","kind":"WH","description":"Kinzo and Beatrice’s shared tale becomes Kinzo and a tale.","categories":["linguistic.mistranslation","character.relationship_power","mystery.mystery_character_link"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[44,44],"MG":[44,44],"UP":[44,44]},"japanese":"私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！","japanesePC":"「だが、それは余計なお世話というものよ。ベアトリーチェは、私だけのベアトリーチェだ。誰が何を語ろうとも、私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！　蔵臼たちがどう曲解しようとも、痛くも痒くもないわッ。」","japanesePS3":"私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！","WH":"\"But that is none of your business.  Beatrice is mine alone.  No matter what anyone says, no one can defile me and that tale.  What they say is of no consequence!  No matter how Krauss and the others misconstrue it, it will not be painful or vexing for me.\"","MG":"no one can defile our tale. What they say is of no consequence!","UP":"no one can defile our story. What they say is of no consequence!","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_3-L0038","readerRefs":{"WH":["umi7_3-L0038"],"MG":["umi7_3-L0038"],"UP":["umi7_3-L0038"]}}],"sourceReading":"Kinzo says no one can defile the story belonging to him and Beatrice, whatever others say.","alternative":"No one can defile me and that tale makes Kinzo himself and a tale two objects of defilement. 私とあれの物語 means the tale of me and her, placing their joint story at the center.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-004","kind":"WH","description":"Living through his love becomes living because of her love.","categories":["linguistic.wrong_subject","character.motivation_emotion","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[57,59],"MG":[57,59],"UP":[57,59]},"japanese":"「どうか、迷える私たちのために、\n如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。\n……その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか…」","japanesePC":"どうか、迷える私たちのために、如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。......その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか...。」","japanesePS3":"「どうか、迷える私たちのために、\n如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。\n……その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか…」","WH":"Please guide our wandering souls and tell us just how much you loved her, Grandfather.  How you were able to live so strongly because of her love.  ......Can I not ask for you to guide us by showing us the strength of that love...?\"","MG":"Please guide our wandering souls and tell us just how much you loved her, Grandfather.\nHow you were able to live through everything you faced because of her love.\n...I only ask for you to guide us by showing us that love's strength...\"","UP":"\"Please, for the sake of us wandering souls,\nmay we learn of how you loved her to the last, how your love for her guided you through life,\n......and the strength of your love for her, so that your story might guide us through our own lives...?\"","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_3-L0055","readerRefs":{"WH":["umi7_3-L0055"],"MG":["umi7_3-L0055"],"UP":["umi7_3-L0055"]}}],"sourceReading":"Lion asks how Kinzo loved Beatrice through to the end and lived on because of that love, so its strength can guide them.","alternative":"Her love assigns Beatrice as the source of sustaining affection, whereas the linked source clauses concern how Grandfather loved her and persisted through that love. How much you loved her also weakens 愛し抜いた’s enduring-through force.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-005","kind":"WH","description":"Genji’s lie becomes something that may have been a lie.","categories":["linguistic.overinterpretation","mystery.epistemic_status","character.knowledge_boundary"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[105,105],"MG":[105,105],"UP":[105,105]},"japanese":"「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。","japanesePC":"「それは嘘なわけだが、ある意味で金蔵の腹心らしい、模範的な返答でもある。......何しろ、金蔵にとってその娘は、生まれ変わりであって、","japanesePS3":"「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。","WH":"\"That may have been a lie, but in a way, it was a perfect sort of answer for one of Kinzo's confidants.  ......After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\"","MG":"\"That may have been a lie, but in a way, it was a model answer for one of Kinzo's confidants.","UP":"\"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants.","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"retained_PC_derived_source_changed","UP":"corrected_against_PS3_source_by_edition_change"},"readerRef":"umi7_3-L0105","readerRefs":{"WH":["PC-CANDIDATE-EP07-03-V002"],"MG":["umi7_3-L0105"],"UP":["umi7_3-L0105"]}}],"sourceReading":"Will states that Genji’s earlier answer was a lie, while explaining why it suited Kinzo’s confidant.","alternative":"May have been softens an explicit それは嘘なわけだ into uncertainty. The source distinguishes a lie from its being a fitting answer in a particular sense; it does not express doubt that it was a lie.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-006","kind":"WH","description":"Making the daughter an object of obsession is omitted.","categories":["linguistic.omission","character.agency_responsibility","character.relationship_power","mystery.mystery_character_link"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[171,174],"MG":[171,174],"UP":[171,174]},"japanese":"しかし心のどこかで、\n……ベアトリーチェとは異なる別人に、\n自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、\n良心の呵責もあったのかもしれない。","japanesePC":"しかし心のどこかで、\n......ベアトリーチェとは異なる別人に、自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、良心の呵責もあったのかもしれない。","japanesePS3":"しかし心のどこかで、\n……ベアトリーチェとは異なる別人に、\n自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、\n良心の呵責もあったのかもしれない。","WH":"However, somewhere in his heart,\n......he might have felt pangs of conscience, telling him that he might be forcing his emotions on someone who wasn't really Beatrice.","MG":"However, somewhere in his heart,\n...he might have felt ...\npangs of conscience,\ntelling him that he might be forcing his emotions on someone who wasn't really Beatrice.","UP":"However, somewhere in his heart,\n......he might have felt...\n...pangs of conscience,\ntelling him that he might be forcing his emotions on someone who wasn't really Beatrice.","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_3-L0167","readerRefs":{"WH":["umi7_3-L0167"],"MG":["umi7_3-L0167"],"UP":["umi7_3-L0167"]}}],"sourceReading":"The narration suggests Kinzo may have had pangs of conscience that he might be forcing his own feelings on another person and making her an object of gratification for his obsession.","alternative":"The English retains both levels of uncertainty and the forcing of emotions, but omits 妄執の慰み者にしてしまっている, the possible exploitation as an object serving obsession. Forced emotions does not carry the whole omitted claim.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-007","kind":"WH","description":"Embracing twice becomes two deaths in his arms.","categories":["linguistic.overinterpretation","world.space_time_continuity","mystery.physical_constraint"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[200,201],"MG":[200,201],"UP":[200,201]},"japanese":"……私は二度も抱き締めながら、\n……なぜに二度も死すのか？！」","japanesePC":"なぜに！！\nなぜに二度までも私の前から去るのか？！　お前の微笑みを、\nその美しい髪を、\n瞳を、\n......私は二度も抱き締めながら、\n......なぜに二度も死すのか？！」","japanesePS3":"……私は二度も抱き締めながら、\n……なぜに二度も死すのか？！」","WH":"Why did you leave me twice?!  Your smile,\nthat beautiful hair,\nthose eyes...\n...why did you die in my arms not once but twice?!\"","MG":"...Why did you die in my arms not once\nbut twice?!\"","UP":"......Why did you die in my arms not once,\n......but twice?!\"","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_3-L0193","readerRefs":{"WH":["umi7_3-L0193"],"MG":["umi7_3-L0193"],"UP":["umi7_3-L0193"]}}],"sourceReading":"Kinzo asks why she left him twice: he embraced her smile, hair and eyes twice, yet she died twice.","alternative":"The Japanese joins embracing and dying without locating the deaths in his arms. The English adds that location for both deaths, despite the preceding daughter’s death account describing a cliff fall witnessed by Rosa.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-008","kind":"WH","description":"Receiving a father’s love becomes accepting it.","categories":["linguistic.word_choice","character.agency_responsibility","character.relationship_power"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[254,254],"MG":[254,254],"UP":[254,254]},"japanese":"……ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。","japanesePC":"......ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。しかし時に。ご自身に理解できぬ愛を強いられていたことは、否定できません。」","japanesePS3":"……ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。","WH":"......Beatrice-sama probably accepted her father's love.  However, I will not deny that she was sometimes forced to bear a love she didn't understand.\"","MG":"...Beatrice-sama probably accepted her father's love.","UP":"......Beatrice‐sama probably accepted her father's love.","note":"Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_3-L0252","readerRefs":{"WH":["umi7_3-L0252"],"MG":["umi7_3-L0252"],"UP":["umi7_3-L0252"]}}],"sourceReading":"Kumasawa says Beatrice probably received all of her father’s love, but at times was forced to bear a love she did not understand.","alternative":"Accepted her father’s love can imply willing assent, whereas 一身に受けられていた describes being the recipient. The contrast concerns receiving affection versus being subjected to incomprehensible affection, not consent followed by exceptions.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-009","kind":"WH","description":"Developing bad drinking habits becomes drinking bad drinks.","categories":["linguistic.word_choice","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[405,405],"MG":[405,405],"UP":[405,405]},"japanese":"……悪い酒と薔薇いじりを覚えただけ。","japanesePC":"私はぼんやりと、好きな洋書を漁り、自分だけの世界に閉じ篭り、......悪い酒と薔薇いじりを覚えただけ。","japanesePS3":"……悪い酒と薔薇いじりを覚えただけ。","WH":"I remember nothing but lazily flipping through Western books I liked, locking myself in my own world, ......doing nothing but playing with roses and drinking terrible drinks.","MG":"...doing nothing but playing with roses and drinking terrible drinks.","UP":"......doing nothing but playing with roses and drinking terrible drinks.","note":"Continuous source-first three-witness review with boundary context in saved reports; parent verified all named military carryover rows against changed PS3 wording. Exact PC provenance reported; yellow notes excluded from defects. UP373 heir replaces already installed family head, distinct from Lion’s prospective succession371; originalPC132022–132024 and MG retain head. UP520 cancelled contextually supported by abandoned project511/521–524; held.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_3-L0386","readerRefs":{"WH":["umi7_3-L0386"],"MG":["umi7_3-L0386"],"UP":["umi7_3-L0386"]}}],"sourceReading":"Kinzo describes learning bad drinking habits and tending roses while retreating into his private world.","alternative":"Terrible drinks describes the quality of the beverages. In this account of a hollow life, 悪い酒 describes unhealthy drinking; 覚えた is developing the habit, not remembering the period.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-010","kind":"WH","description":"The elders stealing family assets becomes gathering scraps.","categories":["linguistic.undertranslation","character.agency_responsibility","world.world_fact"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[451,451],"MG":[451,451],"UP":[451,451]},"japanese":"長老たちは、自分たちの寿命分程度には財産をくすねられたようで、","japanesePC":"その頃には、右代宮家は完全に没落しかかっており、長老たちは、自分たちの寿命分程度には財産をくすねられたようで、もはや用済みの私が何をしようと、関心はないようだった。","japanesePS3":"長老たちは、自分たちの寿命分程度には財産をくすねられたようで、","WH":"At that time, the Ushiromiya family had almost completely collapsed, and since the elders had apparently gathered enough of the scraps to last them the rest of their lives, they seemed to care little for what I did, now that they no longer had any use for me.","MG":"and since the elders had apparently gathered enough of the scraps to last them the rest of their lives,","UP":"and since the elders had apparently pilfered enough of the scraps to last them the rest of their lives,","note":"Continuous source-first three-witness review with boundary context in saved reports; parent verified all named military carryover rows against changed PS3 wording. Exact PC provenance reported; yellow notes excluded from defects. UP373 heir replaces already installed family head, distinct from Lion’s prospective succession371; originalPC132022–132024 and MG retain head. UP520 cancelled contextually supported by abandoned project511/521–524; held.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_3-L0441","readerRefs":{"WH":["umi7_3-L0441"],"MG":["umi7_3-L0441"],"UP":["umi7_3-L0441"]}}],"sourceReading":"The elders apparently pilfered enough assets to support themselves for the remainder of their lives, and no longer needed their puppet head.","alternative":"Gathered enough of the scraps retains the financial benefit but does not express the stealing in くすねる. Family decline alone does not establish that criminal agency.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH03-011","kind":"WH","description":"A base plan on a connecting line becomes a string of bases.","categories":["linguistic.overinterpretation","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[496,496],"MG":[496,496],"UP":[496,496]},"japanese":"八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。","japanesePC":"海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、回天搭載潜水艦の秘密基地建造計画を立案する。","japanesePS3":"八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。","WH":"To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.","MG":"the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.","UP":"the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons.","note":"Continuous source-first three-witness review with boundary context in saved reports; parent verified all named military carryover rows against changed PS3 wording. Exact PC provenance reported; yellow notes excluded from defects. UP373 heir replaces already installed family head, distinct from Lion’s prospective succession371; originalPC132022–132024 and MG retain head. UP520 cancelled contextually supported by abandoned project511/521–524; held.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_3-L0488","readerRefs":{"WH":["PC-CANDIDATE-EP07-03-V004"],"MG":["umi7_3-L0488"],"UP":["umi7_3-L0488"]}}],"sourceReading":"The Navy planned construction of secret bases for Kaiten-carrying submarines on the line connecting Hachijo Island and Yokosuka.","alternative":"Japanese permits more than one base, particularly with the adjacent Hachijo and Rokkenjima examples; it does not describe a string extending from one endpoint to the other. The finding concerns added distribution, not singular versus plural.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH03-001-120-001","kind":"additional","description":"MG omits infinitive to in chose not call.","categories":["linguistic.grammar"],"severity":"minor","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[91,91],"MG":[91,91],"UP":[91,91]},"japanese":"……呼ばなかったのか、呼ぶことは許されなかったのか。","japanesePC":"","japanesePS3":"……呼ばなかったのか、呼ぶことは許されなかったのか。","WH":"","MG":"...She either chose not call you that, or she wasn't allowed to call you that.","UP":"......She either didn't call you that, or she wasn't allowed to call you that.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_3-L0087","readerRefs":{"WH":[],"MG":["umi7_3-L0087"],"UP":["umi7_3-L0087"]}}],"sourceReading":"Chose not to call requires to. OriginalPC131038–131040 and UP use grammatical did not call.","alternative":"Meaning is clear but chose does not license this bare infinitive.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH03-241-360-001","kind":"additional","description":"MG turns not merely a father-daughter relationship into denial of that relationship.","categories":["linguistic.omission","character.relationship_power"],"severity":"moderate","editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[248,248],"MG":[248,248],"UP":[248,248]},"japanese":"……それは親子としての関係だけでなく。","japanesePC":"","japanesePS3":"……それは親子としての関係だけでなく。","WH":"","MG":"...It was not a father-daughter relationship.","UP":"......It was not simply a father‐daughter relationship.","note":"","dispositions":{"MG":"defect","UP":"correct"},"readerRef":"umi7_3-L0245","readerRefs":{"WH":[],"MG":["umi7_3-L0245"],"UP":["umi7_3-L0245"]}}],"sourceReading":"親子としての関係だけでなく means not only the parent-child relationship. MG drops simply from originalPC131558–131560 and categorically negates it; UP preserves not simply.","alternative":"Context suggests an additional romantic dimension, but the categorical denial removes the explicit not-only qualification.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PAIR-EP07-CH03-361-480-001","kind":"additional","description":"UP calls the already installed puppet family head a puppet heir.","categories":["linguistic.word_choice"],"severity":"minor","editions":["UP"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[373,373],"MG":[373,373],"UP":[373,373]},"japanese":"「操り人形の当主か。","japanesePC":"","japanesePS3":"「操り人形の当主か。","WH":"","MG":"\"A puppet for a Head...","UP":"\"A puppet heir, huh...","note":"","dispositions":{"MG":"correct","UP":"defect"},"readerRef":"umi7_3-L0373","readerRefs":{"WH":[],"MG":["umi7_3-L0373"],"UP":["umi7_3-L0373"]}}],"sourceReading":"当主 identifies the family head in Kinzo’s retrospective account. UP heir confuses that held role with the future succession explicitly distinguished371. OriginalPC132022–132024 and MG preserve head.","alternative":"Heir can loosely denote a successor, but the surrounding account concerns his actual powerless tenure as head, not future inheritance.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-089","kind":"PC","description":"PC explicitly calls Genji’s response a lie; MG carries lie commentary into PS3 text that instead quotes his answer. Original WH uncertainty weakening remains a distinct original-PC finding.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[105,105],"MG":[105,105],"UP":[105,105]},"japanese":"「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。","japanesePC":"「それは嘘なわけだが、ある意味で金蔵の腹心らしい、模範的な返答でもある。......何しろ、金蔵にとってその娘は、生まれ変わりであって、","japanesePS3":"「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。","WH":"\"That may have been a lie, but in a way, it was a perfect sort of answer for one of Kinzo's confidants.  ......After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\"","MG":"\"That may have been a lie, but in a way, it was a model answer for one of Kinzo's confidants.","UP":"\"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0105","readerRefs":{"WH":[],"MG":["umi7_3-L0105"],"UP":["umi7_3-L0105"]}}],"sourceReading":"PC explicitly calls Genji’s response a lie; MG carries lie commentary into PS3 text that instead quotes his answer. Original WH uncertainty weakening remains a distinct original-PC finding.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-090","kind":"PC","description":"PC includes birth-time reincarnation speculation; PS3 removes that sentence. MG retains it; UP follows PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[114,114],"MG":[114,114],"UP":[114,114]},"japanese":"死んでも、色褪せることなく永遠に」","japanesePC":"「冒涜じゃねぇ。推理だ。......だが、心は理解する。ベアトリーチェはお前にとって、最愛の女だった。死んでも、色褪せることなく永遠に。生まれた時から生まれ変わりだと思っていたわけじゃねぇだろう。」","japanesePS3":"死んでも、色褪せることなく永遠に」","WH":"\"This isn't slander.  It's reasoning.  ......However, I understand the heart.  In your eyes, Beatrice was the woman you loved most.  She remained that way even after death, for all eternity, and without fading in the slightest.  I doubt you thought of her as Beatrice reborn at the moment of her birth.\"","MG":"She remained that way even after death, for all eternity, and without fading in the slightest. I doubt you thought of her as Beatrice reborn at the moment of her birth.\"","UP":"She remained that way even after death, for all eternity, and without fading in the slightest.\"","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0110","readerRefs":{"WH":[],"MG":["umi7_3-L0110"],"UP":["umi7_3-L0110"]}}],"sourceReading":"PC includes birth-time reincarnation speculation; PS3 removes that sentence. MG retains it; UP follows PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-091","kind":"PC","description":"Patriotic service to country replaces PS3 service to someone.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[459,459],"MG":[459,459],"UP":[459,459]},"japanese":"「……同じ死ぬなら、誰かの役に立つべきと思った。","japanesePC":"「......同じ死ぬなら、御国の役に立つべきと思った。","japanesePS3":"「……同じ死ぬなら、誰かの役に立つべきと思った。","WH":"\"......I thought that if I was going to die anyway, I should try to be of some use to my country.","MG":"\"...I thought that if I was going to die anyway, I should try to be of some use to my country.","UP":"\"......I thought that if I was going to die anyway, I should try to be of some use to someone.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0459","readerRefs":{"WH":[],"MG":["umi7_3-L0459"],"UP":["umi7_3-L0459"]}}],"sourceReading":"Patriotic service to country replaces PS3 service to someone.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-092","kind":"PC","description":"Death for country retains PC patriotic purpose removed from PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[470,470],"MG":[470,470],"UP":[470,470]},"japanese":"戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。","japanesePC":"「幸いと喜ぶ仲間もいたよ。私には逆だった。御国のために戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。","japanesePS3":"戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。","WH":"\"Some of the others were overjoyed at their luck.  It was the opposite for me.  I had only wanted to get drunk on the liquor known as dying for the sake of one's country.","MG":"I had only wanted to get drunk on the liquor known as dying for the sake of one's country.","UP":"My only desire was to get my hands on the intoxicating liquor of battle and drink myself to death.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0468","readerRefs":{"WH":[],"MG":["umi7_3-L0468"],"UP":["umi7_3-L0468"]}}],"sourceReading":"Death for country retains PC patriotic purpose removed from PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-093","kind":"PC","description":"Pearl Harbor retains PC named event where PS3 says start of war.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[490,490],"MG":[490,490],"UP":[490,490]},"japanese":"開戦時の勇ましさはどこへやら。","japanesePC":"真珠湾の勇ましさはどこへやら。","japanesePS3":"開戦時の勇ましさはどこへやら。","WH":"Where had the gallantry shown at Pearl Harbor gone?","MG":"Where had the gallantry shown at Pearl Harbor gone?","UP":"Where had the gallantry of the start of the war gone?","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0488","readerRefs":{"WH":[],"MG":["umi7_3-L0488"],"UP":["umi7_3-L0488"]}}],"sourceReading":"Pearl Harbor retains PC named event where PS3 says start of war.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-094","kind":"PC","description":"Manned Kaiten torpedo retains PC weapon specifics generalized in PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[492,492],"MG":[492,492],"UP":[492,492]},"japanese":"当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。","japanesePC":"当時、日本海軍の最後の切り札と呼ばれたのは、回天と呼ばれる人間魚雷だった。","japanesePS3":"当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。","WH":"At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten.","MG":"At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten.","UP":"At that time, it was said that the final trump cards for the Japanese military were the so‐called \"special attack weapons\".","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0488","readerRefs":{"WH":[],"MG":["umi7_3-L0488"],"UP":["umi7_3-L0488"]}}],"sourceReading":"Manned Kaiten torpedo retains PC weapon specifics generalized in PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-095","kind":"PC","description":"Kaiten-loaded submarines retain PC weapon specifics; geographic canonical011 remains separate.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[496,496],"MG":[496,496],"UP":[496,496]},"japanese":"八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。","japanesePC":"海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、回天搭載潜水艦の秘密基地建造計画を立案する。","japanesePS3":"八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。","WH":"To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.","MG":"the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.","UP":"the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0488","readerRefs":{"WH":[],"MG":["umi7_3-L0488"],"UP":["umi7_3-L0488"]}}],"sourceReading":"Kaiten-loaded submarines retain PC weapon specifics; geographic canonical011 remains separate.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-096","kind":"PC","description":"Kaiten base retains PC weapon name generalized in PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[497,497],"MG":[497,497],"UP":[497,497]},"japanese":"「八丈島に基地が作られたことは知っていました。","japanesePC":"「八丈島に回天の基地が作られたことは知っていました。しかしそれが、六軒島にもあったなんて......。」","japanesePS3":"「八丈島に基地が作られたことは知っていました。","WH":"\"I knew that there was a Kaiten base constructed on Hachijo Island, but was there actually one on Rokkenjima too......?\"","MG":"\"I knew that there was a Kaiten base constructed on Hachijo Island,","UP":"\"I knew that there was a base constructed on Hachijojima.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0497","readerRefs":{"WH":[],"MG":["umi7_3-L0497"],"UP":["umi7_3-L0497"]}}],"sourceReading":"Kaiten base retains PC weapon name generalized in PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-097","kind":"PC","description":"Kaiten retains PC weapon name removed from PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[503,503],"MG":[503,503],"UP":[503,503]},"japanese":"大型艦船を一撃で葬れるそれはまさに、必殺の兵器。","japanesePC":"大型艦船を一撃で葬れる回天はまさに、必殺の兵器。","japanesePS3":"大型艦船を一撃で葬れるそれはまさに、必殺の兵器。","WH":"The Kaiten, which could finish off a large warship with a single strike, truly was an ultimate weapon.","MG":"The Kaiten, which could finish off a large warship with a single strike, truly was an ultimate weapon.","UP":"These truly were ultimate weapons, able to take down large warships in a single strike.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0503","readerRefs":{"WH":[],"MG":["umi7_3-L0503"],"UP":["umi7_3-L0503"]}}],"sourceReading":"Kaiten retains PC weapon name removed from PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-098","kind":"PC","description":"Kaiten torpedo retains PC weapon name generalized in PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[514,514],"MG":[514,514],"UP":[514,514]},"japanese":"当時の日本に、そいつを積めるほどの大型潜水艦はもう、残っていなかったのよ。","japanesePC":"「わっははははっはっは！　当時の日本に、回天を積めるほどの大型潜水艦はもう、残っていなかったのよ。滑稽な話だ。潜水艦もないのに、潜水艦基地など今さら、必要なものか。役人の無意味な箱物作りは、今も昔も変わらぬわ。」","japanesePS3":"当時の日本に、そいつを積めるほどの大型潜水艦はもう、残っていなかったのよ。","WH":"\"Wahahahahaha!  Because at that time, Japan no longer had any submarines large enough to transport a Kaiten torpedo.  How truly laughable.  What's the point in having a submarine base if there aren't any submarines left?  If there's one thing that never changes, it's politicians and their meaningless projects.\"","MG":"Because at that time, Japan no longer had any submarines large enough to transport a Kaiten torpedo.","UP":"Because at that time, Japan no longer had any submarines large enough to carry one of those weapons.","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0513","readerRefs":{"WH":[],"MG":["umi7_3-L0513"],"UP":["umi7_3-L0513"]}}],"sourceReading":"Kaiten torpedo retains PC weapon name generalized in PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"PC-MATERIAL-099","kind":"PC","description":"Kaiten deployment retains PC weapon name generalized in PS3.","categories":[],"severity":null,"editions":["MG"],"inherited":false,"contexts":[{"chapter":"umi7_3","episode":7,"rows":{"JP":[518,518],"MG":[518,518],"UP":[518,518]},"japanese":"八丈島の基地には、実際に配備され、直接出撃する基地となったが、","japanesePC":"八丈島の基地には、回天が配備され、直接出撃する基地となったが、六軒島には配備されなかった。","japanesePS3":"八丈島の基地には、実際に配備され、直接出撃する基地となったが、","WH":"The base on Hachijo Island was outfitted with Kaiten torpedoes and became a base for direct attacks, but Rokkenjima was never supplied with any.","MG":"The base on Hachijo Island was outfitted with Kaiten torpedoes and became a base for direct attacks,","UP":"The base on Hachijojima was actually outfitted with those weapons and became a base for direct attacks,","note":"","dispositions":{"MG":"retained_original_PC_material","UP":"follows_PS3"},"readerRef":"umi7_3-L0518","readerRefs":{"WH":[],"MG":["umi7_3-L0518"],"UP":["umi7_3-L0518"]}}],"sourceReading":"Kaiten deployment retains PC weapon name generalized in PS3.","alternative":"","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH03-001",
+      "kind": "WH",
+      "description": "Impartial listening becomes open listening.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.relationship_power",
+        "mystery.truth_authority"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              34,
+              34
+            ],
+            "MG": [
+              34,
+              34
+            ],
+            "UP": [
+              34,
+              34
+            ]
+          },
+          "japanese": "お前の物語を公正に聞き、残すことが出来る。",
+          "japanesePC": "「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう。」",
+          "japanesePS3": "お前の物語を公正に聞き、残すことが出来る。",
+          "WH": "\"Because I am no one, I can listen to your tale openly and record it.  You will probably leave this world before too long.  If you die without telling anything about Beatrice, your children will adorn Beatrice with whatever tale they like, and write that into their memories.\"",
+          "MG": "I can listen to your tale impartially and record it.",
+          "UP": "I can listen to your tale without bias and record it.",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_3-L0033",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0033"
+            ],
+            "MG": [
+              "umi7_3-L0033"
+            ],
+            "UP": [
+              "umi7_3-L0033"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」",
+              "translation": "\"Because I'm no one, I can listen to your tale impartially and record it. You'll probably leave this world before too long. If you die without telling anyone anything about Beatrice, your children will adorn Beatrice with whatever tale they please, writing that into their memories.\" "
+            },
+            "UP": {
+              "japanese": "「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」",
+              "translation": "\"Because I am no one, I can listen to your tale without bias and record it. You will probably leave this world before too long. If you die without telling anything about Beatrice, your children will adorn her with their own fanciful tales and write them into history.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0033"
+            ],
+            "MG": [
+              "umi7_3-L0033"
+            ],
+            "UP": [
+              "umi7_3-L0033"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will says being an unconnected outsider lets him hear and preserve Kinzo’s tale fairly or impartially.",
+      "alternative": "Openly can suggest receptiveness, but does not state 公正, fairness or impartiality. Lack of personal connection is offered as the reason for that impartiality.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-002",
+      "kind": "WH",
+      "description": "Leaving a record becomes writing into memories.",
+      "categories": [
+        "linguistic.word_choice",
+        "mystery.information_timing_salience",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              37,
+              37
+            ],
+            "MG": [
+              37,
+              37
+            ],
+            "UP": [
+              37,
+              37
+            ]
+          },
+          "japanese": "お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」",
+          "japanesePC": "「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう。」",
+          "japanesePS3": "お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」",
+          "WH": "\"Because I am no one, I can listen to your tale openly and record it.  You will probably leave this world before too long.  If you die without telling anything about Beatrice, your children will adorn Beatrice with whatever tale they like, and write that into their memories.\"",
+          "MG": "your children will adorn Beatrice with whatever tale they please, writing that into their memories.\"",
+          "UP": "your children will adorn her with their own fanciful tales and write them into history.\"",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_3-L0033",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0033"
+            ],
+            "MG": [
+              "umi7_3-L0033"
+            ],
+            "UP": [
+              "umi7_3-L0033"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」",
+              "translation": "\"Because I'm no one, I can listen to your tale impartially and record it. You'll probably leave this world before too long. If you die without telling anyone anything about Beatrice, your children will adorn Beatrice with whatever tale they please, writing that into their memories.\" "
+            },
+            "UP": {
+              "japanese": "「俺が、誰でもないからこそ。お前の物語を公正に聞き、残すことが出来る。お前は直にこの世を去るだろう。その時、ベアトリーチェのことを何も語らずに死んだなら、お前の子供たちは、彼らが好き勝手に考えた物語でベアトリーチェを修飾し、記録に残すだろう」",
+              "translation": "\"Because I am no one, I can listen to your tale without bias and record it. You will probably leave this world before too long. If you die without telling anything about Beatrice, your children will adorn her with their own fanciful tales and write them into history.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0033"
+            ],
+            "MG": [
+              "umi7_3-L0033"
+            ],
+            "UP": [
+              "umi7_3-L0033"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "If Kinzo dies silent, his children will decorate Beatrice with tales of their own choosing and leave those tales in records.",
+      "alternative": "Write that into their memories can metaphorically mean remembering, but 記録に残す explicitly says leaving a record. It is the reason Will offers to preserve Kinzo’s own account before his death.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-003",
+      "kind": "WH",
+      "description": "Kinzo and Beatrice’s shared tale becomes Kinzo and a tale.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.relationship_power",
+        "mystery.mystery_character_link"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              44,
+              44
+            ],
+            "MG": [
+              44,
+              44
+            ],
+            "UP": [
+              44,
+              44
+            ]
+          },
+          "japanese": "私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！",
+          "japanesePC": "「だが、それは余計なお世話というものよ。ベアトリーチェは、私だけのベアトリーチェだ。誰が何を語ろうとも、私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！　蔵臼たちがどう曲解しようとも、痛くも痒くもないわッ。」",
+          "japanesePS3": "私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！",
+          "WH": "\"But that is none of your business.  Beatrice is mine alone.  No matter what anyone says, no one can defile me and that tale.  What they say is of no consequence!  No matter how Krauss and the others misconstrue it, it will not be painful or vexing for me.\"",
+          "MG": "no one can defile our tale. What they say is of no consequence!",
+          "UP": "no one can defile our story. What they say is of no consequence!",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_3-L0038",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0038"
+            ],
+            "MG": [
+              "umi7_3-L0038"
+            ],
+            "UP": [
+              "umi7_3-L0038"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「ふ、はっはははははははは！　面白い若造だ。お前は遺言屋を気取ろうというわけか！」「だが、それは余計なお世話というものよ。ベアトリーチェは、私だけのベアトリーチェだ。誰が何を語ろうとも、私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！　蔵臼たちがどう曲解しようとも、痛くも痒くもないわッ」",
+              "translation": "\"Pft, hahahahahahahahahaha! You entertain me, boy. Do you plan on writing my will for me?!\" \"But that is none of your business. Beatrice is mine alone. No matter what other people say, no one can defile our tale. What they say is of no consequence! No matter how Krauss and the others misconstrue it, it will be neither painful nor vexing to me.\" "
+            },
+            "UP": {
+              "japanese": "「ふ、はっはははははははは！　面白い若造だ。お前は遺言屋を気取ろうというわけか！」「だが、それは余計なお世話というものよ。ベアトリーチェは、私だけのベアトリーチェだ。誰が何を語ろうとも、私とあれの物語は、誰にも汚せぬ。何の意味も持たぬ！　蔵臼たちがどう曲解しようとも、痛くも痒くもないわッ」",
+              "translation": "\"Pft, hahahahahahahahahaha! You entertain me, boy. You think yourself a testament taker?!\" \"But that is wholly unnecessary. Beatrice is mine alone. No matter what anyone says, no one can defile our story. What they say is of no consequence! No matter how Krauss and the others misconstrue it, it matters nothing to me!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0038"
+            ],
+            "MG": [
+              "umi7_3-L0038"
+            ],
+            "UP": [
+              "umi7_3-L0038"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo says no one can defile the story belonging to him and Beatrice, whatever others say.",
+      "alternative": "No one can defile me and that tale makes Kinzo himself and a tale two objects of defilement. 私とあれの物語 means the tale of me and her, placing their joint story at the center.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-004",
+      "kind": "WH",
+      "description": "Living through his love becomes living because of her love.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.motivation_emotion",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              57,
+              59
+            ],
+            "MG": [
+              57,
+              59
+            ],
+            "UP": [
+              57,
+              59
+            ]
+          },
+          "japanese": "「どうか、迷える私たちのために、\n如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。\n……その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか…」",
+          "japanesePC": "どうか、迷える私たちのために、如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。......その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか...。」",
+          "japanesePS3": "「どうか、迷える私たちのために、\n如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。\n……その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか…」",
+          "WH": "Please guide our wandering souls and tell us just how much you loved her, Grandfather.  How you were able to live so strongly because of her love.  ......Can I not ask for you to guide us by showing us the strength of that love...?\"",
+          "MG": "Please guide our wandering souls and tell us just how much you loved her, Grandfather.\nHow you were able to live through everything you faced because of her love.\n...I only ask for you to guide us by showing us that love's strength...\"",
+          "UP": "\"Please, for the sake of us wandering souls,\nmay we learn of how you loved her to the last, how your love for her guided you through life,\n......and the strength of your love for her, so that your story might guide us through our own lives...?\"",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_3-L0055",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0055"
+            ],
+            "MG": [
+              "umi7_3-L0055"
+            ],
+            "UP": [
+              "umi7_3-L0055"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……当主様が、ベアトリーチェさまのことを、深く深く愛しておられたことは存じ上げております。私たちにとって、当主様は最大の尊敬の対象であるとともに、生きる全ての模範です」「どうか、迷える私たちのために、如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。……その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか…」",
+              "translation": "\"...We know how deeply you loved Beatrice-sama. You are the model most worthy of respect that any of us know, and an example for us to follow in every aspect of our lives. Please guide our wandering souls and tell us just how much you loved her, Grandfather. How you were able to live through everything you faced because of her love. ...I only ask for you to guide us by showing us that love's strength...\" "
+            },
+            "UP": {
+              "japanese": "「……当主様が、ベアトリーチェさまのことを、深く深く愛しておられたことは存じ上げております。私たちにとって、当主様は最大の尊敬の対象であるとともに、生きる全ての模範です」「どうか、迷える私たちのために、如何にしてお祖父さまが彼女を愛し抜いたか。愛ゆえに生き抜いたか。……その愛の強さを、私たちにお導き下さるようお願いすることは出来ないでしょうか…」",
+              "translation": "\"......We know how deeply you loved Beatrice‐sama. You are the model most worthy of respect that any of us know, and an example for us to follow in every aspect of our lives.\" \"Please, for the sake of us wandering souls, may we learn of how you loved her to the last, how your love for her guided you through life, ......and the strength of your love for her, so that your story might guide us through our own lives...?\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0055"
+            ],
+            "MG": [
+              "umi7_3-L0055"
+            ],
+            "UP": [
+              "umi7_3-L0055"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Lion asks how Kinzo loved Beatrice through to the end and lived on because of that love, so its strength can guide them.",
+      "alternative": "Her love assigns Beatrice as the source of sustaining affection, whereas the linked source clauses concern how Grandfather loved her and persisted through that love. How much you loved her also weakens 愛し抜いた’s enduring-through force.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-005",
+      "kind": "WH",
+      "description": "Genji’s lie becomes something that may have been a lie.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "mystery.epistemic_status",
+        "character.knowledge_boundary"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              105,
+              105
+            ],
+            "MG": [
+              105,
+              105
+            ],
+            "UP": [
+              105,
+              105
+            ]
+          },
+          "japanese": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。",
+          "japanesePC": "「それは嘘なわけだが、ある意味で金蔵の腹心らしい、模範的な返答でもある。......何しろ、金蔵にとってその娘は、生まれ変わりであって、",
+          "japanesePS3": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。",
+          "WH": "\"That may have been a lie, but in a way, it was a perfect sort of answer for one of Kinzo's confidants.  ......After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\"",
+          "MG": "\"That may have been a lie, but in a way, it was a model answer for one of Kinzo's confidants.",
+          "UP": "\"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants.",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "retained_PC_derived_source_changed",
+            "UP": "corrected_against_PS3_source_by_edition_change"
+          },
+          "readerRef": "umi7_3-L0105",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-03-V002"
+            ],
+            "MG": [
+              "umi7_3-L0105"
+            ],
+            "UP": [
+              "umi7_3-L0105"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。……何しろ、金蔵にとってその娘は、生まれ変わりであって、娘ではないんだからな。」",
+              "translation": "\"That may have been a lie, but in a way, it was a model answer for one of Kinzo's confidants. ...After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\""
+            },
+            "UP": {
+              "japanese": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。……何しろ、金蔵にとってその娘は、生まれ変わりであって、娘ではないんだからな。」",
+              "translation": "\"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants. ......After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-03-V002"
+            ],
+            "MG": [
+              "umi7_3-L0105"
+            ],
+            "UP": [
+              "umi7_3-L0105"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will states that Genji’s earlier answer was a lie, while explaining why it suited Kinzo’s confidant.",
+      "alternative": "May have been softens an explicit それは嘘なわけだ into uncertainty. The source distinguishes a lie from its being a fitting answer in a particular sense; it does not express doubt that it was a lie.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-006",
+      "kind": "WH",
+      "description": "Making the daughter an object of obsession is omitted.",
+      "categories": [
+        "linguistic.omission",
+        "character.agency_responsibility",
+        "character.relationship_power",
+        "mystery.mystery_character_link"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              171,
+              174
+            ],
+            "MG": [
+              171,
+              174
+            ],
+            "UP": [
+              171,
+              174
+            ]
+          },
+          "japanese": "しかし心のどこかで、\n……ベアトリーチェとは異なる別人に、\n自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、\n良心の呵責もあったのかもしれない。",
+          "japanesePC": "しかし心のどこかで、\n......ベアトリーチェとは異なる別人に、自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、良心の呵責もあったのかもしれない。",
+          "japanesePS3": "しかし心のどこかで、\n……ベアトリーチェとは異なる別人に、\n自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、\n良心の呵責もあったのかもしれない。",
+          "WH": "However, somewhere in his heart,\n......he might have felt pangs of conscience, telling him that he might be forcing his emotions on someone who wasn't really Beatrice.",
+          "MG": "However, somewhere in his heart,\n...he might have felt ...\npangs of conscience,\ntelling him that he might be forcing his emotions on someone who wasn't really Beatrice.",
+          "UP": "However, somewhere in his heart,\n......he might have felt...\n...pangs of conscience,\ntelling him that he might be forcing his emotions on someone who wasn't really Beatrice.",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_3-L0167",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0167"
+            ],
+            "MG": [
+              "umi7_3-L0167"
+            ],
+            "UP": [
+              "umi7_3-L0167"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "金蔵は目頭を押さえながら、しばらくの間、静かに咽び泣いた…。愛ゆえに、生まれ変わりと信じ、育てた。しかし心のどこかで、……ベアトリーチェとは異なる別人に、自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、良心の呵責もあったのかもしれない。そして九羽鳥庵のベアトリーチェは、偶然の来客、楼座を迎える。どうしても自分が、金蔵の求めるベアトリーチェだと思えない彼女は、自分の存在を理解できず苦しみ、外の世界へ逃れることを望む。そして、…………崖より転落して、死ぬ。",
+              "translation": "Kinzo sobbed quietly for a while, wiping away his tears... Because of love, he believed she was Beatrice reborn... and raised her that way. However, somewhere in his heart, ...he might have felt ... pangs of conscience, telling him that he might be forcing his emotions on someone who wasn't really Beatrice. Then, the Beatrice of Kuwadorian had an unexpected guest, Rosa. That woman simply couldn't believe that she was the Beatrice Kinzo desired. She couldn't stand the fact that she didn't understand who she was, and she wanted to escape to the outside world. Then, ......she fell from the cliff...and died. "
+            },
+            "UP": {
+              "japanese": "金蔵は目頭を押さえながら、しばらくの間、静かに咽び泣いた…。愛ゆえに、生まれ変わりと信じ、育てた。しかし心のどこかで、……ベアトリーチェとは異なる別人に、自分だけの想いを強いて、妄執の慰み者にしてしまっているかもしれないという、良心の呵責もあったのかもしれない。そして九羽鳥庵のベアトリーチェは、偶然の来客、楼座を迎える。どうしても自分が、金蔵の求めるベアトリーチェだと思えない彼女は、自分の存在を理解できず苦しみ、外の世界へ逃れることを望む。そして、…………崖より転落して、死ぬ。",
+              "translation": "Kinzo sobbed quietly for a while, wiping away his tears... Because of love, he believed she was Beatrice reborn, and raised her that way. However, somewhere in his heart, ......he might have felt... ...pangs of conscience, telling him that he might be forcing his emotions on someone who wasn't really Beatrice. Then, the Beatrice of Kuwadorian had an unexpected guest, Rosa. Unable to believe that she was the Beatrice that Kinzo desired, and suffering from her inability to understand who she was, she expressed a desire to escape to the outside world. Then, ............she fell from the cliff...and died."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0167"
+            ],
+            "MG": [
+              "umi7_3-L0167"
+            ],
+            "UP": [
+              "umi7_3-L0167"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narration suggests Kinzo may have had pangs of conscience that he might be forcing his own feelings on another person and making her an object of gratification for his obsession.",
+      "alternative": "The English retains both levels of uncertainty and the forcing of emotions, but omits 妄執の慰み者にしてしまっている, the possible exploitation as an object serving obsession. Forced emotions does not carry the whole omitted claim.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-007",
+      "kind": "WH",
+      "description": "Embracing twice becomes two deaths in his arms.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.space_time_continuity",
+        "mystery.physical_constraint"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              200,
+              201
+            ],
+            "MG": [
+              200,
+              201
+            ],
+            "UP": [
+              200,
+              201
+            ]
+          },
+          "japanese": "……私は二度も抱き締めながら、\n……なぜに二度も死すのか？！」",
+          "japanesePC": "なぜに！！\nなぜに二度までも私の前から去るのか？！　お前の微笑みを、\nその美しい髪を、\n瞳を、\n......私は二度も抱き締めながら、\n......なぜに二度も死すのか？！」",
+          "japanesePS3": "……私は二度も抱き締めながら、\n……なぜに二度も死すのか？！」",
+          "WH": "Why did you leave me twice?!  Your smile,\nthat beautiful hair,\nthose eyes...\n...why did you die in my arms not once but twice?!\"",
+          "MG": "...Why did you die in my arms not once\nbut twice?!\"",
+          "UP": "......Why did you die in my arms not once,\n......but twice?!\"",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_3-L0193",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0193"
+            ],
+            "MG": [
+              "umi7_3-L0193"
+            ],
+            "UP": [
+              "umi7_3-L0193"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「おぉおおおおぉぉお！！　ベアトリーチェぇええぇ、ベアトリーチェぇえええ！！　なぜに！！　なぜに二度までも私の前から去るのか？！　お前の微笑みを、その美しい髪を、瞳を、……私は二度も抱き締めながら、……なぜに二度も死すのか？！」「それほどまでに、……それほどまでに私を…、……おおぉおおぉお、おおおおおぉおおおぉぉぉぉ…ぉ…」",
+              "translation": "\"Oooooooooohhhh!! Beatriiiiiiiice, Beatriiiiiiice!! Why?!! Why did you leave me twice?! Your smile, that beautiful hair, those eyes... ...Why did you die in my arms not once but twice?!\" \"Is that how much... ...how much you... ...ooooooohhhh, oooooooooooooooooooooooohhhh...oohhh...\" "
+            },
+            "UP": {
+              "japanese": "「おぉおおおおぉぉお！！　ベアトリーチェぇええぇ、ベアトリーチェぇえええ！！　なぜに！！　なぜに二度までも私の前から去るのか？！　お前の微笑みを、その美しい髪を、瞳を、……私は二度も抱き締めながら、……なぜに二度も死すのか？！」「それほどまでに、……それほどまでに私を…、……おおぉおおぉお、おおおおおぉおおおぉぉぉぉ…ぉ…」",
+              "translation": "\"Oooooooooohhhh!! Beatriceeeeee, Beatriceeeeee!! Why?!! Why did you leave me twice?! Your smile, that beautiful hair, those eyes... ......Why did you die in my arms not once, ......but twice?!\" \"Is that how much... ...how much you... ......ooo{-o{-o{-o{-ohhhh, oo{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-o{-oohhhh...oohhh...\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0193"
+            ],
+            "MG": [
+              "umi7_3-L0193"
+            ],
+            "UP": [
+              "umi7_3-L0193"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo asks why she left him twice: he embraced her smile, hair and eyes twice, yet she died twice.",
+      "alternative": "The Japanese joins embracing and dying without locating the deaths in his arms. The English adds that location for both deaths, despite the preceding daughter’s death account describing a cliff fall witnessed by Rosa.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-008",
+      "kind": "WH",
+      "description": "Receiving a father’s love becomes accepting it.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.agency_responsibility",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              254,
+              254
+            ],
+            "MG": [
+              254,
+              254
+            ],
+            "UP": [
+              254,
+              254
+            ]
+          },
+          "japanese": "……ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。",
+          "japanesePC": "......ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。しかし時に。ご自身に理解できぬ愛を強いられていたことは、否定できません。」",
+          "japanesePS3": "……ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。",
+          "WH": "......Beatrice-sama probably accepted her father's love.  However, I will not deny that she was sometimes forced to bear a love she didn't understand.\"",
+          "MG": "...Beatrice-sama probably accepted her father's love.",
+          "UP": "......Beatrice‐sama probably accepted her father's love.",
+          "note": "Complete source-first three-witness review in durable reports; parent verified91/105/114/248. MG reflows57–59,148–149,268–270 matched collectively.105 lie commentary derives from PC but PS3 removes judgment; canonical original-PC uncertainty error remains separately identified, not new PS3 defect. UP188 daughter ellipsis and MG142 inferential must held. No whole-work identity claim.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_3-L0252",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0252"
+            ],
+            "MG": [
+              "umi7_3-L0252"
+            ],
+            "UP": [
+              "umi7_3-L0252"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「おや。そう聞こえたなら、申し訳ございません。……ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。しかし時に。ご自身に理解できぬ愛を強いられていたことは、否定できません」",
+              "translation": "\"Oho. If it sounded that way, my apologies. ...Beatrice-sama probably accepted her father's love. However, I will not deny that she was sometimes forced to bear a love she didn't understand.\" "
+            },
+            "UP": {
+              "japanese": "「おや。そう聞こえたなら、申し訳ございません。……ベアトリーチェさまは、父からの愛は一身に受けられていたでしょう。しかし時に。ご自身に理解できぬ愛を強いられていたことは、否定できません」",
+              "translation": "\"Oho. If it sounded that way, my apologies. ......Beatrice‐sama probably accepted her father's love. However, I will not deny... that she was sometimes forced to bear a love she didn't understand.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0252"
+            ],
+            "MG": [
+              "umi7_3-L0252"
+            ],
+            "UP": [
+              "umi7_3-L0252"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kumasawa says Beatrice probably received all of her father’s love, but at times was forced to bear a love she did not understand.",
+      "alternative": "Accepted her father’s love can imply willing assent, whereas 一身に受けられていた describes being the recipient. The contrast concerns receiving affection versus being subjected to incomprehensible affection, not consent followed by exceptions.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-009",
+      "kind": "WH",
+      "description": "Developing bad drinking habits becomes drinking bad drinks.",
+      "categories": [
+        "linguistic.word_choice",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              405,
+              405
+            ],
+            "MG": [
+              405,
+              405
+            ],
+            "UP": [
+              405,
+              405
+            ]
+          },
+          "japanese": "……悪い酒と薔薇いじりを覚えただけ。",
+          "japanesePC": "私はぼんやりと、好きな洋書を漁り、自分だけの世界に閉じ篭り、......悪い酒と薔薇いじりを覚えただけ。",
+          "japanesePS3": "……悪い酒と薔薇いじりを覚えただけ。",
+          "WH": "I remember nothing but lazily flipping through Western books I liked, locking myself in my own world, ......doing nothing but playing with roses and drinking terrible drinks.",
+          "MG": "...doing nothing but playing with roses and drinking terrible drinks.",
+          "UP": "......doing nothing but playing with roses and drinking terrible drinks.",
+          "note": "Continuous source-first three-witness review with boundary context in saved reports; parent verified all named military carryover rows against changed PS3 wording. Exact PC provenance reported; yellow notes excluded from defects. UP373 heir replaces already installed family head, distinct from Lion’s prospective succession371; originalPC132022–132024 and MG retain head. UP520 cancelled contextually supported by abandoned project511/521–524; held.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_3-L0386",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0386"
+            ],
+            "MG": [
+              "umi7_3-L0386"
+            ],
+            "UP": [
+              "umi7_3-L0386"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "気付けばもう、自らを若者と呼べば、若者たちに笑われそうになる歳になっていた。気が遠くなるような、長くても何も中身のない灰色の日々。それは２０年にも及んだ。２０年あれば、人は生まれ、志を持ち、社会へ飛び出すことさえ出来る。つまり、……社会人となって初めて人間と呼べるのだとしたら。私は、人間が一人、生み出せるほどの膨大な時間を、……何もすることなく、欲深な老人たちの人形として過ごしてきたわけだ。そんな日々は、体を老いさせても、皮肉にも、心は老いさせない。心だけは、小田原に呼び出される直前の、……あの充実した日々を懐かしむ、若いまま。なのに体だけは老いを重ね、いつしか、その乖離は理解し難いほどにまで広がった。だから、鏡に映る、疲れ切った男が、とても自分と思えない。いや、本当に自分ではないのだ。右代宮家当主などとは、名ばかり。何の権限もない。自主性も必要ない。余計なことをする必要もない。ひな壇に飾られたまま、埃を積もらせ、……ただただじっとしているだけの、お人形。私はぼんやりと、好きな洋書を漁り、自分だけの世界に閉じ篭り、……悪い酒と薔薇いじりを覚えただけ。",
+              "translation": "Before I realized it, I had reached an age at which the young would laugh at me if I tried to call myself young. That dizzyingly long stretch of gray was left completely empty. It lasted for a full 20 years. In 20 years, a person can be born, find a purpose, and even become their own man with their own place in the world. In short, ...if one truly becomes a human only when they have become a working adult... Then I spent a period of time long enough to create a human... doing nothing but playing the part of those greedy elders' puppet. Ironically, though that time aged my body, it did not age my mind. My mind alone... was still as young as it had been during those rich, happy days before I was summoned to Odawara. And yet, my body alone grew older and older. Eventually, the vast gap between the two reached almost incomprehensible levels. So, I could hardly believe that the worn-out man in the mirror was really me. No, it really wasn't me. The \"Head of the Ushiromiya family\" was just a name. It had no power. It didn't require that I have any independence. There was no need for me to get involved with anything. I was just a doll sitting there on the doll rack, gathering dust. I remember nothing but lazily flipping through Western books I liked, locking myself up inside my own world, ...doing nothing but playing with roses and drinking terrible drinks. "
+            },
+            "UP": {
+              "japanese": "気付けばもう、自らを若者と呼べば、若者たちに笑われそうになる歳になっていた。気が遠くなるような、長くても何も中身のない灰色の日々。それは２０年にも及んだ。２０年あれば、人は生まれ、志を持ち、社会へ飛び出すことさえ出来る。つまり、……社会人となって初めて人間と呼べるのだとしたら。私は、人間が一人、生み出せるほどの膨大な時間を、……何もすることなく、欲深な老人たちの人形として過ごしてきたわけだ。そんな日々は、体を老いさせても、皮肉にも、心は老いさせない。心だけは、小田原に呼び出される直前の、……あの充実した日々を懐かしむ、若いまま。なのに体だけは老いを重ね、いつしか、その乖離は理解し難いほどにまで広がった。だから、鏡に映る、疲れ切った男が、とても自分と思えない。いや、本当に自分ではないのだ。右代宮家当主などとは、名ばかり。何の権限もない。自主性も必要ない。余計なことをする必要もない。ひな壇に飾られたまま、埃を積もらせ、……ただただじっとしているだけの、お人形。私はぼんやりと、好きな洋書を漁り、自分だけの世界に閉じ篭り、……悪い酒と薔薇いじりを覚えただけ。",
+              "translation": "The next thing I knew, I had reached the age when I could no longer refer to myself as \"young\" without drawing laughter from those who were. They were long, dreary, gray days without any substance. And they lasted for a full twenty years. In twenty years, a person can be born, find a purpose, and even become their own man with their own place in the world. In short, .....if one truly becomes a human only when they have become a working adult... ...then I spent an amount of time long enough to create a human... ...doing nothing except playing the part of puppet to those greedy old men. Ironically, though that time aged my body, it did not age my mind. In my heart, I was still young, and I looked back fondly on the fulfilling days before I was summoned to Odawara. Only my body continued to age, and at some point, the gulf between the two had widened to the point that it was hard to comprehend. So, I could hardly believe that the worn‐out man in the mirror was really me. No, it really wasn't me. I was the \"head of the Ushiromiya family\" in name only. I had no rights, no autonomy. There was no need for me to do anything other than what was asked of me. I was just a doll sitting there on the shelf, gathering dust. I remember nothing but lazily flipping through Western books I liked, locking myself in my own world, ......doing nothing but playing with roses and drinking terrible drinks."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0386"
+            ],
+            "MG": [
+              "umi7_3-L0386"
+            ],
+            "UP": [
+              "umi7_3-L0386"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kinzo describes learning bad drinking habits and tending roses while retreating into his private world.",
+      "alternative": "Terrible drinks describes the quality of the beverages. In this account of a hollow life, 悪い酒 describes unhealthy drinking; 覚えた is developing the habit, not remembering the period.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-010",
+      "kind": "WH",
+      "description": "The elders stealing family assets becomes gathering scraps.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.agency_responsibility",
+        "world.world_fact"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              451,
+              451
+            ],
+            "MG": [
+              451,
+              451
+            ],
+            "UP": [
+              451,
+              451
+            ]
+          },
+          "japanese": "長老たちは、自分たちの寿命分程度には財産をくすねられたようで、",
+          "japanesePC": "その頃には、右代宮家は完全に没落しかかっており、長老たちは、自分たちの寿命分程度には財産をくすねられたようで、もはや用済みの私が何をしようと、関心はないようだった。",
+          "japanesePS3": "長老たちは、自分たちの寿命分程度には財産をくすねられたようで、",
+          "WH": "At that time, the Ushiromiya family had almost completely collapsed, and since the elders had apparently gathered enough of the scraps to last them the rest of their lives, they seemed to care little for what I did, now that they no longer had any use for me.",
+          "MG": "and since the elders had apparently gathered enough of the scraps to last them the rest of their lives,",
+          "UP": "and since the elders had apparently pilfered enough of the scraps to last them the rest of their lives,",
+          "note": "Continuous source-first three-witness review with boundary context in saved reports; parent verified all named military carryover rows against changed PS3 wording. Exact PC provenance reported; yellow notes excluded from defects. UP373 heir replaces already installed family head, distinct from Lion’s prospective succession371; originalPC132022–132024 and MG retain head. UP520 cancelled contextually supported by abandoned project511/521–524; held.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_3-L0441",
+          "readerRefs": {
+            "WH": [
+              "umi7_3-L0441"
+            ],
+            "MG": [
+              "umi7_3-L0441"
+            ],
+            "UP": [
+              "umi7_3-L0441"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "気付けば、世界は慌しくなっていた。第二次世界大戦。太平洋戦争。日本は東西に戦線を広げ過ぎ、その風向きは変わりつつあった。私は長老たちの働き掛けにより、徴兵が免除されていた。……もちろん慈悲ではない。彼らの大切なお人形だからだ。だから戦争を、それほど身近に感じていなかった。\nしかし、私が自らそれを返上したいと望めば、それはとても容易い。その頃には、右代宮家は完全に没落しかかっており、長老たちは、自分たちの寿命分程度には財産をくすねられたようで、もはや用済みの私が何をしようと、関心はないようだった。だから私は、ようやく、死ねる時を得たのだと悟った。私は自らを吊っていた糸を、一本一本、切り落とし、……死ねる場所を探し始めた。",
+              "translation": "Before I realized it, trouble was brewing in the world. World War II. The Pacific War. Japan had extended their war fronts too far to the East and West, and the tide of war was changing. Thanks to the influence of the elders, I was able to avoid conscription. ...Of course, this was not out of compassion for me. It was because I was their precious puppet. So, the war never really felt that close to me. However, when I personally decided to abandon their protection, it was very easy. At that time, the Ushiromiya family had almost completely collapsed, and since the elders had apparently gathered enough of the scraps to last them the rest of their lives, they seemed to care little for what I did, now that they no longer had any use for me. So, I realized that I had finally found my time to die. One by one, I cut the threads I was hanging from, ...and began to search ... for a place to end my life. "
+            },
+            "UP": {
+              "japanese": "気付けば、世界は慌しくなっていた。第二次世界大戦。太平洋戦争。日本は東西に戦線を広げ過ぎ、その風向きは変わりつつあった。私は長老たちの働き掛けにより、徴兵が免除されていた。……もちろん慈悲ではない。彼らの大切なお人形だからだ。だから戦争を、それほど身近に感じていなかった。\nしかし、私が自らそれを返上したいと望めば、それはとても容易い。その頃には、右代宮家は完全に没落しかかっており、長老たちは、自分たちの寿命分程度には財産をくすねられたようで、もはや用済みの私が何をしようと、関心はないようだった。だから私は、ようやく、死ねる時を得たのだと悟った。私は自らを吊っていた糸を、一本一本、切り落とし、……死ねる場所を探し始めた。",
+              "translation": "Before I realized it, the world had grown troubled. World War II. The Pacific War. Japan had extended their war fronts too far to the East and West, and the tide of war was changing. Thanks to the influence of the elders, I was able to avoid conscription. ......Of course, this was not out of compassion for me. It was because I was their precious puppet. So, the war never really felt that close to me.\nHowever, when I personally decided to abandon their protection, it was very easy. At that time, the Ushiromiya family had almost completely collapsed, and since the elders had apparently pilfered enough of the scraps to last them the rest of their lives, they seemed to care little for what I did, now that they no longer had any use for me. So, I realized that I had finally found my time to die. One by one, I cut the threads I was hanging from, ......and began to search... ...for a place to end my life."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_3-L0441"
+            ],
+            "MG": [
+              "umi7_3-L0441"
+            ],
+            "UP": [
+              "umi7_3-L0441"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The elders apparently pilfered enough assets to support themselves for the remainder of their lives, and no longer needed their puppet head.",
+      "alternative": "Gathered enough of the scraps retains the financial benefit but does not express the stealing in くすねる. Family decline alone does not establish that criminal agency.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH03-011",
+      "kind": "WH",
+      "description": "A base plan on a connecting line becomes a string of bases.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              496,
+              496
+            ],
+            "MG": [
+              496,
+              496
+            ],
+            "UP": [
+              496,
+              496
+            ]
+          },
+          "japanese": "八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+          "japanesePC": "海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、回天搭載潜水艦の秘密基地建造計画を立案する。",
+          "japanesePS3": "八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+          "WH": "To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.",
+          "MG": "the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.",
+          "UP": "the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons.",
+          "note": "Continuous source-first three-witness review with boundary context in saved reports; parent verified all named military carryover rows against changed PS3 wording. Exact PC provenance reported; yellow notes excluded from defects. UP373 heir replaces already installed family head, distinct from Lion’s prospective succession371; originalPC132022–132024 and MG retain head. UP520 cancelled contextually supported by abandoned project511/521–524; held.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_3-L0488",
+          "readerRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-03-V004"
+            ],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry shown at Pearl Harbor gone? The old attackers were now the ones on the defensive. At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten. It was said that these ultimate weapons, packed with 1.55 tons of explosives, were capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes. "
+            },
+            "UP": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry of the start of the war gone?\nThe old attackers were now the ones on the defensive. At that time, it was said that the final trump cards for the Japanese military were the so‐called \"special attack weapons\". It was said that these ultimate weapons were packed with 1.55 tons of explosives... and capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "PC-CANDIDATE-EP07-03-V004"
+            ],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The Navy planned construction of secret bases for Kaiten-carrying submarines on the line connecting Hachijo Island and Yokosuka.",
+      "alternative": "Japanese permits more than one base, particularly with the adjacent Hachijo and Rokkenjima examples; it does not describe a string extending from one endpoint to the other. The finding concerns added distribution, not singular versus plural.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH03-001-120-001",
+      "kind": "additional",
+      "description": "MG omits infinitive to in chose not call.",
+      "categories": [
+        "linguistic.grammar"
+      ],
+      "severity": "minor",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              91,
+              91
+            ],
+            "MG": [
+              91,
+              91
+            ],
+            "UP": [
+              91,
+              91
+            ]
+          },
+          "japanese": "……呼ばなかったのか、呼ぶことは許されなかったのか。",
+          "japanesePC": "",
+          "japanesePS3": "……呼ばなかったのか、呼ぶことは許されなかったのか。",
+          "WH": "",
+          "MG": "...She either chose not call you that, or she wasn't allowed to call you that.",
+          "UP": "......She either didn't call you that, or she wasn't allowed to call you that.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_3-L0087",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0087"
+            ],
+            "UP": [
+              "umi7_3-L0087"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「右代宮楼座は九羽鳥庵にて、多少の身の上話を交わしている。……その中で、ベアトリーチェはお前のことを指して、金蔵と呼んでいる。これはお前を前にしても同じだ」「彼女はお前を父と思っていると言ったにもかかわらず、父とは呼んでいなかった。……呼ばなかったのか、呼ぶことは許されなかったのか。それが意味することは、一つしかない」",
+              "translation": "\"When Ushiromiya Rosa went to Kuwadorian, Beatrice told her a little about herself. ...In that conversation, she referred to you as Kinzo. It was the same when she spoke to you directly. Though she said that she thought of you as a father, she didn't call you Father. ...She either chose not call you that, or she wasn't allowed to call you that. That can only mean one thing.\" "
+            },
+            "UP": {
+              "japanese": "「右代宮楼座は九羽鳥庵にて、多少の身の上話を交わしている。……その中で、ベアトリーチェはお前のことを指して、金蔵と呼んでいる。これはお前を前にしても同じだ」「彼女はお前を父と思っていると言ったにもかかわらず、父とは呼んでいなかった。……呼ばなかったのか、呼ぶことは許されなかったのか。それが意味することは、一つしかない」",
+              "translation": "\"When Ushiromiya Rosa went to Kuwadorian, Beatrice told her a little about herself. ......In that conversation, she referred to you as Kinzo. It was the same when she spoke to you directly.\" \"Though she said that she thought of you as a father, she didn't call you Father. ......She either didn't call you that, or she wasn't allowed to call you that. That can only mean one thing.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0087"
+            ],
+            "UP": [
+              "umi7_3-L0087"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Chose not to call requires to. OriginalPC131038–131040 and UP use grammatical did not call.",
+      "alternative": "Meaning is clear but chose does not license this bare infinitive.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH03-241-360-001",
+      "kind": "additional",
+      "description": "MG turns not merely a father-daughter relationship into denial of that relationship.",
+      "categories": [
+        "linguistic.omission",
+        "character.relationship_power"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              248,
+              248
+            ],
+            "MG": [
+              248,
+              248
+            ],
+            "UP": [
+              248,
+              248
+            ]
+          },
+          "japanese": "……それは親子としての関係だけでなく。",
+          "japanesePC": "",
+          "japanesePS3": "……それは親子としての関係だけでなく。",
+          "WH": "",
+          "MG": "...It was not a father-daughter relationship.",
+          "UP": "......It was not simply a father‐daughter relationship.",
+          "note": "",
+          "dispositions": {
+            "MG": "defect",
+            "UP": "correct"
+          },
+          "readerRef": "umi7_3-L0245",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0245"
+            ],
+            "UP": [
+              "umi7_3-L0245"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「お館様は、お時間の許す限り、九羽鳥庵へ通われました。時にはご出張と偽られ、何日も滞在され、ベアトリーチェさまとの生活を大切になさいました。……それは親子としての関係だけでなく。亡きベアトリーチェさまへの深い愛を垣間見れる、心温まるものでございましたとも」",
+              "translation": "\"The Master stayed in Kuwadorian as much as time allowed. He would sometimes pretend to go on a business trip and stay there for several days, treasuring the time he spent with Beatrice-sama. ...It was not a father-daughter relationship. You could sometimes catch a glimpse of his great love for the dead Beatrice-sama, and it was a heart-warming thing.\" "
+            },
+            "UP": {
+              "japanese": "「お館様は、お時間の許す限り、九羽鳥庵へ通われました。時にはご出張と偽られ、何日も滞在され、ベアトリーチェさまとの生活を大切になさいました。……それは親子としての関係だけでなく。亡きベアトリーチェさまへの深い愛を垣間見れる、心温まるものでございましたとも」",
+              "translation": "\"The Master stayed in Kuwadorian as much as time allowed. He would sometimes pretend to go on a business trip and stay there for several days, treasuring the time he spent with Beatrice‐sama. ......It was not simply a father‐daughter relationship. You could sometimes catch a glimpse of his great love for the late Beatrice‐sama, and it was a heart‐warming thing.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0245"
+            ],
+            "UP": [
+              "umi7_3-L0245"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "親子としての関係だけでなく means not only the parent-child relationship. MG drops simply from originalPC131558–131560 and categorically negates it; UP preserves not simply.",
+      "alternative": "Context suggests an additional romantic dimension, but the categorical denial removes the explicit not-only qualification.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PAIR-EP07-CH03-361-480-001",
+      "kind": "additional",
+      "description": "UP calls the already installed puppet family head a puppet heir.",
+      "categories": [
+        "linguistic.word_choice"
+      ],
+      "severity": "minor",
+      "editions": [
+        "UP"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              373,
+              373
+            ],
+            "MG": [
+              373,
+              373
+            ],
+            "UP": [
+              373,
+              373
+            ]
+          },
+          "japanese": "「操り人形の当主か。",
+          "japanesePC": "",
+          "japanesePS3": "「操り人形の当主か。",
+          "WH": "",
+          "MG": "\"A puppet for a Head...",
+          "UP": "\"A puppet heir, huh...",
+          "note": "",
+          "dispositions": {
+            "MG": "correct",
+            "UP": "defect"
+          },
+          "readerRef": "umi7_3-L0373",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0373"
+            ],
+            "UP": [
+              "umi7_3-L0373"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「操り人形の当主か。……気楽なものじゃねぇだろうな」",
+              "translation": "\"A puppet for a Head... ...I doubt that could've been easy.\" "
+            },
+            "UP": {
+              "japanese": "「操り人形の当主か。……気楽なものじゃねぇだろうな」",
+              "translation": "\"A puppet heir, huh... ...I doubt that could've been easy.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0373"
+            ],
+            "UP": [
+              "umi7_3-L0373"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "当主 identifies the family head in Kinzo’s retrospective account. UP heir confuses that held role with the future succession explicitly distinguished371. OriginalPC132022–132024 and MG preserve head.",
+      "alternative": "Heir can loosely denote a successor, but the surrounding account concerns his actual powerless tenure as head, not future inheritance.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-089",
+      "kind": "PC",
+      "description": "PC explicitly calls Genji’s response a lie; MG carries lie commentary into PS3 text that instead quotes his answer. Original WH uncertainty weakening remains a distinct original-PC finding.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              105,
+              105
+            ],
+            "MG": [
+              105,
+              105
+            ],
+            "UP": [
+              105,
+              105
+            ]
+          },
+          "japanese": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。",
+          "japanesePC": "「それは嘘なわけだが、ある意味で金蔵の腹心らしい、模範的な返答でもある。......何しろ、金蔵にとってその娘は、生まれ変わりであって、",
+          "japanesePS3": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。",
+          "WH": "\"That may have been a lie, but in a way, it was a perfect sort of answer for one of Kinzo's confidants.  ......After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\"",
+          "MG": "\"That may have been a lie, but in a way, it was a model answer for one of Kinzo's confidants.",
+          "UP": "\"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0105",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0105"
+            ],
+            "UP": [
+              "umi7_3-L0105"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。……何しろ、金蔵にとってその娘は、生まれ変わりであって、娘ではないんだからな。」",
+              "translation": "\"That may have been a lie, but in a way, it was a model answer for one of Kinzo's confidants. ...After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\""
+            },
+            "UP": {
+              "japanese": "「聞いたことがない……か、ある意味で金蔵の腹心らしい、模範的な返答と言える。……何しろ、金蔵にとってその娘は、生まれ変わりであって、娘ではないんだからな。」",
+              "translation": "\"‘I have not heard that’... In a way, it was a perfect sort of answer for one of Kinzo's confidants. ......After all, in Kinzo's eyes, she wasn't a daughter, but Beatrice reborn.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0105"
+            ],
+            "UP": [
+              "umi7_3-L0105"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC explicitly calls Genji’s response a lie; MG carries lie commentary into PS3 text that instead quotes his answer. Original WH uncertainty weakening remains a distinct original-PC finding.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-090",
+      "kind": "PC",
+      "description": "PC includes birth-time reincarnation speculation; PS3 removes that sentence. MG retains it; UP follows PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              114,
+              114
+            ],
+            "MG": [
+              114,
+              114
+            ],
+            "UP": [
+              114,
+              114
+            ]
+          },
+          "japanese": "死んでも、色褪せることなく永遠に」",
+          "japanesePC": "「冒涜じゃねぇ。推理だ。......だが、心は理解する。ベアトリーチェはお前にとって、最愛の女だった。死んでも、色褪せることなく永遠に。生まれた時から生まれ変わりだと思っていたわけじゃねぇだろう。」",
+          "japanesePS3": "死んでも、色褪せることなく永遠に」",
+          "WH": "\"This isn't slander.  It's reasoning.  ......However, I understand the heart.  In your eyes, Beatrice was the woman you loved most.  She remained that way even after death, for all eternity, and without fading in the slightest.  I doubt you thought of her as Beatrice reborn at the moment of her birth.\"",
+          "MG": "She remained that way even after death, for all eternity, and without fading in the slightest. I doubt you thought of her as Beatrice reborn at the moment of her birth.\"",
+          "UP": "She remained that way even after death, for all eternity, and without fading in the slightest.\"",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0110",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0110"
+            ],
+            "UP": [
+              "umi7_3-L0110"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「冒涜じゃねぇ。推理だ。……だが、心は理解する。ベアトリーチェはお前にとって、最愛の女だった。死んでも、色褪せることなく永遠に」「だが、美しい金髪に青い瞳を持ち、その面影を幼くして持ち合わせていたその娘に、お前は次第に生まれ変わりではないかと信じるようになったとしても、それはおかしいことじゃねェ」",
+              "translation": "\"This isn't slander. It's reasoning. ...However, I understand the heart. In your eyes, Beatrice was the woman you loved most. She remained that way even after death, for all eternity, and without fading in the slightest. I doubt you thought of her as Beatrice reborn at the moment of her birth.\" \"However, it wouldn't be strange if you slowly began to wonder whether that child, whose blue eyes and beautiful blonde hair reminded you of a younger Beatrice, might actually be Beatrice reborn.\" "
+            },
+            "UP": {
+              "japanese": "「冒涜じゃねぇ。推理だ。……だが、心は理解する。ベアトリーチェはお前にとって、最愛の女だった。死んでも、色褪せることなく永遠に」「だが、美しい金髪に青い瞳を持ち、その面影を幼くして持ち合わせていたその娘に、お前は次第に生まれ変わりではないかと信じるようになったとしても、それはおかしいことじゃねェ」",
+              "translation": "\"This isn't slander. It's reasoning. ......However, I understand the heart. Beatrice was the woman you loved most. She remained that way even after death, for all eternity, and without fading in the slightest.\" \"However, given the child's blue eyes, beautiful blonde hair, and facial features which resembled Beatrice from a young age, if you had gradually begun to think that she might actually be Beatrice reborn, that wouldn't be surprising.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0110"
+            ],
+            "UP": [
+              "umi7_3-L0110"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "PC includes birth-time reincarnation speculation; PS3 removes that sentence. MG retains it; UP follows PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-091",
+      "kind": "PC",
+      "description": "Patriotic service to country replaces PS3 service to someone.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              459,
+              459
+            ],
+            "MG": [
+              459,
+              459
+            ],
+            "UP": [
+              459,
+              459
+            ]
+          },
+          "japanese": "「……同じ死ぬなら、誰かの役に立つべきと思った。",
+          "japanesePC": "「......同じ死ぬなら、御国の役に立つべきと思った。",
+          "japanesePS3": "「……同じ死ぬなら、誰かの役に立つべきと思った。",
+          "WH": "\"......I thought that if I was going to die anyway, I should try to be of some use to my country.",
+          "MG": "\"...I thought that if I was going to die anyway, I should try to be of some use to my country.",
+          "UP": "\"......I thought that if I was going to die anyway, I should try to be of some use to someone.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0459",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0459"
+            ],
+            "UP": [
+              "umi7_3-L0459"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「……同じ死ぬなら、誰かの役に立つべきと思った。……いや、違うな。私には自らの命を絶つ気力さえなかったのだろう。もっともらしく死ねる理由が、戦争だったのだ」",
+              "translation": "\"...I thought that if I was going to die anyway, I should try to be of some use to my country. ...No, that's a lie. I probably just lacked the willpower to end my own life. War was a suitable excuse for death.\" "
+            },
+            "UP": {
+              "japanese": "「……同じ死ぬなら、誰かの役に立つべきと思った。……いや、違うな。私には自らの命を絶つ気力さえなかったのだろう。もっともらしく死ねる理由が、戦争だったのだ」",
+              "translation": "\"......I thought that if I was going to die anyway, I should try to be of some use to someone. ......No, that's a lie. I probably just lacked the willpower to end my own life. War was a suitable excuse for death.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0459"
+            ],
+            "UP": [
+              "umi7_3-L0459"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Patriotic service to country replaces PS3 service to someone.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-092",
+      "kind": "PC",
+      "description": "Death for country retains PC patriotic purpose removed from PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              470,
+              470
+            ],
+            "MG": [
+              470,
+              470
+            ],
+            "UP": [
+              470,
+              470
+            ]
+          },
+          "japanese": "戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。",
+          "japanesePC": "「幸いと喜ぶ仲間もいたよ。私には逆だった。御国のために戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。",
+          "japanesePS3": "戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。",
+          "WH": "\"Some of the others were overjoyed at their luck.  It was the opposite for me.  I had only wanted to get drunk on the liquor known as dying for the sake of one's country.",
+          "MG": "I had only wanted to get drunk on the liquor known as dying for the sake of one's country.",
+          "UP": "My only desire was to get my hands on the intoxicating liquor of battle and drink myself to death.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0468",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0468"
+            ],
+            "UP": [
+              "umi7_3-L0468"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「幸いと喜ぶ仲間もいたよ。私には逆だった。戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。……忘れられた島の上空を、米軍の編隊は横切っていくだけ。……彼らは私のために、爆弾一つどころか、鉛弾の一つさえ恵んではくれなかったのだよ」",
+              "translation": "\"Some of the others were overjoyed at their luck. It was the opposite for me. I had only wanted to get drunk on the liquor known as dying for the sake of one's country. ...The US planes did nothing but cut across the skies of that forgotten island. ...They didn't have even a bullet to spare for me, much less a bomb.\" "
+            },
+            "UP": {
+              "japanese": "「幸いと喜ぶ仲間もいたよ。私には逆だった。戦って死ぬという、出来すぎた美酒のヤケ酒が欲しかっただけなのだ。……忘れられた島の上空を、米軍の編隊は横切っていくだけ。……彼らは私のために、爆弾一つどころか、鉛弾の一つさえ恵んではくれなかったのだよ」",
+              "translation": "\"Some of the others were overjoyed at their luck. It was the opposite for me. My only desire was to get my hands on the intoxicating liquor of battle and drink myself to death. ......The US planes did nothing but cut across the skies of that forsaken island. ......They didn't have even a bullet to spare for me, much less a bomb.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0468"
+            ],
+            "UP": [
+              "umi7_3-L0468"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Death for country retains PC patriotic purpose removed from PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-093",
+      "kind": "PC",
+      "description": "Pearl Harbor retains PC named event where PS3 says start of war.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              490,
+              490
+            ],
+            "MG": [
+              490,
+              490
+            ],
+            "UP": [
+              490,
+              490
+            ]
+          },
+          "japanese": "開戦時の勇ましさはどこへやら。",
+          "japanesePC": "真珠湾の勇ましさはどこへやら。",
+          "japanesePS3": "開戦時の勇ましさはどこへやら。",
+          "WH": "Where had the gallantry shown at Pearl Harbor gone?",
+          "MG": "Where had the gallantry shown at Pearl Harbor gone?",
+          "UP": "Where had the gallantry of the start of the war gone?",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0488",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry shown at Pearl Harbor gone? The old attackers were now the ones on the defensive. At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten. It was said that these ultimate weapons, packed with 1.55 tons of explosives, were capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes. "
+            },
+            "UP": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry of the start of the war gone?\nThe old attackers were now the ones on the defensive. At that time, it was said that the final trump cards for the Japanese military were the so‐called \"special attack weapons\". It was said that these ultimate weapons were packed with 1.55 tons of explosives... and capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Pearl Harbor retains PC named event where PS3 says start of war.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-094",
+      "kind": "PC",
+      "description": "Manned Kaiten torpedo retains PC weapon specifics generalized in PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              492,
+              492
+            ],
+            "MG": [
+              492,
+              492
+            ],
+            "UP": [
+              492,
+              492
+            ]
+          },
+          "japanese": "当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。",
+          "japanesePC": "当時、日本海軍の最後の切り札と呼ばれたのは、回天と呼ばれる人間魚雷だった。",
+          "japanesePS3": "当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。",
+          "WH": "At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten.",
+          "MG": "At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten.",
+          "UP": "At that time, it was said that the final trump cards for the Japanese military were the so‐called \"special attack weapons\".",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0488",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry shown at Pearl Harbor gone? The old attackers were now the ones on the defensive. At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten. It was said that these ultimate weapons, packed with 1.55 tons of explosives, were capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes. "
+            },
+            "UP": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry of the start of the war gone?\nThe old attackers were now the ones on the defensive. At that time, it was said that the final trump cards for the Japanese military were the so‐called \"special attack weapons\". It was said that these ultimate weapons were packed with 1.55 tons of explosives... and capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Manned Kaiten torpedo retains PC weapon specifics generalized in PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-095",
+      "kind": "PC",
+      "description": "Kaiten-loaded submarines retain PC weapon specifics; geographic canonical011 remains separate.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              496,
+              496
+            ],
+            "MG": [
+              496,
+              496
+            ],
+            "UP": [
+              496,
+              496
+            ]
+          },
+          "japanese": "八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+          "japanesePC": "海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、回天搭載潜水艦の秘密基地建造計画を立案する。",
+          "japanesePS3": "八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+          "WH": "To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.",
+          "MG": "the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes.",
+          "UP": "the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0488",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry shown at Pearl Harbor gone? The old attackers were now the ones on the defensive. At that time, it was said that the last trump card for the Japanese military was a type of manned torpedo known as the Kaiten. It was said that these ultimate weapons, packed with 1.55 tons of explosives, were capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijo Island to Yokosuka, all to house submarines loaded with Kaiten torpedoes. "
+            },
+            "UP": {
+              "japanese": "１９４４年。サイパン、グアムの玉砕により、日本の絶対国防圏は破られた。開戦時の勇ましさはどこへやら。\n戦局はすでに、守勢へ完全に変わっていた。当時、日本海軍の最後の切り札と呼ばれたのは、いわゆる特攻兵器だった。これは１.５５トンもの炸薬を搭載した強力無比なものであり、その一撃は如何なる艦船でも葬り去ると言われた。海軍は、本土防衛のため、八丈島と横須賀を結ぶ線上に、特攻兵器搭載潜水艦の秘密基地建造計画を立案する。",
+              "translation": "1944. Due to the honorable defeats at Saipan and Guam, Japan's Absolute National Defense Zone strategy was in shambles. Where had the gallantry of the start of the war gone?\nThe old attackers were now the ones on the defensive. At that time, it was said that the final trump cards for the Japanese military were the so‐called \"special attack weapons\". It was said that these ultimate weapons were packed with 1.55 tons of explosives... and capable of sinking any kind of warship with a single blast. To strengthen homeland defense, the Navy drafted a plan to build a string of hidden bases from Hachijojima to Yokosuka, all to house submarines loaded with special attack weapons."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0488"
+            ],
+            "UP": [
+              "umi7_3-L0488"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kaiten-loaded submarines retain PC weapon specifics; geographic canonical011 remains separate.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-096",
+      "kind": "PC",
+      "description": "Kaiten base retains PC weapon name generalized in PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              497,
+              497
+            ],
+            "MG": [
+              497,
+              497
+            ],
+            "UP": [
+              497,
+              497
+            ]
+          },
+          "japanese": "「八丈島に基地が作られたことは知っていました。",
+          "japanesePC": "「八丈島に回天の基地が作られたことは知っていました。しかしそれが、六軒島にもあったなんて......。」",
+          "japanesePS3": "「八丈島に基地が作られたことは知っていました。",
+          "WH": "\"I knew that there was a Kaiten base constructed on Hachijo Island, but was there actually one on Rokkenjima too......?\"",
+          "MG": "\"I knew that there was a Kaiten base constructed on Hachijo Island,",
+          "UP": "\"I knew that there was a base constructed on Hachijojima.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0497",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0497"
+            ],
+            "UP": [
+              "umi7_3-L0497"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「八丈島に基地が作られたことは知っていました。しかしそれが、六軒島にもあったなんて……」",
+              "translation": "\"I knew that there was a Kaiten base constructed on Hachijo Island, but was there actually one on Rokkenjima too...?\" "
+            },
+            "UP": {
+              "japanese": "「八丈島に基地が作られたことは知っていました。しかしそれが、六軒島にもあったなんて……」",
+              "translation": "\"I knew that there was a base constructed on Hachijojima. To think there was one on Rokkenjima too......\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0497"
+            ],
+            "UP": [
+              "umi7_3-L0497"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kaiten base retains PC weapon name generalized in PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-097",
+      "kind": "PC",
+      "description": "Kaiten retains PC weapon name removed from PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              503,
+              503
+            ],
+            "MG": [
+              503,
+              503
+            ],
+            "UP": [
+              503,
+              503
+            ]
+          },
+          "japanese": "大型艦船を一撃で葬れるそれはまさに、必殺の兵器。",
+          "japanesePC": "大型艦船を一撃で葬れる回天はまさに、必殺の兵器。",
+          "japanesePS3": "大型艦船を一撃で葬れるそれはまさに、必殺の兵器。",
+          "WH": "The Kaiten, which could finish off a large warship with a single strike, truly was an ultimate weapon.",
+          "MG": "The Kaiten, which could finish off a large warship with a single strike, truly was an ultimate weapon.",
+          "UP": "These truly were ultimate weapons, able to take down large warships in a single strike.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0503",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0503"
+            ],
+            "UP": [
+              "umi7_3-L0503"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "大型艦船を一撃で葬れるそれはまさに、必殺の兵器。それを搭載する潜水艦は本土近海での最終決戦で、強力な海の伏兵となることが期待された。そのため、絶対秘匿の秘密基地とするため、無人島である六軒島が候補に上がった。調査の結果、岸壁に大きな洞窟が発見され、潜水艦基地に転用することが充分可能と判断されたらしい。",
+              "translation": "The Kaiten, which could finish off a large warship with a single strike, truly was an ultimate weapon. It was hoped that the presence of submarines capable of loading these weapons in the waters just off of Japan would allow for a powerful sea ambush as a final line of defense. So, to aid in the establishment of a base with absolute secrecy, the uninhabited island Rokkenjima was raised as a possible candidate. An investigation of the island resulted in the discovery of a large cave in the cliffs, and this was apparently deemed to be a suitable location for a submarine base. "
+            },
+            "UP": {
+              "japanese": "大型艦船を一撃で葬れるそれはまさに、必殺の兵器。それを搭載する潜水艦は本土近海での最終決戦で、強力な海の伏兵となることが期待された。そのため、絶対秘匿の秘密基地とするため、無人島である六軒島が候補に上がった。調査の結果、岸壁に大きな洞窟が発見され、潜水艦基地に転用することが充分可能と判断されたらしい。",
+              "translation": "These truly were ultimate weapons, able to take down large warships in a single strike. It was hoped that the presence of submarines capable of loading these weapons in the waters just off of Japan would allow for a powerful sea ambush as a final line of defense. So, to aid in the establishment of a base with absolute secrecy, the uninhabited island Rokkenjima was raised as a possible candidate. An investigation of the island resulted in the discovery of a large cave in the cliffs, and this was apparently deemed to be a suitable location for a submarine base."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0503"
+            ],
+            "UP": [
+              "umi7_3-L0503"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kaiten retains PC weapon name removed from PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-098",
+      "kind": "PC",
+      "description": "Kaiten torpedo retains PC weapon name generalized in PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              514,
+              514
+            ],
+            "MG": [
+              514,
+              514
+            ],
+            "UP": [
+              514,
+              514
+            ]
+          },
+          "japanese": "当時の日本に、そいつを積めるほどの大型潜水艦はもう、残っていなかったのよ。",
+          "japanesePC": "「わっははははっはっは！　当時の日本に、回天を積めるほどの大型潜水艦はもう、残っていなかったのよ。滑稽な話だ。潜水艦もないのに、潜水艦基地など今さら、必要なものか。役人の無意味な箱物作りは、今も昔も変わらぬわ。」",
+          "japanesePS3": "当時の日本に、そいつを積めるほどの大型潜水艦はもう、残っていなかったのよ。",
+          "WH": "\"Wahahahahaha!  Because at that time, Japan no longer had any submarines large enough to transport a Kaiten torpedo.  How truly laughable.  What's the point in having a submarine base if there aren't any submarines left?  If there's one thing that never changes, it's politicians and their meaningless projects.\"",
+          "MG": "Because at that time, Japan no longer had any submarines large enough to transport a Kaiten torpedo.",
+          "UP": "Because at that time, Japan no longer had any submarines large enough to carry one of those weapons.",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0513",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0513"
+            ],
+            "UP": [
+              "umi7_3-L0513"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「わっははははっはっは！　当時の日本に、そいつを積めるほどの大型潜水艦はもう、残っていなかったのよ。滑稽な話だ。潜水艦もないのに、潜水艦基地など今さら、必要なものか。役人の無意味な箱物作りは、今も昔も変わらぬわ」",
+              "translation": "\"Wahahahahaha! Because at that time, Japan no longer had any submarines large enough to transport a Kaiten torpedo. How truly laughable. What's the point in having a submarine base if there aren't any submarines left? If there's one thing that never changes, it's politicians and their meaningless projects.\" "
+            },
+            "UP": {
+              "japanese": "「わっははははっはっは！　当時の日本に、そいつを積めるほどの大型潜水艦はもう、残っていなかったのよ。滑稽な話だ。潜水艦もないのに、潜水艦基地など今さら、必要なものか。役人の無意味な箱物作りは、今も昔も変わらぬわ」",
+              "translation": "\"Wahahahahaha! Because at that time, Japan no longer had any submarines large enough to carry one of those weapons. How truly laughable. What's the point in having a submarine base if there aren't any submarines left? If there's one thing that never changes, it's politicians and their meaningless projects.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0513"
+            ],
+            "UP": [
+              "umi7_3-L0513"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kaiten torpedo retains PC weapon name generalized in PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "PC-MATERIAL-099",
+      "kind": "PC",
+      "description": "Kaiten deployment retains PC weapon name generalized in PS3.",
+      "categories": [],
+      "severity": null,
+      "editions": [
+        "MG"
+      ],
+      "inherited": false,
+      "contexts": [
+        {
+          "chapter": "umi7_3",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              518,
+              518
+            ],
+            "MG": [
+              518,
+              518
+            ],
+            "UP": [
+              518,
+              518
+            ]
+          },
+          "japanese": "八丈島の基地には、実際に配備され、直接出撃する基地となったが、",
+          "japanesePC": "八丈島の基地には、回天が配備され、直接出撃する基地となったが、六軒島には配備されなかった。",
+          "japanesePS3": "八丈島の基地には、実際に配備され、直接出撃する基地となったが、",
+          "WH": "The base on Hachijo Island was outfitted with Kaiten torpedoes and became a base for direct attacks, but Rokkenjima was never supplied with any.",
+          "MG": "The base on Hachijo Island was outfitted with Kaiten torpedoes and became a base for direct attacks,",
+          "UP": "The base on Hachijojima was actually outfitted with those weapons and became a base for direct attacks,",
+          "note": "",
+          "dispositions": {
+            "MG": "retained_original_PC_material",
+            "UP": "follows_PS3"
+          },
+          "readerRef": "umi7_3-L0518",
+          "readerRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0518"
+            ],
+            "UP": [
+              "umi7_3-L0518"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "八丈島の基地には、実際に配備され、直接出撃する基地となったが、六軒島には配備されなかった。それどころか、工事を中断し、最低限の人間を残したまま、上層部は六軒島には何の命令も出さない。まさか、秘密基地であったことが災いしたとでもいうのか？何の役にも立たない無用の岩窟は、もはや上層部にも完全に忘れ去られていたのだ。",
+              "translation": "The base on Hachijo Island was outfitted with Kaiten torpedoes and became a base for direct attacks, but Rokkenjima was never supplied with any. Furthermore, the construction was eventually suspended, and a minimum number of men were stationed on the island, waiting for orders from above that never came. Could the fact that it was a hidden base actually have sealed our fate? The higher-ups had already completely forgotten about this useless and pointless cavern. "
+            },
+            "UP": {
+              "japanese": "八丈島の基地には、実際に配備され、直接出撃する基地となったが、六軒島には配備されなかった。それどころか、工事を中断し、最低限の人間を残したまま、上層部は六軒島には何の命令も出さない。まさか、秘密基地であったことが災いしたとでもいうのか？何の役にも立たない無用の岩窟は、もはや上層部にも完全に忘れ去られていたのだ。",
+              "translation": "The base on Hachijojima was actually outfitted with those weapons and became a base for direct attacks, but Rokkenjima was never supplied with any. Not only that, they cancelled the construction work entirely, leaving only a crew of minimal size stationed on the island, waiting for orders from above that never came. Could it be the fact that it was a hidden base sealed our fate? The higher‐ups had already completely forgotten about this useless and pointless cavern."
+            }
+          },
+          "findingRefs": {
+            "WH": [],
+            "MG": [
+              "umi7_3-L0518"
+            ],
+            "UP": [
+              "umi7_3-L0518"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Kaiten deployment retains PC weapon name generalized in PS3.",
+      "alternative": "",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH03-001": {
+      "umi7_3-L0033": {
+        "WH": [
+          "listen to your tale openly"
+        ]
+      }
+    },
+    "WH-EP07-CH03-002": {
+      "umi7_3-L0033": {
+        "WH": [
+          "write that into their memories"
+        ],
+        "MG": [
+          "writing that into their memories"
+        ]
+      }
+    },
+    "WH-EP07-CH03-003": {
+      "umi7_3-L0038": {
+        "WH": [
+          "no one can defile me and that tale"
+        ]
+      }
+    },
+    "WH-EP07-CH03-004": {
+      "umi7_3-L0055": {
+        "WH": [
+          "because of her love"
+        ],
+        "MG": [
+          "because of her love"
+        ]
+      }
+    },
+    "WH-EP07-CH03-005": {
+      "PC-CANDIDATE-EP07-03-V002": {
+        "WH": [
+          "That may have been a lie"
+        ]
+      },
+      "umi7_3-L0105": {
+        "MG": [
+          "That may have been a lie"
+        ]
+      }
+    },
+    "WH-EP07-CH03-006": {
+      "umi7_3-L0167": {
+        "WH": {
+          "kind": "omission",
+          "reason": "The possible reduction of the daughter to an object of gratification for Kinzo's obsession is absent after forcing his emotions."
+        },
+        "MG": {
+          "kind": "omission",
+          "reason": "The possible reduction of the daughter to an object of gratification for Kinzo's obsession is absent after forcing his emotions."
+        },
+        "UP": {
+          "kind": "omission",
+          "reason": "The possible reduction of the daughter to an object of gratification for Kinzo's obsession is absent after forcing his emotions."
+        }
+      }
+    },
+    "WH-EP07-CH03-007": {
+      "umi7_3-L0193": {
+        "WH": [
+          "why did you die in my arms not once but twice"
+        ],
+        "MG": [
+          "Why did you die in my arms not once but twice"
+        ],
+        "UP": [
+          "Why did you die in my arms not once, ......but twice"
+        ]
+      }
+    },
+    "WH-EP07-CH03-008": {
+      "umi7_3-L0252": {
+        "WH": [
+          "accepted her father's love"
+        ],
+        "MG": [
+          "accepted her father's love"
+        ],
+        "UP": [
+          "accepted her father's love"
+        ]
+      }
+    },
+    "WH-EP07-CH03-009": {
+      "umi7_3-L0386": {
+        "WH": [
+          "drinking terrible drinks"
+        ],
+        "MG": [
+          "drinking terrible drinks"
+        ],
+        "UP": [
+          "drinking terrible drinks"
+        ]
+      }
+    },
+    "WH-EP07-CH03-010": {
+      "umi7_3-L0441": {
+        "WH": [
+          "gathered enough of the scraps"
+        ],
+        "MG": [
+          "gathered enough of the scraps"
+        ]
+      }
+    },
+    "WH-EP07-CH03-011": {
+      "PC-CANDIDATE-EP07-03-V004": {
+        "WH": [
+          "a string of hidden bases from Hachijo Island to Yokosuka"
+        ]
+      },
+      "umi7_3-L0488": {
+        "MG": [
+          "a string of hidden bases from Hachijo Island to Yokosuka"
+        ],
+        "UP": [
+          "a string of hidden bases from Hachijojima to Yokosuka"
+        ]
+      }
+    },
+    "PAIR-EP07-CH03-001-120-001": {
+      "umi7_3-L0087": {
+        "MG": [
+          "chose not call"
+        ]
+      }
+    },
+    "PAIR-EP07-CH03-241-360-001": {
+      "umi7_3-L0245": {
+        "MG": [
+          "It was not a father-daughter relationship"
+        ]
+      }
+    },
+    "PAIR-EP07-CH03-361-480-001": {
+      "umi7_3-L0373": {
+        "UP": [
+          "A puppet heir"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

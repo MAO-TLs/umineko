@@ -1,1 +1,1145 @@
-{"findings":[{"id":"WH-EP07-CH06-001","kind":"WH","description":"Making the story into a killing becomes finding where killing fits.","categories":["linguistic.mistranslation","mystery.argument_reconstruction","mystery.truth_authority"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[14,18],"MG":[14,18],"UP":[14,18]},"japanese":"「これまでに聞いたどのベアトリーチェも、殺されてなどいない。\n……それを、俺たちが“殺された”ことにしようとしている。\nベルンカステルにとっては、これこそが本当の葬儀なんだ」\n「…………誰も“殺された”ことを知らない。\nそれを、私たちが暴こうとしている？」","japanesePC":"「これまでに聞いたどのベアトリーチェも、殺されてなどいない。......それを、俺たちが“殺された”ことにしようとしている。ベルンカステルにとっては、これこそが本当の葬儀なんだ。」","japanesePS3":"「これまでに聞いたどのベアトリーチェも、殺されてなどいない。\n……それを、俺たちが“殺された”ことにしようとしている。\nベルンカステルにとっては、これこそが本当の葬儀なんだ」\n「…………誰も“殺された”ことを知らない。\nそれを、私たちが暴こうとしている？」","WH":"\"All of the Beatrices we've heard about so far weren't killed at all.  ......We're trying to understand where the 'killed' factors in.  That's the real funeral, as far as Bernkastel's concerned.\"","MG":"\"All of the Beatrices we've heard about so far weren't killed at all.\n...We're trying to understand where the word \"killed\" factors in.\nThat's the real funeral, as far as Bernkastel's concerned.\"\n\"......No one knows about her being \"killed\".\nAnd that's the truth we're trying to expose?\"","UP":"\"None of the Beatrices we've heard about so far were killed.\n......We need to change that.\nThat's the real funeral, as far as Bernkastel's concerned.\"\n\"............No one knows about the \"killed\" factor.\nAnd that's the truth we're trying to expose?\"","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_6-L0014","readerRefs":{"WH":["umi7_6-L0014"],"MG":["umi7_6-L0014","umi7_6-L0017"],"UP":["umi7_6-L0014","umi7_6-L0017"]}}],"sourceReading":"Will says none of the Beatrices heard about so far was killed; they are trying to make it into a case of having been killed. This is Bernkastel’s true funeral.","alternative":"Trying to understand where killed factors in makes their activity an interpretive search for a pre-existing killing element. 殺されたことにしようとしている gives their activity a constructive or imposed framing. The adjacent Lion response remains about exposing what no one knows, so it does not license deleting Will’s distinct formulation.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-002","kind":"WH","description":"Maria’s distinction between absent and nonexistent father becomes repeated maternal denial.","categories":["linguistic.omission","linguistic.wrong_subject","character.voice_state","mystery.category_flattening"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[142,143],"MG":[142,143],"UP":[142,143]},"japanese":"それ以来、真里亞のパパは、知らない、いない、じゃなくて、\n……ない、になった。","japanesePC":"それ以来、真里亞のパパは、知らない、いない、じゃなくて、\n......ない、になった。","japanesePS3":"それ以来、真里亞のパパは、知らない、いない、じゃなくて、\n……ない、になった。","WH":"Ever since then,\n......she kept saying that I didn't have a Papa.","MG":"Ever since then,\n...she kept saying that I didn't have a Papa.","UP":"Ever since then,\n......she kept saying that I didn't have a papa.","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_6-L0132","readerRefs":{"WH":["umi7_6-L0132"],"MG":["umi7_6-L0132"],"UP":["umi7_6-L0132"]}}],"sourceReading":"After the photo confrontation, Maria’s Papa changed from unknown or absent to none: the source explicitly distinguishes 知らない, いない and ない.","alternative":"She kept saying I didn’t have a Papa assigns repeated speech to Rosa and collapses the contrast into the already stated parental denial. The surrounding virgin-birth reasoning depends on Maria’s conceptual move to no father, not merely a father she has never met.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-003","kind":"WH","description":"Maria’s virgin-birth exclamation becomes the priest’s assertion.","categories":["linguistic.wrong_subject","character.knowledge_boundary","mystery.truth_authority"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[191,192],"MG":[191,192],"UP":[191,192]},"japanese":"「だから真里亞はびっくりして神父様に聞き直したの。\n……聖母マリアは、ひとりで赤ちゃんが産めたんだ！　って。","japanesePC":"「だから真里亞はびっくりして神父様に聞き直したの。......聖母マリアは、ひとりで赤ちゃんが産めたんだ！って。","japanesePS3":"「だから真里亞はびっくりして神父様に聞き直したの。\n……聖母マリアは、ひとりで赤ちゃんが産めたんだ！　って。","WH":"\"I was so surprised, I asked the priest to say it again.  ......He said that the Virgin Maria gave birth to a baby by herself!","MG":"\"I was so shocked, I asked the priest to say it again.\n...He said that the Virgin Maria gave birth to a baby by herself!","UP":"\"I was so surprised, I asked the priest to say it again.\n......He said that the Virgin Maria gave birth to a baby by herself!","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_6-L0191","readerRefs":{"WH":["umi7_6-L0191"],"MG":["umi7_6-L0191"],"UP":["umi7_6-L0191"]}}],"sourceReading":"Maria excitedly asks the priest again: the Virgin Maria could have a baby by herself! She then asks whether she too can do so.","alternative":"The English says she asked him to say it again and he said the Virgin Maria gave birth by herself. The Japanese presents 聖母マリアはひとりで赤ちゃんが産めたんだ！って as Maria’s words to the priest. The following actual priest response explains the Holy Ghost.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-004","kind":"WH","description":"Rosa embracing and accepting Maria’s interpretation becomes going along with it.","categories":["linguistic.undertranslation","character.relationship_power","character.motivation_emotion"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[220,220],"MG":[220,220],"UP":[220,220]},"japanese":"幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない……。","japanesePC":"幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない......。","japanesePS3":"幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない……。","WH":"It isn't too difficult to imagine that Rosa, after hearing this young girl's explanation, might go along with it as though it were true......","MG":"It isn't too difficult to imagine that Rosa, after hearing this young girl's explanation, might go along with it as though it were true...","UP":"It isn't too difficult to imagine that Rosa, after hearing the explanation the young girl had found in the Bible, might have gone along with it as though it were true......","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_6-L0214","readerRefs":{"WH":["umi7_6-L0214"],"MG":["umi7_6-L0214"],"UP":["umi7_6-L0214"]}}],"sourceReading":"The narration says it is easy to imagine Rosa embracing and accepting the little girl’s biblical interpretation of herself.","alternative":"Going along as though it were true suggests accommodation or pretense, and loses the embrace/embracing acceptance in 抱擁して受け入れた. The source does not establish doctrinal agreement, but does explicitly present an affectionate acceptance within its imagined account.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-005","kind":"WH","description":"One and infinity both being existence becomes their being nearly the same.","categories":["linguistic.undertranslation","mystery.argument_reconstruction","world.world_layer"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[241,241],"MG":[241,241],"UP":[241,241]},"japanese":"でも、無と有の前には、一も無限も同じ有でしかない。","japanesePC":"「一と無限は大きく違う。だからベアトは偉い。でも、無と有の前には、一も無限も同じ有でしかない。","japanesePS3":"でも、無と有の前には、一も無限も同じ有でしかない。","WH":"\"There's a huge difference between one and infinity.  That's why Beato is so great.  However, compared to the difference between existence and non-existence, one and infinite are nearly the same thing.","MG":"However, compared to the difference between existence and non-existence, one and infinity are nearly the same thing.","UP":"But compared to the difference between something and nothing, one and infinity are both just \"something\".","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_6-L0239","readerRefs":{"WH":["umi7_6-L0239"],"MG":["umi7_6-L0239"],"UP":["umi7_6-L0239"]}}],"sourceReading":"Against the distinction between nothing and something, one and infinity are both merely existence. Their numerical difference is acknowledged first.","alternative":"Nearly the same thing approximates their similarity but removes the exact common category 有, which is the basis for prioritizing creation from nothing over infinite expansion. The source does not claim numerical equality.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-006","kind":"WH","description":"A biblical line suggesting her legitimacy becomes a secret reference to her.","categories":["linguistic.mistranslation","character.motivation_emotion","mystery.epistemic_status"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[250,250],"MG":[250,250],"UP":[250,250]},"japanese":"……偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。","japanesePC":"父親が存在しないことで、自分の解釈に苦しんだ少女は。......偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。","japanesePS3":"……偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。","WH":"She spent so long tormented over how to interpret her lack of a father.  ......Then, by chance, she saw a line in the Bible that looked like it secretly referred to her, and she finally formed an understanding for herself.","MG":"...Then, by chance, she saw a line in the Bible that looked like it secretly referred to her, and she finally formed an understanding for herself.","UP":"......Then, by chance, she saw a line in the Bible that seemed to affirm her existence, and she finally formed an understanding of herself.","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_6-L0247","readerRefs":{"WH":["umi7_6-L0247"],"MG":["umi7_6-L0247"],"UP":["umi7_6-L0247"]}}],"sourceReading":"By chance Maria finds a biblical line that seems to suggest legitimacy for someone like herself, allowing her to understand herself.","alternative":"Looked like it secretly referred to her replaces 正当性, legitimacy or validity, with a covert personal reference. The source emphasizes reassurance of her validity, not discovering a hidden reference to her in scripture.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-007","kind":"WH","description":"Letting someone eat rainbow candy becomes eating it herself.","categories":["linguistic.wrong_subject","character.agency_responsibility"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[356,356],"MG":[356,356],"UP":[356,356]},"japanese":"それを七色のキャンディに変えて自由にかじらせることも出来た。","japanesePC":"「かつての妾ならば、空に虹をかけ、それを七色のキャンディーに変えて自由にかじらせることも出来た。しかし今の妾は姿を保つことさえ満足に出来ぬほどに衰えている。」","japanesePS3":"それを七色のキャンディに変えて自由にかじらせることも出来た。","WH":"\"In the past, I could have drawn a rainbow in the sky, transformed it into seven colors of candy, and eaten them at my leisure.  However, my power has weakened so much that I cannot even preserve my form as well as I would like.\"","MG":"transformed it into seven colors of candy, and eaten them at my leisure.","UP":"transformed it into seven colors of candy, and eaten them at my leisure.","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_6-L0355","readerRefs":{"WH":["umi7_6-L0355"],"MG":["umi7_6-L0355"],"UP":["umi7_6-L0355"]}}],"sourceReading":"Beatrice boasts she formerly could make a rainbow into seven-colored candy and let someone freely nibble it.","alternative":"Eaten them at my leisure makes Beatrice herself the eater. かじらせる is causative: permitting or making another person nibble. It describes magic offered for others’ enjoyment, fitting Maria’s request to witness it.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-008","kind":"WH","description":"Certain hypothetical disappearance becomes possible disappearance.","categories":["linguistic.undertranslation","character.voice_state","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[456,456],"MG":[456,456],"UP":[456,456]},"japanese":"「もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。","japanesePC":"もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。そしたら私は、目の当たりにした魔法の奇跡の証拠を、失うところだった。」","japanesePS3":"「もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。","WH":"If I had doubted her more, maybe the candy would've disappeared.  I almost lost the proof of the magical miracle that had happened before my eyes.\"","MG":"If I'd doubted her more, the candy would've disappeared completely.","UP":"\"If I had doubted her more, I'm sure the candy would have been completely gone.","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_6-L0453","readerRefs":{"WH":["umi7_6-L0453"],"MG":["umi7_6-L0453"],"UP":["umi7_6-L0453"]}}],"sourceReading":"Maria is certain that had she doubted more, the candy would have disappeared, costing her evidence of the miracle.","alternative":"Maybe weakens に違いない. The cause remains Maria’s belief, not an objective explanation adopted by the audit; the source confidently states her counterfactual belief.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-009","kind":"WH","description":"Tentative caramel identification becomes a definite identification.","categories":["linguistic.overinterpretation","character.knowledge_boundary","mystery.epistemic_status"],"severity":"moderate","editions":["WH"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[459,459],"MG":[459,459],"UP":[459,459]},"japanese":"「飴、というよりはキャラメルだったと思う。","japanesePC":"「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった。」","japanesePS3":"「飴、というよりはキャラメルだったと思う。","WH":"\"Yeah, that caramel started melting.  It was all lumpy.\"","MG":"\"I think it was more of a caramel than a normal candy.","UP":"\"It wasn't hard, it was......caramel, I think.","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"corrected","UP":"corrected"},"readerRef":"umi7_6-L0459","readerRefs":{"WH":["umi7_6-L0459"],"MG":["umi7_6-L0459"],"UP":["umi7_6-L0459"]}}],"sourceReading":"Maria thinks it was caramel rather than candy, and describes it as beginning to melt.","alternative":"Yeah, that caramel identifies it without the uncertainty in だったと思う or the explicit correction from generic candy. Will’s later caramel reasoning is retained as his reasoning and does not retroactively make Maria’s report certain.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-010","kind":"WH","description":"Soft and limp melted candy becomes lumpy candy.","categories":["linguistic.word_choice","world.world_fact","mystery.physical_constraint"],"severity":"minor","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[460,460],"MG":[460,460],"UP":[460,460]},"japanese":"溶け掛かって、ぐにゃぐにゃだった」","japanesePC":"「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった。」","japanesePS3":"溶け掛かって、ぐにゃぐにゃだった」","WH":"\"Yeah, that caramel started melting.  It was all lumpy.\"","MG":"It was all lumpy, just starting to melt.\"","UP":"It was half‐melted and squishy.\"","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"corrected"},"readerRef":"umi7_6-L0459","readerRefs":{"WH":["umi7_6-L0459"],"MG":["umi7_6-L0459"],"UP":["umi7_6-L0459"]}}],"sourceReading":"The melting substance was ぐにゃぐにゃ: soft, limp or deformable.","alternative":"Lumpy describes an uneven mass or lumps, rather than softness and loss of firm shape. Both may accompany melting, but the English substitutes a different physical property.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-011","kind":"WH","description":"Making any trick into magic becomes making any trick possible.","categories":["linguistic.undertranslation","mystery.argument_reconstruction","mystery.puzzle_mechanism"],"severity":"moderate","editions":["WH","MG","UP"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[564,564],"MG":[564,564],"UP":[564,564]},"japanese":"相手が目を閉じてくれれば、どんな手品だって魔法に出来る。","japanesePC":"相手が目を閉じてくれれば、どんな手品だって魔法に出来る。","japanesePS3":"相手が目を閉じてくれれば、どんな手品だって魔法に出来る。","WH":"Any sleight of hand would be possible while she had her eyes closed.","MG":"Any sleight of hand would be possible while she had her eyes closed.","UP":"Any sleight of hand would be possible while she had her eyes closed.","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"retained","UP":"retained"},"readerRef":"umi7_6-L0549","readerRefs":{"WH":["umi7_6-L0549"],"MG":["umi7_6-L0549"],"UP":["umi7_6-L0549"]}}],"sourceReading":"With the other person’s eyes closed, any sleight of hand can be made into magic: concealed manipulation is presented as a magical occurrence.","alternative":"Any sleight of hand would be possible retains the opportunity for manipulation but omits 魔法に出来る, the transformation in the witness’s perception. The point is not that every conceivable trick physically becomes feasible.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."},{"id":"WH-EP07-CH06-012","kind":"WH","description":"Current wishes and resurrection assistance become past activities.","categories":["linguistic.tense_aspect","character.motivation_emotion","world.space_time_continuity"],"severity":"moderate","editions":["WH","MG"],"inherited":true,"contexts":[{"chapter":"umi7_6","episode":7,"rows":{"JP":[593,598],"MG":[593,598],"UP":[593,598]},"japanese":"「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。\nだから、ベアトが復活するのに協力してるの」\n「……願いとは何だ」\n「いっぱいある。\nきひひひひひ、内緒」\n「黒き魔女からママを守ってほしい、か」","japanesePC":"「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。だから、ベアトが復活するのに協力してるの。」","japanesePS3":"「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。\nだから、ベアトが復活するのに協力してるの」\n「……願いとは何だ」\n「いっぱいある。\nきひひひひひ、内緒」\n「黒き魔女からママを守ってほしい、か」","WH":"\"I had a lot of things I wanted to ask Beato to grant for me with magic.  So, I helped Beato with her resurrection.\"","MG":"\"I wished for Beato to grant me a lot of things with magic.\nThat's why I'm helping with her resurrection.\"\n\"...What is it you wished for?\"\n\"Lots and lots.\nKihihihihihi. Not telling.\"\n\"So, you wanted to protect your Mama from the black witch.\"","UP":"\"I have a lot of things I want to ask Beato to grant for me with magic.\nSo, I'm helping Beato with her resurrection.\"\n\"......What kinds of things?\"\n\"Lots and lots.\nKihihihihihi. Not telling.\"\n\"You want to protect your mama from the black witch, right?\"","note":"Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.","dispositions":{"MG":"partially_corrected","UP":"corrected"},"readerRef":"umi7_6-L0593","readerRefs":{"WH":["umi7_6-L0593"],"MG":["umi7_6-L0593","umi7_6-L0595","umi7_6-L0596","umi7_6-L0598"],"UP":["umi7_6-L0593","umi7_6-L0595","umi7_6-L0596","umi7_6-L0598"]}}],"sourceReading":"Maria has many wishes she wants Beato to fulfill, and is therefore helping Beato’s resurrection.","alternative":"Had, wanted and helped place both desire and cooperation in the past. This line is back in the interview after the first-meeting recollection; it is not part of that past flashback. The source presents her current reason for cooperating.","sourceNote":"Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."}]}
+{
+  "findings": [
+    {
+      "id": "WH-EP07-CH06-001",
+      "kind": "WH",
+      "description": "Making the story into a killing becomes finding where killing fits.",
+      "categories": [
+        "linguistic.mistranslation",
+        "mystery.argument_reconstruction",
+        "mystery.truth_authority"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              14,
+              18
+            ],
+            "MG": [
+              14,
+              18
+            ],
+            "UP": [
+              14,
+              18
+            ]
+          },
+          "japanese": "「これまでに聞いたどのベアトリーチェも、殺されてなどいない。\n……それを、俺たちが“殺された”ことにしようとしている。\nベルンカステルにとっては、これこそが本当の葬儀なんだ」\n「…………誰も“殺された”ことを知らない。\nそれを、私たちが暴こうとしている？」",
+          "japanesePC": "「これまでに聞いたどのベアトリーチェも、殺されてなどいない。......それを、俺たちが“殺された”ことにしようとしている。ベルンカステルにとっては、これこそが本当の葬儀なんだ。」",
+          "japanesePS3": "「これまでに聞いたどのベアトリーチェも、殺されてなどいない。\n……それを、俺たちが“殺された”ことにしようとしている。\nベルンカステルにとっては、これこそが本当の葬儀なんだ」\n「…………誰も“殺された”ことを知らない。\nそれを、私たちが暴こうとしている？」",
+          "WH": "\"All of the Beatrices we've heard about so far weren't killed at all.  ......We're trying to understand where the 'killed' factors in.  That's the real funeral, as far as Bernkastel's concerned.\"",
+          "MG": "\"All of the Beatrices we've heard about so far weren't killed at all.\n...We're trying to understand where the word \"killed\" factors in.\nThat's the real funeral, as far as Bernkastel's concerned.\"\n\"......No one knows about her being \"killed\".\nAnd that's the truth we're trying to expose?\"",
+          "UP": "\"None of the Beatrices we've heard about so far were killed.\n......We need to change that.\nThat's the real funeral, as far as Bernkastel's concerned.\"\n\"............No one knows about the \"killed\" factor.\nAnd that's the truth we're trying to expose?\"",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_6-L0014",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0014"
+            ],
+            "MG": [
+              "umi7_6-L0014",
+              "umi7_6-L0017"
+            ],
+            "UP": [
+              "umi7_6-L0014",
+              "umi7_6-L0017"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「これまでに聞いたどのベアトリーチェも、殺されてなどいない。……それを、俺たちが“殺された”ことにしようとしている。ベルンカステルにとっては、これこそが本当の葬儀なんだ」",
+              "translation": "\"All of the Beatrices we've heard about so far weren't killed at all. ...We're trying to understand where the word \"killed\" factors in. That's the real funeral, as far as Bernkastel's concerned.\" "
+            },
+            "UP": {
+              "japanese": "「これまでに聞いたどのベアトリーチェも、殺されてなどいない。……それを、俺たちが“殺された”ことにしようとしている。ベルンカステルにとっては、これこそが本当の葬儀なんだ」",
+              "translation": "\"None of the Beatrices we've heard about so far were killed. ......We need to change that. That's the real funeral, as far as Bernkastel's concerned.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0014"
+            ],
+            "MG": [
+              "umi7_6-L0014"
+            ],
+            "UP": [
+              "umi7_6-L0014"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Will says none of the Beatrices heard about so far was killed; they are trying to make it into a case of having been killed. This is Bernkastel’s true funeral.",
+      "alternative": "Trying to understand where killed factors in makes their activity an interpretive search for a pre-existing killing element. 殺されたことにしようとしている gives their activity a constructive or imposed framing. The adjacent Lion response remains about exposing what no one knows, so it does not license deleting Will’s distinct formulation.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-002",
+      "kind": "WH",
+      "description": "Maria’s distinction between absent and nonexistent father becomes repeated maternal denial.",
+      "categories": [
+        "linguistic.omission",
+        "linguistic.wrong_subject",
+        "character.voice_state",
+        "mystery.category_flattening"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              142,
+              143
+            ],
+            "MG": [
+              142,
+              143
+            ],
+            "UP": [
+              142,
+              143
+            ]
+          },
+          "japanese": "それ以来、真里亞のパパは、知らない、いない、じゃなくて、\n……ない、になった。",
+          "japanesePC": "それ以来、真里亞のパパは、知らない、いない、じゃなくて、\n......ない、になった。",
+          "japanesePS3": "それ以来、真里亞のパパは、知らない、いない、じゃなくて、\n……ない、になった。",
+          "WH": "Ever since then,\n......she kept saying that I didn't have a Papa.",
+          "MG": "Ever since then,\n...she kept saying that I didn't have a Papa.",
+          "UP": "Ever since then,\n......she kept saying that I didn't have a papa.",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_6-L0132",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0132"
+            ],
+            "MG": [
+              "umi7_6-L0132"
+            ],
+            "UP": [
+              "umi7_6-L0132"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "私は右代宮真里亞。ママは楼座。パパは、………ない。ずいぶん昔に、これが真里亞のパパよ、とママに男性の写真を見せられた気はする。それは海辺の写真で、よく日焼けした水着姿の男性が写ってたような気がする。……パパという意味がわかるようになって、その写真をもう一度見たいとママにいったら、そんな写真はないと言われた。いいや、あったはず。こんな写真だったと絵を描いてみせたら、ママはとても怒り出して、そんな写真はない、あっても捨ててしまったと酷く怒られた。それ以来、真里亞のパパは、知らない、いない、じゃなくて、……ない、になった。",
+              "translation": "I'm Ushiromiya Maria. My Mama is Rosa. My Papa... I don't have a Papa. I think I remember Mama showing me a picture long ago and saying \"this is your Papa\". It was a picture of a man with a dark suntan, on a beach wearing a swimsuit. ...Later on, when I learned what \"Papa\" meant, I asked Mama to show me that picture again, but she said it didn't exist. But it had to have existed. When I drew a picture of it and showed it to Mama, she got really mad and said it didn't exist, or that, if it did, she had already thrown it away. Ever since then, ...she kept saying that I didn't have a Papa. "
+            },
+            "UP": {
+              "japanese": "私は右代宮真里亞。ママは楼座。パパは、………ない。ずいぶん昔に、これが真里亞のパパよ、とママに男性の写真を見せられた気はする。それは海辺の写真で、よく日焼けした水着姿の男性が写ってたような気がする。……パパという意味がわかるようになって、その写真をもう一度見たいとママにいったら、そんな写真はないと言われた。いいや、あったはず。こんな写真だったと絵を描いてみせたら、ママはとても怒り出して、そんな写真はない、あっても捨ててしまったと酷く怒られた。それ以来、真里亞のパパは、知らない、いない、じゃなくて、……ない、になった。",
+              "translation": "I'm Ushiromiya Maria. My mama is Rosa. My papa......... I don't have a papa. I think I remember Mama showing me a picture long ago and saying \"this is your papa\". It was a picture of a man with a dark suntan, on a beach, wearing a swimsuit. ......Later on, when I learned what \"Papa\" meant, I asked Mama to show me that picture again, but she said there wasn't any photo like that. But there was. I drew a picture of it and showed it to Mama. When I did, she got really mad and said that photo didn't exist, or that, if it did, she had already thrown it away. Ever since then, ......she kept saying that I didn't have a papa."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0132"
+            ],
+            "MG": [
+              "umi7_6-L0132"
+            ],
+            "UP": [
+              "umi7_6-L0132"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "After the photo confrontation, Maria’s Papa changed from unknown or absent to none: the source explicitly distinguishes 知らない, いない and ない.",
+      "alternative": "She kept saying I didn’t have a Papa assigns repeated speech to Rosa and collapses the contrast into the already stated parental denial. The surrounding virgin-birth reasoning depends on Maria’s conceptual move to no father, not merely a father she has never met.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-003",
+      "kind": "WH",
+      "description": "Maria’s virgin-birth exclamation becomes the priest’s assertion.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.knowledge_boundary",
+        "mystery.truth_authority"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              191,
+              192
+            ],
+            "MG": [
+              191,
+              192
+            ],
+            "UP": [
+              191,
+              192
+            ]
+          },
+          "japanese": "「だから真里亞はびっくりして神父様に聞き直したの。\n……聖母マリアは、ひとりで赤ちゃんが産めたんだ！　って。",
+          "japanesePC": "「だから真里亞はびっくりして神父様に聞き直したの。......聖母マリアは、ひとりで赤ちゃんが産めたんだ！って。",
+          "japanesePS3": "「だから真里亞はびっくりして神父様に聞き直したの。\n……聖母マリアは、ひとりで赤ちゃんが産めたんだ！　って。",
+          "WH": "\"I was so surprised, I asked the priest to say it again.  ......He said that the Virgin Maria gave birth to a baby by herself!",
+          "MG": "\"I was so shocked, I asked the priest to say it again.\n...He said that the Virgin Maria gave birth to a baby by herself!",
+          "UP": "\"I was so surprised, I asked the priest to say it again.\n......He said that the Virgin Maria gave birth to a baby by herself!",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_6-L0191",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0191"
+            ],
+            "MG": [
+              "umi7_6-L0191"
+            ],
+            "UP": [
+              "umi7_6-L0191"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「だから真里亞はびっくりして神父様に聞き直したの。……聖母マリアは、ひとりで赤ちゃんが産めたんだ！　って。じゃあ真里亞もひとりで、赤ちゃんが産めるの？　って」",
+              "translation": "\"I was so shocked, I asked the priest to say it again. ...He said that the Virgin Maria gave birth to a baby by herself! So, I asked him if that meant I could give birth to a baby all by myself too.\" "
+            },
+            "UP": {
+              "japanese": "「だから真里亞はびっくりして神父様に聞き直したの。……聖母マリアは、ひとりで赤ちゃんが産めたんだ！　って。じゃあ真里亞もひとりで、赤ちゃんが産めるの？　って」",
+              "translation": "\"I was so surprised, I asked the priest to say it again. ......He said that the Virgin Maria gave birth to a baby by herself! So, I asked him if that meant I could give birth to a baby all by myself too.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0191"
+            ],
+            "MG": [
+              "umi7_6-L0191"
+            ],
+            "UP": [
+              "umi7_6-L0191"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria excitedly asks the priest again: the Virgin Maria could have a baby by herself! She then asks whether she too can do so.",
+      "alternative": "The English says she asked him to say it again and he said the Virgin Maria gave birth by herself. The Japanese presents 聖母マリアはひとりで赤ちゃんが産めたんだ！って as Maria’s words to the priest. The following actual priest response explains the Holy Ghost.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-004",
+      "kind": "WH",
+      "description": "Rosa embracing and accepting Maria’s interpretation becomes going along with it.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.relationship_power",
+        "character.motivation_emotion"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              220,
+              220
+            ],
+            "MG": [
+              220,
+              220
+            ],
+            "UP": [
+              220,
+              220
+            ]
+          },
+          "japanese": "幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない……。",
+          "japanesePC": "幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない......。",
+          "japanesePS3": "幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない……。",
+          "WH": "It isn't too difficult to imagine that Rosa, after hearing this young girl's explanation, might go along with it as though it were true......",
+          "MG": "It isn't too difficult to imagine that Rosa, after hearing this young girl's explanation, might go along with it as though it were true...",
+          "UP": "It isn't too difficult to imagine that Rosa, after hearing the explanation the young girl had found in the Bible, might have gone along with it as though it were true......",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_6-L0214",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0214"
+            ],
+            "MG": [
+              "umi7_6-L0214"
+            ],
+            "UP": [
+              "umi7_6-L0214"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "楼座にとって、真里亞に父親を尋ねられることは、辛いことだったろう。みんなにはパパとママがいるのに、どうして真里亞にはいないの？それを聞かれる度に、楼座は感情的な怒りでそれを誤魔化してきた。……それが、どういうわけか、真里亞が勝手に納得してくれたのだ。自分にはパパなどいない。ママと神様の子だと。幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない……。",
+              "translation": "It was probably painful for Rosa when Maria asked about her father. Why did Maria have no Papa, when everyone else had a Papa and a Mama? Every time she was asked this, Rosa flew into a rage and changed the subject. ...Then, for some reason and all on her own, Maria had found an answer that satisfied her. She had no Papa. She was the child of Mama and God. It isn't too difficult to imagine that Rosa, after hearing this young girl's explanation, might go along with it as though it were true... "
+            },
+            "UP": {
+              "japanese": "楼座にとって、真里亞に父親を尋ねられることは、辛いことだったろう。みんなにはパパとママがいるのに、どうして真里亞にはいないの？それを聞かれる度に、楼座は感情的な怒りでそれを誤魔化してきた。……それが、どういうわけか、真里亞が勝手に納得してくれたのだ。自分にはパパなどいない。ママと神様の子だと。幼い少女が、聖書より見出した自己の解釈を、楼座が抱擁して受け入れたことは、想像に難くない……。",
+              "translation": "It was probably painful for Rosa whenever Maria asked about her father. \"Why do I have no papa, when everyone else has a papa and a mama?\" Every time she was asked this, Rosa flew into a rage and changed the subject. ......And now, somehow or other, Maria had independently found an explanation that satisfied her. She had no papa; she was the child of Mama and God. It isn't too difficult to imagine that Rosa, after hearing the explanation the young girl had found in the Bible, might have gone along with it as though it were true......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0214"
+            ],
+            "MG": [
+              "umi7_6-L0214"
+            ],
+            "UP": [
+              "umi7_6-L0214"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The narration says it is easy to imagine Rosa embracing and accepting the little girl’s biblical interpretation of herself.",
+      "alternative": "Going along as though it were true suggests accommodation or pretense, and loses the embrace/embracing acceptance in 抱擁して受け入れた. The source does not establish doctrinal agreement, but does explicitly present an affectionate acceptance within its imagined account.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-005",
+      "kind": "WH",
+      "description": "One and infinity both being existence becomes their being nearly the same.",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.argument_reconstruction",
+        "world.world_layer"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              241,
+              241
+            ],
+            "MG": [
+              241,
+              241
+            ],
+            "UP": [
+              241,
+              241
+            ]
+          },
+          "japanese": "でも、無と有の前には、一も無限も同じ有でしかない。",
+          "japanesePC": "「一と無限は大きく違う。だからベアトは偉い。でも、無と有の前には、一も無限も同じ有でしかない。",
+          "japanesePS3": "でも、無と有の前には、一も無限も同じ有でしかない。",
+          "WH": "\"There's a huge difference between one and infinity.  That's why Beato is so great.  However, compared to the difference between existence and non-existence, one and infinite are nearly the same thing.",
+          "MG": "However, compared to the difference between existence and non-existence, one and infinity are nearly the same thing.",
+          "UP": "But compared to the difference between something and nothing, one and infinity are both just \"something\".",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_6-L0239",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0239"
+            ],
+            "MG": [
+              "umi7_6-L0239"
+            ],
+            "UP": [
+              "umi7_6-L0239"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「一と無限は大きく違う。だからベアトは偉い。でも、無と有の前には、一も無限も同じ有でしかない。私は世界で一番の魔女、うぅん！　世界で一番偉い、造物主になることを約束されていた子…！」「マリアージュ・ソルシエールは、そんな私を温める卵の巣！　私は、右代宮真里亞！！　神と共にある真里亞！！」",
+              "translation": "\"There's a huge difference between one and infinity. That's why Beato is so great. However, compared to the difference between existence and non-existence, one and infinity are nearly the same thing. I am the child destined to become the best witch, ...no... The greatest Creator in the world...!\" \"Mariage Sorcière was the nest to prepare me for that! I am Ushiromiya Maria!! Maria, who stands by God's side!!\" "
+            },
+            "UP": {
+              "japanese": "「一と無限は大きく違う。だからベアトは偉い。でも、無と有の前には、一も無限も同じ有でしかない。私は世界で一番の魔女、うぅん！　世界で一番偉い、造物主になることを約束されていた子…！」「マリアージュ・ソルシエールは、そんな私を温める卵の巣！　私は、右代宮真里亞！！　神と共にある真里亞！！」",
+              "translation": "\"There's a huge difference between one and infinity. That's why Beato is so great. But compared to the difference between something and nothing, one and infinity are both just \"something\". I'm the child destined to become the best witch—no! The greatest Creator in the world...!\" \"Mariage Sorcière was the nest to warm up my egg! I am Ushiromiya Maria!! Maria, who stands by God's side!!\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0239"
+            ],
+            "MG": [
+              "umi7_6-L0239"
+            ],
+            "UP": [
+              "umi7_6-L0239"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Against the distinction between nothing and something, one and infinity are both merely existence. Their numerical difference is acknowledged first.",
+      "alternative": "Nearly the same thing approximates their similarity but removes the exact common category 有, which is the basis for prioritizing creation from nothing over infinite expansion. The source does not claim numerical equality.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-006",
+      "kind": "WH",
+      "description": "A biblical line suggesting her legitimacy becomes a secret reference to her.",
+      "categories": [
+        "linguistic.mistranslation",
+        "character.motivation_emotion",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              250,
+              250
+            ],
+            "MG": [
+              250,
+              250
+            ],
+            "UP": [
+              250,
+              250
+            ]
+          },
+          "japanese": "……偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。",
+          "japanesePC": "父親が存在しないことで、自分の解釈に苦しんだ少女は。......偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。",
+          "japanesePS3": "……偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。",
+          "WH": "She spent so long tormented over how to interpret her lack of a father.  ......Then, by chance, she saw a line in the Bible that looked like it secretly referred to her, and she finally formed an understanding for herself.",
+          "MG": "...Then, by chance, she saw a line in the Bible that looked like it secretly referred to her, and she finally formed an understanding for herself.",
+          "UP": "......Then, by chance, she saw a line in the Bible that seemed to affirm her existence, and she finally formed an understanding of herself.",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_6-L0247",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0247"
+            ],
+            "MG": [
+              "umi7_6-L0247"
+            ],
+            "UP": [
+              "umi7_6-L0247"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "……真里亞が止め処なく語り出すそれは、真里亞のアイデンティティを宇宙と捉えるなら、……まさにビッグバンなのかもしれない。父親が存在しないことで、自分の解釈に苦しんだ少女は。……偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。クラスで自分だけがおかしいと自らを蔑んだ悲しみの少女は、ようやく自分の意味を知ったのだ。その時、無だった真里亞の宇宙は、高温高圧のエネルギー体として生まれた。………それがやがて六軒島で、ベアトリーチェを名乗る、無限の魔女と出会い、……そのエネルギー体をビッグバンさせて、彼女らの魔法大系が誕生した。……それが、マリアージュ・ソルシエールという、宇宙なのだ。",
+              "translation": "...If we liken Maria's sense of identity to a universe, ...then this endless stream of words coming from her might be like the Big Bang. She spent so long tormented over how to interpret her lack of a father. ...Then, by chance, she saw a line in the Bible that looked like it secretly referred to her, and she finally formed an understanding for herself. The sad girl, who had hated herself for being different from all of her classmates, finally found a meaning for her existence. At that moment, Maria's universe, which had once been nothingness, was born as a clump of ultra-hot, ultra-high pressured energy. ...Then, later on, she went to Rokkenjima, met the Endless Witch who called herself Beatrice, ...and the clump of energy exploded in a Big Bang, giving birth to their magical compendium. ...That was the universe known as Mariage Sorcière. "
+            },
+            "UP": {
+              "japanese": "……真里亞が止め処なく語り出すそれは、真里亞のアイデンティティを宇宙と捉えるなら、……まさにビッグバンなのかもしれない。父親が存在しないことで、自分の解釈に苦しんだ少女は。……偶然、聖書の中で、そんな自分に正当性を暗示するような行を見つけ、初めて自己を理解した。クラスで自分だけがおかしいと自らを蔑んだ悲しみの少女は、ようやく自分の意味を知ったのだ。その時、無だった真里亞の宇宙は、高温高圧のエネルギー体として生まれた。………それがやがて六軒島で、ベアトリーチェを名乗る、無限の魔女と出会い、……そのエネルギー体をビッグバンさせて、彼女らの魔法大系が誕生した。……それが、マリアージュ・ソルシエールという、宇宙なのだ。",
+              "translation": "......If we liken Maria's sense of identity to a universe, ......then this endless stream of words coming from her might be like the Big Bang. She spent so long tormented over how to interpret her lack of a father. ......Then, by chance, she saw a line in the Bible that seemed to affirm her existence, and she finally formed an understanding of herself. The sad girl, who had hated herself for being different from all of her classmates, finally found her own meaning. At that moment, Maria's universe, which had once been nothingness, was born as a clump of ultra‐hot, ultra‐high‐pressured energy. .........Then, later on, she went to Rokkenjima, met the Endless Witch who called herself Beatrice, ......and the clump of energy exploded in a Big Bang, giving birth to their joint system of magic. ......That was the universe known as Mariage Sorcière."
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0247"
+            ],
+            "MG": [
+              "umi7_6-L0247"
+            ],
+            "UP": [
+              "umi7_6-L0247"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "By chance Maria finds a biblical line that seems to suggest legitimacy for someone like herself, allowing her to understand herself.",
+      "alternative": "Looked like it secretly referred to her replaces 正当性, legitimacy or validity, with a covert personal reference. The source emphasizes reassurance of her validity, not discovering a hidden reference to her in scripture.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-007",
+      "kind": "WH",
+      "description": "Letting someone eat rainbow candy becomes eating it herself.",
+      "categories": [
+        "linguistic.wrong_subject",
+        "character.agency_responsibility"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              356,
+              356
+            ],
+            "MG": [
+              356,
+              356
+            ],
+            "UP": [
+              356,
+              356
+            ]
+          },
+          "japanese": "それを七色のキャンディに変えて自由にかじらせることも出来た。",
+          "japanesePC": "「かつての妾ならば、空に虹をかけ、それを七色のキャンディーに変えて自由にかじらせることも出来た。しかし今の妾は姿を保つことさえ満足に出来ぬほどに衰えている。」",
+          "japanesePS3": "それを七色のキャンディに変えて自由にかじらせることも出来た。",
+          "WH": "\"In the past, I could have drawn a rainbow in the sky, transformed it into seven colors of candy, and eaten them at my leisure.  However, my power has weakened so much that I cannot even preserve my form as well as I would like.\"",
+          "MG": "transformed it into seven colors of candy, and eaten them at my leisure.",
+          "UP": "transformed it into seven colors of candy, and eaten them at my leisure.",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_6-L0355",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0355"
+            ],
+            "MG": [
+              "umi7_6-L0355"
+            ],
+            "UP": [
+              "umi7_6-L0355"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「かつての妾ならば、空に虹をかけ、それを七色のキャンディに変えて自由にかじらせることも出来た。しかし今の妾は姿を保つことさえ満足に出来ぬほどに衰えている」",
+              "translation": "\"Once, I could have drawn a rainbow in the sky, transformed it into seven colors of candy, and eaten them at my leisure. However, my power has weakened so much that I cannot even preserve my form to my satisfaction.\" "
+            },
+            "UP": {
+              "japanese": "「かつての妾ならば、空に虹をかけ、それを七色のキャンディに変えて自由にかじらせることも出来た。しかし今の妾は姿を保つことさえ満足に出来ぬほどに衰えている」",
+              "translation": "\"In the past, I could have drawn a rainbow in the sky, transformed it into seven colors of candy, and eaten them at my leisure. However, my power has weakened so much that I cannot even preserve my form as well as I would like.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0355"
+            ],
+            "MG": [
+              "umi7_6-L0355"
+            ],
+            "UP": [
+              "umi7_6-L0355"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Beatrice boasts she formerly could make a rainbow into seven-colored candy and let someone freely nibble it.",
+      "alternative": "Eaten them at my leisure makes Beatrice herself the eater. かじらせる is causative: permitting or making another person nibble. It describes magic offered for others’ enjoyment, fitting Maria’s request to witness it.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-008",
+      "kind": "WH",
+      "description": "Certain hypothetical disappearance becomes possible disappearance.",
+      "categories": [
+        "linguistic.undertranslation",
+        "character.voice_state",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              456,
+              456
+            ],
+            "MG": [
+              456,
+              456
+            ],
+            "UP": [
+              456,
+              456
+            ]
+          },
+          "japanese": "「もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。",
+          "japanesePC": "もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。そしたら私は、目の当たりにした魔法の奇跡の証拠を、失うところだった。」",
+          "japanesePS3": "「もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。",
+          "WH": "If I had doubted her more, maybe the candy would've disappeared.  I almost lost the proof of the magical miracle that had happened before my eyes.\"",
+          "MG": "If I'd doubted her more, the candy would've disappeared completely.",
+          "UP": "\"If I had doubted her more, I'm sure the candy would have been completely gone.",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_6-L0453",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0453"
+            ],
+            "MG": [
+              "umi7_6-L0453"
+            ],
+            "UP": [
+              "umi7_6-L0453"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「うん。……でも、その存在を少しだけ疑ったから、飴は溶け掛かっていた。私は彼女を疑いかけたことを後悔したよ」「もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。そしたら私は、目の当たりにした魔法の奇跡の証拠を、失うところだった」",
+              "translation": "\"Yep. ...But I doubted a little, so it was all melty. I regretted almost doubting her. If I'd doubted her more, the candy would've disappeared completely. I almost lost the proof of the magical miracle that had happened before my eyes.\" "
+            },
+            "UP": {
+              "japanese": "「うん。……でも、その存在を少しだけ疑ったから、飴は溶け掛かっていた。私は彼女を疑いかけたことを後悔したよ」「もし、もっと疑っていたら、飴は消えてなくなっていたに違いない。そしたら私は、目の当たりにした魔法の奇跡の証拠を、失うところだった」",
+              "translation": "\"Yep. ......But I doubted a little, so it was half‐melted. I regretted almost doubting her.\" \"If I had doubted her more, I'm sure the candy would have been completely gone. I almost lost the proof of the magical miracle that had happened before my eyes.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0453"
+            ],
+            "MG": [
+              "umi7_6-L0453"
+            ],
+            "UP": [
+              "umi7_6-L0453"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria is certain that had she doubted more, the candy would have disappeared, costing her evidence of the miracle.",
+      "alternative": "Maybe weakens に違いない. The cause remains Maria’s belief, not an objective explanation adopted by the audit; the source confidently states her counterfactual belief.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-009",
+      "kind": "WH",
+      "description": "Tentative caramel identification becomes a definite identification.",
+      "categories": [
+        "linguistic.overinterpretation",
+        "character.knowledge_boundary",
+        "mystery.epistemic_status"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              459,
+              459
+            ],
+            "MG": [
+              459,
+              459
+            ],
+            "UP": [
+              459,
+              459
+            ]
+          },
+          "japanese": "「飴、というよりはキャラメルだったと思う。",
+          "japanesePC": "「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった。」",
+          "japanesePS3": "「飴、というよりはキャラメルだったと思う。",
+          "WH": "\"Yeah, that caramel started melting.  It was all lumpy.\"",
+          "MG": "\"I think it was more of a caramel than a normal candy.",
+          "UP": "\"It wasn't hard, it was......caramel, I think.",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_6-L0459",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0459"
+            ],
+            "MG": [
+              "umi7_6-L0459"
+            ],
+            "UP": [
+              "umi7_6-L0459"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった」",
+              "translation": "\"I think it was more of a caramel than a normal candy. It was all lumpy, just starting to melt.\" "
+            },
+            "UP": {
+              "japanese": "「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった」",
+              "translation": "\"It wasn't hard, it was......caramel, I think. It was half‐melted and squishy.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0459"
+            ],
+            "MG": [
+              "umi7_6-L0459"
+            ],
+            "UP": [
+              "umi7_6-L0459"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria thinks it was caramel rather than candy, and describes it as beginning to melt.",
+      "alternative": "Yeah, that caramel identifies it without the uncertainty in だったと思う or the explicit correction from generic candy. Will’s later caramel reasoning is retained as his reasoning and does not retroactively make Maria’s report certain.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-010",
+      "kind": "WH",
+      "description": "Soft and limp melted candy becomes lumpy candy.",
+      "categories": [
+        "linguistic.word_choice",
+        "world.world_fact",
+        "mystery.physical_constraint"
+      ],
+      "severity": "minor",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              460,
+              460
+            ],
+            "MG": [
+              460,
+              460
+            ],
+            "UP": [
+              460,
+              460
+            ]
+          },
+          "japanese": "溶け掛かって、ぐにゃぐにゃだった」",
+          "japanesePC": "「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった。」",
+          "japanesePS3": "溶け掛かって、ぐにゃぐにゃだった」",
+          "WH": "\"Yeah, that caramel started melting.  It was all lumpy.\"",
+          "MG": "It was all lumpy, just starting to melt.\"",
+          "UP": "It was half‐melted and squishy.\"",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_6-L0459",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0459"
+            ],
+            "MG": [
+              "umi7_6-L0459"
+            ],
+            "UP": [
+              "umi7_6-L0459"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった」",
+              "translation": "\"I think it was more of a caramel than a normal candy. It was all lumpy, just starting to melt.\" "
+            },
+            "UP": {
+              "japanese": "「飴、というよりはキャラメルだったと思う。溶け掛かって、ぐにゃぐにゃだった」",
+              "translation": "\"It wasn't hard, it was......caramel, I think. It was half‐melted and squishy.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0459"
+            ],
+            "MG": [
+              "umi7_6-L0459"
+            ],
+            "UP": [
+              "umi7_6-L0459"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "The melting substance was ぐにゃぐにゃ: soft, limp or deformable.",
+      "alternative": "Lumpy describes an uneven mass or lumps, rather than softness and loss of firm shape. Both may accompany melting, but the English substitutes a different physical property.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-011",
+      "kind": "WH",
+      "description": "Making any trick into magic becomes making any trick possible.",
+      "categories": [
+        "linguistic.undertranslation",
+        "mystery.argument_reconstruction",
+        "mystery.puzzle_mechanism"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG",
+        "UP"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              564,
+              564
+            ],
+            "MG": [
+              564,
+              564
+            ],
+            "UP": [
+              564,
+              564
+            ]
+          },
+          "japanese": "相手が目を閉じてくれれば、どんな手品だって魔法に出来る。",
+          "japanesePC": "相手が目を閉じてくれれば、どんな手品だって魔法に出来る。",
+          "japanesePS3": "相手が目を閉じてくれれば、どんな手品だって魔法に出来る。",
+          "WH": "Any sleight of hand would be possible while she had her eyes closed.",
+          "MG": "Any sleight of hand would be possible while she had her eyes closed.",
+          "UP": "Any sleight of hand would be possible while she had her eyes closed.",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "retained",
+            "UP": "retained"
+          },
+          "readerRef": "umi7_6-L0549",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0549"
+            ],
+            "MG": [
+              "umi7_6-L0549"
+            ],
+            "UP": [
+              "umi7_6-L0549"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "………宇宙を生み出す最少人数は２人。しかし、産むだけなら１人でも出来ると、真里亞は言った。しかし、真里亞は２人目を欲した。１人で産んだ世界を育む２人目を欲したのだ。産んでも育まねば、死んで消えるから？………宇宙を、ベアトリーチェに置き換えてみよう。ベアトリーチェを生み出す最少人数は２人。しかし、産むだけなら１人でも出来る。しかし、その１人は２人目を欲した。自分が産んだベアトリーチェを認める２人目を欲したのだ。その２人目との出会いが、今の真里亞の話なのだ。ベアトリーチェを生み出した１人は、２人目に認めさせようとして、真里亞をその２人目に選んだのだ。古戸ヱリカの心ない推理を待たずとも、ティーカップの魔法は手品だとわかる。反魔法の毒素の話を鵜呑みにした真里亞は、魔法に対し、目を閉じたのだ。相手が目を閉じてくれれば、どんな手品だって魔法に出来る。……魔女との出会いの証といって与えられたキャラメルは、真里亞が少し疑ったため、少し溶けていた。ミルクティーをアイスで飲む季節に、鞄の中にキャラメルを入れっぱなしにすれば溶けるのは当り前だ。純粋過ぎて話を鵜呑みにしやすい少女、右代宮真里亞。魔女の言うところの、反魔法の毒素の極めて薄い彼女の前に、まずベアトリーチェは現れ、己が存在を認めさせた……。",
+              "translation": "...The minimum number of people required to create a universe is two. However, Maria said that even a single person could give birth to a universe. And yet, Maria desired a second person. A second person to nurture the world she had given birth to alone. Because if it was born and not nurtured, it would die and disappear? ...Let's replace the word \"universe\" with \"Beatrice\". The minimum number of people required to create Beatrice is two. However, even a single person could give birth to her. And yet, that single person desired a second person. A second person to acknowledge the Beatrice created by the first person. That meeting with a second person is the scene Maria has just described. The single person who created Beatrice looked for a second person to acknowledge Beatrice... and selected Maria. We don't need Furudo Erika's heartless reasoning to know that the tea cup magic was a sleight of hand. Maria, believing in the story about the anti-magic toxin, would close her eyes whenever magic happened. Any sleight of hand would be possible while she had her eyes closed. ...The caramel Maria had been given as proof of her meeting with a witch had melted a little because Maria had doubted. In a season where one was likely to put ice in their tea, it was only natural for a caramel left in a bag to melt. Ushiromiya Maria, the girl who's too trusting and will accept a story easily... Beatrice appeared first in front of this girl, who had, in the language of witches, very little of the anti-magic toxin... "
+            },
+            "UP": {
+              "japanese": "………宇宙を生み出す最少人数は２人。しかし、産むだけなら１人でも出来ると、真里亞は言った。しかし、真里亞は２人目を欲した。１人で産んだ世界を育む２人目を欲したのだ。産んでも育まねば、死んで消えるから？………宇宙を、ベアトリーチェに置き換えてみよう。ベアトリーチェを生み出す最少人数は２人。しかし、産むだけなら１人でも出来る。しかし、その１人は２人目を欲した。自分が産んだベアトリーチェを認める２人目を欲したのだ。その２人目との出会いが、今の真里亞の話なのだ。ベアトリーチェを生み出した１人は、２人目に認めさせようとして、真里亞をその２人目に選んだのだ。古戸ヱリカの心ない推理を待たずとも、ティーカップの魔法は手品だとわかる。反魔法の毒素の話を鵜呑みにした真里亞は、魔法に対し、目を閉じたのだ。相手が目を閉じてくれれば、どんな手品だって魔法に出来る。……魔女との出会いの証といって与えられたキャラメルは、真里亞が少し疑ったため、少し溶けていた。ミルクティーをアイスで飲む季節に、鞄の中にキャラメルを入れっぱなしにすれば溶けるのは当り前だ。純粋過ぎて話を鵜呑みにしやすい少女、右代宮真里亞。魔女の言うところの、反魔法の毒素の極めて薄い彼女の前に、まずベアトリーチェは現れ、己が存在を認めさせた……。",
+              "translation": "......The minimum number of people required to create a universe is two. However, Maria had said that even a single person could give birth to a universe. And yet, Maria had desired a second person. A second person to nurture the world she had given birth to alone. Because if it was born and not nurtured, it would die and disappear? .........Let's replace the word \"universe\" with \"Beatrice\". The minimum number of people required to create Beatrice is two. However, even a single person could give birth to her. And yet, that single person desired a second person. A second person to acknowledge the Beatrice created by the first person. That meeting with a second person is the scene that Maria has just described. The single person who created Beatrice had looked for a second person to acknowledge Beatrice... and selected Maria. We don't need Furudo Erika's heartless reasoning to know that the tea cup magic was a sleight of hand. Maria, believing in the story about the anti‐magic toxin, would close her eyes whenever magic happened. Any sleight of hand would be possible while she had her eyes closed. ......The caramel Maria had been given as proof of her meeting with a witch had melted a little because Maria had doubted. In a season where one was likely to put ice in their tea, it was only natural for a caramel left in a bag to melt. Ushiromiya Maria, the girl who's too trusting and will accept a story easily. Beatrice appeared first in front of this girl, who had, in the language of witches, very little of the anti‐magic toxin......"
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0549"
+            ],
+            "MG": [
+              "umi7_6-L0549"
+            ],
+            "UP": [
+              "umi7_6-L0549"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "With the other person’s eyes closed, any sleight of hand can be made into magic: concealed manipulation is presented as a magical occurrence.",
+      "alternative": "Any sleight of hand would be possible retains the opportunity for manipulation but omits 魔法に出来る, the transformation in the witness’s perception. The point is not that every conceivable trick physically becomes feasible.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    },
+    {
+      "id": "WH-EP07-CH06-012",
+      "kind": "WH",
+      "description": "Current wishes and resurrection assistance become past activities.",
+      "categories": [
+        "linguistic.tense_aspect",
+        "character.motivation_emotion",
+        "world.space_time_continuity"
+      ],
+      "severity": "moderate",
+      "editions": [
+        "WH",
+        "MG"
+      ],
+      "inherited": true,
+      "contexts": [
+        {
+          "chapter": "umi7_6",
+          "episode": 7,
+          "rows": {
+            "JP": [
+              593,
+              598
+            ],
+            "MG": [
+              593,
+              598
+            ],
+            "UP": [
+              593,
+              598
+            ]
+          },
+          "japanese": "「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。\nだから、ベアトが復活するのに協力してるの」\n「……願いとは何だ」\n「いっぱいある。\nきひひひひひ、内緒」\n「黒き魔女からママを守ってほしい、か」",
+          "japanesePC": "「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。だから、ベアトが復活するのに協力してるの。」",
+          "japanesePS3": "「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。\nだから、ベアトが復活するのに協力してるの」\n「……願いとは何だ」\n「いっぱいある。\nきひひひひひ、内緒」\n「黒き魔女からママを守ってほしい、か」",
+          "WH": "\"I had a lot of things I wanted to ask Beato to grant for me with magic.  So, I helped Beato with her resurrection.\"",
+          "MG": "\"I wished for Beato to grant me a lot of things with magic.\nThat's why I'm helping with her resurrection.\"\n\"...What is it you wished for?\"\n\"Lots and lots.\nKihihihihihi. Not telling.\"\n\"So, you wanted to protect your Mama from the black witch.\"",
+          "UP": "\"I have a lot of things I want to ask Beato to grant for me with magic.\nSo, I'm helping Beato with her resurrection.\"\n\"......What kinds of things?\"\n\"Lots and lots.\nKihihihihihi. Not telling.\"\n\"You want to protect your mama from the black witch, right?\"",
+          "note": "Full continuous three-witness source-first reading and boundary context in durable reports. Reflows281–283,393–394 andMG526–527 checked collectively. UP00115–18 restores story-making action; MG012 repairs present helping594 but past wishes593/595/598 persist. Hostile115, narrow words170, adult-knowledge269, acknowledgment569 recovered560–561/575/582, formal617 and all/other-games628 held conservatively with source evidence and alternatives. No firm independent introductions or proven PC carryovers.",
+          "dispositions": {
+            "MG": "partially_corrected",
+            "UP": "corrected"
+          },
+          "readerRef": "umi7_6-L0593",
+          "readerRefs": {
+            "WH": [
+              "umi7_6-L0593"
+            ],
+            "MG": [
+              "umi7_6-L0593",
+              "umi7_6-L0595",
+              "umi7_6-L0596",
+              "umi7_6-L0598"
+            ],
+            "UP": [
+              "umi7_6-L0593",
+              "umi7_6-L0595",
+              "umi7_6-L0596",
+              "umi7_6-L0598"
+            ]
+          },
+          "findingEvidence": {
+            "MG": {
+              "japanese": "「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。だから、ベアトが復活するのに協力してるの」",
+              "translation": "\"I wished for Beato to grant me a lot of things with magic. That's why I'm helping with her resurrection.\" "
+            },
+            "UP": {
+              "japanese": "「真里亞は、ベアトに魔法で叶えてほしい願いがたくさんあるの。だから、ベアトが復活するのに協力してるの」",
+              "translation": "\"I have a lot of things I want to ask Beato to grant for me with magic. So, I'm helping Beato with her resurrection.\""
+            }
+          },
+          "findingRefs": {
+            "WH": [
+              "umi7_6-L0593"
+            ],
+            "MG": [
+              "umi7_6-L0593"
+            ],
+            "UP": [
+              "umi7_6-L0593"
+            ]
+          }
+        }
+      ],
+      "sourceReading": "Maria has many wishes she wants Beato to fulfill, and is therefore helping Beato’s resurrection.",
+      "alternative": "Had, wanted and helped place both desire and cooperation in the past. This line is back in the interview after the first-meeting recollection; it is not part of that past flashback. The source presents her current reason for cooperating.",
+      "sourceNote": "Original Witch Hunt is compared with the original-PC Japanese embedded in the historical patches. MangaGamer uses the accepted MangaGamer-based Witch Hunt backport, and Umineko Project uses its repository English; both are compared with maintained PS3-derived Japanese. The MangaGamer and PS3 witnesses are not independently certified retail extractions."
+    }
+  ],
+  "phrases": {
+    "WH-EP07-CH06-001": {
+      "umi7_6-L0014": {
+        "WH": [
+          "We're trying to understand where the 'killed' factors in"
+        ],
+        "MG": [
+          "We're trying to understand where the word \"killed\" factors in"
+        ]
+      }
+    },
+    "WH-EP07-CH06-002": {
+      "umi7_6-L0132": {
+        "WH": [
+          "she kept saying that I didn't have a Papa"
+        ],
+        "MG": [
+          "she kept saying that I didn't have a Papa"
+        ],
+        "UP": [
+          "she kept saying that I didn't have a papa"
+        ]
+      }
+    },
+    "WH-EP07-CH06-003": {
+      "umi7_6-L0191": {
+        "WH": [
+          "I asked the priest to say it again. ......He said that the Virgin Maria gave birth to a baby by herself"
+        ],
+        "MG": [
+          "I asked the priest to say it again. ...He said that the Virgin Maria gave birth to a baby by herself"
+        ],
+        "UP": [
+          "I asked the priest to say it again. ......He said that the Virgin Maria gave birth to a baby by herself"
+        ]
+      }
+    },
+    "WH-EP07-CH06-004": {
+      "umi7_6-L0214": {
+        "WH": [
+          "might go along with it as though it were true"
+        ],
+        "MG": [
+          "might go along with it as though it were true"
+        ],
+        "UP": [
+          "might have gone along with it as though it were true"
+        ]
+      }
+    },
+    "WH-EP07-CH06-005": {
+      "umi7_6-L0239": {
+        "WH": [
+          "one and infinite are nearly the same thing"
+        ],
+        "MG": [
+          "one and infinity are nearly the same thing"
+        ]
+      }
+    },
+    "WH-EP07-CH06-006": {
+      "umi7_6-L0247": {
+        "WH": [
+          "looked like it secretly referred to her"
+        ],
+        "MG": [
+          "looked like it secretly referred to her"
+        ]
+      }
+    },
+    "WH-EP07-CH06-007": {
+      "umi7_6-L0355": {
+        "WH": [
+          "eaten them at my leisure"
+        ],
+        "MG": [
+          "eaten them at my leisure"
+        ],
+        "UP": [
+          "eaten them at my leisure"
+        ]
+      }
+    },
+    "WH-EP07-CH06-008": {
+      "umi7_6-L0453": {
+        "WH": [
+          "maybe the candy would've disappeared"
+        ]
+      }
+    },
+    "WH-EP07-CH06-009": {
+      "umi7_6-L0459": {
+        "WH": [
+          "Yeah, that caramel started melting"
+        ]
+      }
+    },
+    "WH-EP07-CH06-010": {
+      "umi7_6-L0459": {
+        "WH": [
+          "all lumpy"
+        ],
+        "MG": [
+          "all lumpy"
+        ]
+      }
+    },
+    "WH-EP07-CH06-011": {
+      "umi7_6-L0549": {
+        "WH": [
+          "Any sleight of hand would be possible while she had her eyes closed"
+        ],
+        "MG": [
+          "Any sleight of hand would be possible while she had her eyes closed"
+        ],
+        "UP": [
+          "Any sleight of hand would be possible while she had her eyes closed"
+        ]
+      }
+    },
+    "WH-EP07-CH06-012": {
+      "umi7_6-L0593": {
+        "WH": [
+          "I had a lot of things I wanted to ask Beato to grant for me with magic",
+          "I helped Beato with her resurrection"
+        ],
+        "MG": [
+          "I wished for Beato to grant me a lot of things with magic"
+        ]
+      }
+    }
+  },
+  "phraseAdditions": [],
+  "phraseNoteCorrections": []
+}

@@ -5,3 +5,10 @@
 .audit-pc-source{border-top:1px solid var(--line);background:#fff9e4}.audit-pc-source>summary{padding:15px 20px;cursor:pointer;color:#806215;font:700 11px/1.6 var(--sans)}
 
 .audit-context.is-corrected .audit-quote.is-translation{background:#f7faf4}.audit-context.is-corrected .audit-disposition b{color:#4f6542}
+
+.audit-finding h4{grid-column:1;margin:0;font:400 21px/1.45 var(--serif);overflow-wrap:anywhere}
+.audit-category-body{border-top:1px solid var(--line)}
+.audit-category-more{display:block;margin:20px auto;padding:12px 20px;border:1px solid var(--line);background:#fffcf5;color:var(--ice-ink);font:700 12px var(--sans);cursor:pointer}
+.audit-category-more:focus-visible{outline:3px solid var(--ice-ink);outline-offset:2px}
+.audit-pagination[hidden],.audit-category-more[hidden]{display:none}
+@media(max-width:640px){.audit-finding h4{font-size:19px}.audit-group>summary{gap:12px;flex-wrap:wrap}.audit-group>summary small{font-size:10px}}

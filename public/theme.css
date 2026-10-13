@@ -16,7 +16,7 @@
   background: linear-gradient(90deg, rgba(17, 13, 8, .93) 0%, rgba(30, 20, 12, .78) 39%, rgba(42, 26, 12, .24) 70%, rgba(31, 19, 8, .12) 100%);
 }
 .hero .button-primary { background: #dfbd76; color: #241b10; }
-.hero h1 { font-size: clamp(54px, 7vw, 96px); letter-spacing: -.055em; line-height: .9; }
+.hero h1 { font-size: clamp(76px, 9.2vw, 138px); letter-spacing: -.055em; line-height: .9; }
 .hero h1 span { white-space: nowrap; }
 .install-section { background: #ffffff; }
 .reader-page { background: var(--paper); }
@@ -29,11 +29,14 @@ a:focus-visible { outline: 3px solid var(--ice-deep); outline-offset: 4px; }
   .hero::after { background: linear-gradient(90deg, rgba(17, 13, 8, .94) 0%, rgba(30, 20, 12, .84) 58%, rgba(31, 19, 8, .38) 100%); }
 }
 @media (max-width: 640px) {
-  .hero h1 { font-size: clamp(34px, 10.8vw, 64px); }
-  /* Keep every navigation link accessible at narrow widths. */
-  .nav, .reader-page .nav { min-height: 74px; flex-direction: column; align-items: flex-start; gap: 8px; padding-block: 16px; }
-  .nav-links, .reader-page .nav-links { flex-wrap: wrap; gap: 0 16px; font-size: 12px; width: 100%; }
-  .nav-links a, .reader-page .nav-links a, .reader-page .nav-links a:last-child { display: block; min-height: 44px; padding-block: 12px; }
+  /* Fit the longer two-line title within the shared mobile shell. */
+  .hero h1 { font-size: clamp(36px, 12vw, 76px); }
+  .nav .wordmark { max-width: none; white-space: nowrap; flex-shrink: 0; line-height: 1.5; }
+  .reader-page .nav-links { gap: 16px; font-size: 12px; }
+}
+@media (max-width: 380px) {
+  .reader-page .wordmark { font-size: 10px; letter-spacing: .08em; }
+  .reader-page .nav-links { gap: 12px; font-size: 11px; }
 }
 
 :root { color-scheme: light; --error: #a43c43; --error-soft: #fff7f7; --error-line: rgba(164,60,67,.48); --surface: #ffffff; }

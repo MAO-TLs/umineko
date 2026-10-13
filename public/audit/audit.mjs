@@ -4,6 +4,14 @@ const EDITION = { 'witch-hunt': 'WH', mangagamer: 'MG', 'umineko-project': 'UP' 
 const PAGE_SIZE = 20;
 const PC_LABEL = 'Material added from original PC script';
 const FAMILY_LABELS = { linguistic: 'Linguistic', mystery: 'Mystery and reasoning', character: 'Character', world: 'World and continuity' };
+export function groupFindings(findings, categories) {
+  return Object.entries(FAMILY_LABELS).map(([id, label]) => {
+    const subcategories = categories.filter(c => c.family === id).map(category => ({
+      ...category, findings: findings.filter(f => f.kind !== 'PC' && f.categories?.includes(category.id))
+    })).filter(c => c.findings.length);
+    return { id, label, count: new Set(subcategories.flatMap(c => c.findings.map(f => f.id))).size, subcategories };
+  });
+}
 export function auditKey(url) {
   const key = url.searchParams.get('script');
   return Object.hasOwn(COMPARISONS, key) ? key : 'witch-hunt';
@@ -81,12 +89,12 @@ if (typeof document !== 'undefined') {
     }
     return card;
   }
-  function findingCard(f, s, open) {
-    const card = el('details', 'audit-finding' + (f.kind === 'PC' ? ' is-pc' : '')); card.id = f.id; card.open = open;
+  function findingCard(f, s, open, domId = f.id) {
+    const card = el('details', 'audit-finding' + (f.kind === 'PC' ? ' is-pc' : '')); card.id = domId; card.open = open;
     const summary = el('summary'), meta = el('div', 'audit-finding-heading');
     meta.append(el('span', 'finding-kind', f.kind === 'PC' ? PC_LABEL : f.inherited && s.script !== 'witch-hunt' ? 'Carried over from Witch Hunt' : 'Confirmed finding'), el('span', '', f.id));
     if (f.severity && f.kind !== 'PC') meta.append(el('span', '', f.severity));
-    summary.append(meta, el('h3', '', f.description)); card.append(summary);
+    summary.append(meta, el('h4', '', f.description)); card.append(summary);
     // Evidence is built on demand, keeping the complete corpus fast to browse.
     let built = false;
     function fill() {
@@ -111,12 +119,50 @@ if (typeof document !== 'undefined') {
     }
     card.addEventListener('toggle', fill); fill(); return card;
   }
+  function renderGroups(list, findings, s, hash) {
+    const groups = groupFindings(findings, data.categories);
+    let target;
+    for (const group of groups) {
+      const family = el('details', 'audit-group'); family.open = true; family.dataset.family = group.id;
+      const heading = el('summary'); heading.append(el('span', '', group.label), el('small', '', number(group.count) + ' findings · ' + group.subcategories.length + ' subcategories'));
+      family.append(heading);
+      const children = el('div', 'audit-dossier-list'); family.append(children);
+      if (!group.count) children.append(el('p', 'audit-empty', 'No findings in this category match the current filters.'));
+      for (const category of group.subcategories) {
+        const section = el('details', 'audit-dossier'); section.id = 'category-' + category.id;
+        const summary = el('summary'), title = el('div');
+        title.append(el('p', 'audit-dossier-count', number(category.findings.length) + (category.findings.length === 1 ? ' confirmed finding' : ' confirmed findings')), el('h3', '', category.label));
+        const toggle = el('span', 'audit-dossier-toggle'); toggle.append(el('span', '', 'Open category'), el('span', '', 'Close category'));
+        summary.append(title, toggle); section.append(summary); children.append(section);
+        const targetIndex = category.findings.findIndex(f => f.id === hash);
+        const selected = targetIndex >= 0 && !target;
+        if (selected) { section.open = true; target = {category: category.id, finding: hash}; }
+        let built = false;
+        const build = () => {
+          if (built || !section.open) return; built = true;
+          const body = el('div', 'audit-category-body'), items = el('div'); body.append(items); section.append(body);
+          let shown = 0;
+          const more = el('button', 'audit-category-more', 'Show more findings'); more.type = 'button';
+          const appendBatch = limit => {
+            for (const f of category.findings.slice(shown, limit)) items.append(findingCard(f, s, selected && f.id === hash, selected && f.id === hash ? f.id : category.id + '--' + f.id));
+            shown = Math.min(limit, category.findings.length);
+            more.hidden = shown >= category.findings.length;
+            more.textContent = 'Show more findings (' + number(category.findings.length - shown) + ' remaining)';
+          };
+          more.addEventListener('click', () => appendBatch(shown + PAGE_SIZE));
+          body.append(more); appendBatch(selected ? Math.max(PAGE_SIZE, targetIndex + 1) : PAGE_SIZE);
+        };
+        section.addEventListener('toggle', build); build();
+      }
+      list.append(family);
+    }
+  }
   function render() {
     const s = state(), key = s.script, edition = EDITION[key]; select.value = key;
     for (const panel of document.querySelectorAll('[data-provenance]')) panel.hidden = panel.dataset.provenance !== key;
     $('audit-scope').textContent = COMPARISONS[key].label + ' · ' + (key === 'witch-hunt' ? 'Original PC' : 'PS3-derived') + ' source comparison';
     $('audit-reader-link').href = readerLink(key);
-    document.title = COMPARISONS[key].label + ' Translation Audit | Umineko no Naku Koro ni | MAO — Preview';
+    document.title = COMPARISONS[key].label + ' Translation Audit | Umineko no Naku Koro ni | MAO';
     if (!data) return;
     const editionFindings = data.findings.filter(f => f.kind !== 'PC' && f.editions?.includes(edition));
     const inherited = editionFindings.filter(f => f.kind === 'WH' || f.inherited).length;
@@ -133,12 +179,14 @@ if (typeof document !== 'undefined') {
     page = anchorIndex >= 0 ? Math.floor(anchorIndex / PAGE_SIZE) + 1 : Math.min(Math.ceil(filtered.length / PAGE_SIZE) || 1, Math.floor(s.page));
     const offset = (page - 1) * PAGE_SIZE, visible = filtered.slice(offset, offset + PAGE_SIZE);
     const list = $('audit-findings'); list.replaceChildren(); list.setAttribute('aria-busy', 'false');
-    for (const f of visible) list.append(findingCard(f, s, f.id === hash));
-    if (!visible.length) list.append(el('p', 'audit-empty', s.view === 'pc' && edition === 'WH' ? 'PC-material notes concern the MangaGamer and Umineko Project adaptations. Select either translation above to view its retained PC material.' : 'No ' + (s.view === 'pc' ? 'PC-material notes' : 'findings') + ' match these filters.'));
-    $('audit-status').textContent = number(filtered.length) + (s.view === 'pc' ? (filtered.length === 1 ? ' PC-material note' : ' PC-material notes') : (filtered.length === 1 ? ' finding' : ' findings')) + (visible.length ? ' · Showing ' + number(offset + 1) + '–' + number(offset + visible.length) : '');
+    if (s.view === 'findings') renderGroups(list, filtered, s, hash);
+    else for (const f of visible) list.append(findingCard(f, s, f.id === hash));
+    if (!visible.length && s.view === 'pc') list.append(el('p', 'audit-empty', edition === 'WH' ? 'PC-material notes concern the MangaGamer and Umineko Project adaptations. Select either translation above to view its retained PC material.' : 'No PC-material notes match these filters.'));
+    $('audit-status').textContent = number(filtered.length) + (s.view === 'pc' ? (filtered.length === 1 ? ' PC-material note' : ' PC-material notes') : (filtered.length === 1 ? ' finding' : ' findings')) + (s.view === 'pc' && visible.length ? ' · Showing ' + number(offset + 1) + '–' + number(offset + visible.length) : '');
     $('audit-view-note').textContent = s.view === 'pc' ? 'Yellow source-edition annotations · Excluded from error totals' : 'Each finding counts once in this translation.';
     $('audit-page-status').textContent = 'Page ' + page + ' of ' + (Math.ceil(filtered.length / PAGE_SIZE) || 1);
     $('audit-previous').disabled = page <= 1; $('audit-next').disabled = offset + PAGE_SIZE >= filtered.length;
+    $('audit-next').closest('nav').hidden = s.view !== 'pc';
     if (anchorIndex >= 0) requestAnimationFrame(() => document.getElementById(hash)?.scrollIntoView({ block: 'start' }));
   }
   function navigate(patch, replace = false, scroll = false) {

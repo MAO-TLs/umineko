@@ -12,12 +12,12 @@
   <link rel="stylesheet" href="../wa2-publication.css" />
   <link rel="stylesheet" href="../mao-publication-template.css" />
   <link rel="stylesheet" href="../mao-reader-template.css" />
-  <link rel="stylesheet" href="../theme.css" />
-  <link rel="stylesheet" href="./audit.css?v=audit-20261013-1" />
+  <link rel="stylesheet" href="../theme.css?v=header-20261013-2" />
+  <link rel="stylesheet" href="./audit.css?v=audit-20261013-2" />
 </head>
 <body>
   <a class="skip-link" href="#audit">Skip to content</a>
-  <main class="reader-page">
+  <main class="reader-page audit-page">
     <header class="reader-header">
       <nav class="nav shell" aria-label="Primary navigation">
         <a class="wordmark" href="https://mao-tls.github.io/">MAO Translations</a>
@@ -28,7 +28,7 @@
           <a href="https://github.com/MAO-TLs">GitHub</a>
         </div>
       </nav>
-      <div class="reader-intro shell">
+      <div class="reader-intro audit-intro shell">
         <p class="eyebrow">Completed story-prose audit</p>
         <h1>Translation audits</h1>
         <p>Source-bound audits of Witch Hunt, Umineko Project, and MangaGamer, with Japanese and English passages side by side.</p>
@@ -72,7 +72,7 @@
         <details class="audit-scope-note"><summary>Audit scope and source witnesses</summary><p>The audit covers story prose across Episodes 1–8, including the Tea Parties. Support scripts, graphics, UI, and runtime behavior are excluded.</p><p>Original Witch Hunt is checked against the original-PC Japanese recovered with the historical patches. MangaGamer and Umineko Project are judged separately against the maintained PS3-derived Japanese. This is not a pristine retail PS3 extraction; the MangaGamer witness is the accepted backport described above.</p><p>Yellow annotations identify <strong>Material added from original PC script</strong>. They have no defect category and never contribute to the error totals.</p></details>
       </section>
       <section class="audit-dossiers" aria-labelledby="findings-title">
-        <div class="audit-dossiers-heading"><p class="eyebrow">Source-bound evidence</p><h2 id="findings-title">Findings and source passages</h2><p class="audit-method-note">Each finding preserves its Japanese evidence, translation, and explanation. Categories group the findings without duplicating their counts.</p></div>
+        <div class="audit-dossiers-heading"><p class="eyebrow">Source-bound evidence</p><h2 id="findings-title">Findings by category</h2><p class="audit-method-note">Four broad categories organize the findings into expandable subcategories. Each finding preserves its Japanese evidence, translation, and explanation. Category counts may overlap; each finding counts only once in the translation’s total.</p></div>
         <form id="audit-filters" class="audit-filters" role="search">
           <div class="control"><label for="audit-view">Show</label><select id="audit-view"><option value="findings">Confirmed findings</option><option value="pc">PC-material notes</option></select></div>
           <div class="control"><label for="audit-category">Category</label><select id="audit-category"><option value="">All categories</option></select></div>
@@ -81,7 +81,7 @@
           <button type="button" id="audit-reset">Reset filters</button>
         </form>
         <div class="audit-results-heading"><p id="audit-status" role="status" aria-live="polite">Loading findings…</p><p id="audit-view-note"></p></div>
-        <div id="audit-findings" aria-busy="true"></div>
+        <div id="audit-findings" class="audit-group-list" aria-busy="true"></div>
         <nav class="audit-pagination" aria-label="Finding pages"><button id="audit-previous" type="button" disabled>← Previous</button><span id="audit-page-status"></span><button id="audit-next" type="button" disabled>Next →</button></nav>
         <noscript><p class="audit-empty">Enable JavaScript to browse the audit findings and source evidence.</p></noscript>
       </section>
@@ -94,6 +94,6 @@
       </div>
     </footer>
   </main>
-  <script type="module" src="./audit.mjs?v=audit-20261013-1"></script>
+  <script type="module" src="./audit.mjs?v=audit-20261013-2"></script>
 </body>
 </html>

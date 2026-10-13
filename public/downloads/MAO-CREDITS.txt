@@ -1,0 +1,12 @@
+MAO Umineko 1.0.0 — Credits
+
+English translation and add-on: MAO Translations
+Original work: Ryukishi07 / 07th Expansion
+PS3 presentation: Alchemist
+PC adaptation and engine: Umineko Project
+
+MAO Umineko is an independent fan translation for Umineko Project.
+The original game’s production credits are retained.
+
+Umineko Project’s script-framework license is included at:
+MAO-third-party-notices/Umineko-Project-LICENSE.txt

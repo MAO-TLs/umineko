@@ -1,0 +1,65 @@
+/* Shared Fate reader geometry comes from the canonical stylesheets. */
+.reader-page .reader-controls { background: rgba(255,255,255,.96); overscroll-behavior: auto; }
+.reader-controls-anchor { height: 0; scroll-margin-top: 16px; }
+#comparison-controls { display: contents; }
+.reader-page .script-picker button { color: var(--ink); }
+.reader-page .scope-options input:checked + span { background: var(--ice-ink); color: #fff; }
+.reader-page .scope-options input:focus-visible + span { outline: 3px solid var(--ice-deep); outline-offset: -3px; }
+.reader-page .script-line { grid-template-columns: 70px repeat(var(--cell-count, 2), minmax(0, 1fr)); }
+.reader-page .script-passage-group { display: grid; grid-template-columns: 70px repeat(3,minmax(0,1fr)); border-bottom: 1px solid var(--line); }
+.reader-page .group-source-passages { grid-column: 1 / 4; min-width: 0; }
+.reader-page .script-passage-group > .line-cell { grid-column: 4; min-width: 0; }
+.reader-page .group-source-passages > .script-line:last-child { border-bottom: 0; }
+.reader-page .concordance-hit > .script-passage-group .line-ref { display: block; }
+.reader-page .line-cell .comparison-missing { color: var(--ink-soft); font: italic 12px/1.7 var(--sans); }
+.reader-page .path-note { grid-column: 1 / -1; padding: 12px 28px; border-bottom: 1px solid var(--line); font: 11px/1.7 var(--sans); color: var(--ink-soft); }
+.reader-page .path-note a { text-decoration: underline; text-underline-offset: 3px; color: var(--blue); }
+.reader-page .witness { display: block; margin-top: 9px; color: var(--ink-soft); font: 10px/1.5 var(--mono); }
+.reader-page .truth-red { color: #b32636; }
+.reader-page .truth-blue { color: #1f5bb2; }
+.reader-page .truth-gold { color: #916613; }
+.reader-page .truth-purple { color: #853da3; }
+.reader-page .centered { text-align: center; }
+.reader-page .concordance-hit > .script-line { grid-template-columns: repeat(var(--cell-count, 2), minmax(0, 1fr)); outline: none; box-shadow: none; }
+.reader-page .concordance-hit > .script-line > .line-ref { display: none; }
+.reader-page .concordance-route-filter { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.reader-page .concordance-route-filter button:nth-child(3n + 1) { border-left: 0; }
+.reader-page .concordance-route-filter button:nth-child(n + 4) { border-top: 1px solid var(--line); }
+.script-status { padding: 24px; color: var(--ink-soft); }
+button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--ice-deep); outline-offset: 2px; }
+@media (max-width: 900px) {
+  .reader-page .script-passage-group { grid-template-columns: 54px minmax(0,1fr); }
+  .reader-page .group-source-passages { grid-column: 1 / -1; }
+  .reader-page .script-passage-group > .line-cell { grid-column: 2; border-top: 1px solid var(--line); }
+  .reader-page .script-line { grid-template-columns: 54px minmax(0, 1fr); }
+  .reader-page .script-line .line-ref { grid-row: auto / span var(--cell-count, 2); }
+  .reader-page .script-line .line-cell { grid-column: 2; }
+  .reader-page .concordance-hit > .script-line { grid-template-columns: 1fr; }
+  .reader-page .concordance-hit > .script-line > .line-cell { grid-column: 1; }
+}
+@media (max-width: 640px) {
+  .reader-page .script-passage-group { grid-template-columns: 42px minmax(0,1fr); }
+  .reader-page .script-line { grid-template-columns: 42px minmax(0, 1fr); }
+  .reader-page .concordance-route-filter { grid-template-columns: 1fr; }
+  .reader-page .path-note { padding-inline: 18px; }
+}
+/* PC restorations are annotations, outside the red defect categories. */
+.reader-page .pc-material-trigger { border-color: #b68d28; background: #f3df923d; }
+.reader-page .pc-material-trigger:hover,
+.reader-page .pc-material-trigger:focus-visible,
+.reader-page .pc-material-trigger[aria-expanded=true] { background: #f3df9280; color: #6d5115; }
+.reader-page .todokanai-error-fallbacks .pc-material-trigger { border-color: #d9bd66; background: #fff8df; color: #725716; }
+.reader-page .pc-material-trigger .todokanai-error-preview,
+.reader-page .pc-material-note { border-color: #d9bd66; }
+.reader-page .pc-material-note { border-left-color: #b68d28; }
+.reader-page .pc-material-trigger .todokanai-error-preview strong,
+.reader-page .pc-material-note .todokanai-error-category { color: #725716; }
+.reader-page .audit-source-label { display: block; margin-top: 14px; color: var(--ink-soft); font: 600 10px/1.5 var(--sans); }
+.reader-page .line-cell .audit-source-text { font-size: 13px; line-height: 1.8; white-space: pre-wrap; margin-top: 5px; }
+.reader-page .audit-finding-link { display: inline-block; margin-top: 12px; color: var(--ice-ink); text-decoration: underline; text-underline-offset: 3px; }
+.reader-page .todokanai-error-note[hidden] { display: none; }
+
+/* A defect in one translation does not mark its neighboring comparator. */
+.reader-page .script-line-error .line-todokanai { background: transparent; }
+.reader-page .script-line-error .line-comparison-error,
+.reader-page .script-passage-group > .line-comparison-error { background: var(--error-soft); }

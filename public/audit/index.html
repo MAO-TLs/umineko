@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#241b10" />
+  <title>Translation Audits | Umineko no Naku Koro ni | MAO</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="../favicon.png" type="image/png" sizes="32x32" />
+  <link rel="shortcut icon" href="../favicon.ico" />
+  <link rel="apple-touch-icon" href="../apple-touch-icon.png" sizes="180x180" />
+  <link rel="stylesheet" href="../wa2-publication.css" />
+  <link rel="stylesheet" href="../mao-publication-template.css" />
+  <link rel="stylesheet" href="../mao-reader-template.css" />
+  <link rel="stylesheet" href="../theme.css" />
+  <link rel="stylesheet" href="./audit.css?v=audit-20261013-1" />
+</head>
+<body>
+  <a class="skip-link" href="#audit">Skip to content</a>
+  <main class="reader-page">
+    <header class="reader-header">
+      <nav class="nav shell" aria-label="Primary navigation">
+        <a class="wordmark" href="https://mao-tls.github.io/">MAO Translations</a>
+        <div class="nav-links">
+          <a href="../">Release</a>
+          <a href="../script/">Script</a>
+          <a href="../audit/" aria-current="page">Audit</a>
+          <a href="https://github.com/MAO-TLs">GitHub</a>
+        </div>
+      </nav>
+      <div class="reader-intro shell">
+        <p class="eyebrow">Completed story-prose audit</p>
+        <h1>Translation audits</h1>
+        <p>Source-bound audits of Witch Hunt, Umineko Project, and MangaGamer, with Japanese and English passages side by side.</p>
+      </div>
+    </header>
+    <div class="audit-shell shell" id="audit">
+      <section class="audit-selection" aria-label="Choose an audit">
+        <form action="./" method="get">
+          <label for="audit-script">Translation</label>
+          <select id="audit-script" name="script" aria-describedby="provenance">
+            <option value="witch-hunt">Witch Hunt</option>
+            <option value="umineko-project">Umineko Project</option>
+            <option value="mangagamer">MangaGamer</option>
+          </select>
+          <button type="submit">View audit</button>
+        </form>
+        <div id="provenance" aria-live="polite">
+          <div data-provenance="witch-hunt">
+            <h2>Witch Hunt · Original PC fan patch</h2>
+            <p>The original fan translation for the Japanese PC releases, before the later commercial revision. Our comparison uses Question Arcs v4.4 and Answer Arcs v4.1, not the newer “Witch Hunt” language pack for Umineko Project. <a href="https://witch-hunt.neocities.org/">Witch Hunt project</a>.</p>
+          </div>
+          <div data-provenance="umineko-project" hidden>
+            <h2>Umineko Project · PS3 adaptation</h2>
+            <p>A separate revision of the original Witch Hunt translation, adapted to the PS3 script, voice acting, and presentation. The team describes restoring selected PC lines where PS3 changes affected the story; it is not an unchanged PC script. <a href="https://www.umineko-project.org/en/english-translation-notes/">Translation notes</a> · <a href="https://forum.umineko-project.org/2/382/censorship/">PC restorations</a>.</p>
+          </div>
+          <div data-provenance="mangagamer" hidden>
+            <h2>MangaGamer · Revised Witch Hunt translation</h2>
+            <p>Witch Hunt’s revised translation for MangaGamer’s official PC release, a different branch from Umineko Project’s revision. The comparison currently shown here is its adaptation for Umineko Project’s PS3-format scripts, not a verified, untouched retail extraction. <a href="https://blog.mangagamer.org/2017/11/06/umineko-when-they-cry-translators-corner/">Translator’s account</a> · <a href="https://www.umineko-project.org/en/downloads/">UP language-pack credits</a>.</p>
+          </div>
+        </div>
+        <noscript><p>Enable JavaScript to switch audits and view each translation’s provenance.</p></noscript>
+      </section>
+      <section class="audit-summary" aria-labelledby="summary-title">
+        <div class="audit-summary-heading"><div><p class="eyebrow">Completed corpus review</p><h2 id="summary-title">What the audit records</h2></div><p id="audit-scope">Witch Hunt · PC script comparison</p></div>
+        <div class="audit-stat-grid">
+          <div><strong id="audit-total">—</strong><span>Confirmed findings</span></div>
+          <div><strong id="audit-inherited">—</strong><span id="audit-inherited-label">Episodes reviewed</span></div>
+          <div><strong id="audit-added">—</strong><span id="audit-added-label">PC-material annotations</span></div>
+        </div>
+        <p class="audit-method-note" id="audit-method">Loading the completed audit…</p>
+        <details class="audit-scope-note"><summary>Audit scope and source witnesses</summary><p>The audit covers story prose across Episodes 1–8, including the Tea Parties. Support scripts, graphics, UI, and runtime behavior are excluded.</p><p>Original Witch Hunt is checked against the original-PC Japanese recovered with the historical patches. MangaGamer and Umineko Project are judged separately against the maintained PS3-derived Japanese. This is not a pristine retail PS3 extraction; the MangaGamer witness is the accepted backport described above.</p><p>Yellow annotations identify <strong>Material added from original PC script</strong>. They have no defect category and never contribute to the error totals.</p></details>
+      </section>
+      <section class="audit-dossiers" aria-labelledby="findings-title">
+        <div class="audit-dossiers-heading"><p class="eyebrow">Source-bound evidence</p><h2 id="findings-title">Findings and source passages</h2><p class="audit-method-note">Each finding preserves its Japanese evidence, translation, and explanation. Categories group the findings without duplicating their counts.</p></div>
+        <form id="audit-filters" class="audit-filters" role="search">
+          <div class="control"><label for="audit-view">Show</label><select id="audit-view"><option value="findings">Confirmed findings</option><option value="pc">PC-material notes</option></select></div>
+          <div class="control"><label for="audit-category">Category</label><select id="audit-category"><option value="">All categories</option></select></div>
+          <div class="control"><label for="audit-episode">Episode</label><select id="audit-episode"><option value="">All episodes</option></select></div>
+          <div class="control audit-search"><label for="audit-query">Search findings</label><input id="audit-query" type="search" placeholder="English, Japanese, or finding ID…" autocomplete="off" /></div>
+          <button type="button" id="audit-reset">Reset filters</button>
+        </form>
+        <div class="audit-results-heading"><p id="audit-status" role="status" aria-live="polite">Loading findings…</p><p id="audit-view-note"></p></div>
+        <div id="audit-findings" aria-busy="true"></div>
+        <nav class="audit-pagination" aria-label="Finding pages"><button id="audit-previous" type="button" disabled>← Previous</button><span id="audit-page-status"></span><button id="audit-next" type="button" disabled>Next →</button></nav>
+        <noscript><p class="audit-empty">Enable JavaScript to browse the audit findings and source evidence.</p></noscript>
+      </section>
+      <a class="back-to-controls" id="audit-reader-link" href="../script/?edition=pc&amp;compare=witch-hunt">Open the script browser →</a>
+    </div>
+    <footer>
+      <div class="shell footer-inner">
+        <p>MAO Translations publishes unofficial, noncommercial fan translations. Original works and trademarks belong to their respective owners.</p>
+        <p>A legally obtained Japanese copy of <em>Umineko no Naku Koro ni</em> is required.</p>
+      </div>
+    </footer>
+  </main>
+  <script type="module" src="./audit.mjs?v=audit-20261013-1"></script>
+</body>
+</html>

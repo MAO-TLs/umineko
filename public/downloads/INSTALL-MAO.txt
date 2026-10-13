@@ -1,0 +1,50 @@
+MAO Umineko 1.0.0 — Installation
+
+You need an existing, working Umineko Project installation. This add-on
+uses its engine and game resources.
+
+1. Close Umineko Project and back up its ons.cfg file. If updating an
+   earlier MAO installation, keep the old archive or back up its MAO files.
+
+2. Extract this ZIP into your Umineko Project game folder—the folder
+   containing en.file. Merge the graphics and video folders with the
+   existing folders. Do not replace those folders wholesale.
+
+3. Open ons.cfg in a plain-text editor. Set its game-script line to:
+
+   game-script=mao-ps3.file
+
+   To start with MAO PC instead, use:
+
+   game-script=mao-pc.file
+
+   Replace the existing game-script line, or add one if it is absent.
+   Keep the rest of the file unchanged.
+
+4. Start Umineko Project normally.
+
+Switching editions
+
+Open System Settings and change Game language to MAO PC or MAO PS3.
+Close settings, then quit and reopen the game to load that edition.
+Both editions use Umineko Project’s PS3 presentation.
+
+Updating
+
+Close the game and extract the newer MAO archive into the same game folder,
+merging folders and replacing the older MAO files. Your existing ons.cfg
+is retained. Keep the previous archive if you want to be able to roll back.
+
+Returning to your previous translation
+
+Restore the previous game-script value in ons.cfg, then restart the game.
+The original Umineko Project language packs are retained.
+
+Removing MAO
+
+First restore your previous game-script value. You can then remove the
+files listed in MAO-addon-manifest.json and that manifest itself. Keep the
+shared graphics and video folders, original game files, ons.cfg and saves.
+To undo an update, restore the previous MAO archive or your backup.
+
+For what is included, see MAO-RELEASE-NOTES.txt.

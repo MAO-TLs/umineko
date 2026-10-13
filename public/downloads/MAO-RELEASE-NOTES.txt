@@ -1,0 +1,35 @@
+MAO Translations proudly presents our biggest project yet: Umineko no Naku Koro ni.
+Welcome, or welcome back, to Rokkenjima.
+
+MAO Umineko 1.0.0
+
+A new English translation of Umineko When They Cry, covering episodes 1–8,
+for Umineko Project.
+
+Choose between two editions:
+
+• MAO PC follows the original PC scenario.
+• MAO PS3 follows the PS3-derived scenario used by Umineko Project.
+
+Both editions use Umineko Project’s visuals, music and Japanese voices.
+Only the main story script changes between them; the translated menus,
+character profiles, TIPS, artwork and subtitles are shared.
+
+This release includes:
+
+• The complete eight-episode story in both editions.
+• An English adaptation of Beatrice’s epitaph and its associated deductions.
+• Translated menus, profiles, TIPS, puzzle evidence and relevant image text.
+• English song and reunion-chorus subtitles.
+• The original PC festival scene in MAO PC.
+
+PS3 voices remain enabled in MAO PC where the scenarios differ. PC-only
+passages without corresponding recordings are unvoiced.
+
+Umineko Project’s additional bonus stories and translation commentary are
+not included. Original game scenery and production credits are retained.
+
+Install over an existing, working Umineko Project installation. See
+INSTALL-MAO.txt for instructions, including switching editions and removal.
+Source and testing details are in MAO-SOURCE-AND-TESTING.txt.
+Credits are in MAO-CREDITS.txt.

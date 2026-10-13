@@ -1,0 +1,34 @@
+MAO Umineko 1.0.0 — Source and testing notes
+
+Text sources
+
+The translation uses Japanese PC text and the maintained PS3-derived
+Japanese script distributed by Umineko Project. The latter is an adapted
+script, rather than a certified transcription of every retail PS3 asset.
+Umineko Project also supplies the engine framework and presentation.
+
+A few supplementary readings remain uncertain. The lyrics for “birth of
+new witch,” “約束” and “霧のピトス” use Japanese transcriptions; some readings
+differ between sources and have not been checked against official lyric
+sheets. One Episode 2 results phrase and the Episode 6 result statuses
+also rely on secondary Japanese transcriptions.
+
+Voices
+
+Both editions retain the PS3 performances. In MAO PC, some spoken lines
+therefore differ from the Japanese PC text underlying the translation.
+PC-only additions without corresponding recordings are unvoiced.
+
+Testing
+
+Both editions passed checks covering all 163 script chapters: manuscript
+text, engine controls, voice calls, text colors, page flow and pack decoding.
+Shared interface content, asset references and file integrity were checked.
+Ending images and overlays were inspected directly. Song subtitle layout
+was checked with offline rendering, and source cue timings were preserved.
+The final ZIP was extracted and its installed files checked against hashes.
+
+Selected screens and routes were checked in-game during development.
+A complete playthrough and direct listening verification of every subtitle
+have not been performed. These checks do not claim exhaustive coverage of
+every scene, screen or configuration.

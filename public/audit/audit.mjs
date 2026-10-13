@@ -3,6 +3,9 @@ import { COMPARISONS } from '../script/editions.mjs?v=audit-20261013-1';
 const EDITION = { 'witch-hunt': 'WH', mangagamer: 'MG', 'umineko-project': 'UP' };
 const PAGE_SIZE = 20;
 const PC_LABEL = 'Material added from original PC script';
+// Final WH adjudication: 20 held candidates plus 3 substantive withdrawals.
+// Excludes duplicate/re-anchored findings and out-of-scope support/graphics work.
+export const WITHHELD_WH = 23;
 const FAMILY_LABELS = { linguistic: 'Linguistic', mystery: 'Mystery and reasoning', character: 'Character', world: 'World and continuity' };
 export function groupFindings(findings, categories) {
   return Object.entries(FAMILY_LABELS).map(([id, label]) => {
@@ -41,7 +44,7 @@ if (typeof document !== 'undefined') {
   const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = String(text); return n; };
   const number = n => Number(n || 0).toLocaleString('en-US');
   let data, categories = new Map(), filtered = [], page = 1, timer;
-  const select = $('audit-script');
+  const translationButtons = document.querySelectorAll('[data-audit-script]');
   function state() {
     const url = new URL(location.href), p = url.searchParams;
     return { script: auditKey(url), view: p.get('view') === 'pc' ? 'pc' : 'findings', category: p.get('category') || '', episode: /^[1-8]$/.test(p.get('episode')) ? p.get('episode') : '', q: p.get('q') || '', page: Math.max(1, Number(p.get('page')) || 1) };
@@ -158,7 +161,9 @@ if (typeof document !== 'undefined') {
     }
   }
   function render() {
-    const s = state(), key = s.script, edition = EDITION[key]; select.value = key;
+    const s = state(), key = s.script, edition = EDITION[key];
+    for (const button of translationButtons) button.setAttribute('aria-pressed', String(button.dataset.auditScript === key));
+    $('audit-title').textContent = COMPARISONS[key].label + ' translation audit';
     for (const panel of document.querySelectorAll('[data-provenance]')) panel.hidden = panel.dataset.provenance !== key;
     $('audit-scope').textContent = COMPARISONS[key].label + ' · ' + (key === 'witch-hunt' ? 'Original PC' : 'PS3-derived') + ' source comparison';
     $('audit-reader-link').href = readerLink(key);
@@ -167,8 +172,8 @@ if (typeof document !== 'undefined') {
     const editionFindings = data.findings.filter(f => f.kind !== 'PC' && f.editions?.includes(edition));
     const inherited = editionFindings.filter(f => f.kind === 'WH' || f.inherited).length;
         $('audit-total').textContent = number(editionFindings.length);
-    $('audit-inherited').textContent = number(edition === 'WH' ? 8 : inherited);
-    $('audit-inherited-label').textContent = edition === 'WH' ? 'Episodes reviewed' : 'Carried over from Witch Hunt';
+    $('audit-inherited').textContent = number(edition === 'WH' ? WITHHELD_WH : inherited);
+    $('audit-inherited-label').textContent = edition === 'WH' ? 'Candidates withheld' : 'Carried over from Witch Hunt';
     $('audit-added').textContent = number(edition === 'WH' ? data.summary.pcNotes : editionFindings.length - inherited);
     $('audit-added-label').textContent = edition === 'WH' ? 'PC-material notes across MG / UP' : 'Additional findings';
     $('audit-method').textContent = edition === 'WH' ? 'Every listed Witch Hunt finding is judged against the original-PC Japanese. MangaGamer and Umineko Project have their own findings and independent judgments in the selector above.' : 'This total includes ' + number(inherited) + ' Witch Hunt findings that remain defective in ' + COMPARISONS[key].label + ', plus ' + number(editionFindings.length - inherited) + ' additional findings. Corrected Witch Hunt errors and yellow PC-material notes are excluded.';
@@ -196,8 +201,9 @@ if (typeof document !== 'undefined') {
     history[replace ? 'replaceState' : 'pushState'](null, '', url); render();
     if (scroll) $('audit-filters').scrollIntoView({ block: 'start' });
   }
-  select.addEventListener('change', () => navigate({ script: select.value }));
-  select.form.addEventListener('submit', e => { e.preventDefault(); navigate({ script: select.value }); });
+  for (const button of translationButtons) button.addEventListener('click', () => {
+    if (button.dataset.auditScript !== state().script) navigate({ script: button.dataset.auditScript });
+  });
   $('audit-filters').addEventListener('submit', e => { e.preventDefault(); clearTimeout(timer); navigate({ q: $('audit-query').value }); });
   $('audit-view').addEventListener('change', () => navigate({ view: $('audit-view').value === 'pc' ? 'pc' : '', category: '' }));
   $('audit-category').addEventListener('change', () => navigate({ category: $('audit-category').value }));

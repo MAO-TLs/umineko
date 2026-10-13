@@ -4,6 +4,23 @@ import { readFile } from 'node:fs/promises';
 import { readState, stateURL, columnsFor, matches, syncReaderSelections } from '../public/script/editions.mjs';
 const index = JSON.parse(await readFile(new URL('../public/data/index.json', import.meta.url)));
 const parse = query => readState(new URL('http://localhost/umineko/script/' + query), index);
+test('Back and Forward restore the search, edition, comparisons and target passage', () => {
+  for (const [edition, compare, errors] of [['pc','witch-hunt','witch-hunt'], ['ps3','both','mangagamer,umineko-project']]) {
+    const search = parse(`?edition=${edition}&script=umi3_17&scope=corpus&q=Summoned+the+dead&compare=${compare}&errors=${errors}`);
+    const context = {...search, scope:'script', q:''};
+    const history = [stateURL('http://localhost/umineko/script/', search), stateURL('http://localhost/umineko/script/', context, 'umi3_17-L1267')];
+    for (const position of [0,1,0,1]) {
+      const restored = readState(history[position], index);
+      assert.deepEqual(restored, position ? context : search);
+      assert.equal(decodeURIComponent(history[position].hash.slice(1)), position ? 'umi3_17-L1267' : '');
+      assert.equal(columnsFor(restored).length, edition === 'pc' ? 3 : 4);
+      const groups = {edition:['pc','ps3'].map(value=>({value})),scope:['script','corpus'].map(value=>({value}))};
+      syncReaderSelections({querySelectorAll:selector=>groups[selector.match(/name="([^"]+)"/)[1]]}, restored);
+      assert.deepEqual(groups.edition.filter(input=>input.checked).map(input=>input.value), [edition]);
+      assert.deepEqual(groups.scope.filter(input=>input.checked).map(input=>input.value), [position ? 'script' : 'corpus']);
+    }
+  }
+});
 test('search-to-context keeps PC/PS3 selections and repairs restored unchecked controls',()=>{
  for(const edition of ['pc','ps3']) {
   const search=parse('?edition='+edition+'&script=umi3_17&scope=corpus&q=Summoned+the+dead');

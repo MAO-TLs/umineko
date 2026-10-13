@@ -3,6 +3,12 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {WITHHELD_WH} from '../public/audit/audit.mjs';
 const read=p=>readFile(new URL('../public/'+p,import.meta.url),'utf8');
+test('audit selector uses the reader scope colors, type and border',async()=>{
+ const css=await read('audit/audit.css');
+ assert.match(css,/\.audit-translation-switch button\[aria-pressed=true\]\{background:var\(--blue\);color:var\(--white\)\}/);
+ assert.match(css,/background:var\(--paper\);color:var\(--ink-soft\);font-size:11px;font-weight:700/);
+ assert.match(css,/\.audit-translation-switch button\+button\{border-left:1px solid var\(--line\)\}/);
+});
 test('translation uses three immediate-switch buttons, without the redundant submit control',async()=>{
  const html=await read('audit/index.html'),js=await read('audit/audit.mjs');
  assert.deepEqual([...html.matchAll(/data-audit-script="([^"]+)"/g)].map(m=>m[1]),['witch-hunt','umineko-project','mangagamer']);

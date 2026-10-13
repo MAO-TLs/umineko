@@ -1,9 +1,24 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { readState, stateURL, columnsFor, matches } from '../public/script/editions.mjs';
+import { readState, stateURL, columnsFor, matches, syncReaderSelections } from '../public/script/editions.mjs';
 const index = JSON.parse(await readFile(new URL('../public/data/index.json', import.meta.url)));
 const parse = query => readState(new URL('http://localhost/umineko/script/' + query), index);
+test('search-to-context keeps PC/PS3 selections and repairs restored unchecked controls',()=>{
+ for(const edition of ['pc','ps3']) {
+  const search=parse('?edition='+edition+'&script=umi3_17&scope=corpus&q=Summoned+the+dead');
+  const context={...search,scope:'script',q:''};
+  const selected=readState(stateURL('http://localhost/umineko/script/',context,'umi3_17-L1267'),index);
+  const groups={edition:['pc','ps3'].map(value=>({value,checked:false,defaultChecked:false})),scope:['script','corpus'].map(value=>({value,checked:false,defaultChecked:false}))};
+  const root={querySelectorAll:selector=>groups[selector.match(/name="([^"]+)"/)[1]]};
+  syncReaderSelections(root,selected);
+  assert.deepEqual(groups.edition.filter(n=>n.checked).map(n=>n.value),[edition]);
+  assert.deepEqual(groups.scope.filter(n=>n.checked).map(n=>n.value),['script']);
+  groups.edition.forEach(n=>{n.checked=false;});
+  syncReaderSelections(root,selected);
+  assert.deepEqual(groups.edition.filter(n=>n.checked&&n.defaultChecked).map(n=>n.value),[edition]);
+ }
+});
 test('default and invalid inputs select a safe paired edition without prototype lookups', () => {
   for (const edition of ['','unknown','__proto__','constructor']) {
     const s = parse('?edition=' + edition + '&compare=invalid');

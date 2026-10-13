@@ -1,4 +1,4 @@
-import { EDITIONS, COMPARISONS, readState, columnsFor, stateURL, matches } from './editions.mjs?v=audit-20261013-1';
+import { EDITIONS, COMPARISONS, readState, columnsFor, stateURL, matches, syncReaderSelections } from './editions.mjs?v=selection-20261013-1';
 import { renderPassage } from './passage.mjs?v=audit-20261013-1';
 import { groupPassages } from './groups.mjs?v=audit-20261013-1';
 import { annotateRows, annotateGroups } from './audit.mjs?v=audit-20261013-1';
@@ -93,8 +93,7 @@ function controls() {
   $('scene').value = meta.id; $('scene').disabled = false;
   const n = index.scripts.indexOf(meta);
   $('previous').disabled = n === 0; $('next').disabled = n === index.scripts.length - 1;
-  document.querySelectorAll('[name="edition"]').forEach(n => { n.checked = n.value === state.script; });
-  document.querySelectorAll('[name="scope"]').forEach(n => { n.checked = n.value === state.scope; });
+  syncReaderSelections(document, state);
   $('search').disabled = false; $('search').value = state.q;
   $('search-label').textContent = state.scope === 'corpus' ? 'Search all ' + index.totals[state.script].toLocaleString() + ' passages' : 'Search this script';
   const selected = columnsFor(state).slice(2).map(c => c.key);
@@ -198,6 +197,17 @@ function chapterChange(chapter) {
   const meta = index.scripts.find(s => s.id === chapter);
   navigate({ chapter, section: meta.episode, q: '', scope: 'script', filter: 'all' });
 }
+// Keep ordinary passage/context jumps in the reader; modified clicks still open normally.
+$('script-results').addEventListener('click', event => {
+  if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || !index) return;
+  const link = event.target.closest('a[href]');
+  if (!link || link.hasAttribute('download') || link.target && link.target !== '_self') return;
+  const url = new URL(link.href, location.href);
+  if (url.origin !== location.origin || url.pathname !== location.pathname || !url.hash) return;
+  let ref; try { ref = decodeURIComponent(url.hash.slice(1)); } catch { return; }
+  event.preventDefault();
+  navigate(readState(url, index), { ref });
+});
 $('episode').onchange = () => chapterChange(index.scripts.find(s => s.episode === Number($('episode').value)).id);
 $('scene').onchange = () => chapterChange($('scene').value);
 for (const [id, delta] of [['previous', -1], ['next', 1]]) $(id).onclick = () => {
@@ -224,6 +234,12 @@ function restore() {
   controls(); render(reference());
 }
 window.addEventListener('popstate', restore);
+// Browser form restoration may run after page/history event handlers.
+const restoreSelections = () => requestAnimationFrame(() => {
+  if (index) syncReaderSelections(document, state);
+});
+window.addEventListener('pageshow', restoreSelections);
+window.addEventListener('popstate', restoreSelections);
 window.addEventListener('hashchange', () => target(reference()));
 json('../data/index.json').then(data => {
   index = data; state = readState(new URL(location.href), index);

@@ -11,6 +11,15 @@ export const COMPARISONS = {
 export function comparisonOptions(edition) {
   return ['none', ...EDITIONS[edition].comparisons, ...(edition === 'ps3' ? ['both'] : [])];
 }
+export function syncReaderSelections(root, state) {
+  for (const [name, value] of [['edition', state.script], ['scope', state.scope]]) {
+    for (const input of root.querySelectorAll('input[name="' + name + '"]')) {
+      const selected = input.value === value;
+      input.defaultChecked = selected;
+      input.checked = selected;
+    }
+  }
+}
 export function normalizeState(edition, compare) {
   const script = Object.hasOwn(EDITIONS, edition) ? edition : 'pc';
   return { script, compare: comparisonOptions(script).includes(compare) ? compare : 'none' };

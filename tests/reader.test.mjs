@@ -4,6 +4,14 @@ import { readFile } from 'node:fs/promises';
 import { readState, stateURL, columnsFor, matches, syncReaderSelections } from '../public/script/editions.mjs';
 const index = JSON.parse(await readFile(new URL('../public/data/index.json', import.meta.url)));
 const parse = query => readState(new URL('http://localhost/umineko/script/' + query), index);
+test('word search rejects embedded names without compacting English or crossing grouped members', () => {
+  assert.equal(matches({enText:'adorable'},'dora'),false);
+  assert.equal(matches({enText:"Dora’s hat"},'dora'),true);
+  assert.equal(matches({enText:'go in'},'gin'),false);
+  assert.equal(matches({jaText:'彼\n女を見た'},'彼女'),true);
+  assert.equal(matches({members:[{enText:'adorable'},{enText:'Dora!'}]},'dora'),true);
+  assert.equal(matches({members:[{enText:'red'},{enText:'door'}]},'red door'),false);
+});
 test('Back and Forward restore the search, edition, comparisons and target passage', () => {
   for (const [edition, compare, errors] of [['pc','witch-hunt','witch-hunt'], ['ps3','both','mangagamer,umineko-project']]) {
     const search = parse(`?edition=${edition}&script=umi3_17&scope=corpus&q=Summoned+the+dead&compare=${compare}&errors=${errors}`);

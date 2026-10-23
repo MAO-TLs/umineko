@@ -1,4 +1,4 @@
-import { EDITIONS, COMPARISONS, readState, columnsFor, stateURL, matches, syncReaderSelections } from './editions.mjs?v=selection-20261013-1';
+import { EDITIONS, COMPARISONS, readState, columnsFor, stateURL, matches, syncReaderSelections } from './editions.mjs?v=word-search-20261023';
 import { renderPassage } from './passage.mjs?v=phrases-20261014-2';
 import { groupPassages } from './groups.mjs?v=audit-20261013-1';
 import { annotateRows, annotateGroups } from './audit.mjs?v=phrases-20261014-2';

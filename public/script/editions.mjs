@@ -1,4 +1,5 @@
 // Edition selects matching own texts, never a fallback from the other edition.
+import { matchesReaderText } from './reader-search.mjs';
 export const EDITIONS = {
   pc: { label: 'PC', japanese: 'pc-ja', mao: 'mao-pc', comparisons: ['witch-hunt'] },
   ps3: { label: 'PS3', japanese: 'ps3-ja', mao: 'mao-ps3', comparisons: ['umineko-project', 'mangagamer'] },
@@ -65,5 +66,5 @@ export function stateURL(url, state, ref = '') {
 export const normalizeSearch = text => String(text || '').normalize('NFKC').toLocaleLowerCase().replace(/\s+/g, '');
 export function matches(row, query) {
   if (row.members) return row.members.some(member => matches(member, query));
-  return normalizeSearch([row.enText, row.jaText, row.speaker, row.speakerJa, row.ref].join(' ')).includes(normalizeSearch(query));
+  return matchesReaderText([row.enText, row.jaText, row.speaker, row.speakerJa, row.ref].join('\u0000'), query);
 }

@@ -73,3 +73,11 @@ a:focus-visible { outline: 3px solid var(--ice-deep); outline-offset: 4px; }
 .audit-selection a { color: var(--ice-ink); text-decoration: underline; text-underline-offset: 3px; }
 .audit-selection [hidden] { display: none; }
 @media (max-width: 640px) { .reader-page .audit-selection { padding: 20px; } .audit-selection label { width: 100%; } }
+
+/* Blur only the artwork, fading continuously through the upper quarter. */
+.hero-backdrop-soft {
+  filter: blur(14px);
+  pointer-events: none;
+  -webkit-mask-image: linear-gradient(to bottom, #000, rgba(0,0,0,.75) 6%, rgba(0,0,0,.35) 13%, rgba(0,0,0,.08) 20%, transparent 25%);
+  mask-image: linear-gradient(to bottom, #000, rgba(0,0,0,.75) 6%, rgba(0,0,0,.35) 13%, rgba(0,0,0,.08) 20%, transparent 25%);
+}

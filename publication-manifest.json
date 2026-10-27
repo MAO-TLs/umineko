@@ -996,7 +996,7 @@
   "public/favicon.ico": "cf1cc8c3ca5489ba7ddd34a908e586f31451c9de26ec2a4fef4be976cc02ffa4",
   "public/favicon.png": "c97d85841140a92f2bc4564e23f001c37c15b4f67fe587cd704e79cddd01d8ef",
   "public/favicon.svg": "6cbfbccc0d2f8cc72ce17f6a0fd02b861416550c151b3383725f59ea66a1515d",
-  "public/index.html": "1548b9735236ff9dcfac731937cc4826d85e9208fba9b4611c217b4949573c41",
+  "public/index.html": "576a46415e56a22fbc367623ef826a238c274d313a7d2ea62be46913a8a130d7",
   "public/install.mjs": "14ee07ff71d52932a1e076cd017ceb0c0e80cfcdbc1f935891b2afd985b080c2",
   "public/mansion-hero.jpg": "ad8368946dc4592d176bc21db5bdee20da08380d6a5f36789c09165726bf7605",
   "public/mao-publication-template.css": "ba5e364b91a96297549ae7c552769af9cff01ae044b15c658e770fd2a55e6d7a",
@@ -1011,7 +1011,7 @@
   "public/script/reader-search.mjs": "ac94fd2ef6dc666e8980f46f1149d6c28b37b1f050085769724a804570992c4e",
   "public/script/reader.css": "006eb29fa3341ecf53943c8fb2eddc1056708001e0dab07e73a0c9c31f587ab6",
   "public/script/reader.mjs": "5570cc4f15b3da241fec5c09e89b32049d2fda5e03a83c0554062c336a9f5a46",
-  "public/theme.css": "9159bd765dc7a6f8ad32936149ae88facc869c293bceb72c9a182763ea394751",
+  "public/theme.css": "56893b54b6af5691af11cddf19ee27424931f04d36597fe9b8766db9a907f583",
   "public/wa2-publication.css": "2c68a035d0f77f5f7b19fd3492798047f0d5c68798dfbf22d677303da64ac0e1",
   "public/wa2-shell.css": "cb08fb81ebd125de83579f59aee55e3b28912bfe4850ce16c73297066e619c55"
 }

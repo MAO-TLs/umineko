@@ -1,3 +1,18 @@
+MAO Umineko 1.0.1 — November 4, 2026
+
+Three recurring passages now retain their established wording when quoted
+again. The correction applies to both MAO PC and MAO PS3. No other prose,
+voice references, game commands, images, or subtitles changed.
+
+To update, extract this add-on over the existing MAO add-on in your Umineko
+Project installation. The same base-game requirements continue to apply.
+
+Both encoded scripts were decoded and verified against the corrected text;
+engine commands and voice references are unchanged. This is not a new full
+playthrough or native runtime certification.
+
+Previous release notes follow.
+----------------------------------------
 MAO Translations proudly presents our biggest project yet: Umineko no Naku Koro ni.
 Welcome, or welcome back, to Rokkenjima.
 

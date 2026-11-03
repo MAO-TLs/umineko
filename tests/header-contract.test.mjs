@@ -24,7 +24,7 @@ test('WH shows documented withheld candidates rather than episode count',async()
 });
 test('script header uses the shared version eyebrow and corpus introduction',async()=>{
  const html=await read('script/index.html');
- assert.match(html,/<p class="eyebrow">Script version v1\.0\.0<\/p>/);
+ assert.match(html,/<p class="eyebrow">Script version v1\.0\.1<\/p>/);
  assert.match(html,/<h1>Script browser<\/h1>/);
  assert.match(html,/Search 49,115 PC passages or 49,553 PS3 passages across 163 scripts/);
  assert.doesNotMatch(html,/Umineko no Naku Koro ni · Read online/);

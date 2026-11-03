@@ -7,7 +7,7 @@ const el = (tag, cls = '', text) => { const n = document.createElement(tag); n.c
 const cache = new Map();
 let index, state, serial = 0, timer, limit = 100, lastHits = [], activeFinding = '';
 async function json(path) {
-  const response = await fetch(path);
+  const response = await fetch(path, {cache: "no-cache"});
   if (!response.ok) throw Error('Could not load the script (' + response.status + ').');
   return response.json();
 }
